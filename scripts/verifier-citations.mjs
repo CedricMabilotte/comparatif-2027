@@ -1,19 +1,14 @@
-// Vérifie que chaque citation figure mot pour mot dans son document source.
-// Une proposition qui échoue n'est pas publiable. Sortie non nulle en cas d'échec.
+// Revérifie chaque citation publiée dans data/corpus.json contre son texte source local.
+// Sortie non nulle si une citation manque ou si un texte source est absent.
 import { readFileSync } from "node:fs";
+import { referentiel, chercher } from "./texte.mjs";
 
-const normaliser = (t) => t.replace(/[’']/g, "'").replace(/\s+/g, " ").trim();
 const corpus = JSON.parse(readFileSync(new URL("../data/corpus.json", import.meta.url)));
-const cache = new Map();
+const docs = new Map(referentiel.documents.map((d) => [d.id, d]));
 let echecs = 0;
-
 for (const p of corpus.propositions) {
-  const fichier = new URL(`../${p.source.fichier}`, import.meta.url);
-  if (!cache.has(p.source.fichier)) cache.set(p.source.fichier, normaliser(readFileSync(fichier, "utf8")));
-  if (!cache.get(p.source.fichier).includes(normaliser(p.citation))) {
-    echecs++;
-    console.error(`ÉCHEC ${p.id} : citation absente de ${p.source.fichier}`);
-  }
+  const r = chercher(docs.get(p.source.document), p.citation);
+  if (!r) { echecs++; console.error(`ÉCHEC ${p.id} : ${r === undefined ? "texte source absent" : "citation absente"} (${p.source.document})`); }
 }
 console.log(`${corpus.propositions.length - echecs}/${corpus.propositions.length} citations vérifiées`);
 process.exit(echecs ? 1 : 0);
