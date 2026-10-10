@@ -41,6 +41,7 @@
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
 body { background: var(--papier); color: var(--encre); font-family: var(--f-texte); font-size: 17px; line-height: 1.5; }
+.page > * { min-width: 0; }
 .page { max-width: 1180px; margin: 0 auto; padding-inline: 20px; padding-block: 20px 48px; display: grid; gap: 20px; }
 .avert { font-family: var(--f-ref); font-size: 12.5px; letter-spacing: .02em; color: var(--encre-douce); border: 1px dashed var(--filet); padding: 8px 12px; border-radius: 6px; }
 .avert strong { color: var(--contre); font-weight: 500; }
@@ -90,6 +91,11 @@ mark { background: var(--accent-doux); color: inherit; border-radius: 2px; paddi
 .lex-liste button[aria-pressed="true"] { border-left-color: var(--accent); background: var(--surface); }
 .lex-liste.longue { max-height: 75vh; overflow-y: auto; padding-right: 4px; }
 .lex-liste button .sous { display: block; font-family: var(--f-ref); font-size: 11px; color: var(--encre-douce); }
+.reglages fieldset { min-width: 0; max-width: 100%; }
+[role="tabpanel"] > * { min-width: 0; max-width: 100%; }
+.reglages > * { min-width: 0; max-width: 100%; }
+.reglages select, .reglages input[type="search"] { max-width: min(100%, 300px); }
+.reglages select { text-overflow: ellipsis; }
 .etiquettes { display: flex; flex-wrap: wrap; gap: 6px; margin: 0; }
 .etiquette { font-family: var(--f-ref); font-size: 11px; letter-spacing: .03em; border: 1px solid var(--filet); border-radius: 999px; padding: 1px 8px; color: var(--encre-douce); }
 .fiche-notion { display: grid; gap: 12px; min-width: 0; }
