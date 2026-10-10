@@ -14,6 +14,10 @@
   --filet: #d9dce4;
   --accent: #3346c8;
   --accent-doux: #e7eafb;
+  --g1: #12808a;
+  --g2: #b0582a;
+  --g3: #7a4fc2;
+  --g4: #5b6b2a;
   --pour: #1f7a52;
   --contre: #b4372f;
   --partage: #8a6d12;
@@ -26,13 +30,13 @@
   :root:not([data-theme="light"]) {
     --papier: #12151c; --surface: #1a1f29; --encre: #e7e9ef; --encre-douce: #9ba3b6;
     --filet: #2c3342; --accent: #8c9bff; --accent-doux: #252c4a;
-    --pour: #5cc196; --contre: #f08a80; --partage: #d9b75a; color-scheme: dark;
+    --g1: #4fc4cc; --g2: #f0985f; --g3: #b896f5; --g4: #b6c76a; --pour: #5cc196; --contre: #f08a80; --partage: #d9b75a; color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --papier: #12151c; --surface: #1a1f29; --encre: #e7e9ef; --encre-douce: #9ba3b6;
   --filet: #2c3342; --accent: #8c9bff; --accent-doux: #252c4a;
-  --pour: #5cc196; --contre: #f08a80; --partage: #d9b75a; color-scheme: dark;
+  --g1: #4fc4cc; --g2: #f0985f; --g3: #b896f5; --g4: #b6c76a; --pour: #5cc196; --contre: #f08a80; --partage: #d9b75a; color-scheme: dark;
 }
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
@@ -139,6 +143,20 @@ textarea { width: 100%; resize: vertical; }
 .apercu { background: var(--papier); border-radius: 8px; padding: 12px; display: grid; place-items: center; }
 .apercu img { max-height: 340px; width: auto; border-radius: 4px; box-shadow: 0 1px 6px color-mix(in srgb, var(--encre) 20%, transparent); }
 a.btn { text-decoration: none; display: inline-block; }
+.champ { font: inherit; font-family: var(--f-texte); font-size: 16px; color: var(--encre); background: var(--papier); border: 1px solid var(--filet); border-radius: 6px; padding: 8px 10px; width: 100%; }
+.consent { display: grid; grid-template-columns: auto 1fr; gap: 8px; font-size: 14px; color: var(--encre-douce); align-items: start; }
+.consent input { margin-top: 4px; accent-color: var(--accent); }
+form.carte .btn { justify-self: start; }
+.carto { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 24px; align-items: start; }
+.nuage { margin: 0; background: var(--surface); border: 1px solid var(--filet); border-radius: 8px; padding: 12px; display: grid; gap: 8px; }
+.nuage svg { width: 100%; height: auto; }
+.c-listes { display: grid; gap: 12px; min-width: 0; }
+.c-liste { display: grid; gap: 10px; }
+.c-item { background: var(--surface); border: 1px solid var(--filet); border-radius: 6px; padding: 10px 12px; display: grid; gap: 6px; font-size: 15.5px; }
+.c-barres { display: flex; gap: 4px; align-items: center; }
+.c-barres span { flex: 1; height: 6px; border-radius: 3px; background: var(--filet); overflow: hidden; }
+.c-barres i { display: block; height: 100%; }
+@media (max-width: 760px) { .carto { grid-template-columns: 1fr; } }
 @media (max-width: 640px) {
   .lex { grid-template-columns: 1fr; }
   .lex-liste { flex-direction: row; flex-wrap: wrap; }
@@ -166,7 +184,9 @@ a.btn { text-decoration: none; display: inline-block; }
     <button role="tab" id="t-vocab" aria-controls="vocab" aria-selected="false">Vocabulaire</button>
     <button role="tab" id="t-partis" aria-controls="partis" aria-selected="false">Partis</button>
     <button role="tab" id="t-aveugle" aria-controls="aveugle" aria-selected="false">À l'aveugle</button>
+    <button role="tab" id="t-consensus" aria-controls="consensus" aria-selected="false">Consensus</button>
     <button role="tab" id="t-quiz" aria-controls="quiz" aria-selected="false">Qui a dit ça ?</button>
+    <button role="tab" id="t-rejoindre" aria-controls="rejoindre" aria-selected="false">Rejoindre</button>
     <button role="tab" id="t-methode" aria-controls="methode" aria-selected="false">Méthode</button>
   </nav>
 
@@ -217,9 +237,61 @@ a.btn { text-decoration: none; display: inline-block; }
     <div class="legende"><span><b style="background:var(--pour)"></b>Pour</span><span><b style="background:var(--partage)"></b>Partagé</span><span><b style="background:var(--contre)"></b>Contre</span></div>
   </section>
 
+  <section role="tabpanel" id="consensus" aria-labelledby="t-consensus" hidden>
+    <p class="aide">Les votants sont regroupés selon leurs votes, sans connaître leur parti. Une idée « rassemble » quand elle obtient l'accord de chaque groupe, pas seulement du plus nombreux.</p>
+    <p class="avert" id="c-avert"><strong>Simulation.</strong> En attendant les vrais votes, la carte s'appuie sur 150 votants simulés, plus vos propres votes à l'aveugle.</p>
+    <div class="carto">
+      <figure class="nuage"><svg id="c-nuage" viewBox="0 0 400 300" role="img" aria-labelledby="c-legende"></svg><figcaption id="c-legende" class="ref"></figcaption></figure>
+      <div class="c-listes">
+        <h2>Ce qui rassemble</h2><div id="c-rassemble" class="c-liste"></div>
+        <h2>Ce qui divise</h2><div id="c-divise" class="c-liste"></div>
+      </div>
+    </div>
+  </section>
+
   <section role="tabpanel" id="quiz" aria-labelledby="t-quiz" hidden>
     <p class="aide">Devinez quelle candidature a écrit chaque proposition. Dix questions.</p>
     <div class="scene" id="scene-quiz"></div>
+  </section>
+
+  <section role="tabpanel" id="rejoindre" aria-labelledby="t-rejoindre" hidden>
+    <p class="aide">Chaque étape est facultative. Vous pouvez voter et jouer sans rien donner ; un compte sert seulement à retrouver vos votes partout et à rejoindre les cercles.</p>
+    <p class="avert" id="r-hors-ligne" hidden><strong>Aperçu.</strong> Les inscriptions ouvriront avec le site. Les formulaires ci-dessous montrent le parcours.</p>
+    <div class="partis">
+      <form class="carte" id="f-lettre" novalidate>
+        <h3>La lettre du dimanche</h3>
+        <p class="def" style="font-style:normal">Le mot de la semaine, les nouvelles fiches, le défi du quiz. Une confirmation par e-mail, désinscription en un clic.</p>
+        <label class="ref" for="l-email">Adresse e-mail</label>
+        <input class="champ" type="email" id="l-email" autocomplete="email" required>
+        <button class="btn principal" type="submit">M'abonner</button>
+        <p class="ref" role="status" id="l-etat"></p>
+      </form>
+      <form class="carte" id="f-compte" novalidate>
+        <h3>Mon compte</h3>
+        <p class="def" style="font-style:normal">Pas de mot de passe : vous recevez un lien de connexion valable 30 minutes.</p>
+        <label class="ref" for="c-email">Adresse e-mail</label>
+        <input class="champ" type="email" id="c-email" autocomplete="email" required>
+        <label class="consent"><input type="checkbox" id="c-consent"> J'accepte que mes votes soient enregistrés. Ils restent séparés de mon adresse, ne sont jamais publiés individuellement et je peux les effacer à tout moment.</label>
+        <button class="btn principal" type="submit">Recevoir mon lien</button>
+        <p class="ref" role="status" id="c-etat"></p>
+      </form>
+      <form class="carte" id="f-profil" novalidate hidden>
+        <h3>Mon profil</h3>
+        <label class="ref" for="pf-pseudo">Pseudonyme public</label>
+        <input class="champ" id="pf-pseudo" maxlength="40">
+        <label class="ref" for="pf-commune">Commune (facultatif, pour trouver un cercle près de chez vous)</label>
+        <input class="champ" id="pf-commune" list="pf-communes" autocomplete="off">
+        <datalist id="pf-communes"></datalist>
+        <button class="btn principal" type="submit">Enregistrer</button>
+        <p class="ref" role="status" id="pf-etat"></p>
+      </form>
+      <article class="carte">
+        <h3>Les cercles</h3>
+        <p class="def" style="font-style:normal">Des groupes de travail ouverts : thématiques pour enrichir le lexique et vérifier les fiches, locaux pour organiser des lectures publiques et des débats à l'aveugle.</p>
+        <ul class="docs" id="r-cercles"></ul>
+        <p class="ref">Discussions sur Matrix (messagerie libre), rencontres sur Mobilizon (événements libres).</p>
+      </article>
+    </div>
   </section>
 
   <section role="tabpanel" id="methode" aria-labelledby="t-methode" hidden>
@@ -262,12 +334,24 @@ a.btn { text-decoration: none; display: inline-block; }
   </div>
 </div>
 
+<script src="consensus.js"></script>
 <script>
 (async function () {
   const $ = (s) => document.querySelector(s);
   const esc = (t) => String(t).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
   const lire = (k, d) => { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } };
   const ecrire = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} };
+
+  // Client de l'API participative. Hors ligne (aperçu, API absente), le site garde tout dans le navigateur.
+  let enLigne = false;
+  async function api(route, donnees) {
+    const r = await fetch(`api/index.php?r=${route}`, donnees === undefined ? { credentials: "same-origin" }
+      : { method: "POST", credentials: "same-origin", headers: { "Content-Type": "application/json" }, body: JSON.stringify(donnees) }).catch(() => null);
+    if (!r || !(r.headers.get("content-type") || "").includes("json")) return null;
+    return { statut: r.status, ...(await r.json().catch(() => ({}))) };
+  }
+  const moi = await api("moi");
+  enLigne = !!moi;
 
   let C;
   try { C = await (await fetch("corpus.json")).json(); }
@@ -370,7 +454,7 @@ a.btn { text-decoration: none; display: inline-block; }
       ${revele ? `<div class="revelation"><p>Vous avez voté <strong>${{ pour: "pour", partage: "partagé", contre: "contre" }[votes[p.id]]}</strong>. Cette proposition vient de <span class="sigle">${esc(cand[p.candidature].sigle)}</span> <strong>${esc(cand[p.candidature].nom)}</strong>.</p><span class="ref">${esc(p.source.titre)} · p. ${p.source.page}</span><div class="choix"><button class="btn principal" id="suivante">Proposition suivante</button><button class="btn" data-partage-aveugle="${p.id}">Faire deviner à quelqu'un</button></div></div>`
       : `<div class="choix"><button class="btn pour" data-v="pour">Pour</button><button class="btn partage" data-v="partage">Partagé</button><button class="btn contre" data-v="contre">Contre</button></div>`}`;
     if (revele) $("#suivante").onclick = () => { fileVote.shift(); dessinerVote(); };
-    else s.querySelectorAll("[data-v]").forEach((b) => b.onclick = () => { votes[p.id] = b.dataset.v; ecrire("votes", votes); dessinerVote(true); dessinerBilan(); });
+    else s.querySelectorAll("[data-v]").forEach((b) => b.onclick = () => { votes[p.id] = b.dataset.v; ecrire("votes", votes); api("vote", { proposition: p.id, valeur: b.dataset.v }); dessinerVote(true); dessinerBilan(); });
   }
   function dessinerBilan() {
     const lignes = C.candidatures.map((c) => {
@@ -410,6 +494,92 @@ a.btn { text-decoration: none; display: inline-block; }
     else s.querySelectorAll("[data-c]").forEach((b) => b.onclick = () => { q.repondu = b.dataset.c; if (q.repondu === p.candidature) q.score++; dessinerQuiz(); });
   }
   nouveauQuiz();
+
+  // Carte des consensus
+  const TRANSVERSALES = ["p003", "p012", "p014", "p017"]; // propositions que la simulation rend populaires partout
+  const COUL = ["var(--g1)", "var(--g2)", "var(--g3)", "var(--g4)"];
+  const SEUIL_REEL = 30; // en dessous, la carte serait trop instable : on reste sur la simulation
+  async function dessinerConsensus() {
+    const items = C.propositions.map((p) => p.id);
+    const reels = enLigne ? (await api("votes"))?.votants ?? [] : [];
+    const simule = reels.length < SEUIL_REEL;
+    $("#c-avert").hidden = !simule;
+    const miens = Object.fromEntries(Object.entries(votes).map(([k, v]) => [k, { pour: 1, partage: 0, contre: -1 }[v]]));
+    let votants, avecMoi;
+    if (simule) {
+      votants = Consensus.simuler(C.propositions, C.candidatures.map((c) => c.id), 150, TRANSVERSALES, 42);
+      avecMoi = Object.keys(miens).length > 0;
+      if (avecMoi) votants.push({ id: "moi", votes: miens });
+    } else {
+      votants = reels.filter((v) => !v.moi).map((v, i) => ({ id: `v${i}`, votes: v.votes }));
+      const reelMoi = reels.find((v) => v.moi);
+      avecMoi = !!reelMoi;
+      if (avecMoi) votants.push({ id: "moi", votes: reelMoi.votes });
+    }
+    const a = Consensus.analyser(votants, items);
+    const xs = a.coords.map((c) => c[0]), ys = a.coords.map((c) => c[1]);
+    const ech = (v, min, max, a0, a1) => a0 + ((v - min) / ((max - min) || 1)) * (a1 - a0);
+    const [x0, x1, y0, y1] = [Math.min(...xs), Math.max(...xs), Math.min(...ys), Math.max(...ys)];
+    let svg = `<rect x="0" y="0" width="400" height="300" fill="var(--surface)"/>`;
+    a.coords.forEach((c, i) => {
+      if (votants[i].id === "moi") return;
+      svg += `<circle cx="${ech(c[0], x0, x1, 20, 380).toFixed(1)}" cy="${ech(c[1], y0, y1, 280, 20).toFixed(1)}" r="4" fill="${COUL[a.groupe[i]]}" fill-opacity=".65"/>`;
+    });
+    if (avecMoi) {
+      const i = votants.length - 1, cx = ech(a.coords[i][0], x0, x1, 20, 380), cy = ech(a.coords[i][1], y0, y1, 280, 20);
+      svg += `<circle cx="${cx.toFixed(1)}" cy="${cy.toFixed(1)}" r="9" fill="none" stroke="var(--encre)" stroke-width="2"/><text x="${(cx + 12).toFixed(1)}" y="${(cy + 4).toFixed(1)}" fill="var(--encre)" font-family="Bricolage Grotesque, sans-serif" font-size="13" font-weight="700">vous</text>`;
+    }
+    $("#c-nuage").innerHTML = svg;
+    $("#c-legende").innerHTML = a.tailles.map((t, g) => `<span style="color:${COUL[g]}">●</span> Groupe ${g + 1} : ${t} votants`).join(" · ") + (avecMoi ? ` · vous êtes dans le groupe ${a.groupe[votants.length - 1] + 1}` : " · votez à l'aveugle pour apparaître sur la carte");
+    const ligne = (it) => {
+      const p = C.propositions.find((x) => x.id === it.id);
+      return `<div class="c-item"><span>« ${esc(p.citation)} »</span><span class="ref"><span class="sigle">${esc(cand[p.candidature].sigle)}</span> accord par groupe :</span>
+        <div class="c-barres">${it.accord.map((v, g) => `<span title="Groupe ${g + 1} : ${Math.round(v * 100)} %"><i style="width:${v * 100}%;background:${COUL[g]}"></i></span>`).join("")}</div></div>`;
+    };
+    $("#c-rassemble").innerHTML = [...a.parItem].sort((x, y) => y.consensus - x.consensus).slice(0, 4).map(ligne).join("");
+    $("#c-divise").innerHTML = [...a.parItem].sort((x, y) => y.division - x.division).slice(0, 3).map(ligne).join("");
+  }
+  dessinerConsensus();
+  $("#t-consensus").addEventListener("click", dessinerConsensus);
+
+  // Rejoindre : lettre, compte par lien magique, profil, cercles
+  const CERCLES = [
+    ["Cercle Lexique", "enrichir les définitions des concepts"],
+    ["Cercle Vérification", "contrôler les citations et signaler les erreurs"],
+    ["Cercles locaux", "organiser des lectures et des débats à l'aveugle près de chez vous"],
+  ];
+  $("#r-cercles").innerHTML = CERCLES.map(([n, d]) => `<li><span>${esc(n)}</span><span class="justif">${esc(d)}</span><span class="ref">Ouverture avec le site</span></li>`).join("");
+  $("#r-hors-ligne").hidden = enLigne;
+  const message = { "#bienvenue": "Vous êtes connecté.", "#connexion-expiree": "Ce lien de connexion a expiré. Demandez-en un nouveau.", "#abonnement-confirme": "Inscription confirmée. À dimanche !", "#lien-expire": "Ce lien a expiré." }[location.hash];
+  if (message) { ouvrir("rejoindre"); $("#c-etat").textContent = message; }
+  if (moi?.connecte) {
+    $("#f-compte").hidden = true; $("#f-profil").hidden = false;
+    $("#pf-pseudo").value = moi.pseudo ?? ""; $("#pf-commune").value = moi.commune?.nom ?? "";
+  }
+  async function soumettre(e, route, donnees, etat, succes) {
+    e.preventDefault();
+    if (!enLigne) { $(etat).textContent = "Les inscriptions ouvriront avec le site."; return; }
+    const r = await api(route, donnees);
+    $(etat).textContent = r?.ok ? succes : r?.erreur ?? "Le service ne répond pas. Réessayez dans un instant.";
+  }
+  $("#f-lettre").addEventListener("submit", (e) => soumettre(e, "abonnement", { email: $("#l-email").value }, "#l-etat", "Vérifiez votre boîte : un e-mail de confirmation vient de partir."));
+  $("#f-compte").addEventListener("submit", (e) => {
+    if (!$("#c-consent").checked) { e.preventDefault(); $("#c-etat").textContent = "Cochez la case pour créer un compte."; return; }
+    soumettre(e, "lien-magique", { email: $("#c-email").value, consentement: true }, "#c-etat", "Lien envoyé. Ouvrez-le depuis votre boîte dans les 30 minutes.");
+  });
+  // Communes : API publique geo.api.gouv.fr (sans clé). Indisponible en aperçu ; le champ reste libre.
+  let communes = [];
+  $("#pf-commune").addEventListener("input", async (e) => {
+    const q = e.target.value.trim(); if (q.length < 2) return;
+    try {
+      communes = await (await fetch(`https://geo.api.gouv.fr/communes?nom=${encodeURIComponent(q)}&fields=code,nom,codesPostaux&limit=8`)).json();
+      $("#pf-communes").innerHTML = communes.map((c) => `<option value="${esc(c.nom)} (${esc(c.codesPostaux?.[0] ?? c.code)})"></option>`).join("");
+    } catch { communes = []; }
+  });
+  $("#f-profil").addEventListener("submit", (e) => {
+    const saisie = $("#pf-commune").value, c = communes.find((x) => saisie.startsWith(x.nom));
+    soumettre(e, "profil", { pseudo: $("#pf-pseudo").value, commune: c ? { insee: c.code, nom: c.nom } : null }, "#pf-etat", "Profil enregistré.");
+  });
 
   // Vocabulaire : comptage des mots réellement employés dans les citations
   const VIDES = new Set("les des une un le la de du et en au aux pour par sur dans avec sans que qui quoi dont où est sont sera seront nous vous ils elles leur leurs son sa ses ce cet cette ces chaque tout toute tous toutes plus moins entre afin ainsi être avoir doit doivent pas ne ni ou mais donc car comme lui elle on se il y à d l qu s n c j m t abord contre très bien aussi déjà".split(" "));
