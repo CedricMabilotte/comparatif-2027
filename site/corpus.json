@@ -9,19 +9,59 @@
       "id": "territoires",
       "nom": "Alliance des Territoires",
       "sigle": "ADT",
-      "fictif": true
+      "fictif": true,
+      "candidat": "Candidate fictive A",
+      "statut_programme": "publie",
+      "presentation": "Mouvement fictif centré sur la nation, les territoires et la production locale."
     },
     {
       "id": "horizon",
       "nom": "Horizon Social",
       "sigle": "HS",
-      "fictif": true
+      "fictif": true,
+      "candidat": "Candidat fictif B",
+      "statut_programme": "attendu",
+      "presentation": "Mouvement fictif centré sur la redistribution, le travail et les services publics."
     },
     {
       "id": "progres",
       "nom": "Union Libérale et Progrès",
       "sigle": "ULP",
-      "fictif": true
+      "fictif": true,
+      "candidat": "Candidate fictive C",
+      "statut_programme": "partiel",
+      "presentation": "Mouvement fictif centré sur la liberté d'entreprendre, la modernisation et l'Europe."
+    }
+  ],
+  "documents": [
+    {
+      "id": "territoires-2027",
+      "candidature": "territoires",
+      "titre": "Programme 2027 : Relever les territoires",
+      "type": "programme",
+      "annee": 2027,
+      "archive": false,
+      "date": "2026-09-15"
+    },
+    {
+      "id": "horizon-2022",
+      "candidature": "horizon",
+      "titre": "Programme présidentiel 2022 : L'horizon en commun",
+      "type": "programme",
+      "annee": 2022,
+      "archive": true,
+      "date": "2022-01-20",
+      "justification": "Programme 2027 annoncé pour janvier 2027. En attendant, les fiches citent le programme 2022."
+    },
+    {
+      "id": "progres-2027",
+      "candidature": "progres",
+      "titre": "Premières propositions 2027 : Libérer, moderniser",
+      "type": "propositions",
+      "annee": 2027,
+      "archive": false,
+      "date": "2026-10-01",
+      "justification": "Document partiel : le programme complet est attendu en février 2027."
     }
   ],
   "themes": [
@@ -88,10 +128,12 @@
       ],
       "citation": "Nous relocaliserons la production industrielle en réservant une part de la commande publique aux entreprises implantées en France.",
       "source": {
-        "titre": "Programme de démonstration — territoires",
-        "fichier": "sources/territoires.txt",
+        "document": "territoires-2027",
+        "titre": "Programme 2027 : Relever les territoires",
+        "fichier": "sources/territoires-2027.txt",
         "page": 2,
-        "date": "2026-10-10"
+        "date": "2026-09-15",
+        "archive": false
       },
       "statut": "demo"
     },
@@ -106,10 +148,12 @@
       ],
       "citation": "Le travail doit payer davantage que l'assistance : nous augmenterons le salaire net en baissant les cotisations sur les bas salaires.",
       "source": {
-        "titre": "Programme de démonstration — territoires",
-        "fichier": "sources/territoires.txt",
+        "document": "territoires-2027",
+        "titre": "Programme 2027 : Relever les territoires",
+        "fichier": "sources/territoires-2027.txt",
         "page": 3,
-        "date": "2026-10-10"
+        "date": "2026-09-15",
+        "archive": false
       },
       "statut": "demo"
     },
@@ -124,10 +168,12 @@
       ],
       "citation": "Chaque bassin de vie disposera d'un guichet unique de l'emploi géré au plus près du terrain.",
       "source": {
-        "titre": "Programme de démonstration — territoires",
-        "fichier": "sources/territoires.txt",
+        "document": "territoires-2027",
+        "titre": "Programme 2027 : Relever les territoires",
+        "fichier": "sources/territoires-2027.txt",
         "page": 1,
-        "date": "2026-10-10"
+        "date": "2026-09-15",
+        "archive": false
       },
       "statut": "demo"
     },
@@ -142,10 +188,12 @@
       ],
       "citation": "Nous rétablirons l'ordre dans chaque quartier par une présence policière visible et permanente.",
       "source": {
-        "titre": "Programme de démonstration — territoires",
-        "fichier": "sources/territoires.txt",
+        "document": "territoires-2027",
+        "titre": "Programme 2027 : Relever les territoires",
+        "fichier": "sources/territoires-2027.txt",
         "page": 2,
-        "date": "2026-10-10"
+        "date": "2026-09-15",
+        "archive": false
       },
       "statut": "demo"
     },
@@ -159,10 +207,12 @@
       ],
       "citation": "Toute peine prononcée sera exécutée, et nous construirons les places de prison nécessaires.",
       "source": {
-        "titre": "Programme de démonstration — territoires",
-        "fichier": "sources/territoires.txt",
+        "document": "territoires-2027",
+        "titre": "Programme 2027 : Relever les territoires",
+        "fichier": "sources/territoires-2027.txt",
         "page": 3,
-        "date": "2026-10-10"
+        "date": "2026-09-15",
+        "archive": false
       },
       "statut": "demo"
     },
@@ -177,10 +227,12 @@
       ],
       "citation": "La sécurité commence aux frontières : nous rétablirons des contrôles nationaux permanents.",
       "source": {
-        "titre": "Programme de démonstration — territoires",
-        "fichier": "sources/territoires.txt",
+        "document": "territoires-2027",
+        "titre": "Programme 2027 : Relever les territoires",
+        "fichier": "sources/territoires-2027.txt",
         "page": 1,
-        "date": "2026-10-10"
+        "date": "2026-09-15",
+        "archive": false
       },
       "statut": "demo"
     },
@@ -195,10 +247,12 @@
       ],
       "citation": "Nous réduirons le temps de travail pour partager l'emploi et garantir à chacun un revenu digne.",
       "source": {
-        "titre": "Programme de démonstration — horizon",
-        "fichier": "sources/horizon.txt",
+        "document": "horizon-2022",
+        "titre": "Programme présidentiel 2022 : L'horizon en commun",
+        "fichier": "sources/horizon-2022.txt",
         "page": 2,
-        "date": "2026-10-10"
+        "date": "2022-01-20",
+        "archive": true
       },
       "statut": "demo"
     },
@@ -213,10 +267,12 @@
       ],
       "citation": "Le salaire minimum sera revalorisé et les écarts de rémunération seront plafonnés dans chaque entreprise.",
       "source": {
-        "titre": "Programme de démonstration — horizon",
-        "fichier": "sources/horizon.txt",
+        "document": "horizon-2022",
+        "titre": "Programme présidentiel 2022 : L'horizon en commun",
+        "fichier": "sources/horizon-2022.txt",
         "page": 3,
-        "date": "2026-10-10"
+        "date": "2022-01-20",
+        "archive": true
       },
       "statut": "demo"
     },
@@ -231,10 +287,12 @@
       ],
       "citation": "Les salariés siégeront à parité dans les conseils d'administration des grandes entreprises.",
       "source": {
-        "titre": "Programme de démonstration — horizon",
-        "fichier": "sources/horizon.txt",
+        "document": "horizon-2022",
+        "titre": "Programme présidentiel 2022 : L'horizon en commun",
+        "fichier": "sources/horizon-2022.txt",
         "page": 1,
-        "date": "2026-10-10"
+        "date": "2022-01-20",
+        "archive": true
       },
       "statut": "demo"
     },
@@ -249,10 +307,12 @@
       ],
       "citation": "La sécurité est d'abord un droit social : nous réinvestirons dans les services publics de proximité.",
       "source": {
-        "titre": "Programme de démonstration — horizon",
-        "fichier": "sources/horizon.txt",
+        "document": "horizon-2022",
+        "titre": "Programme présidentiel 2022 : L'horizon en commun",
+        "fichier": "sources/horizon-2022.txt",
         "page": 2,
-        "date": "2026-10-10"
+        "date": "2022-01-20",
+        "archive": true
       },
       "statut": "demo"
     },
@@ -266,10 +326,12 @@
       ],
       "citation": "Nous développerons les peines alternatives à la prison pour lutter contre la récidive.",
       "source": {
-        "titre": "Programme de démonstration — horizon",
-        "fichier": "sources/horizon.txt",
+        "document": "horizon-2022",
+        "titre": "Programme présidentiel 2022 : L'horizon en commun",
+        "fichier": "sources/horizon-2022.txt",
         "page": 3,
-        "date": "2026-10-10"
+        "date": "2022-01-20",
+        "archive": true
       },
       "statut": "demo"
     },
@@ -284,10 +346,12 @@
       ],
       "citation": "Une police de proximité sera recréée, formée à la prévention et contrôlée par une autorité indépendante.",
       "source": {
-        "titre": "Programme de démonstration — horizon",
-        "fichier": "sources/horizon.txt",
+        "document": "horizon-2022",
+        "titre": "Programme présidentiel 2022 : L'horizon en commun",
+        "fichier": "sources/horizon-2022.txt",
         "page": 1,
-        "date": "2026-10-10"
+        "date": "2022-01-20",
+        "archive": true
       },
       "statut": "demo"
     },
@@ -302,10 +366,12 @@
       ],
       "citation": "Nous simplifierons le droit du travail pour libérer l'embauche dans les petites entreprises.",
       "source": {
-        "titre": "Programme de démonstration — progres",
-        "fichier": "sources/progres.txt",
+        "document": "progres-2027",
+        "titre": "Premières propositions 2027 : Libérer, moderniser",
+        "fichier": "sources/progres-2027.txt",
         "page": 2,
-        "date": "2026-10-10"
+        "date": "2026-10-01",
+        "archive": false
       },
       "statut": "demo"
     },
@@ -320,10 +386,12 @@
       ],
       "citation": "La formation tout au long de la vie deviendra un compte personnel que chacun pilote librement.",
       "source": {
-        "titre": "Programme de démonstration — progres",
-        "fichier": "sources/progres.txt",
+        "document": "progres-2027",
+        "titre": "Premières propositions 2027 : Libérer, moderniser",
+        "fichier": "sources/progres-2027.txt",
         "page": 3,
-        "date": "2026-10-10"
+        "date": "2026-10-01",
+        "archive": false
       },
       "statut": "demo"
     },
@@ -338,10 +406,12 @@
       ],
       "citation": "Le retour à l'emploi sera accompagné par un contrat d'engagement réciproque entre l'allocataire et le service public.",
       "source": {
-        "titre": "Programme de démonstration — progres",
-        "fichier": "sources/progres.txt",
+        "document": "progres-2027",
+        "titre": "Premières propositions 2027 : Libérer, moderniser",
+        "fichier": "sources/progres-2027.txt",
         "page": 1,
-        "date": "2026-10-10"
+        "date": "2026-10-01",
+        "archive": false
       },
       "statut": "demo"
     },
@@ -356,10 +426,12 @@
       ],
       "citation": "Nous équiperons les forces de l'ordre d'outils numériques modernes, dans le respect des libertés publiques.",
       "source": {
-        "titre": "Programme de démonstration — progres",
-        "fichier": "sources/progres.txt",
+        "document": "progres-2027",
+        "titre": "Premières propositions 2027 : Libérer, moderniser",
+        "fichier": "sources/progres-2027.txt",
         "page": 2,
-        "date": "2026-10-10"
+        "date": "2026-10-01",
+        "archive": false
       },
       "statut": "demo"
     },
@@ -373,10 +445,12 @@
       ],
       "citation": "La justice sera rendue plus rapide grâce à la numérisation complète des procédures.",
       "source": {
-        "titre": "Programme de démonstration — progres",
-        "fichier": "sources/progres.txt",
+        "document": "progres-2027",
+        "titre": "Premières propositions 2027 : Libérer, moderniser",
+        "fichier": "sources/progres-2027.txt",
         "page": 3,
-        "date": "2026-10-10"
+        "date": "2026-10-01",
+        "archive": false
       },
       "statut": "demo"
     },
@@ -391,10 +465,12 @@
       ],
       "citation": "La protection des Français passe par une coopération européenne renforcée en matière de police et de renseignement.",
       "source": {
-        "titre": "Programme de démonstration — progres",
-        "fichier": "sources/progres.txt",
+        "document": "progres-2027",
+        "titre": "Premières propositions 2027 : Libérer, moderniser",
+        "fichier": "sources/progres-2027.txt",
         "page": 1,
-        "date": "2026-10-10"
+        "date": "2026-10-01",
+        "archive": false
       },
       "statut": "demo"
     }

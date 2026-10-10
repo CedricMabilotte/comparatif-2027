@@ -1,3 +1,5 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>République des mots</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -33,6 +35,7 @@
   --pour: #5cc196; --contre: #f08a80; --partage: #d9b75a; color-scheme: dark;
 }
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 body { background: var(--papier); color: var(--encre); font-family: var(--f-texte); font-size: 17px; line-height: 1.5; }
 .page { max-width: 1180px; margin: 0 auto; padding-inline: 20px; padding-block: 20px 48px; display: grid; gap: 20px; }
 .avert { font-family: var(--f-ref); font-size: 12.5px; letter-spacing: .02em; color: var(--encre-douce); border: 1px dashed var(--filet); padding: 8px 12px; border-radius: 6px; }
@@ -109,6 +112,33 @@ mark { background: var(--accent-doux); color: inherit; border-radius: 2px; paddi
 .methode p, .methode li { margin: 0; }
 .methode ol { margin: 0; padding-left: 1.2em; display: grid; gap: 6px; }
 section[role="tabpanel"] { display: grid; gap: 16px; }
+.archive { font-family: var(--f-ref); font-size: 11px; color: var(--partage); border: 1px solid var(--partage); border-radius: 4px; padding: 0 5px; margin-left: 6px; }
+.lien-partage { font-family: var(--f-titre); font-size: 12px; background: none; border: 0; color: var(--encre-douce); padding: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 2px; justify-self: start; }
+.lien-partage:hover { color: var(--accent); }
+.recherche { display: flex; gap: 10px; align-items: center; font-family: var(--f-titre); }
+.recherche input, textarea { font: inherit; font-family: var(--f-texte); font-size: 16px; color: var(--encre); background: var(--surface); border: 1px solid var(--filet); border-radius: 6px; padding: 7px 10px; width: min(360px, 70vw); }
+textarea { width: 100%; resize: vertical; }
+.contexte { display: grid; gap: 8px; }
+.ligne-ctx { display: grid; grid-template-columns: minmax(70px, 90px) 1fr; gap: 12px; background: var(--surface); border: 1px solid var(--filet); border-radius: 6px; padding: 10px 12px; font-size: 16px; }
+.matrice.compte td { text-align: right; font-family: var(--f-ref); font-size: 13px; font-variant-numeric: tabular-nums; }
+.matrice.compte td.mot-col { text-align: left; font-family: var(--f-titre); font-size: 14px; }
+.matrice.compte td span.chaleur { display: inline-block; min-width: 28px; padding: 1px 6px; border-radius: 3px; }
+.matrice.compte button.mot { font-size: 13.5px; }
+.partis { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; }
+.etat { font-family: var(--f-ref); font-size: 11.5px; border-radius: 4px; padding: 1px 6px; }
+.etat.publie { color: var(--pour); border: 1px solid var(--pour); }
+.etat.partiel, .etat.attendu { color: var(--partage); border: 1px solid var(--partage); }
+.docs { display: grid; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.docs li { border-left: 2px solid var(--filet); padding-left: 10px; display: grid; gap: 2px; font-size: 15.5px; }
+.docs .justif { font-size: 14px; color: var(--encre-douce); font-style: italic; }
+.mini-titre { font-family: var(--f-titre); font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: var(--encre-douce); margin: 4px 0 0; }
+.voile { position: fixed; inset: 0; background: color-mix(in srgb, var(--encre) 45%, transparent); display: grid; place-items: center; padding: 16px; z-index: 10; }
+.panneau { background: var(--surface); border-radius: 10px; border: 1px solid var(--filet); width: min(640px, 100%); max-height: calc(100% - 32px); overflow: auto; padding: 20px; display: grid; gap: 12px; }
+.panneau-tete { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+.panneau fieldset { border: 0; padding: 0; margin: 0; }
+.apercu { background: var(--papier); border-radius: 8px; padding: 12px; display: grid; place-items: center; }
+.apercu img { max-height: 340px; width: auto; border-radius: 4px; box-shadow: 0 1px 6px color-mix(in srgb, var(--encre) 20%, transparent); }
+a.btn { text-decoration: none; display: inline-block; }
 @media (max-width: 640px) {
   .lex { grid-template-columns: 1fr; }
   .lex-liste { flex-direction: row; flex-wrap: wrap; }
@@ -132,7 +162,9 @@ section[role="tabpanel"] { display: grid; gap: 16px; }
 
   <nav role="tablist" aria-label="Sections">
     <button role="tab" id="t-matrice" aria-controls="matrice" aria-selected="true">Matrice</button>
-    <button role="tab" id="t-lexique" aria-controls="lexique" aria-selected="false">Lexique</button>
+    <button role="tab" id="t-lexique" aria-controls="lexique" aria-selected="false">Concepts</button>
+    <button role="tab" id="t-vocab" aria-controls="vocab" aria-selected="false">Vocabulaire</button>
+    <button role="tab" id="t-partis" aria-controls="partis" aria-selected="false">Partis</button>
     <button role="tab" id="t-aveugle" aria-controls="aveugle" aria-selected="false">À l'aveugle</button>
     <button role="tab" id="t-quiz" aria-controls="quiz" aria-selected="false">Qui a dit ça ?</button>
     <button role="tab" id="t-methode" aria-controls="methode" aria-selected="false">Méthode</button>
@@ -156,6 +188,24 @@ section[role="tabpanel"] { display: grid; gap: 16px; }
       <div class="lex-liste" id="lex-liste"></div>
       <div class="lex-cols" id="lex-cols"></div>
     </div>
+  </section>
+
+  <section role="tabpanel" id="vocab" aria-labelledby="t-vocab" hidden>
+    <p class="aide">Les mots réellement employés dans les textes, comptés par parti. Cherchez un mot pour lire chaque emploi dans sa phrase.</p>
+    <div class="reglages">
+      <label class="recherche" for="v-mot">Mot <input type="search" id="v-mot" placeholder="travail, sécurité, peuple…" autocomplete="off"></label>
+    </div>
+    <div id="v-contexte" class="contexte"></div>
+    <h2>Les mots les plus employés</h2>
+    <div class="table-defile"><table class="matrice compte" id="v-table"></table></div>
+    <h2>Les mots propres à chaque parti</h2>
+    <p class="aide">Mots qu'un parti emploie et que les autres n'emploient pas ou peu.</p>
+    <div class="lex-cols" id="v-propres"></div>
+  </section>
+
+  <section role="tabpanel" id="partis" aria-labelledby="t-partis" hidden>
+    <p class="aide">Une fiche par parti : ses documents de référence, l'état de son programme et ce qui ressort de ses textes. Quand un programme 2027 n'est pas encore publié, le site cite le programme précédent et le signale.</p>
+    <div class="partis" id="p-liste"></div>
   </section>
 
   <section role="tabpanel" id="aveugle" aria-labelledby="t-aveugle" hidden>
@@ -184,10 +234,32 @@ section[role="tabpanel"] { display: grid; gap: 16px; }
         <li>Les résultats s'affichent par proposition, jamais sous forme de classement des candidatures.</li>
         <li>Ce n'est pas un sondage : les votants ne forment pas un échantillon représentatif.</li>
       </ol>
+      <h3>Quand un programme manque</h3>
+      <p>Tant qu'une candidature n'a pas publié son programme 2027, ses fiches citent son programme précédent. Chacune porte alors la mention « archive » avec l'année, et la fiche du parti explique pourquoi.</p>
       <h3>Tout est ouvert</h3>
       <p>Le code, les données et l'historique de chaque modification sont publics. Toute erreur peut être signalée et corrigée en public.</p>
     </div>
   </section>
+</div>
+
+<div class="voile" id="partage" hidden>
+  <div class="panneau" role="dialog" aria-modal="true" aria-labelledby="pt-titre">
+    <div class="panneau-tete"><h2 id="pt-titre">Partager</h2><button class="btn" id="pt-fermer">Fermer</button></div>
+    <fieldset class="reglages" id="pt-formats"><legend>Format de l'image</legend>
+      <label class="puce"><input type="radio" name="fmt" id="fmt-carre" value="carre" checked> Carré · Instagram, Facebook</label>
+      <label class="puce"><input type="radio" name="fmt" id="fmt-paysage" value="paysage"> Paysage · X, Bluesky, LinkedIn</label>
+      <label class="puce"><input type="radio" name="fmt" id="fmt-story" value="story"> Vertical · stories, WhatsApp</label>
+    </fieldset>
+    <div class="apercu"><img id="pt-image" alt="Image à partager"></div>
+    <p class="ref">Clic droit ou appui long sur l'image pour l'enregistrer.</p>
+    <label class="ref" for="pt-texte">Texte</label>
+    <textarea id="pt-texte" rows="4"></textarea>
+    <div class="choix">
+      <button class="btn principal" id="pt-copier">Copier le texte et le lien</button>
+      <span class="ref" id="pt-etat" role="status"></span>
+    </div>
+    <div class="choix" id="pt-reseaux"></div>
+  </div>
 </div>
 
 <script>
@@ -234,9 +306,10 @@ section[role="tabpanel"] { display: grid; gap: 16px; }
   });
   document.querySelectorAll('input[name="axe"]').forEach((r) => r.addEventListener("change", (e) => { etat.axe = e.target.value; dessinerMatrice(); }));
 
+  const archive = (s) => s.archive ? `<span class="archive">archive ${s.date.slice(0, 4)}</span>` : "";
   function ficheHTML(p, avecMots = true) {
     const mots = avecMots ? `<div class="mots">${p.concepts.map((k) => `<button class="mot" data-mot="${k}" data-actif="${etat.mot === k}">${esc(nomConcept[k])}</button>`).join("")}</div>` : "";
-    return `<blockquote class="prop"><p>${esc(p.citation)}</p><span class="ref">${esc(p.source.titre)} · p. ${p.source.page} · ${p.source.date}</span>${mots}</blockquote>`;
+    return `<blockquote class="prop"><p>${esc(p.citation)}</p><span class="ref">${esc(p.source.titre)} · p. ${p.source.page} · ${p.source.date}${archive(p.source)}</span>${mots}<button class="lien-partage" data-partage-prop="${p.id}">Partager</button></blockquote>`;
   }
 
   function dessinerMatrice() {
@@ -294,7 +367,7 @@ section[role="tabpanel"] { display: grid; gap: 16px; }
     const p = fileVote[0];
     s.innerHTML = `<p class="compteur">Proposition ${fait + 1} sur ${C.propositions.length}</p>
       <p class="citation">« ${esc(p.citation)} »</p>
-      ${revele ? `<div class="revelation"><p>Vous avez voté <strong>${{ pour: "pour", partage: "partagé", contre: "contre" }[votes[p.id]]}</strong>. Cette proposition vient de <span class="sigle">${esc(cand[p.candidature].sigle)}</span> <strong>${esc(cand[p.candidature].nom)}</strong>.</p><span class="ref">${esc(p.source.titre)} · p. ${p.source.page}</span><div class="choix"><button class="btn principal" id="suivante">Proposition suivante</button></div></div>`
+      ${revele ? `<div class="revelation"><p>Vous avez voté <strong>${{ pour: "pour", partage: "partagé", contre: "contre" }[votes[p.id]]}</strong>. Cette proposition vient de <span class="sigle">${esc(cand[p.candidature].sigle)}</span> <strong>${esc(cand[p.candidature].nom)}</strong>.</p><span class="ref">${esc(p.source.titre)} · p. ${p.source.page}</span><div class="choix"><button class="btn principal" id="suivante">Proposition suivante</button><button class="btn" data-partage-aveugle="${p.id}">Faire deviner à quelqu'un</button></div></div>`
       : `<div class="choix"><button class="btn pour" data-v="pour">Pour</button><button class="btn partage" data-v="partage">Partagé</button><button class="btn contre" data-v="contre">Contre</button></div>`}`;
     if (revele) $("#suivante").onclick = () => { fileVote.shift(); dessinerVote(); };
     else s.querySelectorAll("[data-v]").forEach((b) => b.onclick = () => { votes[p.id] = b.dataset.v; ecrire("votes", votes); dessinerVote(true); dessinerBilan(); });
@@ -319,8 +392,11 @@ section[role="tabpanel"] { display: grid; gap: 16px; }
     const s = $("#scene-quiz");
     if (q.i >= q.liste.length) {
       const record = Math.max(lire("record", 0), q.score); ecrire("record", record);
-      s.innerHTML = `<p class="compteur">Terminé</p><p class="citation">${q.score} bonne${q.score > 1 ? "s" : ""} réponse${q.score > 1 ? "s" : ""} sur ${q.liste.length}.</p><p class="aide">Votre meilleur score : ${record} / 10.</p><div class="choix"><button class="btn principal" id="rejouer">Rejouer</button></div>`;
-      $("#rejouer").onclick = nouveauQuiz; return;
+      s.innerHTML = `<p class="compteur">Terminé</p><p class="citation">${q.score} bonne${q.score > 1 ? "s" : ""} réponse${q.score > 1 ? "s" : ""} sur ${q.liste.length}.</p><p class="aide">Votre meilleur score : ${record} / 10.</p><div class="choix"><button class="btn principal" id="rejouer">Rejouer</button><button class="btn" id="q-partager">Défier quelqu'un</button></div>`;
+      $("#rejouer").onclick = nouveauQuiz;
+      const sc = q.score, tot = q.liste.length;
+      $("#q-partager").onclick = () => partager({ surtitre: "Qui a dit ça ?", corps: `J'ai reconnu ${sc} propositions sur ${tot}.`, pied: "Saurez-vous deviner quel parti a écrit quoi ?", texte: `J'ai reconnu ${sc}/${tot} propositions au quiz « Qui a dit ça ? ». Saurez-vous faire mieux ?`, ancre: "quiz" });
+      return;
     }
     const p = q.liste[q.i];
     s.innerHTML = `<p class="compteur">Question ${q.i + 1} sur ${q.liste.length} · score ${q.score}</p><p class="citation">« ${esc(p.citation)} »</p>
@@ -334,5 +410,129 @@ section[role="tabpanel"] { display: grid; gap: 16px; }
     else s.querySelectorAll("[data-c]").forEach((b) => b.onclick = () => { q.repondu = b.dataset.c; if (q.repondu === p.candidature) q.score++; dessinerQuiz(); });
   }
   nouveauQuiz();
+
+  // Vocabulaire : comptage des mots réellement employés dans les citations
+  const VIDES = new Set("les des une un le la de du et en au aux pour par sur dans avec sans que qui quoi dont où est sont sera seront nous vous ils elles leur leurs son sa ses ce cet cette ces chaque tout toute tous toutes plus moins entre afin ainsi être avoir doit doivent pas ne ni ou mais donc car comme lui elle on se il y à d l qu s n c j m t abord contre très bien aussi déjà".split(" "));
+  const mots = (t) => t.toLowerCase().replace(/[’']/g, " ").split(/[^a-zàâäçéèêëîïôöûùüÿœæ-]+/).map((m) => m.replace(/^-+|-+$/g, "")).filter((m) => m.length > 2 && !VIDES.has(m));
+  const occ = {}; // mot -> { candidature: n }
+  C.propositions.forEach((p) => mots(p.citation).forEach((m) => { occ[m] ??= {}; occ[m][p.candidature] = (occ[m][p.candidature] ?? 0) + 1; }));
+  const total = (m) => Object.values(occ[m]).reduce((a, b) => a + b, 0);
+  const tri = Object.keys(occ).sort((a, b) => total(b) - total(a) || a.localeCompare(b, "fr"));
+
+  function dessinerVocab() {
+    const top = tri.slice(0, 15), max = Math.max(...top.map(total));
+    $("#v-table").innerHTML = `<thead><tr><th scope="col">Mot</th>${C.candidatures.map((c) => `<th scope="col"><span class="sigle">${esc(c.sigle)}</span></th>`).join("")}<th scope="col">Total</th></tr></thead><tbody>${top.map((m) => `<tr><td class="mot-col"><button class="mot" data-cherche="${esc(m)}">${esc(m)}</button></td>${C.candidatures.map((c) => {
+      const n = occ[m][c.id] ?? 0;
+      return `<td><span class="chaleur" style="background:color-mix(in srgb, var(--accent) ${Math.round((n / max) * 45)}%, transparent)">${n || "·"}</span></td>`;
+    }).join("")}<td>${total(m)}</td></tr>`).join("")}</tbody>`;
+    $("#v-propres").innerHTML = C.candidatures.map((c) => {
+      const propres = tri.filter((m) => (occ[m][c.id] ?? 0) / total(m) >= 0.99).sort((a, b) => occ[b][c.id] - occ[a][c.id]).slice(0, 10);
+      return `<article class="carte"><h3><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</h3><div class="mots">${propres.map((m) => `<button class="mot" data-cherche="${esc(m)}">${esc(m)}</button>`).join("")}</div></article>`;
+    }).join("");
+  }
+  function chercher(m) {
+    m = m.trim().toLowerCase(); $("#v-mot").value = m;
+    if (!m) { $("#v-contexte").innerHTML = ""; return; }
+    const re = new RegExp(`(${m.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}[a-zàâäçéèêëîïôöûùüÿœæ]*)`, "gi");
+    const ps = C.propositions.filter((p) => re.test(p.citation) && !(re.lastIndex = 0));
+    $("#v-contexte").innerHTML = ps.length
+      ? ps.map((p) => `<div class="ligne-ctx"><span class="sigle" style="justify-self:start">${esc(cand[p.candidature].sigle)}</span><span>${esc(p.citation).replace(re, "<mark>$1</mark>")}</span></div>`).join("")
+      : `<p class="vide">Aucun emploi de « ${esc(m)} » dans les textes.</p>`;
+  }
+  $("#v-mot").addEventListener("input", (e) => chercher(e.target.value));
+  $("#vocab").addEventListener("click", (e) => { const b = e.target.closest("[data-cherche]"); if (b) chercher(b.dataset.cherche); });
+  dessinerVocab();
+
+  // Fiches partis
+  const libelleEtat = { publie: "Programme 2027 publié", partiel: "Programme 2027 partiel", attendu: "Programme 2027 attendu" };
+  function dessinerPartis() {
+    $("#p-liste").innerHTML = C.candidatures.map((c) => {
+      const docs = (C.documents ?? []).filter((d) => d.candidature === c.id);
+      const ps = C.propositions.filter((p) => p.candidature === c.id);
+      const parConcept = C.concepts.map((k) => [k, ps.filter((p) => p.concepts.includes(k.id)).length]).filter(([, n]) => n).sort((a, b) => b[1] - a[1]).slice(0, 4);
+      const maxC = Math.max(1, ...parConcept.map(([, n]) => n));
+      const propres = tri.filter((m) => (occ[m][c.id] ?? 0) / total(m) >= 0.99).sort((a, b) => occ[b][c.id] - occ[a][c.id]).slice(0, 6);
+      return `<article class="carte" id="parti-${c.id}">
+        <h3><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</h3>
+        <p class="ref">${esc(c.candidat)} · <span class="etat ${c.statut_programme}">${libelleEtat[c.statut_programme]}</span></p>
+        <p class="def" style="font-style:normal">${esc(c.presentation)}</p>
+        <p class="mini-titre">Documents de référence</p>
+        <ul class="docs">${docs.map((d) => `<li><span>${esc(d.titre)}${d.archive ? `<span class="archive">archive ${d.annee}</span>` : ""}</span><span class="ref">${d.type} · ${d.date}</span>${d.justification ? `<span class="justif">${esc(d.justification)}</span>` : ""}</li>`).join("")}</ul>
+        <p class="mini-titre">Concepts les plus mobilisés</p>
+        ${parConcept.map(([k, n]) => `<div class="jauge"><span>${esc(k.nom)}</span><span>${n}</span><span class="barre" style="grid-column:1/-1"><i style="width:${(n / maxC) * 100}%"></i></span></div>`).join("")}
+        <p class="mini-titre">Mots qui lui sont propres</p>
+        <div class="mots">${propres.map((m) => `<span class="mot">${esc(m)}</span>`).join("")}</div>
+        <p class="ref">${ps.length} propositions sourcées</p>
+        <button class="lien-partage" data-partage-parti="${c.id}">Partager cette fiche</button>
+      </article>`;
+    }).join("");
+  }
+  dessinerPartis();
+
+  // Partage : image générée dans trois formats, texte prêt à coller, liens vers les réseaux
+  const FORMATS = { carre: [1080, 1080], paysage: [1200, 675], story: [1080, 1920] };
+  let aPartager = null;
+  const couleur = (v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+  function lignes(ctx, texte, largeur) {
+    const out = []; let l = "";
+    for (const m of texte.split(" ")) { const t = l ? l + " " + m : m; if (ctx.measureText(t).width > largeur && l) { out.push(l); l = m; } else l = t; }
+    if (l) out.push(l); return out;
+  }
+  function dessinerImage() {
+    const fmt = document.querySelector('input[name="fmt"]:checked').value;
+    const [W, H] = FORMATS[fmt], cv = document.createElement("canvas"); cv.width = W; cv.height = H;
+    const x = cv.getContext("2d"), m = Math.round(W * 0.08);
+    x.fillStyle = "#f4f5f7"; x.fillRect(0, 0, W, H);
+    x.fillStyle = "#3346c8"; x.fillRect(0, 0, W, Math.round(H * 0.012) + 6);
+    x.fillStyle = "#5a6275"; x.font = `500 ${Math.round(W * 0.03)}px "Bricolage Grotesque", sans-serif`;
+    x.fillText(aPartager.surtitre.toUpperCase(), m, m + W * 0.03);
+    let taille = Math.round(W * (fmt === "paysage" ? 0.048 : 0.062)), ls;
+    do { x.font = `400 ${taille}px "Newsreader", Georgia, serif`; ls = lignes(x, aPartager.corps, W - 2 * m); taille -= 2; } while (ls.length * taille * 1.3 > H * 0.55 && taille > 20);
+    x.fillStyle = "#1b2130"; const y0 = (H - ls.length * taille * 1.3) / 2;
+    ls.forEach((l, i) => x.fillText(l, m, y0 + (i + 1) * taille * 1.3));
+    x.fillStyle = "#5a6275"; x.font = `400 ${Math.round(W * 0.026)}px "Newsreader", Georgia, serif`;
+    lignes(x, aPartager.pied, W - 2 * m).forEach((l, i, t) => x.fillText(l, m, H - m - (t.length - 1 - i) * W * 0.035 - W * 0.03));
+    x.fillStyle = "#3346c8"; x.font = `700 ${Math.round(W * 0.03)}px "Bricolage Grotesque", sans-serif`;
+    x.fillText("republique.fr", m, H - m);
+    $("#pt-image").src = cv.toDataURL("image/png");
+  }
+  function partager(objet) {
+    aPartager = objet;
+    const lien = `https://republique.fr/#${objet.ancre}`, t = encodeURIComponent(objet.texte), u = encodeURIComponent(lien), tu = encodeURIComponent(`${objet.texte} ${lien}`);
+    $("#pt-texte").value = `${objet.texte}\n${lien}`;
+    $("#pt-etat").textContent = "";
+    $("#pt-reseaux").innerHTML = [
+      ["Bluesky", `https://bsky.app/intent/compose?text=${tu}`],
+      ["X", `https://twitter.com/intent/tweet?text=${t}&url=${u}`],
+      ["Mastodon", `https://mastodonshare.com/?text=${tu}`],
+      ["Facebook", `https://www.facebook.com/sharer/sharer.php?u=${u}`],
+      ["LinkedIn", `https://www.linkedin.com/sharing/share-offsite/?url=${u}`],
+      ["WhatsApp", `https://wa.me/?text=${tu}`],
+      ["Telegram", `https://t.me/share/url?url=${u}&text=${t}`],
+    ].map(([n, h]) => `<a class="btn" href="${h}" target="_blank" rel="noopener">${n}</a>`).join("");
+    $("#partage").hidden = false; dessinerImage(); $("#pt-fermer").focus();
+  }
+  document.querySelectorAll('input[name="fmt"]').forEach((r) => r.addEventListener("change", dessinerImage));
+  const fermer = () => { $("#partage").hidden = true; };
+  $("#pt-fermer").onclick = fermer;
+  $("#partage").addEventListener("click", (e) => { if (e.target.id === "partage") fermer(); });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !$("#partage").hidden) fermer(); });
+  $("#pt-copier").onclick = async () => {
+    try { await navigator.clipboard.writeText($("#pt-texte").value); $("#pt-etat").textContent = "Copié."; }
+    catch { $("#pt-texte").select(); $("#pt-etat").textContent = "Texte sélectionné : copiez-le avec Ctrl+C."; }
+  };
+  document.addEventListener("click", (e) => {
+    const b = e.target.closest("[data-partage-prop],[data-partage-aveugle],[data-partage-parti]"); if (!b) return;
+    if (b.dataset.partageProp) {
+      const p = C.propositions.find((x) => x.id === b.dataset.partageProp), c = cand[p.candidature];
+      partager({ surtitre: `${c.nom} · ${nomConcept[p.concepts[0]]}`, corps: `« ${p.citation} »`, pied: `${p.source.titre}, p. ${p.source.page}`, texte: `« ${p.citation} » (${c.nom})`, ancre: "matrice" });
+    } else if (b.dataset.partageAveugle) {
+      const p = C.propositions.find((x) => x.id === b.dataset.partageAveugle);
+      partager({ surtitre: "Pour ou contre ?", corps: `« ${p.citation} »`, pied: "Devinez quel parti l'a proposé, puis votez à l'aveugle.", texte: `Pour ou contre ? « ${p.citation} » Devinez quel parti l'a proposé.`, ancre: "aveugle" });
+    } else {
+      const c = cand[b.dataset.partageParti];
+      partager({ surtitre: "Fiche parti", corps: `${c.nom} : ${c.presentation}`, pied: libelleEtat[c.statut_programme], texte: `${c.nom} : ses documents, ses concepts, ses mots.`, ancre: "partis" });
+    }
+  });
 })();
 </script>

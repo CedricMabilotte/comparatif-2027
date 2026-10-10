@@ -7,7 +7,10 @@ Comparatif participatif des programmes, des concepts et du vocabulaire des candi
 ## Ce que fait le site
 
 - **Matrice** : thèmes ou concepts en lignes, candidatures choisies en colonnes, chaque case remplie de citations sourcées.
-- **Lexique** : pour chaque concept (travail, sécurité, peuple…), ce que chaque candidature met derrière le mot.
+- **Concepts** : pour chaque concept (travail, sécurité, peuple…), ce que chaque candidature met derrière le mot.
+- **Vocabulaire** : les mots réellement employés, comptés par parti, avec leurs phrases.
+- **Partis** : une fiche par parti avec ses documents de référence ; programme précédent cité en archive tant que le 2027 manque.
+- **Partage** : image en trois formats (carré, paysage, vertical), texte prêt à coller, liens vers Bluesky, X, Mastodon, Facebook, LinkedIn, WhatsApp, Telegram.
 - **À l'aveugle** : on juge une proposition sans savoir de qui elle vient ; l'auteur est révélé après le vote.
 - **Qui a dit ça ?** : un quiz pour deviner quelle candidature a écrit quoi.
 
