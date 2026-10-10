@@ -77,8 +77,8 @@ table.matrice { border-collapse: collapse; width: 100%; min-width: 640px; }
 .vide { color: var(--encre-douce); font-style: italic; font-size: 15px; }
 blockquote.prop { margin: 0; display: grid; gap: 5px; }
 blockquote.prop p { margin: 0; font-size: 16px; }
-blockquote.prop p::before { content: "« "; color: var(--encre-douce); }
-blockquote.prop p::after { content: " »"; color: var(--encre-douce); }
+blockquote.prop p:not(.intitule)::before { content: "« "; color: var(--encre-douce); }
+blockquote.prop p:not(.intitule)::after { content: " »"; color: var(--encre-douce); }
 .ref { font-family: var(--f-ref); font-size: 11.5px; color: var(--encre-douce); }
 .mots { display: flex; flex-wrap: wrap; gap: 4px; }
 .mot { font-family: var(--f-titre); font-size: 12px; color: var(--accent); background: var(--accent-doux); border: 0; border-radius: 4px; padding: 1px 7px; cursor: pointer; }
@@ -403,7 +403,7 @@ form.carte .btn { justify-self: start; }
   });
   document.querySelectorAll('input[name="axe"]').forEach((r) => r.addEventListener("change", (e) => { etat.axe = e.target.value; dessinerMatrice(); }));
 
-  const archive = (s) => s.archive ? `<span class="archive">archive ${s.date.slice(0, 4)}</span>` : "";
+  const archive = (s) => s.archive ? `<span class="archive">archive ${s.millesime ?? s.date.slice(0, 4)}</span>` : "";
   const page = (s) => s.page ? `p. ${s.page}` : "page web";
   const refHTML = (s) => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.titre)}</a> · ${page(s)} · ${s.date}${archive(s)}`;
   function ficheHTML(p, avecMots = true) {
@@ -680,9 +680,9 @@ form.carte .btn { justify-self: start; }
       return `<article class="carte" id="parti-${c.id}">
         <h3><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</h3>
         <p class="ref">${esc(c.candidat)} · <span class="etat ${c.statut_programme}">${libelleEtat[c.statut_programme]}</span></p>
-        <p class="def" style="font-style:normal">${esc(c.famille)} · candidature : ${esc(c.statut_candidat)}</p>
+        <p class="def" style="font-style:normal">${esc(c.famille[0].toUpperCase() + c.famille.slice(1))}. Candidature : ${esc(c.statut_candidat)}.</p>
         <p class="mini-titre">Documents de référence</p>
-        <ul class="docs">${docs.map((d) => `<li><span><a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.titre)}</a>${d.archive ? `<span class="archive">archive ${d.date.slice(0, 4)}</span>` : ""}</span><span class="ref">${d.type} · ${d.date} · ${d.citations} citation${d.citations > 1 ? "s" : ""}</span>${d.justification ? `<span class="justif">${esc(d.justification)}</span>` : ""}</li>`).join("")}</ul>
+        <ul class="docs">${docs.map((d) => `<li><span><a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.titre)}</a>${d.archive ? `<span class="archive">archive ${d.millesime ?? d.date.slice(0, 4)}</span>` : ""}</span><span class="ref">${d.type} · ${d.date} · ${d.citations} citation${d.citations > 1 ? "s" : ""}</span>${d.justification ? `<span class="justif">${esc(d.justification)}</span>` : ""}</li>`).join("")}</ul>
         <p class="mini-titre">Concepts les plus mobilisés</p>
         ${parConcept.map(([k, n]) => `<div class="jauge"><span>${esc(k.nom)}</span><span>${n}</span><span class="barre" style="grid-column:1/-1"><i style="width:${(n / maxC) * 100}%"></i></span></div>`).join("")}
         <p class="mini-titre">Mots qui lui sont propres</p>

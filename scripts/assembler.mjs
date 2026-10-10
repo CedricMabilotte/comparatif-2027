@@ -43,7 +43,7 @@ for (const e of extraits) {
     citation: reparer(e.citation),
     // Texte exact de la source, gardé quand l'affichage a été réparé, pour pouvoir revérifier.
     ...(reparer(e.citation) !== e.citation.replace(/\s+/g, " ").trim() ? { citation_source: e.citation } : {}),
-    source: { document: doc.id, titre: doc.titre, url: doc.url, page: r.page, date: doc.date, archive: doc.archive },
+    source: { document: doc.id, titre: doc.titre, url: doc.url, page: r.page, date: doc.date, archive: doc.archive, ...(doc.millesime ? { millesime: doc.millesime } : {}) },
     statut: "verifie",
   });
 }
