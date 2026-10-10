@@ -510,7 +510,7 @@ form.carte .btn { justify-self: start; }
     if (typeof f === "string") return `<p class="def">${esc(f)}</p>`;
     const appuis = (f.appuis || []).map((id) => parId[id]).filter(Boolean);
     return `<span class="lecture">Lecture éditoriale</span><p class="def">${esc(f.texte)}</p>`
-      + (appuis.length ? `<p class="ref">Appuis : ${appuis.map((p) => `« ${esc(p.citation.length > 90 ? p.citation.slice(0, 90) + "…" : p.citation)} »`).join(" ; ")}</p>` : "");
+      + (appuis.length ? `<p class="ref">Appuis : ${appuis.map((p) => `« ${esc(p.citation.length > 90 ? p.citation.slice(0, 90) + "…" : p.citation)} »${archive(p.source)}`).join(" ; ")}</p>` : "");
   }
   function dessinerLexique() {
     $("#lex-liste").innerHTML = C.concepts.map((k) => {
