@@ -37,6 +37,17 @@ for (const e of extraits) {
   });
 }
 
+// Corrections de relecture (data/corrections.json) : { "<id>": { theme?, concepts?, intitule?, exclure? } }.
+const corrections = lire("data/corrections.json", {});
+for (let i = propositions.length - 1; i >= 0; i--) {
+  const p = propositions[i], c = corrections[p.id];
+  if (!c) continue;
+  if (c.exclure) { propositions.splice(i, 1); continue; }
+  if (c.theme && themes.has(c.theme)) p.theme = c.theme;
+  if (c.concepts) p.concepts = c.concepts.filter((k) => concepts.has(k));
+  if (c.intitule) p.intitule = c.intitule;
+}
+
 // Le lexique ne garde que les appuis qui existent dans le corpus.
 const ids = new Set(propositions.map((p) => p.id));
 const lexique = lire("data/lexique.json", {});
