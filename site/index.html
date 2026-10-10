@@ -69,6 +69,11 @@ table.matrice { border-collapse: collapse; width: 100%; min-width: 640px; }
 .matrice tbody th { font-family: var(--f-titre); font-weight: 500; font-size: 15px; width: 150px; background: var(--papier); }
 .matrice tr:last-child td, .matrice tr:last-child th { border-bottom: 0; }
 .cellule { display: grid; gap: 12px; }
+.intitule { font-family: var(--f-titre); font-size: 14px; font-weight: 600; margin: 0; }
+.plus { font-family: var(--f-titre); font-size: 13px; background: none; border: 1px solid var(--filet); border-radius: 6px; padding: 4px 8px; color: var(--accent); cursor: pointer; justify-self: start; }
+.compte-cellule { font-family: var(--f-ref); font-size: 11.5px; color: var(--encre-douce); }
+.lecture { font-family: var(--f-ref); font-size: 10.5px; letter-spacing: .04em; text-transform: uppercase; color: var(--encre-douce); }
+.reglages input[type="search"], .reglages select { font: inherit; font-family: var(--f-titre); font-size: 14px; color: var(--encre); background: var(--surface); border: 1px solid var(--filet); border-radius: 6px; padding: 5px 8px; max-width: 100%; }
 .vide { color: var(--encre-douce); font-style: italic; font-size: 15px; }
 blockquote.prop { margin: 0; display: grid; gap: 5px; }
 blockquote.prop p { margin: 0; font-size: 16px; }
@@ -172,7 +177,7 @@ form.carte .btn { justify-self: start; }
 </style>
 
 <div class="page">
-  <p class="avert" id="avert"><strong>Prototype.</strong> Les candidatures et citations ci-dessous sont fictives et servent à éprouver les mécanismes. Aucun parti réel n'est représenté.</p>
+  <p class="avert" id="avert"><strong>Bêta.</strong> Corpus relevé dans les documents écrits officiels des huit principales formations, en cours de relecture. Chaque citation est vérifiée mot pour mot dans sa source ; signalez toute erreur via l'onglet Rejoindre.</p>
   <header>
     <h1>République des mots <em>2027</em></h1>
     <p class="chapo">Lire les programmes côte à côte, voir ce que chaque camp met derrière les mêmes mots, et juger les idées avant de savoir de qui elles viennent.</p>
@@ -197,6 +202,10 @@ form.carte .btn { justify-self: start; }
       <fieldset id="f-axe"><legend>Lignes</legend>
         <label class="puce"><input type="radio" name="axe" id="axe-themes" value="themes" checked> Thèmes</label>
         <label class="puce"><input type="radio" name="axe" id="axe-concepts" value="concepts"> Concepts</label>
+      </fieldset>
+      <fieldset id="f-filtre"><legend>Filtrer</legend>
+        <select id="m-ligne" aria-label="Ligne affichée"><option value="">Toutes les lignes</option></select>
+        <input type="search" id="m-texte" placeholder="Un mot dans les propositions" aria-label="Filtrer les propositions par un mot">
       </fieldset>
     </div>
     <div class="table-defile"><table class="matrice" id="tab-matrice"></table></div>
@@ -297,9 +306,13 @@ form.carte .btn { justify-self: start; }
   <section role="tabpanel" id="methode" aria-labelledby="t-methode" hidden>
     <div class="methode">
       <h3>Une proposition, une citation</h3>
-      <p>Chaque fiche reproduit mot pour mot une phrase d'un document publié par la candidature, avec le titre du document, la page et la date. Un script vérifie à chaque mise à jour que la citation figure bien dans la source. Une fiche qui échoue n'est pas publiée.</p>
+      <p>Chaque fiche reproduit mot pour mot un passage d'un document publié par la formation, avec un lien vers le document, la page et la date. Un script vérifie à chaque mise à jour que la citation figure bien dans le texte source. Une fiche qui échoue n'est pas publiée. Le court intitulé en gras résume la mesure ; seule la citation fait foi.</p>
+      <h3>Des sources écrites et officielles</h3>
+      <p>On ne retient que des documents écrits publiés par les formations : programmes, livrets thématiques, professions de foi. Pas de discours ni d'interviews, plus difficiles à vérifier. Les huit formations sont celles des huit candidatures les plus hautes dans les sondages de septembre 2026. L'objectif est l'exhaustivité : toutes les mesures concrètes des documents lus, pas une sélection.</p>
       <h3>La même grille pour tous</h3>
-      <p>Les thèmes et les concepts sont identiques pour chaque candidature. Une case vide signifie que le document source ne dit rien sur ce point, pas que la candidature n'a pas d'avis.</p>
+      <p>Les neuf thèmes et les dix-huit concepts sont identiques pour chaque formation. Une case vide signifie que les documents lus ne disent rien sur ce point, pas que la formation n'a pas d'avis. Les documents n'ont pas la même longueur : comparer le nombre de propositions entre formations n'a donc pas de sens.</p>
+      <h3>Concepts : une lecture éditoriale</h3>
+      <p>Pour chaque concept, une courte synthèse dit ce que la formation met derrière le mot. C'est une interprétation, signalée comme telle, et toujours adossée à des citations que chacun peut relire.</p>
       <h3>Voter pour des idées</h3>
       <ol>
         <li>Le vote porte sur une proposition, présentée sans son auteur.</li>
@@ -307,9 +320,9 @@ form.carte .btn { justify-self: start; }
         <li>Ce n'est pas un sondage : les votants ne forment pas un échantillon représentatif.</li>
       </ol>
       <h3>Quand un programme manque</h3>
-      <p>Tant qu'une candidature n'a pas publié son programme 2027, ses fiches citent son programme précédent. Chacune porte alors la mention « archive » avec l'année, et la fiche du parti explique pourquoi.</p>
+      <p>Tant qu'une formation n'a pas publié son programme 2027, ses fiches citent son programme précédent ou ses derniers documents. Chacune porte alors la mention « archive » avec l'année, et la fiche du parti explique pourquoi. Les fiches seront mises à jour à la publication des programmes 2027.</p>
       <h3>Tout est ouvert</h3>
-      <p>Le code, les données et l'historique de chaque modification sont publics. Toute erreur peut être signalée et corrigée en public.</p>
+      <p>Le code, les données et l'historique de chaque modification sont publics sur <a href="https://github.com/CedricMabilotte/comparatif-2027">GitHub</a>, avec la <a href="https://github.com/CedricMabilotte/comparatif-2027/blob/main/docs/SOURCES.md">liste complète des sources</a> et l'empreinte de chaque texte lu. Les textes intégraux ne sont pas republiés (droit d'auteur) mais un script les retélécharge pour refaire toutes les vérifications. Toute erreur peut être signalée et corrigée en public.</p>
     </div>
   </section>
 </div>
@@ -391,28 +404,52 @@ form.carte .btn { justify-self: start; }
   document.querySelectorAll('input[name="axe"]').forEach((r) => r.addEventListener("change", (e) => { etat.axe = e.target.value; dessinerMatrice(); }));
 
   const archive = (s) => s.archive ? `<span class="archive">archive ${s.date.slice(0, 4)}</span>` : "";
+  const page = (s) => s.page ? `p. ${s.page}` : "page web";
+  const refHTML = (s) => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.titre)}</a> · ${page(s)} · ${s.date}${archive(s)}`;
   function ficheHTML(p, avecMots = true) {
-    const mots = avecMots ? `<div class="mots">${p.concepts.map((k) => `<button class="mot" data-mot="${k}" data-actif="${etat.mot === k}">${esc(nomConcept[k])}</button>`).join("")}</div>` : "";
-    return `<blockquote class="prop"><p>${esc(p.citation)}</p><span class="ref">${esc(p.source.titre)} · p. ${p.source.page} · ${p.source.date}${archive(p.source)}</span>${mots}<button class="lien-partage" data-partage-prop="${p.id}">Partager</button></blockquote>`;
+    const mots = avecMots && p.concepts.length ? `<div class="mots">${p.concepts.map((k) => `<button class="mot" data-mot="${k}" data-actif="${etat.mot === k}">${esc(nomConcept[k])}</button>`).join("")}</div>` : "";
+    const titre = p.intitule ? `<p class="intitule">${esc(p.intitule)}</p>` : "";
+    return `<blockquote class="prop">${titre}<p>${esc(p.citation)}</p><span class="ref">${refHTML(p.source)}</span>${mots}<button class="lien-partage" data-partage-prop="${p.id}">Partager</button></blockquote>`;
   }
+  const PAR_CELLULE = 3;
+  const ouvertes = new Set();
+  const sansAccent = (t) => t.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 
   function dessinerMatrice() {
     const cols = C.candidatures.filter((c) => etat.cands.has(c.id));
-    const lignes = etat.axe === "themes" ? C.themes : C.concepts;
+    const toutes = etat.axe === "themes" ? C.themes : C.concepts;
+    const choix = $("#m-ligne");
+    if (choix.dataset.axe !== etat.axe) {
+      choix.innerHTML = `<option value="">Toutes les lignes</option>` + toutes.map((l) => `<option value="${l.id}">${esc(l.nom)}</option>`).join("");
+      choix.dataset.axe = etat.axe;
+    }
+    const lignes = choix.value ? toutes.filter((l) => l.id === choix.value) : toutes;
+    const filtre = sansAccent($("#m-texte").value.trim());
     const t = $("#tab-matrice");
     if (!cols.length) { t.innerHTML = `<tbody><tr><td class="vide">Cochez au moins une candidature.</td></tr></tbody>`; return; }
     let h = `<thead><tr><th scope="col">${etat.axe === "themes" ? "Thème" : "Concept"}</th>${cols.map((c) => `<th scope="col"><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</th>`).join("")}</tr></thead><tbody>`;
     for (const l of lignes) {
       h += `<tr><th scope="row">${esc(l.nom)}</th>`;
       for (const c of cols) {
-        const ps = C.propositions.filter((p) => p.candidature === c.id && (etat.axe === "themes" ? p.theme === l.id : p.concepts.includes(l.id)));
-        h += `<td><div class="cellule">${ps.length ? ps.map((p) => ficheHTML(p)).join("") : `<span class="vide">Rien dans la source.</span>`}</div></td>`;
+        const ps = C.propositions.filter((p) => p.candidature === c.id && (etat.axe === "themes" ? p.theme === l.id : p.concepts.includes(l.id))
+          && (!filtre || sansAccent(p.citation + " " + (p.intitule || "")).includes(filtre)));
+        const cle = `${etat.axe}|${l.id}|${c.id}`, ouverte = ouvertes.has(cle);
+        const vues = ouverte ? ps : ps.slice(0, PAR_CELLULE);
+        const reste = ps.length - vues.length;
+        h += `<td><div class="cellule">${ps.length ? `<span class="compte-cellule">${ps.length} proposition${ps.length > 1 ? "s" : ""}</span>` + vues.map((p) => ficheHTML(p)).join("")
+          + (reste ? `<button class="plus" data-cellule="${cle}">Voir les ${reste} autres</button>` : ouverte && ps.length > PAR_CELLULE ? `<button class="plus" data-cellule="${cle}">Replier</button>` : "")
+          : `<span class="vide">${filtre ? "Aucune proposition avec ce mot." : "Rien dans les sources."}</span>`}</div></td>`;
       }
       h += "</tr>";
     }
     t.innerHTML = h + "</tbody>";
   }
+  $("#m-ligne").addEventListener("change", dessinerMatrice);
+  let delai;
+  $("#m-texte").addEventListener("input", () => { clearTimeout(delai); delai = setTimeout(dessinerMatrice, 200); });
   $("#tab-matrice").addEventListener("click", (e) => {
+    const plus = e.target.closest(".plus");
+    if (plus) { const k = plus.dataset.cellule; ouvertes.has(k) ? ouvertes.delete(k) : ouvertes.add(k); dessinerMatrice(); return; }
     const b = e.target.closest(".mot"); if (!b) return;
     etat.mot = etat.mot === b.dataset.mot ? null : b.dataset.mot; dessinerMatrice();
   });
@@ -420,6 +457,15 @@ form.carte .btn { justify-self: start; }
 
   // Lexique
   let conceptActif = C.concepts[0].id;
+  // Une fiche du lexique est une lecture éditoriale, toujours adossée à des citations du corpus.
+  const parId = Object.fromEntries(C.propositions.map((p) => [p.id, p]));
+  function lectureHTML(f) {
+    if (!f) return `<p class="def">Pas encore analysé.</p>`;
+    if (typeof f === "string") return `<p class="def">${esc(f)}</p>`;
+    const appuis = (f.appuis || []).map((id) => parId[id]).filter(Boolean);
+    return `<span class="lecture">Lecture éditoriale</span><p class="def">${esc(f.texte)}</p>`
+      + (appuis.length ? `<p class="ref">Appuis : ${appuis.map((p) => `« ${esc(p.citation.length > 90 ? p.citation.slice(0, 90) + "…" : p.citation)} »`).join(" ; ")}</p>` : "");
+  }
   function dessinerLexique() {
     $("#lex-liste").innerHTML = C.concepts.map((k) => {
       const n = C.propositions.filter((p) => p.concepts.includes(k.id)).length;
@@ -429,9 +475,10 @@ form.carte .btn { justify-self: start; }
     $("#lex-cols").innerHTML = C.candidatures.map((c) => {
       const ps = C.propositions.filter((p) => p.candidature === c.id && p.concepts.includes(conceptActif));
       return `<article class="carte"><h3><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</h3>
-        <p class="def">${esc(C.lexique[conceptActif]?.[c.id] ?? "Pas encore analysé.")}</p>
+        ${lectureHTML(C.lexique[conceptActif]?.[c.id])}
         <div class="jauge"><span class="barre"><i style="width:${(ps.length / max) * 100}%"></i></span><span>${ps.length} proposition${ps.length > 1 ? "s" : ""}</span></div>
-        ${ps.map((p) => ficheHTML(p, false)).join("")}</article>`;
+        ${ps.slice(0, 4).map((p) => ficheHTML(p, false)).join("")}
+        ${ps.length > 4 ? `<details><summary class="plus">Voir les ${ps.length - 4} autres</summary>${ps.slice(4).map((p) => ficheHTML(p, false)).join("")}</details>` : ""}</article>`;
     }).join("");
   }
   $("#lex-liste").addEventListener("click", (e) => { const b = e.target.closest("button"); if (b) { conceptActif = b.dataset.k; dessinerLexique(); } });
@@ -451,7 +498,7 @@ form.carte .btn { justify-self: start; }
     const p = fileVote[0];
     s.innerHTML = `<p class="compteur">Proposition ${fait + 1} sur ${C.propositions.length}</p>
       <p class="citation">« ${esc(p.citation)} »</p>
-      ${revele ? `<div class="revelation"><p>Vous avez voté <strong>${{ pour: "pour", partage: "partagé", contre: "contre" }[votes[p.id]]}</strong>. Cette proposition vient de <span class="sigle">${esc(cand[p.candidature].sigle)}</span> <strong>${esc(cand[p.candidature].nom)}</strong>.</p><span class="ref">${esc(p.source.titre)} · p. ${p.source.page}</span><div class="choix"><button class="btn principal" id="suivante">Proposition suivante</button><button class="btn" data-partage-aveugle="${p.id}">Faire deviner à quelqu'un</button></div></div>`
+      ${revele ? `<div class="revelation"><p>Vous avez voté <strong>${{ pour: "pour", partage: "partagé", contre: "contre" }[votes[p.id]]}</strong>. Cette proposition vient de <span class="sigle">${esc(cand[p.candidature].sigle)}</span> <strong>${esc(cand[p.candidature].nom)}</strong>.</p><span class="ref">${esc(p.source.titre)} · ${page(p.source)}</span><div class="choix"><button class="btn principal" id="suivante">Proposition suivante</button><button class="btn" data-partage-aveugle="${p.id}">Faire deviner à quelqu'un</button></div></div>`
       : `<div class="choix"><button class="btn pour" data-v="pour">Pour</button><button class="btn partage" data-v="partage">Partagé</button><button class="btn contre" data-v="contre">Contre</button></div>`}`;
     if (revele) $("#suivante").onclick = () => { fileVote.shift(); dessinerVote(); };
     else s.querySelectorAll("[data-v]").forEach((b) => b.onclick = () => { votes[p.id] = b.dataset.v; ecrire("votes", votes); api("vote", { proposition: p.id, valeur: b.dataset.v }); dessinerVote(true); dessinerBilan(); });
@@ -496,18 +543,26 @@ form.carte .btn { justify-self: start; }
   nouveauQuiz();
 
   // Carte des consensus
-  const TRANSVERSALES = ["p003", "p012", "p014", "p017"]; // propositions que la simulation rend populaires partout
+  // La carte porte sur un échantillon de propositions : l'analyse est quadratique en nombre de propositions.
+  const MAX_ITEMS = 80;
+  const tirage = Consensus.alea(2027);
+  const echantillon = [...C.propositions].map((p) => [tirage(), p.id]).sort((x, y) => x[0] - y[0]).map((x) => x[1]);
+  const TRANSVERSALES = echantillon.slice(0, 4); // propositions que la simulation rend populaires partout
   const COUL = ["var(--g1)", "var(--g2)", "var(--g3)", "var(--g4)"];
   const SEUIL_REEL = 30; // en dessous, la carte serait trop instable : on reste sur la simulation
   async function dessinerConsensus() {
-    const items = C.propositions.map((p) => p.id);
     const reels = enLigne ? (await api("votes"))?.votants ?? [] : [];
     const simule = reels.length < SEUIL_REEL;
+    // Les propositions les plus votées (ou un échantillon fixe en simulation), plus celles que vous avez votées.
+    const nbVotes = {};
+    if (!simule) for (const v of reels) for (const k in v.votes) nbVotes[k] = (nbVotes[k] || 0) + 1;
+    const base = simule ? echantillon : Object.keys(nbVotes).sort((x, y) => nbVotes[y] - nbVotes[x]);
+    const items = [...new Set([...Object.keys(votes).filter((k) => parId[k]), ...base])].slice(0, MAX_ITEMS);
     $("#c-avert").hidden = !simule;
     const miens = Object.fromEntries(Object.entries(votes).map(([k, v]) => [k, { pour: 1, partage: 0, contre: -1 }[v]]));
     let votants, avecMoi;
     if (simule) {
-      votants = Consensus.simuler(C.propositions, C.candidatures.map((c) => c.id), 150, TRANSVERSALES, 42);
+      votants = Consensus.simuler(C.propositions.filter((p) => items.includes(p.id)), C.candidatures.map((c) => c.id), 150, TRANSVERSALES, 42);
       avecMoi = Object.keys(miens).length > 0;
       if (avecMoi) votants.push({ id: "moi", votes: miens });
     } else {
@@ -625,9 +680,9 @@ form.carte .btn { justify-self: start; }
       return `<article class="carte" id="parti-${c.id}">
         <h3><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</h3>
         <p class="ref">${esc(c.candidat)} · <span class="etat ${c.statut_programme}">${libelleEtat[c.statut_programme]}</span></p>
-        <p class="def" style="font-style:normal">${esc(c.presentation)}</p>
+        <p class="def" style="font-style:normal">${esc(c.famille)} · candidature : ${esc(c.statut_candidat)}</p>
         <p class="mini-titre">Documents de référence</p>
-        <ul class="docs">${docs.map((d) => `<li><span>${esc(d.titre)}${d.archive ? `<span class="archive">archive ${d.annee}</span>` : ""}</span><span class="ref">${d.type} · ${d.date}</span>${d.justification ? `<span class="justif">${esc(d.justification)}</span>` : ""}</li>`).join("")}</ul>
+        <ul class="docs">${docs.map((d) => `<li><span><a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.titre)}</a>${d.archive ? `<span class="archive">archive ${d.date.slice(0, 4)}</span>` : ""}</span><span class="ref">${d.type} · ${d.date} · ${d.citations} citation${d.citations > 1 ? "s" : ""}</span>${d.justification ? `<span class="justif">${esc(d.justification)}</span>` : ""}</li>`).join("")}</ul>
         <p class="mini-titre">Concepts les plus mobilisés</p>
         ${parConcept.map(([k, n]) => `<div class="jauge"><span>${esc(k.nom)}</span><span>${n}</span><span class="barre" style="grid-column:1/-1"><i style="width:${(n / maxC) * 100}%"></i></span></div>`).join("")}
         <p class="mini-titre">Mots qui lui sont propres</p>
@@ -695,13 +750,13 @@ form.carte .btn { justify-self: start; }
     const b = e.target.closest("[data-partage-prop],[data-partage-aveugle],[data-partage-parti]"); if (!b) return;
     if (b.dataset.partageProp) {
       const p = C.propositions.find((x) => x.id === b.dataset.partageProp), c = cand[p.candidature];
-      partager({ surtitre: `${c.nom} · ${nomConcept[p.concepts[0]]}`, corps: `« ${p.citation} »`, pied: `${p.source.titre}, p. ${p.source.page}`, texte: `« ${p.citation} » (${c.nom})`, ancre: "matrice" });
+      partager({ surtitre: p.concepts.length ? `${c.nom} · ${nomConcept[p.concepts[0]]}` : c.nom, corps: `« ${p.citation} »`, pied: `${p.source.titre}, ${page(p.source)}`, texte: `« ${p.citation} » (${c.nom})`, ancre: "matrice" });
     } else if (b.dataset.partageAveugle) {
       const p = C.propositions.find((x) => x.id === b.dataset.partageAveugle);
       partager({ surtitre: "Pour ou contre ?", corps: `« ${p.citation} »`, pied: "Devinez quel parti l'a proposé, puis votez à l'aveugle.", texte: `Pour ou contre ? « ${p.citation} » Devinez quel parti l'a proposé.`, ancre: "aveugle" });
     } else {
       const c = cand[b.dataset.partageParti];
-      partager({ surtitre: "Fiche parti", corps: `${c.nom} : ${c.presentation}`, pied: libelleEtat[c.statut_programme], texte: `${c.nom} : ses documents, ses concepts, ses mots.`, ancre: "partis" });
+      partager({ surtitre: "Fiche parti", corps: `${c.nom} : ${c.famille}. Candidature : ${c.statut_candidat}.`, pied: libelleEtat[c.statut_programme], texte: `${c.nom} : ses documents, ses concepts, ses mots.`, ancre: "partis" });
     }
   });
 })();

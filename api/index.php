@@ -113,7 +113,7 @@ try {
 
     case 'POST vote': {
         $d = corps();
-        $prop = is_string($d['proposition'] ?? null) && preg_match('/^p\d{3,6}$/', $d['proposition']) ? $d['proposition'] : erreur(400, 'Proposition inconnue.');
+        $prop = is_string($d['proposition'] ?? null) && preg_match('/^p[0-9a-f]{3,12}$/', $d['proposition']) ? $d['proposition'] : erreur(400, 'Proposition inconnue.');
         $valeur = VALEURS[$d['valeur'] ?? ''] ?? erreur(400, 'Valeur attendue : pour, partage ou contre.');
         limiter($db, $config, 'vote', 300);
         $v = votant($db);
