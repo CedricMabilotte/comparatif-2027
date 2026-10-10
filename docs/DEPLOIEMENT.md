@@ -18,6 +18,7 @@ Déposer temporairement `api/schema.sql` et un script qui crée `donnees/` et la
 
 ## Pièges
 - LiveDNS : écrire un enregistrement par `PUT .../records/@/A`, jamais `/records/@` (écraserait MX et SPF).
+- Les box gardent l'ancienne adresse jusqu'à la fin de son TTL (3 h sur l'ancienne zone Gandi) : baisser le TTL à 300 s la veille d'un changement d'adresse.
 - Le vhost répond « Vhost unknown » et le certificat HTTPS n'est émis qu'après propagation des serveurs de noms.
 
 ## Vérifier
