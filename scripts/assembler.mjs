@@ -31,7 +31,7 @@ for (const e of extraits) {
     candidature: doc.candidature, theme: e.theme,
     concepts: (e.concepts || []).filter((c) => concepts.has(c)),
     intitule: e.intitule || null,
-    citation: e.citation.replace(/\s+/g, " ").trim(),
+    citation: e.citation.replace(/ﬁ/g, "fi").replace(/ﬂ/g, "fl").replace(/\s+/g, " ").trim(),
     source: { document: doc.id, titre: doc.titre, url: doc.url, page: r.page, date: doc.date, archive: doc.archive },
     statut: "verifie",
   });
