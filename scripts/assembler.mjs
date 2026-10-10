@@ -19,7 +19,7 @@ const extraits = existsSync(dossier) ? readdirSync(dossier).filter((f) => f.ends
 const reparations = lire("data/reparations.json", {});
 const motif = Object.keys(reparations).length ? new RegExp(`(?<![\\p{L}])(${Object.keys(reparations).join("|")})(?![\\p{L}])`, "gu") : null;
 const reparer = (t) => {
-  t = t.replace(/ﬁ/g, "fi").replace(/ﬂ/g, "fl").replace(/\s+/g, " ").trim();
+  t = t.normalize("NFC").replace(/ﬁ/g, "fi").replace(/ﬂ/g, "fl").replace(/\s+/g, " ").trim();
   t = t.replace(/(\p{Ll})- (\p{Ll})/gu, "$1$2"); // césure restée dans la citation : « dé- manteler »
   return motif ? t.replace(motif, (m) => reparations[m]) : t;
 };
@@ -49,7 +49,12 @@ for (const e of extraits) {
 }
 
 // Corrections de relecture (data/corrections.json) : { "<id>": { theme?, concepts?, intitule?, exclure? } }.
-const corrections = lire("data/corrections.json", {});
+// Fusionne data/corrections/*.json (un fichier par relecture).
+const fusionner = (sousDossier) => {
+  const d = new URL(sousDossier, racine);
+  return existsSync(d) ? Object.assign({}, ...readdirSync(d).filter((f) => f.endsWith(".json")).map((f) => lire(sousDossier + f, {}))) : {};
+};
+const corrections = fusionner("data/corrections/");
 for (let i = propositions.length - 1; i >= 0; i--) {
   const p = propositions[i], c = corrections[p.id];
   if (!c) continue;
@@ -61,7 +66,13 @@ for (let i = propositions.length - 1; i >= 0; i--) {
 
 // Le lexique ne garde que les appuis qui existent dans le corpus.
 const ids = new Set(propositions.map((p) => p.id));
-const lexique = lire("data/lexique.json", {});
+// data/lexique/<candidature>.json : { concept: { texte, appuis: [id] } } → lexique[concept][candidature].
+const lexique = {};
+const dLex = new URL("data/lexique/", racine);
+if (existsSync(dLex)) for (const f of readdirSync(dLex).filter((f) => f.endsWith(".json"))) {
+  const cid = f.replace(/\.json$/, "");
+  for (const [k, v] of Object.entries(lire(`data/lexique/${f}`, {}))) if (concepts.has(k)) (lexique[k] ??= {})[cid] = v;
+}
 for (const c of Object.values(lexique)) for (const f of Object.values(c)) f.appuis = (f.appuis || []).filter((id) => ids.has(id));
 
 const compte = {};

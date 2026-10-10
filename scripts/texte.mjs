@@ -28,14 +28,14 @@ function normaliser(brut, recoller) {
   }
   return { texte: sortie, carte };
 }
-export const normaliserCitation = (t) => normaliser(t, false).texte.trim();
+export const normaliserCitation = (t) => normaliser(t.normalize("NFC"), false).texte.trim();
 
 const cache = new Map();
 export function texteDe(doc) {
   if (!cache.has(doc.id)) {
     const f = fichierDe(doc);
     if (!existsSync(f)) return null;
-    const brut = readFileSync(f, "utf8");
+    const brut = readFileSync(f, "utf8").normalize("NFC");
     cache.set(doc.id, { brut, variantes: [normaliser(brut, true), normaliser(brut, false)] });
   }
   return cache.get(doc.id);
