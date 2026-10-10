@@ -14,6 +14,14 @@ const concepts = new Set(referentiel.concepts.map((c) => c.id));
 const dossier = new URL("travail/extraits/", racine);
 const extraits = existsSync(dossier) ? readdirSync(dossier).filter((f) => f.endsWith(".json")).flatMap((f) => lire(`travail/extraits/${f}`, [])) : [];
 
+// Réparations d'affichage des défauts d'extraction PDF (ligatures perdues : « bénéfcier »).
+// La vérification porte sur le texte brut ; seul l'affichage est réparé, mot entier par mot entier.
+const reparations = lire("data/reparations.json", {});
+const motif = Object.keys(reparations).length ? new RegExp(`(?<![\\p{L}])(${Object.keys(reparations).join("|")})(?![\\p{L}])`, "gu") : null;
+const reparer = (t) => {
+  t = t.replace(/ﬁ/g, "fi").replace(/ﬂ/g, "fl").replace(/\s+/g, " ").trim();
+  return motif ? t.replace(motif, (m) => reparations[m]) : t;
+};
 const propositions = [], echecs = [], vus = new Set();
 let texteManquant = false;
 for (const e of extraits) {
@@ -31,7 +39,9 @@ for (const e of extraits) {
     candidature: doc.candidature, theme: e.theme,
     concepts: (e.concepts || []).filter((c) => concepts.has(c)),
     intitule: e.intitule || null,
-    citation: e.citation.replace(/ﬁ/g, "fi").replace(/ﬂ/g, "fl").replace(/\s+/g, " ").trim(),
+    citation: reparer(e.citation),
+    // Texte exact de la source, gardé quand l'affichage a été réparé, pour pouvoir revérifier.
+    ...(reparer(e.citation) !== e.citation.replace(/\s+/g, " ").trim() ? { citation_source: e.citation } : {}),
     source: { document: doc.id, titre: doc.titre, url: doc.url, page: r.page, date: doc.date, archive: doc.archive },
     statut: "verifie",
   });

@@ -7,7 +7,7 @@ const corpus = JSON.parse(readFileSync(new URL("../data/corpus.json", import.met
 const docs = new Map(referentiel.documents.map((d) => [d.id, d]));
 let echecs = 0;
 for (const p of corpus.propositions) {
-  const r = chercher(docs.get(p.source.document), p.citation);
+  const r = chercher(docs.get(p.source.document), p.citation_source ?? p.citation);
   if (!r) { echecs++; console.error(`ÉCHEC ${p.id} : ${r === undefined ? "texte source absent" : "citation absente"} (${p.source.document})`); }
 }
 console.log(`${corpus.propositions.length - echecs}/${corpus.propositions.length} citations vérifiées`);
