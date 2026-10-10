@@ -88,6 +88,20 @@ mark { background: var(--accent-doux); color: inherit; border-radius: 2px; paddi
 .lex-liste { display: flex; flex-direction: column; gap: 2px; }
 .lex-liste button { text-align: left; font-family: var(--f-titre); font-size: 15px; background: none; border: 0; border-left: 3px solid transparent; padding: 7px 10px; color: var(--encre); cursor: pointer; display: flex; justify-content: space-between; gap: 8px; }
 .lex-liste button[aria-pressed="true"] { border-left-color: var(--accent); background: var(--surface); }
+.lex-liste.longue { max-height: 75vh; overflow-y: auto; padding-right: 4px; }
+.lex-liste button .sous { display: block; font-family: var(--f-ref); font-size: 11px; color: var(--encre-douce); }
+.etiquettes { display: flex; flex-wrap: wrap; gap: 6px; margin: 0; }
+.etiquette { font-family: var(--f-ref); font-size: 11px; letter-spacing: .03em; border: 1px solid var(--filet); border-radius: 999px; padding: 1px 8px; color: var(--encre-douce); }
+.fiche-notion { display: grid; gap: 12px; min-width: 0; }
+.fiche-notion h2 { margin: 0; }
+.fiche-notion .def { font-style: normal; }
+.reperes { margin: 0; padding-left: 18px; font-size: 14px; }
+.non-aborde { color: var(--encre-douce); font-style: italic; margin: 0; }
+.glossaire { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 14px; }
+.usage-partis { display: flex; flex-wrap: wrap; gap: 4px; }
+.usage-partis span { font-family: var(--f-ref); font-size: 11.5px; border-radius: 4px; padding: 1px 6px; font-variant-numeric: tabular-nums; }
+.usage-partis span.zero { color: var(--encre-douce); opacity: .55; }
+.ligne-emploi { font-size: 13.5px; margin: 6px 0; }
 .lex-liste .n { font-family: var(--f-ref); font-size: 12px; color: var(--encre-douce); font-variant-numeric: tabular-nums; }
 .lex-cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; min-width: 0; }
 .carte { background: var(--surface); border: 1px solid var(--filet); border-radius: 8px; padding: 16px; display: grid; gap: 10px; align-content: start; min-width: 0; }
@@ -165,6 +179,7 @@ form.carte .btn { justify-self: start; }
 @media (max-width: 640px) {
   .lex { grid-template-columns: 1fr; }
   .lex-liste { flex-direction: row; flex-wrap: wrap; }
+  .lex-liste.longue { flex-direction: column; flex-wrap: nowrap; max-height: 40vh; }
   .lex-liste button { border-left: 0; border-bottom: 2px solid transparent; }
   .lex-liste button[aria-pressed="true"] { border-bottom-color: var(--accent); }
   .bilan-ligne { grid-template-columns: 1fr auto; }
@@ -201,7 +216,8 @@ form.carte .btn { justify-self: start; }
       <fieldset id="f-cand"><legend>Candidatures</legend></fieldset>
       <fieldset id="f-axe"><legend>Lignes</legend>
         <label class="puce"><input type="radio" name="axe" id="axe-themes" value="themes" checked> Thèmes</label>
-        <label class="puce"><input type="radio" name="axe" id="axe-concepts" value="concepts"> Concepts</label>
+        <label class="puce"><input type="radio" name="axe" id="axe-notions" value="notions"> Concepts précis</label>
+        <label class="puce"><input type="radio" name="axe" id="axe-concepts" value="concepts"> Grandes notions</label>
       </fieldset>
       <fieldset id="f-filtre"><legend>Filtrer</legend>
         <select id="m-ligne" aria-label="Ligne affichée"><option value="">Toutes les lignes</option></select>
@@ -212,14 +228,41 @@ form.carte .btn { justify-self: start; }
   </section>
 
   <section role="tabpanel" id="lexique" aria-labelledby="t-lexique" hidden>
-    <p class="aide">Un même mot, plusieurs sens. Pour chaque concept : l'usage qu'en fait chaque candidature, sa fréquence et les phrases où il apparaît.</p>
-    <div class="lex">
+    <p class="aide">Les concepts précis du débat (dispositifs, institutions, impôts, mesures emblématiques) : une définition, ce qui est débattu, puis ce qu'en dit chaque parti, appuyé sur ses textes. Les grandes notions (liberté, nation, travail…) montrent comment chacun emploie les mots-valeurs.</p>
+    <div class="reglages">
+      <fieldset><legend>Afficher</legend>
+        <label class="puce"><input type="radio" name="vue-concepts" value="precis" checked> Concepts précis</label>
+        <label class="puce"><input type="radio" name="vue-concepts" value="grandes"> Grandes notions</label>
+      </fieldset>
+      <fieldset id="n-filtres"><legend>Filtrer</legend>
+        <input type="search" id="n-cherche" placeholder="GPA, droit du sol, CSG…" aria-label="Chercher un concept">
+        <select id="n-theme" aria-label="Thème"><option value="">Tous les thèmes</option></select>
+        <select id="n-cat" aria-label="Catégorie"><option value="">Toutes les catégories</option></select>
+      </fieldset>
+    </div>
+    <div class="lex" id="n-precis">
+      <div class="lex-liste longue" id="n-liste"></div>
+      <div id="n-fiche"></div>
+    </div>
+    <div class="lex" id="n-grandes" hidden>
       <div class="lex-liste" id="lex-liste"></div>
       <div class="lex-cols" id="lex-cols"></div>
     </div>
   </section>
 
   <section role="tabpanel" id="vocab" aria-labelledby="t-vocab" hidden>
+    <p class="aide">Le vocabulaire politique et technique du débat : ce que désigne chaque terme, qui l'emploie dans ses textes, ce que le choix du mot met en avant, et les mots concurrents qu'emploie l'autre camp.</p>
+    <div class="reglages">
+      <fieldset><legend>Filtrer</legend>
+        <input type="search" id="g-cherche" placeholder="charges sociales, OQTF, superprofits…" aria-label="Chercher un terme">
+        <select id="g-registre" aria-label="Registre"><option value="">Tous les registres</option></select>
+        <select id="g-theme" aria-label="Thème"><option value="">Tous les thèmes</option></select>
+      </fieldset>
+    </div>
+    <p class="aide" id="g-compte" role="status"></p>
+    <div class="glossaire" id="g-liste"></div>
+    <div class="choix"><button class="plus" id="g-plus" hidden>Afficher plus de termes</button></div>
+    <h2>Statistiques des mots</h2>
     <p class="aide">Les mots réellement employés dans les textes, comptés par parti. Cherchez un mot pour lire chaque emploi dans sa phrase.</p>
     <div class="reglages">
       <label class="recherche" for="v-mot">Mot <input type="search" id="v-mot" placeholder="travail, sécurité, peuple…" autocomplete="off"></label>
@@ -310,9 +353,10 @@ form.carte .btn { justify-self: start; }
       <h3>Des sources écrites et officielles</h3>
       <p>On ne retient que des documents écrits publiés par les formations : programmes, livrets thématiques, professions de foi. Pas de discours ni d'interviews, plus difficiles à vérifier. Les huit formations sont celles des huit candidatures les plus hautes dans les sondages de septembre 2026. L'objectif est l'exhaustivité : toutes les mesures concrètes des documents lus, pas une sélection.</p>
       <h3>La même grille pour tous</h3>
-      <p>Les neuf thèmes et les dix-huit concepts sont identiques pour chaque formation. Une case vide signifie que les documents lus ne disent rien sur ce point, pas que la formation n'a pas d'avis. Les documents n'ont pas la même longueur : comparer le nombre de propositions entre formations n'a donc pas de sens.</p>
-      <h3>Concepts : une lecture éditoriale</h3>
-      <p>Pour chaque concept, une courte synthèse dit ce que la formation met derrière le mot. C'est une interprétation, signalée comme telle, et toujours adossée à des citations que chacun peut relire.</p>
+      <p>Les neuf thèmes, les concepts et les dix-huit grandes notions sont identiques pour chaque formation. Une case vide signifie que les documents lus ne disent rien sur ce point, pas que la formation n'a pas d'avis. Les documents n'ont pas la même longueur : comparer le nombre de propositions entre formations n'a donc pas de sens.</p>
+      <h3>Concepts et vocabulaire : une lecture éditoriale</h3>
+      <p>Les concepts précis (droit du sol, CSG, RIC, sécurité sociale alimentaire…) ont chacun une définition, les termes du débat et la position de chaque formation. Les grandes notions (liberté, nation, travail…) disent ce que chaque formation met derrière les mots-valeurs. Le glossaire décrit le vocabulaire technique et les éléments de langage : ce qu'ils désignent, qui les emploie et quels mots concurrents emploie l'autre camp.</p>
+      <p>Définitions et synthèses sont des interprétations, signalées comme telles et toujours adossées à des citations que chacun peut relire. Les citations rattachées à un concept ou à un terme sont repérées automatiquement dans les textes : leur nombre mesure la place du mot dans les documents lus, pas l'importance que la formation lui accorde.</p>
       <h3>Voter pour des idées</h3>
       <ol>
         <li>Le vote porte sur une proposition, présentée sans son auteur.</li>
@@ -412,12 +456,14 @@ form.carte .btn { justify-self: start; }
     return `<blockquote class="prop">${titre}<p>${esc(p.citation)}</p><span class="ref">${refHTML(p.source)}</span>${mots}<button class="lien-partage" data-partage-prop="${p.id}">Partager</button></blockquote>`;
   }
   const PAR_CELLULE = 3;
+  const NOTIONS = C.notions ?? [], VOCAB = C.vocabulaire ?? [];
+  const notionsMatrice = NOTIONS.filter((n) => n.propositions.length).map((n) => ({ id: n.id, nom: n.nom, ids: new Set(n.propositions) }));
   const ouvertes = new Set();
   const sansAccent = (t) => t.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 
   function dessinerMatrice() {
     const cols = C.candidatures.filter((c) => etat.cands.has(c.id));
-    const toutes = etat.axe === "themes" ? C.themes : C.concepts;
+    const toutes = etat.axe === "themes" ? C.themes : etat.axe === "notions" ? notionsMatrice : C.concepts;
     const choix = $("#m-ligne");
     if (choix.dataset.axe !== etat.axe) {
       choix.innerHTML = `<option value="">Toutes les lignes</option>` + toutes.map((l) => `<option value="${l.id}">${esc(l.nom)}</option>`).join("");
@@ -427,11 +473,11 @@ form.carte .btn { justify-self: start; }
     const filtre = sansAccent($("#m-texte").value.trim());
     const t = $("#tab-matrice");
     if (!cols.length) { t.innerHTML = `<tbody><tr><td class="vide">Cochez au moins une candidature.</td></tr></tbody>`; return; }
-    let h = `<thead><tr><th scope="col">${etat.axe === "themes" ? "Thème" : "Concept"}</th>${cols.map((c) => `<th scope="col"><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</th>`).join("")}</tr></thead><tbody>`;
+    let h = `<thead><tr><th scope="col">${{ themes: "Thème", notions: "Concept", concepts: "Notion" }[etat.axe]}</th>${cols.map((c) => `<th scope="col"><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</th>`).join("")}</tr></thead><tbody>`;
     for (const l of lignes) {
       h += `<tr><th scope="row">${esc(l.nom)}</th>`;
       for (const c of cols) {
-        const ps = C.propositions.filter((p) => p.candidature === c.id && (etat.axe === "themes" ? p.theme === l.id : p.concepts.includes(l.id))
+        const ps = C.propositions.filter((p) => p.candidature === c.id && (etat.axe === "themes" ? p.theme === l.id : etat.axe === "notions" ? l.ids.has(p.id) : p.concepts.includes(l.id))
           && (!filtre || sansAccent(p.citation + " " + (p.intitule || "")).includes(filtre)));
         const cle = `${etat.axe}|${l.id}|${c.id}`, ouverte = ouvertes.has(cle);
         const vues = ouverte ? ps : ps.slice(0, PAR_CELLULE);
@@ -483,6 +529,104 @@ form.carte .btn { justify-self: start; }
   }
   $("#lex-liste").addEventListener("click", (e) => { const b = e.target.closest("button"); if (b) { conceptActif = b.dataset.k; dessinerLexique(); } });
   dessinerLexique();
+
+  // Concepts précis : définition, enjeux, puis la position de chaque parti, adossée à ses citations
+  const nomTheme = Object.fromEntries(C.themes.map((t) => [t.id, t.nom]));
+  const parNotion = Object.fromEntries(NOTIONS.map((n) => [n.id, n]));
+  const remplir = (sel, valeurs) => { $(sel).insertAdjacentHTML("beforeend", valeurs.map(([v, l]) => `<option value="${esc(v)}">${esc(l)}</option>`).join("")); };
+  remplir("#n-theme", C.themes.map((t) => [t.id, t.nom]));
+  remplir("#n-cat", [...new Set(NOTIONS.map((n) => n.categorie).filter(Boolean))].sort().map((c) => [c, c[0].toUpperCase() + c.slice(1)]));
+  const abordePar = (n) => C.candidatures.filter((c) => n.positions?.[c.id] || n.usage?.[c.id]).length;
+  let notionActive = lire("notion", null);
+  const filtreNotions = () => {
+    const q = sansAccent($("#n-cherche").value.trim()), th = $("#n-theme").value, cat = $("#n-cat").value;
+    return NOTIONS.filter((n) => (!th || (n.themes || [n.theme]).includes(th)) && (!cat || n.categorie === cat)
+      && (!q || sansAccent([n.nom, ...(n.variantes || []), n.definition || ""].join(" ")).includes(q)));
+  };
+  function dessinerNotions() {
+    const liste = filtreNotions();
+    if (!liste.some((n) => n.id === notionActive)) notionActive = liste[0]?.id ?? null;
+    $("#n-liste").innerHTML = liste.length ? liste.map((n) => `<button aria-pressed="${n.id === notionActive}" data-notion="${n.id}"><span>${esc(n.nom)}<span class="sous">${esc(n.categorie || "")}</span></span><span class="n" title="Partis qui l'abordent">${abordePar(n)}/${C.candidatures.length}</span></button>`).join("")
+      : `<p class="vide">Aucun concept ne correspond.</p>`;
+    $("#n-fiche").innerHTML = notionActive ? ficheNotionHTML(parNotion[notionActive]) : "";
+  }
+  function ficheNotionHTML(n) {
+    const vocab = VOCAB.filter((v) => (v.notions || []).includes(n.id));
+    const props = n.propositions.map((id) => parId[id]).filter(Boolean);
+    return `<article class="fiche-notion">
+      <h2>${esc(n.nom)}</h2>
+      <p class="etiquettes">${n.categorie ? `<span class="etiquette">${esc(n.categorie)}</span>` : ""}${(n.themes || [n.theme]).map((t) => `<span class="etiquette">${esc(nomTheme[t] || t)}</span>`).join("")}${(n.variantes || []).length ? `<span class="etiquette">aussi : ${esc(n.variantes.join(", "))}</span>` : ""}</p>
+      <span class="lecture">Définition éditoriale</span><p class="def">${esc(n.definition || "")}</p>
+      ${n.enjeux ? `<p class="mini-titre">Ce qui est débattu</p><p class="def">${esc(n.enjeux)}</p>` : ""}
+      ${(n.reperes || []).length ? `<p class="mini-titre">Repères</p><ul class="reperes">${n.reperes.map((r) => `<li>${esc(r)}</li>`).join("")}</ul>` : ""}
+      ${(n.liens || []).length ? `<p class="mini-titre">Voir aussi</p><div class="mots">${n.liens.map((l) => `<button class="mot" data-notion="${l}">${esc(parNotion[l]?.nom || l)}</button>`).join("")}</div>` : ""}
+      ${vocab.length ? `<p class="mini-titre">Vocabulaire associé</p><div class="mots">${vocab.map((v) => `<button class="mot" data-terme="${v.id}">${esc(v.terme)}</button>`).join("")}</div>` : ""}
+      <p class="mini-titre">Ce qu'en disent les partis</p>
+      <div class="lex-cols">${C.candidatures.map((c) => {
+        const pos = n.positions?.[c.id], ps = props.filter((p) => p.candidature === c.id);
+        return `<article class="carte"><h3><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</h3>
+          ${pos ? lectureHTML(pos) : ps.length ? "" : `<p class="non-aborde">Non abordé dans les textes lus.</p>`}
+          ${ps.length ? `<details><summary class="plus">${ps.length} citation${ps.length > 1 ? "s" : ""} qui en parle${ps.length > 1 ? "nt" : ""}</summary>${ps.map((p) => ficheHTML(p, false)).join("")}</details>` : ""}</article>`;
+      }).join("")}</div>
+      <button class="lien-partage" data-partage-notion="${n.id}">Partager ce concept</button>
+    </article>`;
+  }
+  function ouvrirNotion(id) { if (!parNotion[id]) return; notionActive = id; ecrire("notion", id); $("#n-cherche").value = ""; $("#n-theme").value = ""; $("#n-cat").value = ""; vueConcepts("precis"); ouvrir("lexique"); dessinerNotions(); $("#n-fiche").scrollIntoView({ block: "start" }); }
+  function vueConcepts(v) {
+    document.querySelector(`input[name="vue-concepts"][value="${v}"]`).checked = true;
+    $("#n-precis").hidden = v !== "precis"; $("#n-filtres").hidden = v !== "precis"; $("#n-grandes").hidden = v !== "grandes";
+  }
+  document.querySelectorAll('input[name="vue-concepts"]').forEach((r) => r.addEventListener("change", (e) => vueConcepts(e.target.value)));
+  ["#n-cherche", "#n-theme", "#n-cat"].forEach((sel) => $(sel).addEventListener("input", dessinerNotions));
+  $("#lexique").addEventListener("click", (e) => {
+    const b = e.target.closest("[data-notion]"); if (b) { notionActive = b.dataset.notion; ecrire("notion", notionActive); if (!filtreNotions().some((n) => n.id === notionActive)) { $("#n-cherche").value = ""; $("#n-theme").value = ""; $("#n-cat").value = ""; } dessinerNotions(); return; }
+    const t = e.target.closest("[data-terme]"); if (t) ouvrirTerme(t.dataset.terme);
+  });
+  if (!NOTIONS.length) vueConcepts("grandes"); else dessinerNotions();
+  if (location.hash.startsWith("#concept-")) ouvrirNotion(location.hash.slice(9));
+
+  // Glossaire du vocabulaire politique et technique
+  const parTerme = Object.fromEntries(VOCAB.map((v) => [v.id, v]));
+  const parNomTerme = Object.fromEntries(VOCAB.flatMap((v) => [v.terme, ...(v.variantes || [])].map((t) => [sansAccent(t), v.id])));
+  remplir("#g-registre", [...new Set(VOCAB.map((v) => v.registre).filter(Boolean))].sort().map((r) => [r, r[0].toUpperCase() + r.slice(1)]));
+  remplir("#g-theme", C.themes.map((t) => [t.id, t.nom]));
+  const PAR_PAGE = 48;
+  let gLimite = PAR_PAGE;
+  function termeHTML(v) {
+    const max = Math.max(1, ...Object.values(v.usage || {}));
+    const ps = v.propositions.map((id) => parId[id]).filter(Boolean);
+    return `<article class="carte" id="terme-${v.id}">
+      <h3>${esc(v.terme)}</h3>
+      <p class="etiquettes">${v.registre ? `<span class="etiquette">${esc(v.registre)}</span>` : ""}${(v.themes || [v.theme]).map((t) => `<span class="etiquette">${esc(nomTheme[t] || t)}</span>`).join("")}</p>
+      <p class="def" style="font-style:normal">${esc(v.definition || "")}</p>
+      ${v.lecture ? `<span class="lecture">Lecture éditoriale</span><p class="def">${esc(v.lecture)}</p>` : ""}
+      <p class="mini-titre">Emplois dans les textes lus</p>
+      <div class="usage-partis">${C.candidatures.map((c) => { const k = v.usage?.[c.id] || 0; return `<span class="${k ? "" : "zero"}" style="${k ? `background:color-mix(in srgb, var(--accent) ${Math.round(12 + (k / max) * 40)}%, transparent)` : ""}" title="${esc(c.nom)}">${esc(c.sigle)} ${k}</span>`; }).join("")}</div>
+      ${(v.concurrents || []).length ? `<p class="mini-titre">Mots concurrents</p><div class="mots">${v.concurrents.map((t) => { const id = parNomTerme[sansAccent(t)]; return id ? `<button class="mot" data-terme="${id}">${esc(t)}</button>` : `<span class="mot">${esc(t)}</span>`; }).join("")}</div>` : ""}
+      ${(v.notions || []).length ? `<p class="mini-titre">Concepts liés</p><div class="mots">${v.notions.map((n) => `<button class="mot" data-notion="${n}">${esc(parNotion[n]?.nom || n)}</button>`).join("")}</div>` : ""}
+      ${ps.length ? `<details><summary class="plus">Lire les ${ps.length} emploi${ps.length > 1 ? "s" : ""}</summary>${ps.map((p) => `<p class="ligne-emploi"><span class="sigle">${esc(cand[p.candidature].sigle)}</span> ${esc(p.citation)} <span class="ref">${refHTML(p.source)}</span></p>`).join("")}</details>` : ""}
+    </article>`;
+  }
+  function dessinerGlossaire() {
+    const q = sansAccent($("#g-cherche").value.trim()), reg = $("#g-registre").value, th = $("#g-theme").value;
+    const liste = VOCAB.filter((v) => (!reg || v.registre === reg) && (!th || (v.themes || [v.theme]).includes(th))
+      && (!q || sansAccent([v.terme, ...(v.variantes || []), ...(v.concurrents || [])].join(" ")).includes(q)));
+    $("#g-compte").textContent = VOCAB.length ? `${liste.length} terme${liste.length > 1 ? "s" : ""} sur ${VOCAB.length}` : "";
+    $("#g-liste").innerHTML = liste.slice(0, gLimite).map(termeHTML).join("");
+    $("#g-plus").hidden = liste.length <= gLimite;
+  }
+  function ouvrirTerme(id) {
+    const v = parTerme[id]; if (!v) return;
+    $("#g-cherche").value = v.terme; $("#g-registre").value = ""; $("#g-theme").value = ""; gLimite = PAR_PAGE;
+    ouvrir("vocab"); dessinerGlossaire(); document.getElementById(`terme-${id}`)?.scrollIntoView({ block: "start" });
+  }
+  ["#g-cherche", "#g-registre", "#g-theme"].forEach((sel) => $(sel).addEventListener("input", () => { gLimite = PAR_PAGE; dessinerGlossaire(); }));
+  $("#g-plus").addEventListener("click", () => { gLimite += PAR_PAGE; dessinerGlossaire(); });
+  $("#g-liste").addEventListener("click", (e) => {
+    const t = e.target.closest("[data-terme]"); if (t) { ouvrirTerme(t.dataset.terme); return; }
+    const n = e.target.closest("[data-notion]"); if (n) ouvrirNotion(n.dataset.notion);
+  });
+  dessinerGlossaire();
 
   // Vote à l'aveugle
   const votes = lire("votes", {});
@@ -685,6 +829,7 @@ form.carte .btn { justify-self: start; }
         <ul class="docs">${docs.map((d) => `<li><span><a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.titre)}</a>${d.archive ? `<span class="archive">archive ${d.millesime ?? d.date.slice(0, 4)}</span>` : ""}</span><span class="ref">${d.type} · ${d.date} · ${d.citations} citation${d.citations > 1 ? "s" : ""}</span>${d.justification ? `<span class="justif">${esc(d.justification)}</span>` : ""}</li>`).join("")}</ul>
         <p class="mini-titre">Concepts les plus mobilisés</p>
         ${parConcept.map(([k, n]) => `<div class="jauge"><span>${esc(k.nom)}</span><span>${n}</span><span class="barre" style="grid-column:1/-1"><i style="width:${(n / maxC) * 100}%"></i></span></div>`).join("")}
+        ${(() => { const ns = (C.notions ?? []).filter((n) => n.positions?.[c.id]).sort((a, b) => (b.usage?.[c.id] || 0) - (a.usage?.[c.id] || 0)); return ns.length ? `<p class="mini-titre">Concepts précis abordés (${ns.length})</p><div class="mots">${ns.slice(0, 12).map((n) => `<button class="mot" data-notion="${n.id}">${esc(n.nom)}</button>`).join("")}</div>` : ""; })()}
         <p class="mini-titre">Mots qui lui sont propres</p>
         <div class="mots">${propres.map((m) => `<span class="mot">${esc(m)}</span>`).join("")}</div>
         <p class="ref">${ps.length} propositions sourcées</p>
@@ -693,6 +838,7 @@ form.carte .btn { justify-self: start; }
     }).join("");
   }
   dessinerPartis();
+  $("#p-liste").addEventListener("click", (e) => { const n = e.target.closest("[data-notion]"); if (n) ouvrirNotion(n.dataset.notion); });
 
   // Partage : image générée dans trois formats, texte prêt à coller, liens vers les réseaux
   const FORMATS = { carre: [1080, 1080], paysage: [1200, 675], story: [1080, 1920] };
@@ -747,13 +893,16 @@ form.carte .btn { justify-self: start; }
     catch { $("#pt-texte").select(); $("#pt-etat").textContent = "Texte sélectionné : copiez-le avec Ctrl+C."; }
   };
   document.addEventListener("click", (e) => {
-    const b = e.target.closest("[data-partage-prop],[data-partage-aveugle],[data-partage-parti]"); if (!b) return;
+    const b = e.target.closest("[data-partage-prop],[data-partage-aveugle],[data-partage-parti],[data-partage-notion]"); if (!b) return;
     if (b.dataset.partageProp) {
       const p = C.propositions.find((x) => x.id === b.dataset.partageProp), c = cand[p.candidature];
       partager({ surtitre: p.concepts.length ? `${c.nom} · ${nomConcept[p.concepts[0]]}` : c.nom, corps: `« ${p.citation} »`, pied: `${p.source.titre}, ${page(p.source)}`, texte: `« ${p.citation} » (${c.nom})`, ancre: "matrice" });
     } else if (b.dataset.partageAveugle) {
       const p = C.propositions.find((x) => x.id === b.dataset.partageAveugle);
       partager({ surtitre: "Pour ou contre ?", corps: `« ${p.citation} »`, pied: "Devinez quel parti l'a proposé, puis votez à l'aveugle.", texte: `Pour ou contre ? « ${p.citation} » Devinez quel parti l'a proposé.`, ancre: "aveugle" });
+    } else if (b.dataset.partageNotion) {
+      const n = parNotion[b.dataset.partageNotion], k = C.candidatures.filter((c) => n.positions?.[c.id]).length;
+      partager({ surtitre: `Concept · ${n.nom}`, corps: n.definition.length > 260 ? n.definition.slice(0, 257) + "…" : n.definition, pied: `Ce qu'en disent ${k} parti${k > 1 ? "s" : ""}, citations à l'appui`, texte: `${n.nom} : la définition, les enjeux et ce qu'en disent les partis, citations à l'appui.`, ancre: `concept-${n.id}` });
     } else {
       const c = cand[b.dataset.partageParti];
       partager({ surtitre: "Fiche parti", corps: `${c.nom} : ${c.famille}. Candidature : ${c.statut_candidat}.`, pied: libelleEtat[c.statut_programme], texte: `${c.nom} : ses documents, ses concepts, ses mots.`, ancre: "partis" });
