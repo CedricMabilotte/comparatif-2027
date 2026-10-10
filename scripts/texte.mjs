@@ -61,3 +61,16 @@ export function chercher(doc, citation) {
   }
   return null;
 }
+
+// Motif de repérage d'un concept ou d'un terme dans les citations.
+// Insensible à la casse et aux accents, borné aux mots ; un motif tout en capitales (sigle : AME, RIC, CSG)
+// reste sensible à la casse. Un « * » accepte une fin de mot (« régularis* », « passoire* thermique* »).
+const sansAccents = (t) => t.normalize("NFD").replace(/\p{M}/gu, "").replace(/[’ʼ‘]/g, "'");
+export function compilerMotif(m) {
+  const sigle = /^[\p{Lu}\d\s'’-]+$/u.test(m) && /\p{Lu}{2}/u.test(m);
+  let src = sansAccents(m).replace(/[.+?^${}()|[\]\\]/g, "\\$&").replace(/\s+/g, "\\s+").replace(/'/g, "['’]");
+  src = src.replace(/\*/g, "[\\p{L}-]*"); // « * » : fin de mot, en fin de motif ou entre deux mots (« passoire* thermique* »)
+  const re = new RegExp(`(?<![\\p{L}\\d])${src}(?![\\p{L}\\d])`, sigle ? "u" : "iu");
+  return (texte) => re.test(sansAccents(texte));
+}
+export const correspond = (motifs, texte) => motifs.some((m) => (m._f ??= compilerMotif(m.motif ?? m))(texte));

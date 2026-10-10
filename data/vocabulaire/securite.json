@@ -1,0 +1,1679 @@
+[
+ {
+  "id": "laxisme",
+  "terme": "Laxisme judiciaire",
+  "variantes": [
+   "justice laxiste",
+   "laxisme"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Expression qui reproche à la justice de prononcer des peines jugées trop faibles ou de ne pas les faire exécuter. Elle vise en particulier les aménagements de peine, les sursis et le traitement des mineurs.",
+  "usage": "L’expression est surtout employée par la droite et l’extrême droite pour réclamer des peines planchers et la fin des aménagements de peine ; elle est absente, en tant que telle, des programmes étudiés, qui parlent plutôt d’« impunité ». Ses critiques lui opposent l’« individualisation des peines » et rappellent la hausse continue de la population carcérale.",
+  "concurrents": [
+   "individualisation des peines",
+   "impunité"
+  ],
+  "notions": [
+   "peines-planchers",
+   "amenagements-de-peine"
+  ],
+  "motifs": [
+   "laxisme",
+   "laxiste*",
+   "justice laxiste"
+  ]
+ },
+ {
+  "id": "impunite",
+  "terme": "Impunité",
+  "variantes": [
+   "impunité zéro",
+   "sentiment d’impunité"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Absence de sanction effective d’une infraction, faute de poursuite, de jugement ou d’exécution de la peine. Le « sentiment d’impunité » désigne la perception que les délinquants ne risquent rien.",
+  "usage": "LR promet de garantir « l’impunité zéro » et Reconquête de « mettre fin à l’impunité des mineurs délinquants ». Le mot met l’accent sur la défaillance de la réponse pénale ; la gauche lui préfère des termes comme « délais de justice » ou « manque de moyens », qui renvoient la question vers l’organisation de l’institution.",
+  "concurrents": [
+   "délais de justice",
+   "réponse pénale"
+  ],
+  "notions": [
+   "moyens-de-la-justice",
+   "justice-penale-des-mineurs",
+   "amenagements-de-peine"
+  ],
+  "motifs": [
+   "impunité"
+  ]
+ },
+ {
+  "id": "tolerance-zero",
+  "terme": "Tolérance zéro",
+  "variantes": [
+   "zéro tolérance"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Doctrine policière consistant à sanctionner systématiquement toutes les infractions, même mineures, pour prévenir les plus graves. Elle est associée à la politique menée à New York dans les années 1990 et à la théorie dite de la « vitre brisée ».",
+  "usage": "Le RN annonce appliquer « la tolérance zéro dans chaque mètre carré du territoire ». LFI emploie la même formule dans un tout autre domaine, contre les entraves à l’accessibilité des personnes handicapées. Ses critiques opposent à cette doctrine la « police de proximité » et la priorité donnée aux faits graves.",
+  "concurrents": [
+   "police de proximité",
+   "priorisation des poursuites"
+  ],
+  "notions": [
+   "police-de-proximite"
+  ],
+  "motifs": [
+   "tolérance zéro"
+  ]
+ },
+ {
+  "id": "ensauvagement",
+  "terme": "Ensauvagement",
+  "variantes": [
+   "ensauvagement de la société"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Terme désignant une supposée montée de la violence gratuite et de la brutalité dans la société. Il a été popularisé dans le débat politique à partir de 2020, notamment par le ministre de l’Intérieur de l’époque.",
+  "usage": "Employé à droite et à l’extrême droite pour décrire une dégradation morale et sécuritaire, le terme est contesté à gauche, qui lui reproche une connotation de déshumanisation et une lecture culturelle ou ethnique de la délinquance. Il est absent des programmes étudiés.",
+  "concurrents": [
+   "hausse des violences",
+   "violences gratuites"
+  ],
+  "notions": [],
+  "motifs": [
+   "ensauvagement"
+  ]
+ },
+ {
+  "id": "culture-de-l-excuse",
+  "terme": "Culture de l’excuse",
+  "variantes": [
+   "excuse sociologique"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Expression qui reproche à certains discours d’expliquer la délinquance par des causes sociales au point d’en excuser les auteurs.",
+  "usage": "Elle est employée à droite et par une partie du centre pour critiquer les approches centrées sur la prévention ou les causes sociales. Ses critiques répondent qu’expliquer n’est pas excuser et lui opposent la notion de « prévention de la délinquance ». Elle est absente des programmes étudiés.",
+  "concurrents": [
+   "prévention de la délinquance",
+   "causes sociales de la délinquance"
+  ],
+  "notions": [
+   "justice-penale-des-mineurs"
+  ],
+  "motifs": [
+   "culture de l'excuse",
+   "excuse sociologique"
+  ]
+ },
+ {
+  "id": "territoires-perdus",
+  "terme": "Territoires perdus de la République",
+  "variantes": [
+   "zones de non-droit",
+   "territoires abandonnés"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Expression désignant des quartiers où l’autorité de l’État serait contestée ou absente, au profit de trafiquants ou de normes communautaires. Elle vient du titre d’un ouvrage collectif paru en 2002 sur l’école.",
+  "usage": "LR parle de « reconquérir les territoires abandonnés aux trafiquants et aux mafieux ». Ces formules mettent en avant un recul de l’État ; leurs critiques y voient une stigmatisation des quartiers populaires et préfèrent parler de « quartiers prioritaires » ou de « relégation ».",
+  "concurrents": [
+   "quartiers prioritaires",
+   "quartiers populaires"
+  ],
+  "notions": [
+   "narcotrafic"
+  ],
+  "motifs": [
+   "territoires perdus",
+   "zones de non-droit",
+   "zone de non-droit",
+   "territoires abandonnés"
+  ]
+ },
+ {
+  "id": "reconquete-republicaine",
+  "terme": "Reconquête républicaine",
+  "variantes": [
+   "quartiers de reconquête républicaine",
+   "QRR",
+   "reconquérir"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Les « quartiers de reconquête républicaine » sont des quartiers désignés depuis 2018 par le ministère de l’Intérieur pour recevoir des renforts de police dans le cadre de la police de sécurité du quotidien. Le vocabulaire de la « reconquête » s’étend plus largement à l’idée de reprendre le contrôle de territoires.",
+  "usage": "LR propose des sanctions aggravées pour les actes commis dans les « quartiers de reconquête républicaine » et de « reconquérir les territoires ». Le registre militaire du mot souligne l’idée d’un territoire à reprendre ; ses critiques y voient une stigmatisation.",
+  "concurrents": [
+   "quartiers prioritaires de la politique de la ville"
+  ],
+  "notions": [
+   "police-de-proximite"
+  ],
+  "motifs": [
+   "reconquête républicaine",
+   "reconquérir les territoires"
+  ]
+ },
+ {
+  "id": "remettre-en-ordre",
+  "terme": "Remettre la France en ordre",
+  "variantes": [
+   "rétablir l’ordre",
+   "restaurer l’autorité",
+   "ramener la paix"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Famille de formules qui présentent la sécurité comme un ordre à rétablir et l’autorité de l’État comme une valeur à restaurer.",
+  "usage": "Le RN annonce vouloir « remettre la France en ordre », Horizons que « l’autorité publique doit être fermement restaurée », Renaissance une force pour « rétablir en urgence l’ordre » dans les quartiers en crise et Reconquête « ramener la paix dans nos villes ». Ces formules supposent une dégradation préalable ; la gauche emploie davantage les mots « sécurité du quotidien » ou « tranquillité publique ».",
+  "concurrents": [
+   "sécurité du quotidien",
+   "tranquillité publique"
+  ],
+  "notions": [],
+  "motifs": [
+   "remettre la France en ordre",
+   "rétablir en urgence l'ordre",
+   "autorité publique doit être fermement restaurée",
+   "ramener la paix"
+  ]
+ },
+ {
+  "id": "securite-du-quotidien",
+  "terme": "Sécurité du quotidien",
+  "variantes": [
+   "tranquillité publique",
+   "police de sécurité du quotidien"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Expression désignant la sécurité face aux atteintes de la vie courante : incivilités, vols, nuisances, petites violences. La « police de sécurité du quotidien » est un dispositif lancé en 2018 ; la « tranquillité publique » est une notion du pouvoir de police du maire.",
+  "usage": "Les Écologistes et le PS-Place publique emploient ces formules, en lien avec la police de proximité. Elles mettent l’accent sur le service rendu aux habitants plutôt que sur la répression ; la droite emploie plus volontiers « ordre » ou « autorité ».",
+  "concurrents": [
+   "ordre public",
+   "remettre la France en ordre"
+  ],
+  "notions": [
+   "police-de-proximite",
+   "police-municipale"
+  ],
+  "motifs": [
+   "sécurité du quotidien",
+   "tranquillité publique"
+  ]
+ },
+ {
+  "id": "delits-du-quotidien",
+  "terme": "Délits du quotidien",
+  "variantes": [
+   "infractions du quotidien",
+   "délits qui empoisonnent le quotidien",
+   "incivilités"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Catégorie informelle regroupant les infractions de faible gravité mais fréquentes : dégradations, petits vols, occupation de halls, nuisances, consommation de stupéfiants sur la voie publique.",
+  "usage": "Renaissance parle des délits « qui empoisonnent le quotidien » pour justifier les amendes forfaitaires, LR veut juger les « délits du quotidien » en moins de six mois, et le PS-Place publique propose de traiter localement les « infractions du quotidien » par la médiation. La même catégorie sert donc des réponses répressives ou réparatrices.",
+  "concurrents": [
+   "petite délinquance",
+   "incivilités"
+  ],
+  "notions": [
+   "amende-forfaitaire-delictuelle",
+   "peines-alternatives"
+  ],
+  "motifs": [
+   "délits du quotidien",
+   "infractions du quotidien",
+   "délits qui empoisonnent le quotidien",
+   "incivilités"
+  ]
+ },
+ {
+  "id": "quartiers-sensibles",
+  "terme": "Quartiers sensibles",
+  "variantes": [
+   "zones sensibles",
+   "quartiers en crise",
+   "quartiers prioritaires"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Expressions désignant des quartiers urbains cumulant difficultés sociales et problèmes de sécurité. Le terme administratif actuel est « quartiers prioritaires de la politique de la ville », défini par un critère de revenu.",
+  "usage": "Les Écologistes parlent de « zones sensibles », Renaissance de « quartiers en crise », le PS-Place publique de « quartiers prioritaires ». Le choix du mot oriente la lecture : critère social pour l’un, urgence sécuritaire pour l’autre.",
+  "concurrents": [
+   "quartiers prioritaires de la politique de la ville",
+   "quartiers populaires",
+   "territoires perdus de la République"
+  ],
+  "notions": [
+   "police-de-proximite"
+  ],
+  "motifs": [
+   "zones sensibles",
+   "quartiers en crise",
+   "quartiers sensibles",
+   "quartiers prioritaires"
+  ]
+ },
+ {
+  "id": "sacralisation-integrite-physique",
+  "terme": "Sacralisation de l’intégrité physique",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Formule qui fait de l’atteinte au corps d’autrui une ligne rouge appelant une réponse pénale systématique et sévère.",
+  "usage": "Le RN l’emploie pour justifier la limitation des aménagements de peine pour les atteintes aux personnes. Le vocabulaire du sacré place ces atteintes au-dessus des atteintes aux biens ; il n’a pas d’équivalent direct dans les autres programmes.",
+  "concurrents": [
+   "atteintes aux personnes"
+  ],
+  "notions": [
+   "amenagements-de-peine"
+  ],
+  "motifs": [
+   "sacralisation"
+  ]
+ },
+ {
+  "id": "hors-d-etat-de-nuire",
+  "terme": "Mettre hors d’état de nuire",
+  "variantes": [
+   "anéantir les réseaux",
+   "guerre contre l’islamisme"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Formules empruntées au registre militaire ou policier pour décrire la neutralisation d’adversaires : criminels, terroristes, réseaux.",
+  "usage": "Reconquête veut « mettre hors d’état de nuire les criminels les plus dangereux » et « anéantir les réseaux de trafic de drogue » ; le RN annonce mener « la guerre contre l’islamisme ». Ce vocabulaire présente la sécurité comme un affrontement ; il est rare dans les programmes de gauche, qui parlent plutôt de « démantèlement » ou de « prévention ».",
+  "concurrents": [
+   "démantèlement des réseaux",
+   "prévention"
+  ],
+  "notions": [
+   "perpetuite-reelle",
+   "narcotrafic",
+   "fermeture-des-lieux-de-culte"
+  ],
+  "motifs": [
+   "hors d'état de nuire",
+   "anéantir",
+   "mènerai la guerre",
+   "guerre contre l'islamisme"
+  ]
+ },
+ {
+  "id": "bon-sens",
+  "terme": "Bon sens",
+  "variantes": [
+   "il tombe sous le sens"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Appel à l’évidence partagée pour justifier une mesure, présentée comme allant de soi.",
+  "usage": "Le RN écrit que « le bon sens commande » de rétablir les très courtes peines de prison et qu’« il tombe sous le sens » d’associer les maires à la chaîne pénale. La formule présente un choix politique comme une évidence, sans discuter les arguments contraires.",
+  "concurrents": [
+   "évaluation des politiques publiques"
+  ],
+  "notions": [
+   "amenagements-de-peine",
+   "police-municipale"
+  ],
+  "motifs": [
+   "bon sens",
+   "tombe sous le sens"
+  ]
+ },
+ {
+  "id": "violences-policieres",
+  "terme": "Violences policières",
+  "variantes": [
+   "violences des forces de l’ordre"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Expression désignant l’usage illégitime ou disproportionné de la force par des policiers ou des gendarmes. Son emploi même fait débat, certains y lisant l’accusation d’un phénomène systémique.",
+  "usage": "Une partie de la gauche et des associations l’emploie ; les gouvernements récents et les syndicats de police la récusent, préférant parler de « violences illégitimes » ou d’« usage disproportionné de la force » commis par des individus. Le mot est absent des programmes étudiés, qui proposent des mesures concrètes (interdiction des LBD, organisme de contrôle indépendant) sans l’employer.",
+  "concurrents": [
+   "usage disproportionné de la force",
+   "violences illégitimes"
+  ],
+  "notions": [
+   "controle-de-la-police",
+   "armes-de-force-intermediaire",
+   "maintien-de-l-ordre"
+  ],
+  "motifs": [
+   "violences policières"
+  ]
+ },
+ {
+  "id": "liberticide",
+  "terme": "Liberticide",
+  "variantes": [
+   "dispositions liberticides"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Adjectif qualifiant une loi ou une mesure qui porterait atteinte aux libertés fondamentales.",
+  "usage": "Les Écologistes et LFI qualifient de « liberticides » les lois Sécurité globale et Séparatisme, la loi SILT et le contrat d’engagement républicain. Le mot condamne d’emblée le texte visé ; ses défenseurs parlent de lois qui « confortent les principes de la République » ou « préservent les libertés ».",
+  "concurrents": [
+   "équilibre entre sécurité et libertés"
+  ],
+  "notions": [
+   "loi-securite-globale",
+   "loi-separatisme",
+   "etat-d-urgence"
+  ],
+  "motifs": [
+   "liberticide*"
+  ]
+ },
+ {
+  "id": "tout-carceral",
+  "terme": "Tout-carcéral",
+  "variantes": [
+   "tout carcéral"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Expression critique désignant une politique pénale qui ferait de la prison la réponse principale, voire unique, à la délinquance.",
+  "usage": "LFI propose de « mettre fin au tout-carcéral » par des peines alternatives. Le terme suppose un recours excessif à l’incarcération ; la droite parle au contraire d’un manque de places et d’une « exécution des peines » insuffisante.",
+  "concurrents": [
+   "exécution des peines"
+  ],
+  "notions": [
+   "peines-alternatives",
+   "places-de-prison",
+   "surpopulation-carcerale"
+  ],
+  "motifs": [
+   "tout-carcéral",
+   "tout carcéral"
+  ]
+ },
+ {
+  "id": "politique-du-chiffre",
+  "terme": "Politique du chiffre",
+  "variantes": [
+   "primes aux résultats",
+   "culture du résultat"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Expression critique désignant le pilotage de l’action policière ou administrative par des indicateurs quantitatifs, comme le nombre d’interpellations ou de procédures.",
+  "usage": "Les Écologistes et LFI veulent « sortir de la politique du chiffre » dans la police, et le PS-Place publique l’emploie pour les obligations de quitter le territoire. Ses défenseurs parlent de « culture du résultat » ou d’« objectifs de performance ».",
+  "concurrents": [
+   "culture du résultat",
+   "indicateurs de performance"
+  ],
+  "notions": [
+   "police-de-proximite"
+  ],
+  "motifs": [
+   "politique du chiffre",
+   "primes aux résultats",
+   "politique bureaucratique du chiffre"
+  ]
+ },
+ {
+  "id": "controle-au-facies",
+  "terme": "Contrôle au faciès",
+  "variantes": [
+   "contrôles discriminatoires"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Contrôle d’identité fondé sur l’apparence physique, l’origine supposée ou la couleur de peau plutôt que sur un comportement ou un motif objectif.",
+  "usage": "Les Écologistes veulent « mettre fin au contrôle au faciès ». Le terme, porté par les associations antiracistes, souligne la discrimination ; les juridictions emploient plutôt l’expression « contrôles discriminatoires », et les syndicats de police contestent l’existence d’une pratique systématique.",
+  "concurrents": [
+   "contrôles discriminatoires",
+   "contrôles d’identité"
+  ],
+  "notions": [
+   "recepisse-de-controle-d-identite"
+  ],
+  "motifs": [
+   "contrôle au faciès",
+   "au faciès"
+  ]
+ },
+ {
+  "id": "grenades-mutilantes",
+  "terme": "Grenades mutilantes",
+  "variantes": [
+   "armes mutilantes"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Désignation critique des grenades utilisées en maintien de l’ordre, en raison des blessures graves qu’elles ont pu causer.",
+  "usage": "Les Écologistes et LFI en demandent l’interdiction sous ce nom. L’administration parle de « grenades de désencerclement » ou de « moyens de force intermédiaire », qui insistent sur leur fonction plutôt que sur leurs effets.",
+  "concurrents": [
+   "grenades de désencerclement",
+   "armes de force intermédiaire"
+  ],
+  "notions": [
+   "armes-de-force-intermediaire"
+  ],
+  "motifs": [
+   "grenades mutilantes"
+  ]
+ },
+ {
+  "id": "desescalade",
+  "terme": "Désescalade",
+  "variantes": [
+   "doctrine de désescalade"
+  ],
+  "registre": "technique",
+  "theme": "securite",
+  "definition": "Stratégie de maintien de l’ordre visant à réduire les tensions par le dialogue, la communication avec les manifestants et un usage minimal de la force. Elle est pratiquée notamment en Allemagne et au Royaume-Uni.",
+  "usage": "LFI y fait référence pour justifier l’interdiction de certaines armes. Ses partisans l’opposent à une doctrine jugée trop offensive ; les gouvernements récents ont mis en avant l’adaptation de la doctrine française face aux groupes violents.",
+  "concurrents": [
+   "fermeté",
+   "maintien de l’ordre offensif"
+  ],
+  "notions": [
+   "maintien-de-l-ordre",
+   "armes-de-force-intermediaire"
+  ],
+  "motifs": [
+   "désescalade"
+  ]
+ },
+ {
+  "id": "violences-sexistes-et-sexuelles",
+  "terme": "Violences sexistes et sexuelles",
+  "variantes": [
+   "VSS"
+  ],
+  "registre": "technique",
+  "theme": "securite",
+  "definition": "Expression regroupant les violences commises en raison du sexe ou à caractère sexuel : harcèlement, agressions, viols, violences conjugales. Le sigle VSS s’est diffusé dans les politiques publiques et les entreprises.",
+  "usage": "Les Écologistes, LFI et le PS-Place publique l’emploient pour fonder une approche globale, de type « loi intégrale ». Les autres partis abordent ces violences par des infractions précises, comme les violences conjugales ou le harcèlement de rue.",
+  "concurrents": [
+   "violences faites aux femmes",
+   "violences de genre"
+  ],
+  "notions": [
+   "loi-integrale-vss",
+   "protection-des-victimes-de-violences-conjugales"
+  ],
+  "motifs": [
+   "violences sexistes et sexuelles",
+   "VSS"
+  ]
+ },
+ {
+  "id": "feminicide",
+  "terme": "Féminicide",
+  "variantes": [
+   "féminicides"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Meurtre d’une femme en raison de son sexe, le plus souvent par un conjoint ou un ex-conjoint. Le terme n’est pas une qualification pénale en France, où le meurtre par conjoint est une circonstance aggravante.",
+  "usage": "LFI y consacre « un milliard d’euros ». Le mot, porté par les associations féministes, souligne le caractère systémique de ces meurtres ; d’autres parlent d’« homicides conjugaux », et les statistiques officielles de « morts violentes au sein du couple ».",
+  "concurrents": [
+   "homicide conjugal",
+   "meurtre conjugal"
+  ],
+  "notions": [
+   "loi-integrale-vss",
+   "protection-des-victimes-de-violences-conjugales"
+  ],
+  "motifs": [
+   "féminicide*"
+  ]
+ },
+ {
+  "id": "violences-de-genre",
+  "terme": "Violences de genre",
+  "variantes": [
+   "violences liées au genre"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Expression désignant les violences exercées en raison du genre de la victime, reprise notamment de la loi espagnole de 2004.",
+  "usage": "Les Écologistes l’emploient pour proposer des juridictions spécialisées « sur le modèle espagnol ». Le mot « genre » rattache ces violences à des rapports sociaux ; LR et le RN parlent de « violences conjugales » et de « conjoints violents ».",
+  "concurrents": [
+   "violences conjugales",
+   "violences intrafamiliales"
+  ],
+  "notions": [
+   "protection-des-victimes-de-violences-conjugales",
+   "loi-integrale-vss"
+  ],
+  "motifs": [
+   "violences de genre"
+  ]
+ },
+ {
+  "id": "violences-conjugales",
+  "terme": "Violences conjugales",
+  "variantes": [
+   "violences intrafamiliales",
+   "conjoints violents"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Violences commises au sein du couple, actuel ou passé, qui constituent une circonstance aggravante en droit pénal. Les « violences intrafamiliales » englobent aussi celles commises sur les enfants ou d’autres membres de la famille.",
+  "usage": "LR, le PS-Place publique et le RN emploient ces termes pour des mesures de procédure, comme des juges spécialisés ou des jugements rapides. Le vocabulaire juridique centre la question sur le couple et l’infraction, là où « violences de genre » met en avant une dimension sociale.",
+  "concurrents": [
+   "violences de genre",
+   "violences sexistes et sexuelles"
+  ],
+  "notions": [
+   "protection-des-victimes-de-violences-conjugales"
+  ],
+  "motifs": [
+   "violences conjugales",
+   "violences intrafamiliales",
+   "conjoints violents"
+  ]
+ },
+ {
+  "id": "harcelement-de-rue",
+  "terme": "Harcèlement de rue",
+  "variantes": [
+   "outrage sexiste",
+   "harceleurs de rue"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Comportements à connotation sexuelle ou sexiste imposés à une personne dans l’espace public. Le droit les réprime sous la qualification d’outrage sexiste, créée en 2018 et aggravée depuis.",
+  "usage": "Renaissance propose de tripler l’amende et le RN d’inscrire les « harceleurs de rue » au fichier des délinquants sexuels. L’expression courante, plus parlante que la qualification juridique, insiste sur l’expérience des victimes.",
+  "concurrents": [
+   "outrage sexiste"
+  ],
+  "notions": [
+   "fichiers-de-police"
+  ],
+  "motifs": [
+   "harcèlement de rue",
+   "harceleurs de rue",
+   "outrage sexiste"
+  ]
+ },
+ {
+  "id": "islamisme",
+  "terme": "Islamisme",
+  "variantes": [
+   "idéologie islamiste",
+   "islamisme politique"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Courant politique et religieux qui vise à organiser la société selon une lecture rigoriste de l’islam. Il recouvre des mouvements très divers, des Frères musulmans au salafisme, et seule une partie d’entre eux prône la violence.",
+  "usage": "Le RN emploie le mot dans tous ses textes sur le sujet et qualifie « l’idéologie islamiste » de « menace totalitaire ». La gauche emploie peu ce terme dans le thème sécurité, et met en garde contre les amalgames avec l’islam, en parlant de « radicalisation » ou de « djihadisme » pour les seuls courants violents.",
+  "concurrents": [
+   "radicalisation",
+   "djihadisme",
+   "séparatisme"
+  ],
+  "notions": [
+   "fermeture-des-lieux-de-culte",
+   "loi-separatisme"
+  ],
+  "motifs": [
+   "islamisme",
+   "islamiste*"
+  ]
+ },
+ {
+  "id": "separatisme",
+  "terme": "Séparatisme",
+  "variantes": [
+   "séparatisme islamiste",
+   "communautarisme",
+   "entrisme"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Terme employé depuis 2020 par l’exécutif pour désigner la volonté supposée de certains groupes de vivre selon leurs propres règles, en rupture avec les principes républicains. Il a donné son nom courant à la loi du 24 août 2021. L’« entrisme » désigne l’infiltration progressive d’institutions ou d’associations.",
+  "usage": "Le mot est surtout utilisé par la majorité présidentielle et la droite ; les Écologistes et LFI l’emploient pour désigner la loi qu’ils veulent abroger. Le « communautarisme » est critiqué à la fois par LFI, qui vise « l’usage politique des religions », et par Reconquête.",
+  "concurrents": [
+   "communautarisme",
+   "repli communautaire",
+   "islamisme politique"
+  ],
+  "notions": [
+   "loi-separatisme",
+   "fermeture-des-lieux-de-culte"
+  ],
+  "motifs": [
+   "séparatisme",
+   "communautarisme*",
+   "entrisme"
+  ]
+ },
+ {
+  "id": "mosquees-radicales",
+  "terme": "Mosquées radicales",
+  "variantes": [
+   "discours hostiles à la République",
+   "prêcheurs radicalisés"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Désignation des lieux de culte dans lesquels seraient tenus des discours de rejet des lois ou d’appel à la haine. Le droit ne connaît pas cette catégorie : il permet de fermer un lieu de culte pour provocation à la haine, à la violence ou au terrorisme.",
+  "usage": "Renaissance et le RN parlent de « mosquées radicales », LR de mosquées tenant des « discours hostiles à la République ». Ces formules élargissent le critère juridique à une notion d’hostilité aux valeurs ; leurs critiques demandent de s’en tenir aux infractions caractérisées.",
+  "concurrents": [
+   "provocation à la haine",
+   "police des cultes"
+  ],
+  "notions": [
+   "fermeture-des-lieux-de-culte"
+  ],
+  "motifs": [
+   "mosquées radicales",
+   "discours hostiles à la République",
+   "prêcheurs radicalisés"
+  ]
+ },
+ {
+  "id": "islamophobie",
+  "terme": "Islamophobie",
+  "variantes": [
+   "actes islamophobes"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Hostilité ou discrimination visant les musulmans ou l’islam. Le terme est discuté : certains y voient une désignation du racisme anti-musulman, d’autres le risque d’empêcher la critique d’une religion.",
+  "usage": "LFI et les Écologistes l’emploient, aux côtés de l’antisémitisme et du racisme ; les autres partis ne l’utilisent pas dans leurs textes. Des responsables de droite et du centre lui préfèrent « haine anti-musulmans » ou « actes antimusulmans », expression aussi utilisée par le ministère de l’Intérieur.",
+  "concurrents": [
+   "actes antimusulmans",
+   "haine anti-musulmans",
+   "racisme"
+  ],
+  "notions": [
+   "protection-des-lieux-de-culte"
+  ],
+  "motifs": [
+   "islamophob*"
+  ]
+ },
+ {
+  "id": "extreme-droite-violente",
+  "terme": "Menace d’extrême droite",
+  "variantes": [
+   "ultradroite",
+   "terrorisme d’extrême droite"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Désignation des groupes violents d’extrême droite, que les services de renseignement appellent « ultradroite ». Plusieurs projets d’attentats attribués à cette mouvance ont été déjoués ces dernières années.",
+  "usage": "Les Écologistes demandent de « mieux prendre en compte la menace d’extrême droite ». Le choix du terme « extrême droite » plutôt que « ultradroite » rattache cette violence à un courant politique plus large, ce que contestent les partis visés.",
+  "concurrents": [
+   "ultradroite"
+  ],
+  "notions": [
+   "prevention-de-la-radicalisation",
+   "renseignement-interieur"
+  ],
+  "motifs": [
+   "menace d'extrême droite",
+   "ultradroite"
+  ]
+ },
+ {
+  "id": "mineurs-delinquants",
+  "terme": "Mineurs délinquants",
+  "variantes": [
+   "mineurs criminels",
+   "délinquance juvénile"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Désignation des mineurs auteurs d’infractions. Le code de la justice pénale des mineurs parle plutôt de « mineurs poursuivis » ou « mis en cause ».",
+  "usage": "LR, Reconquête, Renaissance et le RN emploient « mineurs délinquants », et le RN « mineurs criminels ». Ce vocabulaire met l’accent sur l’acte ; les acteurs de la protection de l’enfance parlent d’« enfants » ou de « mineurs en conflit avec la loi », qui rappellent leur statut d’enfant.",
+  "concurrents": [
+   "mineurs en conflit avec la loi",
+   "enfants"
+  ],
+  "notions": [
+   "justice-penale-des-mineurs",
+   "majorite-penale",
+   "centres-educatifs-fermes"
+  ],
+  "motifs": [
+   "mineurs délinquants",
+   "mineur délinquant",
+   "mineurs criminels"
+  ]
+ },
+ {
+  "id": "defense-excusable",
+  "terme": "Défense excusable",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Notion proposée pour élargir l’exonération de responsabilité d’une personne agressée qui se défend, même lorsque la riposte dépasse les conditions strictes de la légitime défense.",
+  "usage": "Reconquête propose de l’instaurer pour que « tout citoyen agressé » puisse se défendre « sans risquer d’aller en prison ». Le terme n’existe pas en droit français ; ses critiques y voient un risque d’encourager les ripostes disproportionnées.",
+  "concurrents": [
+   "légitime défense"
+  ],
+  "notions": [
+   "presomption-de-legitime-defense"
+  ],
+  "motifs": [
+   "défense excusable"
+  ]
+ },
+ {
+  "id": "brigades-coup-de-poing",
+  "terme": "Brigades coup de poing",
+  "variantes": [
+   "force nationale",
+   "Force d’action républicaine"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Désignations de forces mixtes réunissant police, gendarmerie, justice, douanes ou fisc, déployées pour des interventions rapides contre les trafics ou dans des quartiers en crise.",
+  "usage": "LR propose des « brigades coup de poing », Reconquête une « force nationale » et Renaissance une « Force d’action républicaine ». Ces noms insistent sur la rapidité et la visibilité de l’action ; leurs critiques rappellent que le démantèlement des réseaux suppose surtout des enquêtes longues.",
+  "concurrents": [
+   "enquête de long terme",
+   "démantèlement des réseaux"
+  ],
+  "notions": [
+   "narcotrafic"
+  ],
+  "motifs": [
+   "brigades coup de poing",
+   "Force d'action républicaine",
+   "force nationale"
+  ]
+ },
+ {
+  "id": "mafieux",
+  "terme": "Mafia et mafieux",
+  "variantes": [
+   "réseaux mafieux"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Termes désignant des organisations criminelles structurées, hiérarchisées et durables, capables d’infiltrer l’économie légale et les institutions. Le droit français parle de « criminalité organisée » et d’« association de malfaiteurs ».",
+  "usage": "LR évoque les territoires « abandonnés aux trafiquants et aux mafieux ». Le mot souligne la puissance des réseaux et la menace pour l’État ; les autres programmes parlent plutôt de « criminalité organisée » ou de « réseaux ».",
+  "concurrents": [
+   "criminalité organisée"
+  ],
+  "notions": [
+   "narcotrafic"
+  ],
+  "motifs": [
+   "mafieux",
+   "mafia*"
+  ]
+ },
+ {
+  "id": "delinquance-en-col-blanc",
+  "terme": "Délinquance en col blanc",
+  "variantes": [
+   "délinquance financière",
+   "délinquance économique"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Infractions commises par des personnes en position sociale ou professionnelle favorisée dans le cadre de leur activité : fraude fiscale, corruption, abus de biens sociaux, délits boursiers. L’expression vient du sociologue Edwin Sutherland.",
+  "usage": "LFI demande d’augmenter les équipes chargées de la « délinquance en col blanc ». Le terme élargit la question de la sécurité aux infractions financières, que les programmes de droite traitent peu dans ce thème.",
+  "concurrents": [
+   "délinquance financière",
+   "atteintes à la probité"
+  ],
+  "notions": [
+   "saisie-des-avoirs-criminels"
+  ],
+  "motifs": [
+   "col blanc",
+   "délinquance financière",
+   "délinquance économique"
+  ]
+ },
+ {
+  "id": "insecurite",
+  "terme": "Insécurité",
+  "variantes": [
+   "sentiment d’insécurité"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Situation d’exposition à la délinquance, ou perception de cette exposition. Les enquêtes de victimation distinguent les atteintes subies du « sentiment d’insécurité ».",
+  "usage": "Le mot structure le débat depuis les années 1990, mais il est absent des citations étudiées. L’opposition entre « insécurité » et « sentiment d’insécurité » est politique : la seconde formule a été reprochée à la gauche comme une manière de minimiser le phénomène.",
+  "concurrents": [
+   "sécurité du quotidien",
+   "délinquance"
+  ],
+  "notions": [],
+  "motifs": [
+   "insécurité",
+   "sentiment d'insécurité"
+  ]
+ },
+ {
+  "id": "videoprotection",
+  "terme": "Vidéoprotection",
+  "variantes": [
+   "vidéosurveillance"
+  ],
+  "registre": "élément de langage",
+  "theme": "securite",
+  "definition": "Désignation officielle, depuis la loi du 14 mars 2011, des systèmes de caméras filmant la voie publique, auparavant appelés « vidéosurveillance ».",
+  "usage": "LR et le RN emploient « vidéoprotection », hors du thème sécurité, pour les décharges sauvages et les établissements scolaires. Les Écologistes et LFI parlent de « vidéosurveillance » et demandent d’en évaluer les dispositifs. Le choix du mot met en avant soit la protection des personnes, soit la surveillance qu’elles subissent.",
+  "concurrents": [
+   "vidéosurveillance"
+  ],
+  "notions": [
+   "reconnaissance-faciale"
+  ],
+  "motifs": [
+   "vidéoprotection",
+   "vidéosurveillance"
+  ]
+ },
+ {
+  "id": "recidive",
+  "terme": "Récidive",
+  "variantes": [
+   "récidiviste",
+   "multirécidiviste",
+   "réitération"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "En droit pénal, la récidive légale désigne la commission d’une nouvelle infraction, dans un délai fixé par la loi, après une condamnation définitive pour une infraction identique ou assimilée ; elle permet de doubler la peine encourue. La réitération désigne une nouvelle infraction qui ne remplit pas ces conditions. Dans le langage courant, « récidive » désigne souvent les deux.",
+  "usage": "LR, Reconquête et le RN visent les « récidivistes » et « multirécidivistes » pour justifier des peines planchers ou des sanctions dès le premier fait pour les mineurs. Les partis de gauche abordent la récidive à travers la réinsertion et les peines alternatives.",
+  "concurrents": [
+   "réitération",
+   "prévention de la récidive"
+  ],
+  "notions": [
+   "peines-planchers",
+   "peines-alternatives"
+  ],
+  "motifs": [
+   "récidive",
+   "récidiviste*",
+   "multirécidiviste*"
+  ]
+ },
+ {
+  "id": "execution-des-peines",
+  "terme": "Exécution des peines",
+  "variantes": [
+   "application des peines",
+   "exécution effective"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Mise en œuvre concrète d’une condamnation après son prononcé. Elle relève du parquet et du juge de l’application des peines, qui peut décider d’aménagements.",
+  "usage": "LR justifie ses 20 000 places de prison par la nécessité de « garantir l’exécution des peines » et Horizons propose d’aligner l’application des peines des grands trafiquants sur celle des terroristes. L’expression met l’accent sur l’écart entre peine prononcée et peine purgée.",
+  "concurrents": [
+   "individualisation des peines"
+  ],
+  "notions": [
+   "amenagements-de-peine",
+   "places-de-prison"
+  ],
+  "motifs": [
+   "exécution des peines",
+   "exécution de la peine",
+   "application des peines"
+  ]
+ },
+ {
+  "id": "chaine-penale",
+  "terme": "Chaîne pénale",
+  "variantes": [],
+  "registre": "administratif",
+  "theme": "securite",
+  "definition": "Ensemble des acteurs et des étapes qui vont de la constatation d’une infraction à l’exécution de la peine : police, parquet, juridictions, administration pénitentiaire et services de probation.",
+  "usage": "Le RN veut y associer davantage les maires et les polices municipales. L’expression, d’usage administratif, sert à décrire les ruptures entre maillons, comme les délais ou les peines non exécutées.",
+  "concurrents": [],
+  "notions": [
+   "police-municipale",
+   "moyens-de-la-justice"
+  ],
+  "motifs": [
+   "chaîne pénale"
+  ]
+ },
+ {
+  "id": "confusion-des-peines",
+  "terme": "Confusion des peines",
+  "variantes": [],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Mécanisme par lequel un condamné pour plusieurs infractions en concours n’exécute que la peine la plus forte, les autres se confondant avec elle. Elle peut être obligatoire ou décidée par le juge selon les cas.",
+  "usage": "Horizons propose de la supprimer pour les infractions liées au narcotrafic, afin que les peines s’additionnent. Le terme est technique et n’apparaît dans aucun autre programme.",
+  "concurrents": [
+   "cumul des peines"
+  ],
+  "notions": [
+   "amenagements-de-peine",
+   "narcotrafic"
+  ],
+  "motifs": [
+   "confusion des peines"
+  ]
+ },
+ {
+  "id": "comparution-immediate",
+  "terme": "Comparution immédiate",
+  "variantes": [
+   "flagrant délit"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Procédure de jugement rapide qui permet au procureur de faire juger un majeur le jour même ou dans les jours suivant sa garde à vue, pour certains délits. Elle concerne une part importante des incarcérations et fait l’objet de critiques sur les droits de la défense.",
+  "usage": "LR veut juger les flagrants délits en comparution immédiate, le RN et Horizons proposent de l’étendre aux mineurs. Ses critiques parlent de « justice d’abattage » ; ses défenseurs y voient une réponse rapide et lisible.",
+  "concurrents": [
+   "justice d’abattage",
+   "procédure ordinaire"
+  ],
+  "notions": [
+   "justice-penale-des-mineurs"
+  ],
+  "motifs": [
+   "comparution immédiate",
+   "flagrant délit",
+   "flagrants délits"
+  ]
+ },
+ {
+  "id": "contravention-delit-crime",
+  "terme": "Contravention, délit, crime",
+  "variantes": [
+   "contravention de 5e classe",
+   "infraction"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Le droit pénal classe les infractions en trois catégories selon leur gravité : les contraventions, jugées par le tribunal de police et punies d’amendes ; les délits, jugés par le tribunal correctionnel et punis jusqu’à dix ans d’emprisonnement ; les crimes, jugés par la cour d’assises ou la cour criminelle départementale.",
+  "usage": "LR propose de sanctionner les impayés de loyer par une contravention de 5e classe ; Reconquête de poursuivre toutes les violences, même légères. Le choix de la catégorie détermine la juridiction, la peine et l’inscription au casier.",
+  "concurrents": [],
+  "notions": [
+   "squats"
+  ],
+  "motifs": [
+   "contravention*"
+  ]
+ },
+ {
+  "id": "casier-judiciaire",
+  "terme": "Casier judiciaire",
+  "variantes": [
+   "bulletin n° 3",
+   "B3"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Fichier national qui enregistre les condamnations pénales. Il est délivré sous forme de trois bulletins de contenu décroissant : le bulletin n° 1 pour les juridictions, le n° 2 pour certaines administrations et employeurs, le n° 3 pour l’intéressé lui-même.",
+  "usage": "LR propose d’inscrire les impayés de loyer au bulletin n° 3. Le casier sert aussi au contrôle d’honorabilité des personnes travaillant auprès d’enfants.",
+  "concurrents": [],
+  "notions": [
+   "controle-d-honorabilite",
+   "fichiers-de-police"
+  ],
+  "motifs": [
+   "casier judiciaire"
+  ]
+ },
+ {
+  "id": "itt",
+  "terme": "Interruption temporaire de travail (ITT)",
+  "variantes": [
+   "ITT"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Durée pendant laquelle une victime est gênée dans les actes de la vie courante, fixée par un médecin. Elle sert à qualifier les violences : au-delà de huit jours, elles deviennent en principe un délit, en deçà elles relèvent souvent de la contravention sauf circonstance aggravante.",
+  "usage": "Reconquête propose de poursuivre toutes les violences, y compris celles entraînant une ITT inférieure à huit jours. Le seuil de l’ITT est un repère technique méconnu mais décisif dans la réponse pénale.",
+  "concurrents": [],
+  "notions": [],
+  "motifs": [
+   "interruption temporaire de travail",
+   "ITT"
+  ]
+ },
+ {
+  "id": "forces-de-l-ordre",
+  "terme": "Forces de l’ordre",
+  "variantes": [
+   "forces de sécurité",
+   "forces de sécurité intérieure"
+  ],
+  "registre": "administratif",
+  "theme": "securite",
+  "definition": "Désignation courante de la police nationale et de la gendarmerie nationale, parfois étendue aux polices municipales. L’administration parle de « forces de sécurité intérieure ».",
+  "usage": "L’expression est employée surtout par LR, Renaissance et le RN. Elle met l’accent sur la fonction de maintien de l’ordre ; la gauche dit plus souvent « police » ou « policiers et gendarmes ».",
+  "concurrents": [
+   "police",
+   "forces de sécurité intérieure"
+  ],
+  "notions": [
+   "depositaires-de-l-autorite-publique",
+   "loi-de-programmation-securite-justice"
+  ],
+  "motifs": [
+   "forces de l'ordre",
+   "forces de sécurité"
+  ]
+ },
+ {
+  "id": "gardien-de-la-paix",
+  "terme": "Gardien de la paix",
+  "variantes": [
+   "adjoint de sécurité",
+   "policier adjoint"
+  ],
+  "registre": "administratif",
+  "theme": "securite",
+  "definition": "Premier grade du corps d’encadrement et d’application de la police nationale. Les adjoints de sécurité, désormais appelés policiers adjoints, sont des contractuels recrutés pour assister les policiers titulaires.",
+  "usage": "LFI propose de porter à deux ans la formation des élèves gardiens de la paix et de titulariser les adjoints de sécurité. La durée de formation, raccourcie à plusieurs reprises, est un point de débat récurrent.",
+  "concurrents": [],
+  "notions": [
+   "controle-de-la-police"
+  ],
+  "motifs": [
+   "gardiens de la paix",
+   "gardien de la paix",
+   "adjoints de sécurité"
+  ]
+ },
+ {
+  "id": "police-judiciaire",
+  "terme": "Police judiciaire",
+  "variantes": [
+   "PJ",
+   "réforme de la police judiciaire"
+  ],
+  "registre": "administratif",
+  "theme": "securite",
+  "definition": "Fonction policière consistant à constater les infractions, rassembler les preuves et rechercher les auteurs, sous la direction du procureur ou du juge d’instruction. C’est aussi le nom de services d’enquête spécialisés, que la réforme de 2023 a intégrés dans des directions départementales de la police nationale.",
+  "usage": "LFI veut supprimer « la réforme Darmanin » qui aurait affaibli la police judiciaire, et les Écologistes placer les enquêteurs sous la seule autorité des procureurs. Ces propositions reprennent les critiques exprimées par des magistrats et des enquêteurs lors de la réforme.",
+  "concurrents": [
+   "filière investigation"
+  ],
+  "notions": [
+   "parquets-specialises"
+  ],
+  "motifs": [
+   "police judiciaire"
+  ]
+ },
+ {
+  "id": "perquisition-administrative",
+  "terme": "Perquisition administrative",
+  "variantes": [
+   "assignation à résidence",
+   "visite domiciliaire"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Fouille d’un domicile ordonnée par l’autorité administrative, sans mandat d’un juge judiciaire, dans le cadre de l’état d’urgence. Depuis 2017, la loi SILT permet des « visites domiciliaires » en matière de terrorisme, autorisées par un juge des libertés et de la détention.",
+  "usage": "Horizons propose ces moyens d’exception contre le narcotrafic. Leurs critiques y voient un contournement du juge judiciaire, gardien constitutionnel de la liberté individuelle.",
+  "concurrents": [
+   "perquisition judiciaire"
+  ],
+  "notions": [
+   "etat-d-urgence"
+  ],
+  "motifs": [
+   "perquisitions administratives",
+   "perquisition administrative",
+   "assignations à résidence",
+   "assignation à résidence"
+  ]
+ },
+ {
+  "id": "renseignement-financier",
+  "terme": "Renseignement criminel et financier",
+  "variantes": [
+   "renseignement économique et financier"
+  ],
+  "registre": "technique",
+  "theme": "securite",
+  "definition": "Collecte et analyse d’informations sur les flux financiers et les organisations criminelles, pour remonter les réseaux et saisir leurs avoirs. TRACFIN en est le principal service en France.",
+  "usage": "Horizons propose une réforme du renseignement économique et financier, le PS-Place publique un service national de renseignement criminel et les Écologistes une cellule européenne de renseignement financier. Le terme place la lutte contre le crime sur le terrain des flux d’argent.",
+  "concurrents": [],
+  "notions": [
+   "saisie-des-avoirs-criminels",
+   "renseignement-interieur"
+  ],
+  "motifs": [
+   "renseignement criminel",
+   "renseignement financier",
+   "renseignement économique et financier"
+  ]
+ },
+ {
+  "id": "criminalite-organisee",
+  "terme": "Criminalité organisée",
+  "variantes": [
+   "crime organisé",
+   "bande organisée",
+   "réseaux organisés"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Infractions commises par des groupes structurés et durables, souvent pour en tirer un profit. Le code de procédure pénale lui applique des règles d’enquête dérogatoires, comme des gardes à vue plus longues ou des techniques spéciales d’enquête.",
+  "usage": "Le PS-Place publique en fait l’une de ses deux priorités, avec le terrorisme ; les Écologistes veulent privilégier le démantèlement des « réseaux organisés ». Le terme juridique est plus neutre que « mafia » ou « narcotrafic ».",
+  "concurrents": [
+   "mafia",
+   "narcotrafic"
+  ],
+  "notions": [
+   "narcotrafic",
+   "parquets-specialises"
+  ],
+  "motifs": [
+   "criminalité organisée",
+   "crime organisé",
+   "réseaux organisés"
+  ]
+ },
+ {
+  "id": "narcotrafic-mot",
+  "terme": "« Narcotrafic »",
+  "variantes": [
+   "narcotrafiquant",
+   "narcobanditisme"
+  ],
+  "registre": "technique",
+  "theme": "securite",
+  "definition": "Trafic de stupéfiants à grande échelle par des organisations criminelles. Le mot, longtemps réservé à l’Amérique latine, s’est imposé en France dans les années 2020.",
+  "usage": "Horizons l’emploie dans la plupart de ses propositions, avec des propositions comme des « moyens juridiques d’exception » contre les trafiquants. Le terme souligne la puissance des réseaux ; LR et Reconquête parlent plutôt de « trafiquants » et de « trafic de drogue ».",
+  "concurrents": [
+   "trafic de stupéfiants",
+   "trafic de drogue"
+  ],
+  "notions": [
+   "narcotrafic"
+  ],
+  "motifs": [
+   "narcotrafic",
+   "narcotrafiquant*"
+  ]
+ },
+ {
+  "id": "traite-des-etres-humains",
+  "terme": "Traite des êtres humains",
+  "variantes": [
+   "proxénétisme",
+   "exploitation sexuelle"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Recrutement, transport ou hébergement d’une personne en vue de l’exploiter, notamment sexuellement ou par le travail. Le proxénétisme désigne le fait de tirer profit de la prostitution d’autrui. Depuis 2016, la France pénalise l’achat d’actes sexuels.",
+  "usage": "Les Écologistes veulent renforcer la lutte contre la traite et le proxénétisme et Reconquête étendre la définition pénale de la traite pour poursuivre les passeurs. Le même terme sert ainsi des préoccupations de protection des victimes et de lutte contre l’immigration irrégulière.",
+  "concurrents": [
+   "trafic de migrants"
+  ],
+  "notions": [],
+  "motifs": [
+   "traite des êtres humains",
+   "la traite",
+   "proxénétisme",
+   "trafic d'êtres humains",
+   "exploitation sexuelle"
+  ]
+ },
+ {
+  "id": "reduction-des-risques",
+  "terme": "Réduction des risques",
+  "variantes": [
+   "RDR"
+  ],
+  "registre": "technique",
+  "theme": "securite",
+  "definition": "Approche de santé publique qui vise à limiter les dommages liés à la consommation de drogues sans exiger l’abstinence : matériel d’injection stérile, traitements de substitution, salles de consommation à moindre risque.",
+  "usage": "Les Écologistes veulent confier la distribution du cannabis à des professionnels « formés à la réduction des risques ». L’approche situe la drogue sur le terrain sanitaire ; ses critiques y voient une forme de banalisation.",
+  "concurrents": [
+   "répression de l’usage",
+   "abstinence"
+  ],
+  "notions": [
+   "depenalisation-de-l-usage",
+   "legalisation-du-cannabis"
+  ],
+  "motifs": [
+   "réduction des risques"
+  ]
+ },
+ {
+  "id": "libertes-publiques",
+  "terme": "Libertés publiques",
+  "variantes": [
+   "libertés individuelles",
+   "libertés fondamentales"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Droits reconnus aux personnes et protégés par la loi et la Constitution face au pouvoir : liberté d’aller et venir, de réunion, de manifestation, d’expression, respect de la vie privée. L’article 66 de la Constitution fait du juge judiciaire le gardien de la liberté individuelle.",
+  "usage": "Les Écologistes et LFI invoquent les « libertés individuelles et collectives » contre les lois sécuritaires, et LFI propose des « États généraux sur les libertés publiques ». Reconquête invoque aussi les « libertés publiques » contre la loi de 2018 sur la manipulation de l’information.",
+  "concurrents": [
+   "ordre public"
+  ],
+  "notions": [
+   "etat-d-urgence",
+   "loi-securite-globale",
+   "reconnaissance-faciale"
+  ],
+  "motifs": [
+   "libertés publiques",
+   "libertés individuelles"
+  ]
+ },
+ {
+  "id": "defenseur-des-droits",
+  "terme": "Défenseur des droits",
+  "variantes": [
+   "Défenseure des droits"
+  ],
+  "registre": "administratif",
+  "theme": "securite",
+  "definition": "Autorité administrative indépendante inscrite dans la Constitution en 2008, chargée de défendre les droits des usagers des services publics, des enfants, de lutter contre les discriminations et de contrôler la déontologie des forces de sécurité.",
+  "usage": "Les Écologistes et LFI veulent lui rattacher un nouvel organisme de contrôle de la police. La féminisation « Défenseure des droits », employée par ces partis, renvoie à la titulaire du poste au moment de leur rédaction.",
+  "concurrents": [
+   "IGPN"
+  ],
+  "notions": [
+   "controle-de-la-police",
+   "reconnaissance-faciale"
+  ],
+  "motifs": [
+   "Défenseure des droits",
+   "défenseur des droits"
+  ]
+ },
+ {
+  "id": "acces-au-droit",
+  "terme": "Accès au droit",
+  "variantes": [
+   "aide juridictionnelle",
+   "maisons de justice et du droit"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Ensemble des dispositifs permettant à chacun de connaître ses droits et de les faire valoir : consultations gratuites, maisons de justice et du droit, aide juridictionnelle qui prend en charge tout ou partie des frais d’avocat selon les ressources, en vertu de la loi du 10 juillet 1991.",
+  "usage": "Les Écologistes veulent ouvrir l’aide juridictionnelle au pré-contentieux et le PS-Place publique doubler les maisons du droit et de la justice. Ce vocabulaire aborde la justice sous l’angle du service rendu au justiciable.",
+  "concurrents": [],
+  "notions": [
+   "moyens-de-la-justice"
+  ],
+  "motifs": [
+   "accès au droit",
+   "Maisons du droit",
+   "aide juridictionnelle"
+  ]
+ },
+ {
+  "id": "justice-de-proximite",
+  "terme": "Justice de proximité",
+  "variantes": [
+   "choc de la justice de proximité"
+  ],
+  "registre": "administratif",
+  "theme": "securite",
+  "definition": "Traitement local et rapide des petits litiges et infractions du quotidien, par des juges, des délégués du procureur ou des médiateurs. Des juges de proximité ont existé de 2002 à 2017.",
+  "usage": "Le PS-Place publique propose un « choc de la justice de proximité » fondé sur la médiation, les travaux d’intérêt général et des « sanctions pédagogiques ». Le terme a aussi été employé par des gouvernements de droite et du centre, dans une logique de réponse pénale rapide.",
+  "concurrents": [
+   "comparution immédiate",
+   "amende forfaitaire"
+  ],
+  "notions": [
+   "peines-alternatives"
+  ],
+  "motifs": [
+   "justice de proximité"
+  ]
+ },
+ {
+  "id": "reinsertion",
+  "terme": "Réinsertion",
+  "variantes": [
+   "insertion",
+   "sortie sèche"
+  ],
+  "registre": "technique",
+  "theme": "securite",
+  "definition": "Processus par lequel une personne condamnée retrouve une place dans la société : logement, emploi, soins, liens familiaux. La « sortie sèche » désigne une libération sans aménagement ni accompagnement.",
+  "usage": "Les Écologistes, le PS-Place publique et Horizons en font un objectif explicite de la peine. Reconquête emploie le mot dans le domaine scolaire, pour des « internats de réinsertion ». L’expression « sortie sèche » apparaît chez LFI à propos des jeunes sortant de l’aide sociale à l’enfance.",
+  "concurrents": [
+   "exécution des peines"
+  ],
+  "notions": [
+   "peines-alternatives",
+   "amenagements-de-peine",
+   "conditions-de-detention"
+  ],
+  "motifs": [
+   "réinsertion",
+   "sortie sèche",
+   "sorties sèches"
+  ]
+ },
+ {
+  "id": "prevention-de-la-delinquance",
+  "terme": "Prévention de la délinquance",
+  "variantes": [
+   "médiation sociale",
+   "éducateurs de rue"
+  ],
+  "registre": "technique",
+  "theme": "securite",
+  "definition": "Politique visant à empêcher le passage à l’acte par des actions éducatives, sociales et de présence dans l’espace public, coordonnée localement par le maire depuis la loi du 5 mars 2007.",
+  "usage": "Le PS-Place publique propose un programme d’intervention rapide de prévention, avec éducateurs spécialisés, animateurs de rue et médiateurs. La droite ne rejette pas ce registre mais l’emploie moins, en mettant l’accent sur la sanction.",
+  "concurrents": [
+   "culture de l’excuse",
+   "répression"
+  ],
+  "notions": [
+   "police-de-proximite"
+  ],
+  "motifs": [
+   "prévenir la délinquance",
+   "prévention de la délinquance",
+   "médiation sociale"
+  ]
+ },
+ {
+  "id": "prise-en-charge-des-victimes",
+  "terme": "Prise en charge des victimes",
+  "variantes": [
+   "aide aux victimes",
+   "protection des victimes"
+  ],
+  "registre": "technique",
+  "theme": "securite",
+  "definition": "Ensemble des dispositifs d’accueil, d’information, d’accompagnement et d’indemnisation des victimes d’infractions, assurés par les associations d’aide aux victimes, les juridictions et des fonds d’indemnisation.",
+  "usage": "Les Écologistes proposent des centres d’urgence et des fonds d’indemnisation, le PS-Place publique une formation des professionnels et le RN des mesures de protection efficaces. Le vocabulaire de la victime est partagé, mais sert des priorités différentes.",
+  "concurrents": [],
+  "notions": [
+   "protection-des-victimes-de-violences-conjugales",
+   "loi-integrale-vss"
+  ],
+  "motifs": [
+   "victimes de violences",
+   "prise en charge des victimes",
+   "protection des victimes",
+   "soutien accru aux victimes"
+  ]
+ },
+ {
+  "id": "terrorisme",
+  "terme": "Terrorisme",
+  "variantes": [
+   "antiterrorisme",
+   "entreprise terroriste"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Ensemble d’infractions commises intentionnellement en relation avec une entreprise individuelle ou collective ayant pour but de troubler gravement l’ordre public par l’intimidation ou la terreur. Le code pénal en fait une catégorie à part, avec des peines et des procédures spécifiques.",
+  "usage": "Le terme est employé par la plupart des partis. Le PS-Place publique en fait une priorité avec la criminalité organisée, LFI demande l’évaluation des lois antiterroristes et Horizons propose d’aligner certains régimes sur celui des terroristes, ce qui fait du terrorisme une référence pour d’autres menaces.",
+  "concurrents": [],
+  "notions": [
+   "prevention-de-la-radicalisation",
+   "parquets-specialises",
+   "etat-d-urgence"
+  ],
+  "motifs": [
+   "terrorisme",
+   "terroriste*",
+   "antiterroriste*"
+  ]
+ },
+ {
+  "id": "djihadisme",
+  "terme": "Djihadisme",
+  "variantes": [
+   "djihadiste",
+   "mouvance djihadiste"
+  ],
+  "registre": "technique",
+  "theme": "securite",
+  "definition": "Courant de l’islamisme qui prône et pratique la violence armée au nom d’une conception du djihad. Il désigne en particulier les organisations comme Al-Qaïda ou l’État islamique.",
+  "usage": "Le PS-Place publique veut juger en France les « djihadistes rapatriés » et Reconquête interdire « toute mouvance djihadiste ». Le terme est plus restrictif que « islamisme », qui inclut des courants non violents.",
+  "concurrents": [
+   "islamisme",
+   "radicalisation"
+  ],
+  "notions": [
+   "prevention-de-la-radicalisation"
+  ],
+  "motifs": [
+   "djihadis*"
+  ]
+ },
+ {
+  "id": "radicalisation",
+  "terme": "Radicalisation",
+  "variantes": [
+   "déradicalisation",
+   "embrigadement"
+  ],
+  "registre": "technique",
+  "theme": "securite",
+  "definition": "Processus par lequel une personne adopte une idéologie extrémiste pouvant conduire à la violence. Les politiques de « déradicalisation » ou de « désengagement » cherchent à l’inverser.",
+  "usage": "Le PS-Place publique veut lutter contre « toutes les formes de radicalisation », LFI contre l’« embrigadement », Renaissance contre les « prêcheurs radicalisés ». Le mot, centré sur un parcours individuel, est préféré à gauche à « islamisme », qui vise une idéologie.",
+  "concurrents": [
+   "islamisme",
+   "embrigadement"
+  ],
+  "notions": [
+   "prevention-de-la-radicalisation"
+  ],
+  "motifs": [
+   "radicalisation",
+   "radicalisés",
+   "embrigadement"
+  ]
+ },
+ {
+  "id": "guerre-hybride",
+  "terme": "Guerre hybride",
+  "variantes": [
+   "ingérence étrangère",
+   "désinformation",
+   "contre-influence"
+  ],
+  "registre": "technique",
+  "theme": "securite",
+  "definition": "Stratégie combinant moyens militaires et non militaires, comme les cyberattaques, la désinformation, le sabotage ou les pressions économiques, pour affaiblir un adversaire sans conflit ouvert.",
+  "usage": "LR veut y répondre par la « contre-influence » et la « ré-information » et tripler les moyens de VIGINUM ; les Écologistes proposent une stratégie de « résilience civile ». Le vocabulaire militaire étend la sécurité intérieure à l’espace informationnel.",
+  "concurrents": [
+   "ingérence numérique étrangère"
+  ],
+  "notions": [
+   "cybersecurite"
+  ],
+  "motifs": [
+   "guerre hybride",
+   "ingérence*",
+   "contre-influence",
+   "désinformation"
+  ]
+ },
+ {
+  "id": "inceste",
+  "terme": "Inceste",
+  "variantes": [
+   "viol incestueux"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Relations sexuelles entre proches parents. Le code pénal qualifie d’incestueux les viols et agressions sexuelles commis par un ascendant, un frère, une sœur, un oncle, une tante ou leurs conjoints, et depuis 2021 tout acte de pénétration d’un majeur sur un mineur de sa famille constitue un viol, sans qu’il faille prouver la contrainte.",
+  "usage": "Les Écologistes veulent reconnaître un crime d’inceste « en tant que tel » et l’étendre aux cousins germains. Le terme n’apparaît pas dans les autres programmes, qui abordent les violences sur mineurs par le contrôle des adultes et les interdictions d’exercer.",
+  "concurrents": [
+   "violences sexuelles sur mineurs"
+  ],
+  "notions": [
+   "controle-d-honorabilite"
+  ],
+  "motifs": [
+   "inceste"
+  ]
+ },
+ {
+  "id": "imprescriptibilite",
+  "terme": "Imprescriptibilité",
+  "variantes": [
+   "prescription"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Caractère d’une infraction qui peut être poursuivie sans limite de temps. En France, seuls les crimes contre l’humanité sont imprescriptibles ; pour les crimes sexuels sur mineurs, le délai est de trente ans à compter de la majorité de la victime depuis 2018, avec un mécanisme de prescription prolongée en cas de nouvelles victimes depuis 2021.",
+  "usage": "Les Écologistes proposent l’imprescriptibilité des crimes sur les mineurs, revendication portée par des associations de victimes. Ses opposants invoquent la difficulté de la preuve après plusieurs décennies et la place singulière des crimes contre l’humanité.",
+  "concurrents": [
+   "allongement des délais de prescription"
+  ],
+  "notions": [
+   "controle-d-honorabilite"
+  ],
+  "motifs": [
+   "imprescriptibilité",
+   "imprescriptible*"
+  ]
+ },
+ {
+  "id": "echevinage",
+  "terme": "Échevinage",
+  "variantes": [],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Composition d’une juridiction associant des magistrats professionnels et des juges non professionnels. Les conseils de prud’hommes sont aujourd’hui paritaires, composés uniquement de juges non professionnels issus des salariés et des employeurs, désignés depuis 2017 sur proposition de leurs organisations, et non plus élus.",
+  "usage": "Les Écologistes proposent l’échevinage aux prud’hommes et aux tribunaux de commerce. Ses partisans y voient une garantie de compétence juridique ; ses critiques, notamment syndicaux, une remise en cause de la justice des pairs.",
+  "concurrents": [
+   "paritarisme"
+  ],
+  "notions": [],
+  "motifs": [
+   "échevinage"
+  ]
+ },
+ {
+  "id": "amnistie",
+  "terme": "Amnistie",
+  "variantes": [
+   "loi d’amnistie"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Mesure législative qui efface certaines infractions et les condamnations prononcées. Les présidents nouvellement élus faisaient traditionnellement voter une loi d’amnistie, pratique abandonnée après 2002.",
+  "usage": "LFI propose d’amnistier les syndicalistes, Gilets jaunes et militants condamnés « du fait de leurs luttes pour l’intérêt général ». La formule présente ces condamnations comme politiques ; ses critiques y voient une remise en cause de décisions de justice.",
+  "concurrents": [
+   "grâce"
+  ],
+  "notions": [],
+  "motifs": [
+   "amnistie"
+  ]
+ },
+ {
+  "id": "droits-civiques",
+  "terme": "Privation des droits civiques",
+  "variantes": [
+   "déchéance des droits civiques",
+   "inéligibilité"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Peine complémentaire qui retire au condamné, pour une durée limitée, le droit de vote, d’éligibilité ou d’exercer certaines fonctions. L’inéligibilité est obligatoire pour certaines atteintes à la probité depuis 2017.",
+  "usage": "LFI propose une déchéance des droits civiques pour fraude fiscale ou financement du terrorisme, Renaissance une privation de droits civiques pour les agresseurs de dépositaires de l’autorité publique. La même peine vise ainsi des publics différents selon les camps.",
+  "concurrents": [
+   "déchéance de nationalité"
+  ],
+  "notions": [
+   "depositaires-de-l-autorite-publique",
+   "saisie-des-avoirs-criminels"
+  ],
+  "motifs": [
+   "droits civiques"
+  ]
+ },
+ {
+  "id": "verrou-de-bercy",
+  "terme": "Verrou de Bercy",
+  "variantes": [
+   "monopole des poursuites fiscales"
+  ],
+  "registre": "juridique",
+  "theme": "securite",
+  "definition": "Désignation courante du monopole de l’administration fiscale sur le déclenchement des poursuites pénales pour fraude fiscale. La loi du 23 octobre 2018 l’a assoupli en imposant la transmission au parquet des dossiers les plus graves.",
+  "usage": "LFI propose de le supprimer pour que « la justice puisse enquêter librement ». Le mot « verrou », popularisé par ses critiques, suggère un obstacle ; ses défenseurs parlent de l’efficacité du règlement administratif et transactionnel.",
+  "concurrents": [
+   "règlement transactionnel"
+  ],
+  "notions": [],
+  "motifs": [
+   "verrou de Bercy",
+   "monopole du déclenchement"
+  ]
+ },
+ {
+  "id": "depot-de-plainte",
+  "terme": "Dépôt de plainte",
+  "variantes": [
+   "plainte en ligne",
+   "pré-plainte"
+  ],
+  "registre": "administratif",
+  "theme": "securite",
+  "definition": "Acte par lequel une victime informe la police, la gendarmerie ou le procureur d’une infraction. La plainte en ligne a été ouverte pour certaines atteintes aux biens et escroqueries.",
+  "usage": "Renaissance veut étendre la plainte en ligne, le RN permettre l’enregistrement au domicile des victimes et faire porter plainte par la hiérarchie pour les policiers attaqués. Ces mesures traitent l’accueil des victimes comme un service à simplifier.",
+  "concurrents": [],
+  "notions": [
+   "depositaires-de-l-autorite-publique"
+  ],
+  "motifs": [
+   "déposer plainte",
+   "dépôt de plainte",
+   "plaintes pourront être enregistrées",
+   "plainte en ligne"
+  ]
+ },
+ {
+  "id": "securite-civile",
+  "terme": "Sécurité civile",
+  "variantes": [
+   "pompiers volontaires",
+   "protection civile"
+  ],
+  "registre": "administratif",
+  "theme": "securite",
+  "definition": "Ensemble des moyens de prévention et de secours face aux accidents, catastrophes et sinistres : sapeurs-pompiers, moyens aériens, associations de secouristes. La majorité des sapeurs-pompiers sont des volontaires.",
+  "usage": "Les Écologistes veulent doubler ses moyens matériels et créer un statut du pompier volontaire, LFI un organisme méditerranéen de sécurité civile. Le thème relie la sécurité aux risques climatiques ; il est peu présent dans les autres programmes.",
+  "concurrents": [],
+  "notions": [],
+  "motifs": [
+   "sécurité civile",
+   "pompiers",
+   "pompier volontaire"
+  ]
+ },
+ {
+  "id": "permis-a-points",
+  "terme": "Permis à points",
+  "variantes": [
+   "sécurité routière",
+   "80 km/h"
+  ],
+  "registre": "administratif",
+  "theme": "securite",
+  "definition": "Système instauré en 1992 qui retire des points au permis de conduire à chaque infraction routière. La vitesse maximale sur les routes secondaires a été abaissée à 80 km/h en 2018, les départements pouvant revenir à 90 km/h depuis 2019.",
+  "usage": "Reconquête propose de supprimer le permis à points et de rétablir les 90 km/h, au nom des automobilistes ; le PS-Place publique lance un plan national de sécurité routière contre la vitesse, l’alcool et les drogues. La route oppose ainsi liberté de circuler et prévention des accidents.",
+  "concurrents": [
+   "sécurité routière"
+  ],
+  "notions": [],
+  "motifs": [
+   "permis à points",
+   "sécurité routière",
+   "90 km/h",
+   "90km/h"
+  ]
+ }
+]

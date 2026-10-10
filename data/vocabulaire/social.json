@@ -1,0 +1,2010 @@
+[
+ {
+  "id": "retraite-par-repartition",
+  "terme": "Retraite par répartition",
+  "variantes": [
+   "répartition",
+   "solidarité intergénérationnelle"
+  ],
+  "registre": "économique",
+  "theme": "social",
+  "definition": "Mode de financement des retraites dans lequel les cotisations versées par les actifs une année donnée financent les pensions versées la même année aux retraités. C’est le principe dominant du système français depuis 1945, par opposition à la capitalisation. Son équilibre dépend du rapport entre le nombre de cotisants et le nombre de retraités, ainsi que du niveau des salaires.",
+  "usage": "Le principe est défendu dans le débat public par la plupart des partis, qui en tirent des réformes opposées. Le mot lui-même est absent des propositions étudiées.",
+  "concurrents": [
+   "capitalisation"
+  ],
+  "notions": [
+   "retraite-par-capitalisation",
+   "age-legal-de-depart"
+  ],
+  "motifs": [
+   "retraite par répartition",
+   "système par répartition"
+  ]
+ },
+ {
+  "id": "capitalisation",
+  "terme": "Capitalisation",
+  "variantes": [
+   "retraite par capitalisation",
+   "fonds de pension"
+  ],
+  "registre": "économique",
+  "theme": "social",
+  "definition": "Mode de financement des retraites dans lequel chaque assuré accumule une épargne placée, dont le capital et les revenus servent ensuite à financer sa propre pension. Il peut être individuel ou collectif, obligatoire ou facultatif.",
+  "usage": "À gauche, le mot sert de repoussoir et désigne une remise en cause de la solidarité entre générations ; à droite, on lui préfère souvent les expressions « épargne retraite » ou « troisième pilier », qui insistent sur le complément et la liberté de choix.",
+  "concurrents": [
+   "épargne retraite",
+   "retraite par répartition"
+  ],
+  "notions": [
+   "retraite-par-capitalisation"
+  ],
+  "motifs": [
+   "retraite par capitalisation",
+   "épargne retraite"
+  ]
+ },
+ {
+  "id": "taux-plein",
+  "terme": "Taux plein",
+  "variantes": [
+   "pension à taux plein"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Taux maximal de calcul de la pension de base, soit 50 % du salaire annuel moyen au régime général, obtenu lorsque l’assuré a validé la durée d’assurance requise ou atteint l’âge d’annulation de la décote. En dessous, une décote s’applique ; au-delà, une surcote peut majorer la pension.",
+  "usage": "Terme technique utilisé surtout dans les propositions chiffrées sur la pension minimale, qui se réfèrent à une carrière complète à taux plein.",
+  "concurrents": [
+   "décote",
+   "surcote"
+  ],
+  "notions": [
+   "duree-de-cotisation",
+   "minimum-contributif"
+  ],
+  "motifs": [
+   "taux plein"
+  ]
+ },
+ {
+  "id": "decote-surcote",
+  "terme": "Décote et surcote",
+  "variantes": [
+   "décote",
+   "surcote",
+   "minoration",
+   "majoration de pension"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "La décote est une minoration définitive de la pension appliquée à l’assuré qui part avant d’avoir réuni la durée d’assurance requise et avant l’âge d’annulation de la décote. La surcote est une majoration accordée à celui qui continue de travailler au-delà de l’âge légal après avoir atteint cette durée. Ces mécanismes visent à inciter à prolonger l’activité.",
+  "usage": "Termes techniques peu présents dans les programmes, sinon dans les propositions de droite sur la prolongation de l’activité et le cumul emploi-retraite.",
+  "concurrents": [
+   "cumul emploi-retraite"
+  ],
+  "notions": [
+   "cumul-emploi-retraite",
+   "duree-de-cotisation"
+  ],
+  "motifs": [
+   "décote",
+   "surcote"
+  ]
+ },
+ {
+  "id": "trimestre",
+  "terme": "Trimestre et annuité",
+  "variantes": [
+   "trimestres validés",
+   "annuités",
+   "durée d’assurance"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Unité de décompte de la durée d’assurance retraite : un trimestre est validé dès qu’un certain montant de revenu d’activité a été perçu, ou au titre de périodes assimilées comme le chômage indemnisé ou la maladie. Une annuité correspond à quatre trimestres. La durée requise pour le taux plein est exprimée en trimestres.",
+  "usage": "Raisonner en années de cotisation, comme le font la France insoumise (« 40 années de cotisation ») et le Rassemblement national (« 40 annuités »), met en avant la durée de travail plutôt que l’âge ; le gouvernement et la droite raisonnent plus souvent en âge légal.",
+  "concurrents": [
+   "âge légal"
+  ],
+  "notions": [
+   "duree-de-cotisation",
+   "age-legal-de-depart"
+  ],
+  "motifs": [
+   "trimestres",
+   "annuités",
+   "années de cotisation"
+  ]
+ },
+ {
+  "id": "taux-de-remplacement",
+  "terme": "Taux de remplacement",
+  "variantes": [
+   "niveau des pensions"
+  ],
+  "registre": "économique",
+  "theme": "social",
+  "definition": "Rapport entre le montant de la première pension et le dernier revenu d’activité. Il mesure la capacité du système à maintenir le niveau de vie lors du passage à la retraite et varie fortement selon les carrières et les régimes.",
+  "usage": "Indicateur central des rapports du Conseil d’orientation des retraites, il est absent des programmes étudiés, qui raisonnent plutôt en montants de pension minimale.",
+  "concurrents": [
+   "pension minimale"
+  ],
+  "notions": [
+   "minimum-contributif",
+   "indexation-des-pensions"
+  ],
+  "motifs": [
+   "taux de remplacement"
+  ]
+ },
+ {
+  "id": "regime-general",
+  "terme": "Régime général",
+  "variantes": [
+   "Caisse nationale d’assurance vieillesse",
+   "CNAV"
+  ],
+  "registre": "administratif",
+  "theme": "social",
+  "definition": "Régime de Sécurité sociale qui couvre la majorité des salariés du secteur privé et, depuis 2020, les travailleurs indépendants. Il coexiste avec des régimes spéciaux, le régime agricole géré par la Mutualité sociale agricole et les régimes de la fonction publique, ainsi qu’avec des régimes complémentaires.",
+  "usage": "Le terme apparaît dans les propositions de fusion ou de convergence des régimes, comme le rapprochement de la MSA avec le régime général ou une « Sécurité sociale unique ».",
+  "concurrents": [
+   "régimes spéciaux"
+  ],
+  "notions": [],
+  "motifs": [
+   "régime général",
+   "Sécurité sociale unique",
+   "fusionne tous les régimes"
+  ]
+ },
+ {
+  "id": "regimes-speciaux",
+  "terme": "Régimes spéciaux",
+  "variantes": [
+   "régimes spéciaux de retraite"
+  ],
+  "registre": "juridique",
+  "theme": "social",
+  "definition": "Régimes de retraite propres à certaines entreprises ou professions, comme ceux de la RATP, des industries électriques et gazières ou historiquement de la SNCF, aux règles plus anciennes et souvent plus favorables que celles du régime général. La réforme de 2023 a fermé plusieurs d’entre eux aux nouveaux embauchés.",
+  "usage": "La droite et le centre présentent leur suppression comme une mesure d’équité ; les syndicats concernés y voient la remise en cause de contreparties à des contraintes professionnelles.",
+  "concurrents": [
+   "régime général",
+   "régime universel"
+  ],
+  "notions": [
+   "age-legal-de-depart"
+  ],
+  "motifs": [
+   "régimes spéciaux"
+  ]
+ },
+ {
+  "id": "plafond-de-la-securite-sociale",
+  "terme": "Plafond de la Sécurité sociale",
+  "variantes": [
+   "PASS",
+   "plafond annuel de la Sécurité sociale"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Montant de référence fixé chaque année, au-delà duquel une partie des cotisations, notamment la cotisation vieillesse plafonnée, ne s’applique plus. Il sert aussi au calcul de nombreuses prestations et indemnités, comme les indemnités journalières.",
+  "usage": "Utilisé dans les propositions qui visent les hauts salaires par des cotisations déplafonnées, ou qui bornent une indemnisation, comme le congé de naissance chez Les Républicains.",
+  "concurrents": [],
+  "notions": [
+   "conge-de-naissance"
+  ],
+  "motifs": [
+   "plafond de la Sécurité sociale"
+  ]
+ },
+ {
+  "id": "partenaires-sociaux",
+  "terme": "Partenaires sociaux",
+  "variantes": [
+   "paritarisme",
+   "gestion paritaire",
+   "syndicats et patronat"
+  ],
+  "registre": "administratif",
+  "theme": "social",
+  "definition": "Ensemble des organisations syndicales de salariés et des organisations patronales qui négocient les accords collectifs et gèrent, souvent à parité, des organismes comme l’Unédic ou l’Agirc-Arrco. Le paritarisme désigne ce mode de gestion conjointe.",
+  "usage": "Les programmes de gauche et du centre gauche invoquent les partenaires sociaux pour réclamer une gouvernance des retraites ou de l’assurance chômage qui leur redonne la main face à l’État ; Les Républicains les associent au pilotage de France Travail.",
+  "concurrents": [
+   "étatisation"
+  ],
+  "notions": [
+   "assurance-chomage",
+   "age-legal-de-depart"
+  ],
+  "motifs": [
+   "partenaires sociaux",
+   "gestion paritaire"
+  ]
+ },
+ {
+  "id": "cotisations-sociales",
+  "terme": "Cotisations sociales",
+  "variantes": [
+   "cotisations",
+   "contributions sociales",
+   "salaire socialisé"
+  ],
+  "registre": "économique",
+  "theme": "social",
+  "definition": "Prélèvements assis sur les revenus d’activité, à la charge des employeurs et des salariés, qui financent la protection sociale et ouvrent des droits, notamment à la retraite et au chômage. Elles se distinguent des impôts et des contributions comme la CSG, qui ne sont pas liés à des droits individuels.",
+  "usage": "Parler de « cotisations » insiste sur la contrepartie en droits et sur l’idée d’un salaire mis en commun, vocabulaire privilégié à gauche et par les syndicats. Plusieurs programmes proposent d’étendre l’assiette des cotisations aux dividendes, à l’intéressement ou à l’épargne salariale, d’autres d’exonérer certaines heures ou certains publics.",
+  "concurrents": [
+   "charges sociales",
+   "prélèvements obligatoires"
+  ],
+  "notions": [
+   "cumul-emploi-retraite",
+   "age-legal-de-depart"
+  ],
+  "motifs": [
+   "cotisations sociales",
+   "cotisations vieillesse",
+   "cotisation retraite",
+   "cotisations retraite",
+   "soumettre à cotisation",
+   "surcotisation",
+   "cotisation vieillesse"
+  ]
+ },
+ {
+  "id": "charges-sociales",
+  "terme": "Charges sociales",
+  "variantes": [
+   "charges",
+   "charges patronales",
+   "coût du travail"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Expression courante qui désigne les cotisations et contributions sociales prélevées sur les salaires, présentées sous l’angle de leur coût pour l’employeur. Elle n’a pas de sens juridique précis.",
+  "usage": "Employée surtout à droite et par les organisations patronales, elle met en avant le poids pesant sur les entreprises et appelle des baisses ; ses critiques lui reprochent de passer sous silence les droits que ces sommes financent et lui opposent « cotisations sociales ».",
+  "concurrents": [
+   "cotisations sociales",
+   "salaire socialisé"
+  ],
+  "notions": [],
+  "motifs": [
+   "charges sociales",
+   "charges patronales"
+  ]
+ },
+ {
+  "id": "assiette",
+  "terme": "Assiette",
+  "variantes": [
+   "assiette des cotisations",
+   "base de calcul"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Base sur laquelle est calculé un prélèvement : par exemple le salaire brut pour les cotisations, ou l’ensemble des revenus pour la CSG. Élargir l’assiette consiste à soumettre de nouveaux revenus au prélèvement, ce qui permet d’augmenter les recettes sans relever les taux.",
+  "usage": "L’élargissement de l’assiette aux revenus du capital ou aux compléments de salaire est une proposition récurrente à gauche ; la droite parle plutôt de « simplifier les assiettes », comme pour la MSA.",
+  "concurrents": [
+   "taux"
+  ],
+  "notions": [],
+  "motifs": [
+   "assiette",
+   "assiettes"
+  ]
+ },
+ {
+  "id": "crds-cades",
+  "terme": "CRDS et dette sociale",
+  "variantes": [
+   "CRDS",
+   "CADES",
+   "dette sociale",
+   "contribution au remboursement de la dette sociale"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "La contribution au remboursement de la dette sociale (CRDS), créée en 1996, finance la Caisse d’amortissement de la dette sociale (CADES), chargée de rembourser les déficits accumulés de la Sécurité sociale. Une loi organique encadre les transferts de dette à cette caisse.",
+  "usage": "Les Écologistes proposent d’y transférer la dette des hôpitaux publics ; Reconquête propose d’exonérer les petites retraites de CSG et de CRDS.",
+  "concurrents": [
+   "trou de la Sécu"
+  ],
+  "notions": [
+   "remboursement-a-100"
+  ],
+  "motifs": [
+   "CRDS",
+   "CADES",
+   "dette sociale"
+  ]
+ },
+ {
+  "id": "ondam",
+  "terme": "Ondam",
+  "variantes": [
+   "objectif national de dépenses d’assurance maladie"
+  ],
+  "registre": "administratif",
+  "theme": "social",
+  "definition": "Objectif de dépenses d’assurance maladie voté chaque année par le Parlement dans la loi de financement de la Sécurité sociale, depuis les ordonnances de 1996. Il fixe un plafond indicatif de progression des dépenses de soins de ville, des hôpitaux et du médico-social.",
+  "usage": "Les soignants et une partie de la gauche jugent son taux de progression insuffisant au regard des besoins ; PS-Place publique propose de sortir la prévention de ce cadre annuel.",
+  "concurrents": [],
+  "notions": [
+   "tarification-a-l-activite"
+  ],
+  "motifs": [
+   "ONDAM",
+   "Objectif national de dépense"
+  ]
+ },
+ {
+  "id": "depense-sociale",
+  "terme": "Dépense sociale",
+  "variantes": [
+   "dépenses sociales",
+   "coût de la protection sociale"
+  ],
+  "registre": "économique",
+  "theme": "social",
+  "definition": "Ensemble des dépenses consacrées à la protection sociale, retraites, santé, famille, chômage, logement et minima sociaux, financées par les cotisations, les impôts et les contributions. La France figure parmi les pays de l’OCDE où cette dépense rapportée au PIB est la plus élevée.",
+  "usage": "Le terme est employé à droite et au centre pour désigner un gisement d’économies budgétaires, et par le Rassemblement national pour défendre sa réduction par la « priorité nationale » ; la gauche lui préfère « protection sociale » ou « investissement social ».",
+  "concurrents": [
+   "protection sociale",
+   "investissement social"
+  ],
+  "notions": [
+   "conditionnement-des-prestations"
+  ],
+  "motifs": [
+   "dépense sociale",
+   "dépenses sociales"
+  ]
+ },
+ {
+  "id": "deficit-securite-sociale",
+  "terme": "Déficit de la Sécurité sociale",
+  "variantes": [
+   "trou de la Sécu",
+   "déficit de l’assurance maladie"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Écart négatif entre les recettes et les dépenses des régimes de Sécurité sociale, notamment de l’assurance maladie et de la branche vieillesse. Il est souvent désigné dans le langage courant par l’expression « trou de la Sécu ».",
+  "usage": "L’expression « trou de la Sécu » dramatise et appelle des économies ; la gauche souligne plutôt l’insuffisance des recettes et les exonérations non compensées. Les Écologistes proposent de « supprimer le déficit » par une CSG progressive.",
+  "concurrents": [
+   "insuffisance des recettes"
+  ],
+  "notions": [
+   "remboursement-a-100"
+  ],
+  "motifs": [
+   "déficit de l'assurance-maladie",
+   "trou de la Sécu"
+  ]
+ },
+ {
+  "id": "tarification-a-l-acte",
+  "terme": "Tarification à l’acte",
+  "variantes": [
+   "paiement à l’acte",
+   "T2A"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Au sens strict, mode de rémunération des médecins libéraux, payés pour chaque consultation ou acte réalisé selon une nomenclature. Dans le débat hospitalier, l’expression est souvent employée pour désigner la tarification à l’activité (T2A), qui finance les établissements selon les séjours réalisés.",
+  "usage": "La France insoumise et PS-Place publique parlent de « tarification à l’acte » pour critiquer le financement hospitalier ; le terme technique de T2A est employé par les Écologistes. Les alternatives invoquées sont la « dotation globale », le « financement global » ou le paiement au forfait.",
+  "concurrents": [
+   "dotation globale",
+   "forfait",
+   "capitation"
+  ],
+  "notions": [
+   "tarification-a-l-activite"
+  ],
+  "motifs": [
+   "tarification à l'acte",
+   "tarification à l'activité",
+   "T2A"
+  ]
+ },
+ {
+  "id": "dotation-globale",
+  "terme": "Dotation globale",
+  "variantes": [
+   "budget global",
+   "financement forfaitaire"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Mode de financement des hôpitaux publics en vigueur jusqu’au milieu des années 2000, par une enveloppe annuelle fixée à l’avance et reconduite d’une année sur l’autre. Il a été remplacé par la tarification à l’activité pour la plupart des activités de soins.",
+  "usage": "Le Rassemblement national propose d’y revenir ; PS-Place publique parle d’un « financement global, territorial et pluriannuel ». Ses critiques rappellent qu’on lui reprochait de figer les moyens indépendamment de l’activité.",
+  "concurrents": [
+   "tarification à l’activité"
+  ],
+  "notions": [
+   "tarification-a-l-activite"
+  ],
+  "motifs": [
+   "dotation globale",
+   "financement global"
+  ]
+ },
+ {
+  "id": "reste-a-charge-sante",
+  "terme": "Reste à charge (santé)",
+  "variantes": [
+   "RAC",
+   "reste à charge zéro"
+  ],
+  "registre": "économique",
+  "theme": "social",
+  "definition": "Somme qui reste à payer par le patient après les remboursements de l’Assurance maladie obligatoire et de la complémentaire santé. Le reste à charge des ménages français est l’un des plus faibles des pays de l’OCDE en moyenne, mais il peut être élevé pour certains soins ou certaines personnes.",
+  "usage": "L’objectif d’un « reste à charge zéro » est porté par la France insoumise ; la réforme « 100 % santé » en avait fait un slogan sur l’optique, le dentaire et l’audiologie.",
+  "concurrents": [
+   "ticket modérateur",
+   "participation des assurés"
+  ],
+  "notions": [
+   "remboursement-a-100",
+   "complementaire-sante"
+  ],
+  "motifs": [
+   "reste à charge"
+  ]
+ },
+ {
+  "id": "franchises-medicales",
+  "terme": "Franchises médicales",
+  "variantes": [
+   "franchises",
+   "participations forfaitaires"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Sommes déduites des remboursements de l’Assurance maladie sur les boîtes de médicaments, les actes paramédicaux et les transports sanitaires, dans la limite d’un plafond annuel. Instaurées en 2008, elles ont été doublées en 2024. Elles s’ajoutent à la participation forfaitaire sur les consultations.",
+  "usage": "Les gouvernements les présentent comme un outil de « responsabilisation » des patients et de financement ; les Écologistes proposent de les supprimer, y voyant une taxe sur les malades.",
+  "concurrents": [
+   "responsabilisation des patients",
+   "taxe sur les malades"
+  ],
+  "notions": [
+   "remboursement-a-100"
+  ],
+  "motifs": [
+   "franchises médicales",
+   "supprimer les franchises"
+  ]
+ },
+ {
+  "id": "ticket-moderateur",
+  "terme": "Ticket modérateur",
+  "variantes": [],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Part des dépenses de santé laissée à la charge de l’assuré après le remboursement de l’Assurance maladie, avant intervention éventuelle de la complémentaire. Son taux varie selon les actes et les médicaments ; il est supprimé pour les affections de longue durée et certaines situations.",
+  "usage": "Terme technique absent des propositions étudiées, mais au cœur des projets de remboursement à 100 %.",
+  "concurrents": [
+   "reste à charge"
+  ],
+  "notions": [
+   "remboursement-a-100",
+   "affection-de-longue-duree"
+  ],
+  "motifs": [
+   "ticket modérateur"
+  ]
+ },
+ {
+  "id": "depassements-d-honoraires",
+  "terme": "Dépassements d’honoraires",
+  "variantes": [
+   "secteur 2",
+   "honoraires libres"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Sommes facturées par certains médecins au-delà du tarif de la Sécurité sociale, autorisées notamment pour les médecins conventionnés en secteur 2. Elles sont remboursées en partie par certaines complémentaires et pèsent surtout sur les consultations de spécialistes.",
+  "usage": "Les Écologistes proposent de les plafonner à 50 % du tarif et de les interdire pour la moitié la moins aisée des ménages ; les syndicats de spécialistes les justifient par la faiblesse des tarifs conventionnels.",
+  "concurrents": [
+   "liberté tarifaire"
+  ],
+  "notions": [
+   "remboursement-a-100",
+   "complementaire-sante"
+  ],
+  "motifs": [
+   "dépassements d'honoraires"
+  ]
+ },
+ {
+  "id": "medecin-traitant",
+  "terme": "Médecin traitant",
+  "variantes": [
+   "parcours de soins coordonnés"
+  ],
+  "registre": "administratif",
+  "theme": "social",
+  "definition": "Médecin, généraliste le plus souvent, déclaré par l’assuré auprès de l’Assurance maladie et chargé de coordonner son parcours de soins. Depuis 2005, consulter sans passer par lui expose à un moindre remboursement, sauf exceptions. Plusieurs millions de Français n’en ont pas, faute de médecins disponibles.",
+  "usage": "Renaissance propose un médecin traitant pour chaque enfant ; le manque de médecins traitants est l’un des indicateurs mobilisés pour décrire les déserts médicaux.",
+  "concurrents": [],
+  "notions": [
+   "deserts-medicaux"
+  ],
+  "motifs": [
+   "médecin traitant"
+  ]
+ },
+ {
+  "id": "numerus-apertus",
+  "terme": "Numerus clausus et numerus apertus",
+  "variantes": [
+   "numerus clausus",
+   "numerus apertus"
+  ],
+  "registre": "administratif",
+  "theme": "social",
+  "definition": "Le numerus clausus fixait chaque année au niveau national le nombre d’étudiants admis en deuxième année de médecine, de pharmacie, d’odontologie et de maïeutique. Il a été supprimé en 2021 et remplacé par un numerus apertus, nombre minimal d’étudiants à admettre fixé par les universités avec les agences régionales de santé selon leurs capacités et les besoins.",
+  "usage": "Le Rassemblement national réclame la « fin du numerus apertus » et davantage de places en faculté ; les universités rappellent que les capacités de formation, notamment en stages, limitent la hausse.",
+  "concurrents": [
+   "capacités de formation"
+  ],
+  "notions": [
+   "deserts-medicaux"
+  ],
+  "motifs": [
+   "numerus apertus",
+   "numerus clausus",
+   "étudiants en médecine"
+  ]
+ },
+ {
+  "id": "temps-medical",
+  "terme": "Temps médical",
+  "variantes": [
+   "délégation de tâches",
+   "pratique avancée"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Temps que les médecins consacrent effectivement aux soins, par opposition aux tâches administratives ou aux actes pouvant être confiés à d’autres professionnels. La délégation de tâches et la pratique avancée permettent à des infirmiers, pharmaciens ou sages-femmes de réaliser des actes ou prescriptions autrefois réservés aux médecins.",
+  "usage": "L’expression, employée par le Rassemblement national et proche des propositions de Renaissance et des Républicains, met en avant l’efficacité ; les syndicats de médecins se montrent souvent réservés sur l’extension des compétences des autres professions.",
+  "concurrents": [
+   "délégation de tâches",
+   "partage des compétences"
+  ],
+  "notions": [
+   "deserts-medicaux"
+  ],
+  "motifs": [
+   "temps médical",
+   "élargissement des tâches",
+   "davantage de prescriptions",
+   "plus de responsabilités en matière de soins"
+  ]
+ },
+ {
+  "id": "telemedecine",
+  "terme": "Télémédecine",
+  "variantes": [
+   "téléconsultation",
+   "télésurveillance",
+   "téléexpertise"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Ensemble des pratiques médicales réalisées à distance grâce aux technologies de communication : téléconsultation, téléexpertise entre professionnels, télésurveillance médicale et téléassistance. Elle est remboursée par l’Assurance maladie depuis 2018 sous conditions et s’est fortement développée pendant la crise sanitaire.",
+  "usage": "Renaissance et le Rassemblement national la présentent comme une réponse aux déserts médicaux ; ses critiques soulignent qu’elle ne remplace pas l’examen clinique et la présence de soignants sur le territoire.",
+  "concurrents": [
+   "présence médicale"
+  ],
+  "notions": [
+   "deserts-medicaux"
+  ],
+  "motifs": [
+   "télémédecine",
+   "téléconsultation",
+   "télésurveillance"
+  ]
+ },
+ {
+  "id": "hopital-public",
+  "terme": "Hôpital public",
+  "variantes": [
+   "service public hospitalier",
+   "sauver l’hôpital"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Ensemble des établissements publics de santé, centres hospitaliers et centres hospitaliers universitaires, qui assurent des missions de service public comme l’accueil de tous les patients, les urgences et la permanence des soins. Il emploie la plus grande part des personnels hospitaliers.",
+  "usage": "L’expression est mobilisée à gauche et au Rassemblement national sur le registre de l’urgence et de la défense, avec des formules comme « sauvetage » ou « plan d’urgence » ; d’autres préfèrent parler d’« offre de soins » ou d’« établissements de santé », sans distinguer public et privé.",
+  "concurrents": [
+   "offre de soins",
+   "établissements de santé"
+  ],
+  "notions": [
+   "tarification-a-l-activite",
+   "financiarisation-du-soin"
+  ],
+  "motifs": [
+   "hôpital public",
+   "service public hospitalier"
+  ]
+ },
+ {
+  "id": "hopital-entreprise",
+  "terme": "« Hôpital entreprise »",
+  "variantes": [
+   "logique comptable",
+   "gestion managériale"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Expression critique qui désigne l’introduction dans l’hôpital de méthodes de gestion inspirées de l’entreprise, comme la tarification à l’activité, les objectifs de rentabilité ou le pilotage par les coûts. Elle n’a pas de définition officielle.",
+  "usage": "Employée par PS-Place publique, et dans un vocabulaire proche par la France insoumise, elle oppose le soin à la gestion ; les défenseurs de ces réformes parlent plutôt d’« efficience », de « performance » ou de « modernisation ».",
+  "concurrents": [
+   "efficience",
+   "performance hospitalière"
+  ],
+  "notions": [
+   "tarification-a-l-activite",
+   "financiarisation-du-soin"
+  ],
+  "motifs": [
+   "hôpital entreprise",
+   "logique de profit",
+   "rentables"
+  ]
+ },
+ {
+  "id": "financiarisation",
+  "terme": "Financiarisation",
+  "variantes": [
+   "marchandisation de la santé"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Terme désignant la prise de contrôle croissante de structures de soins, de laboratoires, d’Ehpad ou de crèches par des groupes financiers ou des fonds d’investissement, et l’orientation de leur gestion vers la rentabilité. Il décrit une tendance économique documentée par plusieurs rapports publics.",
+  "usage": "Employé par la gauche, il connote une dérive ; les acteurs privés et une partie de la droite parlent plutôt d’« investissement privé », de « consolidation » ou de « complémentarité public-privé ».",
+  "concurrents": [
+   "investissement privé",
+   "consolidation du secteur"
+  ],
+  "notions": [
+   "financiarisation-du-soin"
+  ],
+  "motifs": [
+   "financiarisation",
+   "fonds d'investissement d'exercer"
+  ]
+ },
+ {
+  "id": "marchandisation",
+  "terme": "Marchandisation",
+  "variantes": [
+   "marchandisation du corps",
+   "non-marchandisation"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Fait de soumettre à la logique marchande ce qui en était exclu, des services comme la petite enfance ou le soin, ou le corps humain lui-même. En droit français, le principe de non-patrimonialité du corps humain interdit de lui conférer une valeur marchande.",
+  "usage": "Le terme a un double usage : à gauche, il critique l’entrée du privé lucratif dans le soin et la petite enfance ; contre la GPA, Les Républicains et le Rassemblement national parlent de « marchandisation du corps des femmes » ou « de femmes », et la France insoumise propose de constitutionnaliser la « non-marchandisation du corps humain ». Les partisans d’une GPA encadrée parlent de « GPA éthique » ou « altruiste ».",
+  "concurrents": [
+   "GPA éthique",
+   "libre disposition de son corps"
+  ],
+  "notions": [
+   "gpa",
+   "financiarisation-du-soin"
+  ],
+  "motifs": [
+   "marchandisation"
+  ]
+ },
+ {
+  "id": "prevention-sante",
+  "terme": "Prévention",
+  "variantes": [
+   "prévention primaire",
+   "santé publique",
+   "dépistage"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Ensemble des actions visant à éviter l’apparition des maladies, comme la vaccination ou la lutte contre le tabac (prévention primaire), à les dépister tôt (secondaire) ou à limiter leurs complications (tertiaire). En France, la prévention représente une faible part des dépenses de santé par rapport aux soins.",
+  "usage": "Le mot fait consensus et figure dans presque tous les programmes ; les divergences portent sur les moyens, de la fiscalité et des interdictions de publicité chez les Écologistes et PS-Place publique, aux bilans de santé chez Renaissance et aux visites médicales scolaires au Rassemblement national.",
+  "concurrents": [
+   "médecine curative"
+  ],
+  "notions": [
+   "sante-mentale",
+   "affection-de-longue-duree"
+  ],
+  "motifs": [
+   "prévention en santé",
+   "politiques de prévention",
+   "plan de prévention d'ampleur",
+   "prévention des cancers",
+   "fonds territorial de prévention",
+   "place à la prévention",
+   "levier central de prévention",
+   "dépistage",
+   "prévention de long terme"
+  ]
+ },
+ {
+  "id": "fiscalite-comportementale",
+  "terme": "Fiscalité comportementale",
+  "variantes": [
+   "taxe soda",
+   "fiscalité nutritionnelle",
+   "taxe comportementale"
+  ],
+  "registre": "économique",
+  "theme": "social",
+  "definition": "Taxation de produits jugés nocifs pour la santé, comme le tabac, l’alcool ou les boissons sucrées, dans le but d’en réduire la consommation autant que de produire des recettes. La France applique par exemple une contribution sur les boissons sucrées, modulée selon leur teneur en sucre.",
+  "usage": "Les Écologistes et PS-Place publique proposent de l’étendre, au nom de la prévention ; ses critiques la jugent régressive, car elle pèse davantage sur les ménages modestes, et parlent de « taxes punitives ».",
+  "concurrents": [
+   "taxes punitives",
+   "écologie punitive"
+  ],
+  "notions": [],
+  "motifs": [
+   "taxes sur l'alcool",
+   "boissons trop sucrées",
+   "fiscalité unitaire",
+   "taxer davantage les boissons"
+  ]
+ },
+ {
+  "id": "nutriscore",
+  "terme": "Nutri-Score",
+  "variantes": [
+   "Nutriscore",
+   "étiquetage nutritionnel"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Logo d’information nutritionnelle classant les aliments de A à E selon leur composition, mis en place en France en 2017 sur une base volontaire pour les fabricants. Son algorithme a été révisé en 2023 et 2024.",
+  "usage": "Les Écologistes et PS-Place publique proposent de le rendre obligatoire ; une partie des industriels et certains gouvernements européens s’y opposent, au nom notamment de la défense de produits traditionnels.",
+  "concurrents": [
+   "étiquetage volontaire"
+  ],
+  "notions": [
+   "securite-sociale-de-l-alimentation"
+  ],
+  "motifs": [
+   "Nutriscore",
+   "Nutri-Score"
+  ]
+ },
+ {
+  "id": "ultra-transformes",
+  "terme": "Aliments ultra-transformés",
+  "variantes": [
+   "malbouffe",
+   "produits ultra-transformés"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Produits alimentaires issus de procédés industriels et contenant des ingrédients ou additifs peu utilisés en cuisine domestique, comme certains émulsifiants, colorants ou arômes. Plusieurs études associent leur consommation élevée à des risques accrus pour la santé.",
+  "usage": "Les Écologistes en font un axe de leur programme, avec l’interdiction dans les cantines ; le terme familier de « malbouffe » est absent des citations, au profit d’un vocabulaire plus technique.",
+  "concurrents": [
+   "alimentation industrielle"
+  ],
+  "notions": [
+   "securite-sociale-de-l-alimentation"
+  ],
+  "motifs": [
+   "ultra-transformés",
+   "malbouffe"
+  ]
+ },
+ {
+  "id": "sport-sur-ordonnance",
+  "terme": "Sport sur ordonnance",
+  "variantes": [
+   "activité physique adaptée",
+   "sport-santé"
+  ],
+  "registre": "administratif",
+  "theme": "social",
+  "definition": "Possibilité pour un médecin de prescrire une activité physique adaptée à un patient atteint d’une affection de longue durée ou d’une maladie chronique, ouverte par la loi de 2016. Sa prise en charge par l’Assurance maladie reste limitée.",
+  "usage": "Les Écologistes et la France insoumise proposent son remboursement ; PS-Place publique propose de généraliser le Pass’Sport Santé.",
+  "concurrents": [],
+  "notions": [
+   "affection-de-longue-duree"
+  ],
+  "motifs": [
+   "sport sur ordonnance",
+   "activité physique adaptée",
+   "Sport-Santé",
+   "Pass'Sport Santé"
+  ]
+ },
+ {
+  "id": "one-health",
+  "terme": "Une seule santé",
+  "variantes": [
+   "One Health"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Approche, promue par l’Organisation mondiale de la santé et d’autres organisations internationales, qui considère ensemble la santé humaine, la santé animale et celle des écosystèmes. Elle sert de cadre à la lutte contre les zoonoses et l’antibiorésistance.",
+  "usage": "Reprise par les Écologistes, qui proposent une mission interministérielle « One Health » ; le terme est absent des autres programmes.",
+  "concurrents": [
+   "santé environnementale"
+  ],
+  "notions": [],
+  "motifs": [
+   "One Health",
+   "antibiorésistance"
+  ]
+ },
+ {
+  "id": "minima-sociaux",
+  "terme": "Minima sociaux",
+  "variantes": [
+   "minimum social",
+   "revenus minimaux"
+  ],
+  "registre": "administratif",
+  "theme": "social",
+  "definition": "Prestations non contributives qui garantissent un revenu minimal aux personnes aux ressources faibles. La France en compte une dizaine, dont le RSA, l’allocation aux adultes handicapés, l’allocation de solidarité spécifique et l’allocation de solidarité aux personnes âgées, chacun avec ses règles propres.",
+  "usage": "Le terme est employé dans les propositions de revalorisation, à gauche, et dans celles de fusion ou de plafonnement, à droite. PS-Place publique parle d’un « minimum social unique », la France insoumise d’une « garantie dignité ».",
+  "concurrents": [
+   "aides sociales",
+   "assistance"
+  ],
+  "notions": [
+   "rsa",
+   "aah",
+   "minimum-vieillesse",
+   "allocation-sociale-unique"
+  ],
+  "motifs": [
+   "minima sociaux",
+   "minimum social"
+  ]
+ },
+ {
+  "id": "prestations-non-contributives",
+  "terme": "Prestations non contributives",
+  "variantes": [
+   "aides non contributives",
+   "solidarité nationale"
+  ],
+  "registre": "juridique",
+  "theme": "social",
+  "definition": "Prestations versées indépendamment de toute cotisation préalable, financées par l’impôt ou des contributions, comme les minima sociaux, les prestations familiales ou les aides au logement. Elles s’opposent aux prestations contributives, comme la retraite de base ou l’allocation chômage, dont le montant dépend des cotisations versées.",
+  "usage": "La distinction est mobilisée par le Rassemblement national et Reconquête pour justifier des conditions de nationalité ou de durée de résidence ; leurs opposants rappellent que ces prestations sont financées aussi par les impôts et contributions payés par les étrangers en situation régulière.",
+  "concurrents": [
+   "prestations contributives",
+   "droits sociaux"
+  ],
+  "notions": [
+   "conditionnement-des-prestations",
+   "minimum-vieillesse"
+  ],
+  "motifs": [
+   "non-contributiv*",
+   "non contributiv*"
+  ]
+ },
+ {
+  "id": "seuil-de-pauvrete",
+  "terme": "Seuil de pauvreté",
+  "variantes": [
+   "pauvreté monétaire",
+   "60 % du revenu médian"
+  ],
+  "registre": "économique",
+  "theme": "social",
+  "definition": "Niveau de vie en dessous duquel une personne est considérée comme pauvre au sens monétaire. En France et en Europe, la convention retenue le fixe à 60 % du niveau de vie médian, ce qui en fait une mesure relative, qui évolue avec la distribution des revenus.",
+  "usage": "Les Écologistes et la France insoumise en font la référence de leurs propositions de minima et de pensions ; d’autres responsables jugent ce seuil relatif et privilégient des indicateurs de privation matérielle.",
+  "concurrents": [
+   "privation matérielle",
+   "pauvreté absolue"
+  ],
+  "notions": [
+   "garantie-d-autonomie",
+   "minimum-vieillesse",
+   "minimum-contributif"
+  ],
+  "motifs": [
+   "seuil de pauvreté"
+  ]
+ },
+ {
+  "id": "conditions-de-ressources",
+  "terme": "Conditions de ressources",
+  "variantes": [
+   "prestations sous conditions de ressources",
+   "ciblage",
+   "modulation"
+  ],
+  "registre": "administratif",
+  "theme": "social",
+  "definition": "Règle selon laquelle une prestation n’est accordée, ou n’est versée à taux plein, qu’en dessous d’un certain niveau de revenus du foyer. Elle s’oppose à l’universalité, où la prestation est versée à tous les ayants droit quel que soit leur revenu.",
+  "usage": "Le choix entre ciblage et universalité structure le débat sur la politique familiale : la droite et Reconquête défendent des allocations familiales universelles, la gauche les accepte en général sous condition de ressources pour d’autres aides.",
+  "concurrents": [
+   "universalité"
+  ],
+  "notions": [
+   "allocations-familiales",
+   "minimum-jeunesse"
+  ],
+  "motifs": [
+   "conditions de ressources",
+   "condition de ressources"
+  ]
+ },
+ {
+  "id": "universalite",
+  "terme": "Universalité",
+  "variantes": [
+   "universel",
+   "prestations universelles"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Principe selon lequel une prestation ou un service est accessible à tous, sans condition de ressources, à la différence des prestations ciblées. Il fonde par exemple l’assurance maladie ou, historiquement, les allocations familiales.",
+  "usage": "À droite et à Reconquête, l’universalité des allocations familiales est défendue au nom de la politique nataliste ; à gauche, l’adjectif « universel » qualifie surtout des services publics et droits à étendre, comme l’accessibilité universelle ou une couverture universelle.",
+  "concurrents": [
+   "ciblage",
+   "conditions de ressources"
+  ],
+  "notions": [
+   "allocations-familiales",
+   "accessibilite-universelle"
+  ],
+  "motifs": [
+   "universelle",
+   "universelles",
+   "universalité",
+   "couverture universelle"
+  ]
+ },
+ {
+  "id": "deconjugalisation",
+  "terme": "Déconjugalisation",
+  "variantes": [
+   "individualisation des droits"
+  ],
+  "registre": "juridique",
+  "theme": "social",
+  "definition": "Fait de calculer une prestation en fonction des seules ressources de son bénéficiaire, sans tenir compte de celles de son conjoint ou concubin. Elle a été appliquée à l’allocation aux adultes handicapés en 2023 et est réclamée pour d’autres prestations.",
+  "usage": "Défendue au nom de l’autonomie et de la lutte contre la dépendance économique au sein du couple, elle figure dans les programmes des Écologistes, de la France insoumise et du Rassemblement national. Ses critiques mettent en avant le coût et l’écart avec la logique familiale de la plupart des aides.",
+  "concurrents": [
+   "familialisation",
+   "solidarité conjugale"
+  ],
+  "notions": [
+   "aah",
+   "allocation-de-soutien-familial"
+  ],
+  "motifs": [
+   "déconjugalis*"
+  ]
+ },
+ {
+  "id": "non-recours",
+  "terme": "Non-recours",
+  "variantes": [
+   "droits non réclamés"
+  ],
+  "registre": "administratif",
+  "theme": "social",
+  "definition": "Situation d’une personne éligible à une prestation qui ne la perçoit pas, par méconnaissance, complexité des démarches, crainte d’un contrôle ou refus de la stigmatisation. Les études estiment qu’il touche une part importante des ayants droit de certaines prestations, comme le RSA ou le minimum vieillesse.",
+  "usage": "Mis en avant par la gauche et les associations, le non-recours est souvent opposé à la fraude, pour souligner que les droits non réclamés pèsent davantage que les abus. Renaissance associe les deux thèmes dans sa « solidarité à la source ».",
+  "concurrents": [
+   "fraude sociale"
+  ],
+  "notions": [
+   "solidarite-a-la-source"
+  ],
+  "motifs": [
+   "non-recours"
+  ]
+ },
+ {
+  "id": "solidarite-a-la-source-formule",
+  "terme": "« Solidarité à la source »",
+  "variantes": [
+   "versement automatique",
+   "préremplissage"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Formule qui désigne, par analogie avec le prélèvement à la source de l’impôt, l’automatisation du calcul et du versement des prestations sociales à partir des revenus connus de l’administration.",
+  "usage": "La formule est commune aux Écologistes et à Renaissance, qui l’associent l’un à la protection face aux indus, l’autre à la lutte contre la fraude ; ses critiques s’inquiètent des erreurs automatisées et des remboursements demandés aux allocataires.",
+  "concurrents": [
+   "versement automatique des aides"
+  ],
+  "notions": [
+   "solidarite-a-la-source"
+  ],
+  "motifs": [
+   "solidarité à la source",
+   "versant automatiquement",
+   "automatisation du versement"
+  ]
+ },
+ {
+  "id": "indu",
+  "terme": "Indu",
+  "variantes": [
+   "trop-perçu",
+   "sommes indûment perçues"
+  ],
+  "registre": "administratif",
+  "theme": "social",
+  "definition": "Somme versée à tort à un allocataire, à la suite d’une erreur de déclaration, d’un changement de situation non signalé ou d’une erreur de l’organisme, que celui-ci peut réclamer. L’indu n’implique pas en lui-même de fraude.",
+  "usage": "Les Écologistes demandent une protection des allocataires face aux indus ; le Rassemblement national emploie l’adverbe « indûment » à propos des sommes fraudées, ce qui rapproche les deux notions.",
+  "concurrents": [
+   "fraude",
+   "erreur"
+  ],
+  "notions": [
+   "fraude-sociale",
+   "solidarite-a-la-source"
+  ],
+  "motifs": [
+   "indus",
+   "indûment",
+   "indument"
+  ]
+ },
+ {
+  "id": "fraudeurs",
+  "terme": "Fraude sociale et « fraudeurs »",
+  "variantes": [
+   "fraudes sociales",
+   "fraude aux prestations"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "La fraude sociale désigne l’obtention indue de prestations ou l’évitement délibéré de cotisations ; le terme « fraudeurs » désigne les personnes qui s’y livrent. La fraude aux cotisations, par exemple par le travail dissimulé, en fait partie au même titre que la fraude aux prestations.",
+  "usage": "Le Rassemblement national emploie largement ce vocabulaire, centré sur les prestations et les bénéficiaires ; la gauche lui oppose la « fraude fiscale », la « fraude patronale » aux cotisations et le « non-recours ».",
+  "concurrents": [
+   "non-recours",
+   "fraude fiscale",
+   "fraude aux cotisations"
+  ],
+  "notions": [
+   "fraude-sociale"
+  ],
+  "motifs": [
+   "fraude sociale",
+   "fraudes sociales",
+   "fraudeurs",
+   "fraude aux prestations",
+   "fraudes aux prestations"
+  ]
+ },
+ {
+  "id": "contrepartie",
+  "terme": "Contrepartie",
+  "variantes": [
+   "droits et devoirs",
+   "activité obligatoire",
+   "conditionnalité"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Idée selon laquelle le versement d’une aide doit être associé à un engagement du bénéficiaire, comme des heures d’activité, une formation ou une recherche d’emploi. Elle est inscrite pour le RSA dans le contrat d’engagement prévu par la loi pour le plein emploi.",
+  "usage": "La droite, Horizons et Renaissance en font un principe, avec l’idée de « droits et devoirs » ; les Écologistes dénoncent une « logique de stigmatisation » et veulent supprimer la contrepartie de 15 heures, la gauche parlant plutôt d’« accompagnement ».",
+  "concurrents": [
+   "accompagnement",
+   "inconditionnalité"
+  ],
+  "notions": [
+   "rsa",
+   "allocation-sociale-unique"
+  ],
+  "motifs": [
+   "contrepartie de 15 heures",
+   "contrepartie est la revalorisation",
+   "droits et devoirs",
+   "activité effective",
+   "15 heures d'activité",
+   "quinze heures d'activité"
+  ]
+ },
+ {
+  "id": "assistanat",
+  "terme": "« Assistanat »",
+  "variantes": [
+   "assistés",
+   "culture de l’assistance"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Terme péjoratif qui désigne une situation de dépendance prolongée aux aides sociales, réputée décourager le travail. Il n’a pas de définition administrative.",
+  "usage": "Employé à droite dans le débat public, il est absent des programmes étudiés, qui lui préfèrent des formulations comme « revalorisation du travail », « incitation à l’activité » ou « contrepartie ». La gauche lui oppose « solidarité » et « droits sociaux ».",
+  "concurrents": [
+   "solidarité",
+   "droits sociaux",
+   "protection sociale"
+  ],
+  "notions": [
+   "rsa",
+   "allocation-sociale-unique"
+  ],
+  "motifs": [
+   "assistanat"
+  ]
+ },
+ {
+  "id": "valeur-travail",
+  "terme": "Valeur travail",
+  "variantes": [
+   "revalorisation du travail",
+   "inciter au travail",
+   "que le travail paie"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Expression qui affirme la primauté du travail comme source de revenu, de dignité et d’intégration, et sert de critère pour évaluer les prestations sociales. Elle s’accompagne de l’objectif que le revenu tiré du travail soit toujours supérieur à celui des aides.",
+  "usage": "Revendiquée par Horizons, qui fait de la revalorisation du travail et du mérite la contrepartie de la solidarité, par Les Républicains avec le « revenu d’incitation à l’activité » et par Renaissance avec une assurance chômage qui « incite au travail ». La gauche parle plutôt de « revalorisation des salaires » ou du « travail de nuit et du week-end ».",
+  "concurrents": [
+   "revalorisation des salaires",
+   "émancipation"
+  ],
+  "notions": [
+   "allocation-sociale-unique",
+   "assurance-chomage"
+  ],
+  "motifs": [
+   "valeur travail",
+   "revalorisation du travail",
+   "inciter au travail",
+   "incite au travail",
+   "incitation à l'activité"
+  ]
+ },
+ {
+  "id": "merite",
+  "terme": "Mérite",
+  "variantes": [
+   "méritocratie"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Valeur selon laquelle les positions et rétributions doivent dépendre de l’effort et des capacités de chacun. Dans le domaine social, elle sert à justifier des aides liées à l’engagement ou au travail.",
+  "usage": "Le mot est employé par Horizons, Les Républicains, Reconquête et le Rassemblement national ; ses critiques soulignent qu’il peut masquer les inégalités de départ.",
+  "concurrents": [
+   "égalité des chances",
+   "justice sociale"
+  ],
+  "notions": [
+   "allocation-sociale-unique"
+  ],
+  "motifs": [
+   "mérite"
+  ]
+ },
+ {
+  "id": "solidarite-nationale",
+  "terme": "Solidarité nationale",
+  "variantes": [
+   "solidarité",
+   "protection sociale"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Principe selon lequel la collectivité prend en charge, par l’impôt et les cotisations, les risques de l’existence et les situations de besoin. Le préambule de la Constitution de 1946 en pose les bases, en garantissant notamment à tous la protection de la santé et des moyens convenables d’existence.",
+  "usage": "Invoquée par la plupart des partis, l’expression change de sens selon l’usage : effort auquel les très hauts patrimoines et les grands groupes doivent « contribuent équitablement » pour PS-Place publique, solidarité assortie de contreparties pour Horizons, ou prise en charge dont le Rassemblement national précise que certains mineurs étrangers ne remplissent pas les conditions.",
+  "concurrents": [
+   "charité",
+   "assistance"
+  ],
+  "notions": [
+   "branche-autonomie",
+   "conditionnement-des-prestations"
+  ],
+  "motifs": [
+   "solidarité nationale"
+  ]
+ },
+ {
+  "id": "justice-sociale",
+  "terme": "Justice sociale",
+  "variantes": [
+   "équité",
+   "juste"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Idée selon laquelle la répartition des richesses, des droits et des charges dans une société doit répondre à des exigences d’équité. Le terme est polysémique et chaque courant lui donne un contenu propre.",
+  "usage": "Revendiquée presque partout, l’expression est rare dans les citations du thème : le Rassemblement national l’emploie pour présenter son action envers les familles fragiles, PS-Place publique qualifie d’« injuste » la réforme des retraites ou de l’assurance chômage.",
+  "concurrents": [
+   "efficacité",
+   "responsabilité"
+  ],
+  "notions": [
+   "age-legal-de-depart"
+  ],
+  "motifs": [
+   "justice sociale",
+   "injustice",
+   "injuste et inefficace"
+  ]
+ },
+ {
+  "id": "dignite",
+  "terme": "Dignité",
+  "variantes": [
+   "vie digne",
+   "retraite digne"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Valeur selon laquelle toute personne doit être traitée avec respect et disposer des moyens de vivre décemment. Elle est invoquée en droit, par exemple à propos du droit à un logement décent, et en éthique médicale.",
+  "usage": "Le mot sert surtout à gauche à qualifier des droits à garantir, comme la « garantie dignité » de la France insoumise ; il est aussi revendiqué par le Rassemblement national pour une retraite « juste et digne ». Son usage dans le débat sur la fin de vie, avec « mourir dans la dignité », est disputé par les opposants à l’aide à mourir.",
+  "concurrents": [
+   "décence"
+  ],
+  "notions": [
+   "garantie-d-autonomie",
+   "fin-de-vie"
+  ],
+  "motifs": [
+   "garantie dignité",
+   "respecte la dignité",
+   "juste et digne",
+   "parcours de vie digne",
+   "accès digne",
+   "prospère et digne"
+  ]
+ },
+ {
+  "id": "stigmatisation",
+  "terme": "Stigmatisation",
+  "variantes": [
+   "stigmatiser"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Fait d’attacher une image négative à un groupe, par exemple aux bénéficiaires d’aides sociales. Elle est l’une des causes identifiées du non-recours aux droits.",
+  "usage": "Employé par les Écologistes pour justifier la suppression de la contrepartie au RSA ; les partisans de la conditionnalité récusent ce terme et parlent de « responsabilisation ».",
+  "concurrents": [
+   "responsabilisation"
+  ],
+  "notions": [
+   "rsa",
+   "solidarite-a-la-source"
+  ],
+  "motifs": [
+   "stigmatis*"
+  ]
+ },
+ {
+  "id": "reformes-regressives",
+  "terme": "« Réformes régressives » et « réformes Macron »",
+  "variantes": [
+   "casse sociale",
+   "recul social"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Expressions critiques désignant des réformes jugées comme des reculs des droits sociaux, notamment celles des retraites et de l’assurance chômage adoptées sous les présidences d’Emmanuel Macron. Elles n’ont pas de sens technique.",
+  "usage": "La gauche et le Rassemblement national nomment les réformes par le nom du président pour en souligner la responsabilité politique ; leurs défenseurs parlent de réformes « nécessaires », de « sauvegarde » ou de « modernisation » du système. L’expression « casse sociale » est absente des citations étudiées.",
+  "concurrents": [
+   "réformes structurelles",
+   "modernisation"
+  ],
+  "notions": [
+   "age-legal-de-depart",
+   "assurance-chomage"
+  ],
+  "motifs": [
+   "réformes régressives",
+   "réforme Macron",
+   "réformes Macron",
+   "réforme d'Emmanuel Macron",
+   "casse sociale"
+  ]
+ },
+ {
+  "id": "sanctuariser",
+  "terme": "Sanctuariser",
+  "variantes": [
+   "sanctuarisation"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Verbe signifiant protéger un droit ou une dépense de toute remise en cause future. Il est employé à propos de budgets, de droits ou de règles jugés intangibles.",
+  "usage": "PS-Place publique l’emploie pour la retraite à 62 ans ; le verbe connote l’intangibilité et se retrouve, dans d’autres thèmes, chez Reconquête et le Rassemblement national.",
+  "concurrents": [
+   "réformer",
+   "adapter"
+  ],
+  "notions": [
+   "age-legal-de-depart"
+  ],
+  "motifs": [
+   "sanctuariser"
+  ]
+ },
+ {
+  "id": "familles-francaises",
+  "terme": "« Familles françaises »",
+  "variantes": [
+   "natalité française"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Expression qui désigne les familles dont les membres, ou au moins un parent, ont la nationalité française, employée pour cibler des prestations familiales.",
+  "usage": "Utilisée par Reconquête pour les allocations familiales et dans une formulation proche par le Rassemblement national, elle associe politique familiale et nationalité ; la gauche et le centre parlent de « familles » sans distinction.",
+  "concurrents": [
+   "familles",
+   "toutes les familles"
+  ],
+  "notions": [
+   "allocations-familiales",
+   "conditionnement-des-prestations"
+  ],
+  "motifs": [
+   "familles françaises",
+   "au moins l'un des deux parents est Français"
+  ]
+ },
+ {
+  "id": "dependance",
+  "terme": "Dépendance",
+  "variantes": [
+   "personnes âgées dépendantes",
+   "aînés dépendants"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Terme usuel qui désigne la situation d’une personne ayant besoin d’aide pour les actes de la vie quotidienne. Il reste employé dans le nom des Ehpad et dans les grilles d’évaluation, mais les textes récents lui préfèrent « perte d’autonomie ».",
+  "usage": "Le mot est encore courant chez les Écologistes (« service public de la dépendance »), la France insoumise et Les Républicains ; les associations de personnes âgées et handicapées lui reprochent de réduire la personne à ses incapacités et préfèrent « perte d’autonomie ».",
+  "concurrents": [
+   "perte d’autonomie"
+  ],
+  "notions": [
+   "branche-autonomie",
+   "ehpad"
+  ],
+  "motifs": [
+   "service public de la dépendance",
+   "solidaire de la dépendance",
+   "aînés dépendants",
+   "personnes âgées dépendantes",
+   "proche dépendant",
+   "très dépendantes"
+  ]
+ },
+ {
+  "id": "perte-d-autonomie",
+  "terme": "Perte d’autonomie",
+  "variantes": [
+   "autonomie",
+   "grand âge"
+  ],
+  "registre": "administratif",
+  "theme": "social",
+  "definition": "Expression officielle désignant la diminution de la capacité d’une personne à accomplir seule les actes de la vie quotidienne. Elle donne son nom à la cinquième branche de la Sécurité sociale, la branche autonomie, et s’évalue pour les personnes âgées avec la grille AGGIR.",
+  "usage": "Employée par la France insoumise, PS-Place publique et le Rassemblement national, elle insiste sur le maintien des capacités et sur l’accompagnement plutôt que sur l’incapacité.",
+  "concurrents": [
+   "dépendance"
+  ],
+  "notions": [
+   "branche-autonomie",
+   "maintien-a-domicile"
+  ],
+  "motifs": [
+   "perte d'autonomie",
+   "branche autonomie"
+  ]
+ },
+ {
+  "id": "aines",
+  "terme": "« Nos aînés »",
+  "variantes": [
+   "aînés",
+   "seniors",
+   "personnes âgées",
+   "grand âge"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Termes désignant les personnes âgées. « Personnes âgées » est la formule administrative, « seniors » renvoie plutôt aux travailleurs âgés ou aux jeunes retraités, et « grand âge » aux personnes très âgées.",
+  "usage": "« Nos aînés », formule affective, est employée par PS-Place publique, Renaissance, Les Républicains et le Rassemblement national ; les Écologistes écrivent « aîné·es » ou « personnes âgées ». Renaissance parle de « seniors » à propos de l’emploi et du cumul emploi-retraite.",
+  "concurrents": [
+   "personnes âgées",
+   "seniors"
+  ],
+  "notions": [
+   "ehpad",
+   "maintien-a-domicile"
+  ],
+  "motifs": [
+   "nos aînés",
+   "aînés",
+   "aîné·es",
+   "seniors"
+  ]
+ },
+ {
+  "id": "grand-age",
+  "terme": "Grand âge",
+  "variantes": [
+   "très grand âge",
+   "loi grand âge"
+  ],
+  "registre": "administratif",
+  "theme": "social",
+  "definition": "Expression qui désigne les personnes très âgées, souvent au-delà de 80 ou 85 ans, plus exposées à la perte d’autonomie. Une « loi grand âge » a été annoncée à plusieurs reprises par les gouvernements successifs.",
+  "usage": "La France insoumise propose un « plan Grand âge », les Écologistes un repérage des situations d’isolement avant le « très grand âge ».",
+  "concurrents": [
+   "vieillesse"
+  ],
+  "notions": [
+   "branche-autonomie",
+   "ehpad"
+  ],
+  "motifs": [
+   "grand âge"
+  ]
+ },
+ {
+  "id": "taux-d-encadrement-medico-social",
+  "terme": "Taux d’encadrement (établissements sociaux et médico-sociaux)",
+  "variantes": [
+   "ratio d’encadrement",
+   "ratio soignants-patients"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Rapport entre le nombre de professionnels et le nombre de personnes accueillies dans un établissement ou un service, comme un Ehpad, une crèche ou une structure de l’aide sociale à l’enfance. Il peut être fixé par la réglementation à titre de minimum ou constituer un simple indicateur de qualité.",
+  "usage": "La gauche réclame des ratios minimaux opposables, au « chevet » des résidents pour la France insoumise ; les gestionnaires et les départements mettent en avant les difficultés de recrutement et le coût.",
+  "concurrents": [
+   "qualité de service"
+  ],
+  "notions": [
+   "ehpad",
+   "protection-de-l-enfance"
+  ],
+  "motifs": [
+   "taux d'encadrement",
+   "ratio minimal d'encadrement",
+   "socle minimal d'encadrement",
+   "amélioration du taux d'encadrement"
+  ]
+ },
+ {
+  "id": "maltraitance",
+  "terme": "Maltraitance",
+  "variantes": [
+   "maltraitance institutionnelle",
+   "bientraitance"
+  ],
+  "registre": "juridique",
+  "theme": "social",
+  "definition": "Toute forme de violence, de négligence ou d’atteinte à la dignité infligée à une personne vulnérable, enfant, personne âgée ou handicapée, par un individu ou par le fonctionnement d’une institution. La loi de 2022 relative à la protection des enfants en a inscrit une définition dans le Code de l’action sociale et des familles.",
+  "usage": "Le terme est mobilisé après les révélations dans des Ehpad et des crèches privées, par PS-Place publique notamment, pour justifier contrôles et encadrement ; le terme symétrique de « bientraitance » est utilisé par les institutions.",
+  "concurrents": [
+   "bientraitance"
+  ],
+  "notions": [
+   "ehpad",
+   "protection-de-l-enfance",
+   "financiarisation-du-soin"
+  ],
+  "motifs": [
+   "l'abandon et la maltraitance",
+   "y compris les maltraitances",
+   "maltraitance institutionnelle"
+  ]
+ },
+ {
+  "id": "situation-de-handicap",
+  "terme": "Personne en situation de handicap",
+  "variantes": [
+   "personnes handicapées",
+   "handicap"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Formule qui met l’accent sur le fait que le handicap résulte de l’interaction entre une incapacité et un environnement inadapté, conformément à la définition de la loi de 2005 et de la Convention des Nations unies relative aux droits des personnes handicapées.",
+  "usage": "Préférée par les associations et la plupart des programmes, elle coexiste avec « personnes handicapées », formule juridique encore courante, et avec « enfants handicapés » chez Les Républicains.",
+  "concurrents": [
+   "personnes handicapées",
+   "handicapés"
+  ],
+  "notions": [
+   "aah",
+   "accessibilite-universelle"
+  ],
+  "motifs": [
+   "situation de handicap"
+  ]
+ },
+ {
+  "id": "societe-inclusive",
+  "terme": "Inclusion et milieu ordinaire",
+  "variantes": [
+   "société inclusive",
+   "école inclusive",
+   "milieu ordinaire"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "L’inclusion désigne l’objectif de permettre aux personnes handicapées de vivre, d’étudier et de travailler dans les mêmes lieux que les autres, le « milieu ordinaire », plutôt que dans des établissements spécialisés.",
+  "usage": "PS-Place publique et Les Républicains emploient ce vocabulaire ; une partie des familles et des professionnels craignent qu’il serve à réduire les places en établissements spécialisés, que d’autres veulent développer.",
+  "concurrents": [
+   "établissements spécialisés",
+   "milieu protégé"
+  ],
+  "notions": [
+   "accessibilite-universelle",
+   "aah"
+  ],
+  "motifs": [
+   "inclusion des travailleurs handicapés",
+   "milieu ordinaire",
+   "transition inclusive"
+  ]
+ },
+ {
+  "id": "desinstitutionnalisation",
+  "terme": "Désinstitutionnalisation",
+  "variantes": [
+   "sortie des institutions"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Processus consistant à remplacer progressivement l’accueil des personnes handicapées en institutions par des solutions de vie dans la cité avec un accompagnement adapté. Le Comité des droits des personnes handicapées des Nations unies l’a recommandée à la France.",
+  "usage": "Seuls les Écologistes l’inscrivent dans leur programme, avec un échéancier ; ses opposants, parmi certaines associations gestionnaires et familles, défendent le maintien d’établissements spécialisés.",
+  "concurrents": [
+   "établissements spécialisés"
+  ],
+  "notions": [
+   "accessibilite-universelle"
+  ],
+  "motifs": [
+   "désinstitutionnalisation"
+  ]
+ },
+ {
+  "id": "repit",
+  "terme": "Répit",
+  "variantes": [
+   "structures de répit",
+   "relayage",
+   "baluchonnage"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Solutions permettant aux proches aidants de se reposer en confiant temporairement la personne aidée : accueil de jour, hébergement temporaire ou relais à domicile. Le « baluchonnage », inspiré du Québec, désigne un relais de plusieurs jours au domicile par un professionnel.",
+  "usage": "Les Écologistes et PS-Place publique en font un pilier du soutien aux aidants.",
+  "concurrents": [],
+  "notions": [
+   "proches-aidants"
+  ],
+  "motifs": [
+   "répit",
+   "baluchonnage"
+  ]
+ },
+ {
+  "id": "aidant",
+  "terme": "Aidant",
+  "variantes": [
+   "proche aidant",
+   "aidant familial",
+   "aidant·e"
+  ],
+  "registre": "administratif",
+  "theme": "social",
+  "definition": "Personne qui vient en aide, de manière régulière et non professionnelle, à un proche âgé, malade ou handicapé. Le Code de l’action sociale et des familles et le Code du travail parlent de « proche aidant ».",
+  "usage": "« Aidant familial » est la formule de Les Républicains et des Écologistes, « proche aidant » celle du Rassemblement national, PS-Place publique employant les deux ; elles désignent la même réalité.",
+  "concurrents": [
+   "proche aidant",
+   "aidant familial"
+  ],
+  "notions": [
+   "proches-aidants"
+  ],
+  "motifs": [
+   "aidants familiaux",
+   "aidant familial",
+   "proche aidant",
+   "proches aidants",
+   "proches-aidants",
+   "aidant·es"
+  ]
+ },
+ {
+  "id": "guichet-unique",
+  "terme": "Guichet unique",
+  "variantes": [
+   "interlocuteur unique",
+   "référent unique",
+   "porte d’entrée unique"
+  ],
+  "registre": "administratif",
+  "theme": "social",
+  "definition": "Dispositif administratif visant à regrouper en un seul point d’accueil les démarches relevant de plusieurs organismes, pour simplifier l’accès aux droits. Les maisons départementales des personnes handicapées ou les espaces France Services en sont des exemples.",
+  "usage": "Formule consensuelle, reprise par Les Républicains pour le handicap, Renaissance pour le maintien à domicile et PS-Place publique pour la Sécurité sociale ; elle s’accompagne souvent de propositions de « simplification ».",
+  "concurrents": [
+   "simplification"
+  ],
+  "notions": [
+   "solidarite-a-la-source",
+   "maintien-a-domicile"
+  ],
+  "motifs": [
+   "guichets uniques de sécurité sociale",
+   "seule porte d'entrée",
+   "référent social unique",
+   "seul interlocuteur",
+   "un seul interlocuteur"
+  ]
+ },
+ {
+  "id": "demi-part",
+  "terme": "Demi-part fiscale des veuves",
+  "variantes": [
+   "demi-part",
+   "part fiscale"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Demi-part supplémentaire de quotient familial accordée à certains contribuables vivant seuls, notamment les veufs et veuves ayant élevé un enfant. Son accès a été restreint par la loi de finances pour 2009, avec une extinction progressive pour une partie des bénéficiaires.",
+  "usage": "Reconquête propose de la rétablir, en lien avec la revalorisation des pensions de réversion.",
+  "concurrents": [],
+  "notions": [
+   "pension-de-reversion"
+  ],
+  "motifs": [
+   "demi-part"
+  ]
+ },
+ {
+  "id": "natalite",
+  "terme": "Natalité",
+  "variantes": [
+   "politique nataliste",
+   "réarmement démographique",
+   "familles nombreuses"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Fréquence des naissances dans une population. Une politique nataliste vise à encourager les naissances par des aides, des services ou des avantages fiscaux. La fécondité en France a nettement baissé depuis le milieu des années 2010.",
+  "usage": "Reconquête, Les Républicains et le Rassemblement national formulent des mesures explicitement natalistes, comme une prime de naissance en zone rurale ou des aides au troisième enfant ; la gauche parle plutôt de « conciliation » entre vie familiale et professionnelle et d’égalité entre parents.",
+  "concurrents": [
+   "conciliation vie familiale et vie professionnelle",
+   "libre choix"
+  ],
+  "notions": [
+   "allocations-familiales"
+  ],
+  "motifs": [
+   "natalité",
+   "familles nombreuses",
+   "troisième enfant",
+   "3ème enfant"
+  ]
+ },
+ {
+  "id": "charge-mentale",
+  "terme": "Charge mentale et travail invisible",
+  "variantes": [
+   "travail domestique",
+   "travail gratuit"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "La charge mentale désigne le poids de l’organisation des tâches domestiques et familiales, qui repose majoritairement sur les femmes ; le travail invisible ou domestique désigne les tâches non rémunérées accomplies au sein du foyer.",
+  "usage": "Ce vocabulaire, issu des analyses féministes, est repris par les Écologistes, qui proposent de publier chaque année des statistiques sur le sujet ; il est absent des autres programmes.",
+  "concurrents": [
+   "répartition des tâches"
+  ],
+  "notions": [
+   "conge-de-naissance",
+   "proches-aidants"
+  ],
+  "motifs": [
+   "charge mentale",
+   "travail invisible",
+   "travail domestique"
+  ]
+ },
+ {
+  "id": "droit-opposable",
+  "terme": "Droit opposable",
+  "variantes": [
+   "opposabilité"
+  ],
+  "registre": "juridique",
+  "theme": "social",
+  "definition": "Droit dont le titulaire peut exiger la mise en œuvre devant une autorité, puis un juge, en cas de défaillance de la puissance publique. Le droit au logement opposable, créé en 2007, en est l’exemple le plus connu.",
+  "usage": "La formule est reprise dans de nombreux programmes pour la garde d’enfants, chez PS-Place publique et Renaissance, pour l’accompagnement social chez les Écologistes ou pour les visites en Ehpad au Rassemblement national. Ses critiques soulignent que son effectivité dépend des moyens disponibles.",
+  "concurrents": [
+   "droit-créance",
+   "objectif"
+  ],
+  "notions": [
+   "droit-opposable-garde",
+   "logement-d-abord"
+  ],
+  "motifs": [
+   "droit opposable"
+  ]
+ },
+ {
+  "id": "interet-superieur-de-l-enfant",
+  "terme": "Intérêt supérieur de l’enfant",
+  "variantes": [],
+  "registre": "juridique",
+  "theme": "social",
+  "definition": "Principe posé par la Convention internationale des droits de l’enfant de 1989, selon lequel l’intérêt de l’enfant doit être une considération primordiale dans toutes les décisions qui le concernent. Il est invoqué par les juges et les législateurs en matière de filiation, de protection de l’enfance et d’éducation.",
+  "usage": "La France insoumise l’invoque en lien avec son refus de la GPA ; il est aussi mobilisé par les partisans de la reconnaissance de la filiation des enfants nés par GPA à l’étranger, ce qui illustre son usage dans des sens opposés.",
+  "concurrents": [],
+  "notions": [
+   "gpa",
+   "protection-de-l-enfance"
+  ],
+  "motifs": [
+   "intérêt supérieur de l'enfant",
+   "droits de l'enfant"
+  ]
+ },
+ {
+  "id": "sorties-seches",
+  "terme": "Sorties sèches",
+  "variantes": [
+   "fin de prise en charge à 18 ans"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Expression qui désigne la fin brutale de la prise en charge par l’aide sociale à l’enfance à la majorité, sans solution de logement, de ressources ou d’accompagnement. La loi de 2022 a cherché à les limiter en renforçant l’accompagnement des jeunes majeurs.",
+  "usage": "Employée par la France insoumise et les associations d’anciens enfants placés ; les Écologistes proposent une prise en charge obligatoire jusqu’à 25 ans.",
+  "concurrents": [
+   "contrat jeune majeur",
+   "accompagnement vers l’autonomie"
+  ],
+  "notions": [
+   "protection-de-l-enfance"
+  ],
+  "motifs": [
+   "sorties sèches"
+  ]
+ },
+ {
+  "id": "filiation",
+  "terme": "Filiation",
+  "variantes": [
+   "lien de filiation",
+   "reconnaissance conjointe anticipée"
+  ],
+  "registre": "juridique",
+  "theme": "social",
+  "definition": "Lien juridique entre un enfant et ses parents, établi par la loi selon plusieurs modes : effet de la loi pour la mère et le mari, reconnaissance, possession d’état, adoption ou, pour les couples de femmes ayant recours à la PMA, reconnaissance conjointe anticipée.",
+  "usage": "Les Écologistes et la France insoumise proposent la « filiation par reconnaissance comme principe par défaut », PS-Place publique l’alignement des droits des couples LGBTQIA+ ; le Rassemblement national refuse de reconnaître la filiation des enfants nés par GPA à l’étranger.",
+  "concurrents": [
+   "parentalité"
+  ],
+  "notions": [
+   "pma",
+   "gpa"
+  ],
+  "motifs": [
+   "filiation"
+  ]
+ },
+ {
+  "id": "parents-d-intention",
+  "terme": "Parents d’intention",
+  "variantes": [
+   "parents commanditaires"
+  ],
+  "registre": "juridique",
+  "theme": "social",
+  "definition": "Personnes qui ont recours à une GPA et à qui l’enfant est destiné, par opposition à la femme qui le porte. Le choix du terme est lui-même discuté.",
+  "usage": "« Parents d’intention » est employé par les Écologistes ; les opposants à la GPA parlent parfois de « commanditaires », terme qui souligne la dimension contractuelle.",
+  "concurrents": [
+   "parents commanditaires"
+  ],
+  "notions": [
+   "gpa"
+  ],
+  "motifs": [
+   "parents d'intention"
+  ]
+ },
+ {
+  "id": "autodetermination-de-genre",
+  "terme": "Autodétermination de genre",
+  "variantes": [
+   "parcours de transition",
+   "identité de genre",
+   "personnes trans"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Principe selon lequel une personne peut faire reconnaître son identité de genre sur sa seule déclaration, sans condition médicale. En France, le changement de la mention du sexe à l’état civil est possible depuis 2016 sans condition d’opération chirurgicale, devant le tribunal judiciaire.",
+  "usage": "PS-Place publique et les Écologistes l’emploient et proposent un accompagnement des transitions, y compris pour les mineurs chez les Écologistes ; ses opposants, à droite et dans une partie du mouvement féministe, contestent ce principe, notamment pour les mineurs.",
+  "concurrents": [
+   "changement d’état civil",
+   "protection des mineurs"
+  ],
+  "notions": [
+   "pma"
+  ],
+  "motifs": [
+   "autodétermination de genre",
+   "personnes trans",
+   "parcours de transition",
+   "traitements de transition",
+   "questionnement de genre"
+  ]
+ },
+ {
+  "id": "mourir-dans-la-dignite",
+  "terme": "« Droit de mourir dans la dignité »",
+  "variantes": [
+   "mort dans la dignité",
+   "fin de vie digne"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Formule popularisée par l’Association pour le droit de mourir dans la dignité, qui désigne la revendication d’un droit à choisir les conditions et le moment de sa mort, y compris avec une aide médicale.",
+  "usage": "Employée par la France insoumise et PS-Place publique ; ses opposants contestent qu’une mort non assistée soit moins digne et parlent d’« euthanasie » ou de « suicide assisté ».",
+  "concurrents": [
+   "euthanasie",
+   "suicide assisté",
+   "soins palliatifs"
+  ],
+  "notions": [
+   "fin-de-vie"
+  ],
+  "motifs": [
+   "mourir dans la dignité",
+   "fin de vie digne"
+  ]
+ },
+ {
+  "id": "aide-a-mourir",
+  "terme": "Aide active à mourir",
+  "variantes": [
+   "aide à mourir",
+   "assistance médicale à mourir"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Expression générique qui recouvre le suicide assisté et l’euthanasie, retenue notamment par la convention citoyenne sur la fin de vie ; la loi du 18 août 2026 parle de « droit à l’aide à mourir ».",
+  "usage": "Employée par les Écologistes, elle évite les mots d’euthanasie et de suicide ; ses opposants y voient un euphémisme et préfèrent les termes juridiques précis.",
+  "concurrents": [
+   "euthanasie",
+   "suicide assisté"
+  ],
+  "notions": [
+   "fin-de-vie"
+  ],
+  "motifs": [
+   "aide active à mourir",
+   "aide à mourir"
+  ]
+ },
+ {
+  "id": "euthanasie",
+  "terme": "Euthanasie et suicide assisté",
+  "variantes": [
+   "euthanasie",
+   "suicide assisté"
+  ],
+  "registre": "juridique",
+  "theme": "social",
+  "definition": "L’euthanasie est l’acte par lequel un tiers, généralement un médecin, provoque délibérément la mort d’un patient à sa demande. Le suicide assisté consiste à fournir au patient le moyen de mettre fin lui-même à ses jours. Ces deux actes étaient interdits en France jusqu’à la loi du 18 août 2026 relative au droit à l’aide à mourir, qui autorise sous conditions strictes l’administration d’une substance létale par la personne elle-même ou, si elle n’en est pas physiquement capable, par un médecin ou un infirmier, sans employer ces deux termes. Ils sont autorisés sous conditions dans plusieurs pays, comme la Belgique, les Pays-Bas ou la Suisse pour le seul suicide assisté.",
+  "usage": "La France insoumise emploie ces termes pour définir le droit qu’elle propose ; ailleurs, ils sont plutôt utilisés par les opposants à une légalisation, qui y voient une description plus exacte que « aide à mourir ».",
+  "concurrents": [
+   "aide à mourir"
+  ],
+  "notions": [
+   "fin-de-vie"
+  ],
+  "motifs": [
+   "euthanasie",
+   "suicide assisté"
+  ]
+ },
+ {
+  "id": "soins-palliatifs",
+  "terme": "Soins palliatifs",
+  "variantes": [
+   "unités de soins palliatifs",
+   "sédation profonde et continue"
+  ],
+  "registre": "technique",
+  "theme": "social",
+  "definition": "Soins actifs et continus visant à soulager la douleur et la souffrance des personnes atteintes d’une maladie grave, évolutive ou terminale, et à accompagner leurs proches. L’accès y reste inégal selon les territoires, plusieurs départements étant dépourvus d’unité spécialisée.",
+  "usage": "Leur développement fait consensus ; les opposants à l’aide à mourir en font la priorité, tandis que les Écologistes et la France insoumise associent leur accès universel à la légalisation.",
+  "concurrents": [
+   "aide à mourir"
+  ],
+  "notions": [
+   "fin-de-vie"
+  ],
+  "motifs": [
+   "soins palliatifs"
+  ]
+ },
+ {
+  "id": "ivg-et-avortement",
+  "terme": "IVG et avortement",
+  "variantes": [
+   "interruption volontaire de grossesse",
+   "avortement"
+  ],
+  "registre": "juridique",
+  "theme": "social",
+  "definition": "Interruption volontaire de grossesse est le terme juridique, consacré par la loi Veil de 1975 ; « avortement » est le mot courant. Depuis 2024, la Constitution garantit la liberté d’y recourir dans les conditions fixées par la loi.",
+  "usage": "Les programmes de gauche emploient le sigle IVG et parlent de « droit » ou d’« effectivité » ; la formule constitutionnelle retenue en 2024, une « liberté garantie », résulte d’un compromis entre ceux qui voulaient un « droit » et ceux qui le refusaient.",
+  "concurrents": [
+   "liberté garantie",
+   "droit à l’IVG"
+  ],
+  "notions": [
+   "ivg"
+  ],
+  "motifs": [
+   "IVG",
+   "interruption volontaire de grossesse",
+   "avortement"
+  ]
+ },
+ {
+  "id": "requisition",
+  "terme": "Réquisition des logements vacants",
+  "variantes": [
+   "réquisition",
+   "logements vides"
+  ],
+  "registre": "juridique",
+  "theme": "social",
+  "definition": "Procédure permettant au préfet d’attribuer temporairement à des personnes mal logées des logements vacants, prévue par le Code de la construction et de l’habitation depuis une ordonnance de 1945 et complétée en 1998 par une procédure visant les logements appartenant à des personnes morales. Elle a été rarement utilisée.",
+  "usage": "La France insoumise propose d’y recourir en situation d’urgence pour loger les sans-abri ; ses opposants invoquent le droit de propriété et privilégient les incitations à remettre les logements sur le marché.",
+  "concurrents": [
+   "mobilisation des logements vacants",
+   "droit de propriété"
+  ],
+  "notions": [
+   "logement-d-abord"
+  ],
+  "motifs": [
+   "réquisition des logements",
+   "droit de réquisition pour lutter contre les logements vacants",
+   "réquisition des logements vides"
+  ]
+ },
+ {
+  "id": "deserts-alimentaires",
+  "terme": "Déserts alimentaires",
+  "variantes": [
+   "précarité alimentaire",
+   "insécurité alimentaire"
+  ],
+  "registre": "élément de langage",
+  "theme": "social",
+  "definition": "Territoires où l’accès à une alimentation saine et abordable est difficile, faute de commerces à proximité ou du fait de leur coût. La précarité alimentaire désigne plus largement la difficulté d’un ménage à se nourrir suffisamment et correctement.",
+  "usage": "L’expression, calquée sur « déserts médicaux », est employée par les Écologistes ; le vocabulaire de la « précarité alimentaire » et de l’« aide alimentaire » est plus répandu dans les autres programmes.",
+  "concurrents": [
+   "précarité alimentaire",
+   "aide alimentaire"
+  ],
+  "notions": [
+   "securite-sociale-de-l-alimentation"
+  ],
+  "motifs": [
+   "déserts alimentaires",
+   "précarité alimentaire",
+   "aide alimentaire"
+  ]
+ }
+]

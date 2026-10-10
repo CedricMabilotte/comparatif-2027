@@ -3,7 +3,7 @@
 // Produit data/corpus.json, docs/SOURCES.md et travail/rapport.json.
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from "node:fs";
 import { createHash } from "node:crypto";
-import { referentiel, chercher, texteDe, normaliserCitation } from "./texte.mjs";
+import { referentiel, chercher, texteDe, normaliserCitation, compilerMotif } from "./texte.mjs";
 
 const racine = new URL("../", import.meta.url);
 const lire = (chemin, defaut) => existsSync(new URL(chemin, racine)) ? JSON.parse(readFileSync(new URL(chemin, racine))) : defaut;
@@ -75,6 +75,46 @@ if (existsSync(dLex)) for (const f of readdirSync(dLex).filter((f) => f.endsWith
 }
 for (const c of Object.values(lexique)) for (const f of Object.values(c)) f.appuis = (f.appuis || []).filter((id) => ids.has(id));
 
+
+// Concepts précis (data/notions/<thème>.json) et vocabulaire politique (data/vocabulaire/<thème>.json).
+// Les propositions qui en parlent sont repérées par les motifs dans les citations vérifiées, jamais écrites à la main.
+const avertissements = [];
+const charger = (sousDossier) => {
+  const d = new URL(sousDossier, racine), parId = new Map();
+  if (!existsSync(d)) return [];
+  for (const f of readdirSync(d).filter((f) => f.endsWith(".json")).sort()) for (const e of lire(sousDossier + f, [])) {
+    if (!e.id) { avertissements.push(`${sousDossier}${f} : entrée sans id`); continue; }
+    const deja = parId.get(e.id);
+    if (!deja) { parId.set(e.id, { ...e, themes: [...new Set([e.theme, ...(e.autres_themes || [])].filter(Boolean))] }); continue; }
+    // Même concept rédigé dans deux thèmes : on garde la première rédaction et on réunit motifs, liens et positions.
+    deja.themes = [...new Set([...deja.themes, e.theme, ...(e.autres_themes || [])].filter(Boolean))];
+    for (const k of ["motifs", "variantes", "liens", "concurrents", "notions", "reperes"]) if (e[k]) deja[k] = [...new Set([...(deja[k] || []), ...e[k]])];
+    if (e.positions) deja.positions = { ...e.positions, ...(deja.positions || {}) };
+  }
+  return [...parId.values()];
+};
+const reperer = (e) => {
+  const fs = (e.motifs || []).filter(Boolean).map(compilerMotif);
+  const vus = fs.length ? propositions.filter((p) => fs.some((f) => f(p.citation))) : [];
+  const usage = {};
+  for (const p of vus) usage[p.candidature] = (usage[p.candidature] || 0) + 1;
+  return { propositions: vus.map((p) => p.id), usage };
+};
+const notions = charger("data/notions/").map((n) => {
+  for (const [c, f] of Object.entries(n.positions || {})) {
+    f.appuis = (f.appuis || []).filter((id) => ids.has(id) || !avertissements.push(`notion ${n.id} / ${c} : appui inconnu ${id}`));
+    if (!referentiel.candidatures.some((k) => k.id === c)) { avertissements.push(`notion ${n.id} : parti inconnu ${c}`); delete n.positions[c]; }
+  }
+  const { motifs, ...reste } = n;
+  return { ...reste, ...reperer(n) };
+}).sort((a, b) => a.nom.localeCompare(b.nom, "fr"));
+const idsNotions = new Set(notions.map((n) => n.id));
+for (const n of notions) n.liens = (n.liens || []).filter((l) => l !== n.id && idsNotions.has(l));
+const vocabulaire = charger("data/vocabulaire/").map((v) => {
+  // « usage » rédigé (lecture éditoriale) devient « lecture » ; « usage » porte les comptages par parti.
+  const { motifs, usage, ...reste } = v;
+  return { ...reste, lecture: typeof usage === "string" ? usage : null, notions: (v.notions || []).filter((l) => idsNotions.has(l)), ...reperer(v) };
+}).sort((a, b) => a.terme.localeCompare(b.terme, "fr"));
 const compte = {};
 for (const p of propositions) { compte[p.candidature] ??= {}; compte[p.candidature][p.theme] = (compte[p.candidature][p.theme] || 0) + 1; }
 
@@ -83,7 +123,7 @@ const corpus = {
     avertissement: "Bêta : corpus relevé dans les documents écrits officiels des formations, en cours de relecture. Chaque citation est vérifiée mot pour mot dans sa source." },
   candidatures: referentiel.candidatures,
   documents: referentiel.documents.map(({ fichier, telechargement, ...d }) => ({ ...d, citations: propositions.filter((p) => p.source.document === d.id).length })),
-  themes: referentiel.themes, concepts: referentiel.concepts, propositions, lexique,
+  themes: referentiel.themes, concepts: referentiel.concepts, propositions, lexique, notions, vocabulaire,
 };
 writeFileSync(new URL("data/corpus.json", racine), JSON.stringify(corpus, null, 1));
 
@@ -105,8 +145,9 @@ for (const c of referentiel.candidatures) {
 writeFileSync(new URL("docs/SOURCES.md", racine), lignes.join("\n"));
 
 mkdirSync(new URL("travail/", racine), { recursive: true });
-writeFileSync(new URL("travail/rapport.json", racine), JSON.stringify({ total: propositions.length, echecs, compte }, null, 1));
-console.log(`${propositions.length} propositions vérifiées, ${echecs.length} écartées`);
+writeFileSync(new URL("travail/rapport.json", racine), JSON.stringify({ total: propositions.length, echecs, compte, avertissements }, null, 1));
+console.log(`${propositions.length} propositions vérifiées, ${echecs.length} écartées ; ${notions.length} concepts, ${vocabulaire.length} termes`);
+for (const a of avertissements.slice(0, 30)) console.log("  ! " + a);
 for (const c of referentiel.candidatures) console.log(c.id.padEnd(12), referentiel.themes.map((t) => `${t.id}:${compte[c.id]?.[t.id] || 0}`).join(" "));
 if (texteManquant) console.log("Attention : textes sources absents, lancer scripts/telecharger-sources.sh");
 process.exit(echecs.length && process.argv.includes("--strict") ? 1 : 0);

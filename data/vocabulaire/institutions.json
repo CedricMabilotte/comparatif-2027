@@ -1,0 +1,2051 @@
+[
+ {
+  "id": "monarchie-presidentielle",
+  "terme": "Monarchie présidentielle",
+  "variantes": [
+   "monarchie républicaine",
+   "hyperprésidence"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Expression critique qui désigne la concentration des pouvoirs entre les mains du Président de la République sous la Ve République. Elle renvoie à ses prérogatives propres (dissolution, article 16, nominations), à l’élection au suffrage universel direct depuis 1962 et à l’alignement du calendrier législatif sur la présidentielle depuis 2002.",
+  "usage": "Le terme est employé par les Écologistes, qui proposent d’« abolir la monarchie présidentielle », et plus largement par les partisans d’une 6e République. Il met l’accent sur le déséquilibre des pouvoirs ; les défenseurs des institutions parlent plutôt de « stabilité » ou d’« exécutif fort ».",
+  "concurrents": [
+   "Ve République",
+   "stabilité des institutions",
+   "exécutif fort"
+  ],
+  "notions": [
+   "assemblee-constituante",
+   "pouvoirs-du-parlement"
+  ],
+  "motifs": [
+   "monarchie présidentielle",
+   "monarchie républicaine"
+  ]
+ },
+ {
+  "id": "sixieme-republique",
+  "terme": "6e République",
+  "variantes": [
+   "VIe République",
+   "sixième République",
+   "Première République écologique"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Désigne un régime constitutionnel nouveau qui succéderait à la Ve République, généralement plus parlementaire et ouvert à la démocratie directe. Le contenu varie selon les promoteurs : assemblée constituante, RIC, révocation des élus, suppression du Sénat.",
+  "usage": "Le mot d’ordre est central chez La France insoumise depuis les campagnes de Jean-Luc Mélenchon ; les Écologistes parlent d’une « Première République écologique et citoyenne ». Les défenseurs de la Constitution de 1958 lui opposent des réformes « à Constitution constante » ou une « modernisation » des institutions.",
+  "concurrents": [
+   "Ve République",
+   "modernisation des institutions",
+   "convention transpartisane"
+  ],
+  "notions": [
+   "assemblee-constituante"
+  ],
+  "motifs": [
+   "6e République",
+   "VIe République",
+   "sixième République",
+   "République écologique et citoyenne"
+  ]
+ },
+ {
+  "id": "democratie-representative",
+  "terme": "Démocratie représentative",
+  "variantes": [
+   "régime représentatif"
+  ],
+  "registre": "technique",
+  "theme": "institutions",
+  "definition": "Régime dans lequel les citoyens exercent leur souveraineté par l’intermédiaire de représentants élus, qui décident en leur nom. La Constitution de 1958 combine ce principe avec le référendum, selon son article 3.",
+  "usage": "Horizons revendique explicitement la défense de la démocratie représentative dans le cadre de la Ve République. Les promoteurs du RIC ou du tirage au sort mettent en avant ses limites et parlent de « crise de la représentation ».",
+  "concurrents": [
+   "démocratie directe",
+   "démocratie participative",
+   "démocratie délibérative"
+  ],
+  "notions": [
+   "assemblee-constituante",
+   "ric"
+  ],
+  "motifs": [
+   "démocratie représentative"
+  ]
+ },
+ {
+  "id": "democratie-directe",
+  "terme": "Démocratie directe",
+  "variantes": [
+   "démocratie participative",
+   "démocratie délibérative"
+  ],
+  "registre": "technique",
+  "theme": "institutions",
+  "definition": "Forme de démocratie dans laquelle les citoyens décident eux-mêmes, sans intermédiaire, par exemple par référendum ou par initiative populaire. On parle de démocratie participative pour les dispositifs qui associent les citoyens à la décision sans leur en confier le dernier mot, et de démocratie délibérative pour ceux qui organisent leur délibération, comme les conventions tirées au sort.",
+  "usage": "Les Écologistes proposent de « renforcer la démocratie directe » par le RIC ; le RN et Reconquête valorisent le référendum comme expression directe du peuple. Les critiques de ces outils parlent de « démocratie d’opinion » ou de risque plébiscitaire.",
+  "concurrents": [
+   "démocratie représentative",
+   "démocratie d’opinion"
+  ],
+  "notions": [
+   "ric",
+   "referendum",
+   "convention-citoyenne"
+  ],
+  "motifs": [
+   "démocratie directe",
+   "démocratie participative",
+   "démocratie délibérative"
+  ]
+ },
+ {
+  "id": "souverainete-populaire",
+  "terme": "Souveraineté du peuple",
+  "variantes": [
+   "souveraineté nationale",
+   "souveraineté populaire",
+   "le peuple seul"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Selon l’article 3 de la Constitution, « la souveraineté nationale appartient au peuple qui l’exerce par ses représentants et par la voie du référendum ». La distinction historique entre souveraineté nationale, exercée par des représentants, et souveraineté populaire, exercée directement, remonte à la Révolution.",
+  "usage": "Le RN veut « réserver au peuple seul » la révision de la Constitution et invoque les « principes de la souveraineté nationale » ; Reconquête veut faire adopter les grandes mesures « directement par le peuple français ». Leurs opposants y opposent l’« État de droit » et le contrôle des juges sur la volonté majoritaire.",
+  "concurrents": [
+   "État de droit",
+   "contrôle de constitutionnalité"
+  ],
+  "notions": [
+   "referendum",
+   "primaute-de-la-constitution"
+  ],
+  "motifs": [
+   "au peuple seul",
+   "par le peuple français",
+   "souveraineté nationale",
+   "souveraineté populaire"
+  ]
+ },
+ {
+  "id": "gouvernement-des-juges",
+  "terme": "Gouvernement des juges",
+  "variantes": [
+   "juges politisés"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Expression critique qui désigne l’influence jugée excessive des juridictions, constitutionnelles, européennes ou judiciaires, sur des décisions qui relèveraient du législateur. Elle a été popularisée au début du XXe siècle à propos de la Cour suprême des États-Unis.",
+  "usage": "Le registre est présent chez Reconquête, qui veut empêcher « certains juges de ressusciter le délit d’opinion » et donner le dernier mot au Parlement face au Conseil constitutionnel. Les défenseurs du contrôle juridictionnel parlent de « protection des droits fondamentaux » et d’« État de droit ».",
+  "concurrents": [
+   "État de droit",
+   "protection des droits fondamentaux"
+  ],
+  "notions": [
+   "conseil-constitutionnel",
+   "primaute-de-la-constitution"
+  ],
+  "motifs": [
+   "gouvernement des juges",
+   "certains juges"
+  ]
+ },
+ {
+  "id": "sondocratie",
+  "terme": "Sondocratie",
+  "variantes": [
+   "démocratie d’opinion"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Néologisme critique qui désigne le poids jugé excessif des sondages d’opinion dans la vie politique et les campagnes électorales. La publication de sondages est interdite la veille et le jour du scrutin, et la Commission des sondages contrôle leur méthodologie.",
+  "usage": "La France insoumise emploie le mot pour justifier l’interdiction des sondages « dans les jours précédant les élections » ; les Écologistes, sans le mot, veulent rendre publics les redressements. Les défenseurs des sondages y voient une information légitime des électeurs.",
+  "concurrents": [
+   "information des électeurs",
+   "liberté de la presse"
+  ],
+  "notions": [
+   "desinformation"
+  ],
+  "motifs": [
+   "sondocratie",
+   "sondages",
+   "commission des sondage"
+  ]
+ },
+ {
+  "id": "liberticide",
+  "terme": "Liberticide",
+  "variantes": [
+   "lois liberticides"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Adjectif qui qualifie une loi ou une mesure accusée de porter atteinte aux libertés publiques. Il est surtout employé à propos des lois de sécurité, de renseignement et de contrôle des associations.",
+  "usage": "Les Écologistes et La France insoumise l’appliquent au contrat d’engagement républicain et à certaines dispositions des lois « Sécurité globale » et « Séparatisme ». Les promoteurs de ces lois parlent de « protection de la République » et de « défense des principes républicains ».",
+  "concurrents": [
+   "protection de la République",
+   "principes républicains"
+  ],
+  "notions": [
+   "loi-separatisme",
+   "subventions-associations"
+  ],
+  "motifs": [
+   "liberticide",
+   "liberticides"
+  ]
+ },
+ {
+  "id": "libertes-publiques",
+  "terme": "Libertés publiques",
+  "variantes": [
+   "libertés fondamentales"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Ensemble des libertés reconnues aux personnes et garanties par la loi face à l’État : liberté d’expression, de réunion, d’association, de culte, de la presse. Leur régime relève de la loi, selon l’article 34 de la Constitution, sous le contrôle du juge.",
+  "usage": "La France insoumise propose des « États généraux sur les libertés publiques » ; Reconquête invoque les libertés publiques contre la loi de 2018 sur la manipulation de l’information. Le terme est donc mobilisé de part et d’autre, contre des textes différents.",
+  "concurrents": [
+   "ordre public",
+   "sécurité"
+  ],
+  "notions": [
+   "loi-separatisme",
+   "desinformation"
+  ],
+  "motifs": [
+   "libertés publiques"
+  ]
+ },
+ {
+  "id": "procedures-baillons",
+  "terme": "Procédures bâillons",
+  "variantes": [
+   "mesures bâillons",
+   "SLAPP"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Poursuites judiciaires engagées, souvent pour diffamation ou violation du secret des affaires, dans le but principal d’intimider ou d’épuiser financièrement un journaliste, un lanceur d’alerte ou une association. Une directive européenne de 2024 impose aux États de protéger, dans les affaires transfrontières, les personnes visées par de telles procédures.",
+  "usage": "Les Écologistes parlent de « mesures bâillons » à propos du secret des affaires, qui limiterait selon eux les enquêtes. Reconquête dénonce un phénomène inverse lorsqu’il accuse des associations « militantes » de « harceler judiciairement » leurs opposants.",
+  "concurrents": [
+   "secret des affaires",
+   "protection de la réputation"
+  ],
+  "notions": [
+   "independance-des-redactions",
+   "transparence-vie-publique"
+  ],
+  "motifs": [
+   "mesures bâillons",
+   "procédures bâillons",
+   "harceler judiciairement"
+  ]
+ },
+ {
+  "id": "lanceur-d-alerte",
+  "terme": "Lanceur d’alerte",
+  "variantes": [
+   "lanceuse d’alerte"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Personne qui signale ou divulgue, sans contrepartie financière directe et de bonne foi, des informations sur un crime, un délit ou une menace pour l’intérêt général. Le statut, créé par la loi Sapin 2 de 2016 et renforcé par la loi du 21 mars 2022, protège contre les représailles.",
+  "usage": "Les Écologistes et La France insoumise proposent de mieux protéger les lanceurs d’alerte et les militants. Le terme est valorisant ; les entreprises ou administrations visées parlent parfois de « divulgation » ou de « violation du secret ».",
+  "concurrents": [
+   "divulgation",
+   "violation du secret professionnel"
+  ],
+  "notions": [
+   "transparence-vie-publique"
+  ],
+  "motifs": [
+   "lanceurs d'alerte",
+   "lanceur d'alerte",
+   "lanceurs d'alertes"
+  ]
+ },
+ {
+  "id": "millefeuille-territorial",
+  "terme": "Millefeuille territorial",
+  "variantes": [
+   "mille-feuille administratif",
+   "empilement des échelons"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Image qui désigne l’empilement des niveaux d’administration locale : communes, intercommunalités, départements, régions, auxquels s’ajoutent syndicats et établissements spécialisés. Elle sous-entend un excès de complexité et de coût.",
+  "usage": "Le RN veut simplifier « drastiquement le millefeuille territorial » et Renaissance le « mille-feuille territorial » par un conseiller territorial unique. Les défenseurs de chaque échelon parlent plutôt de « proximité », de « libertés locales » ou de « clarification des compétences ».",
+  "concurrents": [
+   "clarification des compétences",
+   "proximité",
+   "libertés communales"
+  ],
+  "notions": [
+   "conseiller-territorial",
+   "intercommunalite",
+   "decentralisation"
+  ],
+  "motifs": [
+   "millefeuille territorial",
+   "mille-feuille territorial",
+   "mille-feuille administratif"
+  ]
+ },
+ {
+  "id": "pacte-girondin",
+  "terme": "Pacte girondin",
+  "variantes": [
+   "girondins",
+   "esprit girondin"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Référence aux Girondins de la Révolution, présentés comme favorables à l’autonomie des provinces face aux Jacobins, partisans d’un pouvoir central fort. L’expression désigne un projet de décentralisation poussée.",
+  "usage": "Le PS-Place publique propose un « véritable pacte girondin » répartissant les compétences entre échelons. L’opposition « girondins contre jacobins » est courante dans le débat territorial ; le terme « jacobin » sert souvent à qualifier, de façon critique, une tradition centralisatrice.",
+  "concurrents": [
+   "jacobinisme",
+   "unité de la République",
+   "égalité territoriale"
+  ],
+  "notions": [
+   "decentralisation"
+  ],
+  "motifs": [
+   "pacte girondin",
+   "girondin",
+   "jacobin*"
+  ]
+ },
+ {
+  "id": "federalisme-differencie",
+  "terme": "Fédéralisme différencié",
+  "variantes": [
+   "fédéralisme",
+   "différenciation territoriale"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Projet d’organisation dans lequel les régions disposeraient de compétences, voire d’un pouvoir normatif, variables selon leurs choix et leur histoire. La différenciation, introduite à petite dose par la loi 3DS de 2022, permet déjà d’adapter certaines règles aux territoires.",
+  "usage": "L’expression est propre aux Écologistes, qui veulent « fonder la République » sur ce principe et reconnaître des « régions historiques ». Ses critiques y voient une menace pour l’« indivisibilité de la République » et l’égalité devant la loi.",
+  "concurrents": [
+   "République indivisible",
+   "État unitaire",
+   "égalité territoriale"
+  ],
+  "notions": [
+   "decentralisation"
+  ],
+  "motifs": [
+   "fédéralisme différencié"
+  ]
+ },
+ {
+  "id": "libertes-communales",
+  "terme": "Libertés communales",
+  "variantes": [
+   "libertés locales",
+   "libre administration"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Désigne la capacité des communes à décider elles-mêmes de leurs affaires. Juridiquement, la Constitution garantit la « libre administration » des collectivités territoriales (article 72).",
+  "usage": "La France insoumise invoque les « libertés communales » contre la loi NOTRe et les transferts aux intercommunalités ; Reconquête et LR défendent le « rôle premier » ou la « liberté » des maires. Les partisans de l’intercommunalité parlent de « mutualisation » et de « solidarité territoriale ».",
+  "concurrents": [
+   "mutualisation",
+   "coopération intercommunale"
+  ],
+  "notions": [
+   "intercommunalite",
+   "decentralisation"
+  ],
+  "motifs": [
+   "libertés communales",
+   "libre administration",
+   "liberté de construire"
+  ]
+ },
+ {
+  "id": "elus-de-proximite",
+  "terme": "Élus de proximité",
+  "variantes": [
+   "proximité",
+   "élus de terrain"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Désigne les élus, surtout les maires, présentés comme les plus proches des habitants et les plus légitimes pour les décisions concrètes.",
+  "usage": "Le RN veut « rendre du pouvoir aux élus de proximité » tout en simplifiant le millefeuille ; LR veut redonner la main aux maires sur le logement social. Le terme valorise la commune face aux intercommunalités, à l’État ou aux normes.",
+  "concurrents": [
+   "technocratie",
+   "intercommunalité"
+  ],
+  "notions": [
+   "decentralisation",
+   "conseiller-territorial"
+  ],
+  "motifs": [
+   "élus de proximité",
+   "pouvoir aux élus"
+  ]
+ },
+ {
+  "id": "egalite-territoriale",
+  "terme": "Égalité territoriale",
+  "variantes": [
+   "fracture territoriale",
+   "territoires abandonnés"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Principe selon lequel tous les habitants, quel que soit leur lieu de vie, devraient avoir un accès comparable aux services publics et aux équipements. Il sous-tend les politiques d’aménagement du territoire.",
+  "usage": "Les Écologistes et La France insoumise proposent des « états généraux » pour construire « une véritable égalité territoriale ». Le RN parle de territoires « trop longtemps abandonnés » et LR veut un euro pour la ruralité pour chaque euro de la politique de la ville : même constat, cadrages différents.",
+  "concurrents": [
+   "attractivité",
+   "compétition entre territoires"
+  ],
+  "notions": [
+   "france-services",
+   "intercommunalite"
+  ],
+  "motifs": [
+   "égalité territoriale",
+   "trop longtemps abandonnées",
+   "compétition entre les territoires"
+  ]
+ },
+ {
+  "id": "demetropolisation",
+  "terme": "Démétropolisation",
+  "variantes": [
+   "rééquilibrage territorial"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Politique visant à réduire la concentration des activités, des emplois et des services dans les grandes métropoles, au profit des villes moyennes et des zones rurales.",
+  "usage": "Le RN en fait un « concept » explicite pour justifier le rétablissement des primes à l’aménagement du territoire. Des idées voisines se retrouvent chez les Écologistes, qui priorisent les aides sur les petites villes « au détriment des métropoles », et chez Reconquête, qui veut délocaliser des emplois publics.",
+  "concurrents": [
+   "métropolisation",
+   "attractivité des métropoles"
+  ],
+  "notions": [
+   "intercommunalite"
+  ],
+  "motifs": [
+   "démétropolisation",
+   "au détriment des métropoles",
+   "délocalisant des bassins d'emploi publics"
+  ]
+ },
+ {
+  "id": "politique-de-la-ville",
+  "terme": "Politique de la ville",
+  "variantes": [
+   "quartiers prioritaires",
+   "QPV",
+   "quartiers populaires"
+  ],
+  "registre": "administratif",
+  "theme": "institutions",
+  "definition": "Politique publique qui concentre des moyens sur les quartiers prioritaires de la politique de la ville, définis par un faible revenu des habitants. Elle comprend notamment la rénovation urbaine conduite par l’Agence nationale pour la rénovation urbaine.",
+  "usage": "Reconquête parle des sommes « gaspillées dans les banlieues » et LR veut dépenser autant pour la ruralité ; les Écologistes et La France insoumise parlent de « quartiers populaires » et veulent pérenniser le renouvellement urbain. Le choix entre « banlieues », « quartiers » et « quartiers populaires » signale un cadrage.",
+  "concurrents": [
+   "quartiers populaires",
+   "banlieues",
+   "ruralité"
+  ],
+  "notions": [
+   "france-services"
+  ],
+  "motifs": [
+   "politique de la ville",
+   "quartiers prioritaires",
+   "quartiers populaires",
+   "renouvellement urbain",
+   "NPNRU"
+  ]
+ },
+ {
+  "id": "communautarisme",
+  "terme": "Communautarisme",
+  "variantes": [
+   "communautarismes",
+   "repli communautaire"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Terme critique qui désigne la tendance d’un groupe, souvent religieux ou d’origine, à faire primer ses règles propres sur la règle commune. Il n’a pas de définition juridique.",
+  "usage": "Le RN veut inscrire dans la Constitution qu’« il n’y a en France d’autre communauté reconnue que la communauté nationale » ; Reconquête justifie la blouse par la lutte contre le communautarisme ; La France insoumise veut combattre « tous les communautarismes et l’usage politique des religions ». Ses critiques jugent le mot vague et souvent dirigé contre les musulmans, et parlent de « discriminations » ou de « ségrégation ».",
+  "concurrents": [
+   "diversité",
+   "ségrégation",
+   "discriminations"
+  ],
+  "notions": [
+   "laicite",
+   "signes-religieux",
+   "constitutionnalisation-des-droits"
+  ],
+  "motifs": [
+   "communautarisme",
+   "communautarismes",
+   "communauté reconnue"
+  ]
+ },
+ {
+  "id": "multiculturalisme",
+  "terme": "Multiculturalisme",
+  "variantes": [
+   "société multiculturelle"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Modèle dans lequel l’État reconnaît et accommode la diversité culturelle et religieuse des groupes qui composent la société, à l’image du Canada. Il s’oppose au modèle dit universaliste, qui ne reconnaît que des citoyens individuels.",
+  "usage": "Horizons associe le multiculturalisme à une « vision dévoyée de la liberté de culte » chez ceux qui refusent le cadre de la laïcité. Ses défenseurs parlent d’« inclusion » ou de « reconnaissance des identités ».",
+  "concurrents": [
+   "universalisme républicain",
+   "inclusion"
+  ],
+  "notions": [
+   "laicite"
+  ],
+  "motifs": [
+   "multiculturalisme"
+  ]
+ },
+ {
+  "id": "regle-commune",
+  "terme": "Règle commune",
+  "variantes": [
+   "loi commune"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Désigne l’égale soumission de tous à la même loi, sans dérogation fondée sur l’origine, la culture ou la religion. Le principe découle de l’égalité devant la loi posée par l’article 1er de la Constitution ; le Conseil constitutionnel a jugé en 2004 que nul ne peut se prévaloir de ses croyances pour s’affranchir des règles communes.",
+  "usage": "LR et le RN proposent d’inscrire explicitement cette formule dans la Constitution, en visant les revendications religieuses. Leurs critiques notent que le principe existe déjà en droit et y voient un message politique adressé à une partie de la population.",
+  "concurrents": [
+   "liberté religieuse",
+   "accommodements"
+  ],
+  "notions": [
+   "constitutionnalisation-des-droits",
+   "laicite"
+  ],
+  "motifs": [
+   "règle commune",
+   "loi commune"
+  ]
+ },
+ {
+  "id": "islamisme",
+  "terme": "Islamisme",
+  "variantes": [
+   "idéologie islamiste",
+   "menées islamistes",
+   "islam politique"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Courant politique qui veut organiser la société et l’État selon une lecture de l’islam. Le terme recouvre des mouvements très divers, du prosélytisme légal au terrorisme djihadiste.",
+  "usage": "Le RN propose une législation contre « les idéologies islamistes », qualifiées de « menace totalitaire », et un retour à la laïcité dans les établissements « soumis à des menées islamistes ». D’autres partis, comme La France insoumise et les Écologistes, mettent plutôt en avant l’« islamophobie » et le risque d’amalgame.",
+  "concurrents": [
+   "islamophobie",
+   "radicalisation",
+   "séparatisme"
+  ],
+  "notions": [
+   "laicite",
+   "loi-separatisme",
+   "signes-religieux"
+  ],
+  "motifs": [
+   "islamiste",
+   "islamistes",
+   "islamisme"
+  ]
+ },
+ {
+  "id": "islamophobie",
+  "terme": "Islamophobie",
+  "variantes": [
+   "haine anti-musulmans",
+   "racisme anti-musulman"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Terme qui désigne l’hostilité, les préjugés ou les discriminations visant les musulmans ou l’islam. Son emploi est discuté : certains lui préfèrent « haine anti-musulmans » pour distinguer l’hostilité envers des personnes de la critique d’une religion.",
+  "usage": "La France insoumise propose un plan interministériel contre l’islamophobie, et les Écologistes l’incluent dans le champ d’un observatoire des discriminations. Leurs contradicteurs estiment que le mot sert à disqualifier la critique de l’islam ou de l’islamisme.",
+  "concurrents": [
+   "islamisme",
+   "critique des religions",
+   "racisme anti-musulman"
+  ],
+  "notions": [
+   "laicite"
+  ],
+  "motifs": [
+   "islamophobie"
+  ]
+ },
+ {
+  "id": "separatisme",
+  "terme": "Séparatisme",
+  "variantes": [
+   "séparatisme islamiste",
+   "séparatismes"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Terme repris par le pouvoir exécutif en 2020 pour désigner la volonté supposée de certains groupes de vivre selon leurs propres règles en dehors de la République. Il a donné son nom courant à la loi du 24 août 2021 confortant le respect des principes de la République.",
+  "usage": "Les Écologistes et La France insoumise parlent de « loi séparatisme » pour en demander l’abrogation ; le RN critique les restrictions de l’instruction en famille qu’elle a introduites. Le terme officiel de la loi, « principes de la République », est rarement employé dans les programmes.",
+  "concurrents": [
+   "communautarisme",
+   "principes de la République"
+  ],
+  "notions": [
+   "loi-separatisme"
+  ],
+  "motifs": [
+   "séparatisme"
+  ]
+ },
+ {
+  "id": "identite-et-patrimoine",
+  "terme": "Identité et patrimoine de la France",
+  "variantes": [
+   "identité nationale",
+   "identité française"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Formule qui associe une identité culturelle nationale et un héritage matériel et immatériel à protéger, dont la langue française. La Constitution prévoit déjà que la langue de la République est le français (article 2) et que les langues régionales appartiennent au patrimoine de la France (article 75-1).",
+  "usage": "Le RN propose de charger le Président de veiller à « la sauvegarde de l’identité et du patrimoine de la France ». Ses critiques y voient une définition identitaire de la nation, quand d’autres partis mettent en avant la « diversité » ou les « langues régionales ».",
+  "concurrents": [
+   "diversité",
+   "pluralisme culturel",
+   "langues régionales"
+  ],
+  "notions": [
+   "constitutionnalisation-des-droits"
+  ],
+  "motifs": [
+   "identité et du patrimoine"
+  ]
+ },
+ {
+  "id": "neutralite",
+  "terme": "Neutralité",
+  "variantes": [
+   "obligation de neutralité",
+   "neutralité religieuse"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Obligation qui impose aux agents publics de ne pas manifester leurs convictions religieuses ou politiques dans l’exercice de leurs fonctions, et à l’État de ne favoriser aucune croyance. Elle ne s’applique pas en principe aux usagers des services publics, sauf texte spécial comme la loi de 2004 pour les élèves.",
+  "usage": "LR et le RN veulent étendre la neutralité aux accompagnateurs de sorties scolaires ; le RN exige une « neutralité absolue » des enseignants ; les Écologistes veulent garantir la neutralité des cimetières. Le terme est utilisé tantôt pour protéger l’usager, tantôt pour étendre des obligations.",
+  "concurrents": [
+   "liberté religieuse",
+   "liberté de conscience"
+  ],
+  "notions": [
+   "laicite",
+   "signes-religieux"
+  ],
+  "motifs": [
+   "neutralité de la loi de 2004",
+   "neutralité absolue",
+   "neutralité des cimetières",
+   "cadre de liberté et de neutralité"
+  ]
+ },
+ {
+  "id": "collaborateur-occasionnel",
+  "terme": "Collaborateur occasionnel du service public",
+  "variantes": [
+   "collaborateur du service public"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Catégorie de la jurisprudence administrative qui désigne une personne apportant bénévolement son concours à un service public, ce qui lui ouvre une indemnisation en cas de dommage. Le Conseil d’État a estimé en 2013 que les parents accompagnant une sortie scolaire ne sont pas pour autant soumis à la neutralité.",
+  "usage": "Le RN propose d’inscrire ce statut dans la loi pour soumettre les accompagnatrices de sorties scolaires au principe de laïcité et leur interdire le voile. Le choix du terme fait basculer ces parents du côté des agents plutôt que des usagers.",
+  "concurrents": [
+   "usager du service public",
+   "parent accompagnateur"
+  ],
+  "notions": [
+   "signes-religieux"
+  ],
+  "motifs": [
+   "collaborateur occasionnel du service public"
+  ]
+ },
+ {
+  "id": "police-des-cultes",
+  "terme": "Police des cultes",
+  "variantes": [
+   "titre V de la loi de 1905"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Ensemble des dispositions de la loi de 1905 qui encadrent l’exercice public des cultes et sanctionnent certains abus, comme les pressions sur les fidèles ou les propos séditieux dans les lieux de culte. La loi de 2021 les a renforcées.",
+  "usage": "Les Écologistes proposent de s’appuyer sur « la police des cultes existante » plutôt que sur la loi séparatisme. L’argument consiste à dire que le droit de 1905 suffit, là où les partisans de la loi de 2021 jugeaient ces outils insuffisants.",
+  "concurrents": [
+   "loi séparatisme"
+  ],
+  "notions": [
+   "laicite",
+   "loi-separatisme"
+  ],
+  "motifs": [
+   "police des cultes"
+  ]
+ },
+ {
+  "id": "derives-sectaires",
+  "terme": "Dérives sectaires",
+  "variantes": [
+   "pratiques sectaires",
+   "emprise mentale",
+   "Miviludes"
+  ],
+  "registre": "administratif",
+  "theme": "institutions",
+  "definition": "Agissements de groupes ou de personnes qui placent leurs adeptes en état de sujétion psychologique ou physique, au détriment de leur santé, de leurs biens ou de leurs droits. La Mission interministérielle de vigilance et de lutte contre les dérives sectaires (Miviludes), créée en 2002, observe et prévient ces phénomènes ; la loi du 10 mai 2024 a créé un délit de placement en état de sujétion.",
+  "usage": "Les Écologistes, La France insoumise et le PS-Place publique proposent tous de renforcer la Miviludes ; les deux premiers veulent l’étendre à la formation professionnelle et à la santé. Le terme « dérive sectaire » est préféré à « secte », qui n’a pas de définition juridique.",
+  "concurrents": [
+   "liberté de croyance",
+   "nouveaux mouvements religieux"
+  ],
+  "notions": [
+   "laicite"
+  ],
+  "motifs": [
+   "dérives sectaires",
+   "pratiques sectaires",
+   "Miviludes",
+   "MIVILUDES",
+   "obscurantistes et sectaires"
+  ]
+ },
+ {
+  "id": "signes-ostensibles",
+  "terme": "Signes religieux ostensibles",
+  "variantes": [
+   "tenue religieuse",
+   "voile islamique",
+   "abaya"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Signes ou tenues par lesquels un élève manifeste ostensiblement une appartenance religieuse, interdits dans les écoles, collèges et lycées publics par la loi du 15 mars 2004. La circulaire d’application cite le voile islamique, la kippa et une croix de dimension manifestement excessive.",
+  "usage": "Le vocabulaire varie : LR parle de « voile forcé » et de « voile pour les fillettes », le RN et Reconquête de « voile islamique ». La gauche parle plutôt de « liberté de conscience » et met en garde contre la stigmatisation des musulmanes.",
+  "concurrents": [
+   "liberté de conscience",
+   "liberté religieuse"
+  ],
+  "notions": [
+   "signes-religieux",
+   "laicite"
+  ],
+  "motifs": [
+   "voile islamique",
+   "voile forcé",
+   "port du voile",
+   "signes religieux"
+  ]
+ },
+ {
+  "id": "regimes-derogatoires",
+  "terme": "Régimes dérogatoires",
+  "variantes": [
+   "droit local",
+   "statuts spécifiques"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Désigne les territoires où la loi de 1905 ne s’applique pas ou pas entièrement : Alsace-Moselle, Guyane, Mayotte et plusieurs collectivités d’outre-mer. Ces régimes résultent de l’histoire de ces territoires au moment de l’adoption de la loi.",
+  "usage": "La France insoumise et le PS-Place publique proposent de les abolir, au nom de l’égalité devant la laïcité. Les élus d’Alsace-Moselle parlent de « droit local » auquel la population serait attachée.",
+  "concurrents": [
+   "droit local",
+   "spécificités locales"
+  ],
+  "notions": [
+   "concordat-alsace-moselle",
+   "laicite"
+  ],
+  "motifs": [
+   "régimes dérogatoires",
+   "statuts spécifiques"
+  ]
+ },
+ {
+  "id": "agribashing",
+  "terme": "Agribashing",
+  "variantes": [
+   "dénigrement de l’agriculture"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Anglicisme qui désigne un dénigrement jugé systématique des agriculteurs et de l’agriculture conventionnelle dans le débat public. Une cellule de gendarmerie nommée Demeter a été créée en 2019 pour suivre les atteintes au monde agricole.",
+  "usage": "LR veut supprimer les subventions publiques aux structures qui « pratiquent l’agribashing ». Les associations visées parlent de « critique légitime » des pratiques agricoles ou de « lanceurs d’alerte » environnementaux.",
+  "concurrents": [
+   "critique environnementale",
+   "alerte sanitaire"
+  ],
+  "notions": [
+   "subventions-associations"
+  ],
+  "motifs": [
+   "agribashing"
+  ]
+ },
+ {
+  "id": "associations-militantes",
+  "terme": "Associations militantes ou politisées",
+  "variantes": [
+   "logiques militantes",
+   "associations politisées"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Qualifie des associations accusées de servir un combat politique plutôt que l’intérêt général, notamment par des actions en justice ou des mobilisations contre des projets.",
+  "usage": "Reconquête veut priver de subventions les associations « politisées » et interdire aux associations « militantes » d’aller en justice ; LR veut supprimer les agences relevant de « logiques militantes ou idéologiques » ; le RN cible les associations « ne relevant pas de l’intérêt général ». Les associations concernées parlent de « contre-pouvoirs » et de « liberté associative ».",
+  "concurrents": [
+   "contre-pouvoirs",
+   "liberté associative",
+   "société civile"
+  ],
+  "notions": [
+   "subventions-associations",
+   "agences-de-l-etat"
+  ],
+  "motifs": [
+   "associations militantes",
+   "associations politisées",
+   "logiques militantes",
+   "ne relevant pas de l'intérêt général"
+  ]
+ },
+ {
+  "id": "delit-d-opinion",
+  "terme": "Délit d’opinion",
+  "variantes": [
+   "délit politique"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Expression qui désigne la sanction pénale d’une opinion en tant que telle. Le droit français ne réprime pas les opinions mais certains propos, comme la provocation à la haine, l’injure ou la diffamation, encadrés par la loi de 1881.",
+  "usage": "Reconquête affirme que la loi Pleven permet à « certains juges de ressusciter le délit d’opinion ». Les défenseurs de ces lois parlent de « lutte contre la haine » et de « protection des personnes ».",
+  "concurrents": [
+   "lutte contre la haine",
+   "provocation à la haine"
+  ],
+  "notions": [
+   "desinformation"
+  ],
+  "motifs": [
+   "délit d'opinion",
+   "délit politique"
+  ]
+ },
+ {
+  "id": "train-de-vie-de-l-etat",
+  "terme": "Train de vie de l’État",
+  "variantes": [
+   "gabegie",
+   "État dispendieux"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Désigne les dépenses de fonctionnement des institutions publiques, présentées comme excessives : présidence, assemblées, agences, cabinets. Ces dépenses représentent une part limitée de la dépense publique totale, dominée par la protection sociale.",
+  "usage": "Le RN veut réduire le « train de vie » de l’Élysée, des assemblées et du CESE ; Horizons appelle à un État « moins dispendieux ». L’expression met en avant l’exemplarité ; ses critiques soulignent que les économies attendues restent faibles au regard des grands postes de dépense.",
+  "concurrents": [
+   "dépense publique",
+   "moyens des services publics"
+  ],
+  "notions": [
+   "agences-de-l-etat",
+   "cese"
+  ],
+  "motifs": [
+   "train de vie",
+   "moins dispendieux"
+  ]
+ },
+ {
+  "id": "missions-regaliennes",
+  "terme": "Missions régaliennes",
+  "variantes": [
+   "régalien",
+   "fonctions régaliennes",
+   "missions essentielles"
+  ],
+  "registre": "technique",
+  "theme": "institutions",
+  "definition": "Fonctions considérées comme le cœur de la souveraineté de l’État : défense, sécurité intérieure, justice, diplomatie, monnaie. Le mot vient du latin regalis, « royal ».",
+  "usage": "Horizons veut un État « recentré sur ses missions essentielles » et « renforcé sur ses prérogatives régaliennes » ; LR emploie le terme pour sa politique numérique. L’expression accompagne souvent une volonté de réduire le périmètre de l’État dans les autres domaines.",
+  "concurrents": [
+   "État social",
+   "services publics"
+  ],
+  "notions": [
+   "decentralisation",
+   "agences-de-l-etat"
+  ],
+  "motifs": [
+   "régaliennes",
+   "régalien",
+   "missions essentielles"
+  ]
+ },
+ {
+  "id": "new-public-management",
+  "terme": "New Public Management",
+  "variantes": [
+   "nouvelle gestion publique",
+   "logiques néo-managériales"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Courant de réforme administrative apparu dans les années 1980 qui importe dans le secteur public des méthodes du privé : indicateurs de performance, mise en concurrence, agences autonomes, contractualisation. En France, la loi organique relative aux lois de finances de 2001 en a repris certains principes.",
+  "usage": "Les Écologistes veulent « arrêter le New Public Management » et le PS-Place publique mettre fin aux « logiques néo-managériales ». Le terme est employé par ses critiques ; ses promoteurs parlent de « performance », de « modernisation » ou de « transformation de l’action publique ».",
+  "concurrents": [
+   "modernisation de l’État",
+   "performance publique",
+   "transformation publique"
+  ],
+  "notions": [
+   "fonction-publique",
+   "agences-de-l-etat"
+  ],
+  "motifs": [
+   "New Public Management",
+   "néo-managériales"
+  ]
+ },
+ {
+  "id": "cabinets-de-conseil",
+  "terme": "Cabinets de conseil",
+  "variantes": [
+   "externalisation",
+   "consultants"
+  ],
+  "registre": "administratif",
+  "theme": "institutions",
+  "definition": "Entreprises privées de conseil en stratégie ou en organisation auxquelles l’État et les collectivités font appel pour des missions de réforme ou de gestion. Une commission d’enquête du Sénat a examiné en 2022 l’ampleur de ce recours.",
+  "usage": "Les Écologistes et le PS-Place publique veulent en finir avec la « dépendance » de l’État aux cabinets de conseil. Le choix du mot « dépendance » insiste sur la perte de compétences internes ; les défenseurs de ce recours parlent d’« expertise ponctuelle ».",
+  "concurrents": [
+   "expertise externe",
+   "ingénierie publique"
+  ],
+  "notions": [
+   "fonction-publique"
+  ],
+  "motifs": [
+   "cabinets de conseil"
+  ]
+ },
+ {
+  "id": "titularisation",
+  "terme": "Titularisation",
+  "variantes": [
+   "contractuels",
+   "précarité dans la fonction publique"
+  ],
+  "registre": "administratif",
+  "theme": "institutions",
+  "definition": "Acte par lequel un agent public devient fonctionnaire titulaire de son grade, bénéficiant du statut et de la garantie de l’emploi. Les contractuels sont des agents recrutés par contrat, de droit public ou parfois privé, dont la part a augmenté depuis la loi de 2019.",
+  "usage": "La France insoumise et les Écologistes proposent de titulariser les contractuels. Les partisans d’une gestion plus souple parlent d’« agilité » et d’ouverture des recrutements à des profils extérieurs.",
+  "concurrents": [
+   "contrat",
+   "flexibilité"
+  ],
+  "notions": [
+   "fonction-publique"
+  ],
+  "motifs": [
+   "titularisation",
+   "titularisés",
+   "titulariser",
+   "contractuels"
+  ]
+ },
+ {
+  "id": "jour-de-carence",
+  "terme": "Jour de carence",
+  "variantes": [
+   "délai de carence"
+  ],
+  "registre": "administratif",
+  "theme": "institutions",
+  "definition": "Période au début d’un arrêt maladie pendant laquelle le salaire n’est pas maintenu. Elle est d’un jour pour les agents publics et de trois jours pour les salariés du privé, souvent compensés par l’employeur ou une convention collective.",
+  "usage": "Reconquête propose trois jours de carence dans la fonction publique au nom de « l’égalité entre fonctionnaires et salariés du secteur privé ». Les syndicats de fonctionnaires y voient une sanction des malades.",
+  "concurrents": [
+   "absentéisme",
+   "maintien de salaire"
+  ],
+  "notions": [
+   "fonction-publique"
+  ],
+  "motifs": [
+   "jours de carence",
+   "jour de carence"
+  ]
+ },
+ {
+  "id": "pantouflage",
+  "terme": "Pantouflage",
+  "variantes": [
+   "revolving doors",
+   "portes tournantes"
+  ],
+  "registre": "administratif",
+  "theme": "institutions",
+  "definition": "Départ d’un haut fonctionnaire vers une entreprise privée, éventuellement suivi d’un retour dans l’administration. Les départs font l’objet d’un contrôle déontologique par la Haute Autorité pour la transparence de la vie publique depuis 2020.",
+  "usage": "La France insoumise veut l’interdire et faire rembourser la formation des hauts fonctionnaires partis avant dix ans ; le PS-Place publique veut « agir contre le pantouflage ». Le mot est familier et péjoratif ; on parle aussi de « mobilité vers le privé ».",
+  "concurrents": [
+   "mobilité",
+   "allers-retours public-privé"
+  ],
+  "notions": [
+   "transparence-vie-publique",
+   "fonction-publique"
+  ],
+  "motifs": [
+   "pantouflage"
+  ]
+ },
+ {
+  "id": "lobbying",
+  "terme": "Lobbying",
+  "variantes": [
+   "lobbys",
+   "représentants d’intérêts",
+   "groupes de pression"
+  ],
+  "registre": "technique",
+  "theme": "institutions",
+  "definition": "Activité qui consiste à chercher à influencer la décision publique au nom d’intérêts particuliers. Les représentants d’intérêts doivent s’inscrire sur un répertoire tenu par la Haute Autorité pour la transparence de la vie publique depuis la loi Sapin 2.",
+  "usage": "La France insoumise veut interdire l’entrée du Parlement aux lobbyistes et les cadeaux aux parlementaires. Le terme « représentants d’intérêts », juridique et plus neutre, est celui de la loi ; « lobby » a une connotation critique.",
+  "concurrents": [
+   "représentants d’intérêts",
+   "plaidoyer"
+  ],
+  "notions": [
+   "transparence-vie-publique"
+  ],
+  "motifs": [
+   "lobbys",
+   "lobbyistes",
+   "lobbying",
+   "représentants d'intérêts"
+  ]
+ },
+ {
+  "id": "prise-illegale-d-interets",
+  "terme": "Prise illégale d’intérêts",
+  "variantes": [
+   "conflit d’intérêts"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Délit, prévu par l’article 432-12 du Code pénal, commis par un responsable public qui prend ou conserve un intérêt dans une affaire dont il a la charge. Le conflit d’intérêts, notion plus large définie par la loi de 2013, vise toute interférence entre un intérêt public et des intérêts publics ou privés de nature à influencer l’exercice d’une fonction.",
+  "usage": "Les Écologistes veulent « durcir la prise illégale d’intérêt » et La France insoumise durcir les règles contre les conflits d’intérêts. Des élus locaux jugent au contraire le délit trop large et source d’insécurité juridique.",
+  "concurrents": [
+   "sécurité juridique des élus"
+  ],
+  "notions": [
+   "transparence-vie-publique"
+  ],
+  "motifs": [
+   "prise illégale d'intérêt",
+   "prise illégale d'intérêts",
+   "conflits d'intérêts",
+   "confusions d'intérêts"
+  ]
+ },
+ {
+  "id": "probite",
+  "terme": "Probité",
+  "variantes": [
+   "atteintes à la probité",
+   "intégrité publique",
+   "exemplarité"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Exigence d’honnêteté des responsables publics. Le Code pénal regroupe sous le nom d’« atteintes à la probité » des infractions comme la corruption, le trafic d’influence, la prise illégale d’intérêts, le favoritisme et le détournement de fonds publics.",
+  "usage": "Les Écologistes et La France insoumise proposent l’inéligibilité à vie pour corruption, le PS-Place publique un « observatoire de l’intégrité publique ». LR veut au contraire limiter le délit de favoritisme aux comportements frauduleux intentionnels, pour lever la « paralysie des acheteurs publics ».",
+  "concurrents": [
+   "sécurité juridique",
+   "paralysie de l’action publique"
+  ],
+  "notions": [
+   "ineligibilite",
+   "transparence-vie-publique"
+  ],
+  "motifs": [
+   "intégrité publique",
+   "délit de favoritisme",
+   "détournement de fonds publics",
+   "condamnée pour corruption"
+  ]
+ },
+ {
+  "id": "revision-constitutionnelle",
+  "terme": "Révision constitutionnelle",
+  "variantes": [
+   "réforme constitutionnelle",
+   "loi constitutionnelle"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Modification de la Constitution selon la procédure de son article 89 : un projet ou une proposition adopté en termes identiques par les deux assemblées est ensuite approuvé par référendum ou, pour un projet du gouvernement, par le Parlement réuni en Congrès à la majorité des trois cinquièmes. La Constitution de 1958 a été révisée plus de vingt fois.",
+  "usage": "Presque tous les partis proposent des révisions, mais la procédure donne un poids décisif au Sénat, qui doit voter le même texte. Le RN et Reconquête veulent généraliser le référendum constitutionnel, ce que leurs opposants jugent contraire à l’article 89 lorsqu’il passe par l’article 11.",
+  "concurrents": [
+   "assemblée constituante",
+   "référendum de l’article 11"
+  ],
+  "notions": [
+   "referendum",
+   "constitutionnalisation-des-droits",
+   "assemblee-constituante"
+  ],
+  "motifs": [
+   "révision constitutionnelle",
+   "révision de la Constitution",
+   "réforme constitutionnelle",
+   "loi constitutionnelle"
+  ]
+ },
+ {
+  "id": "loi-organique",
+  "terme": "Loi organique",
+  "variantes": [],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Loi qui précise l’organisation et le fonctionnement des pouvoirs publics dans les cas prévus par la Constitution, par exemple les lois de finances ou le statut des magistrats. Elle est adoptée selon une procédure renforcée et systématiquement contrôlée par le Conseil constitutionnel avant sa promulgation.",
+  "usage": "Les Écologistes veulent une loi organique pour garantir la compensation des transferts aux collectivités, et LR pour préciser que l’agriculture relève des intérêts fondamentaux de la Nation ou pour interdire la surtransposition des directives. Le recours à la loi organique sert à placer une règle au-dessus des lois ordinaires.",
+  "concurrents": [
+   "loi ordinaire"
+  ],
+  "notions": [
+   "finances-locales",
+   "constitutionnalisation-des-droits"
+  ],
+  "motifs": [
+   "loi organique"
+  ]
+ },
+ {
+  "id": "interets-fondamentaux-de-la-nation",
+  "terme": "Intérêts fondamentaux de la Nation",
+  "variantes": [],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Notion du Code pénal (article 410-1) qui recouvre notamment l’indépendance de la Nation, l’intégrité du territoire, la sécurité, la forme républicaine des institutions, les moyens de la défense, l’équilibre du milieu naturel et les éléments essentiels du potentiel économique. Les atteintes à ces intérêts, comme la trahison ou l’espionnage, sont réprimées.",
+  "usage": "LR propose d’inscrire la notion dans la Constitution et de préciser par loi organique que l’agriculture en fait partie, ce qui renforcerait sa protection face à d’autres normes, notamment environnementales.",
+  "concurrents": [
+   "principe de précaution",
+   "Charte de l’environnement"
+  ],
+  "notions": [
+   "constitutionnalisation-des-droits"
+  ],
+  "motifs": [
+   "intérêts fondamentaux de la Nation"
+  ]
+ },
+ {
+  "id": "principe-de-precaution-ou-de-responsabilite",
+  "terme": "Principe de précaution ou « de responsabilité »",
+  "variantes": [
+   "principe de responsabilité"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Principe inscrit à l’article 5 de la Charte de l’environnement : lorsqu’un dommage grave et irréversible à l’environnement est possible, même si sa réalisation est incertaine en l’état des connaissances, les autorités doivent évaluer les risques et adopter des mesures provisoires et proportionnées. Il a valeur constitutionnelle depuis 2005.",
+  "usage": "LR propose de le remplacer par un « principe de responsabilité » et de le supprimer de la Charte par référendum, en l’accusant de bloquer l’innovation et l’agriculture. Les Écologistes l’invoquent au contraire pour interdire les PFAS et les perturbateurs endocriniens.",
+  "concurrents": [
+   "principe de responsabilité",
+   "principe d’innovation"
+  ],
+  "notions": [
+   "constitutionnalisation-des-droits",
+   "referendum",
+   "principe-de-precaution"
+  ],
+  "motifs": [
+   "principe de précaution",
+   "principe de responsabilité"
+  ]
+ },
+ {
+  "id": "prime-majoritaire",
+  "terme": "Prime majoritaire",
+  "variantes": [
+   "bonus majoritaire"
+  ],
+  "registre": "technique",
+  "theme": "institutions",
+  "definition": "Supplément de sièges attribué à la liste arrivée en tête, avant répartition proportionnelle du reste. Aux municipales des communes de 1 000 habitants et plus, la liste gagnante reçoit d’emblée la moitié des sièges ; aux régionales, un quart.",
+  "usage": "Les Écologistes veulent la supprimer aux législatives s’il y avait une proportionnelle et l’abaisser à 25 % aux municipales. Ses défenseurs y voient la garantie de majorités stables dans les exécutifs locaux.",
+  "concurrents": [
+   "proportionnelle intégrale"
+  ],
+  "notions": [
+   "proportionnelle"
+  ],
+  "motifs": [
+   "prime majoritaire"
+  ]
+ },
+ {
+  "id": "scrutin-majoritaire",
+  "terme": "Scrutin majoritaire uninominal",
+  "variantes": [
+   "scrutin uninominal à deux tours",
+   "circonscription"
+  ],
+  "registre": "technique",
+  "theme": "institutions",
+  "definition": "Mode de scrutin dans lequel un seul siège est attribué par circonscription au candidat qui obtient la majorité ; en France, la majorité absolue est requise au premier tour et la majorité relative suffit au second. Il s’applique aux élections législatives et, en binôme, aux départementales.",
+  "usage": "Le terme est rarement nommé dans les programmes, qui parlent plutôt de la proportionnelle à instaurer. Ses défenseurs mettent en avant le lien entre l’élu et son territoire ; le PS-Place publique propose un « fléchage départemental » des candidats pour le préserver dans une proportionnelle régionale.",
+  "concurrents": [
+   "scrutin proportionnel",
+   "scrutin de liste"
+  ],
+  "notions": [
+   "proportionnelle"
+  ],
+  "motifs": [
+   "scrutin majoritaire",
+   "fléchage départemental"
+  ]
+ },
+ {
+  "id": "majorite-qualifiee",
+  "terme": "Majorité qualifiée",
+  "variantes": [
+   "majorité des trois cinquièmes"
+  ],
+  "registre": "technique",
+  "theme": "institutions",
+  "definition": "Majorité supérieure à la moitié des voix, par exemple les trois cinquièmes, exigée pour certaines décisions afin d’imposer un large accord. Depuis 2008, les commissions parlementaires peuvent s’opposer à certaines nominations du Président si les votes négatifs atteignent les trois cinquièmes des suffrages. Au Conseil de l’Union européenne, la majorité qualifiée remplace l’unanimité dans la plupart des domaines, mais pas en matière fiscale.",
+  "usage": "Les Écologistes l’invoquent pour valider les membres d’une future Cour constitutionnelle et les dirigeants de l’audiovisuel public. Le mécanisme vise à empêcher des nominations purement partisanes ; il inverse la règle actuelle, qui n’exige qu’une absence d’opposition qualifiée.",
+  "concurrents": [
+   "majorité simple"
+  ],
+  "notions": [
+   "conseil-constitutionnel",
+   "audiovisuel-public"
+  ],
+  "motifs": [
+   "majorité qualifiée",
+   "majorité des 3/5e",
+   "majorité des trois cinquièmes"
+  ]
+ },
+ {
+  "id": "recevabilite-financiere",
+  "terme": "Irrecevabilité financière",
+  "variantes": [
+   "article 40",
+   "recevabilité financière"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Règle de l’article 40 de la Constitution selon laquelle les propositions et amendements des parlementaires ne sont pas recevables s’ils diminuent les ressources publiques ou créent ou aggravent une charge publique. Elle limite fortement l’initiative financière du Parlement au profit du gouvernement.",
+  "usage": "Les Écologistes veulent l’assouplir et le PS-Place publique y mettre fin pour renforcer le droit d’amendement. Ses défenseurs y voient un garde-fou contre la surenchère budgétaire.",
+  "concurrents": [
+   "discipline budgétaire"
+  ],
+  "notions": [
+   "pouvoirs-du-parlement"
+  ],
+  "motifs": [
+   "article 40",
+   "recevabilité financière"
+  ]
+ },
+ {
+  "id": "motion-de-censure",
+  "terme": "Motion de censure",
+  "variantes": [
+   "censure constructive",
+   "motion de défiance constructive"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Procédure par laquelle l’Assemblée nationale peut renverser le gouvernement, à la majorité absolue de ses membres (article 49). Dans le modèle « constructif » allemand, une motion n’est recevable que si elle désigne un successeur au chef du gouvernement.",
+  "usage": "Le PS-Place publique propose une motion de censure « constructive » associée à l’investiture du Premier ministre. Ses partisans y voient un facteur de stabilité ; ses critiques notent qu’elle rend plus difficile le renversement d’un gouvernement minoritaire.",
+  "concurrents": [
+   "49.3",
+   "vote de confiance"
+  ],
+  "notions": [
+   "pouvoirs-du-parlement",
+   "article-49-3"
+  ],
+  "motifs": [
+   "motion de censure",
+   "censurer un gouvernement"
+  ]
+ },
+ {
+  "id": "investiture",
+  "terme": "Investiture du Premier ministre",
+  "variantes": [
+   "vote de confiance",
+   "question de confiance"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Vote par lequel une assemblée approuve la nomination du chef du gouvernement avant son entrée en fonctions. Sous la Ve République, le Premier ministre est nommé par le Président et n’a pas l’obligation d’engager sa responsabilité devant l’Assemblée par une déclaration de politique générale.",
+  "usage": "Le PS-Place publique propose d’investir le Premier ministre par un vote de confiance et La France insoumise de faire nommer le gouvernement par le Parlement. Les Écologistes proposent une audition des ministres suivie d’un vote de confirmation.",
+  "concurrents": [
+   "nomination présidentielle"
+  ],
+  "notions": [
+   "pouvoirs-du-parlement"
+  ],
+  "motifs": [
+   "vote de confiance",
+   "Investir le premier ministre",
+   "audition préalable des ministres"
+  ]
+ },
+ {
+  "id": "article-16",
+  "terme": "Article 16",
+  "variantes": [
+   "pouvoirs exceptionnels",
+   "pleins pouvoirs"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Disposition de la Constitution qui permet au Président de prendre « les mesures exigées par les circonstances » lorsque les institutions, l’indépendance de la Nation ou l’intégrité du territoire sont menacées de manière grave et immédiate. Elle n’a été utilisée qu’une fois, en 1961, après le putsch des généraux à Alger.",
+  "usage": "Les Écologistes et le PS-Place publique proposent de supprimer l’article 16, que ses critiques décrivent comme une « dictature temporaire ». Ses défenseurs y voient une soupape de sécurité en cas de crise extrême.",
+  "concurrents": [
+   "état d’urgence",
+   "état de siège"
+  ],
+  "notions": [
+   "pouvoirs-du-parlement",
+   "assemblee-constituante"
+  ],
+  "motifs": [
+   "article 16",
+   "pouvoirs exceptionnels"
+  ]
+ },
+ {
+  "id": "septennat",
+  "terme": "Septennat",
+  "variantes": [
+   "quinquennat",
+   "mandat présidentiel unique"
+  ],
+  "registre": "technique",
+  "theme": "institutions",
+  "definition": "Mandat présidentiel de sept ans, en vigueur jusqu’à la révision de 2000, approuvée par référendum, qui l’a ramené à cinq ans. Depuis 2008, nul ne peut exercer plus de deux mandats présidentiels consécutifs.",
+  "usage": "Les Écologistes proposent un « septennat unique », non renouvelable. Ses partisans y voient un moyen de dissocier présidentielle et législatives et de libérer le Président de la perspective de sa réélection ; ses critiques y voient une perte de contrôle démocratique.",
+  "concurrents": [
+   "quinquennat"
+  ],
+  "notions": [
+   "assemblee-constituante"
+  ],
+  "motifs": [
+   "septennat"
+  ]
+ },
+ {
+  "id": "tirage-au-sort",
+  "terme": "Tirage au sort",
+  "variantes": [
+   "stochocratie",
+   "citoyens tirés au sort"
+  ],
+  "registre": "technique",
+  "theme": "institutions",
+  "definition": "Désignation aléatoire de citoyens, souvent avec des quotas pour assurer la diversité, afin de composer une assemblée délibérative. Il est utilisé pour les jurys d’assises et pour les conventions citoyennes.",
+  "usage": "Le PS-Place publique propose une Assemblée citoyenne du futur tirée au sort ; les Écologistes veulent attribuer à des citoyens tirés au sort les sièges correspondant au vote blanc. Ses critiques invoquent l’absence de mandat électif et de responsabilité devant les électeurs.",
+  "concurrents": [
+   "élection",
+   "représentation"
+  ],
+  "notions": [
+   "convention-citoyenne",
+   "vote-blanc"
+  ],
+  "motifs": [
+   "tirés au sort",
+   "tirage au sort"
+  ]
+ },
+ {
+  "id": "droit-de-petition",
+  "terme": "Droit de pétition",
+  "variantes": [
+   "droit d’interpellation citoyenne"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Droit pour les citoyens d’adresser une demande collective à une autorité publique. Les pétitions déposées sur le site de l’Assemblée nationale qui dépassent 500 000 signatures, issues d’au moins 30 départements, peuvent faire l’objet d’un débat en séance si la conférence des présidents le décide.",
+  "usage": "Les Écologistes proposent d’abaisser les seuils et de rendre obligatoire un vote à l’Assemblée au-delà de 500 000 signatures. L’enjeu est de transformer un droit d’expression en droit d’initiative.",
+  "concurrents": [
+   "initiative citoyenne",
+   "RIC"
+  ],
+  "notions": [
+   "ric",
+   "pouvoirs-du-parlement"
+  ],
+  "motifs": [
+   "pétition",
+   "droit d'interpellation"
+  ]
+ },
+ {
+  "id": "vote-obligatoire",
+  "terme": "Vote obligatoire",
+  "variantes": [
+   "obligation de vote"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Régime dans lequel les électeurs inscrits sont tenus de voter, sous peine d’une sanction généralement symbolique, comme en Belgique ou en Australie. En France, le vote est un droit et non une obligation, sauf pour les grands électeurs des sénatoriales.",
+  "usage": "La France insoumise propose le vote obligatoire avec reconnaissance du vote blanc. Ses opposants y voient une atteinte à la liberté de ne pas voter et jugent l’abstention porteuse de sens politique.",
+  "concurrents": [
+   "abstention",
+   "liberté de vote"
+  ],
+  "notions": [
+   "vote-blanc"
+  ],
+  "motifs": [
+   "vote obligatoire"
+  ]
+ },
+ {
+  "id": "inscription-automatique",
+  "terme": "Inscription automatique sur les listes électorales",
+  "variantes": [
+   "mal-inscription"
+  ],
+  "registre": "administratif",
+  "theme": "institutions",
+  "definition": "Inscription d’office d’un électeur sur les listes, sans démarche de sa part. Elle existe en France pour les jeunes recensés à 18 ans et pour les personnes naturalisées, mais un déménagement exige une nouvelle démarche, ce qui crée de la « mal-inscription ». Le répertoire électoral unique est tenu par l’Insee depuis 2019.",
+  "usage": "Les Écologistes et le PS-Place publique veulent la généraliser. Le sujet est peu conflictuel et technique ; il touche aux moyens de lutter contre l’abstention.",
+  "concurrents": [],
+  "notions": [
+   "vote-a-16-ans"
+  ],
+  "motifs": [
+   "inscription automatique sur les listes électorales"
+  ]
+ },
+ {
+  "id": "revocation-des-elus",
+  "terme": "Révocation des élus",
+  "variantes": [
+   "référendum révocatoire",
+   "recall"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Possibilité pour les électeurs de mettre fin au mandat d’un élu avant son terme, par une pétition suivie d’un vote. Elle existe dans certains États américains et au Venezuela, mais pas en droit français.",
+  "usage": "La France insoumise propose le « droit de révoquer un élu en cours de mandat » par RIC. Ses opposants y voient un risque d’instabilité et de pression permanente sur les élus.",
+  "concurrents": [
+   "mandat représentatif"
+  ],
+  "notions": [
+   "ric"
+  ],
+  "motifs": [
+   "révoquer un élu",
+   "révoquer des élus"
+  ]
+ },
+ {
+  "id": "vote-boitier",
+  "terme": "Vote « boîtier »",
+  "variantes": [
+   "vote par délégation"
+  ],
+  "registre": "technique",
+  "theme": "institutions",
+  "definition": "Pratique du Sénat qui permet à un sénateur de voter, lors des scrutins publics ordinaires, pour l’ensemble des membres de son groupe en déposant leurs bulletins, ce qui permet d’adopter un texte en présence de quelques sénateurs.",
+  "usage": "Les Écologistes proposent de l’interdire. Le terme est critique et vise la présence effective des parlementaires ; à l’Assemblée nationale, le vote électronique personnel est la règle.",
+  "concurrents": [
+   "délégation de vote"
+  ],
+  "notions": [
+   "senat"
+  ],
+  "motifs": [
+   "vote « boîtier »",
+   "vote boîtier"
+  ]
+ },
+ {
+  "id": "epci",
+  "terme": "EPCI",
+  "variantes": [
+   "établissement public de coopération intercommunale",
+   "communauté de communes",
+   "communauté d’agglomération"
+  ],
+  "registre": "administratif",
+  "theme": "institutions",
+  "definition": "Sigle de l’établissement public de coopération intercommunale, structure qui regroupe des communes pour exercer des compétences en commun. Les EPCI à fiscalité propre lèvent leur propre impôt ; ce ne sont pas des collectivités territoriales au sens de la Constitution.",
+  "usage": "Les Écologistes veulent transformer les EPCI en collectivités, le RN baisser leur dotation. Le sigle administratif contraste avec les termes politiques de « libertés communales » ou de « métropoles ».",
+  "concurrents": [
+   "commune",
+   "collectivité territoriale"
+  ],
+  "notions": [
+   "intercommunalite",
+   "finances-locales"
+  ],
+  "motifs": [
+   "EPCI",
+   "établissements publics de coopération intercommunale"
+  ]
+ },
+ {
+  "id": "dgf",
+  "terme": "DGF",
+  "variantes": [
+   "dotation globale de fonctionnement",
+   "dotations de l’État"
+  ],
+  "registre": "administratif",
+  "theme": "institutions",
+  "definition": "Principale dotation de fonctionnement versée chaque année par l’État aux communes, intercommunalités, départements et régions, calculée selon des critères de population, de ressources et de charges. Son montant est fixé par la loi de finances.",
+  "usage": "Le RN propose de baisser la DGF des régions et des EPCI dans son chiffrage. Les associations d’élus parlent de « baisse des dotations » et de « recentralisation » quand elle diminue.",
+  "concurrents": [
+   "autonomie fiscale"
+  ],
+  "notions": [
+   "finances-locales"
+  ],
+  "motifs": [
+   "DGF",
+   "dotation globale de fonctionnement"
+  ]
+ },
+ {
+  "id": "dilico",
+  "terme": "DILICO",
+  "variantes": [
+   "dispositif de lissage conjoncturel"
+  ],
+  "registre": "administratif",
+  "theme": "institutions",
+  "definition": "Sigle du dispositif de lissage conjoncturel des recettes fiscales des collectivités territoriales, créé par la loi de finances pour 2025 et reconduit en 2026 pour 740 millions d’euros, les communes en étant exonérées. Il met en réserve une partie des recettes des collectivités les plus aisées, reversée ensuite à 90 % par tiers sur trois ans, afin de les faire contribuer au redressement des comptes publics.",
+  "usage": "Les Écologistes en demandent la suppression et le qualifient de « prélèvement sur ressources ». Le gouvernement le présente comme une mise en réserve et non comme une ponction définitive.",
+  "concurrents": [
+   "contribution au redressement des comptes publics"
+  ],
+  "notions": [
+   "finances-locales"
+  ],
+  "motifs": [
+   "DILICO"
+  ]
+ },
+ {
+  "id": "droit-a-l-experimentation",
+  "terme": "Droit à l’expérimentation",
+  "variantes": [
+   "expérimentation locale",
+   "différenciation"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Possibilité, ouverte par la révision constitutionnelle de 2003 (articles 37-1 et 72), pour les collectivités de déroger à titre expérimental et pour une durée limitée aux lois et règlements dans leurs domaines de compétence. Depuis 2021, une expérimentation réussie peut être maintenue dans les seules collectivités qui l’ont menée.",
+  "usage": "Les Écologistes veulent soutenir ce droit ; LR propose des « adaptations locales » des normes nationales sous l’autorité de l’État. Ses défenseurs y voient de la souplesse, ses critiques un risque de rupture d’égalité entre territoires.",
+  "concurrents": [
+   "égalité devant la loi",
+   "uniformité"
+  ],
+  "notions": [
+   "decentralisation"
+  ],
+  "motifs": [
+   "droit d'expérimentation",
+   "adaptations locales"
+  ]
+ },
+ {
+  "id": "contractualisation",
+  "terme": "Contractualisation État-collectivités",
+  "variantes": [
+   "contrats territoriaux",
+   "pacte État-collectivités"
+  ],
+  "registre": "administratif",
+  "theme": "institutions",
+  "definition": "Méthode par laquelle l’État et les collectivités fixent par contrat des objectifs et des financements communs, par exemple dans les contrats de plan État-région ou les contrats de relance et de transition écologique.",
+  "usage": "LR propose une contractualisation sous l’autorité du préfet pour le logement et l’urbanisme, et les Écologistes un « nouveau pacte » État-collectivités. Le contrat est présenté comme une alternative aux normes imposées d’en haut ; ses critiques y voient parfois une tutelle déguisée.",
+  "concurrents": [
+   "normes nationales",
+   "quotas"
+  ],
+  "notions": [
+   "prefet",
+   "decentralisation"
+  ],
+  "motifs": [
+   "contractualisation entre l'État",
+   "contrats territoriaux",
+   "nouveau pacte entre Etat et collectivités"
+  ]
+ },
+ {
+  "id": "collectivite-unique",
+  "terme": "Collectivité unique",
+  "variantes": [
+   "collectivité territoriale unique",
+   "statut particulier"
+  ],
+  "registre": "administratif",
+  "theme": "institutions",
+  "definition": "Collectivité qui exerce à la fois les compétences d’un département et d’une région. La Guyane et la Martinique sont devenues des collectivités uniques en 2015, après consultation de leurs électeurs, et la Corse en 2018 ; Mayotte est un département qui exerce aussi les compétences régionales.",
+  "usage": "Les Écologistes proposent des référendums locaux pour créer une collectivité unique en Guadeloupe et à La Réunion. Le débat oppose simplification et crainte d’une concentration du pouvoir local.",
+  "concurrents": [
+   "département et région"
+  ],
+  "notions": [
+   "referendum",
+   "decentralisation"
+  ],
+  "motifs": [
+   "collectivité unique"
+  ]
+ },
+ {
+  "id": "outre-mer",
+  "terme": "Outre-mer",
+  "variantes": [
+   "ultramarin",
+   "DROM",
+   "COM",
+   "DOM-TOM",
+   "territoires dits d’outre-mer",
+   "territoires éloignés et insulaires"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Désigne les territoires français situés hors du continent européen : départements et régions d’outre-mer (article 73), collectivités d’outre-mer (article 74) et Nouvelle-Calédonie (titre XIII). Le sigle DOM-TOM, encore courant, ne correspond plus aux catégories juridiques depuis 2003.",
+  "usage": "Les Écologistes écrivent systématiquement « territoires dits d’outre-mer », marquant une distance avec un terme jugé hérité de la colonisation ; La France insoumise parle aussi de « territoires éloignés et insulaires ». Les autres partis emploient « outre-mer » et « ultramarin » sans guillemets.",
+  "concurrents": [
+   "DOM-TOM",
+   "territoires ultramarins",
+   "Hexagone"
+  ],
+  "notions": [
+   "vie-chere-outre-mer",
+   "octroi-de-mer",
+   "nouvelle-caledonie"
+  ],
+  "motifs": [
+   "territoires dits",
+   "territoires éloignés et insulaires",
+   "ultramarin",
+   "ultramarins",
+   "ultramarines",
+   "ultra-marins"
+  ]
+ },
+ {
+  "id": "hexagone",
+  "terme": "Hexagone",
+  "variantes": [
+   "France hexagonale",
+   "métropole"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Désigne la France européenne continentale, par référence à sa forme. Le terme tend à remplacer « métropole » dans le vocabulaire administratif et politique, parce que ce dernier évoque la relation entre une puissance coloniale et ses colonies.",
+  "usage": "Les Écologistes et le PS-Place publique parlent d’« Hexagone » pour comparer les prix et les droits avec l’outre-mer. « Métropole » reste employé par d’autres, souvent sans intention particulière.",
+  "concurrents": [
+   "métropole",
+   "France métropolitaine"
+  ],
+  "notions": [
+   "vie-chere-outre-mer"
+  ],
+  "motifs": [
+   "Hexagone",
+   "hexagone"
+  ]
+ },
+ {
+  "id": "heritage-colonial",
+  "terme": "Héritage colonial",
+  "variantes": [
+   "décolonisation",
+   "époque coloniale"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Désigne les effets durables de la colonisation sur les sociétés d’outre-mer : répartition des terres, concentration économique, inégalités, mémoire. La décolonisation est le processus d’accession à l’indépendance ou d’émancipation des anciennes colonies.",
+  "usage": "Les Écologistes y recourent souvent : « monopoles hérités de l’époque coloniale », inégalités foncières « héritées de la colonisation », accord en Nouvelle-Calédonie fondé sur la « décolonisation ». D’autres partis traitent les mêmes sujets en termes de « vie chère », de « concurrence » ou de « rattrapage ».",
+  "concurrents": [
+   "vie chère",
+   "rattrapage",
+   "continuité territoriale"
+  ],
+  "notions": [
+   "vie-chere-outre-mer",
+   "nouvelle-caledonie"
+  ],
+  "motifs": [
+   "époque coloniale",
+   "colonisation",
+   "décolonisation",
+   "héritage colonial"
+  ]
+ },
+ {
+  "id": "kanaky",
+  "terme": "Kanaky",
+  "variantes": [
+   "Kanaky-Nouvelle-Calédonie"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Nom donné à la Nouvelle-Calédonie par le mouvement indépendantiste kanak, notamment le FLNKS. Son emploi marque l’adhésion à la perspective d’une souveraineté du peuple kanak.",
+  "usage": "Le mot apparaît dans l’intitulé d’une proposition des Écologistes, mais pas dans les citations retenues ; La France insoumise et le PS-Place publique parlent de « Nouvelle-Calédonie ». Les non-indépendantistes refusent ce nom.",
+  "concurrents": [
+   "Nouvelle-Calédonie",
+   "Caillou"
+  ],
+  "notions": [
+   "nouvelle-caledonie"
+  ],
+  "motifs": [
+   "Kanaky"
+  ]
+ },
+ {
+  "id": "corps-electoral-gele",
+  "terme": "Corps électoral gelé",
+  "variantes": [
+   "dégel du corps électoral",
+   "liste électorale spéciale"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "En Nouvelle-Calédonie, seuls peuvent voter aux élections provinciales les électeurs installés avant 1998 et leurs descendants, en application de l’accord de Nouméa ; la révision constitutionnelle de 2007 a figé cette règle. Une part croissante des résidents se trouve ainsi exclue de ces élections.",
+  "usage": "La France insoumise demande d’abandonner la réforme visant au « dégel immédiat du corps électoral ». Les non-indépendantistes défendent l’élargissement au nom de l’égalité du suffrage, les indépendantistes le gel au nom de la protection du peuple kanak.",
+  "concurrents": [
+   "égalité du suffrage"
+  ],
+  "notions": [
+   "nouvelle-caledonie"
+  ],
+  "motifs": [
+   "corps électoral"
+  ]
+ },
+ {
+  "id": "vie-chere",
+  "terme": "Vie chère",
+  "variantes": [
+   "cherté de la vie",
+   "pwofitasyon"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Désigne l’écart de prix entre l’outre-mer et l’Hexagone, en particulier sur l’alimentation. Il a été au cœur des grèves générales de 2009 aux Antilles ; en Guadeloupe, le collectif LKP dénonçait la « pwofitasyon », mot créole qui vise l’exploitation par les marges.",
+  "usage": "Le PS-Place publique, LR et Renaissance emploient l’expression, en l’associant aux « conglomérats », à un plan dédié ou à l’autonomie alimentaire. Les Écologistes et La France insoumise traitent le même sujet surtout en termes de « monopoles » et de « bouclier qualité-prix ».",
+  "concurrents": [
+   "coût de l’éloignement",
+   "surcoût ultramarin"
+  ],
+  "notions": [
+   "vie-chere-outre-mer",
+   "octroi-de-mer"
+  ],
+  "motifs": [
+   "vie chère"
+  ]
+ },
+ {
+  "id": "continuite-territoriale",
+  "terme": "Continuité territoriale",
+  "variantes": [
+   "désenclavement"
+  ],
+  "registre": "administratif",
+  "theme": "institutions",
+  "definition": "Principe selon lequel l’État compense les handicaps liés à l’éloignement et à l’insularité, notamment par des aides au transport entre l’outre-mer et l’Hexagone ou vers la Corse. L’Agence de l’outre-mer pour la mobilité gère une partie de ces aides.",
+  "usage": "La France insoumise veut une « desserte de service public à tarifs réglementés » et le RN fait de sa garantie une mission d’un ministère de la Mer et de l’Outre-mer. Le terme met l’accent sur l’égalité de traitement entre territoires.",
+  "concurrents": [
+   "mobilité",
+   "désenclavement"
+  ],
+  "notions": [
+   "vie-chere-outre-mer"
+  ],
+  "motifs": [
+   "continuité territoriale",
+   "désenclavement routier"
+  ]
+ },
+ {
+  "id": "pluralisme",
+  "terme": "Pluralisme des médias",
+  "variantes": [
+   "pluralisme",
+   "diversité de l’information"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Exigence selon laquelle les citoyens doivent avoir accès à des courants d’expression et d’opinion variés. Le Conseil constitutionnel en fait un objectif de valeur constitutionnelle, et l’Arcom veille au pluralisme dans l’audiovisuel, notamment en période électorale.",
+  "usage": "Le PS-Place publique et les Écologistes invoquent le pluralisme pour limiter la concentration ; les Écologistes veulent l’inscrire dans la Constitution. Les médias visés y opposent la « liberté éditoriale ».",
+  "concurrents": [
+   "liberté éditoriale",
+   "liberté d’entreprendre"
+  ],
+  "notions": [
+   "concentration-des-medias",
+   "audiovisuel-public"
+  ],
+  "motifs": [
+   "pluralisme"
+  ]
+ },
+ {
+  "id": "chaines-d-opinion",
+  "terme": "Chaînes d’opinion",
+  "variantes": [
+   "médias d’opinion"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Désigne des chaînes de télévision dont la ligne éditoriale serait orientée politiquement, par opposition aux chaînes d’information soumises à une exigence d’honnêteté et de pluralisme. En février 2024, le Conseil d’État a demandé à l’Arcom de mieux contrôler le pluralisme interne des chaînes ; la même année, l’Arcom n’a pas retenu C8 lors du renouvellement des fréquences de la TNT, et la chaîne a cessé d’y être diffusée le 28 février 2025, après le rejet de ses recours par le Conseil d’État.",
+  "usage": "Les Écologistes proposent d’« interdire strictement les chaînes d’opinion sur la TNT ». Les chaînes visées et leurs soutiens dénoncent une censure et invoquent la liberté d’expression.",
+  "concurrents": [
+   "chaîne d’information",
+   "liberté éditoriale"
+  ],
+  "notions": [
+   "concentration-des-medias"
+  ],
+  "motifs": [
+   "chaînes d'opinion"
+  ]
+ },
+ {
+  "id": "arcom",
+  "terme": "Arcom",
+  "variantes": [
+   "Autorité de régulation de la communication audiovisuelle et numérique",
+   "CSA"
+  ],
+  "registre": "administratif",
+  "theme": "institutions",
+  "definition": "Autorité publique indépendante créée le 1er janvier 2022 par la fusion du Conseil supérieur de l’audiovisuel et de la Hadopi. Elle attribue les fréquences de la TNT, nomme les présidents de l’audiovisuel public, veille au pluralisme et régule une partie des plateformes en ligne.",
+  "usage": "Le PS-Place publique veut la « refonder » avec des pouvoirs accrus contre la haine dans les médias ; les Écologistes veulent lui transférer la régulation de la publicité. Ses critiques à droite lui reprochent d’intervenir sur les lignes éditoriales.",
+  "concurrents": [
+   "autorégulation"
+  ],
+  "notions": [
+   "audiovisuel-public",
+   "concentration-des-medias"
+  ],
+  "motifs": [
+   "ARCOM",
+   "Arcom"
+  ]
+ },
+ {
+  "id": "statut-d-editeur",
+  "terme": "Statut d’éditeur",
+  "variantes": [
+   "hébergeur",
+   "responsabilité des plateformes"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "En droit du numérique, l’éditeur est responsable des contenus qu’il publie, alors que l’hébergeur n’est responsable des contenus de ses utilisateurs qu’après en avoir été informé. Les réseaux sociaux relèvent du régime de l’hébergeur, complété au niveau européen par le règlement sur les services numériques.",
+  "usage": "Les Écologistes proposent d’étendre le statut d’éditeur à toutes les grandes plateformes et de limiter le tri algorithmique aux plateformes qui l’ont. Les plateformes défendent le statut d’hébergeur comme condition de la liberté d’expression en ligne.",
+  "concurrents": [
+   "hébergeur",
+   "modération"
+  ],
+  "notions": [
+   "desinformation"
+  ],
+  "motifs": [
+   "statut d'éditeur"
+  ]
+ },
+ {
+  "id": "open-data",
+  "terme": "Open data",
+  "variantes": [
+   "données ouvertes",
+   "ouverture des données publiques"
+  ],
+  "registre": "administratif",
+  "theme": "institutions",
+  "definition": "Mise à disposition libre et gratuite des données produites par les administrations, dans des formats réutilisables. La loi pour une République numérique de 2016 a posé un principe d’ouverture par défaut pour les administrations et les collectivités de plus de 3 500 habitants.",
+  "usage": "Les Écologistes veulent une ouverture « intégrale » des données publiques et La France insoumise systématiser l’open data des collectivités. Le terme est consensuel ; les débats portent sur la protection des données personnelles et sur la commercialisation des données.",
+  "concurrents": [
+   "secret administratif"
+  ],
+  "notions": [
+   "dematerialisation"
+  ],
+  "motifs": [
+   "open data",
+   "données publiques"
+  ]
+ },
+ {
+  "id": "logiciel-libre",
+  "terme": "Logiciel libre",
+  "variantes": [
+   "open source",
+   "code ouvert"
+  ],
+  "registre": "technique",
+  "theme": "institutions",
+  "definition": "Logiciel dont la licence autorise l’utilisation, l’étude, la modification et la redistribution du code source. La loi de 2016 pour une République numérique demande aux administrations d’encourager son usage.",
+  "usage": "Les Écologistes veulent généraliser les logiciels libres dans l’administration (« open source first ») et La France insoumise créer une agence publique du logiciel libre. L’argument mêle souveraineté, coût et transparence.",
+  "concurrents": [
+   "logiciel propriétaire"
+  ],
+  "notions": [
+   "dematerialisation"
+  ],
+  "motifs": [
+   "logiciels libres",
+   "open source"
+  ]
+ },
+ {
+  "id": "defenseur-des-droits",
+  "terme": "Défenseur des droits",
+  "variantes": [
+   "autorité administrative indépendante"
+  ],
+  "registre": "administratif",
+  "theme": "institutions",
+  "definition": "Autorité constitutionnelle indépendante créée en 2011 (article 71-1), chargée de défendre les droits des usagers des services publics, les droits de l’enfant, de lutter contre les discriminations, de contrôler la déontologie des forces de sécurité et d’orienter les lanceurs d’alerte. Elle émet des recommandations mais ne peut pas prononcer de sanctions.",
+  "usage": "Le PS-Place publique veut lui permettre d’imposer des injonctions et des sanctions, et La France insoumise associe son évaluation à la vidéosurveillance. Les Écologistes et La France insoumise proposent en outre un « Commissariat à l’égalité ».",
+  "concurrents": [
+   "Commissariat à l’égalité",
+   "DILCRAH"
+  ],
+  "notions": [
+   "transparence-vie-publique"
+  ],
+  "motifs": [
+   "Défenseur des droits",
+   "Commissariat à l'égalité",
+   "DILCRAH"
+  ]
+ },
+ {
+  "id": "testing",
+  "terme": "Testing",
+  "variantes": [
+   "test de discrimination",
+   "test de situation"
+  ],
+  "registre": "technique",
+  "theme": "institutions",
+  "definition": "Méthode qui consiste à envoyer des candidatures ou des demandes identiques ne différant que par une caractéristique, comme le nom ou l’adresse, pour mesurer une discrimination. Il est admis comme mode de preuve devant le juge pénal.",
+  "usage": "Renaissance a proposé en 2022 un « testing » de chaque entreprise de plus de 5 000 salariés, avec publication des résultats. La méthode est peu contestée dans son principe, davantage dans la publication nominative des résultats.",
+  "concurrents": [
+   "name and shame"
+  ],
+  "notions": [
+   "fonction-publique"
+  ],
+  "motifs": [
+   "testing",
+   "testings"
+  ]
+ },
+ {
+  "id": "silence-vaut-acceptation",
+  "terme": "Silence vaut acceptation",
+  "variantes": [
+   "silence vaut accord",
+   "accord tacite"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Règle selon laquelle l’absence de réponse de l’administration à une demande, au terme d’un délai fixé, généralement deux mois, vaut décision d’acceptation. Posée par la loi du 12 novembre 2013, elle comporte de très nombreuses exceptions où le silence vaut rejet.",
+  "usage": "LR propose de l’appliquer pleinement à l’instruction des dossiers d’urbanisme et aux décisions administratives. Le principe est présenté comme une garantie pour l’usager ; ses critiques y voient un risque d’autorisations accordées sans examen.",
+  "concurrents": [
+   "silence vaut rejet"
+  ],
+  "notions": [
+   "simplification-administrative"
+  ],
+  "motifs": [
+   "silence de l'administration",
+   "silence vaudra"
+  ]
+ },
+ {
+  "id": "etude-d-impact",
+  "terme": "Étude d’impact",
+  "variantes": [
+   "évaluation préalable",
+   "test PME"
+  ],
+  "registre": "juridique",
+  "theme": "institutions",
+  "definition": "Document qui accompagne un projet de loi et expose ses objectifs, les options possibles et ses conséquences économiques, financières, sociales et environnementales. Elle est obligatoire depuis la loi organique du 15 avril 2009 ; une étude d’impact environnementale distincte s’applique aux projets d’aménagement.",
+  "usage": "Reconquête veut qu’aucune loi ne soit votée sans étude d’impact avec l’appui de la Cour des comptes, et LR une évaluation préalable « opposable » avec « test PME ». Les Écologistes veulent rattacher l’évaluation au Parlement.",
+  "concurrents": [],
+  "notions": [
+   "simplification-administrative",
+   "pouvoirs-du-parlement"
+  ],
+  "motifs": [
+   "sans étude d'impact",
+   "étude d'impact indépendante",
+   "évaluation préalable"
+  ]
+ },
+ {
+  "id": "normes",
+  "terme": "Inflation normative",
+  "variantes": [
+   "normes",
+   "surtransposition",
+   "bureaucratie",
+   "paperasse"
+  ],
+  "registre": "élément de langage",
+  "theme": "institutions",
+  "definition": "Désigne l’accumulation des lois, décrets et règles techniques, jugée excessive. La surtransposition consiste à ajouter des exigences nationales lors de la transposition d’une directive européenne.",
+  "usage": "LR veut une règle de compensation en valeur, une autorité de contrôle des normes avec veto et l’interdiction de la surtransposition par loi organique ; le RN parle de simplification de l’« environnement réglementaire ». Leurs opposants rappellent que ces normes protègent la santé, les salariés ou l’environnement et parlent de « régression » ou de « dérégulation ».",
+  "concurrents": [
+   "protection",
+   "dérégulation",
+   "régression environnementale"
+  ],
+  "notions": [
+   "simplification-administrative"
+  ],
+  "motifs": [
+   "sur-transposition",
+   "surtransposition",
+   "environnement réglementaire",
+   "règles excessives"
+  ]
+ }
+]

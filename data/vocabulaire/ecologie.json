@@ -1,0 +1,1815 @@
+[
+ {
+  "id": "mix-electrique",
+  "terme": "Mix électrique",
+  "variantes": [
+   "mix énergétique",
+   "bouquet énergétique"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Répartition de la production d’électricité entre les différentes sources : nucléaire, hydraulique, éolien, solaire, gaz, charbon. Le mix énergétique, plus large, inclut toutes les énergies consommées, dont le pétrole et le gaz pour les transports et le chauffage. En France, le mix électrique est dominé par le nucléaire.",
+  "usage": "Le terme est employé par tous les courants ; les débats portent sur la part à donner à chaque source, notamment l’objectif de réduire ou non la part du nucléaire.",
+  "concurrents": [],
+  "notions": [
+   "ppe",
+   "sortie-du-nucleaire"
+  ],
+  "motifs": [
+   "mix électrique",
+   "mix énergétique"
+  ]
+ },
+ {
+  "id": "energie-pilotable",
+  "terme": "Énergie pilotable",
+  "variantes": [
+   "production pilotable",
+   "moyen pilotable"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Se dit d’un moyen de production dont on peut moduler la production à la demande, comme une centrale nucléaire, hydraulique ou thermique, par opposition aux sources dont la production dépend du vent ou de l’ensoleillement.",
+  "usage": "Le terme est mis en avant par les défenseurs du nucléaire, comme le PS-Place publique, qui le qualifie d’« énergie pilotable et décarbonée ». Les Écologistes l’emploient pour un réseau électrique « pilotable » à partir de sources multiples.",
+  "concurrents": [
+   "énergies intermittentes",
+   "énergies variables"
+  ],
+  "notions": [
+   "epr",
+   "prolongation-des-reacteurs"
+  ],
+  "motifs": [
+   "pilotable*"
+  ]
+ },
+ {
+  "id": "energies-intermittentes",
+  "terme": "Énergies intermittentes",
+  "variantes": [
+   "intermittence"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Expression désignant les sources d’électricité dont la production varie selon la météo, principalement l’éolien et le solaire.",
+  "usage": "Le terme est employé par le Rassemblement national pour viser les soutiens à l’éolien et au solaire ; il souligne la contrainte pour le réseau. Les acteurs des renouvelables et les gestionnaires de réseau lui préfèrent souvent « énergies variables », qui insiste sur une variation prévisible.",
+  "concurrents": [
+   "énergies variables",
+   "énergies renouvelables"
+  ],
+  "notions": [
+   "moratoire-eolien-solaire",
+   "obligation-d-achat"
+  ],
+  "motifs": [
+   "énergies intermittentes",
+   "intermittentes"
+  ]
+ },
+ {
+  "id": "decarbonation",
+  "terme": "Décarbonation",
+  "variantes": [
+   "décarboner",
+   "décarboné"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Réduction des émissions de dioxyde de carbone d’une activité, d’un secteur ou d’une économie, par le remplacement des énergies fossiles ou l’amélioration des procédés.",
+  "usage": "Le terme est le plus employé par Renaissance et Horizons, qui parlent de « décarbonation de l’économie » et d’« industrie décarbonée ». Il met l’accent sur la dimension technique et industrielle de la lutte contre le changement climatique, plus que sur la consommation.",
+  "concurrents": [
+   "transition écologique",
+   "sobriété"
+  ],
+  "notions": [
+   "snbc",
+   "planification-ecologique"
+  ],
+  "motifs": [
+   "décarbonation",
+   "décarboné*",
+   "décarboner"
+  ]
+ },
+ {
+  "id": "energie-propre",
+  "terme": "Énergie propre",
+  "variantes": [
+   "énergies propres",
+   "véhicules propres"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Expression désignant des sources d’énergie ou des technologies qui émettent peu de polluants ou de gaz à effet de serre.",
+  "usage": "Le mot « propre » est employé notamment par le Rassemblement national pour des « véhicules propres » et par Renaissance pour les « énergies propres ». Il présente la technologie comme sans impact et ne précise pas de critère, alors que « bas carbone » ou « décarboné » désignent un indicateur mesurable.",
+  "concurrents": [
+   "bas carbone",
+   "énergie décarbonée",
+   "énergies renouvelables"
+  ],
+  "notions": [],
+  "motifs": [
+   "énergie propre",
+   "énergies propres",
+   "véhicules propres"
+  ]
+ },
+ {
+  "id": "gaz-a-effet-de-serre",
+  "terme": "Gaz à effet de serre",
+  "variantes": [
+   "GES",
+   "émissions"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Gaz qui retiennent dans l’atmosphère une partie de la chaleur émise par la Terre, comme le dioxyde de carbone, le méthane ou le protoxyde d’azote. Leur augmentation due aux activités humaines est la cause principale du réchauffement climatique.",
+  "usage": "Terme scientifique employé par tous ; La France insoumise et les Écologistes l’utilisent pour fixer des objectifs chiffrés de réduction.",
+  "concurrents": [
+   "empreinte carbone"
+  ],
+  "notions": [
+   "snbc"
+  ],
+  "motifs": [
+   "gaz à effet de serre"
+  ]
+ },
+ {
+  "id": "empreinte-carbone",
+  "terme": "Empreinte carbone",
+  "variantes": [
+   "empreinte matières"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Mesure des émissions de gaz à effet de serre liées à la consommation d’un pays, y compris celles émises à l’étranger pour produire les biens importés. Elle se distingue des émissions territoriales, qui ne comptent que ce qui est émis sur le sol national.",
+  "usage": "Le Rassemblement national l’emploie pour justifier les relocalisations industrielles ; les Écologistes y ajoutent une « empreinte matières ».",
+  "concurrents": [
+   "émissions territoriales"
+  ],
+  "notions": [
+   "mecanisme-d-ajustement-carbone-aux-frontieres"
+  ],
+  "motifs": [
+   "empreinte carbone",
+   "empreinte matières"
+  ]
+ },
+ {
+  "id": "bas-carbone",
+  "terme": "Bas carbone",
+  "variantes": [
+   "bas-carbone"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Se dit d’une technologie, d’un produit ou d’une activité émettant peu de gaz à effet de serre au regard de ses équivalents.",
+  "usage": "Employé par les Écologistes, Reconquête et Renaissance, par exemple pour l’« aviation bas carbone » ou les voitures « bas carbone ». Il admet une part d’émissions résiduelles, à la différence de « zéro émission ».",
+  "concurrents": [
+   "zéro émission",
+   "décarboné",
+   "énergie propre"
+  ],
+  "notions": [
+   "snbc"
+  ],
+  "motifs": [
+   "bas carbone",
+   "bas-carbone"
+  ]
+ },
+ {
+  "id": "zero-emission",
+  "terme": "Zéro émission",
+  "variantes": [
+   "véhicules zéro émission"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Qualification réglementaire des véhicules qui n’émettent pas de CO2 à l’échappement, comme les voitures électriques ou à hydrogène. Elle ne prend pas en compte les émissions liées à leur fabrication ou à la production de l’électricité.",
+  "usage": "Employé par les Écologistes pour l’objectif de 2035 et par La France insoumise pour des objectifs d’émissions nettes nulles.",
+  "concurrents": [
+   "bas carbone",
+   "véhicules propres"
+  ],
+  "notions": [
+   "fin-vehicules-thermiques-2035"
+  ],
+  "motifs": [
+   "zéro émission*"
+  ]
+ },
+ {
+  "id": "efficacite-energetique",
+  "terme": "Efficacité énergétique",
+  "variantes": [],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Fait d’obtenir le même service, chauffage, éclairage ou déplacement, en consommant moins d’énergie grâce à de meilleurs équipements ou procédés.",
+  "usage": "Associée à la sobriété par La France insoumise et le PS-Place publique ; elle est souvent préférée par les courants qui privilégient les solutions techniques, parce qu’elle ne suppose pas de changer les usages.",
+  "concurrents": [
+   "sobriété"
+  ],
+  "notions": [
+   "sobriete-energetique",
+   "renovation-energetique"
+  ],
+  "motifs": [
+   "efficacité énergétique"
+  ]
+ },
+ {
+  "id": "precarite-energetique",
+  "terme": "Précarité énergétique",
+  "variantes": [
+   "passoire thermique"
+  ],
+  "registre": "administratif",
+  "theme": "ecologie",
+  "definition": "Situation d’un ménage qui éprouve des difficultés à disposer de l’énergie nécessaire à ses besoins élémentaires, en raison de revenus faibles, d’un logement mal isolé ou de prix élevés. La loi en donne une définition depuis 2010. Les logements les plus énergivores sont appelés « passoires thermiques ».",
+  "usage": "Employé surtout par les Écologistes et La France insoumise, qui lient rénovation des logements et justice sociale.",
+  "concurrents": [
+   "pouvoir d’achat énergétique"
+  ],
+  "notions": [
+   "renovation-energetique",
+   "cee"
+  ],
+  "motifs": [
+   "précarité énergétique",
+   "passoire thermique",
+   "passoires thermiques",
+   "passoire énergétique",
+   "passoires énergétiques"
+  ]
+ },
+ {
+  "id": "reste-a-charge",
+  "terme": "Reste à charge",
+  "variantes": [
+   "avance de frais"
+  ],
+  "registre": "économique",
+  "theme": "ecologie",
+  "definition": "Part du coût de travaux ou d’un achat qui reste payée par le ménage une fois les aides publiques déduites. L’avance de frais désigne le fait de payer les travaux avant de percevoir les aides.",
+  "usage": "La plupart des programmes de gauche et Renaissance proposent des rénovations « sans avance de frais » ; le terme met en avant l’obstacle financier pour les ménages modestes.",
+  "concurrents": [],
+  "notions": [
+   "renovation-energetique"
+  ],
+  "motifs": [
+   "reste à charge",
+   "avance de frais"
+  ]
+ },
+ {
+  "id": "electrification-des-usages",
+  "terme": "Électrification des usages",
+  "variantes": [
+   "électrification"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Remplacement d’équipements fonctionnant aux énergies fossiles, chaudières ou moteurs thermiques, par des équipements électriques, comme les pompes à chaleur ou les véhicules électriques.",
+  "usage": "Employé par les Écologistes, il traduit l’idée qu’une électricité peu carbonée permet de réduire les émissions d’autres secteurs. Il est partagé par les défenseurs du nucléaire comme par ceux des renouvelables.",
+  "concurrents": [],
+  "notions": [
+   "fin-vehicules-thermiques-2035"
+  ],
+  "motifs": [
+   "électrification"
+  ]
+ },
+ {
+  "id": "stockage-energie",
+  "terme": "Stockage de l’énergie",
+  "variantes": [
+   "STEP",
+   "batteries",
+   "flexibilité"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Ensemble des moyens permettant de conserver de l’électricité produite à un moment pour l’utiliser plus tard : barrages à pompage, appelés STEP, batteries, hydrogène. La flexibilité désigne plus largement la capacité à ajuster production et consommation.",
+  "usage": "Mis en avant par les Écologistes et le PS-Place publique pour intégrer davantage de renouvelables, et par Les Républicains pour les STEP hydrauliques.",
+  "concurrents": [],
+  "notions": [
+   "concessions-hydroelectriques",
+   "cent-pour-cent-renouvelables"
+  ],
+  "motifs": [
+   "stockage d'énergie",
+   "stockage mixte",
+   "capacités de stockage",
+   "STEP",
+   "Micro-STEP"
+  ]
+ },
+ {
+  "id": "contrat-pour-difference",
+  "terme": "Contrat pour différence",
+  "variantes": [
+   "CfD"
+  ],
+  "registre": "économique",
+  "theme": "ecologie",
+  "definition": "Contrat qui garantit à un producteur un prix de référence : si le prix de marché est inférieur, la puissance publique ou l’acheteur verse la différence ; s’il est supérieur, c’est le producteur qui la rembourse.",
+  "usage": "Dispositif encouragé par la réforme européenne de 2024 ; Les Républicains proposent un contrat de ce type entre EDF et les fournisseurs.",
+  "concurrents": [
+   "tarif régulé",
+   "ARENH"
+  ],
+  "notions": [
+   "arenh",
+   "marche-europeen-de-l-electricite"
+  ],
+  "motifs": [
+   "contrat pour différence"
+  ]
+ },
+ {
+  "id": "appel-d-offres",
+  "terme": "Appel d’offres",
+  "variantes": [
+   "appels d’offres"
+  ],
+  "registre": "administratif",
+  "theme": "ecologie",
+  "definition": "Procédure par laquelle l’État met en concurrence des porteurs de projets, par exemple pour construire des parcs éoliens en mer ou des centrales solaires, en attribuant un soutien aux offres les mieux classées.",
+  "usage": "Les Républicains proposent de déclarer infructueux les appels d’offres non attribués pour le photovoltaïque et l’éolien en mer.",
+  "concurrents": [],
+  "notions": [
+   "moratoire-eolien-solaire",
+   "ppe"
+  ],
+  "motifs": [
+   "appels d'offres"
+  ]
+ },
+ {
+  "id": "cycle-du-combustible",
+  "terme": "Cycle du combustible",
+  "variantes": [
+   "traitement-recyclage",
+   "retraitement",
+   "fermeture du cycle"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Ensemble des étapes du combustible nucléaire, de l’extraction de l’uranium au traitement des combustibles usés et au stockage des déchets. Le retraitement, pratiqué à La Hague, permet de récupérer des matières réutilisables. La « fermeture du cycle » vise à réutiliser ces matières dans des réacteurs à neutrons rapides.",
+  "usage": "Employé par Les Républicains et Reconquête, qui défendent le retraitement et la recherche sur les réacteurs de quatrième génération.",
+  "concurrents": [],
+  "notions": [
+   "cigeo",
+   "epr"
+  ],
+  "motifs": [
+   "cycle du combustible",
+   "traitement-recyclage",
+   "retraitement"
+  ]
+ },
+ {
+  "id": "surete-nucleaire",
+  "terme": "Sûreté nucléaire",
+  "variantes": [
+   "ASN",
+   "IRSN",
+   "ASNR"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Ensemble des mesures destinées à prévenir les accidents dans les installations nucléaires et à en limiter les conséquences. L’Autorité de sûreté nucléaire et l’Institut de radioprotection et de sûreté nucléaire ont été fusionnés au 1er janvier 2025, en application d’une loi du 21 mai 2024, en une seule autorité, l’Autorité de sûreté nucléaire et de radioprotection (ASNR).",
+  "usage": "Les Écologistes et La France insoumise proposent de revenir sur cette fusion, au nom de la séparation entre expertise et décision ; le PS-Place publique et Les Républicains invoquent la sûreté comme condition du maintien ou de la prolongation des réacteurs.",
+  "concurrents": [],
+  "notions": [
+   "prolongation-des-reacteurs",
+   "epr"
+  ],
+  "motifs": [
+   "sûreté nucléaire",
+   "sûreté des centrales",
+   "conditions de sûreté",
+   "ASN",
+   "IRSN"
+  ]
+ },
+ {
+  "id": "communautes-energetiques",
+  "terme": "Communautés énergétiques",
+  "variantes": [
+   "coopératives énergétiques"
+  ],
+  "registre": "juridique",
+  "theme": "ecologie",
+  "definition": "Groupements de citoyens, de collectivités ou d’entreprises locales qui produisent et partagent de l’énergie renouvelable, reconnus par le droit européen et français.",
+  "usage": "Les Écologistes en font un levier d’appropriation citoyenne des renouvelables ; La France insoumise évoque des « coopératives locales » liées à un pôle public.",
+  "concurrents": [],
+  "notions": [
+   "cent-pour-cent-renouvelables"
+  ],
+  "motifs": [
+   "communautés énergétiques",
+   "coopératives locales"
+  ]
+ },
+ {
+  "id": "biocarburants",
+  "terme": "Biocarburants",
+  "variantes": [
+   "biokérosène",
+   "agrocarburants"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Carburants produits à partir de matières végétales ou de déchets, mélangés à l’essence, au gazole ou au kérosène. Le droit européen plafonne la part issue de cultures alimentaires.",
+  "usage": "Les Républicains veulent assouplir ce plafond et le Rassemblement national préserver leur avantage fiscal ; Reconquête vise un avion au biokérosène. Leurs critiques, qui parlent plutôt d’« agrocarburants », soulignent la concurrence avec l’alimentation.",
+  "concurrents": [
+   "agrocarburants"
+  ],
+  "notions": [],
+  "motifs": [
+   "biocarburant*",
+   "bio-carburant",
+   "biokérosène"
+  ]
+ },
+ {
+  "id": "bioenergies",
+  "terme": "Bioénergies",
+  "variantes": [
+   "biomasse",
+   "bois énergie",
+   "méthanisation"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Énergies produites à partir de matière organique : bois, résidus agricoles, déchets, cultures dédiées. La méthanisation produit du biogaz par fermentation.",
+  "usage": "Les Écologistes veulent en « maîtriser le recours » en raison de la concurrence avec l’alimentation ; le Rassemblement national propose de convertir les centrales à charbon à la biomasse.",
+  "concurrents": [],
+  "notions": [],
+  "motifs": [
+   "bioénergies",
+   "biomasse",
+   "bois énergie",
+   "méthanisation"
+  ]
+ },
+ {
+  "id": "hydrogene-vert",
+  "terme": "Hydrogène vert",
+  "variantes": [
+   "hydrogène"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Hydrogène produit par électrolyse de l’eau avec de l’électricité renouvelable ou bas carbone, par opposition à l’hydrogène produit à partir de gaz fossile. Il peut servir dans l’industrie, les transports lourds ou le stockage.",
+  "usage": "Mis en avant par Renaissance, Reconquête et le Rassemblement national comme technologie d’avenir ; ses critiques rappellent son rendement limité et son coût.",
+  "concurrents": [],
+  "notions": [],
+  "motifs": [
+   "hydrogène"
+  ]
+ },
+ {
+  "id": "energies-fossiles",
+  "terme": "Énergies fossiles",
+  "variantes": [
+   "énergies carbonées",
+   "fossiles"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Charbon, pétrole et gaz naturel, issus de la décomposition de matières organiques sur des millions d’années. Leur combustion est la principale source d’émissions de gaz à effet de serre.",
+  "usage": "Terme très présent chez les Écologistes, qui proposent de planifier la fermeture des infrastructures fossiles, et chez La France insoumise ; Renaissance parle de sortir de « la dépendance aux énergies fossiles ».",
+  "concurrents": [
+   "énergies décarbonées"
+  ],
+  "notions": [
+   "sobriete-energetique"
+  ],
+  "motifs": [
+   "énergies fossiles",
+   "énergies carbonées",
+   "fossile*"
+  ]
+ },
+ {
+  "id": "niches-fiscales-fossiles",
+  "terme": "Niches fiscales fossiles",
+  "variantes": [
+   "subventions aux énergies fossiles",
+   "niches brunes"
+  ],
+  "registre": "économique",
+  "theme": "ecologie",
+  "definition": "Avantages fiscaux qui réduisent la taxation de produits énergétiques fossiles, comme les taux réduits sur le gazole non routier ou l’exonération du kérosène.",
+  "usage": "Les Écologistes et La France insoumise proposent de les supprimer, en parlant de niches « polluantes » ; leurs défenseurs soulignent leur rôle pour la compétitivité de certains secteurs.",
+  "concurrents": [
+   "aides sectorielles"
+  ],
+  "notions": [
+   "interdiction-des-vols-courts"
+  ],
+  "motifs": [
+   "niches fiscales fossiles",
+   "niches fiscales polluantes",
+   "niches fiscales qui favorisent les énergies fossiles",
+   "subventions aux énergies fossiles"
+  ]
+ },
+ {
+  "id": "kerosene",
+  "terme": "Taxation du kérosène",
+  "variantes": [
+   "kérosène"
+  ],
+  "registre": "économique",
+  "theme": "ecologie",
+  "definition": "Le carburant des avions est exonéré de taxe sur les vols internationaux en vertu de conventions internationales, et largement sur les vols intérieurs.",
+  "usage": "La France insoumise et le PS-Place publique proposent de le taxer ; les Écologistes veulent transformer ces avantages en aides forfaitaires.",
+  "concurrents": [],
+  "notions": [
+   "interdiction-des-vols-courts"
+  ],
+  "motifs": [
+   "kérosène"
+  ]
+ },
+ {
+  "id": "report-modal",
+  "terme": "Report modal",
+  "variantes": [
+   "part modale"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Transfert de déplacements ou de marchandises d’un mode de transport vers un autre, par exemple de la route vers le rail. La part modale est la proportion des déplacements assurée par chaque mode.",
+  "usage": "Employé par les Écologistes et La France insoumise pour fixer des objectifs de transports collectifs et de fret ferroviaire.",
+  "concurrents": [],
+  "notions": [
+   "ticket-climat"
+  ],
+  "motifs": [
+   "report modal",
+   "part modale"
+  ]
+ },
+ {
+  "id": "mobilites-douces",
+  "terme": "Mobilités douces",
+  "variantes": [
+   "mobilités actives"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Modes de déplacement sans moteur ou peu motorisés : marche, vélo, trottinette. « Mobilités actives » insiste sur l’effort physique.",
+  "usage": "Employé par La France insoumise, le PS-Place publique et les Écologistes. Le Rassemblement national propose à l’inverse de supprimer le plan vélo.",
+  "concurrents": [
+   "mobilités actives"
+  ],
+  "notions": [],
+  "motifs": [
+   "mobilités douces",
+   "mobilités actives"
+  ]
+ },
+ {
+  "id": "fret-ferroviaire",
+  "terme": "Fret ferroviaire",
+  "variantes": [
+   "Fret SNCF",
+   "autoroutes ferroviaires"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Transport de marchandises par le train. Fret SNCF, filiale historique de la SNCF, a disparu le 1er janvier 2025, remplacée par deux sociétés, Hexafret pour le transport et Technis pour la maintenance. Ce plan dit de « discontinuité », négocié avec la Commission européenne qui enquêtait depuis 2023 sur des aides publiques à l’entreprise, a imposé de céder une partie de ses trafics à des concurrents.",
+  "usage": "La France insoumise refuse sa « privatisation » ; les Écologistes et le PS-Place publique proposent d’en augmenter fortement la part.",
+  "concurrents": [],
+  "notions": [],
+  "motifs": [
+   "fret"
+  ]
+ },
+ {
+  "id": "malus-poids",
+  "terme": "Malus au poids",
+  "variantes": [
+   "malus"
+  ],
+  "registre": "administratif",
+  "theme": "ecologie",
+  "definition": "Taxe payée à l’achat d’une voiture neuve dont la masse dépasse un seuil, en plus du malus fondé sur les émissions de CO2.",
+  "usage": "Les Écologistes proposent de le renforcer ; le Rassemblement national s’oppose à la hausse des malus automobiles.",
+  "concurrents": [],
+  "notions": [
+   "fin-vehicules-thermiques-2035"
+  ],
+  "motifs": [
+   "malus de poids",
+   "malus poids",
+   "malus"
+  ]
+ },
+ {
+  "id": "artificialisation",
+  "terme": "Artificialisation des sols",
+  "variantes": [
+   "étalement urbain",
+   "bétonisation"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Transformation d’espaces naturels, agricoles ou forestiers par l’urbanisation ou les infrastructures. Les opposants à l’artificialisation emploient aussi le terme plus polémique de « bétonisation ».",
+  "usage": "Terme employé par presque tous ; La France insoumise parle de « stopper l’étalement urbain ». Ses critiques à droite préfèrent mettre en avant le besoin de construire et de développer les territoires.",
+  "concurrents": [
+   "bétonisation",
+   "développement des territoires"
+  ],
+  "notions": [
+   "zan"
+  ],
+  "motifs": [
+   "artificialisation",
+   "étalement urbain",
+   "bétonisation"
+  ]
+ },
+ {
+  "id": "renaturation",
+  "terme": "Renaturation",
+  "variantes": [
+   "désimperméabilisation"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Opérations visant à rendre à un sol artificialisé des fonctions naturelles, par exemple en retirant le bitume pour permettre l’infiltration de l’eau et la végétalisation.",
+  "usage": "Employé par les Écologistes et Les Républicains, qui proposent un fonds de renaturation.",
+  "concurrents": [],
+  "notions": [
+   "zan"
+  ],
+  "motifs": [
+   "renaturation",
+   "désimperméabilisation"
+  ]
+ },
+ {
+  "id": "friches",
+  "terme": "Friches",
+  "variantes": [
+   "friches industrielles"
+  ],
+  "registre": "administratif",
+  "theme": "ecologie",
+  "definition": "Terrains ou bâtiments abandonnés après la fin d’une activité, souvent industrielle ou commerciale, susceptibles d’être réhabilités.",
+  "usage": "Leur réhabilitation est proposée par tous les camps, de gauche comme de droite, comme alternative à l’artificialisation de nouvelles terres.",
+  "concurrents": [],
+  "notions": [
+   "zan"
+  ],
+  "motifs": [
+   "friche*"
+  ]
+ },
+ {
+  "id": "captage",
+  "terme": "Aires de captage",
+  "variantes": [
+   "points de captage"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Zones où l’eau de pluie s’infiltre pour alimenter un point de prélèvement d’eau potable ; leur protection limite les pollutions, notamment agricoles.",
+  "usage": "Les Écologistes et le PS-Place publique proposent d’y renforcer la protection ou d’y interdire les pesticides.",
+  "concurrents": [],
+  "notions": [
+   "ecophyto"
+  ],
+  "motifs": [
+   "aires d'alimentation de captage",
+   "points de captage",
+   "captage"
+  ]
+ },
+ {
+  "id": "bon-etat-ecologique",
+  "terme": "Bon état écologique",
+  "variantes": [
+   "très bon état écologique"
+  ],
+  "registre": "juridique",
+  "theme": "ecologie",
+  "definition": "Notion issue de la directive-cadre européenne sur l’eau de 2000, qui évalue la qualité biologique et chimique des cours d’eau, lacs et nappes et fixe un objectif de bon état pour toutes les masses d’eau.",
+  "usage": "Les Écologistes et La France insoumise fixent l’objectif d’un « très bon état écologique » de tous les cours d’eau.",
+  "concurrents": [],
+  "notions": [
+   "regie-publique-eau"
+  ],
+  "motifs": [
+   "bon état écologique",
+   "très bon état écologique"
+  ]
+ },
+ {
+  "id": "reserves-de-substitution",
+  "terme": "« Réserves de substitution »",
+  "variantes": [
+   "retenues d’eau",
+   "stockage d’eau"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Expression employée par leurs promoteurs pour désigner les grands bassins remplis en hiver, dans l’idée qu’ils se substituent aux prélèvements estivaux.",
+  "usage": "Le terme est employé par la profession agricole et, dans des formulations voisines comme « stockage d’eau », par Les Républicains et le Rassemblement national ; il présente l’ouvrage comme neutre pour la ressource, ce que contestent ses opposants.",
+  "concurrents": [
+   "méga-bassines"
+  ],
+  "notions": [
+   "megabassines"
+  ],
+  "motifs": [
+   "réserves de substitution",
+   "stockage d'eau",
+   "réserves d'eau",
+   "retenue artificielle",
+   "retenues artificielles"
+  ]
+ },
+ {
+  "id": "mega-bassines",
+  "terme": "« Méga-bassines »",
+  "variantes": [
+   "mégabassines"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Terme employé par les opposants aux grandes réserves d’eau agricoles.",
+  "usage": "Employé par les Écologistes, La France insoumise et le PS-Place publique ; le préfixe « méga » souligne la taille et l’accaparement de l’eau par quelques exploitations, quand les partisans parlent de « réserves de substitution ».",
+  "concurrents": [
+   "réserves de substitution",
+   "stockage d’eau"
+  ],
+  "notions": [
+   "megabassines"
+  ],
+  "motifs": [
+   "méga-bassine*",
+   "mégabassine*"
+  ]
+ },
+ {
+  "id": "biodiversite",
+  "terme": "Biodiversité",
+  "variantes": [],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Diversité du vivant à tous ses niveaux : gènes, espèces et écosystèmes, ainsi que leurs interactions.",
+  "usage": "Terme employé par tous les partis ; les Écologistes, La France insoumise et le PS-Place publique en font une politique à part entière, quand d’autres l’associent à l’entretien des paysages par les agriculteurs et chasseurs.",
+  "concurrents": [],
+  "notions": [
+   "aires-protegees",
+   "ofb"
+  ],
+  "motifs": [
+   "biodiversité"
+  ]
+ },
+ {
+  "id": "coupes-rases",
+  "terme": "Coupes rases",
+  "variantes": [],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Abattage de la totalité des arbres d’une parcelle forestière en une seule fois, suivi le plus souvent d’une replantation.",
+  "usage": "Les Écologistes proposent de les interdire dans les vieilles forêts et de les limiter ailleurs ; le PS-Place publique veut y mettre fin progressivement. Les sylviculteurs y voient un mode de gestion adapté à certaines essences.",
+  "concurrents": [
+   "régénération naturelle"
+  ],
+  "notions": [],
+  "motifs": [
+   "coupes rases"
+  ]
+ },
+ {
+  "id": "perturbateurs-endocriniens",
+  "terme": "Perturbateurs endocriniens",
+  "variantes": [],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Substances chimiques capables d’interférer avec le système hormonal et de provoquer des effets sur la santé, parfois à faible dose.",
+  "usage": "Les Écologistes proposent de les interdire en application du principe de précaution.",
+  "concurrents": [],
+  "notions": [
+   "pfas",
+   "principe-de-precaution"
+  ],
+  "motifs": [
+   "perturbateurs endocriniens"
+  ]
+ },
+ {
+  "id": "pesticides",
+  "terme": "Pesticides",
+  "variantes": [
+   "produits phytosanitaires",
+   "phytopharmaceutiques"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Substances destinées à lutter contre les organismes jugés nuisibles aux cultures : herbicides, insecticides, fongicides. Le droit parle de produits phytopharmaceutiques.",
+  "usage": "Les Écologistes, La France insoumise et le PS-Place publique parlent de « pesticides », terme qui met l’accent sur la toxicité. Les Républicains emploient « produits phytosanitaires », formulation de la profession agricole qui insiste sur la protection des plantes.",
+  "concurrents": [
+   "produits phytosanitaires",
+   "solutions de protection des cultures"
+  ],
+  "notions": [
+   "ecophyto",
+   "glyphosate",
+   "neonicotinoides"
+  ],
+  "motifs": [
+   "pesticide*"
+  ]
+ },
+ {
+  "id": "phytosanitaires",
+  "terme": "Produits phytosanitaires",
+  "variantes": [
+   "phytos",
+   "produits de protection des plantes"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Synonyme technique de pesticides, employé dans le droit et par la profession agricole.",
+  "usage": "Le terme est employé notamment par Les Républicains ; il met en avant l’usage agronomique, quand « pesticides » souligne le risque.",
+  "concurrents": [
+   "pesticides"
+  ],
+  "notions": [
+   "ecophyto"
+  ],
+  "motifs": [
+   "phytosanitaire*",
+   "produits phytopharmaceutiques"
+  ]
+ },
+ {
+  "id": "zones-tampons",
+  "terme": "Zones sans pesticides",
+  "variantes": [
+   "zones-tampons",
+   "zones de non-traitement"
+  ],
+  "registre": "administratif",
+  "theme": "ecologie",
+  "definition": "Bandes de terrain où l’épandage de pesticides est interdit ou limité, à proximité des habitations, des écoles ou des points d’eau.",
+  "usage": "La France insoumise et le PS-Place publique proposent d’en instaurer autour des captages, des écoles et des lieux sensibles.",
+  "concurrents": [],
+  "notions": [
+   "ecophyto"
+  ],
+  "motifs": [
+   "zones-tampons",
+   "zones sans pesticides"
+  ]
+ },
+ {
+  "id": "ogm",
+  "terme": "OGM et nouvelles techniques génomiques",
+  "variantes": [
+   "NGT",
+   "nouveaux OGM"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Les organismes génétiquement modifiés sont des organismes dont le patrimoine génétique a été modifié par génie génétique. Les nouvelles techniques génomiques, comme l’édition du génome, font l’objet d’un projet de réglementation européenne plus souple.",
+  "usage": "Les Écologistes parlent de « nouveaux OGM » pour les NGT, assimilant ces techniques aux OGM ; Les Républicains emploient le terme technique et veulent les intégrer à la stratégie agricole ; La France insoumise refuse les OGM.",
+  "concurrents": [
+   "NGT",
+   "nouvelles techniques génomiques"
+  ],
+  "notions": [],
+  "motifs": [
+   "OGM",
+   "NGT",
+   "nouvelles techniques génomiques"
+  ]
+ },
+ {
+  "id": "icpe",
+  "terme": "Installations classées (ICPE)",
+  "variantes": [
+   "installations classées pour la protection de l’environnement"
+  ],
+  "registre": "juridique",
+  "theme": "ecologie",
+  "definition": "Installations industrielles ou agricoles qui présentent des risques ou nuisances pour l’environnement et sont soumises, selon leur importance, à déclaration, enregistrement ou autorisation préfectorale.",
+  "usage": "Les Écologistes proposent d’augmenter les contrôles et les amendes ; Les Républicains de relever les seuils d’autorisation au niveau européen.",
+  "concurrents": [],
+  "notions": [
+   "elevage-en-cage"
+  ],
+  "motifs": [
+   "ICPE",
+   "installations classées"
+  ]
+ },
+ {
+  "id": "etude-d-impact",
+  "terme": "Étude d’impact",
+  "variantes": [
+   "évaluation environnementale"
+  ],
+  "registre": "administratif",
+  "theme": "ecologie",
+  "definition": "Document qui évalue à l’avance les effets d’un projet ou d’une règle. Pour un projet d’aménagement, l’étude d’impact environnementale est soumise à l’avis d’une autorité environnementale et à la consultation du public ; pour un projet de loi, l’étude d’impact présente les effets attendus de la réforme.",
+  "usage": "Les Écologistes refusent que certains projets, comme les centres de données, en soient exonérés ; Les Républicains et Reconquête l’emploient au sens d’une évaluation préalable des règles nouvelles et des politiques publiques.",
+  "concurrents": [],
+  "notions": [],
+  "motifs": [
+   "étude d'impact",
+   "études d'impact"
+  ]
+ },
+ {
+  "id": "interet-general-majeur",
+  "terme": "Intérêt général majeur",
+  "variantes": [
+   "projet d’intérêt national majeur",
+   "PINM"
+  ],
+  "registre": "juridique",
+  "theme": "ecologie",
+  "definition": "Qualifications juridiques permettant à certains projets de bénéficier de procédures accélérées ou de dérogations, par exemple à la protection des espèces.",
+  "usage": "Les Républicains veulent les appliquer au stockage d’eau agricole ; les Écologistes veulent les retirer aux centres de données.",
+  "concurrents": [],
+  "notions": [
+   "megabassines"
+  ],
+  "motifs": [
+   "intérêt national majeur",
+   "intérêt général majeur",
+   "PINM"
+  ]
+ },
+ {
+  "id": "economie-circulaire",
+  "terme": "Économie circulaire",
+  "variantes": [],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Modèle économique qui vise à limiter la consommation de ressources et la production de déchets, par l’écoconception, le réemploi, la réparation et le recyclage.",
+  "usage": "Employé par les Écologistes et le PS-Place publique ; le terme met l’accent sur la transformation des modes de production plus que sur la réduction de la consommation.",
+  "concurrents": [
+   "sobriété"
+  ],
+  "notions": [
+   "consigne",
+   "fast-fashion"
+  ],
+  "motifs": [
+   "économie circulaire"
+  ]
+ },
+ {
+  "id": "reemploi",
+  "terme": "Réemploi et réparabilité",
+  "variantes": [
+   "réparabilité",
+   "réusage"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Le réemploi consiste à utiliser de nouveau un produit pour le même usage ; la réparabilité désigne la facilité à réparer un produit, mesurée en France par un indice depuis 2021.",
+  "usage": "Thème très présent chez les Écologistes et le PS-Place publique ; le Rassemblement national propose une information obligatoire sur la réparation et la durée de vie des produits.",
+  "concurrents": [
+   "recyclage"
+  ],
+  "notions": [
+   "consigne"
+  ],
+  "motifs": [
+   "réemploi",
+   "réparabilité",
+   "réusage"
+  ]
+ },
+ {
+  "id": "usage-unique",
+  "terme": "Plastique à usage unique",
+  "variantes": [
+   "jetable"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Produits en plastique conçus pour n’être utilisés qu’une fois, comme les pailles, couverts ou emballages, dont plusieurs sont interdits en France et dans l’Union européenne.",
+  "usage": "Les Écologistes, La France insoumise et le PS-Place publique proposent d’en accélérer la fin ; Les Républicains veulent geler les interdictions allant au-delà du droit européen.",
+  "concurrents": [],
+  "notions": [
+   "consigne"
+  ],
+  "motifs": [
+   "usage unique"
+  ]
+ },
+ {
+  "id": "responsabilite-elargie-des-producteurs",
+  "terme": "Responsabilité élargie des producteurs (REP)",
+  "variantes": [
+   "REP",
+   "éco-organismes"
+  ],
+  "registre": "juridique",
+  "theme": "ecologie",
+  "definition": "Principe qui oblige les fabricants et distributeurs à financer la gestion des déchets issus de leurs produits, le plus souvent par l’intermédiaire d’éco-organismes.",
+  "usage": "Les Écologistes proposent de réformer et d’élargir ces filières et de confier certains fonds à l’ADEME.",
+  "concurrents": [],
+  "notions": [
+   "consigne",
+   "fast-fashion"
+  ],
+  "motifs": [
+   "REP",
+   "responsabilité élargie des producteurs"
+  ]
+ },
+ {
+  "id": "bien-etre-animal",
+  "terme": "Bien-être animal",
+  "variantes": [],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "État physique et mental d’un animal en relation avec ses conditions de vie et de mort. La notion fonde une partie du droit européen de l’élevage, du transport et de l’abattage.",
+  "usage": "Employé par La France insoumise, Les Républicains, le PS-Place publique et le Rassemblement national. Le terme, consensuel, porte sur l’amélioration des conditions d’élevage sans remettre en cause l’élevage lui-même.",
+  "concurrents": [
+   "condition animale",
+   "souffrance animale"
+  ],
+  "notions": [
+   "elevage-en-cage",
+   "abattage-sans-etourdissement"
+  ],
+  "motifs": [
+   "bien-être animal"
+  ]
+ },
+ {
+  "id": "condition-animale",
+  "terme": "Condition animale",
+  "variantes": [
+   "cause animale"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Expression désignant l’ensemble des questions liées au statut et au traitement des animaux par les humains.",
+  "usage": "Employé par les Écologistes, qui proposent un secrétariat d’État à la condition animale. Plus large que « bien-être animal », il pose la question du statut des animaux et pas seulement de leurs conditions d’élevage.",
+  "concurrents": [
+   "bien-être animal"
+  ],
+  "notions": [
+   "elevage-en-cage"
+  ],
+  "motifs": [
+   "condition animale"
+  ]
+ },
+ {
+  "id": "maltraitance-animale",
+  "terme": "Maltraitance animale",
+  "variantes": [],
+  "registre": "juridique",
+  "theme": "ecologie",
+  "definition": "Actes de cruauté, sévices graves ou mauvais traitements infligés à des animaux, sanctionnés par le code pénal. La loi de 2021 contre la maltraitance animale a renforcé les sanctions.",
+  "usage": "Employé par Les Républicains, Reconquête, le PS-Place publique et La France insoumise, en particulier pour les animaux de compagnie et les contrôles en abattoir.",
+  "concurrents": [
+   "bien-être animal"
+  ],
+  "notions": [
+   "abattage-sans-etourdissement"
+  ],
+  "motifs": [
+   "maltraitance*"
+  ]
+ },
+ {
+  "id": "fermes-usines",
+  "terme": "Fermes-usines",
+  "variantes": [
+   "mégafermes",
+   "élevages industriels",
+   "élevages intensifs"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Expression critique désignant les élevages de très grande taille, à forte densité d’animaux.",
+  "usage": "Employé par La France insoumise et les Écologistes, le terme assimile l’élevage à une production industrielle. Reconquête et le Rassemblement national emploient « élevages intensifs » ou « élevages industriels » ; la profession parle d’« élevages modernes » ou de grande taille.",
+  "concurrents": [
+   "élevages intensifs",
+   "élevages industriels",
+   "élevage moderne"
+  ],
+  "notions": [
+   "elevage-en-cage"
+  ],
+  "motifs": [
+   "fermes-usines",
+   "fermes usines",
+   "mégafermes",
+   "mégaporcheries",
+   "élevages intensifs",
+   "élevages industriels"
+  ]
+ },
+ {
+  "id": "pratiques-cruelles",
+  "terme": "Pratiques cruelles",
+  "variantes": [
+   "chasse cruelle"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Expression désignant des pratiques jugées particulièrement douloureuses pour les animaux, comme la corrida, le gavage, la chasse à courre ou le broyage des poussins.",
+  "usage": "Employé par les Écologistes et La France insoumise ; le terme qualifie moralement ces pratiques, que leurs défenseurs présentent comme des traditions ou des nécessités techniques.",
+  "concurrents": [
+   "traditions",
+   "pratiques traditionnelles"
+  ],
+  "notions": [
+   "chasse",
+   "elevage-en-cage"
+  ],
+  "motifs": [
+   "pratiques cruelles",
+   "chasse cruelle"
+  ]
+ },
+ {
+  "id": "personnalite-juridique",
+  "terme": "Personnalité juridique de la nature et des animaux",
+  "variantes": [
+   "droits de la nature"
+  ],
+  "registre": "juridique",
+  "theme": "ecologie",
+  "definition": "Reconnaissance à une entité non humaine, comme un fleuve, un océan ou un animal, de la capacité d’être titulaire de droits et d’être représentée en justice. Depuis 2015, le code civil reconnaît les animaux comme des êtres vivants doués de sensibilité, sans leur donner la personnalité juridique.",
+  "usage": "Les Écologistes proposent d’en explorer l’attribution aux mers et aux océans et de la définir pour les animaux.",
+  "concurrents": [],
+  "notions": [
+   "crime-d-ecocide"
+  ],
+  "motifs": [
+   "personnalité juridique"
+  ]
+ },
+ {
+  "id": "pastoralisme",
+  "terme": "Pastoralisme",
+  "variantes": [
+   "grands prédateurs"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Élevage reposant sur le pâturage extensif des troupeaux, souvent en montagne, qui doit cohabiter avec des prédateurs protégés comme le loup.",
+  "usage": "Le PS-Place publique et les Écologistes proposent de protéger les zones de pastoralisme et d’accompagner la cohabitation avec les grands prédateurs.",
+  "concurrents": [],
+  "notions": [
+   "chasse"
+  ],
+  "motifs": [
+   "pastoralisme",
+   "grands prédateurs"
+  ]
+ },
+ {
+  "id": "agroecologie",
+  "terme": "Agroécologie",
+  "variantes": [
+   "agriculture paysanne",
+   "agriculture écologique"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Ensemble de pratiques agricoles qui s’appuient sur les fonctionnements écologiques, comme la diversification des cultures, les haies ou la réduction des intrants chimiques.",
+  "usage": "Employé par les Écologistes, La France insoumise et le PS-Place publique ; La France insoumise l’associe à une « agriculture écologique et paysanne ».",
+  "concurrents": [
+   "agriculture conventionnelle"
+  ],
+  "notions": [
+   "ecophyto"
+  ],
+  "motifs": [
+   "agroécologi*",
+   "agriculture écologique et paysanne"
+  ]
+ },
+ {
+  "id": "circuits-courts",
+  "terme": "Circuits courts",
+  "variantes": [
+   "produits locaux"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Mode de vente avec au plus un intermédiaire entre le producteur et le consommateur. Il est souvent associé, à tort ou à raison, à la proximité géographique.",
+  "usage": "Thème partagé de La France insoumise à Reconquête et au Rassemblement national, en particulier pour la restauration collective et la commande publique ; il réunit des préoccupations écologiques et de soutien aux producteurs nationaux.",
+  "concurrents": [
+   "relocalisation"
+  ],
+  "notions": [],
+  "motifs": [
+   "circuits courts"
+  ]
+ },
+ {
+  "id": "souverainete-alimentaire",
+  "terme": "Souveraineté alimentaire",
+  "variantes": [
+   "autosuffisance alimentaire"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Droit d’un pays ou d’un peuple à définir sa politique agricole et alimentaire et à produire lui-même une part importante de son alimentation.",
+  "usage": "La France insoumise l’emploie pour réformer la PAC en faveur d’une agriculture paysanne ; la notion figure aussi dans la loi d’orientation agricole de 2025, dans le sens d’une production nationale accrue.",
+  "concurrents": [
+   "sécurité alimentaire"
+  ],
+  "notions": [],
+  "motifs": [
+   "souveraineté alimentaire",
+   "autosuffisance alimentaire"
+  ]
+ },
+ {
+  "id": "souverainete-energetique",
+  "terme": "Souveraineté énergétique",
+  "variantes": [
+   "indépendance énergétique",
+   "autonomie énergétique"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Capacité d’un pays à produire ou à sécuriser lui-même l’énergie dont il a besoin, sans dépendre de fournisseurs étrangers.",
+  "usage": "Le PS-Place publique l’associe au 100 % renouvelable et Renaissance à la sortie des énergies fossiles ; le même objectif est invoqué ailleurs en faveur du nucléaire, si bien que le mot sert des choix de mix opposés.",
+  "concurrents": [
+   "sécurité d’approvisionnement"
+  ],
+  "notions": [
+   "epr",
+   "cent-pour-cent-renouvelables"
+  ],
+  "motifs": [
+   "souveraineté énergétique",
+   "indépendance énergétique",
+   "autonomie énergétique"
+  ]
+ },
+ {
+  "id": "decroissance",
+  "terme": "Décroissance",
+  "variantes": [
+   "décroissants"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Courant de pensée qui propose de réduire la production et la consommation matérielles des pays riches pour respecter les limites écologiques.",
+  "usage": "Le terme est employé pour désigner une position adverse, par Horizons, qui juge la décroissance « ruineuse pour le pays », et par Les Républicains en 2022 (« Je crois à une croissance durable, pas à la décroissance »). Aucun des programmes étudiés ne s’en réclame ; la gauche écologiste parle plutôt de « sobriété » ou de « post-croissance ».",
+  "concurrents": [
+   "sobriété",
+   "croissance verte",
+   "post-croissance"
+  ],
+  "notions": [
+   "sobriete-energetique"
+  ],
+  "motifs": [
+   "décroissance"
+  ]
+ },
+ {
+  "id": "ecologie-punitive",
+  "terme": "Écologie punitive",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Expression critique désignant des politiques environnementales fondées sur des interdictions, taxes ou contraintes jugées pesant sur les ménages.",
+  "usage": "L’expression a été popularisée en 2014 par la ministre de l’Écologie Ségolène Royal, qui disait refuser une « écologie punitive », puis reprise surtout à droite. Dans les programmes étudiés, elle est employée par Les Républicains en 2022 (« une écologie de progrès et de solutions, pas une écologie punitive ») et par le Rassemblement national, qui lui oppose une « écologie de bon sens ». Ses utilisateurs revendiquent une écologie « incitative » ou « positive » ; ses critiques y voient une manière de disqualifier toute réglementation environnementale.",
+  "concurrents": [
+   "écologie incitative",
+   "écologie positive",
+   "transition juste"
+  ],
+  "notions": [
+   "zfe"
+  ],
+  "motifs": [
+   "écologie punitive"
+  ]
+ },
+ {
+  "id": "urgence-climatique",
+  "terme": "Urgence climatique",
+  "variantes": [
+   "urgence écologique"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Expression qui présente le changement climatique comme une crise appelant des mesures immédiates.",
+  "usage": "Employé par le PS-Place publique et par Horizons, qui l’invoque contre la décroissance. Le terme justifie l’accélération des mesures ; il est concurrencé par « transition », qui suggère un changement progressif.",
+  "concurrents": [
+   "transition écologique",
+   "crise climatique"
+  ],
+  "notions": [
+   "snbc"
+  ],
+  "motifs": [
+   "urgence climatique",
+   "urgence écologique"
+  ]
+ },
+ {
+  "id": "bifurcation-ecologique",
+  "terme": "Bifurcation écologique",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Expression employée par La France insoumise pour désigner un changement rapide de modèle de production et de consommation.",
+  "usage": "Le mot « bifurcation » suggère une rupture de trajectoire, là où « transition » suggère une évolution progressive ; il s’inscrit dans la critique du modèle économique dominant.",
+  "concurrents": [
+   "transition écologique"
+  ],
+  "notions": [
+   "planification-ecologique",
+   "regle-verte"
+  ],
+  "motifs": [
+   "bifurcation écologique"
+  ]
+ },
+ {
+  "id": "transition-ecologique",
+  "terme": "Transition écologique",
+  "variantes": [
+   "transition énergétique"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Passage progressif vers une économie et une société moins émettrices de gaz à effet de serre et plus respectueuses de l’environnement. Le terme figure dans l’intitulé de lois et de ministères depuis 2015.",
+  "usage": "Employé par la quasi-totalité des courants, y compris le Rassemblement national et Les Républicains. Son caractère consensuel en fait un terme peu discriminant ; ses critiques à gauche lui reprochent de suggérer une évolution lente.",
+  "concurrents": [
+   "bifurcation écologique",
+   "décarbonation"
+  ],
+  "notions": [
+   "planification-ecologique"
+  ],
+  "motifs": [
+   "transition écologique",
+   "transition énergétique"
+  ]
+ },
+ {
+  "id": "grands-projets-inutiles",
+  "terme": "Grands projets inutiles et imposés",
+  "variantes": [
+   "GPII"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Expression militante désignant de grandes infrastructures, autoroutes, aéroports, canaux ou lignes, contestées pour leur impact environnemental et leur utilité.",
+  "usage": "Employé par les Écologistes et La France insoumise, par exemple pour l’autoroute A69 ou le Lyon-Turin. Leurs promoteurs parlent de projets structurants ou de désenclavement.",
+  "concurrents": [
+   "projets structurants",
+   "désenclavement"
+  ],
+  "notions": [
+   "zan"
+  ],
+  "motifs": [
+   "grands projets inutiles"
+  ]
+ },
+ {
+  "id": "climaticide",
+  "terme": "Climaticide",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Néologisme qualifiant ce qui contribue fortement au dérèglement climatique, sur le modèle d’« homicide ».",
+  "usage": "Employé par La France insoumise pour les accords commerciaux internationaux ; le terme donne une dimension morale et pénale à l’impact climatique.",
+  "concurrents": [
+   "accords de libre-échange"
+  ],
+  "notions": [
+   "mecanisme-d-ajustement-carbone-aux-frontieres"
+  ],
+  "motifs": [
+   "climaticide*"
+  ]
+ },
+ {
+  "id": "superprofits",
+  "terme": "Superprofits",
+  "variantes": [
+   "profits exceptionnels"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Terme désignant des bénéfices jugés exceptionnellement élevés, liés à une conjoncture plutôt qu’à l’effort de l’entreprise, comme ceux des énergéticiens en 2022.",
+  "usage": "Employé par les Écologistes, La France insoumise et le PS-Place publique pour justifier une taxation exceptionnelle, notamment de l’industrie pétrogazière. La droite et le patronat parlent de « profits » ou de « résultats », et récusent la notion.",
+  "concurrents": [
+   "profits",
+   "bénéfices exceptionnels"
+  ],
+  "notions": [],
+  "motifs": [
+   "superprofits"
+  ]
+ },
+ {
+  "id": "enfer-administratif",
+  "terme": "Enfer administratif",
+  "variantes": [
+   "normes",
+   "paperasse"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Expression critique désignant la charge des obligations réglementaires pesant sur les entreprises et les agriculteurs.",
+  "usage": "Employé par le Rassemblement national au sujet du Pacte vert européen ; il présente la réglementation environnementale comme une contrainte bureaucratique plus que comme une protection.",
+  "concurrents": [
+   "simplification",
+   "protection de l’environnement"
+  ],
+  "notions": [
+   "pacte-vert-europeen"
+  ],
+  "motifs": [
+   "enfer administratif"
+  ]
+ },
+ {
+  "id": "surtransposition",
+  "terme": "Surtransposition",
+  "variantes": [
+   "sur-transposition"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Fait, pour un État, d’aller au-delà des exigences d’une directive européenne en la transposant dans son droit.",
+  "usage": "Employé par Les Républicains et Reconquête pour justifier l’alignement des normes françaises sur le minimum européen, au nom de la compétitivité. Les défenseurs de règles plus strictes y voient une ambition nationale légitime.",
+  "concurrents": [
+   "ambition nationale",
+   "mieux-disant environnemental"
+  ],
+  "notions": [
+   "principe-de-non-regression",
+   "pfas",
+   "surtransposition"
+  ],
+  "motifs": [
+   "surtransposition",
+   "sur-transposition",
+   "au-delà des règlements européens"
+  ]
+ },
+ {
+  "id": "dumping-environnemental",
+  "terme": "Dumping environnemental",
+  "variantes": [
+   "concurrence déloyale"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Expression désignant l’avantage de prix obtenu par des producteurs soumis à des normes environnementales moins exigeantes.",
+  "usage": "Employé de La France insoumise à Reconquête, en passant par Les Républicains, le PS-Place publique et Renaissance, pour justifier des protections aux frontières : taxe carbone, mesures miroirs ou refus d’accords commerciaux.",
+  "concurrents": [
+   "libre-échange"
+  ],
+  "notions": [
+   "mecanisme-d-ajustement-carbone-aux-frontieres"
+  ],
+  "motifs": [
+   "dumping environnemental",
+   "concurrence déloyale"
+  ]
+ },
+ {
+  "id": "bruxelles",
+  "terme": "« Bruxelles »",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Métonymie désignant les institutions de l’Union européenne, en particulier la Commission.",
+  "usage": "Employé notamment par le Rassemblement national, par exemple au sujet de la mise en concurrence des barrages « voulue par Bruxelles ». La métonymie présente les décisions européennes comme extérieures, alors qu’elles associent les États membres.",
+  "concurrents": [
+   "Union européenne",
+   "Commission européenne"
+  ],
+  "notions": [
+   "concessions-hydroelectriques",
+   "pacte-vert-europeen"
+  ],
+  "motifs": [
+   "Bruxelles"
+  ]
+ },
+ {
+  "id": "fleuron-national",
+  "terme": "Fleuron national",
+  "variantes": [
+   "fleurons"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Expression désignant une grande entreprise présentée comme un symbole de l’excellence et de la puissance nationales.",
+  "usage": "Employé par Reconquête au sujet d’EDF et par La France insoumise pour critiquer des privatisations ; le terme place le débat sur le terrain de la souveraineté.",
+  "concurrents": [],
+  "notions": [
+   "nationalisation-edf"
+  ],
+  "motifs": [
+   "fleuron*"
+  ]
+ },
+ {
+  "id": "relance-gaullienne",
+  "terme": "Relance « gaullienne » du nucléaire",
+  "variantes": [
+   "plan Marie Curie",
+   "plan Messmer"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Expressions qui inscrivent un programme nucléaire dans la filiation du programme électronucléaire lancé dans les années 1970.",
+  "usage": "Les Républicains parlent d’un « plan de relance gaullien » et le Rassemblement national d’un « plan Marie Curie » : ces références historiques associent le nucléaire à la grandeur nationale et à l’indépendance.",
+  "concurrents": [
+   "programme nucléaire"
+  ],
+  "notions": [
+   "epr"
+  ],
+  "motifs": [
+   "gaullien*",
+   "plan Marie Curie"
+  ]
+ },
+ {
+  "id": "justice-climatique",
+  "terme": "Justice climatique",
+  "variantes": [
+   "justice environnementale"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Notion selon laquelle les efforts et les conséquences du changement climatique doivent être répartis selon les responsabilités et les capacités de chacun, pays comme ménages.",
+  "usage": "Employé par La France insoumise et les Écologistes ; il lie la question climatique à celle des inégalités.",
+  "concurrents": [
+   "transition juste"
+  ],
+  "notions": [
+   "crime-d-ecocide"
+  ],
+  "motifs": [
+   "justice climatique",
+   "justice environnementale"
+  ]
+ },
+ {
+  "id": "pollueurs",
+  "terme": "Pollueurs",
+  "variantes": [
+   "plus gros pollueurs",
+   "transports polluants"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Désignation de personnes, d’entreprises ou de produits par leur contribution à la pollution ou aux émissions. Le principe pollueur-payeur, inscrit dans le code de l’environnement, veut que celui qui pollue supporte le coût des dommages.",
+  "usage": "Le PS-Place publique parle des « plus gros pollueurs individuels » et des « privilèges » des transports polluants ; le terme désigne des responsables plutôt qu’un problème collectif.",
+  "concurrents": [
+   "émetteurs"
+  ],
+  "notions": [
+   "interdiction-des-vols-courts"
+  ],
+  "motifs": [
+   "pollueurs",
+   "transports polluants",
+   "pollueur-payeur"
+  ]
+ },
+ {
+  "id": "publicite",
+  "terme": "Publicité « toxique »",
+  "variantes": [
+   "écrans publicitaires"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Expression critique désignant la publicité pour des produits jugés nocifs pour le climat ou la santé.",
+  "usage": "Employé par les Écologistes, qui proposent d’interdire la publicité pour les produits fossiles et les écrans publicitaires numériques ; La France insoumise veut « faire reculer » la publicité dans l’espace public.",
+  "concurrents": [
+   "communication commerciale"
+  ],
+  "notions": [
+   "sobriete-energetique"
+  ],
+  "motifs": [
+   "publicité toxique",
+   "écrans publicitaires",
+   "publicité dans l'espace public"
+  ]
+ },
+ {
+  "id": "acceptabilite",
+  "terme": "Acceptabilité locale",
+  "variantes": [
+   "accord des populations",
+   "concertation"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Degré d’adhésion des habitants à un projet d’infrastructure implanté près de chez eux.",
+  "usage": "Les Républicains en font une condition (« aucun projet éolien sans accord des populations »), le PS-Place publique et Renaissance promeuvent des décisions territoriales ; les promoteurs de projets y voient parfois un risque de blocage systématique.",
+  "concurrents": [
+   "intérêt général"
+  ],
+  "notions": [
+   "moratoire-eolien-solaire"
+  ],
+  "motifs": [
+   "accord des populations"
+  ]
+ },
+ {
+  "id": "biens-communs",
+  "terme": "Biens communs",
+  "variantes": [
+   "communs",
+   "commun forestier"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Ressources dont l’usage est partagé par une collectivité et qui doivent être gérées collectivement, comme l’eau, l’air, les forêts ou les océans.",
+  "usage": "Employé par La France insoumise et les Écologistes pour l’eau, les forêts ou les pôles ; le terme justifie une gestion publique ou collective, quand d’autres insistent sur la propriété et la liberté d’usage.",
+  "concurrents": [
+   "propriété privée",
+   "ressources"
+  ],
+  "notions": [
+   "regie-publique-eau"
+  ],
+  "motifs": [
+   "bien commun",
+   "biens communs",
+   "commun forestier"
+  ]
+ },
+ {
+  "id": "marchandisation",
+  "terme": "Marchandisation",
+  "variantes": [
+   "privatisation"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Fait de soumettre aux règles du marché un bien ou un service jusque-là régi par d’autres logiques.",
+  "usage": "Employé par La France insoumise pour la forêt et la pêche ; le terme dénonce l’intervention du marché là où ses défenseurs parlent d’ouverture ou de valorisation économique.",
+  "concurrents": [
+   "valorisation",
+   "ouverture à la concurrence"
+  ],
+  "notions": [
+   "concessions-hydroelectriques"
+  ],
+  "motifs": [
+   "marchandisation et à l'industrialisation",
+   "marchandisation de la politique commune des pêches"
+  ]
+ },
+ {
+  "id": "productivisme",
+  "terme": "Productivisme",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Terme critique désignant un modèle économique qui fait de l’augmentation de la production un objectif en soi.",
+  "usage": "Employé par La France insoumise, notamment au sujet des océans ; la droite et le centre parlent de « production », de « compétitivité » ou de « croissance ».",
+  "concurrents": [
+   "croissance",
+   "compétitivité"
+  ],
+  "notions": [
+   "regle-verte"
+  ],
+  "motifs": [
+   "productivisme"
+  ]
+ },
+ {
+  "id": "paysans",
+  "terme": "Paysans",
+  "variantes": [
+   "agriculture paysanne"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Mot ancien désignant les personnes qui cultivent la terre, réinvesti aujourd’hui par une partie du monde agricole.",
+  "usage": "Employé par La France insoumise, qui parle d’« agriculture paysanne », et par le Rassemblement national pour la défense des revenus ; il valorise l’attachement au territoire face à « agriculteur » ou « exploitant », plus neutres.",
+  "concurrents": [
+   "agriculteurs",
+   "exploitants agricoles"
+  ],
+  "notions": [
+   "agriculture-biologique"
+  ],
+  "motifs": [
+   "paysan*"
+  ]
+ },
+ {
+  "id": "ruralite",
+  "terme": "Ruralité",
+  "variantes": [
+   "vie rurale",
+   "paysages ruraux"
+  ],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Terme désignant l’ensemble des territoires ruraux et des modes de vie qui leur sont associés.",
+  "usage": "Employé notamment par Reconquête, qui associe chasse, pêche et agriculture à la « vie rurale », et par le Rassemblement national pour les « paysages ruraux » ; il oppose souvent les territoires ruraux à une écologie perçue comme urbaine.",
+  "concurrents": [
+   "territoires"
+  ],
+  "notions": [
+   "chasse"
+  ],
+  "motifs": [
+   "vie rurale",
+   "ruralité",
+   "paysages ruraux"
+  ]
+ },
+ {
+  "id": "limites-planetaires",
+  "terme": "Limites planétaires",
+  "variantes": [
+   "habitabilité"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Concept scientifique proposé en 2009 qui définit neuf seuils biophysiques, dont le climat, la biodiversité ou les cycles de l’azote, au-delà desquels la stabilité du système terrestre serait menacée.",
+  "usage": "Les Écologistes proposent d’inscrire leur respect dans la Constitution au sein d’un principe d’« habitabilité » ; le PS-Place publique veut que les politiques publiques ne les dépassent plus.",
+  "concurrents": [],
+  "notions": [
+   "regle-verte",
+   "principe-de-non-regression"
+  ],
+  "motifs": [
+   "limites planétaires",
+   "habitabilité"
+  ]
+ },
+ {
+  "id": "adaptation",
+  "terme": "Adaptation au changement climatique",
+  "variantes": [
+   "trajectoire à +4 °C",
+   "résilience"
+  ],
+  "registre": "technique",
+  "theme": "ecologie",
+  "definition": "Ensemble des mesures destinées à limiter les effets du réchauffement : protection contre les inondations, rafraîchissement des bâtiments, évolution des cultures. La France a adopté une trajectoire de référence qui retient un réchauffement de 4 °C en 2100 sur son territoire.",
+  "usage": "Les Écologistes, La France insoumise et Reconquête l’emploient ; elle se distingue de l’« atténuation », qui vise la baisse des émissions.",
+  "concurrents": [
+   "atténuation"
+  ],
+  "notions": [
+   "regime-cat-nat"
+  ],
+  "motifs": [
+   "adaptation au changement climatique",
+   "4°C"
+  ]
+ },
+ {
+  "id": "resilience",
+  "terme": "Résilience",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "ecologie",
+  "definition": "Capacité d’un système, d’un territoire ou d’un écosystème à absorber un choc et à s’en remettre.",
+  "usage": "Employé par le PS-Place publique et Renaissance pour les forêts, les territoires ou l’État face aux crises ; le terme est consensuel et met l’accent sur la préparation plutôt que sur les causes.",
+  "concurrents": [
+   "adaptation"
+  ],
+  "notions": [
+   "regime-cat-nat"
+  ],
+  "motifs": [
+   "résilience"
+  ]
+ }
+]

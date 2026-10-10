@@ -1,0 +1,2028 @@
+[
+ {
+  "id": "transposition",
+  "terme": "Transposition",
+  "variantes": [
+   "transposer une directive"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "La transposition est l’opération par laquelle un État intègre une directive européenne dans son droit national, par une loi, une ordonnance ou un décret, dans un délai fixé par la directive. À défaut, l’État s’expose à un recours en manquement et la directive peut, sous conditions, être invoquée directement devant le juge.",
+  "usage": "Terme technique employé par toutes les forces politiques. Il est souvent associé à la critique de la « surtransposition » par la droite, ou à l’appel à transposer rapidement certaines directives sociales ou environnementales par la gauche et les écologistes.",
+  "concurrents": [],
+  "notions": [
+   "surtransposition"
+  ],
+  "motifs": [
+   "transpos*"
+  ]
+ },
+ {
+  "id": "directive-europeenne",
+  "terme": "Directive européenne",
+  "variantes": [
+   "directive"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "Une directive est un acte de l’Union qui fixe aux États un résultat à atteindre en leur laissant le choix des moyens. Elle doit être transposée, à la différence du règlement, applicable directement et uniformément dans tous les États.",
+  "usage": "Terme neutre et technique, présent dans les programmes pour désigner des textes précis à transposer, renégocier ou combattre (directive ETS2, directive sur le détachement, directive-cadre Déchets).",
+  "concurrents": [
+   "règlement européen"
+  ],
+  "notions": [
+   "surtransposition",
+   "travailleurs-detaches"
+  ],
+  "motifs": [
+   "directive*"
+  ]
+ },
+ {
+  "id": "reglement-europeen",
+  "terme": "Règlement européen",
+  "variantes": [
+   "règlement"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "Le règlement est un acte de l’Union de portée générale, obligatoire dans tous ses éléments et directement applicable dans chaque État membre, sans transposition. Le règlement général sur la protection des données (RGPD) ou le règlement sur les services numériques (DSA) en sont des exemples.",
+  "usage": "Terme technique employé par les forces qui proposent de nouvelles règles européennes uniformes, par exemple en matière de qualité de l’air, de droits des familles ou de produits chimiques.",
+  "concurrents": [
+   "directive européenne"
+  ],
+  "notions": [],
+  "motifs": [
+   "règlement européen",
+   "règlements européens"
+  ]
+ },
+ {
+  "id": "etats-membres",
+  "terme": "États membres",
+  "variantes": [
+   "pays membres",
+   "les Vingt-Sept"
+  ],
+  "registre": "administratif",
+  "theme": "europe",
+  "definition": "Les États membres sont les pays qui ont adhéré à l’Union européenne par traité, au nombre de vingt-sept depuis la sortie du Royaume-Uni en 2020. Ils sont représentés au Conseil européen par leurs chefs d’État ou de gouvernement et au Conseil de l’Union par leurs ministres.",
+  "usage": "Terme institutionnel neutre. Son emploi met l’accent sur l’Union comme association d’États, là où d’autres formulations (« les Européens », « l’Europe ») mettent l’accent sur un ensemble politique commun.",
+  "concurrents": [
+   "nations européennes",
+   "les Européens"
+  ],
+  "notions": [
+   "vote-a-la-majorite-qualifiee"
+  ],
+  "motifs": [
+   "États membres",
+   "Etats membres",
+   "États-membres",
+   "Etats-membres",
+   "pays membres"
+  ]
+ },
+ {
+  "id": "commission-europeenne",
+  "terme": "Commission européenne",
+  "variantes": [
+   "la Commission",
+   "exécutif européen"
+  ],
+  "registre": "administratif",
+  "theme": "europe",
+  "definition": "La Commission européenne est l’institution qui propose les textes législatifs de l’Union, veille à l’application des traités et exécute le budget. Elle compte un commissaire par État membre, et son président est élu par le Parlement européen sur proposition du Conseil européen.",
+  "usage": "Les programmes la désignent soit comme un acteur dont il faut renforcer les moyens de contrôle, soit comme une autorité qui « excède ses compétences » ou exerce une « surveillance » des budgets nationaux. La règle d’un commissaire par État est elle-même discutée.",
+  "concurrents": [
+   "Bruxelles",
+   "technocratie"
+  ],
+  "notions": [
+   "subsidiarite",
+   "pacte-de-stabilite"
+  ],
+  "motifs": [
+   "Commission européenne",
+   "surveillance des budgets nationaux par la Commission",
+   "lorsque la Commission",
+   "commissaire par Etat membre"
+  ]
+ },
+ {
+  "id": "conseil-europeen",
+  "terme": "Conseil européen et Conseil de l’Union",
+  "variantes": [
+   "Conseil",
+   "Conseil des ministres de l’Union"
+  ],
+  "registre": "administratif",
+  "theme": "europe",
+  "definition": "Le Conseil européen réunit les chefs d’État ou de gouvernement et fixe les grandes orientations de l’Union. Le Conseil de l’Union européenne réunit les ministres des États membres par domaine et adopte les textes législatifs avec le Parlement européen. Il ne faut pas les confondre avec le Conseil de l’Europe, organisation distincte siégeant à Strasbourg.",
+  "usage": "Terme technique. Les programmes s’y réfèrent pour y porter des propositions ou pour en modifier les règles de vote.",
+  "concurrents": [],
+  "notions": [
+   "vote-a-la-majorite-qualifiee"
+  ],
+  "motifs": [
+   "Conseil européen",
+   "Conseil de l'Union*",
+   "majorité qualifiée au conseil"
+  ]
+ },
+ {
+  "id": "parlement-europeen",
+  "terme": "Parlement européen",
+  "variantes": [
+   "eurodéputés"
+  ],
+  "registre": "administratif",
+  "theme": "europe",
+  "definition": "Le Parlement européen est élu au suffrage universel direct depuis 1979, pour cinq ans. Il adopte la plupart des textes européens avec le Conseil, vote le budget et élit le président de la Commission, mais ne dispose pas de l’initiative législative, réservée pour l’essentiel à la Commission.",
+  "usage": "Les forces favorables à une intégration plus poussée veulent lui donner le pouvoir d’initiative et l’élire en partie sur des « listes transnationales ». Ce vocabulaire est absent des programmes qui privilégient le rôle des parlements nationaux.",
+  "concurrents": [
+   "parlements nationaux"
+  ],
+  "notions": [
+   "vote-a-la-majorite-qualifiee",
+   "subsidiarite"
+  ],
+  "motifs": [
+   "Parlement européen"
+  ]
+ },
+ {
+  "id": "listes-transnationales",
+  "terme": "Listes transnationales",
+  "variantes": [
+   "circonscription européenne"
+  ],
+  "registre": "technique",
+  "theme": "europe",
+  "definition": "Les listes transnationales seraient des listes de candidats présentées dans une circonscription commune à toute l’Union pour une partie des sièges du Parlement européen. Elles n’existent pas à ce jour, chaque État élisant ses propres eurodéputés.",
+  "usage": "Proposition associée aux courants fédéralistes, qui y voient la naissance d’un espace politique européen. Ses opposants y voient un affaiblissement du lien entre élus et nations.",
+  "concurrents": [],
+  "notions": [],
+  "motifs": [
+   "listes transnationales"
+  ]
+ },
+ {
+  "id": "initiative-legislative",
+  "terme": "Initiative législative",
+  "variantes": [
+   "droit d’initiative",
+   "initiative citoyenne européenne"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "L’initiative législative est le droit de proposer un texte de loi. Dans l’Union, elle appartient pour l’essentiel à la Commission ; le Parlement européen et le Conseil peuvent seulement lui demander de légiférer. L’initiative citoyenne européenne permet à un million de citoyens d’au moins sept États d’inviter la Commission à proposer un texte.",
+  "usage": "Terme employé par les forces qui veulent démocratiser les institutions européennes en transférant ce droit au Parlement européen et en facilitant les initiatives citoyennes.",
+  "concurrents": [],
+  "notions": [],
+  "motifs": [
+   "droit d'initiative parlementaire",
+   "pouvoir d'initiative législative",
+   "Initiatives Citoyennes Européennes"
+  ]
+ },
+ {
+  "id": "unanimite",
+  "terme": "Unanimité et droit de veto",
+  "variantes": [
+   "veto national",
+   "règle de l’unanimité"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "L’unanimité est la règle de vote qui exige l’accord de tous les États membres, ce qui donne à chacun un droit de veto. Elle s’applique notamment à la fiscalité, à la politique étrangère, à l’adhésion de nouveaux États et au cadre financier pluriannuel.",
+  "usage": "Les partisans d’une Europe plus intégrée parlent de « blocage » et de « paralysie » ; ses défenseurs parlent de « garantie » et de souveraineté nationale. Les programmes étudiés qui l’abordent proposent de la réduire.",
+  "concurrents": [
+   "majorité qualifiée"
+  ],
+  "notions": [
+   "vote-a-la-majorite-qualifiee"
+  ],
+  "motifs": [
+   "unanimité",
+   "accord unanime",
+   "droits de veto nationaux"
+  ]
+ },
+ {
+  "id": "cooperation-renforcee",
+  "terme": "Coopération renforcée",
+  "variantes": [
+   "Europe à plusieurs vitesses",
+   "noyau dur",
+   "coalition d’États"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "La coopération renforcée est une procédure prévue par les traités permettant à au moins neuf États membres d’avancer ensemble dans un domaine sans attendre les autres. Elle a été utilisée pour le brevet unitaire ou le parquet européen.",
+  "usage": "Les programmes en reprennent l’idée sous des formes diverses : investissements menés par « les pays membres les plus déterminés », « nouvelles coopérations » hors des traités, « alliance des pays d’Europe du Sud ». Le terme « Europe à plusieurs vitesses » est employé de façon descriptive ou critique selon les camps.",
+  "concurrents": [
+   "Europe à plusieurs vitesses"
+  ],
+  "notions": [
+   "vote-a-la-majorite-qualifiee",
+   "sortie-des-traites"
+  ],
+  "motifs": [
+   "coopération renforcée",
+   "coopérations renforcées",
+   "pays membres les plus déterminés",
+   "nouvelles coopérations",
+   "alliance des pays d'Europe du Sud",
+   "coalition d'États favorables*"
+  ]
+ },
+ {
+  "id": "carton-rouge",
+  "terme": "Carton rouge",
+  "variantes": [
+   "carton jaune",
+   "carton orange"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "Les traités permettent aux parlements nationaux d’émettre des avis motivés contre un projet de texte européen jugé contraire à la subsidiarité ; au-delà de certains seuils, la Commission doit réexaminer sa proposition (« carton jaune » et « carton orange »). Le « carton rouge », qui permettrait aux parlements nationaux de bloquer un texte, n’existe pas.",
+  "usage": "Proposition reprise par des forces de sensibilités diverses pour renforcer le poids des parlements nationaux face aux institutions européennes.",
+  "concurrents": [],
+  "notions": [
+   "subsidiarite"
+  ],
+  "motifs": [
+   "carton rouge"
+  ]
+ },
+ {
+  "id": "identite-constitutionnelle",
+  "terme": "Identité constitutionnelle",
+  "variantes": [
+   "identité constitutionnelle de la France"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "L’identité constitutionnelle désigne l’ensemble des principes propres à la Constitution d’un État qui ne pourraient être remis en cause par le droit européen sans révision constitutionnelle. Le Conseil constitutionnel l’invoque depuis 2006, et le traité sur l’Union européenne impose à celle-ci de respecter « l’identité nationale » des États.",
+  "usage": "Le RN en fait une « condition constitutionnelle » de l’appartenance de la France à l’Union. Ses critiques y voient un moyen de contourner la primauté du droit européen.",
+  "concurrents": [
+   "primauté du droit européen"
+  ],
+  "notions": [
+   "primaute-du-droit-europeen"
+  ],
+  "motifs": [
+   "identité constitutionnelle"
+  ]
+ },
+ {
+  "id": "marche-unique",
+  "terme": "Marché unique",
+  "variantes": [
+   "marché intérieur",
+   "quatre libertés"
+  ],
+  "registre": "économique",
+  "theme": "europe",
+  "definition": "Le marché unique, achevé en principe en 1993, garantit la libre circulation des marchandises, des services, des capitaux et des personnes entre les États membres. Il repose sur des règles communes, la reconnaissance mutuelle des normes nationales et le droit de la concurrence.",
+  "usage": "Pour ses défenseurs, c’est le principal acquis de la construction européenne. Les programmes écologistes et de gauche proposent de le « subordonner » aux objectifs climatiques ou d’en harmoniser les normes pour mettre fin à la concurrence interne.",
+  "concurrents": [],
+  "notions": [
+   "droit-europeen-de-la-concurrence",
+   "clauses-miroirs"
+  ],
+  "motifs": [
+   "marché unique",
+   "marché intérieur",
+   "reconnaissance mutuelle"
+  ]
+ },
+ {
+  "id": "aides-d-etat",
+  "terme": "Aides d’État",
+  "variantes": [
+   "de minimis",
+   "régime des aides d’État"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "Une aide d’État est un avantage accordé par une autorité publique à une entreprise, sous forme de subvention, de garantie ou d’exonération, susceptible de fausser la concurrence. Elle est interdite en principe par le droit européen, sauf exemptions ou autorisation de la Commission ; les aides de faible montant dites « de minimis » échappent au contrôle.",
+  "usage": "Terme technique. Les programmes en demandent l’assouplissement pour soutenir les secteurs stratégiques ou les projets européens, et l’utilisent parfois comme justification d’aides nationales.",
+  "concurrents": [
+   "subventions publiques"
+  ],
+  "notions": [
+   "droit-europeen-de-la-concurrence"
+  ],
+  "motifs": [
+   "aides d'État",
+   "aides d'Etat",
+   "de minimis",
+   "venir en aide aux secteurs et entreprises stratégiques"
+  ]
+ },
+ {
+  "id": "services-d-interet-general",
+  "terme": "Services d’intérêt général",
+  "variantes": [
+   "SIEG",
+   "service public"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "Les services d’intérêt économique général désignent, en droit européen, des activités de service soumises à des obligations de service public (transport, énergie, poste). Ils peuvent déroger aux règles de concurrence dans la mesure nécessaire à leur mission.",
+  "usage": "Le vocabulaire européen du « service d’intérêt général » coexiste avec la notion française de « service public », que la gauche et les écologistes jugent plus protectrice et veulent opposer au droit de la concurrence.",
+  "concurrents": [
+   "service public"
+  ],
+  "notions": [
+   "droit-europeen-de-la-concurrence"
+  ],
+  "motifs": [
+   "services d'intérêt général*",
+   "Services d'Intérêt Généraux",
+   "monopole public"
+  ]
+ },
+ {
+  "id": "ressources-propres",
+  "terme": "Ressources propres",
+  "variantes": [
+   "impôt européen"
+  ],
+  "registre": "technique",
+  "theme": "europe",
+  "definition": "Les ressources propres sont les recettes qui reviennent directement au budget de l’Union, par opposition aux contributions nationales : droits de douane, part de TVA, contribution sur les plastiques non recyclés. Leur création exige une décision unanime ratifiée par tous les États.",
+  "usage": "Les forces favorables à un budget européen plus important en parlent comme d’une condition d’autonomie de l’Union ; ses opposants parlent d’« impôt européen » ou de nouvelle fiscalité imposée par Bruxelles.",
+  "concurrents": [
+   "impôt européen",
+   "contribution nationale"
+  ],
+  "notions": [
+   "budget-europeen"
+  ],
+  "motifs": [
+   "ressources propres",
+   "ressources fiscales propres"
+  ]
+ },
+ {
+  "id": "contributeur-net",
+  "terme": "Contributeur net",
+  "variantes": [
+   "contribution de la France",
+   "juste retour",
+   "solde net"
+  ],
+  "registre": "économique",
+  "theme": "europe",
+  "definition": "Un contributeur net est un État qui verse au budget européen plus qu’il n’en reçoit sous forme de dépenses sur son territoire. Le calcul de ce « solde net » ne tient pas compte des bénéfices indirects du marché unique.",
+  "usage": "L’argument de la contribution nette est mobilisé par les forces qui veulent réduire la participation française, ou la bloquer comme moyen de pression. Ses critiques dénoncent la logique du « juste retour », qui réduit l’Union à un bilan comptable.",
+  "concurrents": [
+   "solidarité européenne"
+  ],
+  "notions": [
+   "budget-europeen"
+  ],
+  "motifs": [
+   "contribution de la France à l'UE",
+   "contribution française au budget*",
+   "contributeur net",
+   "juste retour"
+  ]
+ },
+ {
+  "id": "regles-budgetaires",
+  "terme": "Règles budgétaires européennes",
+  "variantes": [
+   "critères de Maastricht",
+   "règle des 3 %",
+   "déficit excessif",
+   "règle d’or"
+  ],
+  "registre": "économique",
+  "theme": "europe",
+  "definition": "Les règles budgétaires européennes encadrent le déficit et la dette des États membres, autour des références de 3 % et 60 % du PIB. Elles sont surveillées par la Commission dans le cadre du « semestre européen » et peuvent conduire à une procédure pour déficit excessif.",
+  "usage": "Leurs critiques parlent de « contraintes austéritaires » ou de « carcan » ; leurs défenseurs de « discipline » et de « crédibilité ». La « règle verte » proposée par la gauche et les écologistes vise à en exclure les investissements de transition.",
+  "concurrents": [
+   "règle verte",
+   "discipline budgétaire"
+  ],
+  "notions": [
+   "pacte-de-stabilite"
+  ],
+  "motifs": [
+   "règles budgétaires*",
+   "déficit autorisé",
+   "surveillance des budgets nationaux",
+   "règles européennes encadrant les déficits"
+  ]
+ },
+ {
+  "id": "regle-verte",
+  "terme": "« Règle verte »",
+  "variantes": [
+   "règle d’or verte"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "Dans le débat budgétaire européen, la règle verte désigne l’exclusion des investissements de transition écologique du calcul du déficit soumis aux règles européennes. LFI emploie aussi l’expression, dans un autre sens, pour un principe selon lequel on ne prélève pas davantage à la nature que ce qu’elle peut reconstituer.",
+  "usage": "Expression employée par LFI et, sous une forme proche, par les écologistes. Elle présente la transition comme un investissement d’avenir plutôt que comme une dépense ; ses critiques y voient un risque de dérive des comptes par requalification de dépenses.",
+  "concurrents": [
+   "règle d’or budgétaire"
+  ],
+  "notions": [
+   "pacte-de-stabilite",
+   "regle-verte"
+  ],
+  "motifs": [
+   "règle verte",
+   "calcul du déficit autorisé"
+  ]
+ },
+ {
+  "id": "austerite",
+  "terme": "Austérité",
+  "variantes": [
+   "austéritaire",
+   "rigueur"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "L’austérité désigne une politique de réduction des déficits publics par la baisse des dépenses ou la hausse des impôts. Le terme s’est imposé dans le débat européen lors de la crise des dettes souveraines au début des années 2010, notamment à propos de la Grèce.",
+  "usage": "Terme à connotation critique, employé par LFI et les écologistes pour qualifier les règles budgétaires européennes. Les forces qui défendent ces règles parlent plutôt de « sérieux budgétaire », de « maîtrise des dépenses » ou de « rétablissement des comptes ».",
+  "concurrents": [
+   "sérieux budgétaire",
+   "rigueur",
+   "maîtrise des dépenses publiques"
+  ],
+  "notions": [
+   "pacte-de-stabilite"
+  ],
+  "motifs": [
+   "austérit*",
+   "austéritaire*"
+  ]
+ },
+ {
+  "id": "souverainete-europeenne",
+  "terme": "Souveraineté européenne",
+  "variantes": [
+   "autonomie stratégique",
+   "autonomie technologique",
+   "autonomie énergétique"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "La souveraineté européenne désigne la capacité de l’Union à décider et agir par elle-même, sans dépendre de puissances extérieures, en matière de défense, de technologie, d’énergie ou de monnaie. La notion n’a pas de définition juridique : en droit, la souveraineté appartient aux États.",
+  "usage": "Expression centrale chez Renaissance, reprise par les écologistes et le PS-Place publique, souvent déclinée en « autonomie stratégique ». Les forces souverainistes la récusent, estimant qu’il n’existe de souveraineté que nationale.",
+  "concurrents": [
+   "souveraineté nationale",
+   "indépendance nationale"
+  ],
+  "notions": [
+   "defense-europeenne",
+   "euro-et-monnaie-unique"
+  ],
+  "motifs": [
+   "souveraineté européenne",
+   "son autonomie stratégique",
+   "autonomie technologique",
+   "autonomie énergétique",
+   "souveraineté des infrastructures numériques"
+  ]
+ },
+ {
+  "id": "souverainete-nationale",
+  "terme": "Souveraineté nationale",
+  "variantes": [
+   "souveraineté pleine et entière",
+   "indépendance nationale"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "La souveraineté nationale est, selon l’article 3 de la Constitution, le pouvoir suprême qui « appartient au peuple » et s’exerce par ses représentants et par le référendum. Le Conseil constitutionnel juge qu’un traité comportant des transferts de compétences touchant aux « conditions essentielles d’exercice de la souveraineté nationale » exige une révision préalable de la Constitution.",
+  "usage": "Terme mis en avant par le RN, qui parle de souveraineté « pleine et entière », et par LFI à propos de la souveraineté des peuples. Il sert à s’opposer aux transferts de compétences vers l’Union ; ses contradicteurs lui opposent la souveraineté « partagée » ou « européenne ».",
+  "concurrents": [
+   "souveraineté européenne",
+   "souveraineté partagée"
+  ],
+  "notions": [
+   "primaute-du-droit-europeen",
+   "subsidiarite"
+  ],
+  "motifs": [
+   "souveraineté nationale",
+   "souveraineté pleine et entière",
+   "sa puissance et sa souveraineté",
+   "souveraineté des peuples"
+  ]
+ },
+ {
+  "id": "europe-des-nations",
+  "terme": "Europe des nations",
+  "variantes": [
+   "Europe des nations libres",
+   "alliance européenne des nations"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "L’Europe des nations désigne une conception de la construction européenne fondée sur la coopération entre États souverains, par opposition à une intégration supranationale. L’expression est associée à la tradition gaulliste de « l’Europe des patries ».",
+  "usage": "Formule revendiquée par le RN (« Europe des nations libres et des projets concrets »). Elle met en avant la souveraineté des États et laisse de côté les mécanismes communs (marché unique, Cour de justice) ; ses adversaires y voient une remise en cause de l’Union telle qu’elle existe.",
+  "concurrents": [
+   "Europe fédérale",
+   "souveraineté européenne"
+  ],
+  "notions": [
+   "subsidiarite",
+   "primaute-du-droit-europeen"
+  ],
+  "motifs": [
+   "Europe des nations",
+   "nations libres",
+   "Europe des patries"
+  ]
+ },
+ {
+  "id": "federalisme-europeen",
+  "terme": "Fédéralisme européen",
+  "variantes": [
+   "Europe fédérale",
+   "États-Unis d’Europe"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "Le fédéralisme européen désigne le projet de transformer l’Union en fédération, dotée d’un gouvernement, d’un budget et d’une politique étrangère communs, les États conservant des compétences propres. Il s’inspire des pères fondateurs comme Altiero Spinelli.",
+  "usage": "Le terme est revendiqué par les Écologistes, dont le programme veut « avancer vers une Europe fédérale ». Les autres forces qui proposent des mesures d’intégration (majorité qualifiée, budget européen accru) l’emploient peu ; il est surtout employé par leurs adversaires, de manière critique.",
+  "concurrents": [
+   "Europe des nations",
+   "intégration européenne"
+  ],
+  "notions": [
+   "vote-a-la-majorite-qualifiee",
+   "budget-europeen"
+  ],
+  "motifs": [
+   "fédéralisme européen",
+   "Europe fédérale",
+   "États-Unis d'Europe"
+  ]
+ },
+ {
+  "id": "bruxelles",
+  "terme": "Bruxelles",
+  "variantes": [
+   "voulue par Bruxelles",
+   "diktat de Bruxelles"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "Bruxelles, siège de la Commission et du Conseil, est employée par métonymie pour désigner les institutions européennes. L’usage n’est pas toujours critique, mais il permet de présenter des décisions prises avec les gouvernements nationaux comme imposées de l’extérieur.",
+  "usage": "Le RN l’emploie pour désigner les règles européennes jugées contraires aux intérêts français (« mise en concurrence voulue par Bruxelles »). LR l’emploie de façon descriptive. Les forces pro-européennes préfèrent nommer l’institution concernée ou parler de décisions « européennes ».",
+  "concurrents": [
+   "Union européenne",
+   "Commission européenne",
+   "les Vingt-Sept"
+  ],
+  "notions": [
+   "droit-europeen-de-la-concurrence"
+  ],
+  "motifs": [
+   "voulue par Bruxelles",
+   "fixées à Bruxelles",
+   "à Bruxelles"
+  ]
+ },
+ {
+  "id": "desobeissance-europeenne",
+  "terme": "Désobéissance aux traités",
+  "variantes": [
+   "désobéir aux traités",
+   "désobéissance européenne"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "La désobéissance désigne le fait, pour un gouvernement, de ne pas appliquer certaines règles européennes qu’il juge contraires à son programme, sans sortir de l’Union. Juridiquement, elle exposerait l’État à des procédures en manquement.",
+  "usage": "Expression assumée par LFI, qui la présente comme un levier démocratique face à des règles jugées imposées. Ses adversaires parlent de violation des engagements de la France et d’isolement européen.",
+  "concurrents": [
+   "respect des engagements européens",
+   "sortie de l’Union"
+  ],
+  "notions": [
+   "sortie-des-traites"
+  ],
+  "motifs": [
+   "désobéir aux traités",
+   "désobéissance",
+   "appliquerons notre programme même"
+  ]
+ },
+ {
+  "id": "europe-qui-protege",
+  "terme": "Europe qui protège",
+  "variantes": [
+   "Europe protectrice",
+   "Europe qui contrôle ses frontières"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "L’expression désigne une Union qui défend ses citoyens et ses producteurs contre les menaces extérieures : concurrence commerciale, migrations irrégulières, agressions militaires. Elle s’est diffusée dans le discours européen à partir de la fin des années 2010.",
+  "usage": "Formule employée par LR et proche du vocabulaire de Renaissance. Elle met en avant la protection plutôt que l’ouverture ; ses critiques, à gauche comme chez les souverainistes, la jugent démentie par la politique commerciale de l’Union.",
+  "concurrents": [
+   "Europe passoire",
+   "Europe ouverte"
+  ],
+  "notions": [
+   "protectionnisme",
+   "espace-schengen"
+  ],
+  "motifs": [
+   "Europe qui protège",
+   "Europe qui contrôle"
+  ]
+ },
+ {
+  "id": "puissance-normative",
+  "terme": "Puissance normative",
+  "variantes": [
+   "effet Bruxelles",
+   "puissance réglementaire"
+  ],
+  "registre": "technique",
+  "theme": "europe",
+  "definition": "La puissance normative désigne la capacité de l’Union à influencer le monde par ses normes (protection des données, produits chimiques, numérique), que les entreprises étrangères adoptent pour accéder à son marché. On parle aussi d’« effet Bruxelles ».",
+  "usage": "Le PS-Place publique emploie l’expression pour souhaiter que l’Union dépasse le rôle de « puissance exclusivement normative » et mène des politiques publiques. D’autres forces reprochent au contraire à l’Union un excès de normes.",
+  "concurrents": [
+   "Europe puissance",
+   "surréglementation"
+  ],
+  "notions": [
+   "budget-europeen"
+  ],
+  "motifs": [
+   "puissance normative",
+   "puissance exclusivement normative",
+   "puissance commerciale de l'UE"
+  ]
+ },
+ {
+  "id": "omnibus",
+  "terme": "Omnibus (simplification)",
+  "variantes": [
+   "paquets Omnibus",
+   "simplification",
+   "dérégulation"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "Les « Omnibus » sont des propositions législatives de la Commission présentées à partir de 2025 pour modifier en une fois plusieurs textes, notamment les obligations de reporting de durabilité et de devoir de vigilance des entreprises. Elles visent à réduire la charge administrative.",
+  "usage": "Leurs promoteurs parlent de « simplification » et de compétitivité. Les écologistes parlent de « dérégulation » et de démantèlement du cadre européen de durabilité.",
+  "concurrents": [
+   "simplification",
+   "dérégulation"
+  ],
+  "notions": [
+   "devoir-de-vigilance"
+  ],
+  "motifs": [
+   "Omnibus",
+   "dérégulation"
+  ]
+ },
+ {
+  "id": "concurrence-libre-et-non-faussee",
+  "terme": "Concurrence libre et non faussée",
+  "variantes": [
+   "dogme de la concurrence"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "L’expression désigne le principe d’un marché où la concurrence n’est pas entravée par des ententes, des abus de position dominante ou des aides publiques. Elle figurait parmi les objectifs du projet de traité constitutionnel de 2004 et a été reléguée dans un protocole par le traité de Lisbonne.",
+  "usage": "Expression devenue emblématique de la critique de gauche du libéralisme européen depuis 2005 ; le PS-Place publique parle de « dogme de la concurrence libre et non faussée ». Ses défenseurs la présentent comme une protection du consommateur.",
+  "concurrents": [
+   "protection des consommateurs",
+   "marché unique"
+  ],
+  "notions": [
+   "droit-europeen-de-la-concurrence"
+  ],
+  "motifs": [
+   "concurrence libre et non faussée",
+   "dogme de la concurrence*"
+  ]
+ },
+ {
+  "id": "liberalisation",
+  "terme": "Libéralisation",
+  "variantes": [
+   "ouverture à la concurrence",
+   "privatisation"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "La libéralisation désigne la suppression de monopoles publics et l’ouverture d’un secteur à la concurrence, comme l’ont organisé les directives européennes pour l’électricité, le gaz, les télécommunications ou le rail. Elle n’implique pas forcément la privatisation des opérateurs historiques.",
+  "usage": "Terme employé de manière critique par LFI et les écologistes, souvent associé à « privatisation ». Les institutions européennes et les forces favorables parlent d’« ouverture à la concurrence » ou de « marché intérieur ».",
+  "concurrents": [
+   "ouverture à la concurrence",
+   "marché intérieur"
+  ],
+  "notions": [
+   "droit-europeen-de-la-concurrence",
+   "marche-europeen-de-l-electricite"
+  ],
+  "motifs": [
+   "libéralisation",
+   "mise en concurrence voulue par Bruxelles",
+   "obligations de mise en concurrence"
+  ]
+ },
+ {
+  "id": "champions-europeens",
+  "terme": "Champions européens",
+  "variantes": [
+   "champions industriels"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "Les champions européens sont de grandes entreprises capables de rivaliser avec les géants américains et chinois. Leur constitution suppose souvent des fusions que le droit européen de la concurrence peut limiter, comme l’a montré le refus de la fusion Alstom-Siemens en 2019.",
+  "usage": "Expression employée par le PS-Place publique et Renaissance, et dans l’esprit par LR. Elle met en avant la taille et la politique industrielle ; ses critiques y voient un risque de concentration au détriment des PME et des consommateurs.",
+  "concurrents": [
+   "politique de concurrence"
+  ],
+  "notions": [
+   "droit-europeen-de-la-concurrence",
+   "preference-europeenne"
+  ],
+  "motifs": [
+   "champions européens",
+   "développer ses champions",
+   "rapprochements industriels"
+  ]
+ },
+ {
+  "id": "europe-puissance",
+  "terme": "Europe puissance",
+  "variantes": [
+   "Europe puissante",
+   "puissance européenne"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "L’Europe puissance désigne le projet d’une Union capable de peser dans les rapports de force internationaux par ses moyens militaires, industriels et diplomatiques, et non seulement par son marché et ses normes. L’expression est ancienne dans le discours diplomatique français.",
+  "usage": "Employée par LR (« Europe puissante, solidaire dans l’OTAN ») et proche du vocabulaire de Renaissance. Le RN et LFI lui préfèrent la « puissance » de la France elle-même. Ses critiques y voient un objectif que les États européens n’ont pas les moyens politiques d’assumer ensemble.",
+  "concurrents": [
+   "puissance normative",
+   "Europe des nations"
+  ],
+  "notions": [
+   "defense-europeenne"
+  ],
+  "motifs": [
+   "Europe puissante",
+   "Europe puissance",
+   "puissance européenne",
+   "vecteurs de puissance",
+   "outil de puissance"
+  ]
+ },
+ {
+  "id": "interets-nationaux",
+  "terme": "Intérêts nationaux",
+  "variantes": [
+   "intérêts de la France",
+   "intérêt national"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "Les intérêts nationaux désignent ce qu’un État considère comme essentiel à sa sécurité, sa prospérité et son influence. L’expression appartient au vocabulaire classique de la diplomatie.",
+  "usage": "Mise en avant par le RN, qui en fait un critère d’appartenance à l’Union et de révision des accords commerciaux, et par Horizons. Elle place la nation au centre de la politique étrangère ; les forces pro-européennes y ajoutent généralement la notion d’« intérêt collectif des Européens ».",
+  "concurrents": [
+   "intérêt européen",
+   "intérêt général européen"
+  ],
+  "notions": [
+   "primaute-du-droit-europeen",
+   "non-alignement"
+  ],
+  "motifs": [
+   "intérêts nationaux",
+   "intérêts de la France"
+  ]
+ },
+ {
+  "id": "puissance-d-equilibre",
+  "terme": "Puissance d’équilibre",
+  "variantes": [
+   "entre les grands blocs",
+   "diplomatie indépendante"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "L’expression désigne un pays qui refuse de s’aligner sur un bloc et cherche à jouer un rôle de médiateur entre grandes puissances. Elle se réclame de la politique d’indépendance du général de Gaulle et a été reprise par des responsables de bords différents.",
+  "usage": "Formule reprise par le RN (« puissance d’équilibre entre les grands blocs ») et, en 2022, par Reconquête (« La France doit retrouver son statut de puissance d’équilibre »). LFI emploie un vocabulaire voisin (« voix indépendante et altermondialiste »). Ses critiques estiment qu’elle met sur le même plan alliés et adversaires.",
+  "concurrents": [
+   "solidarité atlantique",
+   "Europe puissance"
+  ],
+  "notions": [
+   "non-alignement",
+   "otan"
+  ],
+  "motifs": [
+   "puissance d'équilibre",
+   "grands blocs",
+   "diplomatie indépendante"
+  ]
+ },
+ {
+  "id": "altermondialisme",
+  "terme": "Altermondialisme",
+  "variantes": [
+   "altermondialiste"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "L’altermondialisme est un courant né à la fin des années 1990, notamment autour des forums sociaux mondiaux, qui critique la mondialisation libérale et promeut d’autres formes de coopération internationale (taxation des transactions financières, annulation de dettes, souveraineté alimentaire).",
+  "usage": "Terme revendiqué par LFI pour qualifier sa politique étrangère et ses alliances. Il est très peu présent dans les autres programmes, qui parlent plutôt de multilatéralisme ou de partenariats.",
+  "concurrents": [
+   "multilatéralisme",
+   "antimondialisme"
+  ],
+  "notions": [
+   "non-alignement",
+   "institutions-financieres-internationales"
+  ],
+  "motifs": [
+   "altermondialis*"
+  ]
+ },
+ {
+  "id": "multilateralisme",
+  "terme": "Multilatéralisme",
+  "variantes": [
+   "multilatéral",
+   "coopération internationale"
+  ],
+  "registre": "technique",
+  "theme": "europe",
+  "definition": "Le multilatéralisme désigne l’organisation des relations internationales par des institutions et des règles communes à de nombreux États (ONU, OMC, accords climatiques), par opposition aux relations bilatérales ou aux rapports de force.",
+  "usage": "Employé par les écologistes (désarmement multilatéral, cour multilatérale des investissements). Le terme connote le droit et la négociation ; il est peu présent dans les programmes qui insistent sur la puissance nationale.",
+  "concurrents": [
+   "rapport de force",
+   "bilatéralisme"
+  ],
+  "notions": [
+   "mandat-de-l-onu",
+   "dissuasion-nucleaire"
+  ],
+  "motifs": [
+   "multilatéral*"
+  ]
+ },
+ {
+  "id": "droit-international",
+  "terme": "Droit international",
+  "variantes": [
+   "droit international humanitaire",
+   "légalité internationale"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "Le droit international regroupe les règles qui régissent les relations entre États : traités, coutume, Charte des Nations unies. Le droit international humanitaire, issu notamment des conventions de Genève de 1949, encadre la conduite des conflits armés et protège les civils.",
+  "usage": "Invoqué par les écologistes, LFI et le PS-Place publique à propos de Gaza, de l’Ukraine et des exportations d’armes. Le RN l’invoque pour affirmer que la Constitution doit lui prévaloir. Chaque camp l’emploie pour qualifier les actes de ses adversaires.",
+  "concurrents": [],
+  "notions": [
+   "conflit-israelo-palestinien",
+   "cour-penale-internationale",
+   "industrie-de-defense"
+  ],
+  "motifs": [
+   "droit international"
+  ]
+ },
+ {
+  "id": "droits-humains",
+  "terme": "Droits humains",
+  "variantes": [
+   "droits de l’homme",
+   "droits fondamentaux"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "Les droits humains désignent les droits inhérents à toute personne, garantis par la Déclaration universelle de 1948 et des conventions internationales. Dans l’Union, la Charte des droits fondamentaux a la même valeur juridique que les traités depuis 2009.",
+  "usage": "La formule « droits humains », plus récente et non genrée, est privilégiée par la gauche et les écologistes ; les textes juridiques français et la droite emploient plus souvent « droits de l’homme ». Le choix du mot est en lui-même un marqueur.",
+  "concurrents": [
+   "droits de l’homme"
+  ],
+  "notions": [
+   "conflit-israelo-palestinien",
+   "devoir-de-vigilance",
+   "clauses-miroirs"
+  ],
+  "motifs": [
+   "droits humains",
+   "droits de l'homme",
+   "droits fondamentaux"
+  ]
+ },
+ {
+  "id": "genocide",
+  "terme": "Génocide",
+  "variantes": [
+   "risque de génocide"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "Le génocide est défini par la convention de 1948 comme un ensemble d’actes commis dans l’intention de détruire, en tout ou en partie, un groupe national, ethnique, racial ou religieux. Sa qualification relève des juridictions, la Cour internationale de justice pour les États et la Cour pénale internationale pour les individus.",
+  "usage": "LFI invoque l’ordonnance de la Cour internationale de justice qui évoque un « risque de génocide » à Gaza. Le terme est rejeté par d’autres forces et par le gouvernement israélien ; son emploi est l’un des points les plus disputés du débat.",
+  "concurrents": [
+   "crimes de guerre",
+   "riposte"
+  ],
+  "notions": [
+   "conflit-israelo-palestinien",
+   "cour-penale-internationale"
+  ],
+  "motifs": [
+   "génocide"
+  ]
+ },
+ {
+  "id": "colonies",
+  "terme": "Colonies (Cisjordanie)",
+  "variantes": [
+   "colonisation",
+   "colons",
+   "implantations"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "Les colonies désignent les implantations de populations israéliennes en Cisjordanie et à Jérusalem-Est, territoires occupés depuis 1967. Le Conseil de sécurité de l’ONU les a déclarées sans validité juridique, notamment par la résolution 2334 de 2016.",
+  "usage": "Terme employé par les écologistes et le PS-Place publique, conforme au vocabulaire de l’ONU et de l’Union européenne. Les autorités israéliennes emploient plutôt « implantations » ou les noms bibliques de « Judée-Samarie ».",
+  "concurrents": [
+   "implantations",
+   "Judée-Samarie"
+  ],
+  "notions": [
+   "conflit-israelo-palestinien"
+  ],
+  "motifs": [
+   "colonies existantes",
+   "nouvelles colonies",
+   "dans les colonies",
+   "issus des colonies israéliennes",
+   "colons",
+   "colonisation"
+  ]
+ },
+ {
+  "id": "cessez-le-feu",
+  "terme": "Cessez-le-feu",
+  "variantes": [
+   "trêve",
+   "arrêt des hostilités"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "Un cessez-le-feu est un accord ou une décision d’interrompre les combats, temporairement ou durablement, sans régler nécessairement le conflit. Il se distingue de l’armistice et de l’accord de paix.",
+  "usage": "Employé par LFI pour Gaza. À propos de l’Ukraine, les programmes parlent plutôt de « garanties de sécurité » ou de négociation, le terme de cessez-le-feu étant associé par ses critiques au risque de geler les conquêtes territoriales.",
+  "concurrents": [
+   "paix juste et durable"
+  ],
+  "notions": [
+   "conflit-israelo-palestinien",
+   "soutien-a-l-ukraine"
+  ],
+  "motifs": [
+   "cessez-le-feu"
+  ]
+ },
+ {
+  "id": "integrite-territoriale",
+  "terme": "Intégrité territoriale",
+  "variantes": [
+   "frontières de 1991",
+   "intégrité des frontières"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "L’intégrité territoriale est le principe, inscrit dans la Charte des Nations unies, selon lequel les frontières d’un État ne peuvent être modifiées par la force. Pour l’Ukraine, elle renvoie aux frontières internationalement reconnues lors de son indépendance en 1991, Crimée comprise.",
+  "usage": "Invoquée par les écologistes et LFI à propos de l’Ukraine. Elle sert de critère pour juger un éventuel accord de paix ; les forces qui insistent sur la négociation rapide l’évoquent moins.",
+  "concurrents": [
+   "paix négociée"
+  ],
+  "notions": [
+   "soutien-a-l-ukraine"
+  ],
+  "motifs": [
+   "intégrité territoriale",
+   "intégrité de ses frontières",
+   "frontières internationales reconnues"
+  ]
+ },
+ {
+  "id": "garanties-de-securite",
+  "terme": "Garanties de sécurité",
+  "variantes": [
+   "garantie de sécurité nucléaire",
+   "assurances de sécurité"
+  ],
+  "registre": "technique",
+  "theme": "europe",
+  "definition": "Les garanties de sécurité sont des engagements d’États tiers à protéger un pays contre une agression, par exemple par un déploiement militaire ou une assistance automatique. Pour l’Ukraine, elles sont débattues comme condition d’un cessez-le-feu durable, le mémorandum de Budapest de 1994 n’ayant pas empêché l’invasion.",
+  "usage": "Terme employé par les écologistes, à propos de l’Ukraine et de l’extension de la garantie nucléaire française à d’autres pays européens.",
+  "concurrents": [],
+  "notions": [
+   "soutien-a-l-ukraine",
+   "dissuasion-nucleaire"
+  ],
+  "motifs": [
+   "garanties de sécurité",
+   "garantie de sécurité"
+  ]
+ },
+ {
+  "id": "premiere-ligne-de-defense",
+  "terme": "Première ligne de défense",
+  "variantes": [
+   "Ukraine, rempart de l’Europe"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "L’expression présente un pays en guerre comme le premier rempart contre une menace qui viserait ensuite ses voisins. Elle est employée à propos de l’Ukraine face à la Russie.",
+  "usage": "Formule du PS-Place publique. Elle fait de l’aide à l’Ukraine une question de sécurité européenne et non seulement de solidarité ; ses critiques y voient un risque d’entraînement dans le conflit.",
+  "concurrents": [
+   "cobelligérance",
+   "guerre par procuration"
+  ],
+  "notions": [
+   "soutien-a-l-ukraine"
+  ],
+  "motifs": [
+   "première ligne de défense"
+  ]
+ },
+ {
+  "id": "haute-intensite",
+  "terme": "Guerre de haute intensité",
+  "variantes": [
+   "conflit de haute intensité",
+   "conflit majeur"
+  ],
+  "registre": "technique",
+  "theme": "europe",
+  "definition": "La haute intensité désigne un conflit entre forces armées de niveau comparable, mobilisant massivement artillerie, blindés, aviation et munitions, par opposition aux opérations de contre-insurrection menées depuis les années 1990. La guerre en Ukraine en a fait l’hypothèse de référence de la planification militaire européenne.",
+  "usage": "Terme technique repris par les écologistes et le PS-Place publique pour justifier la montée en cadence industrielle et la constitution de stocks.",
+  "concurrents": [
+   "économie de guerre"
+  ],
+  "notions": [
+   "loi-de-programmation-militaire",
+   "industrie-de-defense"
+  ],
+  "motifs": [
+   "haute intensité"
+  ]
+ },
+ {
+  "id": "economie-de-guerre",
+  "terme": "Économie de guerre",
+  "variantes": [
+   "montée en cadence"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "L’économie de guerre désigne historiquement l’organisation de l’économie d’un pays au service de l’effort militaire. Le terme a été repris depuis 2022 pour appeler à accélérer la production d’armement, sans mobilisation générale de l’économie.",
+  "usage": "Le président de la République l’a popularisé en 2022. Dans les programmes, les écologistes l’emploient à propos du conflit des Kivus ; le PS-Place publique parle d’accélérer la production industrielle face à un conflit de haute intensité. Ses critiques y voient une banalisation de la guerre.",
+  "concurrents": [
+   "réarmement",
+   "effort de défense"
+  ],
+  "notions": [
+   "industrie-de-defense"
+  ],
+  "motifs": [
+   "économie de guerre"
+  ]
+ },
+ {
+  "id": "guerre-hybride",
+  "terme": "Guerre hybride",
+  "variantes": [
+   "menaces hybrides",
+   "ingérences étrangères"
+  ],
+  "registre": "technique",
+  "theme": "europe",
+  "definition": "La guerre hybride combine des moyens militaires et non militaires (cyberattaques, désinformation, sabotage, pressions économiques, instrumentalisation des migrations) pour affaiblir un adversaire en restant sous le seuil du conflit ouvert.",
+  "usage": "Terme employé par les écologistes et LR, qui proposent de renforcer la résilience et la lutte contre les manipulations informationnelles. Il élargit la notion de défense au champ civil.",
+  "concurrents": [
+   "ingérences étrangères"
+  ],
+  "notions": [
+   "defense-europeenne"
+  ],
+  "motifs": [
+   "guerre hybride",
+   "manipulation* coordonnées"
+  ]
+ },
+ {
+  "id": "reserve-operationnelle",
+  "terme": "Réserve opérationnelle",
+  "variantes": [
+   "réservistes",
+   "garde nationale"
+  ],
+  "registre": "administratif",
+  "theme": "europe",
+  "definition": "La réserve opérationnelle est composée de volontaires civils, anciens militaires ou non, liés aux armées par un contrat d’engagement et mobilisables en renfort. La garde nationale, créée en 2016, regroupe les réserves des armées, de la gendarmerie et de la police.",
+  "usage": "Renaissance, le PS-Place publique, LFI et les écologistes proposent d’accroître les réserves ; LFI propose une garde nationale « sous commandement civil ». La réserve est présentée comme un lien entre armée et nation.",
+  "concurrents": [
+   "service militaire"
+  ],
+  "notions": [
+   "loi-de-programmation-militaire"
+  ],
+  "motifs": [
+   "réserve opérationnelle",
+   "réservistes",
+   "garde nationale"
+  ]
+ },
+ {
+  "id": "lien-armee-nation",
+  "terme": "Lien armée-nation",
+  "variantes": [
+   "pacte Armées-Nation"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "Le lien armée-nation désigne la relation entre les forces armées et la société civile, que la suspension du service militaire en 1997 a distendue selon de nombreux observateurs. Il se traduit par les réserves, le service national universel ou la journée défense et citoyenneté.",
+  "usage": "Renaissance parle de « sceller le pacte Armées-Nation ». Le PS-Place publique veut recréer un « rite de passage républicain » remplaçant le service militaire ; LFI propose un service militaire optionnel dans un service citoyen obligatoire.",
+  "concurrents": [
+   "service militaire"
+  ],
+  "notions": [
+   "loi-de-programmation-militaire"
+  ],
+  "motifs": [
+   "Armées-Nation",
+   "armée-nation",
+   "service militaire"
+  ]
+ },
+ {
+  "id": "modele-d-armee-complet",
+  "terme": "Modèle d’armée complet",
+  "variantes": [
+   "armée complète",
+   "échantillonnaire"
+  ],
+  "registre": "technique",
+  "theme": "europe",
+  "definition": "Un modèle d’armée complet dispose de l’ensemble des capacités militaires (terre, air, mer, nucléaire, espace, cyber), même en volumes limités, sans dépendre d’alliés pour certaines fonctions. Ses critiques parlent d’armée « échantillonnaire », complète mais peu nombreuse.",
+  "usage": "Le RN en fait un objectif à préserver. Les partisans d’une défense européenne intégrée envisagent au contraire des spécialisations entre armées nationales.",
+  "concurrents": [
+   "spécialisation",
+   "mutualisation des capacités"
+  ],
+  "notions": [
+   "loi-de-programmation-militaire",
+   "defense-europeenne"
+  ],
+  "motifs": [
+   "modèle d'armée complet"
+  ]
+ },
+ {
+  "id": "double-usage",
+  "terme": "Biens à double usage",
+  "variantes": [
+   "matériels à double emploi"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "Les biens à double usage sont des produits, logiciels ou technologies pouvant servir à des fins civiles comme militaires (composants électroniques, drones, produits chimiques). Leur exportation hors de l’Union est soumise à autorisation par un règlement européen.",
+  "usage": "Terme technique employé par les écologistes, qui veulent inclure ces biens dans les embargos et le contrôle parlementaire des exportations.",
+  "concurrents": [],
+  "notions": [
+   "industrie-de-defense"
+  ],
+  "motifs": [
+   "double usage",
+   "double emploi"
+  ]
+ },
+ {
+  "id": "embargo",
+  "terme": "Embargo",
+  "variantes": [
+   "embargo sur les armes"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "Un embargo est une interdiction décidée par un ou plusieurs États, ou par le Conseil de sécurité, de commercer certains biens avec un pays, le plus souvent des armes. L’Union adopte ses embargos à l’unanimité dans le cadre de la politique étrangère et de sécurité commune.",
+  "usage": "Terme mobilisé par les écologistes (Soudan, minerais rwandais, armes vers Israël) et par LFI (armes vers Israël). Absent des autres programmes étudiés.",
+  "concurrents": [
+   "sanctions ciblées"
+  ],
+  "notions": [
+   "industrie-de-defense",
+   "conflit-israelo-palestinien"
+  ],
+  "motifs": [
+   "embargo*"
+  ]
+ },
+ {
+  "id": "sanctions",
+  "terme": "Sanctions internationales",
+  "variantes": [
+   "mesures restrictives",
+   "sanctions européennes"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "Les sanctions internationales sont des mesures restrictives (gel d’avoirs, interdictions de voyager, restrictions commerciales) visant un État, des entités ou des personnes pour modifier leur comportement. Dans l’Union, elles sont dites « mesures restrictives » et adoptées à l’unanimité.",
+  "usage": "Les écologistes et LFI les proposent contre des acteurs du conflit israélo-palestinien ; les écologistes veulent renforcer leur application contre la Russie. Reconquête propose des « sanctions commerciales automatiques » contre les amendes américaines.",
+  "concurrents": [
+   "mesures restrictives"
+  ],
+  "notions": [
+   "sanctions-contre-la-russie",
+   "conflit-israelo-palestinien",
+   "extraterritorialite-du-droit-americain"
+  ],
+  "motifs": [
+   "sanctions européennes",
+   "sanctionner financièrement les colons",
+   "sanctions contre le gouvernement*",
+   "sanctions commerciales automatiques"
+  ]
+ },
+ {
+  "id": "avoirs-geles",
+  "terme": "Avoirs gelés",
+  "variantes": [
+   "avoirs immobilisés",
+   "avoirs des oligarques"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "Les avoirs gelés sont des fonds et biens bloqués par une décision de sanction : leur propriétaire ne peut plus en disposer, mais il n’en est pas dépossédé. Leur confiscation, qui transférerait la propriété, pose des questions juridiques distinctes, notamment pour les réserves d’une banque centrale protégées par l’immunité des États.",
+  "usage": "Les écologistes veulent consacrer les avoirs russes gelés aux réparations de guerre ; LFI parle de saisie des avoirs des oligarques « dans le cadre permis par le droit international ».",
+  "concurrents": [
+   "confiscation"
+  ],
+  "notions": [
+   "sanctions-contre-la-russie"
+  ],
+  "motifs": [
+   "avoirs gelés",
+   "avoirs des oligarques"
+  ]
+ },
+ {
+  "id": "ecocide",
+  "terme": "Écocide",
+  "variantes": [
+   "crime d’écocide",
+   "crimes environnementaux"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "L’écocide désigne une atteinte grave et durable à l’environnement, que plusieurs juristes proposent d’ériger en crime international. En droit français, la loi Climat et résilience de 2021 a créé un « délit d’écocide », plus limité.",
+  "usage": "LFI et le PS-Place publique proposent sa reconnaissance internationale et un tribunal dédié ; les écologistes proposent une Cour pénale internationale de l’environnement. Le terme, construit sur le modèle de « génocide », a une forte charge morale que ses critiques jugent excessive.",
+  "concurrents": [
+   "atteinte grave à l’environnement",
+   "délit environnemental"
+  ],
+  "notions": [
+   "cour-penale-internationale",
+   "crime-d-ecocide"
+  ],
+  "motifs": [
+   "écocide",
+   "crimes environnementaux"
+  ]
+ },
+ {
+  "id": "libre-echange",
+  "terme": "Libre-échange",
+  "variantes": [
+   "traités de libre-échange",
+   "accords commerciaux"
+  ],
+  "registre": "économique",
+  "theme": "europe",
+  "definition": "Le libre-échange désigne la suppression ou la réduction des obstacles au commerce entre pays : droits de douane, quotas, différences de normes. Les accords dits de libre-échange de l’Union portent aussi sur l’investissement, les services et les marchés publics.",
+  "usage": "LFI, le RN et le PS-Place publique parlent de « traités de libre-échange » pour les rejeter ou les exclure de certains secteurs ; les institutions européennes et leurs défenseurs parlent plutôt d’« accords commerciaux » ou de « partenariats ». Le choix du terme oriente la perception de l’accord.",
+  "concurrents": [
+   "accords commerciaux",
+   "accords de partenariat économique"
+  ],
+  "notions": [
+   "accords-de-libre-echange"
+  ],
+  "motifs": [
+   "libre-échange",
+   "libreéchange"
+  ]
+ },
+ {
+  "id": "concurrence-deloyale",
+  "terme": "Concurrence déloyale",
+  "variantes": [
+   "distorsion de concurrence"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "En droit, la concurrence déloyale désigne des pratiques fautives entre entreprises (dénigrement, confusion, parasitisme). Dans le débat politique, l’expression qualifie la concurrence de producteurs soumis à des normes sociales, fiscales ou environnementales moins exigeantes.",
+  "usage": "Expression partagée par des forces très différentes (LFI, PS-Place publique, Renaissance, RN, Reconquête), qui l’appliquent tantôt aux importations hors Union, tantôt au travail détaché ou à la surtransposition. Elle présente l’écart de normes comme une faute, là où les économistes du commerce parlent d’« avantages comparatifs ».",
+  "concurrents": [
+   "avantages comparatifs",
+   "compétitivité"
+  ],
+  "notions": [
+   "clauses-miroirs",
+   "accords-de-libre-echange",
+   "travailleurs-detaches"
+  ],
+  "motifs": [
+   "concurrence déloyale",
+   "concurrences déloyales",
+   "asymétries de concurrences"
+  ]
+ },
+ {
+  "id": "dumping",
+  "terme": "Dumping",
+  "variantes": [
+   "antidumping",
+   "vente à perte"
+  ],
+  "registre": "économique",
+  "theme": "europe",
+  "definition": "Au sens de l’Organisation mondiale du commerce, le dumping est la vente d’un produit à l’exportation à un prix inférieur à sa valeur normale sur le marché d’origine. Il peut justifier des droits antidumping si l’industrie du pays importateur subit un préjudice.",
+  "usage": "Le PS-Place publique et LFI proposent de sanctionner le dumping par des mesures de défense commerciale ; Renaissance vise les produits chinois « vendus à perte ». Le terme technique est souvent élargi au sens politique de « dumping social ».",
+  "concurrents": [
+   "prix compétitifs"
+  ],
+  "notions": [
+   "protectionnisme"
+  ],
+  "motifs": [
+   "dumping",
+   "anti-dumping",
+   "vendus à perte"
+  ]
+ },
+ {
+  "id": "dumping-social",
+  "terme": "Dumping social",
+  "variantes": [
+   "dumping fiscal",
+   "dumping environnemental"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "Le dumping social désigne, dans le débat public, le fait de tirer un avantage concurrentiel de salaires, de cotisations ou de droits sociaux plus faibles ; on parle de même de dumping fiscal ou environnemental. Il ne correspond à aucune catégorie juridique précise.",
+  "usage": "Expression employée par LFI, le PS-Place publique, Reconquête et LR, à propos du travail détaché, des importations ou de la concurrence fiscale entre États. Elle met l’accent sur la « course au moins-disant » ; les défenseurs du marché unique parlent plutôt de convergence et de différences de niveau de développement.",
+  "concurrents": [
+   "concurrence fiscale",
+   "convergence",
+   "avantages comparatifs"
+  ],
+  "notions": [
+   "travailleurs-detaches",
+   "europe-sociale",
+   "clauses-miroirs",
+   "protectionnisme"
+  ],
+  "motifs": [
+   "dumping social",
+   "dumping fiscal",
+   "dumping environnemental",
+   "dumping social, sanitaire et environnemental"
+  ]
+ },
+ {
+  "id": "reciprocite",
+  "terme": "Réciprocité",
+  "variantes": [
+   "réciprocité commerciale",
+   "réciprocité douanière"
+  ],
+  "registre": "économique",
+  "theme": "europe",
+  "definition": "La réciprocité est le principe selon lequel un pays accorde à un partenaire les mêmes conditions d’accès à son marché que celles qu’il obtient en retour, qu’il s’agisse de droits de douane, de marchés publics ou de normes.",
+  "usage": "Terme employé par LR (clauses de réciprocité, réciprocité climatique) et par les écologistes (réciprocité douanière avec les États-Unis). Il présente la protection commerciale comme une exigence d’équité plutôt que comme du protectionnisme.",
+  "concurrents": [
+   "protectionnisme",
+   "clauses miroirs"
+  ],
+  "notions": [
+   "clauses-miroirs",
+   "accords-de-libre-echange"
+  ],
+  "motifs": [
+   "réciprocité"
+  ]
+ },
+ {
+  "id": "droits-de-douane",
+  "terme": "Droits de douane",
+  "variantes": [
+   "tarifs douaniers",
+   "barrières douanières",
+   "taxes à l’importation"
+  ],
+  "registre": "économique",
+  "theme": "europe",
+  "definition": "Les droits de douane sont des taxes perçues sur les marchandises importées. Dans l’Union, ils sont fixés en commun par le tarif douanier commun, et leurs recettes constituent une ressource propre du budget européen, les États en conservant une part pour frais de perception.",
+  "usage": "Terme technique. Les écologistes, LFI, le PS-Place publique et Renaissance proposent de les relever dans certains secteurs ou face à certains pays ; le retour des droits de douane américains en 2025 a donné au terme une actualité nouvelle.",
+  "concurrents": [],
+  "notions": [
+   "protectionnisme",
+   "budget-europeen"
+  ],
+  "motifs": [
+   "droits de douane",
+   "barrières douanières",
+   "taxes à l'importation",
+   "tarif douanier"
+  ]
+ },
+ {
+  "id": "defense-commerciale",
+  "terme": "Défense commerciale",
+  "variantes": [
+   "instruments de défense commerciale",
+   "clauses de sauvegarde"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "La défense commerciale regroupe les instruments par lesquels l’Union protège ses producteurs contre des pratiques jugées déloyales ou des importations massives : droits antidumping, droits compensateurs, mesures de sauvegarde, filtrage des investissements étrangers, instrument anti-coercition.",
+  "usage": "Terme technique employé par le PS-Place publique. Il permet de présenter des mesures protectrices comme compatibles avec les règles du commerce international.",
+  "concurrents": [
+   "protectionnisme"
+  ],
+  "notions": [
+   "protectionnisme"
+  ],
+  "motifs": [
+   "défense commerciale",
+   "clauses de protection",
+   "investissements étrangers dans les secteurs stratégiques"
+  ]
+ },
+ {
+  "id": "taxe-carbone-aux-frontieres",
+  "terme": "Taxe carbone aux frontières",
+  "variantes": [
+   "carbone aux frontières"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "Expression courante désignant le mécanisme d’ajustement carbone aux frontières (MACF), qui fait payer aux importateurs un prix du carbone équivalent à celui des producteurs européens.",
+  "usage": "Formule préférée par LR, Reconquête, Renaissance et LFI au nom officiel du mécanisme, employé par les écologistes. Elle souligne la dimension protectrice (« pour éviter la concurrence déloyale ») plutôt que la dimension climatique ; l’Union évite le mot « taxe » pour des raisons juridiques et commerciales.",
+  "concurrents": [
+   "mécanisme d’ajustement carbone aux frontières"
+  ],
+  "notions": [
+   "mecanisme-d-ajustement-carbone-aux-frontieres"
+  ],
+  "motifs": [
+   "taxe carbone aux frontières"
+  ]
+ },
+ {
+  "id": "buy-european-act",
+  "terme": "Buy European Act",
+  "variantes": [
+   "Acheter européen",
+   "Buy European First",
+   "buy green and european act"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "Le « Buy European Act » est une proposition de règle réservant une part des marchés publics aux produits européens, sur le modèle du « Buy American Act » américain de 1933. Elle n’existe pas en droit européen à ce jour.",
+  "usage": "Formule anglaise reprise par le PS-Place publique, les écologistes (« buy green and european act ») et LR (« Buy European First »). L’emprunt à l’exemple américain sert d’argument : les concurrents de l’Europe pratiquent déjà cette préférence.",
+  "concurrents": [
+   "préférence européenne",
+   "préférence nationale"
+  ],
+  "notions": [
+   "preference-europeenne"
+  ],
+  "motifs": [
+   "Buy European*",
+   "Acheter européen",
+   "buy green and european act"
+  ]
+ },
+ {
+  "id": "relocalisation",
+  "terme": "Relocalisation et réindustrialisation",
+  "variantes": [
+   "relocaliser",
+   "réindustrialiser"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "La relocalisation désigne le retour sur le territoire national ou européen d’activités de production auparavant délocalisées ; la réindustrialisation vise à augmenter la part de l’industrie dans l’économie, tombée en France à environ 10 % de la valeur ajoutée.",
+  "usage": "Terme consensuel, employé par toutes les forces, mais associé à des moyens très différents : protectionnisme et planification pour LFI, préférence européenne et aides ciblées pour Renaissance ou le PS-Place publique, baisse des normes et des impôts pour la droite.",
+  "concurrents": [
+   "délocalisation",
+   "désindustrialisation"
+  ],
+  "notions": [
+   "protectionnisme",
+   "preference-europeenne"
+  ],
+  "motifs": [
+   "réindustrialis*",
+   "relocalis*"
+  ]
+ },
+ {
+  "id": "superprofits",
+  "terme": "Superprofits",
+  "variantes": [
+   "profits exceptionnels",
+   "profiteurs de guerre"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "Les superprofits désignent des bénéfices jugés exceptionnels, liés à une conjoncture (crise énergétique, guerre) plutôt qu’à l’activité propre de l’entreprise. L’Union a instauré en 2022 une « contribution de solidarité » temporaire sur les entreprises des énergies fossiles.",
+  "usage": "Terme employé par LFI, les écologistes et le PS-Place publique pour justifier une taxation européenne. Les entreprises et les forces de droite contestent l’existence d’un critère objectif et parlent de « bénéfices » ou de « résultats ».",
+  "concurrents": [
+   "bénéfices exceptionnels",
+   "profits"
+  ],
+  "notions": [
+   "fiscalite-internationale",
+   "budget-europeen"
+  ],
+  "motifs": [
+   "superprofits",
+   "profits exceptionnels",
+   "profiteurs de guerre"
+  ]
+ },
+ {
+  "id": "matieres-premieres-critiques",
+  "terme": "Matières premières critiques",
+  "variantes": [
+   "minerais stratégiques",
+   "terres rares"
+  ],
+  "registre": "technique",
+  "theme": "europe",
+  "definition": "Les matières premières critiques sont des ressources jugées essentielles à l’économie (lithium, cobalt, terres rares, gallium) et dont l’approvisionnement présente un risque de rupture, souvent en raison d’une forte dépendance à la Chine. Un règlement européen de 2024 fixe des objectifs d’extraction, de raffinage et de recyclage dans l’Union.",
+  "usage": "Terme technique employé par les écologistes et Renaissance. Il relie politique industrielle, transition énergétique et souveraineté.",
+  "concurrents": [],
+  "notions": [
+   "preference-europeenne"
+  ],
+  "motifs": [
+   "matières premières critiques",
+   "matières premières rares"
+  ]
+ },
+ {
+  "id": "arbitrage-investisseur-etat",
+  "terme": "Arbitrage investisseur-État",
+  "variantes": [
+   "tribunaux d’arbitrage",
+   "ISDS",
+   "règlement des différends"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "L’arbitrage investisseur-État permet à une entreprise étrangère de poursuivre un État devant un tribunal arbitral privé si elle estime qu’une décision publique porte atteinte à son investissement. Il figure dans de nombreux traités bilatéraux d’investissement et dans le traité sur la Charte de l’énergie, dont la France et l’Union se sont retirées.",
+  "usage": "Les écologistes refusent ces « tribunaux d’arbitrage » et proposent une cour multilatérale publique, conception que l’Union défend elle-même dans ses accords récents. Ses défenseurs y voient une protection des investisseurs contre l’arbitraire.",
+  "concurrents": [
+   "cour multilatérale des investissements"
+  ],
+  "notions": [
+   "accords-de-libre-echange"
+  ],
+  "motifs": [
+   "tribunaux d'arbitrage",
+   "règlement des différends",
+   "traités d'investissement",
+   "Cour multilatérale des investissement*"
+  ]
+ },
+ {
+  "id": "marche-carbone",
+  "terme": "Marché carbone",
+  "variantes": [
+   "système d’échange de quotas d’émission",
+   "SEQE",
+   "ETS2",
+   "crédits carbone"
+  ],
+  "registre": "économique",
+  "theme": "europe",
+  "definition": "Le marché carbone européen, créé en 2005, plafonne les émissions de l’industrie, de l’électricité et de l’aviation intra-européenne, et oblige les entreprises à détenir des quotas échangeables. Un second marché, dit ETS2, doit couvrir le chauffage des bâtiments et le carburant routier, donc toucher directement les ménages ; son lancement a été reporté de 2027 à 2028.",
+  "usage": "LFI propose de l’abandonner au profit d’une réglementation directe ; les écologistes refusent son extension aux particuliers et aux crédits carbone agricoles. Ses défenseurs y voient l’outil le plus efficace pour réduire les émissions au moindre coût.",
+  "concurrents": [
+   "réglementation",
+   "taxe carbone"
+  ],
+  "notions": [
+   "mecanisme-d-ajustement-carbone-aux-frontieres"
+  ],
+  "motifs": [
+   "marché carbone",
+   "ETS2",
+   "crédits carbone*"
+  ]
+ },
+ {
+  "id": "pays-tiers",
+  "terme": "Pays tiers",
+  "variantes": [
+   "pays hors UE",
+   "extra-européen"
+  ],
+  "registre": "administratif",
+  "theme": "europe",
+  "definition": "Dans le vocabulaire européen, un pays tiers est un État qui n’est pas membre de l’Union européenne. Ses ressortissants sont dits ressortissants de pays tiers en droit des étrangers.",
+  "usage": "Terme administratif employé surtout par les écologistes. Les programmes de droite emploient plus volontiers « extra-européens », qui insiste sur l’appartenance plutôt que sur le statut juridique.",
+  "concurrents": [
+   "extra-européens"
+  ],
+  "notions": [
+   "reglement-de-dublin-et-pacte-asile"
+  ],
+  "motifs": [
+   "pays tiers",
+   "extra-européen*"
+  ]
+ },
+ {
+  "id": "pays-tiers-sur",
+  "terme": "Pays tiers sûr",
+  "variantes": [
+   "pays d’origine sûr"
+  ],
+  "registre": "juridique",
+  "theme": "europe",
+  "definition": "Un pays tiers sûr est un pays hors de l’Union vers lequel un demandeur d’asile peut être renvoyé pour y faire examiner sa demande, parce qu’il y serait protégé. La notion permet de déclarer une demande irrecevable sans l’examiner sur le fond ; elle se distingue du « pays d’origine sûr », qui accélère l’examen.",
+  "usage": "Les écologistes demandent de revenir sur l’extension de cette notion. Ses défenseurs y voient un moyen de désengorger les systèmes d’asile ; ses opposants une externalisation de la protection.",
+  "concurrents": [],
+  "notions": [
+   "reglement-de-dublin-et-pacte-asile"
+  ],
+  "motifs": [
+   "pays tiers sûr"
+  ]
+ },
+ {
+  "id": "externalisation-des-frontieres",
+  "terme": "Externalisation des frontières",
+  "variantes": [
+   "externalisation de l’asile",
+   "accords migratoires"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "L’externalisation désigne le fait de confier à des pays tiers, par des accords et des financements, le contrôle des départs de migrants vers l’Europe ou l’examen des demandes d’asile. Les accords de l’Union avec la Turquie en 2016, puis avec la Tunisie, en sont des exemples.",
+  "usage": "Terme critique employé par les écologistes et le PS-Place publique. Les gouvernements et la Commission parlent de « partenariats migratoires » ou de « coopération avec les pays d’origine et de transit ».",
+  "concurrents": [
+   "partenariats migratoires",
+   "coopération avec les pays de transit"
+  ],
+  "notions": [
+   "reglement-de-dublin-et-pacte-asile",
+   "frontex"
+  ],
+  "motifs": [
+   "externaliser la gestion des frontières*",
+   "externalisation de nos politiques migratoires*"
+  ]
+ },
+ {
+  "id": "europe-forteresse",
+  "terme": "Europe forteresse",
+  "variantes": [
+   "forteresse Europe",
+   "Europe passoire"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "L’expression « Europe forteresse » qualifie de manière critique une Union qui fermerait ses frontières aux migrants. À l’inverse, « Europe passoire » qualifie, tout aussi critiquement, une Union jugée incapable de contrôler ses frontières.",
+  "usage": "Les deux expressions sont absentes des programmes étudiés, mais structurent le débat public : la première est employée à gauche, la seconde à droite et à l’extrême droite, pour désigner la même politique de contrôle des frontières extérieures.",
+  "concurrents": [
+   "contrôle des frontières extérieures"
+  ],
+  "notions": [
+   "frontex",
+   "espace-schengen"
+  ],
+  "motifs": [
+   "Europe forteresse",
+   "forteresse Europe",
+   "Europe passoire"
+  ]
+ },
+ {
+  "id": "dette-odieuse",
+  "terme": "Dette odieuse",
+  "variantes": [
+   "dette illégitime",
+   "annulation de la dette"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "La dette odieuse est une notion doctrinale désignant une dette contractée par un régime sans le consentement de sa population et sans bénéfice pour elle, dont le remboursement ne devrait pas être exigé. Elle n’est pas reconnue comme règle du droit international positif.",
+  "usage": "Employée par LFI (« dettes odieuses ») et par les écologistes (« dettes illégitimes et insoutenables »), en lien avec le mouvement altermondialiste. Les créanciers et institutions financières parlent de « restructuration » ou de « soutenabilité de la dette ».",
+  "concurrents": [
+   "restructuration de dette",
+   "soutenabilité de la dette"
+  ],
+  "notions": [
+   "institutions-financieres-internationales"
+  ],
+  "motifs": [
+   "dettes illégitimes",
+   "dettes « odieuse »",
+   "dette « odieuse »",
+   "dettes « odieuses »"
+  ]
+ },
+ {
+  "id": "restructuration-de-dette",
+  "terme": "Restructuration de dette souveraine",
+  "variantes": [
+   "Club de Paris",
+   "rééchelonnement"
+  ],
+  "registre": "économique",
+  "theme": "europe",
+  "definition": "La restructuration d’une dette souveraine modifie ses conditions de remboursement (allongement des délais, baisse des taux, réduction du capital), par négociation entre l’État débiteur et ses créanciers publics, réunis notamment au sein du Club de Paris, et privés.",
+  "usage": "Terme technique employé par LFI et les écologistes, qui demandent d’y associer les créanciers privés. Il est moins chargé que celui d’annulation ou de dette odieuse.",
+  "concurrents": [
+   "annulation de dette"
+  ],
+  "notions": [
+   "institutions-financieres-internationales"
+  ],
+  "motifs": [
+   "restructuration des dettes*",
+   "Restructurer voire annuler",
+   "dettes souveraines"
+  ]
+ },
+ {
+  "id": "co-developpement",
+  "terme": "Co-développement et partenariat entre égaux",
+  "variantes": [
+   "partenariat entre égaux",
+   "coopération entre les peuples"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "Le co-développement désigne une politique de coopération associant pays du Nord et du Sud autour de projets communs, présentée comme rompant avec une relation d’assistance. L’expression a aussi été employée pour lier aide au développement et politique migratoire.",
+  "usage": "Le PS-Place publique parle de « partenariat entre égaux » et d’espace de « co-développement » avec l’Afrique ; LFI de « coopération entre les peuples ». Ces formules insistent sur l’égalité des partenaires, en réponse aux critiques de la politique africaine de la France.",
+  "concurrents": [
+   "aide au développement",
+   "Françafrique"
+  ],
+  "notions": [
+   "relations-franco-africaines",
+   "aide-publique-au-developpement"
+  ],
+  "motifs": [
+   "partenariat entre égaux",
+   "co-développement",
+   "coopération entre les peuples"
+  ]
+ },
+ {
+  "id": "heritage-colonial",
+  "terme": "Héritage colonial",
+  "variantes": [
+   "histoire coloniale",
+   "mémoire coloniale"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "L’héritage colonial désigne les conséquences durables de la colonisation dans les relations entre la France et ses anciennes colonies : frontières, langues, monnaie, accords militaires, mémoire. Le travail de mémoire a donné lieu à plusieurs rapports officiels depuis 2021, notamment sur l’Algérie et le Rwanda.",
+  "usage": "Employé par les écologistes, qui proposent de reconnaître « les crimes » et « les complicités » de la France. D’autres forces récusent ce qu’elles appellent la « repentance », comme Horizons, qui dénonce « l’esprit de défaite, de repentance et de honte ».",
+  "concurrents": [
+   "repentance",
+   "mémoire partagée"
+  ],
+  "notions": [
+   "relations-franco-africaines"
+  ],
+  "motifs": [
+   "héritage colonial",
+   "histoire coloniale",
+   "époque coloniale"
+  ]
+ },
+ {
+  "id": "francafrique",
+  "terme": "Françafrique",
+  "variantes": [
+   "réseaux franco-africains"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "La « Françafrique » désigne de manière critique le système de relations politiques, militaires et économiques entretenu par la France avec ses anciennes colonies d’Afrique subsaharienne après les indépendances, mêlant diplomatie officielle et réseaux personnels.",
+  "usage": "Le terme est absent des programmes étudiés, mais les propositions de transparence sur la présence militaire ou de sortie des instances monétaires africaines s’inscrivent dans sa critique. Les gouvernements successifs ont annoncé sa fin à plusieurs reprises.",
+  "concurrents": [
+   "partenariat renouvelé",
+   "politique africaine"
+  ],
+  "notions": [
+   "relations-franco-africaines"
+  ],
+  "motifs": [
+   "Françafrique"
+  ]
+ },
+ {
+  "id": "diplomatie-d-influence",
+  "terme": "Diplomatie d’influence",
+  "variantes": [
+   "diplomatie culturelle",
+   "soft power"
+  ],
+  "registre": "technique",
+  "theme": "europe",
+  "definition": "La diplomatie d’influence désigne l’usage de la culture, de la langue, de l’enseignement, des médias et de l’expertise pour accroître l’attractivité et le poids d’un pays, ce que l’on appelle aussi « soft power ». Elle s’appuie en France sur le réseau culturel, l’audiovisuel extérieur et les établissements d’enseignement français à l’étranger.",
+  "usage": "Le PS-Place publique parle de « diplomatie culturelle d’influence » ; LR veut faire du savoir-faire cyber « un atout diplomatique ». LFI parle plutôt de défense de la francophonie.",
+  "concurrents": [
+   "rayonnement"
+  ],
+  "notions": [
+   "francophonie"
+  ],
+  "motifs": [
+   "diplomatie culturelle*",
+   "diplomatie d'influence",
+   "atout diplomatique"
+  ]
+ },
+ {
+  "id": "diplomatie-climatique",
+  "terme": "Diplomatie climatique",
+  "variantes": [
+   "diplomatie environnementale"
+  ],
+  "registre": "technique",
+  "theme": "europe",
+  "definition": "La diplomatie climatique désigne l’action extérieure d’un État pour faire progresser les négociations et engagements internationaux sur le climat, notamment dans le cadre des conférences des parties (COP) de la convention-cadre des Nations unies de 1992.",
+  "usage": "Le PS-Place publique veut redonner à la France « son influence dans la diplomatie climatique » ; les écologistes font de la sortie des énergies fossiles « un objectif diplomatique prioritaire ». Les autres programmes en parlent peu.",
+  "concurrents": [],
+  "notions": [
+   "mandat-de-l-onu"
+  ],
+  "motifs": [
+   "diplomatie climatique",
+   "objectif diplomatique prioritaire",
+   "diplomatie qui préserve notre environnement"
+  ]
+ },
+ {
+  "id": "biens-communs-de-l-humanite",
+  "terme": "Biens communs de l’humanité",
+  "variantes": [
+   "patrimoine commun de l’humanité"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "Le patrimoine commun de l’humanité est une notion du droit international appliquée aux fonds marins au-delà des juridictions nationales, à la Lune et, de fait, à l’Antarctique, qui ne peuvent être appropriés par un État. La notion de « biens communs » est plus large et plus politique.",
+  "usage": "LFI parle de la gestion des pôles comme « bien communs de l’humanité » ; les écologistes défendent le traité sur l’Antarctique et un moratoire sur l’exploitation minière des fonds marins.",
+  "concurrents": [
+   "exploitation des ressources"
+  ],
+  "notions": [
+   "mandat-de-l-onu"
+  ],
+  "motifs": [
+   "biens communs de l'humanité",
+   "bien communs de l'humanité",
+   "fonds marins",
+   "Antarctique"
+  ]
+ },
+ {
+  "id": "choc-des-civilisations",
+  "terme": "Choc des civilisations",
+  "variantes": [
+   "guerre des civilisations"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "Le « choc des civilisations » renvoie à la thèse du politiste américain Samuel Huntington (1993, puis 1996), selon laquelle les conflits de l’après-guerre froide opposeraient de grandes aires culturelles et religieuses plutôt que des États ou des idéologies.",
+  "usage": "LFI emploie l’expression pour la refuser, en lien avec son rejet des alliances militaires permanentes. Elle est employée par d’autres pour décrire les tensions avec le monde musulman, ce que ses critiques jugent essentialisant.",
+  "concurrents": [
+   "multilatéralisme",
+   "dialogue des cultures"
+  ],
+  "notions": [
+   "non-alignement"
+  ],
+  "motifs": [
+   "choc des civilisations"
+  ]
+ },
+ {
+  "id": "empires",
+  "terme": "Retour des empires",
+  "variantes": [
+   "les empires avancent",
+   "logique impériale"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "L’expression décrit le retour de puissances qui cherchent à étendre leur influence ou leur territoire par la force ou la pression, en visant notamment la Russie et la Chine.",
+  "usage": "Renaissance l’emploie (« un monde où la guerre refait surface, où les empires avancent ») pour justifier l’effort de défense. Le terme dramatise la menace et appelle à la « puissance » européenne.",
+  "concurrents": [
+   "multipolarité"
+  ],
+  "notions": [
+   "defense-europeenne",
+   "loi-de-programmation-militaire"
+  ],
+  "motifs": [
+   "empires"
+  ]
+ },
+ {
+  "id": "supremaciste",
+  "terme": "Gouvernement suprémaciste",
+  "variantes": [
+   "extrême droite israélienne"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "Le suprémacisme désigne une idéologie affirmant la supériorité d’un groupe ethnique ou religieux sur les autres. Appliqué à un gouvernement, le terme qualifie ses orientations politiques, non une catégorie juridique.",
+  "usage": "LFI qualifie le gouvernement de Benyamin Netanyahou de « gouvernement suprémaciste d’extrême droite ». Les autres programmes parlent du « gouvernement israélien » ou ne le qualifient pas ; ce choix de vocabulaire est contesté par les soutiens d’Israël.",
+  "concurrents": [
+   "gouvernement israélien"
+  ],
+  "notions": [
+   "conflit-israelo-palestinien"
+  ],
+  "motifs": [
+   "suprémaciste",
+   "gouvernement d'extrême droite de Netanyahu"
+  ]
+ },
+ {
+  "id": "souverainete-alimentaire",
+  "terme": "Souveraineté alimentaire",
+  "variantes": [
+   "autonomie alimentaire"
+  ],
+  "registre": "élément de langage",
+  "theme": "europe",
+  "definition": "La souveraineté alimentaire est le droit revendiqué par un pays ou un peuple de définir ses politiques agricoles et alimentaires, en privilégiant la production locale. Le concept a été popularisé par le mouvement paysan international Via Campesina en 1996.",
+  "usage": "LFI l’emploie pour réformer la PAC et la FAO, dans un sens critique du libre-échange agricole. La droite et le gouvernement l’emploient aussi depuis 2020, dans un sens plus proche de la sécurité d’approvisionnement et de la compétitivité.",
+  "concurrents": [
+   "sécurité alimentaire",
+   "compétitivité agricole"
+  ],
+  "notions": [
+   "politique-agricole-commune",
+   "accords-de-libre-echange"
+  ],
+  "motifs": [
+   "souveraineté alimentaire"
+  ]
+ },
+ {
+  "id": "stablecoin",
+  "terme": "Stablecoin",
+  "variantes": [
+   "cryptomonnaie stable",
+   "jeton adossé"
+  ],
+  "registre": "technique",
+  "theme": "europe",
+  "definition": "Un stablecoin est un cryptoactif dont la valeur est adossée à une monnaie officielle, souvent le dollar, ou à un panier d’actifs. Les stablecoins en dollar dominent ce marché. Dans l’Union, leur émission est encadrée par le règlement MiCA.",
+  "usage": "Reconquête veut favoriser des stablecoins en euro émis par le secteur privé ; les écologistes veulent imposer aux émetteurs des réserves auprès de la BCE et plafonner les avoirs. Le terme oppose innovation privée et monnaie publique.",
+  "concurrents": [
+   "euro numérique"
+  ],
+  "notions": [
+   "euro-et-monnaie-unique",
+   "banque-centrale-europeenne"
+  ],
+  "motifs": [
+   "stablecoin*",
+   "crypto-monnaies",
+   "cryptoactifs"
+  ]
+ }
+]

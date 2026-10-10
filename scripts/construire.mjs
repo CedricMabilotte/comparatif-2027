@@ -1,6 +1,7 @@
-// Assemble le corpus (citations vérifiées) puis copie le résultat à côté du site.
-import { copyFileSync } from "node:fs";
+// Assemble le corpus (citations vérifiées) puis en dépose une copie compacte à côté du site.
+import { readFileSync, writeFileSync } from "node:fs";
 import { execFileSync } from "node:child_process";
 execFileSync("node", [new URL("./assembler.mjs", import.meta.url).pathname], { stdio: "inherit" });
-copyFileSync(new URL("../data/corpus.json", import.meta.url), new URL("../site/corpus.json", import.meta.url));
+const corpus = JSON.parse(readFileSync(new URL("../data/corpus.json", import.meta.url)));
+writeFileSync(new URL("../site/corpus.json", import.meta.url), JSON.stringify(corpus));
 console.log("site/ prêt");

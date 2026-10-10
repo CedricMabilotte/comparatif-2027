@@ -1,0 +1,2020 @@
+[
+ {
+  "id": "pouvoir-d-achat",
+  "terme": "Pouvoir d'achat",
+  "variantes": [],
+  "registre": "économique",
+  "theme": "pouvoir-achat",
+  "definition": "Le pouvoir d'achat mesure la quantité de biens et de services qu'un revenu permet d'acheter. Il augmente quand les revenus progressent plus vite que les prix. L'Insee le calcule pour l'ensemble des ménages et par unité de consommation, ce qui donne des résultats souvent éloignés du ressenti individuel, qui dépend des dépenses contraintes de chacun.",
+  "usage": "Le terme est employé par tous les partis, mais il recouvre des réponses opposées : hausse des salaires et blocage des prix à gauche, baisse des impôts et des cotisations à droite et à l'extrême droite. Les écologistes l'associent aux économies d'énergie, en présentant l'écologie comme « la meilleure alliée du pouvoir d'achat ».",
+  "concurrents": [
+   "niveau de vie",
+   "reste à vivre",
+   "vie chère"
+  ],
+  "notions": [
+   "smic",
+   "tva",
+   "allegements-de-cotisations"
+  ],
+  "motifs": [
+   "pouvoir d'achat"
+  ]
+ },
+ {
+  "id": "vie-chere",
+  "terme": "Vie chère",
+  "variantes": [
+   "lutte contre la vie chère"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'expression désigne le niveau élevé des prix des biens courants par rapport aux revenus. Elle est surtout employée à propos des outre-mer, où les prix alimentaires dépassent nettement ceux de la métropole et où elle a donné son nom à des mouvements sociaux.",
+  "usage": "L'expression met l'accent sur les prix plutôt que sur les revenus. Elle est reprise par la droite, la gauche et le centre dans leurs propositions pour les outre-mer, avec des remèdes différents : concurrence et démantèlement des concentrations, plafonnement des prix ou autonomie alimentaire.",
+  "concurrents": [
+   "pouvoir d'achat",
+   "inflation"
+  ],
+  "notions": [
+   "bouclier-qualite-prix",
+   "octroi-de-mer",
+   "blocage-des-prix"
+  ],
+  "motifs": [
+   "vie chère"
+  ]
+ },
+ {
+  "id": "inflation",
+  "terme": "Inflation",
+  "variantes": [
+   "hausse des prix"
+  ],
+  "registre": "économique",
+  "theme": "pouvoir-achat",
+  "definition": "L'inflation est la hausse générale et durable des prix, mesurée en France par l'indice des prix à la consommation de l'Insee. La Banque centrale européenne vise une inflation de 2 % à moyen terme dans la zone euro. Après une longue période de prix stables, elle a atteint 5,2 % en moyenne annuelle en France en 2022, sous l'effet de la crise énergétique.",
+  "usage": "La gauche et les écologistes l'invoquent pour justifier l'indexation des salaires, des traitements et des prestations, voire le blocage des prix « en cas d'inflation anormale ». Le RN en tire l'indexation du barème fiscal et la suspension de la TVA sur certains produits « en cas de forte inflation ».",
+  "concurrents": [
+   "vie chère",
+   "hausse des prix"
+  ],
+  "notions": [
+   "indexation-des-salaires",
+   "blocage-des-prix",
+   "tva"
+  ],
+  "motifs": [
+   "sur l'inflation",
+   "forte inflation",
+   "inflation anormale"
+  ]
+ },
+ {
+  "id": "indexation",
+  "terme": "Indexation",
+  "variantes": [
+   "désindexation",
+   "sous-indexation"
+  ],
+  "registre": "technique",
+  "theme": "pouvoir-achat",
+  "definition": "L'indexation lie automatiquement l'évolution d'un montant, salaire, pension, prestation, barème fiscal ou titre de dette, à celle d'un indice, le plus souvent celui des prix. La désindexation consiste à rompre ce lien ou à revaloriser moins que l'inflation, ce qui produit une économie budgétaire discrète.",
+  "usage": "Le mot apparaît surtout dans les programmes de gauche et écologistes, qui proposent d'indexer salaires, point d'indice et allocations ; le RN l'applique au barème de l'impôt et à la CSG. Les écologistes proposent à l'inverse de « désindexer » une partie de la dette publique pour en réduire le coût en période d'inflation.",
+  "concurrents": [
+   "revalorisation",
+   "gel",
+   "coup de pouce"
+  ],
+  "notions": [
+   "indexation-des-salaires",
+   "point-d-indice",
+   "impot-sur-le-revenu",
+   "dette-publique"
+  ],
+  "motifs": [
+   "indexation",
+   "indexer les salaires",
+   "indexer le montant",
+   "indexant",
+   "désindexer",
+   "indexés sur l'inflation",
+   "indexer sur l'inflation"
+  ]
+ },
+ {
+  "id": "coup-de-pouce",
+  "terme": "Coup de pouce",
+  "variantes": [
+   "coup de pouce au SMIC"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Le coup de pouce désigne une hausse du SMIC décidée par le gouvernement au-delà de la revalorisation automatique prévue par la loi. Il a été pratiqué régulièrement jusqu'au milieu des années 2000 ; le dernier date de juillet 2012.",
+  "usage": "Le terme, issu du langage gouvernemental, présente la hausse comme un geste discrétionnaire. Il est absent des programmes étudiés, qui chiffrent plutôt directement un montant cible du SMIC.",
+  "concurrents": [
+   "revalorisation",
+   "augmentation du SMIC"
+  ],
+  "notions": [
+   "smic"
+  ],
+  "motifs": [
+   "coup de pouce"
+  ]
+ },
+ {
+  "id": "salaire-brut-salaire-net",
+  "terme": "Salaire brut et salaire net",
+  "variantes": [
+   "superbrut",
+   "salaire complet"
+  ],
+  "registre": "économique",
+  "theme": "pouvoir-achat",
+  "definition": "Le salaire brut est le salaire avant déduction des cotisations salariales et de la CSG ; le salaire net est la somme versée au salarié. Le coût total pour l'employeur, parfois appelé « superbrut » ou « salaire complet », ajoute au brut les cotisations patronales. L'écart entre ces montants dépend du niveau de salaire, à cause des allègements sur les bas salaires.",
+  "usage": "Le choix de l'unité n'est pas neutre : les écologistes chiffrent leur SMIC en brut, la France insoumise et le PS en net. La droite et Renaissance insistent sur le salaire net, qu'elles veulent augmenter par la baisse des cotisations ; dans le débat, une partie de la gauche défend la notion de « salaire complet » pour souligner que les cotisations sont du salaire.",
+  "concurrents": [
+   "coût du travail",
+   "salaire socialisé"
+  ],
+  "notions": [
+   "smic",
+   "allegements-de-cotisations"
+  ],
+  "motifs": [
+   "salaire net",
+   "salaires nets",
+   "brut par mois",
+   "salaire brut"
+  ]
+ },
+ {
+  "id": "cotisations-sociales",
+  "terme": "Cotisations sociales",
+  "variantes": [
+   "cotisations patronales",
+   "cotisations salariales"
+  ],
+  "registre": "technique",
+  "theme": "pouvoir-achat",
+  "definition": "Les cotisations sociales sont des prélèvements sur les salaires qui ouvrent des droits à des prestations : retraite, assurance maladie, chômage, famille. Elles sont réparties entre une part salariale, retenue sur le brut, et une part patronale, payée en plus par l'employeur. Elles se distinguent des impôts par ce lien entre la contribution et les droits ouverts, même si ce lien s'est distendu avec la fiscalisation de la protection sociale.",
+  "usage": "Le terme est employé par la gauche, les écologistes et les syndicats, qui y voient un salaire « socialisé » ou « différé » et proposent d'étendre les cotisations à des revenus aujourd'hui exonérés. La droite l'emploie aussi dans ses textes techniques, mais préfère « charges » dans les formules de campagne.",
+  "concurrents": [
+   "charges sociales",
+   "charges"
+  ],
+  "notions": [
+   "allegements-de-cotisations",
+   "partage-de-la-valeur"
+  ],
+  "motifs": [
+   "cotisations sociales",
+   "cotisations patronales",
+   "cotisations salariales",
+   "soumettre à cotisation",
+   "étendre les cotisations"
+  ]
+ },
+ {
+  "id": "charges-sociales",
+  "terme": "Charges sociales",
+  "variantes": [
+   "charges",
+   "charges salariales",
+   "baisse des charges"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'expression désigne les cotisations sociales en les présentant comme un coût pour l'employeur ou une retenue sur le salaire. Elle est d'usage courant dans le langage des entreprises et de la comptabilité.",
+  "usage": "Employé par la droite, Renaissance et Reconquête (« baisser les charges », « sans charges ni impôts », « Prime Zéro Charge »), le mot met en avant le poids du prélèvement et laisse dans l'ombre les droits qu'il finance. La gauche et les syndicats lui opposent « cotisations », qui souligne la contrepartie en prestations.",
+  "concurrents": [
+   "cotisations sociales",
+   "salaire socialisé"
+  ],
+  "notions": [
+   "allegements-de-cotisations",
+   "prime-de-partage-de-la-valeur"
+  ],
+  "motifs": [
+   "charges sociales",
+   "charges salariales",
+   "baisser les charges",
+   "sans charges",
+   "ni charge",
+   "impôts et de charges",
+   "Zéro Charge"
+  ]
+ },
+ {
+  "id": "cout-du-travail",
+  "terme": "Coût du travail",
+  "variantes": [
+   "coût salarial"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Le coût du travail est ce que l'emploi d'un salarié coûte à l'employeur : salaire brut, cotisations patronales et taxes sur les salaires. Il sert à comparer la compétitivité des pays et à évaluer l'effet des allègements de cotisations sur l'emploi.",
+  "usage": "L'expression est surtout employée par Les Républicains, qui proposent une « baisse durable du coût du travail dès la première heure travaillée ». Elle cadre le salaire comme une dépense de l'entreprise ; la gauche lui préfère « rémunération » ou parle du « coût du capital » pour désigner les dividendes et les intérêts.",
+  "concurrents": [
+   "rémunération",
+   "coût du capital"
+  ],
+  "notions": [
+   "allegements-de-cotisations",
+   "impots-de-production"
+  ],
+  "motifs": [
+   "coût du travail"
+  ]
+ },
+ {
+  "id": "zero-charge",
+  "terme": "« Zéro charge » et « zéro cotisation »",
+  "variantes": [
+   "Prime Zéro Charge",
+   "sans charges ni impôts",
+   "ni charge ni impôt"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Ces formules désignent des sommes versées au salarié sans cotisations sociales ni impôt sur le revenu : primes, heures supplémentaires ou partie du salaire sous un certain seuil.",
+  "usage": "Elles sont employées par Les Républicains (« zéro cotisation », « ni charge ni impôt »), Reconquête (« Prime Zéro Charge ») et Renaissance (prime « sans charges ni impôts »). Elles mettent en avant le gain immédiat pour le salarié ; leurs critiques soulignent que ces sommes n'ouvrent pas de droits à la retraite et privent la Sécurité sociale de recettes.",
+  "concurrents": [
+   "exonération",
+   "niche sociale",
+   "salaire différé"
+  ],
+  "notions": [
+   "heures-supplementaires",
+   "prime-de-partage-de-la-valeur",
+   "allegements-de-cotisations"
+  ],
+  "motifs": [
+   "zéro charge",
+   "Zéro Charge",
+   "zéro cotisation",
+   "sans charges ni impôts",
+   "ni charge ni impôt"
+  ]
+ },
+ {
+  "id": "travail-gagnant",
+  "terme": "« Travail gagnant » et « que le travail paie »",
+  "variantes": [
+   "valeur travail",
+   "France qui travaille"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Ces formules expriment l'idée que le revenu tiré du travail doit être nettement supérieur à celui des prestations sociales, et qu'un effort supplémentaire doit se traduire par un gain visible.",
+  "usage": "« Travail gagnant » est le titre d'un document des Républicains, cité dans leur programme. L'idée de « valeur travail » est fréquente dans le débat public, surtout à droite et au centre. Leurs critiques estiment que ces formules opposent travailleurs et allocataires ; la gauche leur oppose la hausse des salaires et la « dignité » des minima sociaux.",
+  "concurrents": [
+   "revenu décent",
+   "garantie dignité"
+  ],
+  "notions": [
+   "allegements-de-cotisations",
+   "heures-supplementaires",
+   "smic"
+  ],
+  "motifs": [
+   "Travail gagnant",
+   "travail paie",
+   "valeur travail",
+   "France qui travaille"
+  ]
+ },
+ {
+  "id": "smicardisation",
+  "terme": "Smicardisation",
+  "variantes": [
+   "trappe à bas salaires",
+   "tassement des salaires"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Le terme désigne la hausse de la part des salariés payés au voisinage du SMIC, liée à des revalorisations du SMIC plus rapides que celles des autres salaires. La « trappe à bas salaires » désigne l'effet attribué aux allègements dégressifs de cotisations, qui rendent coûteuse pour l'employeur toute augmentation au-dessus du SMIC.",
+  "usage": "Ces termes, fréquents dans le débat économique et chez les partenaires sociaux, sont absents des programmes étudiés. Ils sont mobilisés aussi bien par ceux qui critiquent les allègements de cotisations que par ceux qui refusent une hausse forte du SMIC.",
+  "concurrents": [
+   "revalorisation du SMIC"
+  ],
+  "notions": [
+   "smic",
+   "allegements-de-cotisations"
+  ],
+  "motifs": [
+   "smicardisation",
+   "trappe à bas salaires",
+   "trappes à bas salaires"
+  ]
+ },
+ {
+  "id": "treizieme-mois",
+  "terme": "Treizième mois",
+  "variantes": [
+   "13e mois"
+  ],
+  "registre": "technique",
+  "theme": "pouvoir-achat",
+  "definition": "Le treizième mois est une prime annuelle égale à environ un mois de salaire, versée en fin d'année lorsque la convention collective, le contrat ou l'usage de l'entreprise le prévoit. Il n'est pas obligatoire en droit.",
+  "usage": "Reconquête l'emploie pour présenter un gain de salaire net allant « jusqu'à un 13ème mois supplémentaire » pour les revenus inférieurs à 2 000 euros, ce qui rend la mesure concrète et familière.",
+  "concurrents": [
+   "prime",
+   "hausse de salaire"
+  ],
+  "notions": [
+   "allegements-de-cotisations"
+  ],
+  "motifs": [
+   "13ème mois",
+   "treizième mois",
+   "13e mois"
+  ]
+ },
+ {
+  "id": "conferences-salariales",
+  "terme": "Conférences salariales et minima de branche",
+  "variantes": [
+   "minima conventionnels",
+   "grilles de rémunération"
+  ],
+  "registre": "administratif",
+  "theme": "pouvoir-achat",
+  "definition": "Les minima conventionnels sont les salaires minimaux fixés par les conventions collectives de chaque branche professionnelle pour chaque niveau de qualification. Une conférence salariale réunit l'État et les partenaires sociaux pour inciter les branches à renégocier ces grilles, notamment quand certains minima passent sous le SMIC.",
+  "usage": "Le PS propose des « conférences salariales dans tout le pays », visant d'abord les « métiers utiles », et les écologistes un relèvement des minima conventionnels. Le vocabulaire met l'accent sur la négociation collective plutôt que sur la loi ou les exonérations.",
+  "concurrents": [
+   "dialogue social",
+   "hausse du SMIC"
+  ],
+  "notions": [
+   "smic",
+   "indexation-des-salaires"
+  ],
+  "motifs": [
+   "conférences salariales",
+   "minima conventionnels",
+   "grilles de rémunération"
+  ]
+ },
+ {
+  "id": "metiers-utiles",
+  "terme": "« Métiers utiles »",
+  "variantes": [
+   "travailleurs essentiels",
+   "premières lignes"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'expression désigne les métiers jugés indispensables à la vie collective, souvent mal payés et pénibles : soin, nettoyage, commerce, logistique. Elle s'est répandue pendant la crise sanitaire de 2020 sous la forme « travailleurs de la première ligne ».",
+  "usage": "Le PS l'emploie pour cibler ses conférences salariales sur les métiers « marqués par la précarité et la pénibilité ». Elle oppose implicitement l'utilité sociale à la rémunération de marché.",
+  "concurrents": [
+   "bas salaires",
+   "métiers en tension"
+  ],
+  "notions": [
+   "smic"
+  ],
+  "motifs": [
+   "métiers utiles",
+   "travailleurs essentiels"
+  ]
+ },
+ {
+  "id": "vivre-dignement",
+  "terme": "« Vie digne » et « vivre décemment »",
+  "variantes": [
+   "garantie dignité",
+   "décence"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Ces expressions désignent un niveau de ressources ou d'accès aux biens essentiels permettant de mener une vie normale dans la société.",
+  "usage": "La France insoumise parle des quantités d'eau et d'électricité « indispensables à la vie digne » et le PS d'un SMIC permettant de « vivre décemment de son travail ». Le registre moral fonde la revendication sur un droit plutôt que sur un calcul économique.",
+  "concurrents": [
+   "reste à vivre",
+   "seuil de pauvreté"
+  ],
+  "notions": [
+   "tarification-progressive",
+   "smic"
+  ],
+  "motifs": [
+   "vie digne",
+   "vivre décemment"
+  ]
+ },
+ {
+  "id": "premiere-necessite",
+  "terme": "Produits de première nécessité",
+  "variantes": [
+   "biens essentiels",
+   "produits essentiels"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'expression désigne les biens indispensables à la vie courante, principalement l'alimentation de base, l'hygiène et l'énergie. Elle n'a pas de définition juridique générale, ce qui oblige à établir une liste pour toute mesure fiscale ou de prix.",
+  "usage": "Elle est employée par la France insoumise, les écologistes, le PS et le RN pour délimiter les produits qui bénéficieraient d'un blocage des prix ou d'une baisse ou suspension de TVA. Le flou du périmètre est au cœur des objections sur le coût et l'efficacité de ces mesures.",
+  "concurrents": [
+   "panier de consommation",
+   "dépenses contraintes"
+  ],
+  "notions": [
+   "blocage-des-prix",
+   "tva",
+   "bouclier-qualite-prix"
+  ],
+  "motifs": [
+   "première nécessité",
+   "biens essentiels",
+   "produits essentiels"
+  ]
+ },
+ {
+  "id": "precarite-energetique",
+  "terme": "Précarité énergétique",
+  "variantes": [
+   "situation de précarité",
+   "coupures d'énergie"
+  ],
+  "registre": "technique",
+  "theme": "pouvoir-achat",
+  "definition": "Un ménage est en précarité énergétique lorsqu'il a des difficultés à se procurer l'énergie nécessaire à ses besoins élémentaires, en raison de revenus faibles, d'un logement mal isolé ou de prix élevés. La loi Grenelle 2 de 2010 en a donné une définition légale. On l'approche notamment par la part des revenus consacrée à l'énergie et par le froid ressenti.",
+  "usage": "Le terme est employé par les écologistes et la France insoumise, qui proposent un crédit d'impôt automatique, l'interdiction des coupures ou la réduction de puissance. Il insiste sur la vulnérabilité des ménages plutôt que sur le prix de l'énergie seul.",
+  "concurrents": [
+   "pauvreté",
+   "passoire thermique"
+  ],
+  "notions": [
+   "cheque-energie",
+   "tarification-progressive"
+  ],
+  "motifs": [
+   "précarité énergétique",
+   "situation de précarité",
+   "coupures d'électricité"
+  ]
+ },
+ {
+  "id": "tarif-reglemente",
+  "terme": "Tarif réglementé",
+  "variantes": [
+   "tarif régulé",
+   "tarif bleu"
+  ],
+  "registre": "administratif",
+  "theme": "pouvoir-achat",
+  "definition": "Un tarif réglementé est un prix fixé ou encadré par les pouvoirs publics plutôt que par le marché. Pour l'électricité, le tarif réglementé de vente, proposé par EDF et des entreprises locales, est fixé sur proposition de la Commission de régulation de l'énergie. Les tarifs réglementés du gaz ont été supprimés en 2023.",
+  "usage": "Reconquête propose un « tarif régulé pour l'électricité nucléaire » en remplacement de l'ARENH, et la France insoumise un retour sur la libéralisation du marché. Le terme est valorisé par ceux qui veulent protéger les consommateurs du marché, et critiqué par ceux qui y voient un frein à la concurrence.",
+  "concurrents": [
+   "prix de marché",
+   "offre de marché"
+  ],
+  "notions": [
+   "prix-de-l-electricite"
+  ],
+  "motifs": [
+   "tarif régulé",
+   "tarifs réglementés",
+   "tarif réglementé"
+  ]
+ },
+ {
+  "id": "prix-de-marche",
+  "terme": "Prix de marché et volatilité",
+  "variantes": [
+   "prix marginal",
+   "merit order"
+  ],
+  "registre": "économique",
+  "theme": "pouvoir-achat",
+  "definition": "Sur le marché de l'électricité, le prix de gros est fixé par le coût de la dernière centrale appelée pour satisfaire la demande, selon un ordre de mérite des moyens de production. Ce mécanisme rend le prix très sensible aux variations du prix du gaz et donc volatil.",
+  "usage": "Le PS oppose le « coût de production » de l'électricité nucléaire et renouvelable à « un prix de marché très volatile et soumis aux aléas géopolitiques ». Ce vocabulaire présente le marché comme une source d'instabilité ; ses défenseurs y voient un outil d'optimisation du système électrique européen.",
+  "concurrents": [
+   "coût de production",
+   "tarif régulé"
+  ],
+  "notions": [
+   "prix-de-l-electricite"
+  ],
+  "motifs": [
+   "prix de marché",
+   "volatilité des prix"
+  ]
+ },
+ {
+  "id": "taxe-sur-la-taxe",
+  "terme": "« Taxe sur la taxe »",
+  "variantes": [
+   "TVA sur les taxes"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'expression désigne le fait que la TVA s'applique sur un prix qui inclut déjà d'autres taxes, comme l'accise sur l'électricité ou sur les carburants. Ce mécanisme est conforme aux règles européennes de la TVA, qui s'appliquent sur le prix de vente total.",
+  "usage": "Les Républicains proposent « la suppression de la TVA sur les taxes pesant sur l'électricité ». L'expression souligne le cumul des prélèvements et vise à le rendre choquant pour le consommateur.",
+  "concurrents": [
+   "fiscalité de l'énergie"
+  ],
+  "notions": [
+   "tva",
+   "accise-sur-l-electricite"
+  ],
+  "motifs": [
+   "TVA sur les taxes",
+   "taxe sur la taxe"
+  ]
+ },
+ {
+  "id": "taxe-macron",
+  "terme": "« Taxe Macron »",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'expression figure dans le contrat de législature du Nouveau Front populaire de 2024, repris par la France insoumise, qui propose d'abolir « la taxe Macron de 10 % sur les factures d'énergie ». Le programme ne précise pas l'impôt visé. L'expression ne correspond pas à l'intitulé officiel d'un impôt.",
+  "usage": "Le procédé consiste à associer un prélèvement au nom d'un responsable politique pour en attribuer la responsabilité. Il est symétrique de la « prime Macron », expression d'abord populaire reprise par Renaissance pour valoriser une mesure.",
+  "concurrents": [
+   "hausse des taxes sur l'énergie"
+  ],
+  "notions": [
+   "prix-de-l-electricite",
+   "accise-sur-l-electricite"
+  ],
+  "motifs": [
+   "taxe Macron"
+  ]
+ },
+ {
+  "id": "prime-macron",
+  "terme": "« Prime Macron »",
+  "variantes": [
+   "prime de partage de la valeur"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Nom courant de la prime exceptionnelle de pouvoir d'achat créée fin 2018, devenue en 2022 la prime de partage de la valeur.",
+  "usage": "Renaissance reprend à son compte le surnom (prime dite « Macron ») pour associer la mesure au président sortant. Ses critiques préfèrent parler de prime défiscalisée ou de substitut aux hausses de salaires.",
+  "concurrents": [
+   "prime de partage de la valeur",
+   "hausse de salaire"
+  ],
+  "notions": [
+   "prime-de-partage-de-la-valeur"
+  ],
+  "motifs": [
+   "prime « Macron »",
+   "prime dite"
+  ]
+ },
+ {
+  "id": "partage-de-la-valeur",
+  "terme": "« Partage de la valeur » et « partage des profits »",
+  "variantes": [
+   "partage des profits",
+   "valeur ajoutée"
+  ],
+  "registre": "économique",
+  "theme": "pouvoir-achat",
+  "definition": "Le partage de la valeur désigne la répartition de la richesse produite par une entreprise, sa valeur ajoutée, entre les salaires, les profits des actionnaires, l'investissement et les impôts. En France, la part des salaires dans la valeur ajoutée est restée relativement stable depuis la fin des années 1980.",
+  "usage": "Renaissance parle de « partage des profits » à propos de la prime, de la participation et de l'intéressement ; les écologistes parlent d'un « juste partage de la valeur ajoutée » dans les filières agricoles. La gauche lui préfère souvent l'opposition entre salaires et dividendes.",
+  "concurrents": [
+   "dividendes",
+   "hausse des salaires"
+  ],
+  "notions": [
+   "partage-de-la-valeur",
+   "prime-de-partage-de-la-valeur"
+  ],
+  "motifs": [
+   "partage des profits",
+   "partage de la valeur ajoutée"
+  ]
+ },
+ {
+  "id": "dividendes",
+  "terme": "Dividendes",
+  "variantes": [
+   "superdividendes"
+  ],
+  "registre": "économique",
+  "theme": "pouvoir-achat",
+  "definition": "Les dividendes sont la part des bénéfices d'une entreprise distribuée à ses actionnaires. Ils sont imposés au prélèvement forfaitaire unique ou, sur option, au barème de l'impôt sur le revenu, après l'impôt sur les sociétés payé par l'entreprise.",
+  "usage": "La France insoumise propose de les soumettre à cotisation, d'en pénaliser le versement et de l'interdire dans certaines entreprises ; le RN propose une taxe sur les « superdividendes » ; Renaissance conditionne leur versement à un dispositif de partage des profits. Le mot sert, à gauche, de contrepoint aux salaires.",
+  "concurrents": [
+   "rémunération du capital",
+   "revenus du capital"
+  ],
+  "notions": [
+   "flat-tax",
+   "taxe-sur-les-superprofits",
+   "partage-de-la-valeur"
+  ],
+  "motifs": [
+   "dividendes",
+   "superdividendes"
+  ]
+ },
+ {
+  "id": "rachat-d-actions",
+  "terme": "Rachat d'actions",
+  "variantes": [
+   "buyback"
+  ],
+  "registre": "économique",
+  "theme": "pouvoir-achat",
+  "definition": "Le rachat d'actions est l'opération par laquelle une entreprise achète ses propres titres sur le marché, ce qui réduit le nombre d'actions en circulation et augmente la valeur de chacune. C'est une forme de rémunération des actionnaires alternative aux dividendes.",
+  "usage": "Le RN propose une « taxe sur les rachats d'action », la France insoumise de les soumettre à cotisation et les écologistes de dissuader cette pratique par la modulation de l'impôt. Ses défenseurs y voient une gestion normale de la trésorerie, ses critiques un détournement des profits au détriment de l'investissement et des salaires.",
+  "concurrents": [
+   "réinvestissement",
+   "dividendes"
+  ],
+  "notions": [
+   "impot-sur-les-societes",
+   "taxe-sur-les-superprofits"
+  ],
+  "motifs": [
+   "rachat d'actions",
+   "rachats d'action",
+   "rachat d'action",
+   "rachats d'actions"
+  ]
+ },
+ {
+  "id": "superprofits",
+  "terme": "« Superprofits »",
+  "variantes": [
+   "super-profits",
+   "profits exceptionnels"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Le mot désigne des bénéfices jugés anormalement élevés, souvent liés à une crise qui fait monter les prix. Il n'a pas de définition juridique ; les textes européens de 2022 parlaient de « bénéfices excédentaires ».",
+  "usage": "Employé par les écologistes, la France insoumise et le PS, le terme suggère que ces profits ne résultent pas d'un effort de l'entreprise et appellent une contribution. Le gouvernement et la droite lui préfèrent « profits exceptionnels » ou contestent la notion ; le RN emploie un terme voisin, « superdividendes ».",
+  "concurrents": [
+   "bénéfices exceptionnels",
+   "rente"
+  ],
+  "notions": [
+   "taxe-sur-les-superprofits"
+  ],
+  "motifs": [
+   "superprofits",
+   "super-profits",
+   "superdividendes",
+   "profits exceptionnels"
+  ]
+ },
+ {
+  "id": "profiteurs-de-guerre",
+  "terme": "« Profiteurs de guerre »",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'expression, d'origine ancienne, désigne ceux qui s'enrichissent à la faveur d'un conflit, notamment par la hausse des prix des matières premières ou des armes.",
+  "usage": "Le PS l'emploie à propos d'une taxation automatique des superprofits. Elle charge moralement la notion de profit exceptionnel en la rattachant au contexte de la guerre en Ukraine.",
+  "concurrents": [
+   "superprofits",
+   "bénéfices exceptionnels"
+  ],
+  "notions": [
+   "taxe-sur-les-superprofits"
+  ],
+  "motifs": [
+   "profiteurs de guerre"
+  ]
+ },
+ {
+  "id": "ultrariches",
+  "terme": "« Ultrariches » et « plus riches »",
+  "variantes": [
+   "très hauts patrimoines",
+   "1 % les plus riches"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Ces expressions désignent les ménages situés au sommet de la distribution des revenus ou des patrimoines, souvent le 1 % ou le 0,1 % le plus aisé, voire les quelques centaines de foyers possédant plus de 100 millions d'euros.",
+  "usage": "La France insoumise, le PS et les écologistes les emploient pour cibler les hausses d'impôt et affirmer qu'elles épargneront la majorité. La droite parle plutôt de « contribuables » ou d'« entrepreneurs » et met en garde contre l'exil fiscal.",
+  "concurrents": [
+   "contribuables aisés",
+   "créateurs de richesse"
+  ],
+  "notions": [
+   "taxe-zucman",
+   "isf",
+   "droits-de-succession"
+  ],
+  "motifs": [
+   "ultrariches",
+   "ultra-riches",
+   "plus riches",
+   "très hauts patrimoines",
+   "plus hauts patrimoines"
+  ]
+ },
+ {
+  "id": "classes-moyennes",
+  "terme": "Classes moyennes",
+  "variantes": [
+   "classe moyenne",
+   "familles modestes"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'expression désigne les ménages dont les revenus se situent entre les plus modestes et les plus aisés. Elle n'a pas de définition statistique unique : selon les conventions, elle couvre la moitié ou davantage de la population.",
+  "usage": "Le RN l'associe aux « familles modestes » pour délimiter sa suppression des droits de succession ; le PS et les écologistes l'emploient pour cibler des aides à la mobilité ou au logement. Son flou permet à chaque parti de la revendiquer comme cible principale.",
+  "concurrents": [
+   "ménages modestes",
+   "France qui travaille"
+  ],
+  "notions": [
+   "droits-de-succession"
+  ],
+  "motifs": [
+   "classes moyennes",
+   "classe moyenne"
+  ]
+ },
+ {
+  "id": "modestes",
+  "terme": "Ménages et travailleurs modestes",
+  "variantes": [
+   "familles modestes",
+   "petits revenus"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'adjectif désigne des personnes aux revenus faibles sans les qualifier de pauvres. Les statistiques publiques utilisent plutôt les déciles de niveau de vie.",
+  "usage": "Le terme est partagé par presque tous les partis. Reconquête parle de « travailleurs modestes » pour sa baisse de la CSG, le RN de « familles modestes » pour les successions, le PS de « ménages modestes » pour le logement. Son caractère consensuel en fait un marqueur de ciblage.",
+  "concurrents": [
+   "précaires",
+   "classes populaires"
+  ],
+  "notions": [
+   "csg",
+   "droits-de-succession"
+  ],
+  "motifs": [
+   "modestes"
+  ]
+ },
+ {
+  "id": "justice-fiscale",
+  "terme": "« Justice fiscale »",
+  "variantes": [
+   "équité fiscale"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'expression désigne une répartition de l'impôt jugée équitable, généralement entendue comme une contribution proportionnée aux capacités de chacun, selon l'article 13 de la Déclaration des droits de l'homme et du citoyen de 1789.",
+  "usage": "La France insoumise l'emploie pour présenter le rétablissement de l'ISF et l'« héritage maximum » ; le PS dénonce une « impasse injuste » favorable aux héritiers. La droite revendique plutôt l'« équité » envers ceux qui paient déjà beaucoup d'impôts ou la « stabilité fiscale ».",
+  "concurrents": [
+   "équité fiscale",
+   "pression fiscale"
+  ],
+  "notions": [
+   "isf",
+   "taxe-zucman",
+   "droits-de-succession",
+   "niches-fiscales"
+  ],
+  "motifs": [
+   "justice fiscale",
+   "impasse injuste"
+  ]
+ },
+ {
+  "id": "cadeaux-fiscaux",
+  "terme": "« Cadeaux fiscaux »",
+  "variantes": [
+   "cadeaux aux riches"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'expression désigne des baisses d'impôt ou des exonérations accordées à certains contribuables, présentées comme injustifiées.",
+  "usage": "La France insoumise l'emploie pour viser les avantages accordés « sans contrepartie aux plus grandes entreprises ces dix dernières années ». Le mot transforme une politique fiscale en libéralité ; ses défenseurs parlent d'« allègements », de « baisses d'impôt » ou de « politique de l'offre ».",
+  "concurrents": [
+   "allègements fiscaux",
+   "baisses d'impôt",
+   "politique de l'offre"
+  ],
+  "notions": [
+   "niches-fiscales",
+   "isf",
+   "impots-de-production"
+  ],
+  "motifs": [
+   "cadeaux fiscaux"
+  ]
+ },
+ {
+  "id": "contreparties",
+  "terme": "Conditionnalité et contreparties des aides",
+  "variantes": [
+   "sans contrepartie",
+   "conditionner les aides"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "La conditionnalité consiste à subordonner une aide publique ou une exonération à des engagements de l'entreprise : maintien de l'emploi, hausse des salaires, limitation des écarts de rémunération ou des dividendes.",
+  "usage": "Les écologistes et la France insoumise l'emploient pour critiquer les aides accordées « sans contrepartie » et proposent de conditionner exonérations et aides publiques. Le RN l'utilise aussi, dans un autre sens, pour exiger un engagement de détention en échange de l'exonération des transmissions d'entreprises.",
+  "concurrents": [
+   "aides publiques",
+   "soutien aux entreprises"
+  ],
+  "notions": [
+   "allegements-de-cotisations",
+   "salaire-maximum",
+   "pacte-dutreil"
+  ],
+  "motifs": [
+   "sans contrepartie",
+   "conditionnant les exonérations",
+   "conditionnant toute aide publique",
+   "nonrespect des contreparties",
+   "en contrepartie d'un engagement"
+  ]
+ },
+ {
+  "id": "assistanat",
+  "terme": "« Assistanat »",
+  "variantes": [
+   "assistés"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Le mot désigne de façon péjorative la dépendance supposée de certaines personnes aux aides sociales.",
+  "usage": "Popularisé dans le débat par une partie de la droite, notamment en 2011, il est absent des programmes étudiés sur ce thème. On en retrouve l'idée dans l'opposition entre revenus du travail et prestations ; la gauche lui oppose « solidarité » ou « droits sociaux ».",
+  "concurrents": [
+   "solidarité",
+   "protection sociale",
+   "minima sociaux"
+  ],
+  "notions": [],
+  "motifs": [
+   "assistanat"
+  ]
+ },
+ {
+  "id": "ruissellement",
+  "terme": "« Ruissellement »",
+  "variantes": [
+   "théorie du ruissellement",
+   "premiers de cordée"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Le terme désigne l'idée que les baisses d'impôt accordées aux plus riches et aux entreprises profiteraient à terme à l'ensemble de la population par l'investissement et l'emploi.",
+  "usage": "Employé surtout par ses critiques, à gauche, pour désigner la politique fiscale menée depuis 2017, il est absent des programmes étudiés. Ses défenseurs parlent plutôt de « politique de l'offre », d'« attractivité » ou de « premiers de cordée ».",
+  "concurrents": [
+   "politique de l'offre",
+   "attractivité",
+   "compétitivité"
+  ],
+  "notions": [
+   "isf",
+   "flat-tax",
+   "impots-de-production"
+  ],
+  "motifs": [
+   "ruissellement",
+   "premiers de cordée"
+  ]
+ },
+ {
+  "id": "matraquage-fiscal",
+  "terme": "« Matraquage fiscal »",
+  "variantes": [
+   "ras-le-bol fiscal",
+   "enfer fiscal",
+   "pression fiscale"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Ces expressions désignent un niveau d'imposition jugé excessif. La France figure parmi les pays de l'OCDE où le taux de prélèvements obligatoires est le plus élevé.",
+  "usage": "Courantes à droite et à l'extrême droite dans le débat public, ces formules sont absentes des programmes étudiés, qui parlent plutôt d'impôt « nocif » ou « pénalisant ». La gauche répond par le financement des services publics et la « justice fiscale ».",
+  "concurrents": [
+   "justice fiscale",
+   "consentement à l'impôt"
+  ],
+  "notions": [
+   "impots-de-production"
+  ],
+  "motifs": [
+   "matraquage fiscal",
+   "ras-le-bol fiscal",
+   "enfer fiscal",
+   "pression fiscale"
+  ]
+ },
+ {
+  "id": "impot-penalisant",
+  "terme": "Impôt « nocif » ou « pénalisant »",
+  "variantes": [
+   "impôt de production pénalisant"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Ces qualificatifs désignent des impôts jugés néfastes pour l'activité économique, en particulier ceux qui frappent les entreprises indépendamment de leurs bénéfices.",
+  "usage": "Les Républicains qualifient la C3S d'« impôt particulièrement nocif » et la CVAE d'« impôt pénalisant l'investissement ». Le vocabulaire médical ou punitif présente la suppression comme une évidence ; ses défenseurs y voient des ressources des collectivités et de la Sécurité sociale.",
+  "concurrents": [
+   "ressource fiscale",
+   "impôt local"
+  ],
+  "notions": [
+   "impots-de-production",
+   "cvae",
+   "c3s"
+  ],
+  "motifs": [
+   "impôt particulièrement nocif",
+   "impôt pénalisant",
+   "impôts les plus pénalisants"
+  ]
+ },
+ {
+  "id": "ecologie-punitive",
+  "terme": "« Écologie punitive »",
+  "variantes": [
+   "taxes vertes"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'expression désigne des politiques environnementales fondées sur des taxes, des malus ou des interdictions, présentées comme pénalisant les ménages.",
+  "usage": "Employée par la droite et l'extrême droite, mais aussi par certains responsables du centre, elle est absente des programmes étudiés sur ce thème, même si le RN y propose de supprimer la hausse du malus. Les écologistes lui opposent « justice climatique » et « fiscalité écologique juste ».",
+  "concurrents": [
+   "fiscalité écologique",
+   "transition juste"
+  ],
+  "notions": [
+   "fiscalite-ecologique",
+   "fiscalite-des-carburants"
+  ],
+  "motifs": [
+   "écologie punitive"
+  ]
+ },
+ {
+  "id": "pacte-fiscal-vert",
+  "terme": "« Pacte fiscal vert »",
+  "variantes": [
+   "prospérité écologique"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Nom donné par les Écologistes à une loi de programmation des finances publiques pour 2027-2032 qui articulerait transition écologique, engagements européens et services publics.",
+  "usage": "Le mot « pacte » présente la fiscalité comme un engagement réciproque et pluriannuel, en réponse à l'accusation d'écologie punitive. Il est propre aux Écologistes.",
+  "concurrents": [
+   "loi de programmation des finances publiques"
+  ],
+  "notions": [
+   "fiscalite-ecologique",
+   "regle-d-or-budgetaire"
+  ],
+  "motifs": [
+   "pacte fiscal vert"
+  ]
+ },
+ {
+  "id": "tva-grand-luxe",
+  "terme": "« TVA grand luxe »",
+  "variantes": [
+   "TVA sur les produits de luxe"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Proposition d'un taux de TVA majoré sur les produits de luxe. Un taux majoré de ce type a existé en France jusqu'en 1992 ; le droit européen n'autorise plus aujourd'hui qu'un seul taux normal.",
+  "usage": "La France insoumise l'emploie pour financer la baisse de la TVA sur les produits de première nécessité ; les écologistes proposent aussi de relever la TVA sur les produits de luxe. La formule associe redistribution et consommation ostentatoire.",
+  "concurrents": [
+   "taux normal",
+   "TVA sociale"
+  ],
+  "notions": [
+   "tva"
+  ],
+  "motifs": [
+   "TVA grand luxe",
+   "produits de luxe"
+  ]
+ },
+ {
+  "id": "heritage-maximum",
+  "terme": "« Héritage maximum » et « revenu maximum autorisé »",
+  "variantes": [
+   "salaire maximum"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Propositions de la France insoumise visant à plafonner le montant qu'une personne peut hériter, fixé à 12 millions d'euros, et le revenu annuel, fixé à 20 fois le revenu médian.",
+  "usage": "Le vocabulaire de la limite, plutôt que celui de l'impôt, assume un objectif de réduction des inégalités par plafonnement. Ses opposants y voient une confiscation et une atteinte au droit de propriété.",
+  "concurrents": [
+   "droits de succession",
+   "fruit de son travail"
+  ],
+  "notions": [
+   "droits-de-succession",
+   "salaire-maximum"
+  ],
+  "motifs": [
+   "héritage maximum",
+   "revenu maximum autorisé",
+   "salaire maximum autorisé"
+  ]
+ },
+ {
+  "id": "fruit-de-son-travail",
+  "terme": "« Transmettre le fruit de son travail »",
+  "variantes": [
+   "choc de transmission"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Formule qui présente l'héritage comme le prolongement de l'effort d'une vie, que les parents doivent pouvoir transmettre à leurs enfants sans être taxés.",
+  "usage": "Renaissance l'emploie pour sa hausse des abattements sur les successions ; Les Républicains parlent d'un « choc de transmission » en faveur des jeunes. La gauche lui oppose l'idée que l'héritage est un revenu non gagné qui reproduit les inégalités.",
+  "concurrents": [
+   "héritage maximum",
+   "justice fiscale",
+   "rente"
+  ],
+  "notions": [
+   "droits-de-succession"
+  ],
+  "motifs": [
+   "fruit de son travail",
+   "choc de transmission"
+  ]
+ },
+ {
+  "id": "transmission-du-patrimoine",
+  "terme": "Transmission du patrimoine et des entreprises",
+  "variantes": [
+   "transmission familiale"
+  ],
+  "registre": "juridique",
+  "theme": "pouvoir-achat",
+  "definition": "La transmission désigne le passage d'un patrimoine ou d'une entreprise d'une génération à l'autre, par succession ou par donation. Elle est soumise aux droits de mutation à titre gratuit, avec des régimes spécifiques pour les entreprises.",
+  "usage": "Le terme est privilégié par la droite, Renaissance, Reconquête et le RN, qui parlent de « transmission » plutôt que d'« héritage ». Il met l'accent sur la continuité familiale et économique, quand « héritage » souligne l'enrichissement de l'héritier.",
+  "concurrents": [
+   "héritage",
+   "succession"
+  ],
+  "notions": [
+   "droits-de-succession",
+   "pacte-dutreil"
+  ],
+  "motifs": [
+   "transmission du patrimoine",
+   "transmissions de TPE",
+   "transmission des entreprises",
+   "Transmettre le fruit",
+   "date de la transmission"
+  ]
+ },
+ {
+  "id": "heritiers",
+  "terme": "Héritiers",
+  "variantes": [
+   "société d'héritiers"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Personnes qui reçoivent un patrimoine par succession. L'expression « société d'héritiers » est employée par des économistes pour décrire la part croissante du patrimoine hérité dans le patrimoine total.",
+  "usage": "Le PS dénonce une « impasse injuste qui favorise les héritiers ou les retraités aisés ». Le mot oppose la richesse reçue à celle gagnée par le travail ; la droite parle plutôt de familles et de transmission.",
+  "concurrents": [
+   "transmission",
+   "familles"
+  ],
+  "notions": [
+   "droits-de-succession"
+  ],
+  "motifs": [
+   "favorise les héritiers",
+   "société d'héritiers"
+  ]
+ },
+ {
+  "id": "assiette",
+  "terme": "Assiette",
+  "variantes": [
+   "base imposable"
+  ],
+  "registre": "technique",
+  "theme": "pouvoir-achat",
+  "definition": "L'assiette est la base sur laquelle un impôt est calculé : revenu, chiffre d'affaires, valeur d'un bien, quantité consommée. Le montant de l'impôt dépend de l'assiette et du taux ; élargir l'assiette en supprimant des exonérations permet d'augmenter les recettes sans relever le taux.",
+  "usage": "Le terme est technique et rarement utilisé dans les programmes ; le RN l'emploie pour exclure 300 000 euros de biens immobiliers de l'assiette des droits de succession.",
+  "concurrents": [
+   "base imposable"
+  ],
+  "notions": [
+   "droits-de-succession",
+   "niches-fiscales"
+  ],
+  "motifs": [
+   "assiette"
+  ]
+ },
+ {
+  "id": "tranche-et-taux-marginal",
+  "terme": "Tranche et taux marginal d'imposition",
+  "variantes": [
+   "tranche d'imposition",
+   "taux marginal"
+  ],
+  "registre": "technique",
+  "theme": "pouvoir-achat",
+  "definition": "Une tranche est une fraction du revenu imposée à un taux donné. Le taux marginal est le taux de la dernière tranche atteinte : il ne s'applique qu'à la part du revenu qui la dépasse, et non à l'ensemble. Le taux moyen, rapport entre l'impôt total et le revenu, est donc toujours inférieur au taux marginal.",
+  "usage": "Les écologistes et la France insoumise proposent d'ajouter des tranches, jusqu'à 14 pour cette dernière, ou une tranche à 60 %. La confusion entre taux marginal et taux moyen est fréquente dans le débat public.",
+  "concurrents": [
+   "taux moyen",
+   "taux effectif"
+  ],
+  "notions": [
+   "impot-sur-le-revenu"
+  ],
+  "motifs": [
+   "deux tranches",
+   "14 tranches",
+   "tranches les plus basses",
+   "nouvelle tranche",
+   "taux marginal"
+  ]
+ },
+ {
+  "id": "progressivite",
+  "terme": "Progressivité",
+  "variantes": [
+   "impôt progressif",
+   "proportionnalité"
+  ],
+  "registre": "économique",
+  "theme": "pouvoir-achat",
+  "definition": "Un impôt est progressif lorsque son taux augmente avec la base imposée, comme l'impôt sur le revenu ou les droits de succession. Il est proportionnel lorsque le taux est le même pour tous, comme la CSG ou la flat tax, et dégressif lorsque son poids diminue relativement avec le revenu, ce qu'on reproche souvent à la TVA.",
+  "usage": "Le terme est central dans les programmes de gauche et écologistes, qui veulent rendre progressifs la CSG, l'impôt sur les sociétés ou l'héritage. La droite insiste plutôt sur la concentration de l'impôt sur le revenu sur une minorité de foyers.",
+  "concurrents": [
+   "flat tax",
+   "proportionnalité"
+  ],
+  "notions": [
+   "impot-sur-le-revenu",
+   "csg",
+   "droits-de-succession",
+   "impot-sur-les-societes"
+  ],
+  "motifs": [
+   "progressivité",
+   "plus progressif",
+   "rendre la CSG progressive",
+   "rendant progressive",
+   "Rendre progressif",
+   "progressif unique"
+  ]
+ },
+ {
+  "id": "bareme",
+  "terme": "Barème",
+  "variantes": [
+   "barème progressif",
+   "barème kilométrique"
+  ],
+  "registre": "technique",
+  "theme": "pouvoir-achat",
+  "definition": "Un barème est une grille qui associe des taux ou des montants à des niveaux de revenu, de patrimoine ou de distance. Le barème de l'impôt sur le revenu est voté chaque année en loi de finances ; le barème kilométrique fixe les frais de transport déductibles.",
+  "usage": "Le RN propose d'indexer le barème de l'impôt sur l'inflation, les écologistes de créer un barème progressif unique et de réformer les barèmes kilométriques.",
+  "concurrents": [
+   "tranches"
+  ],
+  "notions": [
+   "impot-sur-le-revenu"
+  ],
+  "motifs": [
+   "barème de l'IR",
+   "barème de taxation",
+   "barèmes kilométriques",
+   "barème unique"
+  ]
+ },
+ {
+  "id": "abattement",
+  "terme": "Abattement",
+  "variantes": [
+   "abattement forfaitaire"
+  ],
+  "registre": "juridique",
+  "theme": "pouvoir-achat",
+  "definition": "Un abattement est une somme ou un pourcentage déduit de la base imposable avant le calcul de l'impôt. Exemples : l'abattement de 10 % sur les pensions de retraite, celui de 100 000 euros par enfant sur les successions, ou l'abattement du pacte Dutreil.",
+  "usage": "Les écologistes proposent de supprimer l'abattement de 10 % des retraités et de plafonner l'abattement Dutreil ; le RN veut au contraire conserver celui des retraités. Le terme technique masque souvent des enjeux de répartition importants.",
+  "concurrents": [
+   "niche fiscale",
+   "exonération"
+  ],
+  "notions": [
+   "niches-fiscales",
+   "pacte-dutreil",
+   "droits-de-succession"
+  ],
+  "motifs": [
+   "abattement*"
+  ]
+ },
+ {
+  "id": "exoneration",
+  "terme": "Exonération",
+  "variantes": [
+   "exonérer"
+  ],
+  "registre": "juridique",
+  "theme": "pouvoir-achat",
+  "definition": "Une exonération dispense totalement ou partiellement un revenu, un bien ou une personne d'un impôt ou d'une cotisation. Les exonérations de cotisations sociales doivent en principe être compensées par l'État à la Sécurité sociale.",
+  "usage": "Le mot est le plus fréquent du thème dans les programmes de droite et d'extrême droite, qui l'utilisent pour les heures supplémentaires, les primes, les jeunes ou les donations. La gauche parle plus volontiers de « niches » ou de « cadeaux » pour désigner les mêmes mécanismes.",
+  "concurrents": [
+   "niche fiscale",
+   "cadeaux fiscaux"
+  ],
+  "notions": [
+   "allegements-de-cotisations",
+   "heures-supplementaires",
+   "niches-fiscales"
+  ],
+  "motifs": [
+   "exonér*"
+  ]
+ },
+ {
+  "id": "defiscalisation",
+  "terme": "Défiscalisation",
+  "variantes": [
+   "défiscaliser"
+  ],
+  "registre": "technique",
+  "theme": "pouvoir-achat",
+  "definition": "La défiscalisation consiste à exonérer d'impôt un revenu ou à réduire l'impôt en échange d'un investissement ou d'une dépense. Le mot désigne aussi, dans le langage courant, les placements qui permettent de payer moins d'impôt.",
+  "usage": "Les Républicains et Reconquête l'emploient pour les heures supplémentaires et les primes ; les écologistes et LR proposent tous deux de défiscaliser les pensions alimentaires. Le terme présente l'impôt comme un obstacle à lever.",
+  "concurrents": [
+   "exonération",
+   "niche fiscale"
+  ],
+  "notions": [
+   "heures-supplementaires",
+   "partage-de-la-valeur",
+   "niches-fiscales"
+  ],
+  "motifs": [
+   "défiscalis*"
+  ]
+ },
+ {
+  "id": "credit-d-impot",
+  "terme": "Crédit d'impôt",
+  "variantes": [
+   "réduction d'impôt"
+  ],
+  "registre": "technique",
+  "theme": "pouvoir-achat",
+  "definition": "Un crédit d'impôt est une somme déduite de l'impôt dû ; s'il dépasse l'impôt, l'excédent est remboursé, ce qui le distingue de la réduction d'impôt, qui ne bénéficie qu'aux contribuables imposables. Le crédit d'impôt pour l'emploi à domicile ou le crédit d'impôt recherche en sont des exemples.",
+  "usage": "Les écologistes l'utilisent pour remplacer le chèque énergie ou soutenir l'achat de vélos électriques, LR pour l'investissement local et la recherche. Il permet de cibler une aide via l'administration fiscale.",
+  "concurrents": [
+   "subvention",
+   "chèque"
+  ],
+  "notions": [
+   "credit-d-impot-recherche",
+   "cheque-energie",
+   "niches-fiscales"
+  ],
+  "motifs": [
+   "crédit d'impôt",
+   "crédits d'impôt"
+  ]
+ },
+ {
+  "id": "depense-fiscale",
+  "terme": "Dépense fiscale",
+  "variantes": [
+   "niche fiscale"
+  ],
+  "registre": "administratif",
+  "theme": "pouvoir-achat",
+  "definition": "Terme officiel qui désigne une disposition fiscale dérogatoire entraînant une perte de recettes pour l'État, recensée dans une annexe au projet de loi de finances. La notion suppose de définir une norme fiscale de référence, ce qui laisse une part d'appréciation.",
+  "usage": "Le terme administratif est absent des programmes étudiés, qui lui préfèrent « niche fiscale » ou « avantage fiscal ». Le choix du mot « dépense » souligne que la mesure coûte au budget comme une subvention.",
+  "concurrents": [
+   "niche fiscale",
+   "avantage fiscal"
+  ],
+  "notions": [
+   "niches-fiscales"
+  ],
+  "motifs": [
+   "dépense fiscale",
+   "dépenses fiscales"
+  ]
+ },
+ {
+  "id": "taux-reduit",
+  "terme": "Taux réduit",
+  "variantes": [
+   "taux super réduit"
+  ],
+  "registre": "technique",
+  "theme": "pouvoir-achat",
+  "definition": "Un taux réduit est un taux d'imposition inférieur au taux normal, appliqué à certains produits, revenus ou entreprises : TVA à 5,5 % sur l'alimentation, impôt sur les sociétés à 15 % pour les PME, taux réduits d'accise pour certains carburants.",
+  "usage": "Les écologistes proposent de transformer les taux réduits dont bénéficient les produits fossiles en aides forfaitaires, et d'abaisser le taux réduit d'impôt sur les sociétés des petites entreprises.",
+  "concurrents": [
+   "niche fiscale",
+   "taux normal"
+  ],
+  "notions": [
+   "tva",
+   "impot-sur-les-societes",
+   "fiscalite-des-carburants"
+  ],
+  "motifs": [
+   "taux réduit*"
+  ]
+ },
+ {
+  "id": "plus-value",
+  "terme": "Plus-value",
+  "variantes": [
+   "plus-value latente"
+  ],
+  "registre": "économique",
+  "theme": "pouvoir-achat",
+  "definition": "La plus-value est le gain réalisé lors de la vente d'un bien ou d'un titre, égal à la différence entre le prix de vente et le prix d'acquisition. Une plus-value latente est un gain non encore réalisé, sur lequel porte par exemple l'exit tax.",
+  "usage": "Les Républicains et Reconquête veulent que le gain des salariés actionnaires soit imposé comme une plus-value « et non requalifié en salaire déguisé ». Les écologistes proposent de taxer davantage les plus-values sur les terrains devenus constructibles.",
+  "concurrents": [
+   "revenus du capital",
+   "salaire"
+  ],
+  "notions": [
+   "flat-tax",
+   "stock-options-et-actionnariat-salarie",
+   "exit-tax"
+  ],
+  "motifs": [
+   "plus-value*",
+   "plusvalue"
+  ]
+ },
+ {
+  "id": "revenus-du-capital",
+  "terme": "Revenus du capital",
+  "variantes": [
+   "revenus du patrimoine"
+  ],
+  "registre": "économique",
+  "theme": "pouvoir-achat",
+  "definition": "Les revenus du capital regroupent les dividendes, les intérêts, les loyers et les plus-values. Ils sont soumis à la flat tax ou au barème, et aux prélèvements sociaux, selon des règles distinctes de celles des revenus du travail.",
+  "usage": "La France insoumise propose d'« imposer les revenus du capital comme ceux du travail » et les écologistes de relever la CSG sur ces revenus. L'opposition entre capital et travail structure le discours fiscal de la gauche.",
+  "concurrents": [
+   "épargne",
+   "investissement"
+  ],
+  "notions": [
+   "flat-tax",
+   "csg"
+  ],
+  "motifs": [
+   "revenus du capital",
+   "revenus du patrimoine"
+  ]
+ },
+ {
+  "id": "valeur-ajoutee",
+  "terme": "Valeur ajoutée",
+  "variantes": [],
+  "registre": "économique",
+  "theme": "pouvoir-achat",
+  "definition": "La valeur ajoutée est la richesse créée par une entreprise, égale à la valeur de sa production diminuée des consommations intermédiaires achetées à d'autres. Elle sert d'assiette à la TVA et à la CVAE.",
+  "usage": "Le terme est technique ; il apparaît dans les programmes à propos de la CVAE et du « juste partage de la valeur ajoutée » dans les filières agricoles.",
+  "concurrents": [
+   "bénéfice",
+   "chiffre d'affaires"
+  ],
+  "notions": [
+   "cvae",
+   "tva"
+  ],
+  "motifs": [
+   "valeur ajoutée"
+  ]
+ },
+ {
+  "id": "effet-d-aubaine",
+  "terme": "Effet d'aubaine",
+  "variantes": [],
+  "registre": "économique",
+  "theme": "pouvoir-achat",
+  "definition": "Il y a effet d'aubaine lorsqu'une aide ou un avantage fiscal bénéficie à des personnes ou des entreprises qui auraient agi de la même façon sans lui. C'est l'une des principales critiques adressées aux niches fiscales et aux aides publiques.",
+  "usage": "Les Républicains l'invoquent pour encadrer leur déduction des intérêts d'emprunt, en plafonnant les taux pris en compte, afin d'éviter « tout effet d'aubaine pour les établissements bancaires ».",
+  "concurrents": [
+   "efficacité de la dépense"
+  ],
+  "notions": [
+   "niches-fiscales"
+  ],
+  "motifs": [
+   "effet d'aubaine",
+   "effets d'aubaine"
+  ]
+ },
+ {
+  "id": "stabilite-fiscale",
+  "terme": "Stabilité fiscale",
+  "variantes": [
+   "instabilité fiscale"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'expression désigne la garantie que les règles fiscales ne changeront pas pendant une période donnée, afin que contribuables et investisseurs puissent anticiper.",
+  "usage": "Les Républicains promettent de garantir « strictement la stabilité » de leur cadre fiscal pendant le quinquennat et dénoncent « l'instabilité fiscale permanente » des dispositifs Pinel, Duflot ou Scellier. Le thème est surtout porté par la droite et le monde de l'entreprise.",
+  "concurrents": [
+   "réforme fiscale",
+   "grand chantier fiscal"
+  ],
+  "notions": [
+   "statut-du-bailleur-prive",
+   "impots-de-production"
+  ],
+  "motifs": [
+   "stabilité de ce nouveau cadre fiscal",
+   "instabilité fiscale",
+   "cadre stable",
+   "stabilité fiscale"
+  ]
+ },
+ {
+  "id": "competitivite",
+  "terme": "Compétitivité",
+  "variantes": [
+   "attractivité"
+  ],
+  "registre": "économique",
+  "theme": "pouvoir-achat",
+  "definition": "La compétitivité est la capacité des entreprises d'un pays à vendre face à leurs concurrents, par les prix ou par la qualité. L'attractivité désigne la capacité d'un territoire à attirer investissements et talents.",
+  "usage": "Le RN et Reconquête l'invoquent à propos du prix de l'énergie et du nucléaire ; la droite et le centre en font le fondement de la baisse des impôts de production. La gauche l'emploie aussi pour l'« attractivité » de la fonction publique.",
+  "concurrents": [
+   "coût du capital",
+   "dumping fiscal"
+  ],
+  "notions": [
+   "impots-de-production",
+   "prix-de-l-electricite"
+  ],
+  "motifs": [
+   "compétitivité"
+  ]
+ },
+ {
+  "id": "dumping-fiscal",
+  "terme": "Dumping fiscal",
+  "variantes": [
+   "concurrence fiscale",
+   "dumping social"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'expression désigne la stratégie d'un État qui baisse fortement ses impôts pour attirer entreprises et capitaux au détriment de ses voisins.",
+  "usage": "Les écologistes l'emploient à propos de l'e-commerce, la gauche plus largement pour justifier un impôt minimum et l'harmonisation européenne. Les défenseurs de la baisse des impôts parlent de « concurrence fiscale » ou d'« attractivité ».",
+  "concurrents": [
+   "concurrence fiscale",
+   "attractivité"
+  ],
+  "notions": [
+   "impot-minimum-sur-les-multinationales",
+   "fraude-et-evasion-fiscales"
+  ],
+  "motifs": [
+   "dumping fiscal"
+  ]
+ },
+ {
+  "id": "optimisation-fiscale",
+  "terme": "Optimisation fiscale",
+  "variantes": [
+   "planification fiscale agressive"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'optimisation fiscale consiste à réduire légalement son impôt en utilisant les règles existantes. Elle devient un abus de droit lorsqu'un montage n'a pas d'autre but que d'éluder l'impôt.",
+  "usage": "Le PS et le RN emploient le terme pour viser les grands groupes et les très hauts patrimoines, le RN en parlant de stratégies d'optimisation « abusives ». Ses critiques le rapprochent de la fraude et de l'évasion ; ses défenseurs rappellent son caractère légal et parlent de « gestion fiscale » ou de « planification ».",
+  "concurrents": [
+   "fraude fiscale",
+   "gestion de patrimoine"
+  ],
+  "notions": [
+   "fraude-et-evasion-fiscales",
+   "impot-minimum-sur-les-multinationales"
+  ],
+  "motifs": [
+   "optimisation fiscale",
+   "stratégies d'optimisation"
+  ]
+ },
+ {
+  "id": "paradis-fiscaux",
+  "terme": "Paradis fiscaux",
+  "variantes": [
+   "juridictions non coopératives"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Le terme désigne les États ou territoires qui offrent une fiscalité très faible et une opacité sur les bénéficiaires des comptes et des sociétés. L'Union européenne et la France tiennent des listes officielles de « juridictions non coopératives ».",
+  "usage": "Les écologistes et le RN emploient le terme, ce dernier pour viser aussi certains États membres de l'Union européenne. Les textes officiels lui préfèrent « juridictions non coopératives ».",
+  "concurrents": [
+   "juridictions non coopératives",
+   "territoires à fiscalité privilégiée"
+  ],
+  "notions": [
+   "fraude-et-evasion-fiscales"
+  ],
+  "motifs": [
+   "paradis fiscaux"
+  ]
+ },
+ {
+  "id": "exil-fiscal",
+  "terme": "Exil fiscal",
+  "variantes": [
+   "émigrés fiscaux",
+   "exilés fiscaux"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'exil fiscal désigne le départ d'un contribuable vers un pays à la fiscalité plus faible pour réduire son impôt.",
+  "usage": "Les écologistes parlent d'« émigrés fiscaux » pour justifier l'extension de l'exit tax ; la droite invoque le risque d'exil pour s'opposer à l'ISF ou à la taxe Zucman. Les Républicains proposent à l'inverse une exonération d'impôt pour faire revenir des talents expatriés.",
+  "concurrents": [
+   "mobilité",
+   "attractivité"
+  ],
+  "notions": [
+   "exit-tax",
+   "taxe-zucman",
+   "isf"
+  ],
+  "motifs": [
+   "émigrés fiscaux",
+   "exil fiscal",
+   "exilés fiscaux"
+  ]
+ },
+ {
+  "id": "consentement-a-l-impot",
+  "terme": "Consentement à l'impôt",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Principe selon lequel l'impôt doit être accepté par les citoyens, par l'intermédiaire de leurs représentants, posé par l'article 14 de la Déclaration de 1789. Au sens courant, il désigne l'acceptation de l'impôt par la population.",
+  "usage": "Les écologistes l'invoquent pour affirmer que la fraude et l'évasion fiscales le minent. La droite l'associe plutôt au poids jugé excessif des prélèvements.",
+  "concurrents": [
+   "ras-le-bol fiscal",
+   "justice fiscale"
+  ],
+  "notions": [
+   "fraude-et-evasion-fiscales"
+  ],
+  "motifs": [
+   "consentement à l'impôt"
+  ]
+ },
+ {
+  "id": "effort-contributif",
+  "terme": "Effort contributif",
+  "variantes": [
+   "effort fiscal",
+   "contribuer équitablement"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'expression désigne la part que chaque contribuable prend au financement des charges publiques au regard de ses capacités.",
+  "usage": "Le RN l'emploie pour dénoncer un IFI qui « épargne de tout effort contributif les fortunes exclusivement mobilières », le PS pour un « effort fiscal nouveau » ciblé sur les très hauts patrimoines. Des partis opposés partagent ainsi un registre de l'équité contributive.",
+  "concurrents": [
+   "justice fiscale",
+   "pression fiscale"
+  ],
+  "notions": [
+   "ifi",
+   "isf",
+   "taxe-zucman"
+  ],
+  "motifs": [
+   "effort contributif",
+   "effort fiscal",
+   "contribuent équitablement"
+  ]
+ },
+ {
+  "id": "solidarite-nationale",
+  "terme": "Solidarité nationale",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'expression désigne le financement par l'impôt, plutôt que par les cotisations ou les usagers, de dépenses jugées collectives.",
+  "usage": "Le PS l'emploie pour que les grandes fortunes « contribuent équitablement à la solidarité nationale » ; Horizons présente la solidarité nationale comme ayant pour contrepartie la revalorisation du travail et du mérite.",
+  "concurrents": [
+   "redistribution",
+   "assistance"
+  ],
+  "notions": [
+   "droits-de-succession",
+   "isf"
+  ],
+  "motifs": [
+   "solidarité nationale"
+  ]
+ },
+ {
+  "id": "redistribution",
+  "terme": "Redistribution",
+  "variantes": [
+   "redistribuer"
+  ],
+  "registre": "économique",
+  "theme": "pouvoir-achat",
+  "definition": "La redistribution désigne les transferts opérés par les impôts et les prestations sociales des ménages les plus aisés vers les plus modestes. Elle réduit fortement les écarts de niveau de vie en France.",
+  "usage": "Horizons emploie le verbe de manière critique, en refusant que l'État « redistribue une richesse qu'il n'a pas ». La gauche en fait au contraire un objectif à renforcer.",
+  "concurrents": [
+   "dépense publique",
+   "solidarité nationale"
+  ],
+  "notions": [
+   "dette-publique",
+   "impot-sur-le-revenu"
+  ],
+  "motifs": [
+   "redistribue",
+   "redistribution des richesses"
+  ]
+ },
+ {
+  "id": "prelevements-obligatoires",
+  "terme": "Prélèvements obligatoires",
+  "variantes": [
+   "taux de prélèvements obligatoires"
+  ],
+  "registre": "économique",
+  "theme": "pouvoir-achat",
+  "definition": "Les prélèvements obligatoires regroupent les impôts et les cotisations sociales effectives versés aux administrations publiques. Leur rapport au PIB, supérieur à 40 % en France, est l'un des plus élevés de l'OCDE et sert d'indicateur du poids de l'impôt.",
+  "usage": "Le terme, courant dans le débat sur la « pression fiscale », est absent des programmes étudiés, qui parlent plutôt de baisses ou de hausses ciblées.",
+  "concurrents": [
+   "pression fiscale",
+   "contribution"
+  ],
+  "notions": [
+   "impot-sur-le-revenu",
+   "csg",
+   "tva"
+  ],
+  "motifs": [
+   "prélèvements obligatoires"
+  ]
+ },
+ {
+  "id": "depense-publique",
+  "terme": "Dépense publique",
+  "variantes": [
+   "dépense sociale",
+   "dépense de fonctionnement"
+  ],
+  "registre": "économique",
+  "theme": "pouvoir-achat",
+  "definition": "La dépense publique regroupe les dépenses de l'État, des collectivités et de la Sécurité sociale. Elle représente plus de la moitié du PIB en France, dont la majeure partie au titre de la protection sociale.",
+  "usage": "Renaissance fait porter l'effort de redressement d'abord sur la « dépense sociale » ; Reconquête prône sa rationalisation et sa baisse ; le RN exige une « économie équivalente » pour toute dépense de fonctionnement. La gauche parle plutôt d'« investissement » et de « services publics ».",
+  "concurrents": [
+   "services publics",
+   "investissement public"
+  ],
+  "notions": [
+   "regle-d-or-budgetaire",
+   "dette-publique"
+  ],
+  "motifs": [
+   "dépense publique",
+   "dépenses publiques",
+   "dépense sociale",
+   "dépense de fonctionnement"
+  ]
+ },
+ {
+  "id": "deficit-public",
+  "terme": "Déficit public",
+  "variantes": [
+   "déficit structurel",
+   "déficits"
+  ],
+  "registre": "économique",
+  "theme": "pouvoir-achat",
+  "definition": "Le déficit public est l'écart entre les dépenses et les recettes des administrations publiques sur une année, exprimé en pourcentage du PIB. Le déficit structurel en exclut les effets de la conjoncture. Le pacte de stabilité européen fixe une référence de 3 % du PIB.",
+  "usage": "Les Républicains et Renaissance en font un objectif chiffré (« réduction de 42 milliards », « zéro déficit en 10 ans ») ; la France insoumise refuse les « règles européennes encadrant les déficits ».",
+  "concurrents": [
+   "investissement",
+   "relance"
+  ],
+  "notions": [
+   "regle-d-or-budgetaire",
+   "dette-publique"
+  ],
+  "motifs": [
+   "déficit public",
+   "zéro déficit",
+   "déficits"
+  ]
+ },
+ {
+  "id": "assainir-les-finances-publiques",
+  "terme": "« Assainir » et « mettre de l'ordre dans les comptes »",
+  "variantes": [
+   "désendettement",
+   "sérieux budgétaire"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Formules qui présentent la réduction du déficit et de la dette comme un retour à une situation saine ou ordonnée.",
+  "usage": "Horizons parle de « l'ordre dans les comptes de la Nation », le PS d'« assainir durablement les finances publiques ». Le vocabulaire de l'hygiène ou de l'ordre présente la rigueur comme une nécessité ; ses critiques lui opposent le mot « austérité ».",
+  "concurrents": [
+   "austérité",
+   "rigueur"
+  ],
+  "notions": [
+   "dette-publique",
+   "regle-d-or-budgetaire"
+  ],
+  "motifs": [
+   "ordre dans les comptes",
+   "Assainir durablement",
+   "désendettement"
+  ]
+ },
+ {
+  "id": "austerite",
+  "terme": "« Austérité »",
+  "variantes": [
+   "austéritaire",
+   "rigueur"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Le terme désigne une politique de réduction des dépenses publiques et des déficits, notamment en période de faible croissance.",
+  "usage": "La France insoumise et les écologistes l'emploient pour critiquer les règles budgétaires européennes (« contraintes austéritaires », « sortir de l'austérité »). Les partisans de ces politiques parlent de « sérieux budgétaire », de « redressement » ou d'« assainissement ».",
+  "concurrents": [
+   "sérieux budgétaire",
+   "assainissement",
+   "redressement des comptes"
+  ],
+  "notions": [
+   "regle-d-or-budgetaire",
+   "dette-publique"
+  ],
+  "motifs": [
+   "austérité",
+   "austéritaires"
+  ]
+ },
+ {
+  "id": "generations-futures",
+  "terme": "« Générations futures »",
+  "variantes": [
+   "dette laissée à nos enfants"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "L'expression désigne les personnes qui supporteront à l'avenir les conséquences des choix actuels, en matière de dette comme d'environnement.",
+  "usage": "Horizons l'emploie pour justifier la réduction de la dette, en refusant que l'État redistribue une richesse qu'il n'a pas, « en faisant peser le poids de notre mode de vie d'aujourd'hui sur les générations futures ». Les écologistes et la gauche l'emploient surtout à propos de la dette climatique.",
+  "concurrents": [
+   "dette écologique",
+   "investissement d'avenir"
+  ],
+  "notions": [
+   "dette-publique"
+  ],
+  "motifs": [
+   "générations futures"
+  ]
+ },
+ {
+  "id": "dette-illegitime",
+  "terme": "« Dette illégitime » et audit citoyen",
+  "variantes": [
+   "part illégitime",
+   "audit citoyen de la dette"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "La notion de dette illégitime, issue des mouvements altermondialistes, désigne la part d'une dette publique qui aurait été contractée contre l'intérêt de la population, par exemple du fait de taux d'intérêt élevés ou de baisses d'impôts. L'audit citoyen vise à la mesurer.",
+  "usage": "La France insoumise propose un « audit citoyen » pour en déterminer la « part illégitime » ; les écologistes parlent de restructurer ou d'annuler les « dettes illégitimes et insoutenables », surtout pour les pays du Sud. Ses critiques jugent la notion sans fondement juridique et dangereuse pour la crédibilité de l'État emprunteur.",
+  "concurrents": [
+   "soutenabilité de la dette",
+   "restructuration"
+  ],
+  "notions": [
+   "dette-publique"
+  ],
+  "motifs": [
+   "part illégitime",
+   "dettes illégitimes",
+   "audit citoyen"
+  ]
+ },
+ {
+  "id": "dette-perpetuelle",
+  "terme": "Dette perpétuelle et monétisation",
+  "variantes": [
+   "rachat de la dette par la BCE",
+   "annulation de la dette"
+  ],
+  "registre": "économique",
+  "theme": "pouvoir-achat",
+  "definition": "Une dette perpétuelle est un emprunt qui n'est jamais remboursé en capital, seul l'intérêt étant versé. La monétisation désigne le financement des déficits par la création monétaire de la banque centrale, interdite pour la BCE par l'article 123 du traité sur le fonctionnement de l'Union européenne.",
+  "usage": "La France insoumise propose que la BCE rachète les dettes publiques et les transforme en « dettes perpétuelles à taux nul », ce qui suppose de modifier ses statuts. Ses opposants y voient un risque d'inflation et une rupture avec les traités.",
+  "concurrents": [
+   "remboursement",
+   "désendettement"
+  ],
+  "notions": [
+   "dette-publique"
+  ],
+  "motifs": [
+   "dettes perpétuelles",
+   "dette perpétuelle",
+   "rachète les dettes",
+   "rachat de la dette"
+  ]
+ },
+ {
+  "id": "gaspillage",
+  "terme": "« Gaspillage » de l'argent public",
+  "variantes": [
+   "argent du contribuable",
+   "rationalisation"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Le terme désigne des dépenses publiques jugées inutiles ou inefficaces. Il suppose un critère d'efficacité qui varie selon les camps.",
+  "usage": "Le PS conditionne chaque investissement à « un audit sur l'absence de gaspillage » ; le RN invoque le « bon usage de l'argent du contribuable » ; Reconquête parle de « rationalisation » de la dépense. Le mot permet de promettre des économies sans désigner de politique précise.",
+  "concurrents": [
+   "efficacité de la dépense",
+   "investissement public"
+  ],
+  "notions": [
+   "regle-d-or-budgetaire"
+  ],
+  "motifs": [
+   "gaspillage",
+   "argent du contribuable",
+   "rationalisation et de baisse"
+  ]
+ },
+ {
+  "id": "bouclier",
+  "terme": "Bouclier tarifaire et « bouclier logement »",
+  "variantes": [
+   "bouclier"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Le bouclier tarifaire a désigné le gel puis la limitation, à partir de l'automne 2021, des hausses des tarifs réglementés de l'électricité et du gaz pendant la crise énergétique, financés par l'État. Le mot « bouclier » est employé plus largement pour toute protection des ménages contre une hausse de prix.",
+  "usage": "Le PS propose un « bouclier logement » pour qu'aucun ménage ne consacre plus du tiers de ses revenus à se loger. La métaphore guerrière présente l'État comme protecteur face à une agression extérieure.",
+  "concurrents": [
+   "aide ciblée",
+   "chèque"
+  ],
+  "notions": [
+   "accise-sur-l-electricite",
+   "bouclier-qualite-prix",
+   "prix-de-l-electricite"
+  ],
+  "motifs": [
+   "bouclier tarifaire",
+   "bouclier logement"
+  ]
+ },
+ {
+  "id": "speculation",
+  "terme": "Spéculation",
+  "variantes": [
+   "logique spéculative",
+   "spéculatif"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "La spéculation consiste à acheter un bien dans le seul but de le revendre plus cher. Elle concerne les marchés financiers, l'immobilier, le foncier ou les matières premières.",
+  "usage": "Les écologistes l'emploient le plus souvent, à propos du foncier, des biens essentiels ou de la dette ; le PS à propos des prix agricoles. Le mot désigne un comportement jugé nuisible, quand ses défenseurs parlent d'investissement ou de liquidité des marchés.",
+  "concurrents": [
+   "investissement",
+   "marché"
+  ],
+  "notions": [
+   "blocage-des-prix",
+   "taxe-sur-les-transactions-financieres"
+  ],
+  "motifs": [
+   "spéculati*"
+  ]
+ },
+ {
+  "id": "yield-management",
+  "terme": "Yield management",
+  "variantes": [
+   "tarification dynamique"
+  ],
+  "registre": "technique",
+  "theme": "pouvoir-achat",
+  "definition": "Le yield management, ou tarification en temps réel, consiste à faire varier un prix selon la demande et la date d'achat, comme pour les billets de train ou d'avion.",
+  "usage": "Les écologistes proposent d'encadrer la variation des prix du TGV en seconde classe. Le terme est technique et propre à ce programme.",
+  "concurrents": [
+   "prix unique",
+   "tarif kilométrique"
+  ],
+  "notions": [
+   "blocage-des-prix"
+  ],
+  "motifs": [
+   "yield management"
+  ]
+ },
+ {
+  "id": "indemnites-kilometriques",
+  "terme": "Indemnités et barème kilométriques",
+  "variantes": [
+   "frais réels"
+  ],
+  "registre": "technique",
+  "theme": "pouvoir-achat",
+  "definition": "Le barème kilométrique fixe le montant forfaitaire des frais de déplacement en voiture qu'un salarié peut déduire de ses revenus au titre des frais réels ou se faire rembourser par l'employeur. Il dépend de la puissance du véhicule et de la distance parcourue.",
+  "usage": "Les écologistes proposent un barème unique tous modes confondus et une réforme du régime des voitures de fonction ; Reconquête propose de rembourser la moitié des frais de carburant des trajets domicile-travail.",
+  "concurrents": [
+   "forfait mobilités durables",
+   "prime transport"
+  ],
+  "notions": [
+   "fiscalite-des-carburants"
+  ],
+  "motifs": [
+   "indemnités kilométriques",
+   "barèmes kilométriques",
+   "frais kilométriques",
+   "frais de carburant"
+  ]
+ },
+ {
+  "id": "taxe-kilometrique",
+  "terme": "« Taxe kilométrique »",
+  "variantes": [
+   "taxe kilométrique aux frontières"
+  ],
+  "registre": "élément de langage",
+  "theme": "pouvoir-achat",
+  "definition": "Proposition de la France insoumise d'une taxe sur les produits importés proportionnelle à la distance parcourue, afin de favoriser les productions locales.",
+  "usage": "La formule associe argument écologique (le transport) et protection commerciale. Ses critiques soulignent sa compatibilité incertaine avec les règles européennes et internationales du commerce.",
+  "concurrents": [
+   "mécanisme d'ajustement carbone aux frontières",
+   "droits de douane"
+  ],
+  "notions": [
+   "fiscalite-ecologique"
+  ],
+  "motifs": [
+   "taxe kilométrique"
+  ]
+ },
+ {
+  "id": "minima-sociaux",
+  "terme": "Minima sociaux",
+  "variantes": [
+   "RSA",
+   "AAH",
+   "minimum vieillesse"
+  ],
+  "registre": "administratif",
+  "theme": "pouvoir-achat",
+  "definition": "Les minima sociaux sont des prestations qui garantissent un revenu minimal à des personnes aux ressources très faibles : revenu de solidarité active, allocation aux adultes handicapés, allocation de solidarité aux personnes âgées, entre autres. Leurs montants sont inférieurs au seuil de pauvreté.",
+  "usage": "La France insoumise promet de les augmenter et d'aligner l'AAH sur le SMIC ; la droite insiste sur l'écart entre revenus du travail et prestations. Le thème relève surtout du chapitre sur la protection sociale.",
+  "concurrents": [
+   "assistanat",
+   "garantie dignité"
+  ],
+  "notions": [
+   "smic"
+  ],
+  "motifs": [
+   "minima sociaux",
+   "AAH"
+  ]
+ },
+ {
+  "id": "prelevement-a-la-source",
+  "terme": "Prélèvement à la source",
+  "variantes": [
+   "retenue à la source"
+  ],
+  "registre": "administratif",
+  "theme": "pouvoir-achat",
+  "definition": "Depuis le 1er janvier 2019, l'impôt sur le revenu est prélevé directement sur les salaires, pensions et autres revenus au moment de leur versement, selon un taux calculé par l'administration fiscale.",
+  "usage": "Les Républicains s'appuient sur ce mécanisme pour verser automatiquement leur « revenu familial » chaque mois. Le terme est neutre et consensuel.",
+  "concurrents": [
+   "déclaration annuelle"
+  ],
+  "notions": [
+   "impot-sur-le-revenu"
+  ],
+  "motifs": [
+   "prélèvement à la source"
+  ]
+ }
+]
