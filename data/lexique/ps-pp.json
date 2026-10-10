@@ -1,0 +1,137 @@
+{
+ "travail": {
+  "texte": "Pour PS-PP, le travail est d’abord une affaire de rémunération et d’accès à l’emploi : hausse du SMIC pour « vivre décemment de son travail », garantie à l’emploi par Territoires zéro chômeur et rétablissement des critères de pénibilité.",
+  "appuis": [
+   "p42725c66",
+   "p6a8c5112",
+   "p56a8c84a",
+   "p96afe6ea"
+  ]
+ },
+ "merite": {
+  "texte": "Le mérite est peu présent dans les documents lus : ni le mot ni une logique de récompense de l’effort individuel n’y structurent de proposition.",
+  "appuis": []
+ },
+ "solidarite": {
+  "texte": "Pour PS-PP, la solidarité passe par l’universalisation de la protection sociale (Sécurité sociale unique, sécurité sociale de l’alimentation), par une contribution accrue des plus hauts patrimoines et par l’aide au développement.",
+  "appuis": [
+   "p866f0b63",
+   "p47631fb3",
+   "p448a4e57"
+  ]
+ },
+ "liberte": {
+  "texte": "PS-PP associe la liberté à la recherche (recherche « libre », accueil des chercheurs menacés) et aux droits individuels : autodétermination de genre, droit de mourir dans la dignité.",
+  "appuis": [
+   "pb5fd6d97",
+   "pf036b4ba",
+   "pc8241e9b",
+   "p784d0819"
+  ]
+ },
+ "egalite": {
+  "texte": "Pour PS-PP, l’égalité vise d’abord la réduction des écarts concrets : salaires entre femmes et hommes, mixité sociale à l’école, accès aux études quel que soit le lieu de vie.",
+  "appuis": [
+   "p0d75040f",
+   "pc8976f6b",
+   "p7162747d"
+  ]
+ },
+ "protection": {
+  "texte": "PS-PP décline la protection comme une protection contre des risques précis : enfants face aux contenus en ligne et aux défaillances de l’aide sociale à l’enfance, ménages face aux risques climatiques.",
+  "appuis": [
+   "p54d7f82e",
+   "pa50ce97c",
+   "p9aca93a3"
+  ]
+ },
+ "securite": {
+  "texte": "Pour PS-PP, la sécurité repose sur la proximité et la prévention (police de proximité, tranquillité publique), et s’étend au champ numérique avec la lutte contre la cybercriminalité.",
+  "appuis": [
+   "p093b9fe4",
+   "p1cf215f0",
+   "pb2cb2797"
+  ]
+ },
+ "ordre": {
+  "texte": "L’ordre est peu nommé ; il apparaît à travers la révision de la doctrine du maintien de l’ordre et la lutte contre le narcotrafic, aux côtés d’une approche centrée sur la prévention.",
+  "appuis": [
+   "pdb2ecea4",
+   "pdc5ec76b",
+   "paeb47911"
+  ]
+ },
+ "justice": {
+  "texte": "Chez PS-PP, la justice est à la fois sociale et fiscale (rééquilibrer la taxation du travail, du capital et de l’héritage, taxer les superprofits) et judiciaire, avec une justice de proximité.",
+  "appuis": [
+   "pbf8bd6f9",
+   "p555a3dee",
+   "pe03bbf1c"
+  ]
+ },
+ "souverainete": {
+  "texte": "Pour PS-PP, la souveraineté se pense à plusieurs échelles, européenne comprise : répartition clarifiée des compétences, autonomie agricole, sortie de la dépendance aux grandes plateformes numériques.",
+  "appuis": [
+   "padc7fe48",
+   "pafd73281",
+   "p1a0e8b26"
+  ]
+ },
+ "peuple": {
+  "texte": "Le peuple est peu présent dans les documents lus ; l’idée apparaît surtout dans le référendum d’initiative citoyenne proposé en 2022.",
+  "appuis": [
+   "p42ecb2e0"
+  ]
+ },
+ "nation": {
+  "texte": "La nation est peu présente dans les documents lus ; elle apparaît dans le projet d’un rite de passage républicain et universel remplaçant le service militaire.",
+  "appuis": [
+   "p13bcc4de"
+  ]
+ },
+ "identite": {
+  "texte": "L’identité est peu présente dans les documents lus ; elle n’apparaît que par une politique mémorielle sur la colonisation et la diversification des noms de rues.",
+  "appuis": [
+   "pd5c6b49c"
+  ]
+ },
+ "democratie": {
+  "texte": "Pour PS-PP, la démocratie passe par un rééquilibrage parlementaire (investiture du Premier ministre, fin du 49.3) et par la participation directe : initiative citoyenne, référendums, assemblées tirées au sort.",
+  "appuis": [
+   "p896d5076",
+   "p66c2b76b",
+   "pf2d6a107"
+  ]
+ },
+ "laicite": {
+  "texte": "PS-PP aborde la laïcité par l’école, avec la formation et la protection des enseignants, et par la fin progressive des régimes dérogatoires à la loi de 1905.",
+  "appuis": [
+   "p2fe0583c",
+   "p561ab857"
+  ]
+ },
+ "transition": {
+  "texte": "Pour PS-PP, la transition écologique est planifiée par la loi (–90 % d’émissions en 2040) et accompagnée financièrement, notamment par un revenu de transition pour agriculteurs et pêcheurs.",
+  "appuis": [
+   "p6f29710a",
+   "pbceb29ff",
+   "p22a14443"
+  ]
+ },
+ "progres": {
+  "texte": "Le progrès est surtout envisagé sous l’angle scientifique et technologique : innovations de rupture en intelligence artificielle, usage de l’IA dans les services publics, recherche.",
+  "appuis": [
+   "p31b4636b",
+   "p2d1f32cd",
+   "p46b5a731"
+  ]
+ },
+ "puissance": {
+  "texte": "Pour PS-PP, la puissance est d’abord européenne : budget de l’Union accru pour dépasser une « puissance exclusivement normative », puissance commerciale mise au service des droits, production de défense.",
+  "appuis": [
+   "pa091a097",
+   "pe8ea459a",
+   "pf9f6603d"
+  ]
+ }
+}

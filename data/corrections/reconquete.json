@@ -1,0 +1,555 @@
+{
+ "pa62c598c": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de p12ad9157, moins complet ou plus ancien"
+ },
+ "p85892139": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de p12ad9157 et pc0cc92be, moins complet ou plus ancien"
+ },
+ "p7b7a28ce": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de pdb9a194c et p1c7305a0, moins complet ou plus ancien"
+ },
+ "p0376dafe": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de p6aeec8a2, moins complet ou plus ancien ; programme plus récent (« suspendre » au lieu de « supprimer »)"
+ },
+ "p4a6f0fe1": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de p89a18dce, p7496c3de et p5573d3fb, moins complet ou plus ancien"
+ },
+ "p01fdc037": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de p0fa4b89a, moins complet ou plus ancien"
+ },
+ "p4401d4e8": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de pf64db320, moins complet ou plus ancien"
+ },
+ "p29b66e50": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de p21381237, moins complet ou plus ancien"
+ },
+ "p0efe0df2": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de p23c982bd et p79d869c4, moins complet ou plus ancien"
+ },
+ "pacc216c7": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de p167d2bf2 et pd9698747, moins complet ou plus ancien"
+ },
+ "p20ada9da": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de p6b68dec9, moins complet ou plus ancien"
+ },
+ "pb6128df6": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de pbf3978e5 et p4e0a1933, moins complet ou plus ancien"
+ },
+ "pad2b9412": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de p32d6cd3b, moins complet ou plus ancien"
+ },
+ "p4729cc2c": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de p45137086, moins complet ou plus ancien"
+ },
+ "pa6fb10bb": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de p479b78d3, moins complet ou plus ancien"
+ },
+ "p36e72855": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de p4dc6f0fa, moins complet ou plus ancien"
+ },
+ "p87684919": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de p3fb8b1fc, moins complet ou plus ancien"
+ },
+ "pdb815ea5": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de p9eb51f80 et p09a22674, moins complet ou plus ancien"
+ },
+ "p076967a9": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de pca4ed20d, moins complet ou plus ancien"
+ },
+ "p02ad3850": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de p1145e96b, moins complet ou plus ancien"
+ },
+ "p5731d756": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de pc4dc3811, moins complet ou plus ancien"
+ },
+ "pd35e468b": {
+  "exclure": true,
+  "motif": "doublon (profession de foi 2022) de p3de79e64, moins complet ou plus ancien"
+ },
+ "p54f3e711": {
+  "exclure": true,
+  "motif": "doublon (programme) de p8cd74fd7, moins complet (sans montant)"
+ },
+ "p55bfb905": {
+  "exclure": true,
+  "motif": "doublon (programme) de p42cfcdba, moins complet"
+ },
+ "p50fea32c": {
+  "exclure": true,
+  "motif": "doublon (programme) de p8355d06b, moins complet (sans seuil ni montant) — à arbitrer"
+ },
+ "p722abdb1": {
+  "exclure": true,
+  "motif": "doublon de pd5a50a57 (déploiement du haut débit), moins complet"
+ },
+ "p97865cf9": {
+  "exclure": true,
+  "motif": "slogan sans contenu (« Travailler plus pour gagner plus ») ; la mesure correspondante est pe7e6cd1e"
+ },
+ "p16b71c9b": {
+  "exclure": true,
+  "motif": "slogan sans contenu (engagement général de baisse des impôts)"
+ },
+ "p41cff3b1": {
+  "exclure": true,
+  "motif": "formule sans contenu (« tout mettre en œuvre » pour l'efficacité)"
+ },
+ "pc6665822": {
+  "intitule": "Remettre l'assimilation au cœur de la Nation",
+  "motif": "intitulé fidèle"
+ },
+ "p7da2b02c": {
+  "concepts": [
+   "securite"
+  ],
+  "intitule": "Interdire les « Frères musulmans » et fermer les lieux de promotion du salafisme",
+  "motif": "concept ; intitulé fidèle"
+ },
+ "p8355d06b": {
+  "concepts": [
+   "travail"
+  ],
+  "motif": "concepts"
+ },
+ "p8cd74fd7": {
+  "concepts": [
+   "travail"
+  ],
+  "motif": "concepts"
+ },
+ "pe7e6cd1e": {
+  "concepts": [
+   "travail"
+  ],
+  "motif": "concepts"
+ },
+ "p7186b4c4": {
+  "concepts": [
+   "nation"
+  ],
+  "motif": "« familles françaises »"
+ },
+ "p6b68dec9": {
+  "concepts": [
+   "solidarite"
+  ],
+  "motif": "concepts"
+ },
+ "p5e25b818": {
+  "concepts": [
+   "souverainete"
+  ],
+  "motif": "contrôle des frontières"
+ },
+ "pab54d4fc": {
+  "concepts": [
+   "souverainete"
+  ],
+  "motif": "concepts"
+ },
+ "ped3536ab": {
+  "concepts": [
+   "souverainete"
+  ],
+  "motif": "concepts"
+ },
+ "p14ab3b13": {
+  "intitule": "Instaurer une caution de 10 000 euros pour les visas de certains pays",
+  "motif": "intitulé avec verbe"
+ },
+ "p167d2bf2": {
+  "concepts": [
+   "nation"
+  ],
+  "motif": "aides réservées"
+ },
+ "pd9698747": {
+  "concepts": [
+   "nation"
+  ],
+  "motif": "concepts"
+ },
+ "p23c982bd": {
+  "concepts": [
+   "nation"
+  ],
+  "motif": "concepts"
+ },
+ "p79d869c4": {
+  "concepts": [
+   "nation",
+   "identite"
+  ],
+  "motif": "assimilation exigée"
+ },
+ "p89a18dce": {
+  "concepts": [
+   "securite"
+  ],
+  "motif": "concepts"
+ },
+ "p331d05dc": {
+  "concepts": [
+   "ordre"
+  ],
+  "motif": "concepts"
+ },
+ "p6f2f6af4": {
+  "intitule": "Supprimer le dispositif des « mineurs étrangers isolés »",
+  "motif": "vocabulaire de la formation"
+ },
+ "p7cc93aac": {
+  "intitule": "Créer un « ministère de la Remigration »",
+  "motif": "vocabulaire de la formation entre guillemets"
+ },
+ "pae3a5c19": {
+  "theme": "securite",
+  "motif": "sécurité routière"
+ },
+ "p11284c3e": {
+  "concepts": [
+   "securite",
+   "ordre"
+  ],
+  "motif": "« ramener la paix »"
+ },
+ "p56e12c9c": {
+  "concepts": [
+   "securite"
+  ],
+  "motif": "concepts"
+ },
+ "pc0cc92be": {
+  "concepts": [
+   "justice",
+   "securite"
+  ],
+  "motif": "concepts"
+ },
+ "pdb9a194c": {
+  "concepts": [
+   "securite"
+  ],
+  "motif": "concepts"
+ },
+ "p0fa4b89a": {
+  "concepts": [
+   "nation",
+   "justice"
+  ],
+  "motif": "concepts"
+ },
+ "p7496c3de": {
+  "concepts": [
+   "securite"
+  ],
+  "motif": "concepts"
+ },
+ "p77605ac5": {
+  "concepts": [
+   "ordre"
+  ],
+  "motif": "force publique, propriété"
+ },
+ "p47183fca": {
+  "concepts": [
+   "ordre"
+  ],
+  "motif": "concepts"
+ },
+ "p0bdb4226": {
+  "concepts": [
+   "securite"
+  ],
+  "motif": "concepts"
+ },
+ "p49e97ac5": {
+  "concepts": [
+   "justice"
+  ],
+  "motif": "concepts"
+ },
+ "p6aeec8a2": {
+  "concepts": [
+   "justice"
+  ],
+  "motif": "concepts"
+ },
+ "p7540dfe3": {
+  "concepts": [
+   "justice"
+  ],
+  "motif": "concepts"
+ },
+ "p53855aaf": {
+  "concepts": [
+   "justice",
+   "securite"
+  ],
+  "intitule": "Voter une loi de programmation Justice et Sécurité sur 5 ans",
+  "motif": "concepts ; intitulé avec verbe"
+ },
+ "p5573d3fb": {
+  "concepts": [
+   "justice"
+  ],
+  "motif": "concepts"
+ },
+ "pe23bf519": {
+  "concepts": [
+   "securite"
+  ],
+  "motif": "concepts"
+ },
+ "p7b692529": {
+  "intitule": "Interdire aux associations « militantes » d'aller en justice",
+  "motif": "intitulé fidèle"
+ },
+ "p2a1a1905": {
+  "intitule": "Supprimer les subventions publiques aux associations « politisées »",
+  "motif": "vocabulaire de la formation"
+ },
+ "p8e153305": {
+  "intitule": "Organiser un référendum sur l'immigration, la sécurité et la justice",
+  "motif": "intitulé avec verbe"
+ },
+ "pc95efc63": {
+  "intitule": "Rendre le référendum obligatoire pour révision constitutionnelle et traités européens",
+  "motif": "intitulé avec verbe"
+ },
+ "p3e6849b9": {
+  "intitule": "Faire primer les nouvelles lois nationales sur les textes internationaux antérieurs",
+  "motif": "intitulé avec verbe"
+ },
+ "p05ccdc77": {
+  "intitule": "Lancer un audit de la Cour des comptes pour baisser la dépense publique",
+  "motif": "intitulé avec verbe"
+ },
+ "p511c5870": {
+  "intitule": "Rétablir trois jours de carence pour les fonctionnaires",
+  "motif": "intitulé avec verbe"
+ },
+ "pcb8bfeb4": {
+  "concepts": [
+   "democratie"
+  ],
+  "intitule": "Rendre obligatoire une étude d'impact pour toute loi",
+  "motif": "concept ; intitulé avec verbe"
+ },
+ "p45137086": {
+  "intitule": "Réorienter les fonds de la « politique de la ville » vers les bourgs et villages",
+  "motif": "vocabulaire de la formation"
+ },
+ "p81c32db3": {
+  "concepts": [
+   "protection"
+  ],
+  "motif": "concepts"
+ },
+ "p02aa1c52": {
+  "concepts": [
+   "protection",
+   "souverainete"
+  ],
+  "motif": "délocalisations"
+ },
+ "pc4dc3811": {
+  "concepts": [
+   "travail"
+  ],
+  "motif": "concepts"
+ },
+ "pb63b15a6": {
+  "concepts": [
+   "travail"
+  ],
+  "motif": "concepts"
+ },
+ "pcbf34de6": {
+  "concepts": [
+   "travail"
+  ],
+  "motif": "concepts"
+ },
+ "p842bbcf7": {
+  "concepts": [
+   "travail"
+  ],
+  "motif": "concepts"
+ },
+ "p35bd41dd": {
+  "concepts": [
+   "souverainete"
+  ],
+  "motif": "réindustrialisation"
+ },
+ "pb92da489": {
+  "concepts": [
+   "identite"
+  ],
+  "motif": "« identité culturelle française »"
+ },
+ "p5c43687d": {
+  "concepts": [
+   "souverainete",
+   "protection"
+  ],
+  "motif": "concepts"
+ },
+ "pf07b2907": {
+  "concepts": [
+   "souverainete"
+  ],
+  "motif": "réindustrialisation"
+ },
+ "pde5be7ad": {
+  "concepts": [
+   "protection",
+   "souverainete"
+  ],
+  "motif": "concepts"
+ },
+ "pa2462793": {
+  "concepts": [
+   "souverainete",
+   "nation"
+  ],
+  "motif": "production française, « Patrie-score »"
+ },
+ "p1bc20f93": {
+  "concepts": [
+   "protection"
+  ],
+  "motif": "concepts"
+ },
+ "pb5808faa": {
+  "concepts": [
+   "souverainete",
+   "progres"
+  ],
+  "motif": "concepts"
+ },
+ "pdd7bc292": {
+  "concepts": [
+   "merite"
+  ],
+  "motif": "voie exigeante"
+ },
+ "pf76838a6": {
+  "concepts": [
+   "merite"
+  ],
+  "intitule": "Refaire du baccalauréat un examen national, anonyme et terminal",
+  "motif": "« plus sélectifs » ; intitulé"
+ },
+ "p4b503a92": {
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Interdire la « propagande idéologique » à l'école",
+  "motif": "concept ; vocabulaire de la formation"
+ },
+ "pc8af0f21": {
+  "intitule": "Faire respecter l'interdiction de l'écriture inclusive jusqu'au supérieur",
+  "motif": "intitulé fidèle (interdiction existante)"
+ },
+ "pca4ed20d": {
+  "intitule": "Supprimer le collège unique, créer des classes de niveaux, pré-professionnel dès la 4e",
+  "motif": "intitulé avec verbe"
+ },
+ "p30292de9": {
+  "concepts": [
+   "ordre"
+  ],
+  "motif": "concepts"
+ },
+ "p8bd9b87e": {
+  "concepts": [
+   "ordre"
+  ],
+  "motif": "concepts"
+ },
+ "pa389bf09": {
+  "concepts": [
+   "egalite"
+  ],
+  "motif": "« inégalités sociales »"
+ },
+ "p89f80c2d": {
+  "concepts": [
+   "merite"
+  ],
+  "motif": "sélection plus stricte"
+ },
+ "p0577fc87": {
+  "concepts": [
+   "transition"
+  ],
+  "motif": "concepts"
+ },
+ "pcba6df56": {
+  "concepts": [
+   "transition"
+  ],
+  "motif": "concepts"
+ },
+ "p7eff6d3f": {
+  "concepts": [
+   "transition",
+   "progres"
+  ],
+  "motif": "concepts"
+ },
+ "p0c558117": {
+  "concepts": [
+   "progres"
+  ],
+  "motif": "recherche"
+ },
+ "p62746e5b": {
+  "concepts": [
+   "transition"
+  ],
+  "intitule": "Imposer le nucléaire comme principal outil climatique à l'échelle européenne",
+  "motif": "intitulé fidèle (« imposer »)"
+ },
+ "p07d165c5": {
+  "concepts": [
+   "nation"
+  ],
+  "motif": "« fleuron national »"
+ },
+ "p9b322eba": {
+  "concepts": [
+   "protection"
+  ],
+  "motif": "concepts"
+ },
+ "p258748a4": {
+  "concepts": [
+   "protection"
+  ],
+  "motif": "concepts"
+ }
+}

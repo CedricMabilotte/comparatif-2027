@@ -16,7 +16,12 @@ function normaliser(brut, recoller) {
     if (recoller && c === "-" && /^-[ \t]*\r?\n\s*\p{Ll}/u.test(brut.slice(i, i + 40))) {
       i++; while (/\s/.test(brut[i])) i++; continue; // césure de fin de ligne : pro-\ngramme
     }
-    if (/[\s   \f]/.test(c)) {
+    // Lettrine isolée par pdftotext : « F\n in du regroupement » → « Fin du regroupement ».
+    if (recoller && /\p{Lu}/u.test(c) && (i === 0 || brut[i - 1] === "\n") && /^\r?\n[ \t\x07]+\p{Ll}/u.test(brut.slice(i + 1, i + 8))) {
+      pousser(c, i); i++; while (/[\s\x07]/.test(brut[i])) i++; continue;
+    }
+    // Caractères de contrôle parasites (ex. \x07 dans « 1\x07million ») : traités comme des espaces.
+    if (/[\s   \f\x00-\x08\x0e-\x1f]/.test(c)) {
       if (sortie && sortie[sortie.length - 1] !== " ") pousser(" ", i);
       i++; continue;
     }

@@ -1,0 +1,115 @@
+{
+ "securite": {
+  "texte": "Pour Horizons, la sécurité se traite d'abord par la lutte contre le narcotrafic : moyens juridiques d'exception, renseignement financier, contrôle des ports et aéroports, sanctions de l'usage de stupéfiants.",
+  "appuis": [
+   "pf3dda90b",
+   "p270cd846",
+   "p3d9e8624",
+   "p08ddff45"
+  ]
+ },
+ "ordre": {
+  "texte": "Pour Horizons, l'ordre est double : « l'ordre dans les comptes de la Nation » et « l'ordre dans la rue », avec une autorité publique « fermement restaurée », que le plan anti-narcotrafic décline localement (maires, opérations « place nette »).",
+  "appuis": [
+   "p5352251e",
+   "p6eca427d",
+   "p08ddff45"
+  ]
+ },
+ "justice": {
+  "texte": "Dans les documents lus, la justice renvoie surtout à la réponse pénale au narcotrafic : application des peines alignée sur le terrorisme, levée de l'excuse de minorité, recouvrement forcé des amendes.",
+  "appuis": [
+   "pd2af7628",
+   "pb1abb588",
+   "p2514e3e2"
+  ]
+ },
+ "liberte": {
+  "texte": "Pour Horizons, la liberté est une « valeur cardinale » déclinée en liberté d'entreprendre, de croire dans le cadre laïque et de s'exprimer ; elle est opposée à ceux qui invoquent une « vision dévoyée de la liberté de culte ».",
+  "appuis": [
+   "pa830efd8",
+   "p8a131c17"
+  ]
+ },
+ "laicite": {
+  "texte": "Pour Horizons, la laïcité est un « cadre de liberté et de neutralité » qui encadre la liberté de croire ; le manifeste combat ceux qui le refusent au nom du multiculturalisme.",
+  "appuis": [
+   "p8a131c17",
+   "pa830efd8"
+  ]
+ },
+ "souverainete": {
+  "texte": "Pour Horizons, la souveraineté passe par l'indépendance nationale, liée à l'équilibre des comptes, par la capacité de défendre seule ses intérêts, et par un projet européen plus respectueux de la subsidiarité.",
+  "appuis": [
+   "p5352251e",
+   "p46eef1ae",
+   "p6590b739"
+  ]
+ },
+ "puissance": {
+  "texte": "Pour Horizons, la puissance désigne les outils permettant à la France de défendre ses intérêts et ses alliances, et la capacité de faire pression sur les pays producteurs de drogue via une liste noire européenne.",
+  "appuis": [
+   "p46eef1ae",
+   "pde6c7b79"
+  ]
+ },
+ "transition": {
+  "texte": "Pour Horizons, la transition écologique passe par la décarbonation de l'économie, la biodiversité et l'investissement dans les filières énergétiques et agricoles, en rejetant la décroissance jugée « ruineuse ».",
+  "appuis": [
+   "p2bf63828",
+   "p0abd488c"
+  ]
+ },
+ "solidarite": {
+  "texte": "Concept peu présent dans les documents lus. Le manifeste présente la solidarité nationale comme « une chance et une nécessité » dont la contrepartie est la revalorisation du travail.",
+  "appuis": [
+   "pae63142d"
+  ]
+ },
+ "travail": {
+  "texte": "Concept peu présent dans les documents lus. Le manifeste fait de la revalorisation du travail la contrepartie de la solidarité nationale.",
+  "appuis": [
+   "pae63142d"
+  ]
+ },
+ "merite": {
+  "texte": "Concept peu présent dans les documents lus. Le manifeste cite le mérite, avec le travail, comme « pilier d'une société prospère et digne ».",
+  "appuis": [
+   "pae63142d"
+  ]
+ },
+ "egalite": {
+  "texte": "Concept peu présent dans les documents lus. Le manifeste mentionne l'égalité réelle entre les femmes et les hommes.",
+  "appuis": [
+   "p2fd9483d"
+  ]
+ },
+ "democratie": {
+  "texte": "Concept peu présent dans les documents lus. Le manifeste défend la démocratie représentative dans le cadre de la Ve République.",
+  "appuis": [
+   "p09a83fb5"
+  ]
+ },
+ "peuple": {
+  "texte": "Concept peu présent dans les documents lus. Le manifeste évoque les « choix fondamentaux du peuple français » face à l'Europe.",
+  "appuis": [
+   "p6590b739"
+  ]
+ },
+ "protection": {
+  "texte": "Concept peu présent dans les documents lus (plan contre le narcotrafic 2026, manifeste 2021).",
+  "appuis": []
+ },
+ "nation": {
+  "texte": "Concept peu présent dans les documents lus (plan contre le narcotrafic 2026, manifeste 2021).",
+  "appuis": []
+ },
+ "identite": {
+  "texte": "Concept peu présent dans les documents lus (plan contre le narcotrafic 2026, manifeste 2021).",
+  "appuis": []
+ },
+ "progres": {
+  "texte": "Concept peu présent dans les documents lus (plan contre le narcotrafic 2026, manifeste 2021).",
+  "appuis": []
+ }
+}

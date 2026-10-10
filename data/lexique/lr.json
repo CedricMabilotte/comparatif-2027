@@ -1,0 +1,150 @@
+{
+ "travail": {
+  "texte": "Pour Les Républicains, le travail doit « payer plus que l'assistanat » : baisse des cotisations sur les heures travaillées, aides sociales fusionnées et dégressives avec la reprise d'activité, et indemnisation conditionnée à l'acceptation des offres.",
+  "appuis": [
+   "pd54ead7f",
+   "p028240db",
+   "pb344284f"
+  ]
+ },
+ "merite": {
+  "texte": "Le mérite renvoie chez Les Républicains à la contrepartie exigée pour une aide (activité obligatoire, refus d'offres sanctionnés) et, à l'école, à la sélection par l'examen, les bourses au mérite et l'excellence.",
+  "appuis": [
+   "p08e3fa25",
+   "p55d115ad",
+   "p34ed2d6f"
+  ]
+ },
+ "solidarite": {
+  "texte": "La solidarité est surtout abordée par des prestations ciblées : revenu socle pour les adultes sans ressources, revenu familial versé dès le premier enfant, soutien aux aidants, aux personnes handicapées et aux retraités modestes.",
+  "appuis": [
+   "padf193c5",
+   "pc05a6770",
+   "paf5ca007"
+  ]
+ },
+ "liberte": {
+  "texte": "Pour Les Républicains, la liberté est d'abord celle d'entreprendre et de produire : suppression ou allègement de normes et de seuils, primauté de l'accord d'entreprise sur le Code du travail, liberté de fixer les loyers et de construire.",
+  "appuis": [
+   "pf138ad43",
+   "pee953755",
+   "p0fd1ceb8"
+  ]
+ },
+ "egalite": {
+  "texte": "L'égalité est surtout pensée entre territoires : autant de dépenses pour la ruralité que pour les quartiers, lutte contre les déserts médicaux, éducation prioritaire étendue aux zones rurales.",
+  "appuis": [
+   "p6c454b4b",
+   "pa12f7b0d",
+   "p6b566091"
+  ]
+ },
+ "protection": {
+  "texte": "La protection désigne la défense des producteurs français face à la concurrence (réciprocité commerciale, ajustement carbone, étiquetage d'origine) et celle des enfants et publics vulnérables (contrôle des adultes à leur contact).",
+  "appuis": [
+   "p0c408490",
+   "pd5222c89",
+   "p7b56a162"
+  ]
+ },
+ "securite": {
+  "texte": "La sécurité couvre à la fois les moyens des forces de l'ordre, un « droit à la sécurité » à inscrire dans la Constitution et la cybersécurité de l'État et des réseaux vitaux.",
+  "appuis": [
+   "p0cf579b8",
+   "p2221577a",
+   "pef805691"
+  ]
+ },
+ "ordre": {
+  "texte": "L'ordre passe par un « choc d'autorité » : peines planchers, places de prison, majorité pénale à 16 ans, expulsion des squatteurs et, à l'école, établissements disciplinaires.",
+  "appuis": [
+   "p10fcf4ad",
+   "p27b62299",
+   "pcaf130e9",
+   "p07bc5f3e",
+   "p036c4f76"
+  ]
+ },
+ "justice": {
+  "texte": "La justice est envisagée comme rapidité et moyens de l'institution judiciaire, mais aussi comme équité dans les relations économiques : charge de la preuve sur l'administration, juste part de valeur pour les agriculteurs.",
+  "appuis": [
+   "pe327ebbc",
+   "pd39d9eb8",
+   "pb404526e"
+  ]
+ },
+ "souverainete": {
+  "texte": "Pour Les Républicains, la souveraineté est d'abord industrielle, énergétique et numérique : relance du nucléaire, financement de l'industrie, préférence européenne dans la commande publique et hébergement souverain des données et de l'IA.",
+  "appuis": [
+   "pa11a913b",
+   "p28527e13",
+   "p06b78640"
+  ]
+ },
+ "peuple": {
+  "texte": "Le peuple apparaît surtout à travers le recours au référendum, y compris d'initiative populaire, et l'accord des populations pour certains projets ; le thème reste peu développé dans les documents lus.",
+  "appuis": [
+   "p713f6d0e",
+   "pc04b3384",
+   "p2b432616"
+  ]
+ },
+ "nation": {
+  "texte": "La nation renvoie à la transmission de l'histoire et des symboles nationaux à l'école, et à des conditions d'accès renforcées pour les étrangers : quotas, nationalité sur demande, droits subordonnés à la régularité du séjour.",
+  "appuis": [
+   "p0a277883",
+   "p61d09132",
+   "pb1062c3d"
+  ]
+ },
+ "identite": {
+  "texte": "L'identité est peu présente en tant que telle dans les documents lus ; elle apparaît à travers l'assimilation exigée pour la nationalité, le parcours d'intégration et la défense du patrimoine.",
+  "appuis": [
+   "p56dc25b2",
+   "p54c84a89",
+   "pdabbabb5"
+  ]
+ },
+ "democratie": {
+  "texte": "La démocratie est conçue comme proximité : référendums, décentralisation et pouvoir accru des maires sur l'urbanisme et le logement social, ainsi que la protection du débat public contre les ingérences étrangères.",
+  "appuis": [
+   "pc04b3384",
+   "pd586624e",
+   "pd9fef349",
+   "p0b3e4662"
+  ]
+ },
+ "laicite": {
+  "texte": "La laïcité est présentée comme primauté de la loi commune sur les appartenances religieuses, avec l'interdiction du voile pour les fillettes et du burkini dans les piscines, et une neutralité étendue aux accompagnateurs scolaires.",
+  "appuis": [
+   "pdf7d2b08",
+   "pbdade2c7",
+   "p0e7dcbc8",
+   "p8159303b"
+  ]
+ },
+ "transition": {
+  "texte": "La transition écologique figure surtout dans le programme de 2022 (bornes de recharge, rénovation des logements, livret vert) ; les livrets de 2025-2026 l'abordent peu sous ce nom et privilégient le nucléaire et l'allègement des normes.",
+  "appuis": [
+   "p531b9825",
+   "p1203defc",
+   "p9e178d9a"
+  ]
+ },
+ "progres": {
+  "texte": "Le progrès est associé à l'innovation technique : remplacer le principe de précaution par un principe de responsabilité, intégrer les nouvelles techniques génomiques, former plusieurs millions d'actifs à l'intelligence artificielle.",
+  "appuis": [
+   "p36da28de",
+   "p7f15371a",
+   "p99c0a334"
+  ]
+ },
+ "puissance": {
+  "texte": "La puissance renvoie aux moyens militaires et à l'influence : hausse du budget des armées, défense européenne autonome, effort sur l'IA de défense et diplomatie cyber.",
+  "appuis": [
+   "p076591c0",
+   "pb2cf8d4a",
+   "p57169fc2"
+  ]
+ }
+}

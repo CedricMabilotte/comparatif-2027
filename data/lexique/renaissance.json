@@ -1,0 +1,134 @@
+{
+ "travail": {
+  "texte": "Pour Renaissance, le travail doit « payer » : hausse du salaire net par la baisse des charges, incitation à l'emploi par l'assurance chômage, suppression du plafond d'heures supplémentaires. Le mot sert aussi de critère d'accueil des étrangers (« préférence travail »).",
+  "appuis": [
+   "pdc367e93",
+   "p30ea9da3",
+   "p1f534959"
+  ]
+ },
+ "merite": {
+  "texte": "Le mérite apparaît surtout à travers l'exigence scolaire (rétablir le « Choc des savoirs ») et, en 2022, l'idée de rémunérer davantage les enseignants qui acceptent de nouvelles missions.",
+  "appuis": [
+   "pb0d592b4",
+   "p36b4dd05"
+  ]
+ },
+ "solidarite": {
+  "texte": "Dans les textes lus, la solidarité prend la forme de mesures ciblées du programme 2022 : pension minimale, versement automatique des aides, maintien à domicile des personnes âgées, droit opposable à la garde d'enfants.",
+  "appuis": [
+   "pbb2fd480",
+   "pecd55b96",
+   "pac9e4f06"
+  ]
+ },
+ "liberte": {
+  "texte": "La liberté est d'abord pensée comme une souplesse laissée aux acteurs : dialogue social pour organiser le travail, droit de travailler davantage, autonomie des établissements scolaires.",
+  "appuis": [
+   "p743109cc",
+   "p30ea9da3",
+   "paf9375ff"
+  ]
+ },
+ "egalite": {
+  "texte": "L'égalité renvoie à l'égalité des chances et d'accès : remplacement des enseignants, accès aux soins sur tout le territoire, lutte contre les discriminations, égalité femmes-hommes (programme 2022).",
+  "appuis": [
+   "p2d354e0a",
+   "p1adbe9d8",
+   "p6d60e3ab"
+  ]
+ },
+ "protection": {
+  "texte": "Protéger, pour Renaissance, c'est à la fois protéger les jeunes (réseaux sociaux, harcèlement) et protéger l'économie par des « barrières commerciales » ciblées, notamment face aux importations chinoises.",
+  "appuis": [
+   "pbd8d1007",
+   "pbc727e30",
+   "pa18e5508"
+  ]
+ },
+ "securite": {
+  "texte": "La sécurité est présente surtout dans le programme 2022, sous forme de moyens : présence policière sur la voie publique et dans les transports, plainte en ligne, cyberpatrouilleurs.",
+  "appuis": [
+   "p7f21f6bf",
+   "p90ad7991",
+   "p7116970f"
+  ]
+ },
+ "ordre": {
+  "texte": "L'ordre public apparaît dans le programme 2022 : expulsion des étrangers qui le troublent, force d'intervention pour les « quartiers en crise », sanctions contre les agresseurs d'agents publics.",
+  "appuis": [
+   "pea8fc877",
+   "pf7015716",
+   "p48837f6f"
+  ]
+ },
+ "justice": {
+  "texte": "La justice recouvre deux sens dans le programme 2022 : l'institution judiciaire (recrutements, amendes forfaitaires) et l'équité, par le partage des profits ou la prise en compte des carrières pénibles.",
+  "appuis": [
+   "p1de1498f",
+   "pec7c9bde",
+   "pba463080"
+  ]
+ },
+ "souverainete": {
+  "texte": "Pour Renaissance, la souveraineté est d'abord économique et technologique : réduire les dépendances (énergies fossiles, approvisionnements chinois), maîtriser la chaîne de l'IA, souvent pensée à l'échelle européenne.",
+  "appuis": [
+   "p9ce0600a",
+   "p0152878f",
+   "pdc17f7aa"
+  ]
+ },
+ "peuple": {
+  "texte": "Le concept de peuple est peu présent dans les documents lus.",
+  "appuis": []
+ },
+ "nation": {
+  "texte": "La nation est peu présente dans les documents lus : le mot apparaît dans le « pacte Armées-Nation » et dans les « besoins de la Nation » guidant l'offre de formation (programme 2022).",
+  "appuis": [
+   "p911111f6",
+   "pdb5be1f4"
+  ]
+ },
+ "identite": {
+  "texte": "Le concept d'identité est peu présent dans les documents lus.",
+  "appuis": []
+ },
+ "democratie": {
+  "texte": "La démocratie est surtout conçue comme une méthode de concertation : conventions citoyennes ou transpartisanes, conférences des parties prenantes, association des citoyens aux grandes décisions (programme 2022).",
+  "appuis": [
+   "p72b9d9c3",
+   "p0cbdb99e",
+   "p8d7f5dbc"
+  ]
+ },
+ "laicite": {
+  "texte": "La laïcité est peu présente dans les documents lus ; elle n'apparaît qu'à travers la poursuite de la fermeture de lieux et structures jugés « radicaux » (programme 2022).",
+  "appuis": [
+   "p82c5ae34"
+  ]
+ },
+ "transition": {
+  "texte": "Pour Renaissance, la transition écologique est une accélération chiffrée de la décarbonation (tripler le rythme de baisse des émissions), appuyée sur le nucléaire, les renouvelables, la rénovation et une planification par territoire et par secteur.",
+  "appuis": [
+   "pd3a26271",
+   "p33bd4c27",
+   "p780e0b79"
+  ]
+ },
+ "progres": {
+  "texte": "Le progrès est associé à l'innovation technologique et à la productivité, vues comme moteurs des salaires et de la compétitivité (biotechnologies, hydrogène, spatial).",
+  "appuis": [
+   "p4a21b7cf",
+   "p64e43c25",
+   "pf6dcff04"
+  ]
+ },
+ "puissance": {
+  "texte": "Le mot puissance revient souvent dans les textes 2026 : réarmement, dissuasion nucléaire, « vecteurs de puissance » militaires, industriels et d'alliances, ambition de devenir la première puissance européenne de l'IA.",
+  "appuis": [
+   "pf9409e83",
+   "p181e4959",
+   "p1e414291"
+  ]
+ }
+}

@@ -1,0 +1,143 @@
+{
+ "souverainete": {
+  "texte": "Pour Reconquête, la souveraineté recouvre le contrôle des frontières et des flux migratoires, la primauté des lois nationales sur les textes internationaux, la réindustrialisation et la maîtrise française des données et des technologies.",
+  "appuis": [
+   "p5e25b818",
+   "p3e6849b9",
+   "p33ee2156"
+  ]
+ },
+ "nation": {
+  "texte": "Pour Reconquête, la nation se définit par l'assimilation et une nationalité plus difficile d'accès (fin du droit du sol, conditions de naturalisation durcies), et par des aides sociales réservées aux familles françaises ou retirées aux étrangers extra-européens.",
+  "appuis": [
+   "pc6665822",
+   "p23c982bd",
+   "p167d2bf2",
+   "p79d869c4",
+   "p7186b4c4"
+  ]
+ },
+ "identite": {
+  "texte": "Pour Reconquête, l'identité passe par l'assimilation des étrangers, l'interdiction du voile islamique dans l'espace public et la défense de pratiques présentées comme patrimoniales, comme la chasse, la pêche ou l'artisanat d'art et du patrimoine vivant.",
+  "appuis": [
+   "pc6665822",
+   "pb8721263",
+   "p4dc6f0fa",
+   "pb92da489"
+  ]
+ },
+ "securite": {
+  "texte": "Pour Reconquête, la sécurité repose sur l'expulsion des délinquants et fichés S étrangers, une protection juridique accrue des policiers et des citoyens qui se défendent, et la lutte contre les réseaux de drogue.",
+  "appuis": [
+   "p32d6cd3b",
+   "p1c7305a0",
+   "p56e12c9c",
+   "pdb9a194c"
+  ]
+ },
+ "justice": {
+  "texte": "Pour Reconquête, la justice est d'abord pénale : peines planchers pour tous les crimes et délits, fin des aménagements de peine, perpétuité réelle et poursuite de toutes les violences.",
+  "appuis": [
+   "p12ad9157",
+   "p52852ed7",
+   "pc0cc92be"
+  ]
+ },
+ "ordre": {
+  "texte": "Pour Reconquête, il s'agit de « rétablir l'autorité et la discipline » à l'école (surveillants généraux) comme dans l'espace public, par des expulsions rapides de squatteurs et des polices municipales armées.",
+  "appuis": [
+   "p888dec5c",
+   "p279cec32",
+   "p77605ac5",
+   "p11284c3e"
+  ]
+ },
+ "protection": {
+  "texte": "Pour Reconquête, la protection vise surtout l'économie nationale face aux délocalisations, au travail détaché et à la concurrence jugée déloyale, ainsi que les enfants à l'école et les animaux.",
+  "appuis": [
+   "p02aa1c52",
+   "p19c9c9a4",
+   "pde5be7ad",
+   "p4b503a92",
+   "pd4865b92"
+  ]
+ },
+ "travail": {
+  "texte": "Pour Reconquête, valoriser le travail passe par des baisses de prélèvements : hausse des salaires nets modestes, heures supplémentaires et primes exonérées, embauches et apprentissage sans cotisations.",
+  "appuis": [
+   "p8355d06b",
+   "pe7e6cd1e",
+   "pc4dc3811"
+  ]
+ },
+ "merite": {
+  "texte": "Pour Reconquête, le mérite est une logique de sélection : examens nationaux plus sélectifs, classes d'excellence, concours enseignants plus exigeants, et sélection des étudiants étrangers.",
+  "appuis": [
+   "p62b99c29",
+   "pf76838a6",
+   "p4e664755"
+  ]
+ },
+ "democratie": {
+  "texte": "Pour Reconquête, la démocratie passe par un usage accru du référendum, rendu obligatoire pour les révisions constitutionnelles et les traités européens, et par un dernier mot donné au Parlement face au Conseil constitutionnel.",
+  "appuis": [
+   "pb3100a36",
+   "pc95efc63",
+   "pc9cc8dbf"
+  ]
+ },
+ "peuple": {
+  "texte": "Pour Reconquête, le peuple doit adopter directement les mesures importantes, notamment par un référendum sur l'immigration, la sécurité et la justice.",
+  "appuis": [
+   "pb3100a36",
+   "p8e153305"
+  ]
+ },
+ "liberte": {
+  "texte": "Pour Reconquête, la liberté est surtout celle d'expression : abrogation de la loi Pleven et de la loi de 2018 sur la manipulation de l'information ; la profession de foi de 2022 prévoyait aussi d'abolir le pass sanitaire.",
+  "appuis": [
+   "p7c55a712",
+   "pecfad0fe",
+   "p7f685e15"
+  ]
+ },
+ "egalite": {
+  "texte": "Dans les documents lus, l'égalité apparaît ponctuellement : alignement des fonctionnaires sur le privé pour les jours de carence, blouse obligatoire présentée comme réponse aux inégalités sociales.",
+  "appuis": [
+   "p511c5870",
+   "pa389bf09"
+  ]
+ },
+ "transition": {
+  "texte": "Pour Reconquête, la transition écologique s'appuie d'abord sur le nucléaire, présenté comme « principal outil » contre le réchauffement, ainsi que sur le recyclage, l'hydrogène et l'aviation bas carbone.",
+  "appuis": [
+   "p62746e5b",
+   "p0577fc87",
+   "p7eff6d3f"
+  ]
+ },
+ "progres": {
+  "texte": "Pour Reconquête, le progrès est technologique : technologies de rupture françaises, recherche nucléaire de 4e génération et fusion, aviation au biokérosène.",
+  "appuis": [
+   "pb5808faa",
+   "p0c558117",
+   "p7eff6d3f"
+  ]
+ },
+ "laicite": {
+  "texte": "Concept peu présent dans les documents lus. La profession de foi de 2022 propose d'interdire le port du voile islamique dans l'espace public.",
+  "appuis": [
+   "pb8721263"
+  ]
+ },
+ "solidarite": {
+  "texte": "Concept peu présent dans les documents lus. Le programme prévoit une revalorisation des petites retraites par exonération de CSG et CRDS.",
+  "appuis": [
+   "p6b68dec9"
+  ]
+ },
+ "puissance": {
+  "texte": "Concept peu présent dans les documents lus : il figure dans l'introduction du programme, sans mesure qui s'y rattache directement.",
+  "appuis": []
+ }
+}
