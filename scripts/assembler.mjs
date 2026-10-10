@@ -20,6 +20,7 @@ const reparations = lire("data/reparations.json", {});
 const motif = Object.keys(reparations).length ? new RegExp(`(?<![\\p{L}])(${Object.keys(reparations).join("|")})(?![\\p{L}])`, "gu") : null;
 const reparer = (t) => {
   t = t.replace(/ﬁ/g, "fi").replace(/ﬂ/g, "fl").replace(/\s+/g, " ").trim();
+  t = t.replace(/(\p{Ll})- (\p{Ll})/gu, "$1$2"); // césure restée dans la citation : « dé- manteler »
   return motif ? t.replace(motif, (m) => reparations[m]) : t;
 };
 const propositions = [], echecs = [], vus = new Set();
