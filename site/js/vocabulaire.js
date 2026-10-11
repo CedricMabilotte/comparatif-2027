@@ -75,6 +75,6 @@ R.module("vocabulaire", (R) => {
   R.route(/^vocab\/mot\/(.*)$/, (m) => { R.montrer("vocab"); chercher(m[1]); $("#v-mot").scrollIntoView({ block: "center" }); });
   R.partageurs.terme = (id) => {
     const v = parTerme[id]; if (!v) return null;
-    return { surtitre: `Vocabulaire · ${v.registre || "terme"}`, corps: `${v.terme} : ${v.definition.length > 220 ? v.definition.slice(0, 217) + "…" : v.definition}`, pied: v.concurrents?.length ? `Mots concurrents : ${v.concurrents.slice(0, 3).join(", ")}` : "Qui l'emploie, et ce que le mot met en avant", texte: `« ${v.terme} » : ce que le mot désigne, qui l'emploie dans les programmes, et les mots concurrents.`, ancre: `terme-${v.id}`, page: `t/${v.id}.html`, integrer: `terme=${v.id}` };
+    return { surtitre: `Vocabulaire · ${v.registre || "terme"}`, corps: `${v.terme} : ${v.definition.length > 220 ? v.definition.slice(0, 217) + "…" : v.definition}`, pied: v.concurrents?.length ? `Mots concurrents : ${v.concurrents.slice(0, 3).join(", ")}` : "Qui l'emploie, et ce que le mot met en avant", texte: `« ${v.terme} » : ce que le mot désigne, qui l'emploie dans les programmes, et les mots concurrents.`, ancre: `terme-${v.id}`, page: `t/${v.id}.html`, integrer: `t/${v.id}.html?integrer` };
   };
 });

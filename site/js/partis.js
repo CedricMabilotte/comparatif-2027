@@ -50,7 +50,7 @@ R.module("partis", (R) => {
       <p class="mini-titre">Ses 5 propositions les plus débattues</p>
       <p class="ref">${d.selon === "votes" ? "Celles qui partagent le plus les votants du site." : "En attendant assez de votes : une proposition par concept, parmi les concepts que le plus de partis abordent."}</p>
       <ol class="debattues">${d.liste.map((p) => `<li><a href="#prop-${p.id}">${esc(p.intitule || p.citation.slice(0, 120))}</a>${d.notion?.[p.id] ? ` <a class="etiquette" href="#concept-${d.notion[p.id]}">${esc(R.parNotion[d.notion[p.id]].nom)}</a>` : ""}</li>`).join("")}</ol>
-      <div class="choix"><a class="btn" href="#jouer/aveugle/${c.id}">Juger ses propositions à l'aveugle</a><a class="btn" href="#matrice/duel/${c.id}/${C.candidatures.find((x) => x.id !== c.id).id}">Le mettre en duel</a></div>
+      <div class="choix"><a class="btn" href="#jouer/aveugle">Juger des propositions à l'aveugle</a><a class="btn" href="#matrice/duel/${c.id}/${C.candidatures.find((x) => x.id !== c.id).id}">Le mettre en duel</a></div>
       <p class="mini-titre">Documents de référence</p>
       <ul class="docs">${docs.map((d) => `<li><span><a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.titre)}</a>${d.archive ? `<span class="archive">archive ${d.millesime ?? d.date.slice(0, 4)}</span>` : ""}</span><span class="ref">${d.type} · ${d.date} · ${R.pluriel(d.citations, "citation")}</span>${d.justification ? `<span class="justif">${esc(d.justification)}</span>` : ""}</li>`).join("")}</ul>
       <p class="mini-titre">Grandes notions les plus mobilisées</p>

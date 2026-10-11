@@ -127,7 +127,9 @@ function fermerFiche() {
 R.fermerPanneaux = fermerPanneaux;
 
 // Partage : image en trois formats, texte et lien, envoi direct depuis un téléphone, code d'intégration.
-// Un module ajoute un type partageable avec R.partageurs[type] = (id) => ({ surtitre, corps, pied, texte, ancre, integrer? }).
+// Un module ajoute un type partageable avec R.partageurs[type] = (id) => ({ surtitre, corps, pied, texte, ancre, page?, integrer?, defi? }).
+// page : chemin d'une page statique d'aperçu (c/<id>.html) placé avant l'ancre dans le lien partagé ;
+// integrer : chemin de la version à intégrer dans un autre site (iframe).
 const FORMATS = { carre: [1080, 1080], paysage: [1200, 675], story: [1080, 1920] };
 let aPartager = null, imageCourante = null;
 function lignes(ctx, texte, largeur) {
@@ -171,7 +173,7 @@ R.partager = (objet) => {
   ].map(([n, h]) => `<a class="btn" href="${h}" target="_blank" rel="noopener">${n}</a>`).join("");
   R.$("#pt-envoyer").hidden = !navigator.share;
   R.$("#pt-integrer").hidden = !objet.integrer;
-  R.$("#pt-code").value = objet.integrer ? `<iframe src="https://republique.fr/integrer.html?${objet.integrer}" width="100%" height="520" style="border:1px solid #d9dce4;border-radius:12px" loading="lazy" title="${R.esc(objet.surtitre)}"></iframe>` : "";
+  R.$("#pt-code").value = objet.integrer ? `<iframe src="https://republique.fr/${objet.integrer}" width="100%" height="520" style="border:1px solid #d9dce4;border-radius:12px" loading="lazy" title="${R.esc(objet.surtitre)}"></iframe>` : "";
   R.$("#partage").hidden = false; dessinerImage(); R.$("#pt-fermer").focus();
 };
 R.initPartage = () => {

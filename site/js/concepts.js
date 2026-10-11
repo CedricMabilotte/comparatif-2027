@@ -84,7 +84,7 @@ R.module("concepts", (R) => {
   R.partageurs.notion = (id) => {
     const n = parNotion[id]; if (!n) return null;
     const k = R.abordePar(n);
-    return { surtitre: `Concept · ${n.nom}`, corps: n.definition.length > 260 ? n.definition.slice(0, 257) + "…" : n.definition, pied: `Ce qu'en disent ${R.pluriel(k, "parti")}, citations à l'appui`, texte: `${n.nom} : la définition, les enjeux et ce qu'en disent les partis, citations à l'appui.`, ancre: `concept-${n.id}`, page: `c/${n.id}.html`, integrer: `concept=${n.id}` };
+    return { surtitre: `Concept · ${n.nom}`, corps: n.definition.length > 260 ? n.definition.slice(0, 257) + "…" : n.definition, pied: `Ce qu'en disent ${R.pluriel(k, "parti")}, citations à l'appui`, texte: `${n.nom} : la définition, les enjeux et ce qu'en disent les partis, citations à l'appui.`, ancre: `concept-${n.id}`, page: `c/${n.id}.html`, integrer: `c/${n.id}.html?integrer` };
   };
   R.concepts = { ficheNotionHTML };
 });
