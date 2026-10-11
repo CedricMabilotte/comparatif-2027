@@ -302,3 +302,10 @@ ol.debattues a { color: var(--encre); }
   #f-cand .puce { padding: 3px 8px; }
   .reglages { gap: 8px 14px; }
 }
+@media (max-width: 720px) {
+  .marque b { font-size: 17px; }
+  .marque b em { display: none; }
+  .retour-mot, .avert-long { display: none; }
+  .retour { padding: 5px 10px; }
+  .recherche-globale input { width: 36vw; }
+}

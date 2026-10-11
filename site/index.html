@@ -19,7 +19,7 @@
     <div class="bandeau-haut">
       <a class="marque" href="#accueil"><b>République des mots <em>2027</em></b><span class="devise" id="devise"></span></a>
       <div class="bandeau-outils">
-        <button class="retour" id="retour" hidden>← Retour</button>
+        <button class="retour" id="retour" hidden aria-label="Retour">←<span class="retour-mot"> Retour</span></button>
         <div class="recherche-globale"><input type="search" id="recherche" placeholder="Chercher : GPA, CSG, RN…" aria-label="Chercher dans tout le site" autocomplete="off"><div class="resultats" id="resultats" hidden></div></div>
       </div>
     </div>
@@ -39,7 +39,7 @@
 </header>
 
 <main class="page" id="contenu">
-  <p class="avert" id="avert"><strong>Bêta.</strong> Corpus relevé dans les documents écrits officiels des huit principales formations, en cours de relecture. Chaque citation est vérifiée mot pour mot dans sa source ; chaque fiche a un bouton pour signaler une erreur.</p>
+  <p class="avert" id="avert"><strong>Bêta.</strong> <span class="avert-long">Corpus relevé dans les documents écrits officiels des huit principales formations, en cours de relecture. </span>Chaque citation est vérifiée mot pour mot dans sa source ; chaque fiche a un bouton pour signaler une erreur.</p>
 
   <section class="vue" id="accueil" aria-label="Accueil" hidden></section>
 
