@@ -398,7 +398,7 @@ R.module("groupes", (R) => {
         <li><strong>Projetez.</strong> Une proposition à la fois, en très gros caractères, auteur masqué. Vous révélez quand vous le décidez.</li>
         <li><strong>Lisez les résultats ensemble.</strong> Un histogramme par proposition, puis la carte des consensus de la salle.</li>
       </ol>
-      <p class="aide">Les votes de la salle sont anonymes et effacés après 30 jours. Ils comptent aussi, sans nom, dans la <a href="#consensus">carte collective du site</a>. Un vote de salle n'est pas un sondage : il dit ce que pensaient les personnes présentes, ce jour-là, sur ces textes-là.</p>
+      <p class="aide">Les votes de la salle sont anonymes et effacés après 30 jours. Ils restent dans la salle : ils ne rejoignent la <a href="#consensus">carte nationale des consensus</a> que pour les participants qui cochent eux-mêmes la case prévue, décochée par défaut. Avec des mineurs, ne demandez pas de cocher cette case ; pour les moins de 15 ans, recueillir l'accord des parents relève de l'animateur. Un vote de salle n'est pas un sondage : il dit ce que pensaient les personnes présentes, ce jour-là, sur ces textes-là.</p>
       <h2>Pour qui ?</h2>
       <div class="gr-publics">${PUBLICS.map((p) => `<article class="carte gr-public" id="public-${p.id}"><h3>${esc(p.nom)}</h3>
         <p><span class="mini-titre">À quoi ça vous sert</span><br>${esc(p.usage)}</p>
@@ -759,12 +759,13 @@ R.module("groupes", (R) => {
     const titre = e.titre ? `<h2 class="sl-titre">${esc(e.titre)}</h2>` : `<h2 class="sl-titre">${esc(NOM_SEANCE[e.seance] || "Séance")}</h2>`;
     if (!e.present && e.etat !== "close") {
       corps.innerHTML = `${titre}<div class="carte sl-rejoindre"><p>Vous allez voter pour, partagé ou contre sur des propositions présentées sans leur auteur.</p>
-        <p class="sl-info">Vos votes sont anonymes ; ils comptent aussi, sans nom, dans la carte collective du site.</p>
+        <p class="sl-info">Vos votes sont anonymes et restent dans cette salle.</p>
+        <label class="consent"><input type="checkbox" id="sl-carte"> Ajouter aussi mes votes, anonymes, à la carte nationale des consensus. Vous pourrez changer d'avis pendant la séance.</label>
         <button class="btn principal sl-gros" id="sl-rejoindre">Rejoindre la salle</button>
         <p class="ref">Rejoindre dépose un identifiant aléatoire sur cet appareil, sans lien avec votre identité. La salle et ses votes sont effacés après 30 jours.</p></div>`;
       $("#sl-rejoindre").onclick = async () => {
         $("#sl-rejoindre").disabled = true;
-        const r = await R.api("seance-rejoindre", { code: sl.code });
+        const r = await R.api("seance-rejoindre", { code: sl.code, carte: $("#sl-carte").checked });
         if (r?.ok) { sl.etat = { ...sl.etat, ...r, present: true }; dessinerSalle(); }
         else { $("#sl-rejoindre").disabled = false; corps.insertAdjacentHTML("beforeend", `<p class="ref">${esc(r?.erreur ?? "Le site ne répond pas. Réessayez.")}</p>`); }
       };
@@ -781,9 +782,15 @@ R.module("groupes", (R) => {
     corps.innerHTML = `${titre}<p class="compteur">Élément ${e.rang + 1} sur ${e.total}</p><div class="scene sl-scene">${sceneItem(e.item, e.revele)}
       ${prop ? `<div class="sl-votes" role="group" aria-label="Votre vote">${Object.entries(libelles).map(([k, n]) => `<button class="btn ${k} sl-vote" data-vote="${k}" aria-pressed="${e.mon_vote === k}">${n}</button>`).join("")}</div>
         <p class="ref" id="sl-statut" role="status">${e.mon_vote ? `Vote enregistré : ${libelles[e.mon_vote].toLowerCase()}. Vous pouvez le changer.` : "Vous pouvez aussi ne pas voter."}</p>`
-        : `<p class="ref">Pas de vote sur cet élément : lisez, écoutez, discutez.</p>`}</div>`;
+        : `<p class="ref">Pas de vote sur cet élément : lisez, écoutez, discutez.</p>`}</div>
+      <label class="consent sl-carte"><input type="checkbox" id="sl-carte" ${e.carte ? "checked" : ""}> Ajouter aussi mes votes, anonymes, à la carte nationale des consensus</label>`;
+    // Cocher ou décocher prend effet tout de suite ; décocher retire de la carte nationale les votes de cette salle.
+    $("#sl-carte").onchange = async (ev) => {
+      const r = await R.api("seance-rejoindre", { code: sl.code, carte: ev.target.checked });
+      if (r?.ok) sl.etat.carte = ev.target.checked; else ev.target.checked = !ev.target.checked;
+    };
     corps.querySelectorAll("[data-vote]").forEach((b) => b.onclick = async () => {
-      const r = await R.api("seance-vote", { code: sl.code, proposition: e.item, valeur: b.dataset.vote });
+      const r = await R.api("seance-vote", { code: sl.code, proposition: e.item, valeur: b.dataset.vote, carte: !!e.carte });
       if (r?.ok) { sl.etat.mon_vote = b.dataset.vote; dessinerSalle(); }
       else { $("#sl-statut").textContent = r?.erreur ?? "Le site ne répond pas. Réessayez."; if (r?.statut === 409) rafraichirSalle(); }
     });

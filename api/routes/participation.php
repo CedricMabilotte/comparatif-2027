@@ -115,9 +115,10 @@ return [
         $q->execute([$email]);
         if ($q->fetchColumn() === false) $db->prepare('INSERT INTO abonnes (email, cree_le, frequence) VALUES (?, ?, ?)')->execute([$email, maintenant(), $frequence]);
         else $db->prepare('UPDATE abonnes SET frequence = ? WHERE email = ?')->execute([$frequence, $email]);
-        $jeton = creer_jeton($db, 'abonnement', $email, 'P7D');
+        $jeton = creer_jeton($db, 'abonnement', $email, DUREE_NON_CONFIRME);
+        $sortie = lien_desinscription($db, $config, $email);
         $rythme = $frequence === 'jour' ? 'chaque matin' : 'chaque dimanche';
-        envoyer($config, $email, 'Confirmez votre inscription', "Bonjour,\n\nVous avez demandé à recevoir un concept $rythme. Pour confirmer votre adresse, ouvrez ce lien :\n{$config['url_site']}/api/index.php?r=confirmer&jeton=$jeton\n\nSans confirmation, votre adresse sera effacée. Chaque lettre comporte un lien de désinscription.\n");
+        envoyer($config, $email, 'Confirmez votre inscription', "Bonjour,\n\nVous avez demandé à recevoir un concept $rythme. Pour confirmer votre adresse, ouvrez ce lien :\n{$config['url_site']}/api/index.php?r=confirmer&jeton=$jeton\n\nSans confirmation, votre adresse sera effacée dans les 7 jours. Chaque lettre comporte un lien de désinscription ; le voici déjà :\n$sortie\n");
         repondre(200, ['ok' => true]);
     },
 

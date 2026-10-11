@@ -446,24 +446,24 @@ R.module("jeux", (R) => {
       ${pr.revele ? `<span class="lecture">Ce que le mot met en avant</span><p class="def">${esc(v.lecture || v.definition || "")}</p><p><a href="#terme-${v.id}">La fiche de ce mot</a></p>`
       : `<p class="def">${esc(v.definition || "")}</p><p class="mini-titre" id="pa-q-${k}">Qui l'emploie ? Cochez une ou plusieurs forces.</p>
         <div class="choix" role="group" aria-labelledby="pa-q-${k}">${IDS.map((c) => `<button class="puce" data-cote="${k}" data-c="${c}" aria-pressed="${pr.choix[k].includes(c)}" data-actif="${pr.choix[k].includes(c)}">${esc(cand[c].sigle)}<span class="lecteur-seul"> ${esc(cand[c].nom)}</span></button>`).join("")}</div>`}</div>`;
-    // Révélation en miroir : une ligne par force, le premier mot à gauche, le second à droite,
-    // et une phrase qui dit d'abord qui emploie quoi.
+    // Révélation : une ligne par force et, pour chaque mot, une barre à deux zones [oui][non].
+    // La zone pleine dit ce que montrent les textes ; la réponse du joueur porte ✓ (juste) ou ✗ (raté).
     let tableau = "";
     if (pr.revele) {
-      const max = Math.max(1, ...mots.flatMap((v) => usageDe(v).map((x) => x[1])));
       const qui = (v) => { const u = usageDe(v).sort((x, y) => y[1] - x[1]); return u.length ? u.slice(0, 3).map(([c]) => esc(cand[c].nom)).join(", ") + (u.length > 3 ? ` et ${u.length - 3} autre${u.length > 4 ? "s" : ""}` : "") : "aucune force"; };
-      const marque = (k, c) => { const n = mots[k].usage?.[c] || 0, coche = pr.choix[k].includes(c), juste = coche === n > 0;
-        return `<span class="pm-marque ${juste ? "ok" : "ko"}" title="${coche ? "Vous l'aviez coché" : "Vous ne l'aviez pas coché"}${juste ? "" : ", à revoir"}">${juste ? "✓" : "✗"}<span class="lecteur-seul">${juste ? " bonne réponse" : " erreur"}</span></span>`; };
-      const ligne = (c) => { const na = a.usage?.[c] || 0, nb = b.usage?.[c] || 0;
-        return `<div class="pm-ligne${na || nb ? "" : " pm-vide"}">
-          ${marque(0, c)}<span class="pm-n">${na || ""}</span><span class="pm-barre pm-a"><i style="width:${(na / max) * 100}%"></i></span>
-          <span class="pm-force">${sigle(c)}</span>
-          <span class="pm-barre pm-b"><i style="width:${(nb / max) * 100}%"></i></span><span class="pm-n">${nb || ""}</span>${marque(1, c)}</div>`; };
+      const zone = (oui, k, c) => {
+        const n = mots[k].usage?.[c] || 0, vrai = oui === n > 0, choisi = oui === pr.choix[k].includes(c);
+        const marque = choisi ? (vrai ? `<b class="pz-ok" aria-hidden="true">✓</b>` : `<b class="pz-ko" aria-hidden="true">✗</b>`) : "";
+        const dit = `${oui ? "oui" : "non"}${vrai ? ", selon les textes" : ""}${choisi ? (vrai ? ", votre réponse, juste" : ", votre réponse, ratée") : ""}`;
+        return `<span class="pz${oui ? " pz-oui" : " pz-non"}${vrai ? " pz-vrai" : ""}${choisi ? (vrai ? " pz-juste" : " pz-rate") : ""}" title="${dit}">${marque}${oui ? `Oui${n ? ` · ${n}` : ""}` : "Non"}<span class="lecteur-seul"> : ${dit}</span></span>`;
+      };
+      const barre = (k, c) => `<span class="pz-barre pz-${k ? "b" : "a"}" aria-label="${esc(mots[k].terme)}">${zone(true, k, c)}${zone(false, k, c)}</span>`;
+      const ligne = (c) => `<div class="pz-ligne"><span class="pz-force">${sigle(c)}</span>${barre(0, c)}${barre(1, c)}</div>`;
       tableau = `<p class="pm-phrase"><strong>« ${esc(a.terme)} »</strong> revient surtout chez ${qui(a)}. <strong>« ${esc(b.terme)} »</strong> revient surtout chez ${qui(b)}.</p>
-        <div class="pm" role="img" aria-label="Nombre d'emplois de chaque mot, force par force">
-          <div class="pm-ligne pm-tete"><span></span><span></span><span class="pm-mot pm-a">${esc(a.terme)}</span><span></span><span class="pm-mot pm-b">${esc(b.terme)}</span><span></span><span></span></div>
+        <div class="pz-tableau">
+          <div class="pz-ligne pz-tete"><span></span><span class="pz-mot pz-a">${esc(a.terme)}</span><span class="pz-mot pz-b">${esc(b.terme)}</span></div>
           ${IDS.map(ligne).join("")}</div>
-        <p class="ref">Longueur des barres : nombre d'emplois dans les textes lus. ✓ votre réponse correspond aux textes, ✗ elle ne correspond pas.</p>`;
+        <p class="ref">Zone pleine : ce que disent les textes lus (avec le nombre d'emplois). <b class="pz-ok">✓</b> votre réponse était juste, <b class="pz-ko">✗</b> elle était ratée.</p>`;
     }
     s.innerHTML = `<p class="compteur">Paire ${pr.i + 1} sur ${pr.paires.length} · score ${pr.score}${pr.total ? " sur " + pr.total : ""}</p>
       <div class="duel-cols paire">${colonne(a, 0)}${colonne(b, 1)}</div>
@@ -591,17 +591,17 @@ ${themes.map(({ t, items }) => `<h2>${esc(t.nom)}</h2><ul>${items.map((p) => `<l
     const { themes, parForce } = resultatsProfil(), groupes = [...new Set(parForce.map((x) => x.n))].sort((a, b) => b - a);
     const voteLabel = (v) => `<b class="vote-${v}">${VOTE[v]}</b>`;
     s.innerHTML = `<p class="compteur">Votre profil d'idées · ${date(new Date(pf.fini || Date.now()))}</p>
-      <p class="citation" aria-live="polite">Thème par thème, les idées que vous avez approuvées.</p>
+      <section class="carte bloc-jeu" aria-labelledby="pf-forces"><h3 id="pf-forces">Les forces dont vous avez approuvé le plus d'idées dans ce test</h3>
+        ${radarProfil(parForce)}
+        <details><summary class="plus">Voir en liste</summary><ul class="profil-forces">${groupes.map((n) => `<li><span class="n">${n} sur 3</span><span>${parForce.filter((x) => x.n === n).map((x) => `${sigle(x.c)} ${esc(cand[x.c].nom)}`).join(", ")}</span></li>`).join("")}</ul></details>
+        <p class="ref">Trois idées par force : l'échantillon est petit, et une idée approuvée ne dit pas qu'on approuve tout un programme.</p></section>
+      <h3 class="mini-titre" id="pf-themes">Thème par thème, les idées que vous avez approuvées</h3>
       <div class="profil-themes">${themes.map(({ t, items }) => {
         const ok = items.filter((p) => pf.rep[p.id] === "pour");
         return `<article class="carte"><h3>${esc(t.nom)}</h3>
           <p>${ok.length ? `Sur ce thème, vous avez approuvé surtout : ${ok.map((p) => `<strong>${esc(titreIdee(p))}</strong>`).join(" ; ")}.` : "Sur ce thème, vous n'avez approuvé aucune des idées proposées."}</p>
           <ul class="liste-idees">${items.map((p) => `<li>${voteLabel(pf.rep[p.id])} « ${esc(tronque(p.citation, 140))} » ${sigle(p.candidature)} <a href="#prop-${p.id}">source</a></li>`).join("")}</ul></article>`;
       }).join("")}</div>
-      <section class="carte bloc-jeu" aria-labelledby="pf-forces"><h3 id="pf-forces">Les forces dont vous avez approuvé le plus d'idées dans ce test</h3>
-        ${radarProfil(parForce)}
-        <details><summary class="plus">Voir en liste</summary><ul class="profil-forces">${groupes.map((n) => `<li><span class="n">${n} sur 3</span><span>${parForce.filter((x) => x.n === n).map((x) => `${sigle(x.c)} ${esc(cand[x.c].nom)}`).join(", ")}</span></li>`).join("")}</ul></details>
-        <p class="ref">Trois idées par force : l'échantillon est petit, et une idée approuvée ne dit pas qu'on approuve tout un programme.</p></section>
       <p class="ref">${esc(NE_MESURE_PAS)}</p>
       <div class="choix"><button class="btn principal" id="pf-telecharger">Télécharger mes résultats</button><button class="btn" id="pf-courriel" aria-expanded="false" aria-controls="pf-email">Recevoir par e-mail</button><button class="btn" id="pf-partager">Partager</button><button class="btn" id="pf-refaire">Refaire avec 24 autres idées</button></div>
       <form class="carte bloc-jeu" id="pf-email" hidden>

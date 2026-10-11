@@ -27,4 +27,5 @@ Créer le dossier `donnees/` hors de la racine web. L'API crée et met à jour l
 ## Données personnelles
 - Les votes sont liés à un identifiant aléatoire (`votants`), le lien avec un compte est dans `liens_votants`.
 - La table `abonnes` sert de liste de diffusion en attendant l'outil d'envoi.
-- Purger régulièrement `jetons`, `sessions` expirées et `abonnes` non confirmés depuis plus de 7 jours.
+- La purge est automatique (`entretenir()` dans `api/commun.php`, au plus une fois par heure, déclenchée par la première requête) : jetons et sessions expirés, limites de débit échues, abonnés et animateurs non confirmés après 7 jours, salles de séance après 30 jours, adresse des séances déclarées 3 mois après la séance, contributions refusées et retours de séance après un an, comptes sans connexion depuis 3 ans, votes de la carte nationale au 1er janvier 2028. Ces durées sont affichées dans la page « Vie privée » (`site/js/accueil.js`) : modifier les deux ensemble.
+- Chaque message de la lettre doit contenir le lien donné par `lien_desinscription()` (route `desinscription`).

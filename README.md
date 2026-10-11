@@ -34,4 +34,8 @@ python3 -m http.server -d site     # puis ouvrir http://localhost:8000
 
 ## Licences
 
-Code : MIT. Données : Licence Ouverte Etalab 2.0 (à confirmer avant publication du corpus réel).
+- Code : MIT (fichier `LICENSE`).
+- Textes éditoriaux (fiches, définitions, glossaire) et données de classement : Creative Commons BY-SA 4.0, dans la mesure où ils sont protégés par le droit d'auteur (ils ont été rédigés avec l'aide d'une IA, sous la direction de l'éditeur).
+- **Les citations des programmes (champ `citation` de `data/corpus.json` et `site/corpus.json`) ne sont couvertes par aucune de ces licences.** Elles appartiennent à leurs auteurs et sont reproduites au titre de la courte citation (CPI, art. L. 122-5, 3°, a), avec leur source.
+
+Éditeur, hébergeur et règle de modération : page « Mentions légales » du site (`#mentions-legales`).

@@ -244,7 +244,7 @@ R.module("participer", (R) => {
       : `<form class="formulaire" id="f-compte" novalidate>
       <label class="ref" for="c-email">Adresse e-mail</label>
       <input class="champ" type="email" id="c-email" autocomplete="email" required>
-      <label class="consent"><input type="checkbox" id="c-consent"> J'accepte que mes votes soient enregistrés. Ils restent séparés de mon adresse, ne sont jamais publiés individuellement et je peux les effacer à tout moment.</label>
+      <label class="consent"><input type="checkbox" id="c-consent"> J'accepte que mes votes soient enregistrés. Ils restent séparés de mon adresse, ne sont jamais publiés individuellement et je peux les effacer à tout moment dans <a href="#compte">Mon espace</a>.</label>
       <button class="btn principal" type="submit">Recevoir mon lien de connexion</button>
       <p class="ref" role="status" aria-live="polite" id="c-etat"></p></form>`;
     if (id === "cercles") return `<ul class="docs cercles" id="r-cercles">${CERCLES.map(([c, n, d]) => `<li><span><strong>${esc(n)}</strong> · ${esc(d)}</span>
@@ -359,7 +359,11 @@ R.module("participer", (R) => {
   // Retour d'un lien reçu par e-mail : un message, puis la page Participer.
   const message = { "#bienvenue": "Vous êtes connecté.", "#connexion-expiree": "Ce lien de connexion a expiré. Demandez-en un nouveau.", "#abonnement-confirme": "Inscription confirmée. Votre premier concept arrive bientôt.", "#lien-expire": "Ce lien a expiré." }[location.hash];
   dessinerPage();
-  if (message) {
+  if (message && /bienvenue|connexion-expiree/.test(location.hash)) {
+    // La connexion aboutit dans « Mon espace » (compte.js), qui affiche le message.
+    sessionStorage.setItem("rdm-message", message === "Vous êtes connecté." ? "Bienvenue : vous êtes connecté. Tout ce qui concerne votre compte est ici." : message);
+    history.replaceState(history.state, "", "#compte");
+  } else if (message) {
     $(/abonnement|lien-expire/.test(location.hash) ? "#l-etat" : "#c-etat").textContent = message;
     history.replaceState(history.state, "", "#rejoindre");
   }

@@ -1,5 +1,5 @@
 <?php
-// Routes de base : votes à l'aveugle, lien magique, profil, lettre d'information.
+// Routes de base : votes à l'aveugle, lien magique, profil, lettre d'information et désinscription.
 declare(strict_types=1);
 
 return [
@@ -54,6 +54,7 @@ return [
         $s = rtrim(strtr(base64_encode(random_bytes(32)), '+/', '-_'), '=');
         $db->prepare('INSERT INTO sessions (empreinte, compte_id, expire_le) VALUES (?, ?, ?)')->execute([hash('sha256', $s), $id, maintenant(DUREE_SESSION)]);
         cookie('session', $s, DUREE_SESSION);
+        $db->prepare('UPDATE comptes SET vu_le = ? WHERE id = ?')->execute([maintenant(), $id]);
         $v = votant($db);
         $db->prepare('DELETE FROM liens_votants WHERE compte_id = ? AND votant_id = ?')->execute([$id, $v]);
         $db->prepare('INSERT INTO liens_votants (compte_id, votant_id) VALUES (?, ?)')->execute([$id, $v]);
@@ -93,9 +94,19 @@ return [
         $q = $db->prepare('SELECT confirme FROM abonnes WHERE email = ?');
         $q->execute([$email]);
         if ($q->fetchColumn() === false) $db->prepare('INSERT INTO abonnes (email, cree_le) VALUES (?, ?)')->execute([$email, maintenant()]);
-        $jeton = creer_jeton($db, 'abonnement', $email, 'P7D');
-        envoyer($config, $email, 'Confirmez votre inscription', "Bonjour,\n\nPour recevoir la lettre de République des mots, confirmez votre adresse :\n{$config['url_site']}/api/index.php?r=confirmer&jeton=$jeton\n\nSans confirmation, votre adresse sera effacée.\n");
+        $jeton = creer_jeton($db, 'abonnement', $email, DUREE_NON_CONFIRME);
+        $sortie = lien_desinscription($db, $config, $email);
+        envoyer($config, $email, 'Confirmez votre inscription', "Bonjour,\n\nPour recevoir la lettre de République des mots, confirmez votre adresse :\n{$config['url_site']}/api/index.php?r=confirmer&jeton=$jeton\n\nSans confirmation, votre adresse sera effacée dans les 7 jours.\nPour effacer votre adresse dès maintenant, ou plus tard :\n$sortie\n");
         repondre(200, ['ok' => true]);
+    },
+
+    // Désinscription en un clic depuis n'importe quel message : l'adresse est effacée. La réponse est la
+    // même que le jeton soit connu ou non, pour ne pas dire si une adresse est inscrite.
+    'GET desinscription' => function (PDO $db, array $config): void {
+        $jeton = (string) ($_GET['jeton'] ?? '');
+        if ($jeton !== '') $db->prepare('DELETE FROM abonnes WHERE cle_desinscription = ?')->execute([hash('sha256', $jeton)]);
+        header('Location: ' . $config['url_site'] . '/#desinscrit');
+        exit;
     },
 
     'GET confirmer' => function (PDO $db, array $config): void {

@@ -258,12 +258,7 @@ a { color: var(--accent); }
 a.mot { text-decoration: none; display: inline-block; }
 a.etiquette { text-decoration: none; }
 
-/* Matrice : le cadre tient dans l'écran, l'ascenseur horizontal reste visible, en-têtes collés */
-.matrice-cadre { max-height: calc(100vh - var(--haut-bandeau) - 40px); overflow: auto; border-radius: var(--rayon); scrollbar-gutter: stable; }
-.matrice-cadre::-webkit-scrollbar { height: 14px; width: 12px; }
-.matrice-cadre::-webkit-scrollbar-thumb { background: color-mix(in srgb, var(--accent) 45%, var(--filet)); border-radius: 8px; border: 3px solid var(--surface); }
-.matrice-cadre::-webkit-scrollbar-track { background: var(--papier); }
-.matrice-cadre { scrollbar-color: color-mix(in srgb, var(--accent) 45%, var(--filet)) var(--papier); }
+/* Matrice : en-têtes de lignes collés à gauche */
 .matrice thead th { z-index: 2; }
 .matrice tbody th { position: sticky; left: 0; z-index: 1; }
 .matrice thead th:first-child { left: 0; z-index: 3; }
@@ -313,5 +308,21 @@ a.retour { text-decoration: none; white-space: nowrap; }
 @media (max-width: 720px) { #compte-lien { font-size: 13px; padding: 5px 9px; } }
 .a-propos .devise-grande { font-family: var(--f-texte); font-style: italic; font-size: clamp(22px, 3vw, 30px); color: var(--accent); margin: 0; }
 /* Matrice : zone d'affichage deux fois plus haute, flèches de défilement collées sous le bandeau */
-.matrice-cadre { max-height: calc(2 * (100vh - var(--haut-bandeau) - 40px)); }
-.defile-barre { position: sticky; top: calc(var(--haut-bandeau) + 4px); z-index: 4; background: var(--papier); padding: 4px 0; }
+/* Matrice : en-tête fixe (flèches, ascenseur, noms des partis) collé sous le bandeau ; le tableau
+   lui-même ne défile qu'en largeur, la page défile en hauteur. */
+.matrice-cadre { max-height: none; overflow-x: auto; overflow-y: hidden; scrollbar-width: none; }
+.matrice-cadre::-webkit-scrollbar { display: none; }
+.m-tete { position: sticky; top: var(--bandeau-reel, var(--haut-bandeau)); z-index: 6; background: var(--papier); padding-top: 6px; box-shadow: 0 6px 10px -8px rgba(0,0,0,.25); }
+.m-tete .defile-barre { padding: 0 0 4px; }
+.m-ascenseur { flex: 1; overflow-x: scroll; overflow-y: hidden; height: 16px; border-radius: 8px; background: var(--surface); border: 1px solid var(--filet); }
+.m-ascenseur > div { height: 1px; }
+.m-ascenseur::-webkit-scrollbar { height: 14px; -webkit-appearance: none; }
+@supports (-moz-appearance: none) { .m-ascenseur { scrollbar-color: color-mix(in srgb, var(--accent) 55%, var(--filet)) var(--surface); } }
+.m-ascenseur::-webkit-scrollbar-thumb { background: color-mix(in srgb, var(--accent) 55%, var(--filet)); border-radius: 8px; border: 3px solid var(--surface); }
+.m-ascenseur::-webkit-scrollbar-track { background: var(--surface); border-radius: 8px; }
+.m-tete-tab { overflow: hidden; border: 1px solid var(--filet); border-bottom: 0; border-radius: 8px 8px 0 0; background: var(--surface); }
+.m-tete-tab table.matrice { min-width: 0; table-layout: fixed; }
+.m-tete-tab .matrice thead th { position: static; }
+.m-tete-tab .matrice thead th:first-child { position: sticky; left: 0; }
+table.matrice.avec-tete-fixe thead tr { visibility: collapse; }
+.matrice-cadre:has(.avec-tete-fixe) { border-top-left-radius: 0; border-top-right-radius: 0; }

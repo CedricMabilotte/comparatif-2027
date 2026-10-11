@@ -2,13 +2,20 @@
 // dessine une carte dans n'importe quel conteneur (la carte globale ici, la carte d'une séance dans Groupes).
 "use strict";
 R.module("consensus", (R) => {
-  const { $, esc, C, cand } = R;
+  const { $, esc, C } = R;
   const MAX_ITEMS = 80;
   const tirage = Consensus.alea(2027);
   const echantillon = [...C.propositions].map((p) => [tirage(), p.id]).sort((x, y) => x[0] - y[0]).map((x) => x[1]);
   const TRANSVERSALES = echantillon.slice(0, 4); // propositions que la simulation rend populaires partout
   const COUL = ["var(--g1)", "var(--g2)", "var(--g3)", "var(--g4)"];
   const SEUIL_REEL = 30; // en dessous, la carte serait trop instable : on reste sur la simulation
+  // Suspension de la carte nationale autour des scrutins (esprit de la loi du 19 juillet 1977) :
+  // du samedi 0 h précédant chaque tour à la fermeture du dernier bureau de vote. Dates ISO avec fuseau,
+  // par exemple { du: "2027-04-10T00:00:00+02:00", au: "2027-04-11T20:00:00+02:00" }. À remplir quand
+  // le calendrier de 2027 sera fixé.
+  const SUSPENSIONS = [];
+  const PAS_UN_SONDAGE = "Ce n'est pas un sondage : les votants se sont choisis eux-mêmes, ils ne représentent pas la population.";
+  const suspendue = (t = Date.now()) => SUSPENSIONS.some((p) => t >= Date.parse(p.du) && t < Date.parse(p.au));
 
   // votants : [{ id, votes: { idProposition: -1|0|1 } }], celui dont l'id vaut "moi" est entouré.
   function carte(cible, votants, items) {
@@ -28,7 +35,7 @@ R.module("consensus", (R) => {
     }
     const ligne = (it) => {
       const p = R.parId[it.id];
-      return `<div class="c-item"><span>« ${esc(p.citation)} »</span><span class="ref"><span class="sigle">${esc(cand[p.candidature].sigle)}</span> accord par groupe · <a href="#prop-${p.id}">ouvrir</a></span>
+      return `<div class="c-item"><span>« ${esc(p.citation)} »</span><span class="ref">accord par groupe · <a href="#prop-${p.id}">ouvrir la source</a></span>
         <div class="c-barres">${it.accord.map((v, g) => `<span title="Groupe ${g + 1} : ${Math.round(v * 100)} %"><i style="width:${v * 100}%;background:${COUL[g]}"></i></span>`).join("")}</div></div>`;
     };
     cible.innerHTML = `<div class="carto">
@@ -37,11 +44,18 @@ R.module("consensus", (R) => {
       <h2>Ce qui divise</h2><div class="c-liste">${[...a.parItem].sort((x, y) => y.division - x.division).slice(0, 3).map(ligne).join("")}</div></div></div>`;
     return a;
   }
-  R.consensus = { carte, MAX_ITEMS, SEUIL_REEL };
+  R.consensus = { carte, MAX_ITEMS, SEUIL_REEL, PAS_UN_SONDAGE, suspendue };
 
   const zone = document.createElement("div");
   $("#consensus .carto").replaceWith(zone);
   async function dessiner() {
+    const avert = $("#c-avert");
+    avert.hidden = false;
+    if (suspendue()) {
+      avert.innerHTML = `<strong>Carte suspendue.</strong> Conformément à l'esprit de la loi du 19 juillet 1977, la carte nationale est suspendue du samedi précédant chaque tour de l'élection présidentielle, à 0 h, jusqu'à la fermeture du dernier bureau de vote. Vous pouvez toujours voter à l'aveugle et consulter les sources.`;
+      zone.innerHTML = "";
+      return;
+    }
     const reels = R.enLigne ? (await R.api("votes"))?.votants ?? [] : [];
     const simule = reels.length < SEUIL_REEL;
     const votes = R.votes || {};
@@ -49,7 +63,10 @@ R.module("consensus", (R) => {
     if (!simule) for (const v of reels) for (const k in v.votes) nbVotes[k] = (nbVotes[k] || 0) + 1;
     const base = simule ? echantillon : Object.keys(nbVotes).sort((x, y) => nbVotes[y] - nbVotes[x]);
     const items = [...new Set([...Object.keys(votes).filter((k) => R.parId[k]), ...base])].slice(0, MAX_ITEMS);
-    $("#c-avert").hidden = !simule;
+    // L'avertissement reste affiché, simulation ou votes réels.
+    avert.innerHTML = simule
+      ? `<strong>Simulation.</strong> En attendant les vrais votes, la carte s'appuie sur 150 votants simulés, plus vos propres votes à l'aveugle. ${esc(PAS_UN_SONDAGE)}`
+      : `<strong>${esc(PAS_UN_SONDAGE)}</strong> Les résultats ne disent rien de l'opinion des Français ni des intentions de vote : ils montrent seulement, proposition par proposition, ce qui rapproche ou divise les ${reels.length.toLocaleString("fr")} personnes qui ont voté ici, au ${new Date().toLocaleDateString("fr")}.`;
     const miens = Object.fromEntries(Object.entries(votes).map(([k, v]) => [k, { pour: 1, partage: 0, contre: -1 }[v]]));
     let votants;
     if (simule) {

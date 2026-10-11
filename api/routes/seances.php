@@ -2,7 +2,8 @@
 // Groupes : salles de séance (code court, clé d'animateur, votes des participants),
 // réseau d'animateurs (inscription confirmée, déclaration de séance modérée, retours d'expérience).
 // Les salles sont anonymes et éphémères : tout ce qui les concerne est effacé après 30 jours.
-// Les votes de salle comptent aussi, sans nom, dans la table « votes » de la carte globale.
+// Les votes de salle ne rejoignent la carte nationale (table « votes ») que si le participant a coché
+// la case prévue (salle_presences.carte, décochée par défaut) ; sinon ils restent dans la salle.
 declare(strict_types=1);
 
 const GROUPES_ALPHABET = 'ABCDEFGHJKMNPQRSTUVWXYZ23456789'; // ni 0/O, ni 1/I/L
@@ -66,14 +67,18 @@ function groupes_etat(PDO $db, array $s): array {
     ];
     // Le téléphone retrouve son propre vote (cookie aléatoire, lu sans en créer un).
     $v = $_COOKIE['votant'] ?? '';
-    if ($courant && preg_match('/^[0-9a-f-]{36}$/', $v)) {
-        $q = $db->prepare('SELECT valeur FROM salle_votes WHERE code = ? AND votant_id = ? AND proposition_id = ?');
-        $q->execute([$s['code'], $v, $courant]);
-        $val = $q->fetchColumn();
-        $etat['mon_vote'] = $val === false ? null : array_search((int) $val, VALEURS, true);
-        $q = $db->prepare('SELECT 1 FROM salle_presences WHERE code = ? AND votant_id = ?');
+    if (preg_match('/^[0-9a-f-]{36}$/', $v)) {
+        if ($courant) {
+            $q = $db->prepare('SELECT valeur FROM salle_votes WHERE code = ? AND votant_id = ? AND proposition_id = ?');
+            $q->execute([$s['code'], $v, $courant]);
+            $val = $q->fetchColumn();
+            $etat['mon_vote'] = $val === false ? null : array_search((int) $val, VALEURS, true);
+        }
+        $q = $db->prepare('SELECT carte FROM salle_presences WHERE code = ? AND votant_id = ?');
         $q->execute([$s['code'], $v]);
-        $etat['present'] = (bool) $q->fetchColumn();
+        $carte = $q->fetchColumn();
+        $etat['present'] = $carte !== false;
+        $etat['carte'] = (bool) $carte;
     }
     return $etat;
 }
@@ -156,13 +161,16 @@ return [
     },
 
     // Rejoindre est un geste explicite : c'est lui qui crée le cookie de votant aléatoire.
+    // « carte » : true seulement si le participant a coché la case de la carte nationale.
     'POST seance-rejoindre' => function (PDO $db, array $config): void {
         $d = corps();
         $s = groupes_salle($db, groupes_code_valide($d['code'] ?? ''));
         limiter($db, $config, 'rejoindre', 300); // une classe partage souvent une seule adresse IP
         $v = votant($db);
+        $carte = ($d['carte'] ?? false) === true;
+        if (!$carte) $db->prepare('DELETE FROM votes WHERE votant_id = ? AND proposition_id IN (SELECT proposition_id FROM salle_votes WHERE code = ? AND votant_id = ?) AND EXISTS (SELECT 1 FROM salle_presences WHERE code = ? AND votant_id = ? AND carte = 1)')->execute([$v, $s['code'], $v, $s['code'], $v]);
         $db->prepare('DELETE FROM salle_presences WHERE code = ? AND votant_id = ?')->execute([$s['code'], $v]);
-        $db->prepare('INSERT INTO salle_presences (code, votant_id, le) VALUES (?, ?, ?)')->execute([$s['code'], $v, maintenant()]);
+        $db->prepare('INSERT INTO salle_presences (code, votant_id, le, carte) VALUES (?, ?, ?, ?)')->execute([$s['code'], $v, maintenant(), $carte ? 1 : 0]);
         $_COOKIE['votant'] = $v;
         repondre(200, ['ok' => true] + groupes_etat($db, $s));
     },
@@ -179,16 +187,27 @@ return [
         $valeur = VALEURS[$d['valeur'] ?? ''] ?? erreur(400, 'Valeur attendue : pour, partage ou contre.');
         limiter($db, $config, 'vote-salle', 3000);
         $v = $_COOKIE['votant'] ?? '';
-        $q = $db->prepare('SELECT 1 FROM salle_presences WHERE code = ? AND votant_id = ?');
+        $q = $db->prepare('SELECT carte FROM salle_presences WHERE code = ? AND votant_id = ?');
         $q->execute([$s['code'], $v]);
-        if (!$q->fetch()) erreur(403, 'Rejoignez d\'abord la salle.');
+        $carte = $q->fetchColumn();
+        if ($carte === false) erreur(403, 'Rejoignez d\'abord la salle.');
+        $carte = (bool) $carte;
+        // La case peut être cochée ou décochée en cours de séance.
+        if (is_bool($d['carte'] ?? null) && $d['carte'] !== $carte) {
+            $carte = $d['carte'];
+            $db->prepare('UPDATE salle_presences SET carte = ? WHERE code = ? AND votant_id = ?')->execute([$carte ? 1 : 0, $s['code'], $v]);
+            // Accord retiré : les votes de cette salle déjà versés à la carte nationale en sont retirés.
+            if (!$carte) $db->prepare('DELETE FROM votes WHERE votant_id = ? AND proposition_id IN (SELECT proposition_id FROM salle_votes WHERE code = ? AND votant_id = ?)')->execute([$v, $s['code'], $v]);
+        }
         $le = maintenant();
         $db->prepare('DELETE FROM salle_votes WHERE code = ? AND votant_id = ? AND proposition_id = ?')->execute([$s['code'], $v, $prop]);
         $db->prepare('INSERT INTO salle_votes (code, votant_id, proposition_id, valeur, le) VALUES (?, ?, ?, ?, ?)')->execute([$s['code'], $v, $prop, $valeur, $le]);
-        // Le même vote, sans nom ni salle, rejoint la carte globale des consensus.
-        $db->prepare('DELETE FROM votes WHERE votant_id = ? AND proposition_id = ?')->execute([$v, $prop]);
-        $db->prepare('INSERT INTO votes (votant_id, proposition_id, valeur, le) VALUES (?, ?, ?, ?)')->execute([$v, $prop, $valeur, $le]);
-        repondre(200, ['ok' => true, 'mon_vote' => $d['valeur']]);
+        // Avec l'accord du participant seulement, le même vote, sans nom ni salle, rejoint la carte nationale.
+        if ($carte) {
+            $db->prepare('DELETE FROM votes WHERE votant_id = ? AND proposition_id = ?')->execute([$v, $prop]);
+            $db->prepare('INSERT INTO votes (votant_id, proposition_id, valeur, le) VALUES (?, ?, ?, ?)')->execute([$v, $prop, $valeur, $le]);
+        }
+        repondre(200, ['ok' => true, 'mon_vote' => $d['valeur'], 'carte' => $carte]);
     },
 
     // Résultats : décompte par proposition et matrice anonyme (identifiants remplacés, ordre mélangé).

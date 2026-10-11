@@ -63,3 +63,11 @@
   .marche-dl dd { margin-bottom: 6px; }
   .echelle-sommaire a { font-size: 13px; }
 }
+
+/* Mon espace */
+.espace { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 1fr)); }
+.espace-liste li { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.espace-deux { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr)); }
+.espace-mod { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; background: var(--fond-doux, #eef0fb); padding: 10px; border-radius: 10px; margin: 0; }
+.espace label.btn { cursor: pointer; }
+.btn.danger { color: #b3261e; border-color: #e3b5b1; }

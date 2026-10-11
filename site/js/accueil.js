@@ -1,5 +1,5 @@
 // Accueil (trois portes), recherche unique dans le bandeau, fiche d'une proposition (#prop-<id>)
-// et page « Vie privée ».
+// et pages « Vie privée », « À propos » et « Mentions légales ».
 "use strict";
 R.DEVISE = "Les idées d'abord, les noms ensuite.";
 R.module("accueil", (R) => {
@@ -102,19 +102,46 @@ R.module("accueil", (R) => {
     return { surtitre: p.concepts.length ? `${c.nom} · ${R.nomConcept[p.concepts[0]]}` : c.nom, corps: `« ${p.citation} »`, pied: `${p.source.titre}, ${R.page(p.source)}`, texte: `« ${p.citation} » (${c.nom})`, ancre: `prop-${p.id}` };
   };
 
-  // Vie privée : ce qui est retenu, où, et comment tout effacer
-  function dessinerViePrivee() {
+  // Vie privée : ce qui est retenu, où, et comment tout effacer. Les durées ci-dessous sont celles que
+  // l'API applique (constantes DUREE_* et FIN_VOTES de api/commun.php) : les modifier ensemble.
+  const CONTACT = "bonjour@republique.fr";
+  function dessinerViePrivee(annonce = "") {
     const ch = R.choix || {};
     $("#vie-privee").innerHTML = `<div class="methode">
+      ${annonce ? `<p class="avert" role="status">${esc(annonce)}</p>` : ""}
       <h2>Vie privée : aucun traceur</h2>
       <p>Ce site ne mesure pas les visites, n'affiche aucune publicité, ne charge aucun service tiers (même les polices de caractères sont servies d'ici) et ne dépose aucun cookie tant que vous ne le demandez pas.</p>
       <h3>Ce que votre navigateur peut retenir, si vous le voulez</h3>
       <label class="consent"><input type="checkbox" id="vp-memoire" ${ch.memoire ? "checked" : ""}> Me souvenir sur cet appareil : vos votes à l'aveugle, vos scores, vos résultats de tests et le dernier concept lu. Ces données restent dans votre navigateur et ne nous sont jamais envoyées. Sans cette case, tout disparaît à la fermeture de l'onglet.</label>
       <h3>Ce que vous pouvez confier au site, si vous le voulez</h3>
       <label class="consent"><input type="checkbox" id="vp-collectif" ${ch.collectif ? "checked" : ""}> Ajouter mes votes à la carte collective des consensus. Le site dépose alors un cookie technique contenant un numéro tiré au hasard, sans lien avec votre identité, pour ne compter qu'une fois chacun de vos votes.</label>
-      <p>Un compte (adresse e-mail, lien de connexion sans mot de passe) sert seulement à retrouver vos votes sur plusieurs appareils, à recevoir la lettre ou à déclarer une séance. Il dépose un cookie de session, effacé à la déconnexion. Vos votes restent stockés séparément de votre adresse.</p>
+      <p>Un compte (adresse e-mail, lien de connexion sans mot de passe) sert seulement à retrouver vos votes sur plusieurs appareils, à recevoir la lettre ou à déclarer une séance. Il dépose un cookie de session, effacé à la déconnexion. Vos votes sont rangés à part de votre adresse ; un lien technique permet de les retrouver depuis votre compte et disparaît avec lui.</p>
       <div class="choix"><button class="btn" id="vp-telecharger">Télécharger ce que mon navigateur retient</button><button class="btn contre" id="vp-effacer">Tout effacer sur cet appareil</button><span class="ref" id="vp-etat" role="status"></span></div>
       <p class="ref">Seul votre choix lui-même est toujours gardé dans le navigateur, pour ne pas vous reposer la question à chaque page. Le code du site est public : chacun peut vérifier ces engagements.</p>
+
+      <h3>Qui est responsable de vos données</h3>
+      <p>Le responsable du traitement est l'éditeur du site, une personne physique publiant sous le pseudonyme <strong>eozen</strong> (voir les <a href="#mentions-legales">mentions légales</a>). Pour toute question ou pour exercer vos droits : <a href="mailto:${CONTACT}">${CONTACT}</a>. Réponse sous un mois au plus.</p>
+
+      <h3>Ce que le site enregistre, pourquoi, et combien de temps</h3>
+      <ul>
+        <li><strong>Compte</strong> (adresse e-mail ; pseudonyme et commune facultatifs) : vous connecter par un lien, retrouver vos votes, recevoir les messages demandés. Base : votre consentement, donné en créant le compte. Durée : jusqu'à la suppression du compte, que vous pouvez faire vous-même depuis votre espace, et au plus 3 ans après votre dernière connexion. La sauvegarde de ce que votre navigateur retient, si vous en déposez une, est effacée avec le compte.</li>
+        <li><strong>Votes versés à la carte nationale des consensus</strong> : établir la carte. Comme ils peuvent refléter des opinions politiques, ils ne sont enregistrés qu'avec votre accord explicite (case à cocher). Ils sont rattachés à un numéro tiré au hasard, pas à votre nom. Base : votre consentement explicite. Durée : jusqu'au 31 décembre 2027, puis effacement. Vous pouvez retirer votre accord et effacer vos votes à tout moment depuis votre espace.</li>
+        <li><strong>Votes en séance</strong> : afficher les résultats de la salle. Ils sont effacés 30 jours après l'ouverture de la salle, et ne rejoignent la carte nationale que si vous cochez la case prévue, décochée par défaut.</li>
+        <li><strong>Lettre d'information et réseau d'animateurs</strong> (adresse e-mail, et pour les animateurs le public et la commune) : vous écrire. Base : votre consentement. L'adresse est effacée si vous ne la confirmez pas sous 7 jours, et dès votre désinscription, par le lien présent dans chaque message.</li>
+        <li><strong>Déclaration de séance</strong> (adresse e-mail, commune, structure) : relire et publier la séance. Base : votre consentement. L'adresse n'est jamais publiée ; elle est effacée 3 mois après la date de la séance.</li>
+        <li><strong>Commentaires, signalements et mots proposés</strong> : relus avant publication. L'adresse, facultative, sert seulement à vous prévenir de la suite donnée, puis elle est effacée. Les textes refusés sont effacés un an après la décision. Les retours d'expérience des animateurs sont effacés au bout d'un an.</li>
+        <li><strong>Sécurité</strong> : pour limiter les abus, une empreinte non réversible de votre adresse IP est gardée une heure au plus. Base : l'intérêt légitime à protéger le site.</li>
+      </ul>
+      <p>Les liens de connexion expirent au bout de 30 minutes, ceux de confirmation au bout de 7 jours ; ils sont effacés ensuite. Ces effacements sont faits automatiquement, chaque heure.</p>
+
+      <h3>Cookies</h3>
+      <p>Seuls des cookies techniques sont utilisés : « session » (connexion, 90 jours au plus, effacé à la déconnexion) et « votant » (numéro aléatoire déposé seulement si vous versez vos votes à la carte ou rejoignez une salle, 2 ans au plus).</p>
+
+      <h3>Qui y a accès</h3>
+      <p>Seul l'éditeur. Les données sont hébergées par Gandi SAS (63-65 boulevard Masséna, 75013 Paris), qui envoie aussi les e-mails, en qualité de sous-traitant. Aucune donnée n'est vendue ni cédée.</p>
+
+      <h3>Vos droits</h3>
+      <p>Vous pouvez accéder à vos données, les rectifier, les effacer, en limiter l'usage, vous opposer à leur traitement, en demander une copie portable et retirer votre consentement à tout moment. Une bonne partie se fait seul : votre espace personnel montre ce que le site garde sur vous et permet d'effacer vos votes ou votre compte. Pour le reste, écrivez à <a href="mailto:${CONTACT}">${CONTACT}</a>. Si vous estimez, après nous avoir contactés, que vos droits ne sont pas respectés, vous pouvez adresser une réclamation à la CNIL (<a href="https://www.cnil.fr/fr/adresser-une-plainte">www.cnil.fr/fr/adresser-une-plainte</a>).</p>
     </div>`;
     $("#vp-memoire").onchange = (e) => { R.choisir({ memoire: e.target.checked }); $("#vp-etat").textContent = e.target.checked ? "Votre navigateur se souviendra de vous." : "Plus rien n'est gardé après la fermeture de l'onglet."; };
     $("#vp-collectif").onchange = (e) => { R.choisir({ collectif: e.target.checked }); $("#vp-etat").textContent = e.target.checked ? "Vos prochains votes compteront dans la carte collective." : "Vos votes restent sur votre appareil."; };
@@ -131,6 +158,12 @@ R.module("accueil", (R) => {
     document.body.appendChild(a); a.click(); setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 500);
   };
   R.route("vie-privee", () => { dessinerViePrivee(); R.montrer("vie-privee"); });
+  // Retour du lien de désinscription reçu par e-mail.
+  R.route("desinscrit", () => {
+    dessinerViePrivee("Vous êtes désinscrit : votre adresse a été effacée de la liste de la lettre.");
+    R.montrer("vie-privee");
+    history.replaceState(history.state, "", "#vie-privee");
+  });
 
   // À propos : l'intention du site, qui le fait et comment, et ce qu'il demande au lecteur
   function dessinerAPropos() {
@@ -145,20 +178,36 @@ R.module("accueil", (R) => {
       <h3>Qui fait ce site, et comment</h3>
       <p>Le site est conçu et dirigé par une personne, sous le pseudonyme <strong>eozen</strong>. Les cadres logiques, les directives, les règles éditoriales, les arbitrages et les améliorations sont décidés par cet humain. Leur mise en œuvre (extraction et vérification des citations, rédaction des fiches, code du site) est réalisée par une intelligence artificielle, sous sa direction et avec des vérifications automatiques à chaque étape.</p>
       <p>Le site n'est lié à aucun parti, ne reçoit d'argent d'aucune formation politique, n'affiche aucune publicité et ne mesure pas ses visiteurs (<a href="#vie-privee">vie privée</a>). La <a href="#methode">méthode</a> détaille comment les sources sont choisies et vérifiées.</p>
+      <h3>Modération</h3>
+      <p>${MODERATION}</p>
       <h3>Droits</h3>
-      <p>© 2026 eozen. Le code du site est publié sous licence libre MIT, et les textes éditoriaux et les données sous licence Creative Commons CC BY-SA 4.0 : vous pouvez les reprendre en citant la source. Les citations des programmes restent la propriété de leurs auteurs ; elles sont reproduites au titre du droit de courte citation, avec leur source. Tout est consultable sur <a href="https://github.com/CedricMabilotte/comparatif-2027">GitHub</a>.</p>
+      ${DROITS}
+      <p>Les <a href="#mentions-legales">mentions légales</a> indiquent l'éditeur et l'hébergeur.</p>
     </div>`;
   }
   R.route("a-propos", () => { dessinerAPropos(); R.montrer("a-propos"); });
 
-  // Lien de compte dans le bandeau : « Se connecter », ou le pseudonyme une fois connecté ;
-  // l'équipe de modération y trouve aussi sa file d'attente.
-  const lienCompte = $("#compte-lien");
-  if (R.moi?.connecte) {
-    lienCompte.textContent = R.moi.pseudo || "Mon compte";
-    R.api("moderation-acces").then((r) => {
-      if (r?.moderateur) { lienCompte.textContent = "Modération"; lienCompte.href = "#moderation"; }
-    });
+  // Mentions légales (loi pour la confiance dans l'économie numérique, art. 1-1) : édition non
+  // professionnelle sous pseudonyme, identité communiquée à l'hébergeur.
+  const MODERATION = `Chaque message est lu avant publication par le directeur de la publication, qui en devient responsable une fois le message publié. Ne sont pas publiés : les attaques contre des personnes, les accusations de faits précis, les injures, les propos haineux ou discriminatoires, les données personnelles d'autrui, la propagande électorale et les liens promotionnels. Un message refusé n'est pas publié et la décision n'est pas motivée individuellement. Pour signaler un contenu publié : <a href="mailto:${CONTACT}">${CONTACT}</a>.`;
+  const DROITS = `<p>© 2026 eozen. Le code du site est publié sous licence libre MIT. Les textes éditoriaux (fiches, définitions, glossaire) et les données de classement sont publiés sous licence Creative Commons Attribution – Partage dans les mêmes conditions 4.0 (CC BY-SA 4.0), dans la mesure où ils sont protégés par le droit d'auteur : vous pouvez les reprendre en citant la source et en les partageant dans les mêmes conditions. Ils ont été rédigés avec l'aide d'une intelligence artificielle, sous la direction de l'éditeur, qui en a fixé le cadre, la sélection et la relecture ; certains passages peuvent ne pas être protégeables, et la licence ne s'y ajoute alors à rien.</p>
+      <p><strong>Les citations des programmes ne sont pas couvertes par ces licences.</strong> Elles appartiennent à leurs auteurs (partis et formations politiques) et sont reproduites au titre du droit de courte citation (article L. 122-5, 3°, a, du code de la propriété intellectuelle), avec l'indication de leur source. Pour les réutiliser, citez-les à votre tour avec leur source, ou adressez-vous à leurs auteurs. Le code et les données sont consultables sur <a href="https://github.com/CedricMabilotte/comparatif-2027">GitHub</a>.</p>`;
+  function dessinerMentionsLegales() {
+    $("#mentions-legales").innerHTML = `<div class="methode">
+      <h2>Mentions légales</h2>
+      <h3>Éditeur</h3>
+      <p>République des mots est un site personnel, édité à titre non professionnel par une personne physique publiant sous le pseudonyme <strong>eozen</strong>. Conformément à l'article 1-1, II, de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, son identité a été communiquée à l'hébergeur, qui la tient à la disposition de l'autorité judiciaire.</p>
+      <p>Directeur de la publication : eozen.<br>Contact : <a href="mailto:${CONTACT}">${CONTACT}</a>.</p>
+      <h3>Hébergeur</h3>
+      <p>Gandi SAS, 63-65 boulevard Masséna, 75013 Paris, France.</p>
+      <h3>Modération des contributions</h3>
+      <p>${MODERATION}</p>
+      <h3>Licences</h3>
+      ${DROITS}
+      <h3>Données personnelles</h3>
+      <p>Ce que le site enregistre, pourquoi, combien de temps, et comment exercer vos droits : page <a href="#vie-privee">Vie privée</a>.</p>
+    </div>`;
   }
+  R.route("mentions-legales", () => { dessinerMentionsLegales(); R.montrer("mentions-legales"); });
 
 });

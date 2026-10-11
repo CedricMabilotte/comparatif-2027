@@ -197,3 +197,4 @@ circle.ct-passe { fill: var(--encre-douce); fill-opacity: .55; stroke: var(--sur
   .rs-ligne { break-inside: avoid; }
   a { color: inherit; text-decoration: none; }
 }
+.sl-carte { margin-top: 14px; }

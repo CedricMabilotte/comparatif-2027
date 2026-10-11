@@ -35,8 +35,11 @@ verifie "salle inconnue" "$(get p1 'seance&code=ZZZZZ')" 'expiré'
 
 # Participants : rejoindre est explicite, puis vote sur l'élément présenté
 verifie "vote sans rejoindre" "$(post p1 seance-vote "{\"code\":\"$CODE\",\"proposition\":\"p27a1058e\",\"valeur\":\"pour\"}")" 'pas encore été présentée'
-verifie "rejoindre p1" "$(post p1 seance-rejoindre "{\"code\":\"$CODE\"}")" '"participants":1'
+# p1 coche la case « carte nationale », p2 non (case décochée par défaut)
+verifie "rejoindre p1" "$(post p1 seance-rejoindre "{\"code\":\"$CODE\",\"carte\":true}")" '"participants":1'
+verifie "accord p1" "$(get p1 "seance&code=$CODE")" '"carte":true'
 verifie "rejoindre p2" "$(post p2 seance-rejoindre "{\"code\":\"$CODE\"}")" '"participants":2'
+verifie "sans accord p2" "$(get p2 "seance&code=$CODE")" '"carte":false'
 verifie "mauvaise clé" "$(post anim seance-piloter "{\"code\":\"$CODE\",\"cle\":\"faux\",\"action\":\"suivant\"}")" 'ne pilote pas'
 verifie "suivant" "$(post anim seance-piloter "{\"code\":\"$CODE\",\"cle\":\"$CLE\",\"action\":\"suivant\"}")" '"item":"p27a1058e"'
 verifie "vote étranger" "$(post p3 seance-vote "{\"code\":\"$CODE\",\"proposition\":\"p27a1058e\",\"valeur\":\"pour\"}")" 'Rejoignez'
@@ -61,6 +64,7 @@ verifie "décompte p2" "$RES" '"p042bcf5e":{"pour":0,"partage":2,"contre":0}'
 verifie "matrice de salle" "$RES" '"moi":true,"votes":{'
 verifie "pas d'identifiant" "$(echo "$RES" | grep -c votant_id || true)" '0'
 G=$(get p1 votes); verifie "carte globale" "$G" '"moi":true'; verifie "vote de salle global" "$G" '"p70aecf38":-1'
+verifie "votes de p2 restés dans la salle" "$(php -r '$d = new PDO("sqlite:" . $argv[1]); echo $d->query("SELECT COUNT(*) FROM votes")->fetchColumn();' "$T/test.sqlite")" '3'
 
 # Clôture, puis expiration après 30 jours (nettoyée à la création d'une autre salle)
 verifie "clore" "$(post anim seance-piloter "{\"code\":\"$CODE\",\"cle\":\"$CLE\",\"action\":\"clore\"}")" '"etat":"close"'
@@ -69,7 +73,7 @@ verifie "résultats après clôture" "$(get p2 "seance-resultats&code=$CODE")" '
 php -r '$d = new PDO("sqlite:" . $argv[1]); $d->exec("UPDATE salles SET expire_le = \"2020-01-01T00:00:00Z\"");' "$T/test.sqlite"
 post anim seance '{"seance":"mots","items":["t:assainir-les-finances-publiques"]}' >/dev/null
 verifie "salle expirée" "$(get p1 "seance&code=$CODE")" 'expiré'
-verifie "votes de salle effacés" "$(php -r '$d = new PDO("sqlite:" . $argv[1]); echo $d->query("SELECT COUNT(*) FROM salle_votes")->fetchColumn(), "/", $d->query("SELECT COUNT(*) FROM votes")->fetchColumn();' "$T/test.sqlite")" '0/5'
+verifie "votes de salle effacés" "$(php -r '$d = new PDO("sqlite:" . $argv[1]); echo $d->query("SELECT COUNT(*) FROM salle_votes")->fetchColumn(), "/", $d->query("SELECT COUNT(*) FROM votes")->fetchColumn();' "$T/test.sqlite")" '0/3'
 
 # Réseau d'animateurs : inscription confirmée par e-mail, désinscription
 verifie "inscription sans public" "$(post x animateur-inscription '{"email":"anim@exemple.fr"}')" 'public'

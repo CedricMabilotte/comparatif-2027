@@ -10,6 +10,7 @@ $methode = $_SERVER['REQUEST_METHOD'];
 
 try {
     migrer($db);
+    entretenir($db);
     $routes = [];
     foreach (glob(__DIR__ . '/routes/*.php') as $f) $routes += require $f;
     $f = $routes["$methode $route"] ?? erreur(404, 'Route inconnue.');
