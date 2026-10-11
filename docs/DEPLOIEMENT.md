@@ -14,7 +14,7 @@ Cible : l'instance Simple Hosting existante de Cedric (PHP 8.4, Paris SD6), vhos
 - Dépôt par SFTP : `sftp.sd6.gpaas.net`, utilisateur = identifiant de l'instance, clé de Cedric.
 
 ## Première initialisation
-Déposer temporairement `api/schema.sql` et un script qui crée `donnees/` et la base, l'appeler une fois, puis supprimer les deux fichiers.
+Créer le dossier `donnees/` hors de la racine web. L'API crée et met à jour la base elle-même : chaque fichier `api/migrations/NNN-nom.sql` est appliqué une seule fois, à la première requête qui suit son dépôt.
 
 ## Pièges
 - LiveDNS : écrire un enregistrement par `PUT .../records/@/A`, jamais `/records/@` (écraserait MX et SPF).

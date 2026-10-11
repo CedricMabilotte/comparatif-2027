@@ -5,7 +5,6 @@ ICI=$(cd "$(dirname "$0")/.." && pwd); T=$(mktemp -d); PORT=8799
 cat > "$T/config.php" <<CONF
 <?php return ['dsn' => 'sqlite:$T/test.sqlite', 'url_site' => 'http://localhost:$PORT', 'expediteur' => 'test <t@t>', 'envoi' => 'journal', 'sel' => 'test'];
 CONF
-php -r "\$db=new PDO('sqlite:$T/test.sqlite'); \$db->exec(file_get_contents('$ICI/api/schema.sql'));"
 mkdir -p "$T/racine"; ln -s "$ICI/api" "$T/racine/api"
 REPUBLIQUE_CONFIG="$T/config.php" php -S localhost:$PORT -t "$T/racine" >/dev/null 2>&1 & PID=$!
 trap 'kill $PID; rm -rf "$T"; rm -f "$ICI/api/courrier.log"' EXIT; sleep 1

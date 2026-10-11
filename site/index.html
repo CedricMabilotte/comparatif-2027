@@ -1,222 +1,46 @@
+<!doctype html>
+<html lang="fr">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>République des mots</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=JetBrains+Mono:wght@400;500&display=swap">
-<style>
-/* Mise en page : bandeau d'outils en haut, une table de lecture large, citations en serif comme dans un recueil */
-:root {
-  --papier: #f4f5f7;
-  --surface: #ffffff;
-  --encre: #1b2130;
-  --encre-douce: #5a6275;
-  --filet: #d9dce4;
-  --accent: #3346c8;
-  --accent-doux: #e7eafb;
-  --g1: #12808a;
-  --g2: #b0582a;
-  --g3: #7a4fc2;
-  --g4: #5b6b2a;
-  --pour: #1f7a52;
-  --contre: #b4372f;
-  --partage: #8a6d12;
-  --f-titre: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
-  --f-texte: "Newsreader", Georgia, "Times New Roman", serif;
-  --f-ref: "JetBrains Mono", ui-monospace, Menlo, monospace;
-  color-scheme: light;
-}
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --papier: #12151c; --surface: #1a1f29; --encre: #e7e9ef; --encre-douce: #9ba3b6;
-    --filet: #2c3342; --accent: #8c9bff; --accent-doux: #252c4a;
-    --g1: #4fc4cc; --g2: #f0985f; --g3: #b896f5; --g4: #b6c76a; --pour: #5cc196; --contre: #f08a80; --partage: #d9b75a; color-scheme: dark;
-  }
-}
-:root[data-theme="dark"] {
-  --papier: #12151c; --surface: #1a1f29; --encre: #e7e9ef; --encre-douce: #9ba3b6;
-  --filet: #2c3342; --accent: #8c9bff; --accent-doux: #252c4a;
-  --g1: #4fc4cc; --g2: #f0985f; --g3: #b896f5; --g4: #b6c76a; --pour: #5cc196; --contre: #f08a80; --partage: #d9b75a; color-scheme: dark;
-}
-* { box-sizing: border-box; }
-[hidden] { display: none !important; }
-body { background: var(--papier); color: var(--encre); font-family: var(--f-texte); font-size: 17px; line-height: 1.5; }
-.page > * { min-width: 0; }
-.page { max-width: 1180px; margin: 0 auto; padding-inline: 20px; padding-block: 20px 48px; display: grid; gap: 20px; }
-.avert { font-family: var(--f-ref); font-size: 12.5px; letter-spacing: .02em; color: var(--encre-douce); border: 1px dashed var(--filet); padding: 8px 12px; border-radius: 6px; }
-.avert strong { color: var(--contre); font-weight: 500; }
-header { display: grid; gap: 6px; }
-h1 { font-family: var(--f-titre); font-weight: 700; font-size: clamp(30px, 5vw, 46px); line-height: 1.05; margin: 0; letter-spacing: -.01em; text-wrap: balance; }
-h1 em { font-family: var(--f-texte); font-style: italic; font-weight: 400; color: var(--accent); }
-.chapo { margin: 0; color: var(--encre-douce); max-width: 62ch; }
-nav { display: flex; flex-wrap: wrap; gap: 6px; border-bottom: 1px solid var(--filet); }
-nav button { font-family: var(--f-titre); font-weight: 500; font-size: 15px; background: none; border: 0; border-bottom: 3px solid transparent; color: var(--encre-douce); padding: 10px 12px; cursor: pointer; }
-nav button[aria-selected="true"] { color: var(--encre); border-bottom-color: var(--accent); }
-button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
-h2 { font-family: var(--f-titre); font-weight: 700; font-size: 22px; margin: 0; text-wrap: balance; }
-.aide { color: var(--encre-douce); margin: 0; max-width: 70ch; font-size: 16px; }
-.reglages { display: flex; flex-wrap: wrap; gap: 10px 22px; align-items: center; font-family: var(--f-titre); font-size: 14px; }
-.reglages fieldset { border: 0; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
-.reglages legend { float: left; margin-right: 8px; color: var(--encre-douce); text-transform: uppercase; font-size: 11.5px; letter-spacing: .08em; }
-.puce { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--filet); background: var(--surface); border-radius: 999px; padding: 4px 10px; cursor: pointer; font-family: var(--f-titre); font-size: 13.5px; color: var(--encre); }
-.puce input { accent-color: var(--accent); margin: 0; }
-.puce[data-actif="true"] { background: var(--accent-doux); border-color: var(--accent); }
-.sigle { font-family: var(--f-ref); font-size: 11.5px; font-weight: 500; border: 1px solid currentColor; border-radius: 4px; padding: 0 5px; letter-spacing: .04em; }
-.table-defile { overflow-x: auto; border: 1px solid var(--filet); border-radius: 8px; background: var(--surface); }
-table.matrice { border-collapse: collapse; width: 100%; min-width: 640px; }
-.matrice th, .matrice td { border-bottom: 1px solid var(--filet); border-right: 1px solid var(--filet); vertical-align: top; padding: 12px; text-align: left; }
-.matrice th:last-child, .matrice td:last-child { border-right: 0; }
-.matrice thead th { font-family: var(--f-titre); font-weight: 700; font-size: 15px; background: var(--papier); position: sticky; top: 0; }
-.matrice tbody th { font-family: var(--f-titre); font-weight: 500; font-size: 15px; width: 150px; background: var(--papier); }
-.matrice tr:last-child td, .matrice tr:last-child th { border-bottom: 0; }
-.cellule { display: grid; gap: 12px; }
-.intitule { font-family: var(--f-titre); font-size: 14px; font-weight: 600; margin: 0; }
-.plus { font-family: var(--f-titre); font-size: 13px; background: none; border: 1px solid var(--filet); border-radius: 6px; padding: 4px 8px; color: var(--accent); cursor: pointer; justify-self: start; }
-.compte-cellule { font-family: var(--f-ref); font-size: 11.5px; color: var(--encre-douce); }
-.lecture { font-family: var(--f-ref); font-size: 10.5px; letter-spacing: .04em; text-transform: uppercase; color: var(--encre-douce); }
-.reglages input[type="search"], .reglages select { font: inherit; font-family: var(--f-titre); font-size: 14px; color: var(--encre); background: var(--surface); border: 1px solid var(--filet); border-radius: 6px; padding: 5px 8px; max-width: 100%; }
-.vide { color: var(--encre-douce); font-style: italic; font-size: 15px; }
-blockquote.prop { margin: 0; display: grid; gap: 5px; }
-blockquote.prop p { margin: 0; font-size: 16px; }
-blockquote.prop p:not(.intitule)::before { content: "« "; color: var(--encre-douce); }
-blockquote.prop p:not(.intitule)::after { content: " »"; color: var(--encre-douce); }
-.ref { font-family: var(--f-ref); font-size: 11.5px; color: var(--encre-douce); }
-.mots { display: flex; flex-wrap: wrap; gap: 4px; }
-.mot { font-family: var(--f-titre); font-size: 12px; color: var(--accent); background: var(--accent-doux); border: 0; border-radius: 4px; padding: 1px 7px; cursor: pointer; }
-.mot[data-actif="true"] { background: var(--accent); color: var(--surface); }
-mark { background: var(--accent-doux); color: inherit; border-radius: 2px; padding: 0 2px; }
-.lex { display: grid; grid-template-columns: minmax(170px, 220px) 1fr; gap: 20px; }
-.lex-liste { display: flex; flex-direction: column; gap: 2px; }
-.lex-liste button { text-align: left; font-family: var(--f-titre); font-size: 15px; background: none; border: 0; border-left: 3px solid transparent; padding: 7px 10px; color: var(--encre); cursor: pointer; display: flex; justify-content: space-between; gap: 8px; }
-.lex-liste button[aria-pressed="true"] { border-left-color: var(--accent); background: var(--surface); }
-.lex-liste.longue { max-height: 75vh; overflow-y: auto; padding-right: 4px; }
-.lex-liste button .sous { display: block; font-family: var(--f-ref); font-size: 11px; color: var(--encre-douce); }
-.reglages fieldset { min-width: 0; max-width: 100%; }
-[role="tabpanel"] > * { min-width: 0; max-width: 100%; }
-.reglages > * { min-width: 0; max-width: 100%; }
-.reglages select, .reglages input[type="search"] { max-width: min(100%, 300px); }
-.reglages select { text-overflow: ellipsis; }
-.etiquettes { display: flex; flex-wrap: wrap; gap: 6px; margin: 0; }
-.etiquette { font-family: var(--f-ref); font-size: 11px; letter-spacing: .03em; border: 1px solid var(--filet); border-radius: 999px; padding: 1px 8px; color: var(--encre-douce); }
-.fiche-notion { display: grid; gap: 12px; min-width: 0; }
-.fiche-notion h2 { margin: 0; }
-.fiche-notion .def { font-style: normal; }
-.reperes { margin: 0; padding-left: 18px; font-size: 14px; }
-.non-aborde { color: var(--encre-douce); font-style: italic; margin: 0; }
-.glossaire { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 14px; }
-.usage-partis { display: flex; flex-wrap: wrap; gap: 4px; }
-.usage-partis span { font-family: var(--f-ref); font-size: 11.5px; border-radius: 4px; padding: 1px 6px; font-variant-numeric: tabular-nums; }
-.usage-partis span.zero { color: var(--encre-douce); opacity: .55; }
-.ligne-emploi { font-size: 13.5px; margin: 6px 0; }
-.lex-liste .n { font-family: var(--f-ref); font-size: 12px; color: var(--encre-douce); font-variant-numeric: tabular-nums; }
-.lex-cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; min-width: 0; }
-.carte { background: var(--surface); border: 1px solid var(--filet); border-radius: 8px; padding: 16px; display: grid; gap: 10px; align-content: start; min-width: 0; }
-.carte h3 { font-family: var(--f-titre); font-size: 16px; margin: 0; display: flex; gap: 8px; align-items: center; }
-.def { font-style: italic; margin: 0; }
-.jauge { display: grid; grid-template-columns: 1fr auto; gap: 8px; align-items: center; font-family: var(--f-ref); font-size: 12px; color: var(--encre-douce); }
-.jauge span.barre { height: 6px; border-radius: 3px; background: var(--filet); overflow: hidden; }
-.jauge span.barre i { display: block; height: 100%; background: var(--accent); }
-.scene { background: var(--surface); border: 1px solid var(--filet); border-radius: 10px; padding: clamp(18px, 4vw, 36px); display: grid; gap: 18px; max-width: 780px; }
-.scene .citation { font-size: clamp(21px, 3vw, 27px); line-height: 1.35; margin: 0; text-wrap: pretty; }
-.compteur { font-family: var(--f-ref); font-size: 12px; color: var(--encre-douce); letter-spacing: .04em; text-transform: uppercase; }
-.choix { display: flex; flex-wrap: wrap; gap: 8px; }
-.btn { font-family: var(--f-titre); font-weight: 500; font-size: 15px; border-radius: 6px; border: 1px solid var(--filet); background: var(--papier); color: var(--encre); padding: 9px 16px; cursor: pointer; }
-.btn:hover { border-color: var(--encre-douce); }
-.btn.pour { border-color: var(--pour); color: var(--pour); }
-.btn.contre { border-color: var(--contre); color: var(--contre); }
-.btn.partage { border-color: var(--partage); color: var(--partage); }
-.btn.principal { background: var(--accent); border-color: var(--accent); color: var(--surface); }
-.btn.juste { background: var(--pour); border-color: var(--pour); color: var(--surface); }
-.btn.faux { background: var(--contre); border-color: var(--contre); color: var(--surface); }
-.revelation { border-top: 1px solid var(--filet); padding-top: 14px; display: grid; gap: 8px; }
-.revelation p { margin: 0; }
-.bilan { display: grid; gap: 8px; max-width: 780px; }
-.bilan-ligne { display: grid; grid-template-columns: minmax(150px, 220px) 1fr auto; gap: 12px; align-items: center; font-family: var(--f-titre); font-size: 14px; }
-.empile { display: flex; height: 10px; border-radius: 5px; overflow: hidden; background: var(--filet); }
-.empile i { display: block; height: 100%; }
-.legende { display: flex; flex-wrap: wrap; gap: 14px; font-family: var(--f-ref); font-size: 12px; color: var(--encre-douce); }
-.legende b { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 5px; vertical-align: -1px; }
-.methode { display: grid; gap: 14px; max-width: 70ch; }
-.methode h3 { font-family: var(--f-titre); font-size: 17px; margin: 0; }
-.methode p, .methode li { margin: 0; }
-.methode ol { margin: 0; padding-left: 1.2em; display: grid; gap: 6px; }
-section[role="tabpanel"] { display: grid; gap: 16px; }
-.archive { font-family: var(--f-ref); font-size: 11px; color: var(--partage); border: 1px solid var(--partage); border-radius: 4px; padding: 0 5px; margin-left: 6px; }
-.lien-partage { font-family: var(--f-titre); font-size: 12px; background: none; border: 0; color: var(--encre-douce); padding: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 2px; justify-self: start; }
-.lien-partage:hover { color: var(--accent); }
-.recherche { display: flex; gap: 10px; align-items: center; font-family: var(--f-titre); }
-.recherche input, textarea { font: inherit; font-family: var(--f-texte); font-size: 16px; color: var(--encre); background: var(--surface); border: 1px solid var(--filet); border-radius: 6px; padding: 7px 10px; width: min(360px, 70vw); }
-textarea { width: 100%; resize: vertical; }
-.contexte { display: grid; gap: 8px; }
-.ligne-ctx { display: grid; grid-template-columns: minmax(70px, 90px) 1fr; gap: 12px; background: var(--surface); border: 1px solid var(--filet); border-radius: 6px; padding: 10px 12px; font-size: 16px; }
-.matrice.compte td { text-align: right; font-family: var(--f-ref); font-size: 13px; font-variant-numeric: tabular-nums; }
-.matrice.compte td.mot-col { text-align: left; font-family: var(--f-titre); font-size: 14px; }
-.matrice.compte td span.chaleur { display: inline-block; min-width: 28px; padding: 1px 6px; border-radius: 3px; }
-.matrice.compte button.mot { font-size: 13.5px; }
-.partis { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; }
-.etat { font-family: var(--f-ref); font-size: 11.5px; border-radius: 4px; padding: 1px 6px; }
-.etat.publie { color: var(--pour); border: 1px solid var(--pour); }
-.etat.partiel, .etat.attendu { color: var(--partage); border: 1px solid var(--partage); }
-.docs { display: grid; gap: 8px; margin: 0; padding: 0; list-style: none; }
-.docs li { border-left: 2px solid var(--filet); padding-left: 10px; display: grid; gap: 2px; font-size: 15.5px; }
-.docs .justif { font-size: 14px; color: var(--encre-douce); font-style: italic; }
-.mini-titre { font-family: var(--f-titre); font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: var(--encre-douce); margin: 4px 0 0; }
-.voile { position: fixed; inset: 0; background: color-mix(in srgb, var(--encre) 45%, transparent); display: grid; place-items: center; padding: 16px; z-index: 10; }
-.panneau { background: var(--surface); border-radius: 10px; border: 1px solid var(--filet); width: min(640px, 100%); max-height: calc(100% - 32px); overflow: auto; padding: 20px; display: grid; gap: 12px; }
-.panneau-tete { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
-.panneau fieldset { border: 0; padding: 0; margin: 0; }
-.apercu { background: var(--papier); border-radius: 8px; padding: 12px; display: grid; place-items: center; }
-.apercu img { max-height: 340px; width: auto; border-radius: 4px; box-shadow: 0 1px 6px color-mix(in srgb, var(--encre) 20%, transparent); }
-a.btn { text-decoration: none; display: inline-block; }
-.champ { font: inherit; font-family: var(--f-texte); font-size: 16px; color: var(--encre); background: var(--papier); border: 1px solid var(--filet); border-radius: 6px; padding: 8px 10px; width: 100%; }
-.consent { display: grid; grid-template-columns: auto 1fr; gap: 8px; font-size: 14px; color: var(--encre-douce); align-items: start; }
-.consent input { margin-top: 4px; accent-color: var(--accent); }
-form.carte .btn { justify-self: start; }
-.carto { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 24px; align-items: start; }
-.nuage { margin: 0; background: var(--surface); border: 1px solid var(--filet); border-radius: 8px; padding: 12px; display: grid; gap: 8px; }
-.nuage svg { width: 100%; height: auto; }
-.c-listes { display: grid; gap: 12px; min-width: 0; }
-.c-liste { display: grid; gap: 10px; }
-.c-item { background: var(--surface); border: 1px solid var(--filet); border-radius: 6px; padding: 10px 12px; display: grid; gap: 6px; font-size: 15.5px; }
-.c-barres { display: flex; gap: 4px; align-items: center; }
-.c-barres span { flex: 1; height: 6px; border-radius: 3px; background: var(--filet); overflow: hidden; }
-.c-barres i { display: block; height: 100%; }
-@media (max-width: 760px) { .carto { grid-template-columns: 1fr; } }
-@media (max-width: 640px) {
-  .lex { grid-template-columns: 1fr; }
-  .lex-liste { flex-direction: row; flex-wrap: wrap; }
-  .lex-liste.longue { flex-direction: column; flex-wrap: nowrap; max-height: 40vh; }
-  .lex-liste button { border-left: 0; border-bottom: 2px solid transparent; }
-  .lex-liste button[aria-pressed="true"] { border-bottom-color: var(--accent); }
-  .bilan-ligne { grid-template-columns: 1fr auto; }
-  .bilan-ligne .empile { grid-column: 1 / -1; }
-}
-@media (prefers-reduced-motion: no-preference) {
-  .revelation { animation: apparait .25s ease-out; }
-  @keyframes apparait { from { opacity: .3; transform: translateY(4px); } to { opacity: 1; transform: none; } }
-}
-</style>
+<title>République des mots 2027</title>
+<meta name="description" content="Lire les programmes 2027 côte à côte, comprendre les concepts et le vocabulaire politique, juger les idées avant de savoir de qui elles viennent.">
+<meta property="og:title" content="République des mots 2027">
+<meta property="og:description" content="Les programmes des huit principales forces politiques, citation par citation. Concepts, vocabulaire, votes à l'aveugle, jeux et kit pour animer des lectures en groupe.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://republique.fr/">
+<link rel="stylesheet" href="polices.css">
+<link rel="stylesheet" href="style.css">
 
-<div class="page">
-  <p class="avert" id="avert"><strong>Bêta.</strong> Corpus relevé dans les documents écrits officiels des huit principales formations, en cours de relecture. Chaque citation est vérifiée mot pour mot dans sa source ; signalez toute erreur via l'onglet Rejoindre.</p>
-  <header>
-    <h1>République des mots <em>2027</em></h1>
-    <p class="chapo">Lire les programmes côte à côte, voir ce que chaque camp met derrière les mêmes mots, et juger les idées avant de savoir de qui elles viennent.</p>
-  </header>
+<header class="bandeau">
+  <div class="bandeau-int">
+    <div class="bandeau-haut">
+      <a class="marque" href="#accueil"><b>République des mots <em>2027</em></b><span class="devise" id="devise"></span></a>
+      <div class="bandeau-outils">
+        <button class="retour" id="retour" hidden>← Retour</button>
+        <div class="recherche-globale"><input type="search" id="recherche" placeholder="Chercher : GPA, CSG, RN…" aria-label="Chercher dans tout le site" autocomplete="off"><div class="resultats" id="resultats" hidden></div></div>
+      </div>
+    </div>
+    <nav class="onglets" id="onglets" aria-label="Rubriques">
+      <a href="#accueil" data-vue="accueil">Accueil</a>
+      <a href="#matrice" data-vue="matrice">Comparer</a>
+      <a href="#lexique" data-vue="lexique">Concepts</a>
+      <a href="#vocab" data-vue="vocab">Vocabulaire</a>
+      <a href="#partis" data-vue="partis">Partis</a>
+      <a href="#jouer" data-vue="jouer">Jouer</a>
+      <a href="#consensus" data-vue="consensus">Consensus</a>
+      <a href="#groupes" data-vue="groupes">Groupes</a>
+      <a href="#rejoindre" data-vue="rejoindre">Participer</a>
+      <a href="#methode" data-vue="methode">Méthode</a>
+    </nav>
+  </div>
+</header>
 
-  <nav role="tablist" aria-label="Sections">
-    <button role="tab" id="t-matrice" aria-controls="matrice" aria-selected="true">Matrice</button>
-    <button role="tab" id="t-lexique" aria-controls="lexique" aria-selected="false">Concepts</button>
-    <button role="tab" id="t-vocab" aria-controls="vocab" aria-selected="false">Vocabulaire</button>
-    <button role="tab" id="t-partis" aria-controls="partis" aria-selected="false">Partis</button>
-    <button role="tab" id="t-aveugle" aria-controls="aveugle" aria-selected="false">À l'aveugle</button>
-    <button role="tab" id="t-consensus" aria-controls="consensus" aria-selected="false">Consensus</button>
-    <button role="tab" id="t-quiz" aria-controls="quiz" aria-selected="false">Qui a dit ça ?</button>
-    <button role="tab" id="t-rejoindre" aria-controls="rejoindre" aria-selected="false">Rejoindre</button>
-    <button role="tab" id="t-methode" aria-controls="methode" aria-selected="false">Méthode</button>
-  </nav>
+<main class="page" id="contenu">
+  <p class="avert" id="avert"><strong>Bêta.</strong> Corpus relevé dans les documents écrits officiels des huit principales formations, en cours de relecture. Chaque citation est vérifiée mot pour mot dans sa source ; chaque fiche a un bouton pour signaler une erreur.</p>
 
-  <section role="tabpanel" id="matrice" aria-labelledby="t-matrice">
+  <section class="vue" id="accueil" aria-label="Accueil" hidden></section>
+
+  <section class="vue" id="matrice" aria-label="Comparer" hidden>
     <p class="aide">Choisissez les candidatures et l'axe de lecture. Cliquez un mot-clé pour le surligner partout.</p>
     <div class="reglages">
       <fieldset id="f-cand"><legend>Candidatures</legend></fieldset>
@@ -233,7 +57,7 @@ form.carte .btn { justify-self: start; }
     <div class="table-defile"><table class="matrice" id="tab-matrice"></table></div>
   </section>
 
-  <section role="tabpanel" id="lexique" aria-labelledby="t-lexique" hidden>
+  <section class="vue" id="lexique" aria-label="Concepts" hidden>
     <p class="aide">Les concepts précis du débat (dispositifs, institutions, impôts, mesures emblématiques) : une définition, ce qui est débattu, puis ce qu'en dit chaque parti, appuyé sur ses textes. Les grandes notions (liberté, nation, travail…) montrent comment chacun emploie les mots-valeurs.</p>
     <div class="reglages">
       <fieldset><legend>Afficher</legend>
@@ -256,7 +80,7 @@ form.carte .btn { justify-self: start; }
     </div>
   </section>
 
-  <section role="tabpanel" id="vocab" aria-labelledby="t-vocab" hidden>
+  <section class="vue" id="vocab" aria-label="Vocabulaire" hidden>
     <p class="aide">Le vocabulaire politique et technique du débat : ce que désigne chaque terme, qui l'emploie dans ses textes, ce que le choix du mot met en avant, et les mots concurrents qu'emploie l'autre camp.</p>
     <div class="reglages">
       <fieldset><legend>Filtrer</legend>
@@ -281,21 +105,29 @@ form.carte .btn { justify-self: start; }
     <div class="lex-cols" id="v-propres"></div>
   </section>
 
-  <section role="tabpanel" id="partis" aria-labelledby="t-partis" hidden>
+  <section class="vue" id="partis" aria-label="Partis" hidden>
     <p class="aide">Une fiche par parti : ses documents de référence, l'état de son programme et ce qui ressort de ses textes. Quand un programme 2027 n'est pas encore publié, le site cite le programme précédent et le signale.</p>
     <div class="partis" id="p-liste"></div>
   </section>
 
-  <section role="tabpanel" id="aveugle" aria-labelledby="t-aveugle" hidden>
+  <section class="vue" id="jouer" aria-label="Jouer" hidden>
+    <div class="titre-section"><h2>Jouer avec les programmes</h2><p class="aide">Des jeux courts pour lire autrement : juger avant de savoir, deviner, comparer les mots.</p></div>
+    <nav class="sous-onglets" id="jeux-nav" aria-label="Jeux"></nav>
+    <div class="jeu" id="jeu-aveugle" hidden>
     <p class="aide">Jugez la proposition seule. La candidature n'est révélée qu'après votre choix. Vos votes restent dans votre navigateur.</p>
     <div class="scene" id="scene-aveugle"></div>
     <h2>Votre lecture</h2>
     <p class="aide">Ce que vous avez soutenu, une fois les noms révélés. Personne d'autre ne voit ce bilan.</p>
     <div class="bilan" id="bilan"></div>
     <div class="legende"><span><b style="background:var(--pour)"></b>Pour</span><span><b style="background:var(--partage)"></b>Partagé</span><span><b style="background:var(--contre)"></b>Contre</span></div>
+    </div>
+    <div class="jeu" id="jeu-quiz" hidden>
+    <p class="aide">Devinez quelle candidature a écrit chaque proposition. Dix questions.</p>
+    <div class="scene" id="scene-quiz"></div>
+    </div>
   </section>
 
-  <section role="tabpanel" id="consensus" aria-labelledby="t-consensus" hidden>
+  <section class="vue" id="consensus" aria-label="Consensus" hidden>
     <p class="aide">Les votants sont regroupés selon leurs votes, sans connaître leur parti. Une idée « rassemble » quand elle obtient l'accord de chaque groupe, pas seulement du plus nombreux.</p>
     <p class="avert" id="c-avert"><strong>Simulation.</strong> En attendant les vrais votes, la carte s'appuie sur 150 votants simulés, plus vos propres votes à l'aveugle.</p>
     <div class="carto">
@@ -307,12 +139,9 @@ form.carte .btn { justify-self: start; }
     </div>
   </section>
 
-  <section role="tabpanel" id="quiz" aria-labelledby="t-quiz" hidden>
-    <p class="aide">Devinez quelle candidature a écrit chaque proposition. Dix questions.</p>
-    <div class="scene" id="scene-quiz"></div>
-  </section>
+  <section class="vue" id="groupes" aria-label="Groupes" hidden></section>
 
-  <section role="tabpanel" id="rejoindre" aria-labelledby="t-rejoindre" hidden>
+  <section class="vue" id="rejoindre" aria-label="Participer" hidden>
     <p class="aide">Chaque étape est facultative. Vous pouvez voter et jouer sans rien donner ; un compte sert seulement à retrouver vos votes partout et à rejoindre les cercles.</p>
     <p class="avert" id="r-hors-ligne" hidden><strong>Aperçu.</strong> Les inscriptions ouvriront avec le site. Les formulaires ci-dessous montrent le parcours.</p>
     <div class="partis">
@@ -352,7 +181,7 @@ form.carte .btn { justify-self: start; }
     </div>
   </section>
 
-  <section role="tabpanel" id="methode" aria-labelledby="t-methode" hidden>
+  <section class="vue" id="methode" aria-label="Méthode" hidden>
     <div class="methode">
       <h3>Une proposition, une citation</h3>
       <p>Chaque fiche reproduit mot pour mot un passage d'un document publié par la formation, avec un lien vers le document, la page et la date. Un script vérifie à chaque mise à jour que la citation figure bien dans le texte source. Une fiche qui échoue n'est pas publiée. Le court intitulé en gras résume la mesure ; seule la citation fait foi.</p>
@@ -375,7 +204,16 @@ form.carte .btn { justify-self: start; }
       <p>Le code, les données et l'historique de chaque modification sont publics sur <a href="https://github.com/CedricMabilotte/comparatif-2027">GitHub</a>, avec la <a href="https://github.com/CedricMabilotte/comparatif-2027/blob/main/docs/SOURCES.md">liste complète des sources</a> et l'empreinte de chaque texte lu. Les textes intégraux ne sont pas republiés (droit d'auteur) mais un script les retélécharge pour refaire toutes les vérifications. Toute erreur peut être signalée et corrigée en public.</p>
     </div>
   </section>
-</div>
+  <section class="vue" id="vie-privee" aria-label="Vie privée" hidden></section>
+
+</main>
+
+<footer class="pied">
+  <span>République des mots · code et données ouverts sur <a href="https://github.com/CedricMabilotte/comparatif-2027">GitHub</a></span>
+  <a href="#vie-privee">Vie privée : aucun traceur</a>
+  <a href="#methode">Méthode</a>
+  <a href="#groupes">Animer une séance</a>
+</footer>
 
 <div class="voile" id="partage" hidden>
   <div class="panneau" role="dialog" aria-modal="true" aria-labelledby="pt-titre">
@@ -390,529 +228,38 @@ form.carte .btn { justify-self: start; }
     <label class="ref" for="pt-texte">Texte</label>
     <textarea id="pt-texte" rows="4"></textarea>
     <div class="choix">
-      <button class="btn principal" id="pt-copier">Copier le texte et le lien</button>
+      <button class="btn principal" id="pt-envoyer" hidden>Envoyer depuis mon téléphone</button>
+      <button class="btn" id="pt-copier">Copier le texte et le lien</button>
       <span class="ref" id="pt-etat" role="status"></span>
     </div>
     <div class="choix" id="pt-reseaux"></div>
+    <div id="pt-integrer" hidden>
+      <label class="ref" for="pt-code">Intégrer dans un article ou un site (une ligne de code)</label>
+      <textarea id="pt-code" rows="3" readonly></textarea>
+      <div class="choix"><button class="btn" id="pt-copier-code">Copier le code</button></div>
+    </div>
   </div>
 </div>
 
-<script src="consensus.js"></script>
-<script>
-(async function () {
-  const $ = (s) => document.querySelector(s);
-  const esc = (t) => String(t).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-  const lire = (k, d) => { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } };
-  const ecrire = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} };
+<div class="voile" id="fiche" hidden>
+  <div class="panneau large" role="dialog" aria-modal="true" aria-labelledby="fi-titre">
+    <div class="panneau-tete"><h2 id="fi-titre"></h2><button class="btn" id="fi-fermer">Fermer</button></div>
+    <div id="fi-corps"></div>
+  </div>
+</div>
 
-  // Client de l'API participative. Hors ligne (aperçu, API absente), le site garde tout dans le navigateur.
-  let enLigne = false;
-  async function api(route, donnees) {
-    const r = await fetch(`api/index.php?r=${route}`, donnees === undefined ? { credentials: "same-origin" }
-      : { method: "POST", credentials: "same-origin", headers: { "Content-Type": "application/json" }, body: JSON.stringify(donnees) }).catch(() => null);
-    if (!r || !(r.headers.get("content-type") || "").includes("json")) return null;
-    return { statut: r.status, ...(await r.json().catch(() => ({}))) };
-  }
-  const moi = await api("moi");
-  enLigne = !!moi;
+<div class="vie-privee" id="choix-vie-privee" role="dialog" aria-labelledby="vp-titre" hidden></div>
 
-  let C;
-  try { C = await (await fetch("corpus.json")).json(); }
-  catch { $("#avert").textContent = "Les données n'ont pas pu être chargées. Rechargez la page."; return; }
-
-  const cand = Object.fromEntries(C.candidatures.map((c) => [c.id, c]));
-  const nomConcept = Object.fromEntries(C.concepts.map((c) => [c.id, c.nom]));
-  const melange = (a) => a.map((v) => [Math.random(), v]).sort((x, y) => x[0] - y[0]).map((x) => x[1]);
-
-  // Onglets
-  const onglets = [...document.querySelectorAll('[role="tab"]')];
-  function ouvrir(id) {
-    onglets.forEach((t) => {
-      const actif = t.getAttribute("aria-controls") === id;
-      t.setAttribute("aria-selected", actif);
-      document.getElementById(t.getAttribute("aria-controls")).hidden = !actif;
-    });
-    ecrire("onglet", id);
-  }
-  onglets.forEach((t) => t.addEventListener("click", () => ouvrir(t.getAttribute("aria-controls"))));
-  const depuisLien = location.hash.slice(1);
-  ouvrir(onglets.some((t) => t.getAttribute("aria-controls") === depuisLien) ? depuisLien : lire("onglet", "matrice"));
-
-  // Matrice
-  const etat = { cands: new Set(C.candidatures.map((c) => c.id)), axe: "themes", mot: null };
-  const fCand = $("#f-cand");
-  C.candidatures.forEach((c) => {
-    const l = document.createElement("label");
-    l.className = "puce"; l.dataset.actif = "true";
-    l.innerHTML = `<input type="checkbox" id="c-${c.id}" checked> <span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}`;
-    l.querySelector("input").addEventListener("change", (e) => {
-      e.target.checked ? etat.cands.add(c.id) : etat.cands.delete(c.id);
-      l.dataset.actif = e.target.checked; dessinerMatrice();
-    });
-    fCand.appendChild(l);
-  });
-  document.querySelectorAll('input[name="axe"]').forEach((r) => r.addEventListener("change", (e) => { etat.axe = e.target.value; dessinerMatrice(); }));
-
-  const archive = (s) => s.archive ? `<span class="archive">archive ${s.millesime ?? s.date.slice(0, 4)}</span>` : "";
-  const page = (s) => s.page ? `p. ${s.page}` : "page web";
-  const refHTML = (s) => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.titre)}</a> · ${page(s)} · ${s.date}${archive(s)}`;
-  function ficheHTML(p, avecMots = true) {
-    const mots = avecMots && p.concepts.length ? `<div class="mots">${p.concepts.map((k) => `<button class="mot" data-mot="${k}" data-actif="${etat.mot === k}">${esc(nomConcept[k])}</button>`).join("")}</div>` : "";
-    const titre = p.intitule ? `<p class="intitule">${esc(p.intitule)}</p>` : "";
-    return `<blockquote class="prop">${titre}<p>${esc(p.citation)}</p><span class="ref">${refHTML(p.source)}</span>${mots}<button class="lien-partage" data-partage-prop="${p.id}">Partager</button></blockquote>`;
-  }
-  const PAR_CELLULE = 3;
-  const NOTIONS = C.notions ?? [], VOCAB = C.vocabulaire ?? [];
-  const notionsMatrice = NOTIONS.filter((n) => n.propositions.length).map((n) => ({ id: n.id, nom: n.nom, ids: new Set(n.propositions) }));
-  const ouvertes = new Set();
-  const sansAccent = (t) => t.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
-
-  function dessinerMatrice() {
-    const cols = C.candidatures.filter((c) => etat.cands.has(c.id));
-    const toutes = etat.axe === "themes" ? C.themes : etat.axe === "notions" ? notionsMatrice : C.concepts;
-    const choix = $("#m-ligne");
-    if (choix.dataset.axe !== etat.axe) {
-      choix.innerHTML = `<option value="">Toutes les lignes</option>` + toutes.map((l) => `<option value="${l.id}">${esc(l.nom)}</option>`).join("");
-      choix.dataset.axe = etat.axe;
-    }
-    const lignes = choix.value ? toutes.filter((l) => l.id === choix.value) : toutes;
-    const filtre = sansAccent($("#m-texte").value.trim());
-    const t = $("#tab-matrice");
-    if (!cols.length) { t.innerHTML = `<tbody><tr><td class="vide">Cochez au moins une candidature.</td></tr></tbody>`; return; }
-    let h = `<thead><tr><th scope="col">${{ themes: "Thème", notions: "Concept", concepts: "Notion" }[etat.axe]}</th>${cols.map((c) => `<th scope="col"><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</th>`).join("")}</tr></thead><tbody>`;
-    for (const l of lignes) {
-      h += `<tr><th scope="row">${esc(l.nom)}</th>`;
-      for (const c of cols) {
-        const ps = C.propositions.filter((p) => p.candidature === c.id && (etat.axe === "themes" ? p.theme === l.id : etat.axe === "notions" ? l.ids.has(p.id) : p.concepts.includes(l.id))
-          && (!filtre || sansAccent(p.citation + " " + (p.intitule || "")).includes(filtre)));
-        const cle = `${etat.axe}|${l.id}|${c.id}`, ouverte = ouvertes.has(cle);
-        const vues = ouverte ? ps : ps.slice(0, PAR_CELLULE);
-        const reste = ps.length - vues.length;
-        h += `<td><div class="cellule">${ps.length ? `<span class="compte-cellule">${ps.length} proposition${ps.length > 1 ? "s" : ""}</span>` + vues.map((p) => ficheHTML(p)).join("")
-          + (reste ? `<button class="plus" data-cellule="${cle}">Voir les ${reste} autres</button>` : ouverte && ps.length > PAR_CELLULE ? `<button class="plus" data-cellule="${cle}">Replier</button>` : "")
-          : `<span class="vide">${filtre ? "Aucune proposition avec ce mot." : "Rien dans les sources."}</span>`}</div></td>`;
-      }
-      h += "</tr>";
-    }
-    t.innerHTML = h + "</tbody>";
-  }
-  $("#m-ligne").addEventListener("change", dessinerMatrice);
-  let delai;
-  $("#m-texte").addEventListener("input", () => { clearTimeout(delai); delai = setTimeout(dessinerMatrice, 200); });
-  $("#tab-matrice").addEventListener("click", (e) => {
-    const plus = e.target.closest(".plus");
-    if (plus) { const k = plus.dataset.cellule; ouvertes.has(k) ? ouvertes.delete(k) : ouvertes.add(k); dessinerMatrice(); return; }
-    const b = e.target.closest(".mot"); if (!b) return;
-    etat.mot = etat.mot === b.dataset.mot ? null : b.dataset.mot; dessinerMatrice();
-  });
-  dessinerMatrice();
-
-  // Lexique
-  let conceptActif = C.concepts[0].id;
-  // Une fiche du lexique est une lecture éditoriale, toujours adossée à des citations du corpus.
-  const parId = Object.fromEntries(C.propositions.map((p) => [p.id, p]));
-  function lectureHTML(f) {
-    if (!f) return `<p class="def">Pas encore analysé.</p>`;
-    if (typeof f === "string") return `<p class="def">${esc(f)}</p>`;
-    const appuis = (f.appuis || []).map((id) => parId[id]).filter(Boolean);
-    return `<span class="lecture">Lecture éditoriale</span><p class="def">${esc(f.texte)}</p>`
-      + (appuis.length ? `<p class="ref">Appuis : ${appuis.map((p) => `« ${esc(p.citation.length > 90 ? p.citation.slice(0, 90) + "…" : p.citation)} »${archive(p.source)}`).join(" ; ")}</p>` : "");
-  }
-  function dessinerLexique() {
-    $("#lex-liste").innerHTML = C.concepts.map((k) => {
-      const n = C.propositions.filter((p) => p.concepts.includes(k.id)).length;
-      return `<button aria-pressed="${k.id === conceptActif}" data-k="${k.id}">${esc(k.nom)} <span class="n">${n}</span></button>`;
-    }).join("");
-    const max = Math.max(1, ...C.candidatures.map((c) => C.propositions.filter((p) => p.candidature === c.id && p.concepts.includes(conceptActif)).length));
-    $("#lex-cols").innerHTML = C.candidatures.map((c) => {
-      const ps = C.propositions.filter((p) => p.candidature === c.id && p.concepts.includes(conceptActif));
-      return `<article class="carte"><h3><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</h3>
-        ${lectureHTML(C.lexique[conceptActif]?.[c.id])}
-        <div class="jauge"><span class="barre"><i style="width:${(ps.length / max) * 100}%"></i></span><span>${ps.length} proposition${ps.length > 1 ? "s" : ""}</span></div>
-        ${ps.slice(0, 4).map((p) => ficheHTML(p, false)).join("")}
-        ${ps.length > 4 ? `<details><summary class="plus">Voir les ${ps.length - 4} autres</summary>${ps.slice(4).map((p) => ficheHTML(p, false)).join("")}</details>` : ""}</article>`;
-    }).join("");
-  }
-  $("#lex-liste").addEventListener("click", (e) => { const b = e.target.closest("button"); if (b) { conceptActif = b.dataset.k; dessinerLexique(); } });
-  dessinerLexique();
-
-  // Concepts précis : définition, enjeux, puis la position de chaque parti, adossée à ses citations
-  const nomTheme = Object.fromEntries(C.themes.map((t) => [t.id, t.nom]));
-  const parNotion = Object.fromEntries(NOTIONS.map((n) => [n.id, n]));
-  const remplir = (sel, valeurs) => { $(sel).insertAdjacentHTML("beforeend", valeurs.map(([v, l]) => `<option value="${esc(v)}">${esc(l)}</option>`).join("")); };
-  remplir("#n-theme", C.themes.map((t) => [t.id, t.nom]));
-  remplir("#n-cat", [...new Set(NOTIONS.map((n) => n.categorie).filter(Boolean))].sort().map((c) => [c, c[0].toUpperCase() + c.slice(1)]));
-  const abordePar = (n) => C.candidatures.filter((c) => n.positions?.[c.id] || n.usage?.[c.id]).length;
-  let notionActive = lire("notion", null);
-  const filtreNotions = () => {
-    const q = sansAccent($("#n-cherche").value.trim()), th = $("#n-theme").value, cat = $("#n-cat").value;
-    return NOTIONS.filter((n) => (!th || (n.themes || [n.theme]).includes(th)) && (!cat || n.categorie === cat)
-      && (!q || sansAccent([n.nom, ...(n.variantes || []), n.definition || ""].join(" ")).includes(q)));
-  };
-  function dessinerNotions() {
-    const liste = filtreNotions();
-    if (!liste.some((n) => n.id === notionActive)) notionActive = liste[0]?.id ?? null;
-    $("#n-liste").innerHTML = liste.length ? liste.map((n) => `<button aria-pressed="${n.id === notionActive}" data-notion="${n.id}"><span>${esc(n.nom)}<span class="sous">${esc(n.categorie || "")}</span></span><span class="n" title="Partis qui l'abordent">${abordePar(n)}/${C.candidatures.length}</span></button>`).join("")
-      : `<p class="vide">Aucun concept ne correspond.</p>`;
-    $("#n-fiche").innerHTML = notionActive ? ficheNotionHTML(parNotion[notionActive]) : "";
-  }
-  function ficheNotionHTML(n) {
-    const vocab = VOCAB.filter((v) => (v.notions || []).includes(n.id));
-    const props = n.propositions.map((id) => parId[id]).filter(Boolean);
-    return `<article class="fiche-notion">
-      <h2>${esc(n.nom)}</h2>
-      <p class="etiquettes">${n.categorie ? `<span class="etiquette">${esc(n.categorie)}</span>` : ""}${(n.themes || [n.theme]).map((t) => `<span class="etiquette">${esc(nomTheme[t] || t)}</span>`).join("")}${(n.variantes || []).length ? `<span class="etiquette">aussi : ${esc(n.variantes.join(", "))}</span>` : ""}</p>
-      <span class="lecture">Définition éditoriale</span><p class="def">${esc(n.definition || "")}</p>
-      ${n.enjeux ? `<p class="mini-titre">Ce qui est débattu</p><p class="def">${esc(n.enjeux)}</p>` : ""}
-      ${(n.reperes || []).length ? `<p class="mini-titre">Repères</p><ul class="reperes">${n.reperes.map((r) => `<li>${esc(r)}</li>`).join("")}</ul>` : ""}
-      ${(n.liens || []).length ? `<p class="mini-titre">Voir aussi</p><div class="mots">${n.liens.map((l) => `<button class="mot" data-notion="${l}">${esc(parNotion[l]?.nom || l)}</button>`).join("")}</div>` : ""}
-      ${vocab.length ? `<p class="mini-titre">Vocabulaire associé</p><div class="mots">${vocab.map((v) => `<button class="mot" data-terme="${v.id}">${esc(v.terme)}</button>`).join("")}</div>` : ""}
-      <p class="mini-titre">Ce qu'en disent les partis</p>
-      <div class="lex-cols">${C.candidatures.map((c) => {
-        const pos = n.positions?.[c.id], ps = props.filter((p) => p.candidature === c.id);
-        return `<article class="carte"><h3><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</h3>
-          ${pos ? lectureHTML(pos) : ps.length ? "" : `<p class="non-aborde">Non abordé dans les textes lus.</p>`}
-          ${ps.length ? `<details><summary class="plus">${ps.length} citation${ps.length > 1 ? "s" : ""} qui en parle${ps.length > 1 ? "nt" : ""}</summary>${ps.map((p) => ficheHTML(p, false)).join("")}</details>` : ""}</article>`;
-      }).join("")}</div>
-      <button class="lien-partage" data-partage-notion="${n.id}">Partager ce concept</button>
-    </article>`;
-  }
-  function ouvrirNotion(id) { if (!parNotion[id]) return; notionActive = id; ecrire("notion", id); $("#n-cherche").value = ""; $("#n-theme").value = ""; $("#n-cat").value = ""; vueConcepts("precis"); ouvrir("lexique"); dessinerNotions(); $("#n-fiche").scrollIntoView({ block: "start" }); }
-  function vueConcepts(v) {
-    document.querySelector(`input[name="vue-concepts"][value="${v}"]`).checked = true;
-    $("#n-precis").hidden = v !== "precis"; $("#n-filtres").hidden = v !== "precis"; $("#n-grandes").hidden = v !== "grandes";
-  }
-  document.querySelectorAll('input[name="vue-concepts"]').forEach((r) => r.addEventListener("change", (e) => vueConcepts(e.target.value)));
-  ["#n-cherche", "#n-theme", "#n-cat"].forEach((sel) => $(sel).addEventListener("input", dessinerNotions));
-  $("#lexique").addEventListener("click", (e) => {
-    const b = e.target.closest("[data-notion]"); if (b) { notionActive = b.dataset.notion; ecrire("notion", notionActive); if (!filtreNotions().some((n) => n.id === notionActive)) { $("#n-cherche").value = ""; $("#n-theme").value = ""; $("#n-cat").value = ""; } dessinerNotions(); return; }
-    const t = e.target.closest("[data-terme]"); if (t) ouvrirTerme(t.dataset.terme);
-  });
-  if (!NOTIONS.length) vueConcepts("grandes"); else dessinerNotions();
-  if (location.hash.startsWith("#concept-")) ouvrirNotion(location.hash.slice(9));
-
-  // Glossaire du vocabulaire politique et technique
-  const parTerme = Object.fromEntries(VOCAB.map((v) => [v.id, v]));
-  const parNomTerme = Object.fromEntries(VOCAB.flatMap((v) => [v.terme, ...(v.variantes || [])].map((t) => [sansAccent(t), v.id])));
-  remplir("#g-registre", [...new Set(VOCAB.map((v) => v.registre).filter(Boolean))].sort().map((r) => [r, r[0].toUpperCase() + r.slice(1)]));
-  remplir("#g-theme", C.themes.map((t) => [t.id, t.nom]));
-  const PAR_PAGE = 48;
-  let gLimite = PAR_PAGE;
-  function termeHTML(v) {
-    const max = Math.max(1, ...Object.values(v.usage || {}));
-    const ps = v.propositions.map((id) => parId[id]).filter(Boolean);
-    return `<article class="carte" id="terme-${v.id}">
-      <h3>${esc(v.terme)}</h3>
-      <p class="etiquettes">${v.registre ? `<span class="etiquette">${esc(v.registre)}</span>` : ""}${(v.themes || [v.theme]).map((t) => `<span class="etiquette">${esc(nomTheme[t] || t)}</span>`).join("")}</p>
-      <p class="def" style="font-style:normal">${esc(v.definition || "")}</p>
-      ${v.lecture ? `<span class="lecture">Lecture éditoriale</span><p class="def">${esc(v.lecture)}</p>` : ""}
-      <p class="mini-titre">Emplois dans les textes lus</p>
-      <div class="usage-partis">${C.candidatures.map((c) => { const k = v.usage?.[c.id] || 0; return `<span class="${k ? "" : "zero"}" style="${k ? `background:color-mix(in srgb, var(--accent) ${Math.round(12 + (k / max) * 40)}%, transparent)` : ""}" title="${esc(c.nom)}">${esc(c.sigle)} ${k}</span>`; }).join("")}</div>
-      ${(v.concurrents || []).length ? `<p class="mini-titre">Mots concurrents</p><div class="mots">${v.concurrents.map((t) => { const id = parNomTerme[sansAccent(t)]; return id ? `<button class="mot" data-terme="${id}">${esc(t)}</button>` : `<span class="mot">${esc(t)}</span>`; }).join("")}</div>` : ""}
-      ${(v.notions || []).length ? `<p class="mini-titre">Concepts liés</p><div class="mots">${v.notions.map((n) => `<button class="mot" data-notion="${n}">${esc(parNotion[n]?.nom || n)}</button>`).join("")}</div>` : ""}
-      ${ps.length ? `<details><summary class="plus">Lire les ${ps.length} emploi${ps.length > 1 ? "s" : ""}</summary>${ps.map((p) => `<p class="ligne-emploi"><span class="sigle">${esc(cand[p.candidature].sigle)}</span> ${esc(p.citation)} <span class="ref">${refHTML(p.source)}</span></p>`).join("")}</details>` : ""}
-    </article>`;
-  }
-  function dessinerGlossaire() {
-    const q = sansAccent($("#g-cherche").value.trim()), reg = $("#g-registre").value, th = $("#g-theme").value;
-    const liste = VOCAB.filter((v) => (!reg || v.registre === reg) && (!th || (v.themes || [v.theme]).includes(th))
-      && (!q || sansAccent([v.terme, ...(v.variantes || []), ...(v.concurrents || [])].join(" ")).includes(q)));
-    $("#g-compte").textContent = VOCAB.length ? `${liste.length} terme${liste.length > 1 ? "s" : ""} sur ${VOCAB.length}` : "";
-    $("#g-liste").innerHTML = liste.slice(0, gLimite).map(termeHTML).join("");
-    $("#g-plus").hidden = liste.length <= gLimite;
-  }
-  function ouvrirTerme(id) {
-    const v = parTerme[id]; if (!v) return;
-    $("#g-cherche").value = v.terme; $("#g-registre").value = ""; $("#g-theme").value = ""; gLimite = PAR_PAGE;
-    ouvrir("vocab"); dessinerGlossaire(); document.getElementById(`terme-${id}`)?.scrollIntoView({ block: "start" });
-  }
-  ["#g-cherche", "#g-registre", "#g-theme"].forEach((sel) => $(sel).addEventListener("input", () => { gLimite = PAR_PAGE; dessinerGlossaire(); }));
-  $("#g-plus").addEventListener("click", () => { gLimite += PAR_PAGE; dessinerGlossaire(); });
-  $("#g-liste").addEventListener("click", (e) => {
-    const t = e.target.closest("[data-terme]"); if (t) { ouvrirTerme(t.dataset.terme); return; }
-    const n = e.target.closest("[data-notion]"); if (n) ouvrirNotion(n.dataset.notion);
-  });
-  dessinerGlossaire();
-
-  // Vote à l'aveugle
-  const votes = lire("votes", {});
-  let fileVote = melange(C.propositions.filter((p) => !votes[p.id]));
-  function dessinerVote(revele) {
-    const s = $("#scene-aveugle");
-    const fait = Object.keys(votes).length;
-    if (!fileVote.length) {
-      s.innerHTML = `<p class="compteur">${fait} / ${C.propositions.length} propositions jugées</p><p class="citation">Vous avez jugé toutes les propositions.</p><div class="choix"><button class="btn" id="raz">Recommencer</button></div>`;
-      $("#raz").onclick = () => { for (const k in votes) delete votes[k]; ecrire("votes", votes); fileVote = melange(C.propositions.slice()); dessinerVote(); dessinerBilan(); };
-      return;
-    }
-    const p = fileVote[0];
-    s.innerHTML = `<p class="compteur">Proposition ${fait + 1} sur ${C.propositions.length}</p>
-      <p class="citation">« ${esc(p.citation)} »</p>
-      ${revele ? `<div class="revelation"><p>Vous avez voté <strong>${{ pour: "pour", partage: "partagé", contre: "contre" }[votes[p.id]]}</strong>. Cette proposition vient de <span class="sigle">${esc(cand[p.candidature].sigle)}</span> <strong>${esc(cand[p.candidature].nom)}</strong>.</p><span class="ref">${esc(p.source.titre)} · ${page(p.source)}</span><div class="choix"><button class="btn principal" id="suivante">Proposition suivante</button><button class="btn" data-partage-aveugle="${p.id}">Faire deviner à quelqu'un</button></div></div>`
-      : `<div class="choix"><button class="btn pour" data-v="pour">Pour</button><button class="btn partage" data-v="partage">Partagé</button><button class="btn contre" data-v="contre">Contre</button></div>`}`;
-    if (revele) $("#suivante").onclick = () => { fileVote.shift(); dessinerVote(); };
-    else s.querySelectorAll("[data-v]").forEach((b) => b.onclick = () => { votes[p.id] = b.dataset.v; ecrire("votes", votes); api("vote", { proposition: p.id, valeur: b.dataset.v }); dessinerVote(true); dessinerBilan(); });
-  }
-  function dessinerBilan() {
-    const lignes = C.candidatures.map((c) => {
-      const v = C.propositions.filter((p) => p.candidature === c.id && votes[p.id]).map((p) => votes[p.id]);
-      const n = v.length || 1, f = (x) => (v.filter((y) => y === x).length / n) * 100;
-      return `<div class="bilan-ligne"><span><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</span>
-        <span class="empile" role="img" aria-label="${v.filter((y) => y === "pour").length} pour, ${v.filter((y) => y === "partage").length} partagé, ${v.filter((y) => y === "contre").length} contre">
-        <i style="width:${f("pour")}%;background:var(--pour)"></i><i style="width:${f("partage")}%;background:var(--partage)"></i><i style="width:${f("contre")}%;background:var(--contre)"></i></span>
-        <span class="ref">${v.length} jugée${v.length > 1 ? "s" : ""}</span></div>`;
-    }).join("");
-    $("#bilan").innerHTML = Object.keys(votes).length ? lignes : `<p class="aide">Votez sur une première proposition pour voir apparaître votre bilan.</p>`;
-  }
-  dessinerVote(); dessinerBilan();
-
-  // Quiz
-  let q;
-  function nouveauQuiz() { q = { liste: melange(C.propositions.slice()).slice(0, 10), i: 0, score: 0, repondu: null }; dessinerQuiz(); }
-  function dessinerQuiz() {
-    const s = $("#scene-quiz");
-    if (q.i >= q.liste.length) {
-      const record = Math.max(lire("record", 0), q.score); ecrire("record", record);
-      s.innerHTML = `<p class="compteur">Terminé</p><p class="citation">${q.score} bonne${q.score > 1 ? "s" : ""} réponse${q.score > 1 ? "s" : ""} sur ${q.liste.length}.</p><p class="aide">Votre meilleur score : ${record} / 10.</p><div class="choix"><button class="btn principal" id="rejouer">Rejouer</button><button class="btn" id="q-partager">Défier quelqu'un</button></div>`;
-      $("#rejouer").onclick = nouveauQuiz;
-      const sc = q.score, tot = q.liste.length;
-      $("#q-partager").onclick = () => partager({ surtitre: "Qui a dit ça ?", corps: `J'ai reconnu ${sc} propositions sur ${tot}.`, pied: "Saurez-vous deviner quel parti a écrit quoi ?", texte: `J'ai reconnu ${sc}/${tot} propositions au quiz « Qui a dit ça ? ». Saurez-vous faire mieux ?`, ancre: "quiz" });
-      return;
-    }
-    const p = q.liste[q.i];
-    s.innerHTML = `<p class="compteur">Question ${q.i + 1} sur ${q.liste.length} · score ${q.score}</p><p class="citation">« ${esc(p.citation)} »</p>
-      <div class="choix">${C.candidatures.map((c) => {
-        let cl = "btn";
-        if (q.repondu) cl += c.id === p.candidature ? " juste" : c.id === q.repondu ? " faux" : "";
-        return `<button class="${cl}" data-c="${c.id}" ${q.repondu ? "disabled" : ""}><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</button>`;
-      }).join("")}</div>
-      ${q.repondu ? `<div class="revelation"><p>${q.repondu === p.candidature ? "Bonne réponse." : `C'était ${esc(cand[p.candidature].nom)}.`} Concepts mobilisés : ${p.concepts.map((k) => esc(nomConcept[k])).join(", ")}.</p><div class="choix"><button class="btn principal" id="q-suite">${q.i + 1 < q.liste.length ? "Question suivante" : "Voir le score"}</button></div></div>` : ""}`;
-    if (q.repondu) $("#q-suite").onclick = () => { q.i++; q.repondu = null; dessinerQuiz(); };
-    else s.querySelectorAll("[data-c]").forEach((b) => b.onclick = () => { q.repondu = b.dataset.c; if (q.repondu === p.candidature) q.score++; dessinerQuiz(); });
-  }
-  nouveauQuiz();
-
-  // Carte des consensus
-  // La carte porte sur un échantillon de propositions : l'analyse est quadratique en nombre de propositions.
-  const MAX_ITEMS = 80;
-  const tirage = Consensus.alea(2027);
-  const echantillon = [...C.propositions].map((p) => [tirage(), p.id]).sort((x, y) => x[0] - y[0]).map((x) => x[1]);
-  const TRANSVERSALES = echantillon.slice(0, 4); // propositions que la simulation rend populaires partout
-  const COUL = ["var(--g1)", "var(--g2)", "var(--g3)", "var(--g4)"];
-  const SEUIL_REEL = 30; // en dessous, la carte serait trop instable : on reste sur la simulation
-  async function dessinerConsensus() {
-    const reels = enLigne ? (await api("votes"))?.votants ?? [] : [];
-    const simule = reels.length < SEUIL_REEL;
-    // Les propositions les plus votées (ou un échantillon fixe en simulation), plus celles que vous avez votées.
-    const nbVotes = {};
-    if (!simule) for (const v of reels) for (const k in v.votes) nbVotes[k] = (nbVotes[k] || 0) + 1;
-    const base = simule ? echantillon : Object.keys(nbVotes).sort((x, y) => nbVotes[y] - nbVotes[x]);
-    const items = [...new Set([...Object.keys(votes).filter((k) => parId[k]), ...base])].slice(0, MAX_ITEMS);
-    $("#c-avert").hidden = !simule;
-    const miens = Object.fromEntries(Object.entries(votes).map(([k, v]) => [k, { pour: 1, partage: 0, contre: -1 }[v]]));
-    let votants, avecMoi;
-    if (simule) {
-      votants = Consensus.simuler(C.propositions.filter((p) => items.includes(p.id)), C.candidatures.map((c) => c.id), 150, TRANSVERSALES, 42);
-      avecMoi = Object.keys(miens).length > 0;
-      if (avecMoi) votants.push({ id: "moi", votes: miens });
-    } else {
-      votants = reels.filter((v) => !v.moi).map((v, i) => ({ id: `v${i}`, votes: v.votes }));
-      const reelMoi = reels.find((v) => v.moi);
-      avecMoi = !!reelMoi;
-      if (avecMoi) votants.push({ id: "moi", votes: reelMoi.votes });
-    }
-    const a = Consensus.analyser(votants, items);
-    const xs = a.coords.map((c) => c[0]), ys = a.coords.map((c) => c[1]);
-    const ech = (v, min, max, a0, a1) => a0 + ((v - min) / ((max - min) || 1)) * (a1 - a0);
-    const [x0, x1, y0, y1] = [Math.min(...xs), Math.max(...xs), Math.min(...ys), Math.max(...ys)];
-    let svg = `<rect x="0" y="0" width="400" height="300" fill="var(--surface)"/>`;
-    a.coords.forEach((c, i) => {
-      if (votants[i].id === "moi") return;
-      svg += `<circle cx="${ech(c[0], x0, x1, 20, 380).toFixed(1)}" cy="${ech(c[1], y0, y1, 280, 20).toFixed(1)}" r="4" fill="${COUL[a.groupe[i]]}" fill-opacity=".65"/>`;
-    });
-    if (avecMoi) {
-      const i = votants.length - 1, cx = ech(a.coords[i][0], x0, x1, 20, 380), cy = ech(a.coords[i][1], y0, y1, 280, 20);
-      svg += `<circle cx="${cx.toFixed(1)}" cy="${cy.toFixed(1)}" r="9" fill="none" stroke="var(--encre)" stroke-width="2"/><text x="${(cx + 12).toFixed(1)}" y="${(cy + 4).toFixed(1)}" fill="var(--encre)" font-family="Bricolage Grotesque, sans-serif" font-size="13" font-weight="700">vous</text>`;
-    }
-    $("#c-nuage").innerHTML = svg;
-    $("#c-legende").innerHTML = a.tailles.map((t, g) => `<span style="color:${COUL[g]}">●</span> Groupe ${g + 1} : ${t} votants`).join(" · ") + (avecMoi ? ` · vous êtes dans le groupe ${a.groupe[votants.length - 1] + 1}` : " · votez à l'aveugle pour apparaître sur la carte");
-    const ligne = (it) => {
-      const p = C.propositions.find((x) => x.id === it.id);
-      return `<div class="c-item"><span>« ${esc(p.citation)} »</span><span class="ref"><span class="sigle">${esc(cand[p.candidature].sigle)}</span> accord par groupe :</span>
-        <div class="c-barres">${it.accord.map((v, g) => `<span title="Groupe ${g + 1} : ${Math.round(v * 100)} %"><i style="width:${v * 100}%;background:${COUL[g]}"></i></span>`).join("")}</div></div>`;
-    };
-    $("#c-rassemble").innerHTML = [...a.parItem].sort((x, y) => y.consensus - x.consensus).slice(0, 4).map(ligne).join("");
-    $("#c-divise").innerHTML = [...a.parItem].sort((x, y) => y.division - x.division).slice(0, 3).map(ligne).join("");
-  }
-  dessinerConsensus();
-  $("#t-consensus").addEventListener("click", dessinerConsensus);
-
-  // Rejoindre : lettre, compte par lien magique, profil, cercles
-  const CERCLES = [
-    ["Cercle Lexique", "enrichir les définitions des concepts"],
-    ["Cercle Vérification", "contrôler les citations et signaler les erreurs"],
-    ["Cercles locaux", "organiser des lectures et des débats à l'aveugle près de chez vous"],
-  ];
-  $("#r-cercles").innerHTML = CERCLES.map(([n, d]) => `<li><span>${esc(n)}</span><span class="justif">${esc(d)}</span><span class="ref">Ouverture avec le site</span></li>`).join("");
-  $("#r-hors-ligne").hidden = enLigne;
-  const message = { "#bienvenue": "Vous êtes connecté.", "#connexion-expiree": "Ce lien de connexion a expiré. Demandez-en un nouveau.", "#abonnement-confirme": "Inscription confirmée. À dimanche !", "#lien-expire": "Ce lien a expiré." }[location.hash];
-  if (message) { ouvrir("rejoindre"); $("#c-etat").textContent = message; }
-  if (moi?.connecte) {
-    $("#f-compte").hidden = true; $("#f-profil").hidden = false;
-    $("#pf-pseudo").value = moi.pseudo ?? ""; $("#pf-commune").value = moi.commune?.nom ?? "";
-  }
-  async function soumettre(e, route, donnees, etat, succes) {
-    e.preventDefault();
-    if (!enLigne) { $(etat).textContent = "Les inscriptions ouvriront avec le site."; return; }
-    const r = await api(route, donnees);
-    $(etat).textContent = r?.ok ? succes : r?.erreur ?? "Le service ne répond pas. Réessayez dans un instant.";
-  }
-  $("#f-lettre").addEventListener("submit", (e) => soumettre(e, "abonnement", { email: $("#l-email").value }, "#l-etat", "Vérifiez votre boîte : un e-mail de confirmation vient de partir."));
-  $("#f-compte").addEventListener("submit", (e) => {
-    if (!$("#c-consent").checked) { e.preventDefault(); $("#c-etat").textContent = "Cochez la case pour créer un compte."; return; }
-    soumettre(e, "lien-magique", { email: $("#c-email").value, consentement: true }, "#c-etat", "Lien envoyé. Ouvrez-le depuis votre boîte dans les 30 minutes.");
-  });
-  // Communes : API publique geo.api.gouv.fr (sans clé). Indisponible en aperçu ; le champ reste libre.
-  let communes = [];
-  $("#pf-commune").addEventListener("input", async (e) => {
-    const q = e.target.value.trim(); if (q.length < 2) return;
-    try {
-      communes = await (await fetch(`https://geo.api.gouv.fr/communes?nom=${encodeURIComponent(q)}&fields=code,nom,codesPostaux&limit=8`)).json();
-      $("#pf-communes").innerHTML = communes.map((c) => `<option value="${esc(c.nom)} (${esc(c.codesPostaux?.[0] ?? c.code)})"></option>`).join("");
-    } catch { communes = []; }
-  });
-  $("#f-profil").addEventListener("submit", (e) => {
-    const saisie = $("#pf-commune").value, c = communes.find((x) => saisie.startsWith(x.nom));
-    soumettre(e, "profil", { pseudo: $("#pf-pseudo").value, commune: c ? { insee: c.code, nom: c.nom } : null }, "#pf-etat", "Profil enregistré.");
-  });
-
-  // Vocabulaire : comptage des mots réellement employés dans les citations
-  const VIDES = new Set("les des une un le la de du et en au aux pour par sur dans avec sans que qui quoi dont où est sont sera seront nous vous ils elles leur leurs son sa ses ce cet cette ces chaque tout toute tous toutes plus moins entre afin ainsi être avoir doit doivent pas ne ni ou mais donc car comme lui elle on se il y à d l qu s n c j m t abord contre très bien aussi déjà".split(" "));
-  const mots = (t) => t.toLowerCase().replace(/[’']/g, " ").split(/[^a-zàâäçéèêëîïôöûùüÿœæ-]+/).map((m) => m.replace(/^-+|-+$/g, "")).filter((m) => m.length > 2 && !VIDES.has(m));
-  const occ = {}; // mot -> { candidature: n }
-  C.propositions.forEach((p) => mots(p.citation).forEach((m) => { occ[m] ??= {}; occ[m][p.candidature] = (occ[m][p.candidature] ?? 0) + 1; }));
-  const total = (m) => Object.values(occ[m]).reduce((a, b) => a + b, 0);
-  const tri = Object.keys(occ).sort((a, b) => total(b) - total(a) || a.localeCompare(b, "fr"));
-
-  function dessinerVocab() {
-    const top = tri.slice(0, 15), max = Math.max(...top.map(total));
-    $("#v-table").innerHTML = `<thead><tr><th scope="col">Mot</th>${C.candidatures.map((c) => `<th scope="col"><span class="sigle">${esc(c.sigle)}</span></th>`).join("")}<th scope="col">Total</th></tr></thead><tbody>${top.map((m) => `<tr><td class="mot-col"><button class="mot" data-cherche="${esc(m)}">${esc(m)}</button></td>${C.candidatures.map((c) => {
-      const n = occ[m][c.id] ?? 0;
-      return `<td><span class="chaleur" style="background:color-mix(in srgb, var(--accent) ${Math.round((n / max) * 45)}%, transparent)">${n || "·"}</span></td>`;
-    }).join("")}<td>${total(m)}</td></tr>`).join("")}</tbody>`;
-    $("#v-propres").innerHTML = C.candidatures.map((c) => {
-      const propres = tri.filter((m) => (occ[m][c.id] ?? 0) / total(m) >= 0.99).sort((a, b) => occ[b][c.id] - occ[a][c.id]).slice(0, 10);
-      return `<article class="carte"><h3><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</h3><div class="mots">${propres.map((m) => `<button class="mot" data-cherche="${esc(m)}">${esc(m)}</button>`).join("")}</div></article>`;
-    }).join("");
-  }
-  function chercher(m) {
-    m = m.trim().toLowerCase(); $("#v-mot").value = m;
-    if (!m) { $("#v-contexte").innerHTML = ""; return; }
-    const re = new RegExp(`(${m.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}[a-zàâäçéèêëîïôöûùüÿœæ]*)`, "gi");
-    const ps = C.propositions.filter((p) => re.test(p.citation) && !(re.lastIndex = 0));
-    $("#v-contexte").innerHTML = ps.length
-      ? ps.map((p) => `<div class="ligne-ctx"><span class="sigle" style="justify-self:start">${esc(cand[p.candidature].sigle)}</span><span>${esc(p.citation).replace(re, "<mark>$1</mark>")}</span></div>`).join("")
-      : `<p class="vide">Aucun emploi de « ${esc(m)} » dans les textes.</p>`;
-  }
-  $("#v-mot").addEventListener("input", (e) => chercher(e.target.value));
-  $("#vocab").addEventListener("click", (e) => { const b = e.target.closest("[data-cherche]"); if (b) chercher(b.dataset.cherche); });
-  dessinerVocab();
-
-  // Fiches partis
-  const libelleEtat = { publie: "Programme 2027 publié", partiel: "Programme 2027 partiel", attendu: "Programme 2027 attendu" };
-  function dessinerPartis() {
-    $("#p-liste").innerHTML = C.candidatures.map((c) => {
-      const docs = (C.documents ?? []).filter((d) => d.candidature === c.id);
-      const ps = C.propositions.filter((p) => p.candidature === c.id);
-      const parConcept = C.concepts.map((k) => [k, ps.filter((p) => p.concepts.includes(k.id)).length]).filter(([, n]) => n).sort((a, b) => b[1] - a[1]).slice(0, 4);
-      const maxC = Math.max(1, ...parConcept.map(([, n]) => n));
-      const propres = tri.filter((m) => (occ[m][c.id] ?? 0) / total(m) >= 0.99).sort((a, b) => occ[b][c.id] - occ[a][c.id]).slice(0, 6);
-      return `<article class="carte" id="parti-${c.id}">
-        <h3><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</h3>
-        <p class="ref">${esc(c.candidat)} · <span class="etat ${c.statut_programme}">${libelleEtat[c.statut_programme]}</span></p>
-        <p class="def" style="font-style:normal">${esc(c.famille[0].toUpperCase() + c.famille.slice(1))}. Candidature : ${esc(c.statut_candidat)}.</p>
-        <p class="mini-titre">Documents de référence</p>
-        <ul class="docs">${docs.map((d) => `<li><span><a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.titre)}</a>${d.archive ? `<span class="archive">archive ${d.millesime ?? d.date.slice(0, 4)}</span>` : ""}</span><span class="ref">${d.type} · ${d.date} · ${d.citations} citation${d.citations > 1 ? "s" : ""}</span>${d.justification ? `<span class="justif">${esc(d.justification)}</span>` : ""}</li>`).join("")}</ul>
-        <p class="mini-titre">Concepts les plus mobilisés</p>
-        ${parConcept.map(([k, n]) => `<div class="jauge"><span>${esc(k.nom)}</span><span>${n}</span><span class="barre" style="grid-column:1/-1"><i style="width:${(n / maxC) * 100}%"></i></span></div>`).join("")}
-        ${(() => { const ns = (C.notions ?? []).filter((n) => n.positions?.[c.id]).sort((a, b) => (b.usage?.[c.id] || 0) - (a.usage?.[c.id] || 0)); return ns.length ? `<p class="mini-titre">Concepts précis abordés (${ns.length})</p><div class="mots">${ns.slice(0, 12).map((n) => `<button class="mot" data-notion="${n.id}">${esc(n.nom)}</button>`).join("")}</div>` : ""; })()}
-        <p class="mini-titre">Mots qui lui sont propres</p>
-        <div class="mots">${propres.map((m) => `<span class="mot">${esc(m)}</span>`).join("")}</div>
-        <p class="ref">${ps.length} propositions sourcées</p>
-        <button class="lien-partage" data-partage-parti="${c.id}">Partager cette fiche</button>
-      </article>`;
-    }).join("");
-  }
-  dessinerPartis();
-  $("#p-liste").addEventListener("click", (e) => { const n = e.target.closest("[data-notion]"); if (n) ouvrirNotion(n.dataset.notion); });
-
-  // Partage : image générée dans trois formats, texte prêt à coller, liens vers les réseaux
-  const FORMATS = { carre: [1080, 1080], paysage: [1200, 675], story: [1080, 1920] };
-  let aPartager = null;
-  const couleur = (v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
-  function lignes(ctx, texte, largeur) {
-    const out = []; let l = "";
-    for (const m of texte.split(" ")) { const t = l ? l + " " + m : m; if (ctx.measureText(t).width > largeur && l) { out.push(l); l = m; } else l = t; }
-    if (l) out.push(l); return out;
-  }
-  function dessinerImage() {
-    const fmt = document.querySelector('input[name="fmt"]:checked').value;
-    const [W, H] = FORMATS[fmt], cv = document.createElement("canvas"); cv.width = W; cv.height = H;
-    const x = cv.getContext("2d"), m = Math.round(W * 0.08);
-    x.fillStyle = "#f4f5f7"; x.fillRect(0, 0, W, H);
-    x.fillStyle = "#3346c8"; x.fillRect(0, 0, W, Math.round(H * 0.012) + 6);
-    x.fillStyle = "#5a6275"; x.font = `500 ${Math.round(W * 0.03)}px "Bricolage Grotesque", sans-serif`;
-    x.fillText(aPartager.surtitre.toUpperCase(), m, m + W * 0.03);
-    let taille = Math.round(W * (fmt === "paysage" ? 0.048 : 0.062)), ls;
-    do { x.font = `400 ${taille}px "Newsreader", Georgia, serif`; ls = lignes(x, aPartager.corps, W - 2 * m); taille -= 2; } while (ls.length * taille * 1.3 > H * 0.55 && taille > 20);
-    x.fillStyle = "#1b2130"; const y0 = (H - ls.length * taille * 1.3) / 2;
-    ls.forEach((l, i) => x.fillText(l, m, y0 + (i + 1) * taille * 1.3));
-    x.fillStyle = "#5a6275"; x.font = `400 ${Math.round(W * 0.026)}px "Newsreader", Georgia, serif`;
-    lignes(x, aPartager.pied, W - 2 * m).forEach((l, i, t) => x.fillText(l, m, H - m - (t.length - 1 - i) * W * 0.035 - W * 0.03));
-    x.fillStyle = "#3346c8"; x.font = `700 ${Math.round(W * 0.03)}px "Bricolage Grotesque", sans-serif`;
-    x.fillText("republique.fr", m, H - m);
-    $("#pt-image").src = cv.toDataURL("image/png");
-  }
-  function partager(objet) {
-    aPartager = objet;
-    const lien = `https://republique.fr/#${objet.ancre}`, t = encodeURIComponent(objet.texte), u = encodeURIComponent(lien), tu = encodeURIComponent(`${objet.texte} ${lien}`);
-    $("#pt-texte").value = `${objet.texte}\n${lien}`;
-    $("#pt-etat").textContent = "";
-    $("#pt-reseaux").innerHTML = [
-      ["Bluesky", `https://bsky.app/intent/compose?text=${tu}`],
-      ["X", `https://twitter.com/intent/tweet?text=${t}&url=${u}`],
-      ["Mastodon", `https://mastodonshare.com/?text=${tu}`],
-      ["Facebook", `https://www.facebook.com/sharer/sharer.php?u=${u}`],
-      ["LinkedIn", `https://www.linkedin.com/sharing/share-offsite/?url=${u}`],
-      ["WhatsApp", `https://wa.me/?text=${tu}`],
-      ["Telegram", `https://t.me/share/url?url=${u}&text=${t}`],
-    ].map(([n, h]) => `<a class="btn" href="${h}" target="_blank" rel="noopener">${n}</a>`).join("");
-    $("#partage").hidden = false; dessinerImage(); $("#pt-fermer").focus();
-  }
-  document.querySelectorAll('input[name="fmt"]').forEach((r) => r.addEventListener("change", dessinerImage));
-  const fermer = () => { $("#partage").hidden = true; };
-  $("#pt-fermer").onclick = fermer;
-  $("#partage").addEventListener("click", (e) => { if (e.target.id === "partage") fermer(); });
-  document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !$("#partage").hidden) fermer(); });
-  $("#pt-copier").onclick = async () => {
-    try { await navigator.clipboard.writeText($("#pt-texte").value); $("#pt-etat").textContent = "Copié."; }
-    catch { $("#pt-texte").select(); $("#pt-etat").textContent = "Texte sélectionné : copiez-le avec Ctrl+C."; }
-  };
-  document.addEventListener("click", (e) => {
-    const b = e.target.closest("[data-partage-prop],[data-partage-aveugle],[data-partage-parti],[data-partage-notion]"); if (!b) return;
-    if (b.dataset.partageProp) {
-      const p = C.propositions.find((x) => x.id === b.dataset.partageProp), c = cand[p.candidature];
-      partager({ surtitre: p.concepts.length ? `${c.nom} · ${nomConcept[p.concepts[0]]}` : c.nom, corps: `« ${p.citation} »`, pied: `${p.source.titre}, ${page(p.source)}`, texte: `« ${p.citation} » (${c.nom})`, ancre: "matrice" });
-    } else if (b.dataset.partageAveugle) {
-      const p = C.propositions.find((x) => x.id === b.dataset.partageAveugle);
-      partager({ surtitre: "Pour ou contre ?", corps: `« ${p.citation} »`, pied: "Devinez quel parti l'a proposé, puis votez à l'aveugle.", texte: `Pour ou contre ? « ${p.citation} » Devinez quel parti l'a proposé.`, ancre: "aveugle" });
-    } else if (b.dataset.partageNotion) {
-      const n = parNotion[b.dataset.partageNotion], k = C.candidatures.filter((c) => n.positions?.[c.id]).length;
-      partager({ surtitre: `Concept · ${n.nom}`, corps: n.definition.length > 260 ? n.definition.slice(0, 257) + "…" : n.definition, pied: `Ce qu'en disent ${k} parti${k > 1 ? "s" : ""}, citations à l'appui`, texte: `${n.nom} : la définition, les enjeux et ce qu'en disent les partis, citations à l'appui.`, ancre: `concept-${n.id}` });
-    } else {
-      const c = cand[b.dataset.partageParti];
-      partager({ surtitre: "Fiche parti", corps: `${c.nom} : ${c.famille}. Candidature : ${c.statut_candidat}.`, pied: libelleEtat[c.statut_programme], texte: `${c.nom} : ses documents, ses concepts, ses mots.`, ancre: "partis" });
-    }
-  });
-})();
-</script>
+<script src="consensus.js" defer></script>
+<script src="js/noyau.js" defer></script>
+<script src="js/accueil.js" defer></script>
+<script src="js/matrice.js" defer></script>
+<script src="js/concepts.js" defer></script>
+<script src="js/vocabulaire.js" defer></script>
+<script src="js/partis.js" defer></script>
+<script src="js/jeux.js" defer></script>
+<script src="js/consensus-vue.js" defer></script>
+<script src="js/groupes.js" defer></script>
+<script src="js/participer.js" defer></script>
+<script src="js/demarrer.js" defer></script>
+</html>
