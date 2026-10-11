@@ -25,7 +25,7 @@ R.module("accueil", (R) => {
       </div>
       <div class="portes">
         <a class="porte" href="#concept-${duJour.id}"><h3>Découvrir</h3><p>Un concept par jour, expliqué simplement, avec ce qu'en dit chaque parti. Aujourd'hui : <strong>${esc(duJour.nom)}</strong>.</p><span class="lien-fleche">Lire la fiche →</span></a>
-        <a class="porte" href="#jouer/aveugle"><h3>Jouer</h3><p>Pour ou contre ? Jugez une proposition sans savoir qui l'a écrite, puis découvrez de qui elle vient. Quiz, défis et test de proximité.</p><span class="lien-fleche">Commencer à l'aveugle →</span></a>
+        <a class="porte" href="#jouer"><h3>Jouer</h3><p>Pour ou contre ? Jugez une proposition sans savoir qui l'a écrite, puis découvrez de qui elle vient. Quiz, défis et test de proximité.</p><span class="lien-fleche">Commencer à l'aveugle →</span></a>
         <a class="porte" href="#matrice"><h3>Comparer</h3><p>Tous les programmes en un tableau, ou deux partis en duel, thème par thème, citation par citation.</p><span class="lien-fleche">Ouvrir la matrice →</span></a>
         <a class="porte" href="#groupes"><h3>Animer</h3><p>Une soirée, une classe, une association ? Quatre séances clés en main, un mode projection et les votes de la salle sur les téléphones.</p><span class="lien-fleche">Préparer une séance →</span></a>
       </div>

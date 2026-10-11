@@ -1,0 +1,81 @@
+/* Styles de la rubrique Jouer : grille des jeux, scènes, révélations et résultats. Variables de style.css seulement. */
+.lecteur-seul { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+#jouer .scene { width: 100%; }
+#jouer .scene.scene-large { max-width: 980px; }
+.bloc-jeu { max-width: 780px; }
+.bloc-jeu h2 { font-size: 19px; }
+
+/* Grille d'accueil des jeux */
+.grille-jeux { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; }
+.tuile-jeu { gap: 6px; padding: 16px; align-content: start; }
+.tuile-jeu b { font-size: 17px; }
+.tuile-jeu .tuile-texte { font-family: var(--f-texte); font-size: 15px; color: var(--encre-douce); }
+.reprendre { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; max-width: 780px; margin: 0; }
+.reprendre .mini-titre { flex-basis: 100%; margin: 0; }
+.reprendre a { font-family: var(--f-titre); font-weight: 600; font-size: 16px; }
+
+/* Scènes */
+.case-collectif { font-size: 13.5px; max-width: 62ch; }
+.case-collectif .ref { display: block; margin-top: 2px; }
+.rebonds { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 16px; margin: 0; font-family: var(--f-titre); font-size: 14px; }
+.rebonds .mini-titre { margin: 0; }
+.palier { font-family: var(--f-titre); font-size: 14px; }
+.palier .lien-partage { font-size: 14px; color: var(--accent); }
+.liste-idees { margin: 0; padding-left: 1.1em; display: grid; gap: 6px; font-size: 15px; }
+.liste-idees a { color: var(--encre); }
+.reglages-jeu { display: grid; gap: 10px; }
+.reglages-jeu fieldset { border: 0; padding: 0; margin: 0; display: grid; gap: 8px; min-width: 0; }
+.reglages-jeu select { max-width: 360px; }
+.mot-vedette { font-family: var(--f-titre); font-weight: 700; font-size: clamp(24px, 4vw, 34px); line-height: 1.15; margin: 0; overflow-wrap: anywhere; }
+.exemple { margin: 0; font-size: 16px; }
+.choix .sigle { margin-right: 2px; }
+
+/* Barres d'emploi d'un mot, par force */
+.usage-barres { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; max-width: 460px; }
+.usage-barres li { display: grid; grid-template-columns: 58px 1fr 28px; gap: 8px; align-items: center; }
+.usage-barres li.zero { opacity: .55; }
+.usage-barres .sigle, .paire-table .sigle { justify-self: start; }
+.barre { height: 8px; border-radius: 4px; background: var(--filet); overflow: hidden; display: block; }
+.barre i { display: block; height: 100%; background: var(--accent); }
+.n { font-family: var(--f-ref); font-size: 12px; font-variant-numeric: tabular-nums; text-align: right; }
+
+/* Paires de mots */
+.paire .paire-mot { display: grid; gap: 8px; align-content: start; }
+.paire .def { font-size: 15.5px; }
+.puce[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--surface); }
+.paire-table { border-collapse: collapse; width: 100%; font-size: 14px; }
+.paire-table th, .paire-table td { padding: 6px 8px; border-bottom: 1px solid var(--filet); text-align: left; vertical-align: middle; }
+.paire-table thead th { font-family: var(--f-titre); font-size: 13.5px; }
+.paire-table td { display: table-cell; min-width: 110px; }
+.paire-table td .barre { display: inline-block; width: calc(100% - 80px); min-width: 30px; vertical-align: middle; margin-right: 6px; }
+.paire-table td .n { display: inline-block; width: 20px; }
+.paire-table td .ref { margin-left: 6px; }
+.paire-table td.faux { box-shadow: inset 0 0 0 2px var(--contre); border-radius: 4px; }
+
+/* Défi entre amis */
+.defi-liste { margin: 0; padding-left: 1.3em; display: grid; gap: 14px; }
+.defi-liste li { display: grid; gap: 4px; padding-left: 4px; }
+.defi-liste li p { margin: 0; }
+.defi-liste li.accord { border-left: 3px solid var(--pour); padding-left: 10px; }
+.votes-compares { font-family: var(--f-titre); font-size: 14px; }
+.vote-pour { color: var(--pour); }
+.vote-contre { color: var(--contre); }
+.vote-partage { color: var(--partage); }
+
+/* Profil d'idées */
+.progression { height: 6px; border-radius: 3px; background: var(--filet); overflow: hidden; }
+.progression i { display: block; height: 100%; background: var(--accent); }
+.profil-themes { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
+.profil-themes p { margin: 0; font-size: 15.5px; }
+.profil-themes .liste-idees { font-size: 14px; }
+.profil-forces { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; font-family: var(--f-titre); font-size: 14px; }
+.profil-forces li { display: grid; grid-template-columns: 70px 1fr; gap: 10px; align-items: baseline; }
+.profil-forces .n { text-align: left; color: var(--encre-douce); }
+#pf-email { max-width: 520px; }
+
+@media (max-width: 640px) {
+  .paire-table td { min-width: 0; }
+  .paire-table td .barre { width: calc(100% - 64px); }
+  .paire-table td .ref { display: block; margin: 2px 0 0; }
+  .paire-table th, .paire-table td { padding: 6px 4px; }
+}

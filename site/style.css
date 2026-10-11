@@ -152,7 +152,7 @@ textarea { width: 100%; resize: vertical; }
 .docs li { border-left: 2px solid var(--filet); padding-left: 10px; display: grid; gap: 2px; font-size: 15.5px; }
 .docs .justif { font-size: 14px; color: var(--encre-douce); font-style: italic; }
 .mini-titre { font-family: var(--f-titre); font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: var(--encre-douce); margin: 4px 0 0; }
-.voile { position: fixed; inset: 0; background: color-mix(in srgb, var(--encre) 45%, transparent); display: grid; place-items: center; padding: 16px; z-index: 10; }
+.voile { position: fixed; inset: 0; background: color-mix(in srgb, var(--encre) 45%, transparent); display: grid; place-items: center; padding: 16px; z-index: 30; }
 .panneau { background: var(--surface); border-radius: 10px; border: 1px solid var(--filet); width: min(640px, 100%); max-height: calc(100% - 32px); overflow: auto; padding: 20px; display: grid; gap: 12px; }
 .panneau-tete { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
 .panneau fieldset { border: 0; padding: 0; margin: 0; }
