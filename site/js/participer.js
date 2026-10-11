@@ -179,7 +179,7 @@ R.module("participer", (R) => {
       pourquoiFaire: "Arriver en 2027 en connaissant les mots du débat.",
       avec: "Seul, ou à transférer à qui vous voulez.",
       comment: "formulaire" },
-    { id: "compte", temps: "1 minute", titre: "Créer un compte",
+    { id: "compte", temps: "1 minute", titre: "Créer un compte ou se connecter",
       quoi: "Une adresse e-mail, sans mot de passe : un lien de connexion suffit.",
       pourquoi: "Retrouver vos votes sur votre téléphone et votre ordinateur.",
       pourquoiFaire: "Rejoindre un cercle et déclarer les séances que vous animez.",

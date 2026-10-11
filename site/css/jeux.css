@@ -79,3 +79,35 @@
   .paire-table td .ref { display: block; margin: 2px 0 0; }
   .paire-table th, .paire-table td { padding: 6px 4px; }
 }
+
+/* Paires de mots : révélation en miroir */
+.pm-phrase { margin: 0; font-size: 16.5px; }
+.pm { display: grid; gap: 4px; font-family: var(--f-titre); font-size: 14px; }
+.pm-ligne { display: grid; grid-template-columns: 22px 26px 1fr 64px 1fr 26px 22px; align-items: center; gap: 6px; }
+.pm-tete { font-weight: 700; margin-bottom: 4px; }
+.pm-mot.pm-a { text-align: right; color: var(--g1); }
+.pm-mot.pm-b { color: var(--g2); }
+.pm-barre { height: 14px; border-radius: 7px; background: color-mix(in srgb, var(--filet) 55%, transparent); display: flex; overflow: hidden; }
+.pm-barre.pm-a { justify-content: flex-end; }
+.pm-barre.pm-a i { background: var(--g1); border-radius: 7px; }
+.pm-barre.pm-b i { background: var(--g2); border-radius: 7px; }
+.pm-barre i { display: block; height: 100%; }
+.pm-force { text-align: center; }
+.pm-n { font-family: var(--f-ref); font-size: 12.5px; color: var(--encre-douce); font-variant-numeric: tabular-nums; }
+.pm-ligne > .pm-n:nth-child(2) { text-align: right; }
+.pm-marque { font-size: 13px; text-align: center; }
+.pm-marque.ok { color: var(--pour); }
+.pm-marque.ko { color: var(--contre); font-weight: 700; }
+.pm-vide { opacity: .55; }
+@media (max-width: 480px) { .pm-ligne { grid-template-columns: 16px 20px 1fr 52px 1fr 20px 16px; gap: 4px; } .pm-tete { font-size: 12.5px; } }
+
+/* Profil d'idées : graphique en étoile */
+.radar { margin: 0; display: grid; gap: 6px; justify-items: center; }
+.radar svg { width: min(420px, 100%); height: auto; overflow: visible; }
+.rd-anneau { fill: none; stroke: var(--filet); }
+.rd-rayon { stroke: var(--filet); }
+.rd-forme { fill: color-mix(in srgb, var(--accent) 22%, transparent); stroke: var(--accent); stroke-width: 2; stroke-linejoin: round; }
+.rd-point { fill: var(--accent); }
+.rd-etiquette { font-family: var(--f-titre); font-size: 13px; font-weight: 700; fill: var(--encre); }
+.rd-n { font-family: var(--f-ref); font-weight: 400; fill: var(--encre-douce); font-size: 11.5px; }
+.rd-grad { font-family: var(--f-ref); font-size: 9.5px; fill: var(--encre-douce); }

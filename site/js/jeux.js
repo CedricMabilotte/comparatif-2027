@@ -446,15 +446,24 @@ R.module("jeux", (R) => {
       ${pr.revele ? `<span class="lecture">Ce que le mot met en avant</span><p class="def">${esc(v.lecture || v.definition || "")}</p><p><a href="#terme-${v.id}">La fiche de ce mot</a></p>`
       : `<p class="def">${esc(v.definition || "")}</p><p class="mini-titre" id="pa-q-${k}">Qui l'emploie ? Cochez une ou plusieurs forces.</p>
         <div class="choix" role="group" aria-labelledby="pa-q-${k}">${IDS.map((c) => `<button class="puce" data-cote="${k}" data-c="${c}" aria-pressed="${pr.choix[k].includes(c)}" data-actif="${pr.choix[k].includes(c)}">${esc(cand[c].sigle)}<span class="lecteur-seul"> ${esc(cand[c].nom)}</span></button>`).join("")}</div>`}</div>`;
+    // Révélation en miroir : une ligne par force, le premier mot à gauche, le second à droite,
+    // et une phrase qui dit d'abord qui emploie quoi.
     let tableau = "";
     if (pr.revele) {
       const max = Math.max(1, ...mots.flatMap((v) => usageDe(v).map((x) => x[1])));
-      const cellule = (v, k, c) => { const n = v.usage?.[c] || 0, coche = pr.choix[k].includes(c), juste = coche === n > 0;
-        return `<td class="${juste ? "juste" : "faux"}"><span class="barre"><i style="width:${(n / max) * 100}%"></i></span><span class="n">${n}</span><span class="ref">${coche ? "coché" : ""}${juste ? "" : `<span class="lecteur-seul"> (à revoir)</span>`}</span></td>`; };
-      tableau = `<div class="table-defile"><table class="paire-table"><caption class="lecteur-seul">Emplois relevés par force</caption>
-        <thead><tr><th scope="col">Force</th><th scope="col">${esc(a.terme)}</th><th scope="col">${esc(b.terme)}</th></tr></thead>
-        <tbody>${IDS.map((c) => `<tr><th scope="row">${sigle(c)}</th>${cellule(a, 0, c)}${cellule(b, 1, c)}</tr>`).join("")}</tbody></table></div>
-        <p class="ref">Cases encadrées : votre choix ne correspond pas aux textes. « Coché » rappelle vos réponses.</p>`;
+      const qui = (v) => { const u = usageDe(v).sort((x, y) => y[1] - x[1]); return u.length ? u.slice(0, 3).map(([c]) => esc(cand[c].nom)).join(", ") + (u.length > 3 ? ` et ${u.length - 3} autre${u.length > 4 ? "s" : ""}` : "") : "aucune force"; };
+      const marque = (k, c) => { const n = mots[k].usage?.[c] || 0, coche = pr.choix[k].includes(c), juste = coche === n > 0;
+        return `<span class="pm-marque ${juste ? "ok" : "ko"}" title="${coche ? "Vous l'aviez coché" : "Vous ne l'aviez pas coché"}${juste ? "" : ", à revoir"}">${juste ? "✓" : "✗"}<span class="lecteur-seul">${juste ? " bonne réponse" : " erreur"}</span></span>`; };
+      const ligne = (c) => { const na = a.usage?.[c] || 0, nb = b.usage?.[c] || 0;
+        return `<div class="pm-ligne${na || nb ? "" : " pm-vide"}">
+          ${marque(0, c)}<span class="pm-n">${na || ""}</span><span class="pm-barre pm-a"><i style="width:${(na / max) * 100}%"></i></span>
+          <span class="pm-force">${sigle(c)}</span>
+          <span class="pm-barre pm-b"><i style="width:${(nb / max) * 100}%"></i></span><span class="pm-n">${nb || ""}</span>${marque(1, c)}</div>`; };
+      tableau = `<p class="pm-phrase"><strong>« ${esc(a.terme)} »</strong> revient surtout chez ${qui(a)}. <strong>« ${esc(b.terme)} »</strong> revient surtout chez ${qui(b)}.</p>
+        <div class="pm" role="img" aria-label="Nombre d'emplois de chaque mot, force par force">
+          <div class="pm-ligne pm-tete"><span></span><span></span><span class="pm-mot pm-a">${esc(a.terme)}</span><span></span><span class="pm-mot pm-b">${esc(b.terme)}</span><span></span><span></span></div>
+          ${IDS.map(ligne).join("")}</div>
+        <p class="ref">Longueur des barres : nombre d'emplois dans les textes lus. ✓ votre réponse correspond aux textes, ✗ elle ne correspond pas.</p>`;
     }
     s.innerHTML = `<p class="compteur">Paire ${pr.i + 1} sur ${pr.paires.length} · score ${pr.score}${pr.total ? " sur " + pr.total : ""}</p>
       <div class="duel-cols paire">${colonne(a, 0)}${colonne(b, 1)}</div>
@@ -534,6 +543,22 @@ ${themes.map(({ t, items }) => `<h2>${esc(t.nom)}</h2><ul>${items.map((p) => `<l
 <h2>Les forces dont vous avez approuvé le plus d'idées dans ce test</h2><ul>${groupes.map((n) => `<li>${n} sur 3 : ${parForce.filter((x) => x.n === n).map((x) => esc(cand[x.c].nom)).join(", ")}</li>`).join("")}</ul>
 <p class="ref">${esc(NE_MESURE_PAS)}</p></html>`;
   }
+  // Graphique en étoile : un rayon par force, dans l'ordre fixe du site (jamais trié), de 0 à 3 idées approuvées.
+  function radarProfil(parForce) {
+    const n = parForce.length, R0 = 110, cx = 170, cy = 150, ang = (i) => -Math.PI / 2 + (2 * Math.PI * i) / n;
+    const pt = (i, r) => [cx + r * Math.cos(ang(i)), cy + r * Math.sin(ang(i))].map((v) => v.toFixed(1)).join(",");
+    const anneaux = [1, 2, 3].map((k) => `<polygon points="${parForce.map((_, i) => pt(i, (R0 * k) / 3)).join(" ")}" class="rd-anneau"/>`).join("");
+    const rayons = parForce.map((_, i) => `<line x1="${cx}" y1="${cy}" x2="${pt(i, R0).split(",")[0]}" y2="${pt(i, R0).split(",")[1]}" class="rd-rayon"/>`).join("");
+    const forme = `<polygon points="${parForce.map((x, i) => pt(i, (R0 * x.n) / 3)).join(" ")}" class="rd-forme"/>`;
+    const points = parForce.map((x, i) => { const [px, py] = pt(i, (R0 * x.n) / 3).split(","); return `<circle cx="${px}" cy="${py}" r="4" class="rd-point"><title>${esc(cand[x.c].nom)} : ${x.n} sur ${x.sur}</title></circle>`; }).join("");
+    const etiquettes = parForce.map((x, i) => {
+      const [lx, ly] = pt(i, R0 + 24).split(",").map(Number), ancre = Math.abs(lx - cx) < 8 ? "middle" : lx > cx ? "start" : "end";
+      return `<text x="${lx}" y="${ly + 4}" text-anchor="${ancre}" class="rd-etiquette">${esc(cand[x.c].sigle)} <tspan class="rd-n">${x.n}/${x.sur}</tspan></text>`;
+    }).join("");
+    const graduations = [1, 2, 3].map((k) => `<text x="${cx + 4}" y="${cy - (R0 * k) / 3 + 3}" class="rd-grad">${k}</text>`).join("");
+    return `<figure class="radar"><svg viewBox="0 0 340 300" role="img" aria-labelledby="rd-desc">${anneaux}${rayons}${forme}${points}${graduations}${etiquettes}</svg>
+      <figcaption id="rd-desc" class="ref">Un rayon par force politique, toujours dans le même ordre. Plus le point s'éloigne du centre, plus vous avez approuvé d'idées de cette force (de 0 à 3). ${parForce.map((x) => `${esc(cand[x.c].nom)} : ${x.n} sur ${x.sur}`).join(" ; ")}.</figcaption></figure>`;
+  }
   function dessinerProfil() {
     const s = $("#scene-profil");
     if (!pf) {
@@ -574,7 +599,8 @@ ${themes.map(({ t, items }) => `<h2>${esc(t.nom)}</h2><ul>${items.map((p) => `<l
           <ul class="liste-idees">${items.map((p) => `<li>${voteLabel(pf.rep[p.id])} « ${esc(tronque(p.citation, 140))} » ${sigle(p.candidature)} <a href="#prop-${p.id}">source</a></li>`).join("")}</ul></article>`;
       }).join("")}</div>
       <section class="carte bloc-jeu" aria-labelledby="pf-forces"><h3 id="pf-forces">Les forces dont vous avez approuvé le plus d'idées dans ce test</h3>
-        <ul class="profil-forces">${groupes.map((n) => `<li><span class="n">${n} sur 3</span><span>${parForce.filter((x) => x.n === n).map((x) => `${sigle(x.c)} ${esc(cand[x.c].nom)}`).join(", ")}</span></li>`).join("")}</ul>
+        ${radarProfil(parForce)}
+        <details><summary class="plus">Voir en liste</summary><ul class="profil-forces">${groupes.map((n) => `<li><span class="n">${n} sur 3</span><span>${parForce.filter((x) => x.n === n).map((x) => `${sigle(x.c)} ${esc(cand[x.c].nom)}`).join(", ")}</span></li>`).join("")}</ul></details>
         <p class="ref">Trois idées par force : l'échantillon est petit, et une idée approuvée ne dit pas qu'on approuve tout un programme.</p></section>
       <p class="ref">${esc(NE_MESURE_PAS)}</p>
       <div class="choix"><button class="btn principal" id="pf-telecharger">Télécharger mes résultats</button><button class="btn" id="pf-courriel" aria-expanded="false" aria-controls="pf-email">Recevoir par e-mail</button><button class="btn" id="pf-partager">Partager</button><button class="btn" id="pf-refaire">Refaire avec 24 autres idées</button></div>

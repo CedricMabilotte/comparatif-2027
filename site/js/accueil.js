@@ -131,4 +131,34 @@ R.module("accueil", (R) => {
     document.body.appendChild(a); a.click(); setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 500);
   };
   R.route("vie-privee", () => { dessinerViePrivee(); R.montrer("vie-privee"); });
+
+  // À propos : l'intention du site, qui le fait et comment, et ce qu'il demande au lecteur
+  function dessinerAPropos() {
+    $("#a-propos").innerHTML = `<div class="methode a-propos">
+      <h2>À propos</h2>
+      <p class="devise-grande">${esc(R.DEVISE)}</p>
+      <h3>L'intention</h3>
+      <p>Ce site veut d'abord nous reconnecter à notre capacité de faire société : nous approprier nos moyens de réflexion et d'action en commun, à l'échelle de notre territoire. Il met les programmes à la portée de chacun, pour qu'on puisse les lire, les comprendre et en discuter, seul ou à plusieurs, en salle ou en ligne.</p>
+      <p>C'est pourquoi on y juge d'abord les idées, avant de savoir qui les porte : une proposition mérite d'être pesée pour ce qu'elle dit, pas pour l'étiquette qu'elle porte. Les noms viennent ensuite, et chacun peut confronter son jugement à ses habitudes.</p>
+      <h3>Allez aux sources, restez critiques</h3>
+      <p>Chaque citation renvoie à son document d'origine, avec la page et la date. Les définitions et les synthèses sont des lectures éditoriales, signalées comme telles : elles peuvent se tromper. Vous êtes invités à vérifier, à lire les textes entiers, à confronter les points de vue, et à <a href="#rejoindre/signaler">signaler toute erreur</a>. Les corrections sont publiées dans le <a href="#corrections">journal des corrections</a>.</p>
+      <h3>Qui fait ce site, et comment</h3>
+      <p>Le site est conçu et dirigé par une personne, sous le pseudonyme <strong>eozen</strong>. Les cadres logiques, les directives, les règles éditoriales, les arbitrages et les améliorations sont décidés par cet humain. Leur mise en œuvre (extraction et vérification des citations, rédaction des fiches, code du site) est réalisée par une intelligence artificielle, sous sa direction et avec des vérifications automatiques à chaque étape.</p>
+      <p>Le site n'est lié à aucun parti, ne reçoit d'argent d'aucune formation politique, n'affiche aucune publicité et ne mesure pas ses visiteurs (<a href="#vie-privee">vie privée</a>). La <a href="#methode">méthode</a> détaille comment les sources sont choisies et vérifiées.</p>
+      <h3>Droits</h3>
+      <p>© 2026 eozen. Le code du site est publié sous licence libre MIT, et les textes éditoriaux et les données sous licence Creative Commons CC BY-SA 4.0 : vous pouvez les reprendre en citant la source. Les citations des programmes restent la propriété de leurs auteurs ; elles sont reproduites au titre du droit de courte citation, avec leur source. Tout est consultable sur <a href="https://github.com/CedricMabilotte/comparatif-2027">GitHub</a>.</p>
+    </div>`;
+  }
+  R.route("a-propos", () => { dessinerAPropos(); R.montrer("a-propos"); });
+
+  // Lien de compte dans le bandeau : « Se connecter », ou le pseudonyme une fois connecté ;
+  // l'équipe de modération y trouve aussi sa file d'attente.
+  const lienCompte = $("#compte-lien");
+  if (R.moi?.connecte) {
+    lienCompte.textContent = R.moi.pseudo || "Mon compte";
+    R.api("moderation-acces").then((r) => {
+      if (r?.moderateur) { lienCompte.textContent = "Modération"; lienCompte.href = "#moderation"; }
+    });
+  }
+
 });
