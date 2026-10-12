@@ -8,6 +8,7 @@
 // Usage : node scripts/test-profil.mjs
 import fs from "node:fs";
 import path from "node:path";
+import { createRequire } from "node:module";
 import { fileURLToPath } from "node:url";
 
 const RACINE = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -16,6 +17,7 @@ const URL_SITE = "https://republique.fr";
 const T = JSON.parse(fs.readFileSync(path.join(RACINE, "data", "test-profil.json"), "utf8"));
 const C = JSON.parse(fs.readFileSync(path.join(SITE, "corpus.json"), "utf8"));
 const parId = Object.fromEntries(C.propositions.map((p) => [p.id, p]));
+const Etoile = createRequire(import.meta.url)(path.join(SITE, "test", "etoile.js"));
 const esc = (t) => String(t ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
 // ---------- Données du test ----------
@@ -66,14 +68,6 @@ function description(code) {
 }
 const titrePortrait = (code) => T.axes.map((a, i) => ligne(a, code[i])).join(" · ");
 
-function curseur(axe, e, i) {
-  const pos = { a: 12, n: 50, b: 88 }[e];
-  return `<li class="axe g${i + 1}"><span class="nom">${esc(axe.nom)}</span>
-<span class="piste" aria-hidden="true"><span class="point" style="left:${pos}%"></span></span>
-<span class="poles"><span${e === "a" ? ' class="actif"' : ""}>${esc(axe.a)}</span><span${e === "b" ? ' class="actif"' : ""}>${esc(axe.b)}</span></span>
-<span class="lu">${esc(axe[e])}</span></li>`;
-}
-
 function pagePortrait(code) {
   const canon = `${URL_SITE}/test/p/${code}.html`;
   const titre = titrePortrait(code);
@@ -90,7 +84,7 @@ function pagePortrait(code) {
 <meta property="og:site_name" content="République des mots 2027">
 <meta property="og:locale" content="fr_FR">
 <meta property="og:title" content="Ma boussole d'idées : ${esc(titre)}">
-<meta property="og:description" content="16 dilemmes tirés des textes officiels des partis, 3 minutes, aucun nom de parti avant la fin. Et vous, où penchez-vous ?">
+<meta property="og:description" content="16 dilemmes tirés des textes officiels des partis, 3 minutes, aucun nom de parti avant la fin. D'accord avec moi ? Faites le test et comparons nos boussoles.">
 <meta property="og:url" content="${canon}">
 <meta property="og:image" content="${URL_SITE}/test/og/${code}.png">
 <meta property="og:image:width" content="1200">
@@ -106,14 +100,16 @@ function pagePortrait(code) {
 <body class="portrait">
 <header class="tete"><a class="marque" href="../../">République des mots <em>2027</em></a></header>
 <main>
-<p class="surtitre">Une boussole d'idées partagée avec vous</p>
+<p class="surtitre">Sur 16 dilemmes tirés des programmes, une personne a penché vers</p>
 <h1>${T.axes.map((a, i) => `<span class="g${i + 1}${code[i] === "n" ? " nuance" : ""}">${esc(ligne(a, code[i]))}</span>`).join(" ")}</h1>
-<ul class="axes">${T.axes.map((a, i) => curseur(a, code[i], i)).join("")}</ul>
-<p class="lecture-portrait">${esc(description(code))}</p>
-<p class="appel"><a class="btn principal" href="../#commencer">Faire le test : 16 dilemmes, 3 minutes</a></p>
-<p class="petit">Ce portrait résume des réponses à 16 dilemmes, pas une personne. Ce n'est pas un sondage : rien n'est enregistré, le calcul se fait dans le navigateur. Les partis proches ne sont révélés qu'à la fin du test, citations à l'appui.</p>
+<p class="appel"><a class="btn principal" href="../#commencer&amp;defi=${code}">D'accord ? Faites le test et comparez</a></p>
+<figure class="hero">${Etoile.profil([Etoile.depuisCode(code)], { axes: T.axes, titre: `Forme type de ce portrait : ${titre}` }).replace(/<tspan class="et-n"[^>]*>[^<]*<\/tspan>/g, "")}
+<figcaption class="petit">Forme type de ce portrait : chaque branche pointe vers un pôle, les deux pôles d'un axe se font face.</figcaption></figure>
+<details class="lecture"><summary>Lire ce portrait en mots</summary><p>${esc(description(code).replaceAll("Vous penchez", "Cette personne penche"))}</p></details>
+<p class="avert">Ni sondage ni consigne de vote : ce portrait résume des réponses à 16 dilemmes, pas une personne. Rien n'est enregistré, le calcul se fait dans le navigateur. Aucun parti n'apparaît avant la fin du test, et chaque rapprochement s'appuie sur une citation vérifiée.</p>
+<div class="appel-fixe"><a class="btn principal" href="../#commencer&amp;defi=${code}">Faire le test : 16 dilemmes, 3 minutes</a></div>
 </main>
-<footer class="pied"><p><a href="../../">republique.fr</a> · <a href="../../#a-propos">À propos</a> · <a href="../../#methode">La méthode</a> · Aucun traceur, aucun cookie.</p></footer>
+<footer class="pied"><p><a href="../../">republique.fr</a> · <a href="../../#a-propos">À propos</a> · <a href="../../#methode">La méthode</a> · Aucun traceur, aucun cookie. © 2026 eozen, textes et données CC BY-SA 4.0, code MIT.</p></footer>
 </body>
 </html>
 `;

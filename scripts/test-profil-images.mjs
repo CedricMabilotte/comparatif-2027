@@ -13,6 +13,7 @@ const D = JSON.parse(fs.readFileSync(path.join(SITE, "test", "donnees.json"), "u
 const require = createRequire(import.meta.url);
 let playwright;
 try { playwright = require("playwright"); } catch { playwright = require(path.join(process.execPath, "..", "..", "lib", "node_modules", "playwright")); }
+const Etoile = require(path.join(SITE, "test", "etoile.js"));
 const esc = (t) => String(t ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const COULEURS = ["#4fc4cc", "#f0985f", "#b896f5", "#b6c76a"];
 const polices = pathToFileURL(path.join(SITE, "polices.css")).href;
@@ -29,25 +30,33 @@ body { width: 1200px; height: 630px; overflow: hidden; background: #12151c; colo
 .invite b { color: #fff; }
 </style></head><body><div class="bande">${COULEURS.map((c) => `<span style="background:${c}"></span>`).join("")}</div><div class="cadre">${corps}</div></body></html>`;
 
+// Carte d'un portrait : l'étoile au centre (zone que WhatsApp garde en recadrant au carré), les mots du portrait à gauche,
+// l'invitation à droite, la mention « ni sondage ni consigne de vote » en pied. Aucun parti.
+const STYLE_ETOILE = `
+  .et-anneau { fill: none; stroke: #2c3342; stroke-width: 1.2; } .et-bord { stroke-width: 2; }
+  .et-rayon { stroke-width: 2.5; opacity: .6; }
+  .et-forme.et-plein { fill: rgba(140,155,255,.22); stroke: #8c9bff; stroke-width: 3.5; stroke-linejoin: round; }
+  .et-point { stroke: #12151c; stroke-width: 2.5; }
+  .et-pole { font-family: "Bricolage Grotesque", sans-serif; font-weight: 700; font-size: 18px; }`;
 function carte(code) {
-  const lignes = D.axes.map((a, i) => {
-    const e = code[i], c = COULEURS[i], pos = { a: 6, n: 50, b: 94 }[e];
-    return `<div class="l"><div class="mot${e === "n" ? " nuance" : ""}" style="color:${e === "n" ? "#9ba3b6" : c}">${esc(a[e])}</div>
-      <div class="ax"><span class="nom">${esc(a.nom)}</span><span class="piste" style="--c:${c}"><span class="pt" style="left:${pos}%;background:${c}"></span></span></div></div>`;
-  }).join("");
-  return base(`<style>
-    .ls { display: grid; gap: 20px; margin-top: 34px; }
-    .l { display: grid; grid-template-columns: 1fr 340px; align-items: center; gap: 28px; }
-    .mot { font-family: "Bricolage Grotesque", sans-serif; font-weight: 700; font-size: 50px; line-height: 1; letter-spacing: -.01em; white-space: nowrap; }
-    .mot.nuance { font-size: 36px; font-weight: 600; }
-    .ax { display: grid; gap: 6px; }
-    .nom { font-family: "JetBrains Mono", monospace; font-size: 15px; letter-spacing: .08em; text-transform: uppercase; color: #9ba3b6; }
-    .piste { position: relative; height: 8px; border-radius: 99px; background: linear-gradient(90deg, color-mix(in srgb, var(--c) 60%, transparent), #2c3342 50%, color-mix(in srgb, var(--c) 60%, transparent)); }
-    .pt { position: absolute; top: 50%; width: 26px; height: 26px; border-radius: 50%; border: 4px solid #12151c; transform: translate(-50%, -50%); }
+  const svg = Etoile.profil([Etoile.depuisCode(code)], { axes: D.axes, couleurs: COULEURS }).replace(/<tspan class="et-n"[^>]*>[^<]*<\/tspan>/g, "");
+  const mots = D.axes.map((a, i) => `<li style="--c:${COULEURS[i]}" class="${code[i] === "n" ? "nuance" : ""}"><span>${esc(a.nom)}</span>${esc(code[i] === "n" ? "Entre-deux" : a[code[i]])}</li>`).join("");
+  return base(`<style>${STYLE_ETOILE}
+    .grille { display: grid; grid-template-columns: 260px 560px 1fr; align-items: center; margin: 0 -24px; flex: 1; min-height: 0; }
+    .mots { list-style: none; padding: 0; margin: 0; display: grid; gap: 16px; }
+    .mots li { font-family: "Bricolage Grotesque", sans-serif; font-weight: 700; font-size: 27px; line-height: 1.05; color: var(--c); border-left: 6px solid var(--c); padding-left: 12px; }
+    .mots li.nuance { color: #9ba3b6; }
+    .mots span { display: block; font-family: "JetBrains Mono", monospace; font-weight: 400; font-size: 15px; letter-spacing: .08em; text-transform: uppercase; color: #9ba3b6; margin-bottom: 3px; }
+    .etoile { width: 520px; height: 449px; display: block; overflow: visible; margin: 0 auto; }
+    .defi { font-family: "Bricolage Grotesque", sans-serif; text-align: right; }
+    .defi b { display: block; font-size: 50px; line-height: .98; color: #fff; letter-spacing: -.01em; }
+    .defi span { display: block; font-size: 24px; color: #e7e9ef; margin-top: 14px; line-height: 1.2; }
+    .pied { margin-top: 0; }
+    .mention { font-family: "JetBrains Mono", monospace; font-size: 17px; color: #9ba3b6; }
   </style>
-  <div class="sur">Ma boussole d'idées · programmes 2027</div>
-  <div class="ls">${lignes}</div>
-  <div class="pied"><div class="site">republique.fr/test</div><div class="invite">Et vous ? <b>16 dilemmes, 3 minutes.</b><br>Aucun nom de parti avant la fin.</div></div>`);
+  <div class="sur">Sur 16 dilemmes tirés des programmes, j'ai penché vers</div>
+  <div class="grille"><ul class="mots">${mots}</ul>${svg}<div class="defi"><b>D'accord<br>avec moi&nbsp;?</b><span>Faites le test,<br>comparons<br>nos boussoles.</span></div></div>
+  <div class="pied"><div class="site">republique.fr/test</div><div class="mention">Ni sondage ni consigne de vote · aucun parti sur cette image</div></div>`);
 }
 
 function invitation() {
@@ -61,7 +70,7 @@ function invitation() {
   <h1>Votre boussole <em>d'idées</em></h1>
   <p class="acc">16 dilemmes tirés des textes des partis. Vous choisissez sans savoir qui défend quoi.</p>
   <div class="tags">${D.axes.map((a, i) => `<span style="color:${COULEURS[i]}">${esc(a.nom)}</span>`).join("")}</div>
-  <div class="pied"><div class="site">republique.fr/test</div><div class="invite">Les partis ne sont révélés<br><b>qu'à la fin, citations à l'appui.</b></div></div>`);
+  <div class="pied"><div class="site">republique.fr/test</div><div class="invite">Partis révélés seulement à la fin, citations à l'appui.<br><b>Ni sondage ni consigne de vote.</b></div></div>`);
 }
 
 const codes = [""];
