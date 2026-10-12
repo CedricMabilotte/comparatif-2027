@@ -20,51 +20,60 @@ page.on("request", (r) => { if (!r.url().startsWith(BASE) && !r.url().startsWith
 
 await page.goto(`${BASE}/test/`);
 await page.click("text=Commencer");
-await page.waitForSelector(".option");
-ok((await page.textContent(".compteur")).includes("1 / 16"), "première question affichée");
-ok((await page.locator(".option").count()) === 3, "trois réponses possibles, dont « ça dépend »");
+await page.waitForSelector(".carte:not(.dessous) .option");
+ok((await page.textContent(".compte")).includes("1 / 16"), "première carte affichée");
+ok((await page.locator(".carte:not(.dessous) .option").count()) === 2 && (await page.locator('.rond.neutre[data-r="0"]').count()) === 1, "deux options sur la carte, plus « ça dépend »");
 ok((await page.locator(".segments span").count()) === 16, "progression en 16 segments");
-await page.click('.option[data-r="a"]');
+ok((await page.locator(".carte.dessous").count()) === 1, "la carte suivante attend sous la première");
+// Glisser la carte au doigt vers la droite choisit l'option de droite.
+const droite = await page.getAttribute(".carte:not(.dessous)", "data-d");
+const bb = await (await page.$(".carte:not(.dessous)")).boundingBox();
+await page.mouse.move(bb.x + bb.width / 2, bb.y + 80); await page.mouse.down();
+await page.mouse.move(bb.x + bb.width / 2 + 180, bb.y + 90, { steps: 8 }); await page.mouse.up();
 await page.waitForSelector("text=2 / 16");
+ok((await page.evaluate(() => location.hash)) === `#q=${droite}`, "glisser à droite choisit l'option de droite");
 await page.click("#q-retour");
 await page.waitForSelector("text=1 / 16");
-ok(true, "retour à la question précédente");
+ok(true, "retour à la carte précédente");
 for (let i = 0; i < 16; i++) {
-  await page.waitForSelector(`text=${i + 1} / 16`);
-  await page.click(i === 3 ? ".option.neutre" : `.option[data-r="${i < 8 ? "a" : "b"}"]`);
+  await page.waitForSelector(`.compte:text("${i + 1} / 16")`);
+  await page.click(i === 3 ? ".rond.neutre" : `.carte:not(.dessous) .option[data-r="${i < 8 ? "a" : "b"}"]`);
 }
 await page.waitForSelector(".resultat");
 ok((await page.evaluate(() => location.hash)) === "#r=aaa0aaaabbbbbbbb", "réponses gardées dans l'adresse");
-ok(!(await page.isVisible(".bandeau-lien")), "pas d'avertissement de faux résultat après un vrai parcours");
-ok((await page.locator(".hero svg.etoile .et-forme").count()) === 1, "étoile du profil dessinée");
-ok((await page.textContent(".puces")).includes("Entre-deux"), "puces : entre-deux");
+ok(!(await page.isVisible(".bandeau.alerte")), "pas d'avertissement de faux résultat après un vrai parcours");
+ok((await page.locator(".resultat > figure svg.etoile .et-forme").count()) === 1, "étoile du profil dessinée");
+ok((await page.locator(".axe-res").count()) === 4 && (await page.textContent(".axes-res")).includes("Des deux côtés"), "quatre axes, dont un « des deux côtés »");
 ok(!(await page.isVisible("#partis")), "partis cachés avant la révélation");
-ok(!(await page.textContent(".hero")).match(/LFI|RN|Renaissance/), "aucun parti dans l'étoile du profil");
+ok(!(await page.textContent(".resultat > figure")).match(/LFI|RN|Renaissance/), "aucun parti dans l'étoile du profil");
 await page.click("#reveler");
-ok((await page.locator("#partis ol.partis li").count()) === 8, "huit partis révélés");
+ok((await page.locator("#partis .carte-parti").count()) === 8, "huit cartes de partis révélées");
 ok((await page.locator("#partis svg.etoile .et-point").count()) === 8, "étoile des affinités à huit rayons");
-ok((await page.locator("#partis .pastilles").first().locator("i").count()) === 16, "16 pastilles par parti");
+ok((await page.locator("#partis .carte-parti").first().locator(".cases i").count()) === 16, "16 cases par parti");
+ok(!(await page.textContent("#paquet")).match(/%|1er|n°/), "ni pourcentage ni rang sur les cartes");
 ok((await page.textContent("#partis")).includes("Ni sondage ni consigne de vote"), "mention dans le cadre capturable");
+ok((await page.evaluate(() => document.documentElement.scrollWidth)) <= 390, "pas de défilement horizontal de la page");
 const lienInvit = await page.getAttribute('#p-reseaux a[href*="facebook.com/sharer"]', "href");
 ok(decodeURIComponent(lienInvit).endsWith("/test/"), "partage par défaut : invitation sans portrait");
-await page.check('input[value="portrait"]');
+await page.click("text=Défier avec ma boussole");
 const lien = await page.getAttribute('#p-reseaux a[href*="facebook.com/sharer"]', "href");
 ok(decodeURIComponent(lien).includes("/test/p/nnnn.html"), "lien Facebook vers la page du portrait nnnn");
 await page.reload();
 await page.waitForSelector(".resultat");
-ok(await page.isVisible(".bandeau-lien"), "résultat ouvert par lien : signalé comme tel");
-// Défi : le portrait d'un ami suit le parcours et donne une comparaison sans parti.
+ok(await page.isVisible(".bandeau.alerte"), "résultat ouvert par lien : signalé comme tel");
+// Défi : le portrait d'un ami suit le parcours et donne une comparaison sans parti. Ici au clavier.
 await page.goto(`${BASE}/test/#defi=abnb`);
-await page.waitForSelector(".bandeau-defi");
+await page.waitForSelector(".bandeau");
 await page.click("text=Commencer");
-for (let i = 0; i < 16; i++) { await page.waitForSelector(`text=${i + 1} / 16`); await page.click('.option[data-r="a"]'); }
+for (let i = 0; i < 16; i++) { await page.waitForSelector(`.compte:text("${i + 1} / 16")`); await page.keyboard.press("ArrowLeft"); }
 await page.waitForSelector(".defi");
-ok((await page.evaluate(() => location.hash)).includes("defi=abnb"), "le défi suit le parcours");
+ok((await page.evaluate(() => location.hash)).includes("defi=abnb"), "le défi suit le parcours (clavier)");
 ok((await page.locator(".defi .et-contour").count()) === 1, "étoile de l'ami en pointillés");
 ok(!(await page.textContent(".defi")).match(/LFI|RN|Renaissance|Républicains/), "aucun parti dans la comparaison");
 const rep = await page.goto(`${BASE}/test/p/anan.html`);
 ok(rep.ok() && (await page.getAttribute('meta[property="og:image"]', "content")).endsWith("/test/og/anan.png"), "page de portrait avec image d'aperçu");
-ok((await page.getAttribute(".appel a", "href")).includes("defi=anan"), "page de portrait : bouton de défi sous le titre");
+ok((await page.getAttribute(".appel-fixe a", "href")).includes("defi=anan"), "page de portrait : bouton de défi");
+ok((await page.locator(".mots li").count()) === 4, "page de portrait : quatre mots");
 const img = await page.goto(`${BASE}/test/og/anan.png`);
 ok(img.ok(), "image d'aperçu servie");
 ok(!erreurs.length, `aucune erreur JavaScript ${erreurs.join(" | ")}`);
