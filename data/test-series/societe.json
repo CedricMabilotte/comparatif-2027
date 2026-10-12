@@ -1,0 +1,687 @@
+{
+  "titre": "Ta boussole d'idées · Société, école et santé",
+  "accroche": "16 nouveaux dilemmes tirés des textes officiels des partis : famille, laïcité, école, santé. Trois minutes. Aucun nom de parti avant la fin.",
+  "version": "2026-10-12",
+  "note_methode": "Chaque dilemme oppose deux orientations défendues dans les documents officiels des huit forces politiques suivies par le site. Un parti n'est rattaché à une réponse que si une citation vérifiée de ses textes l'appuie ; sinon il est noté « ne se prononce pas dans les textes lus ». Les quatre axes et leurs libellés sont une lecture éditoriale : ils simplifient, ils ne mesurent pas une identité. Tant que les programmes 2027 ne sont pas tous publiés, une partie des appuis vient de textes antérieurs (programmes 2022, textes de 2020 à 2024), signalés « archive ».",
+  "axes": [
+    {
+      "id": "famille",
+      "nom": "Famille et filiation",
+      "n": "Entre-deux sur la famille",
+      "a": "Nouveaux droits",
+      "b": "Repères familiaux",
+      "a_long": "Vous penchez vers l'égalité et les nouveaux droits : reconnaître les familles nées d'une GPA, un congé identique pour chaque parent, une place de garde garantie, des allocations pour toutes les familles dès le premier enfant.",
+      "b_long": "Vous penchez vers les repères familiaux : refuser la GPA, laisser le couple choisir qui s'arrête après la naissance, miser sur les crèches privées et d'entreprise, pouvoir suspendre les allocations des parents défaillants."
+    },
+    {
+      "id": "laicite",
+      "nom": "Laïcité et identité",
+      "n": "Entre-deux sur l'identité",
+      "a": "Pluralisme et libertés",
+      "b": "Unité et fermeté",
+      "a_long": "Vous penchez vers le pluralisme et les libertés : s'en tenir à la loi de 1905, enseigner davantage l'histoire coloniale, combattre les discriminations, un service des jeunes volontaire.",
+      "b_long": "Vous penchez vers l'unité et la fermeté : fermer davantage de lieux jugés radicaux, recentrer l'école sur l'histoire de France, exiger l'assimilation, un service commun à toute une classe d'âge."
+    },
+    {
+      "id": "ecole",
+      "nom": "École",
+      "n": "Entre-deux sur l'école",
+      "a": "Cadre commun",
+      "b": "Niveau et autonomie",
+      "a_long": "Vous penchez vers le cadre commun : classes sans groupes de niveau, privé tenu à la mixité sociale, mêmes programmes et examens partout, classes moins chargées.",
+      "b_long": "Vous penchez vers le niveau et l'autonomie : groupes de niveau au collège, plus de moyens pour le privé, établissements plus libres, professeurs mieux payés plutôt que classes allégées."
+    },
+    {
+      "id": "sante",
+      "nom": "Santé et solidarité",
+      "n": "Entre-deux sur la solidarité",
+      "a": "Garantir et réguler",
+      "b": "Inciter et contrôler",
+      "a_long": "Vous penchez vers la garantie et la régulation : obligations pour les médecins, aide médicale d'État maintenue, aides sociales versées automatiquement, RSA sans contrepartie d'activité.",
+      "b_long": "Vous penchez vers l'incitation et le contrôle : mieux payer les médecins là où ils manquent, soins urgents seulement pour les étrangers sans titre, contrôles renforcés contre la fraude, RSA contre activité."
+    }
+  ],
+  "dilemmes": [
+    {
+      "id": "gpa",
+      "axe": "famille",
+      "notion": "gpa",
+      "question": "La GPA",
+      "icone": "🤰",
+      "a": "Reconnaître les familles nées d'une GPA à l'étranger et leurs droits.",
+      "b": "Refuser la GPA et en maintenir l'interdiction.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "pd75282e6"
+          ]
+        },
+        "lfi": {
+          "choix": "b",
+          "appuis": [
+            "pcd1feb45"
+          ],
+          "nuance": "tout en faisant de la filiation par reconnaissance le principe par défaut"
+        },
+        "lr": {
+          "choix": "b",
+          "appuis": [
+            "pb2c31f59"
+          ]
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "p91507324",
+            "pb9fe572c"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cultes",
+      "axe": "laicite",
+      "notion": "loi-separatisme",
+      "question": "Laïcité et cultes",
+      "icone": "🏛️",
+      "a": "Abroger la loi « séparatisme » et s'en tenir à la loi de 1905.",
+      "b": "Fermer davantage de lieux de culte et d'associations jugés radicaux.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "pcfad6439",
+            "p1d64723b"
+          ]
+        },
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "pcebc9d7c",
+            "p1d717661"
+          ],
+          "nuance": "abroger ses « dispositions liberticides »"
+        },
+        "renaissance": {
+          "choix": "b",
+          "appuis": [
+            "p82c5ae34"
+          ]
+        },
+        "lr": {
+          "choix": "b",
+          "appuis": [
+            "p41a746e9"
+          ]
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "p3fc4f386"
+          ]
+        },
+        "reconquete": {
+          "choix": "b",
+          "appuis": [
+            "p7da2b02c"
+          ]
+        }
+      }
+    },
+    {
+      "id": "groupes-niveau",
+      "axe": "ecole",
+      "notion": "choc-des-savoirs",
+      "question": "Les groupes de niveau",
+      "icone": "📚",
+      "a": "Garder des classes hétérogènes au collège, sans groupes de niveau.",
+      "b": "Répartir les collégiens en groupes ou en classes de niveau.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "pa740add9"
+          ]
+        },
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "p8a5d078d"
+          ]
+        },
+        "lr": {
+          "choix": "b",
+          "appuis": [
+            "p55d115ad"
+          ]
+        },
+        "reconquete": {
+          "choix": "b",
+          "appuis": [
+            "pca4ed20d"
+          ]
+        },
+        "renaissance": {
+          "choix": "b",
+          "appuis": [
+            "pb0d592b4"
+          ],
+          "nuance": "en rétablissant les mesures du « choc des savoirs »"
+        }
+      }
+    },
+    {
+      "id": "deserts-medicaux",
+      "axe": "sante",
+      "notion": "regulation-installation-medecins",
+      "question": "Les déserts médicaux",
+      "icone": "🩺",
+      "a": "Imposer des obligations aux médecins : lieu d'installation, gardes, internat en zone sous-dotée.",
+      "b": "Inciter : mieux payer les consultations là où les médecins manquent, en former plus.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "p1eb4a85d"
+          ]
+        },
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "p6b7cdf3b"
+          ]
+        },
+        "renaissance": {
+          "choix": "a",
+          "appuis": [
+            "p1adbe9d8"
+          ],
+          "nuance": "la régulation de l'installation figure parmi des leviers « à construire ensemble »"
+        },
+        "lr": {
+          "choix": "a",
+          "appuis": [
+            "pa12f7b0d"
+          ],
+          "nuance": "par une quatrième année d'internat dans les territoires qui manquent de médecins"
+        },
+        "reconquete": {
+          "choix": "a",
+          "appuis": [
+            "pb13dc337"
+          ],
+          "nuance": "par des gardes obligatoires sur tout le territoire"
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "p9162e93d",
+            "p257c7eba"
+          ]
+        }
+      }
+    },
+    {
+      "id": "conge-naissance",
+      "axe": "famille",
+      "notion": "conge-de-naissance",
+      "question": "Le congé de naissance",
+      "icone": "🍼",
+      "a": "Un congé identique, voire obligatoire, pour chacun des deux parents.",
+      "b": "Un congé plus long, pris par l'un ou l'autre parent, au choix.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "p3c80e3f9"
+          ]
+        },
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "pf65b8534"
+          ]
+        },
+        "lr": {
+          "choix": "b",
+          "appuis": [
+            "p67aecc82",
+            "p29baeaf6"
+          ]
+        }
+      }
+    },
+    {
+      "id": "histoire",
+      "axe": "laicite",
+      "notion": "savoirs-fondamentaux",
+      "question": "L'histoire à l'école",
+      "icone": "📜",
+      "a": "Faire plus de place à l'histoire coloniale et à celle des discriminations.",
+      "b": "Recentrer l'école primaire sur l'histoire et la géographie de la France.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "pb19868ee"
+          ]
+        },
+        "lr": {
+          "choix": "b",
+          "appuis": [
+            "p0a277883"
+          ]
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "p51c21c82"
+          ]
+        }
+      }
+    },
+    {
+      "id": "prive",
+      "axe": "ecole",
+      "notion": "enseignement-prive-sous-contrat",
+      "question": "L'école privée sous contrat",
+      "icone": "🏫",
+      "a": "Conditionner son financement public à des obligations de mixité sociale.",
+      "b": "Lui accorder plus de moyens publics, au-delà de la règle des 20 %.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "p7636817e",
+            "p22249c47"
+          ]
+        },
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "pdc6adf0f"
+          ]
+        },
+        "ps-pp": {
+          "choix": "a",
+          "appuis": [
+            "pc8976f6b"
+          ],
+          "nuance": "par la carte scolaire, sans lien avec le financement"
+        },
+        "lr": {
+          "choix": "b",
+          "appuis": [
+            "pe66b78ed"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ame",
+      "axe": "sante",
+      "notion": "aide-medicale-d-etat",
+      "question": "L'aide médicale d'État",
+      "icone": "🏥",
+      "a": "La maintenir pour soigner les étrangers sans titre de séjour.",
+      "b": "Ne prendre en charge que leurs soins urgents ou vitaux.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "p5d202f8e"
+          ]
+        },
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "p50d911f7"
+          ]
+        },
+        "reconquete": {
+          "choix": "b",
+          "appuis": [
+            "pd9698747"
+          ]
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "pa3d4aa5a"
+          ]
+        }
+      }
+    },
+    {
+      "id": "garde",
+      "axe": "famille",
+      "notion": "droit-opposable-garde",
+      "question": "La garde des tout-petits",
+      "icone": "🧸",
+      "a": "Garantir par la loi une place de garde à chaque famille.",
+      "b": "Développer micro-crèches et crèches d'entreprise, aidées par des avantages fiscaux.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "pe54c7267"
+          ]
+        },
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "p05ba85d2"
+          ]
+        },
+        "ps-pp": {
+          "choix": "a",
+          "appuis": [
+            "p27cd56bd"
+          ]
+        },
+        "renaissance": {
+          "choix": "a",
+          "appuis": [
+            "pac9e4f06"
+          ]
+        },
+        "lr": {
+          "choix": "b",
+          "appuis": [
+            "p99d6f76f",
+            "pee7466ac",
+            "pc4df18c6"
+          ]
+        }
+      }
+    },
+    {
+      "id": "vivre-ensemble",
+      "axe": "laicite",
+      "notion": "assimilation",
+      "question": "Vivre ensemble",
+      "icone": "🤝",
+      "a": "Renforcer la lutte contre les discriminations liées à l'origine ou à la religion.",
+      "b": "Exiger l'assimilation aux valeurs et au mode de vie français.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "p3f0d1b6a"
+          ]
+        },
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "p4127a674",
+            "p56d43a9b"
+          ]
+        },
+        "ps-pp": {
+          "choix": "a",
+          "appuis": [
+            "p3c74ff11"
+          ]
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "p573047dc"
+          ]
+        },
+        "reconquete": {
+          "choix": "b",
+          "appuis": [
+            "pc6665822"
+          ]
+        }
+      }
+    },
+    {
+      "id": "programmes",
+      "axe": "ecole",
+      "notion": "autonomie-des-etablissements",
+      "question": "Les programmes scolaires",
+      "icone": "📝",
+      "a": "Fixer nationalement programmes et examens, les mêmes dans tous les établissements.",
+      "b": "Laisser chaque établissement adapter les programmes et choisir une partie de l'équipe.",
+      "positions": {
+        "rn": {
+          "choix": "a",
+          "appuis": [
+            "pe4a9405a"
+          ]
+        },
+        "reconquete": {
+          "choix": "a",
+          "appuis": [
+            "pf76838a6"
+          ],
+          "nuance": "pour le brevet et un baccalauréat national, anonyme et terminal"
+        },
+        "lr": {
+          "choix": "b",
+          "appuis": [
+            "p0e3e10ff"
+          ]
+        },
+        "renaissance": {
+          "choix": "b",
+          "appuis": [
+            "paf9375ff"
+          ],
+          "nuance": "liberté d'organisation et de recrutement, sans parler des programmes"
+        }
+      }
+    },
+    {
+      "id": "aides-sociales",
+      "axe": "sante",
+      "notion": "solidarite-a-la-source",
+      "question": "Les aides sociales",
+      "icone": "💶",
+      "a": "Les verser automatiquement à ceux qui y ont droit, contre le non-recours.",
+      "b": "Durcir les contrôles contre la fraude : carte Vitale biométrique, amendes, suspensions.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "pa179afe4"
+          ]
+        },
+        "ps-pp": {
+          "choix": "a",
+          "appuis": [
+            "p2b1fe754"
+          ]
+        },
+        "renaissance": {
+          "choix": "a",
+          "appuis": [
+            "pbb2fd480"
+          ]
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "pefe1d1ff",
+            "p642cff2e",
+            "p1a5d0e06"
+          ]
+        }
+      }
+    },
+    {
+      "id": "allocations",
+      "axe": "famille",
+      "notion": "allocations-familiales",
+      "question": "Les allocations familiales",
+      "icone": "👨‍👩‍👧",
+      "a": "Les verser à toutes les familles, dès le premier enfant.",
+      "b": "Pouvoir les suspendre quand les parents manquent à leur rôle éducatif.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "pdcb552be"
+          ]
+        },
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "p74383d19"
+          ]
+        },
+        "lr": {
+          "choix": "b",
+          "appuis": [
+            "p0cd16a8f",
+            "pe0bbbd76"
+          ],
+          "nuance": "sur décision de justice ; verse aussi un revenu familial dès le premier enfant"
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "pe0553c33",
+            "pbec159ea"
+          ]
+        },
+        "reconquete": {
+          "choix": "b",
+          "appuis": [
+            "p30292de9"
+          ]
+        }
+      }
+    },
+    {
+      "id": "service-jeunes",
+      "axe": "laicite",
+      "notion": "service-national-universel",
+      "question": "Le service des jeunes",
+      "icone": "🎒",
+      "a": "Développer un service volontaire, civique ou patrimonial, pour qui le souhaite.",
+      "b": "Un service commun à toute une classe d'âge, voire obligatoire.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "pa227de87"
+          ]
+        },
+        "rn": {
+          "choix": "a",
+          "appuis": [
+            "p7ad6bcb9"
+          ]
+        },
+        "lfi": {
+          "choix": "b",
+          "appuis": [
+            "pff1a4bff"
+          ],
+          "nuance": "service citoyen obligatoire en 2022 ; arrêt du SNU en 2024"
+        },
+        "renaissance": {
+          "choix": "b",
+          "appuis": [
+            "p8d265d1e"
+          ],
+          "nuance": "déployer le SNU, sans le dire obligatoire"
+        },
+        "ps-pp": {
+          "choix": "b",
+          "appuis": [
+            "p13bcc4de"
+          ],
+          "nuance": "un rite de passage républicain et universel, à construire"
+        }
+      }
+    },
+    {
+      "id": "classes",
+      "axe": "ecole",
+      "notion": "effectifs-par-classe",
+      "question": "La taille des classes",
+      "icone": "📉",
+      "a": "Réduire nettement le nombre d'élèves par classe, surtout en primaire.",
+      "b": "Garder l'encadrement actuel et consacrer les économies aux salaires des professeurs.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "p25f5e7e7"
+          ]
+        },
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "p28aa847c"
+          ]
+        },
+        "ps-pp": {
+          "choix": "a",
+          "appuis": [
+            "p36e3c6df"
+          ]
+        },
+        "renaissance": {
+          "choix": "a",
+          "appuis": [
+            "pceb945f4"
+          ]
+        },
+        "rn": {
+          "choix": "a",
+          "appuis": [
+            "p25bf328f"
+          ]
+        },
+        "lr": {
+          "choix": "b",
+          "appuis": [
+            "pc2135d5f"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rsa",
+      "axe": "sante",
+      "notion": "rsa",
+      "question": "Le RSA",
+      "icone": "🧾",
+      "a": "Le verser sans exiger en contrepartie un nombre d'heures d'activité.",
+      "b": "Le conditionner à une activité, par exemple quinze heures par semaine.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "pbb8eb189"
+          ]
+        },
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "p3c4e77ce"
+          ],
+          "nuance": "en annulant les dernières réformes du RSA"
+        },
+        "lr": {
+          "choix": "b",
+          "appuis": [
+            "p08e3fa25"
+          ]
+        },
+        "renaissance": {
+          "choix": "b",
+          "appuis": [
+            "pf664046a"
+          ]
+        }
+      }
+    }
+  ]
+}

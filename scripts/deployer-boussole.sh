@@ -25,12 +25,12 @@ lot=$(mktemp)
   echo "put site/style.css $RACINE/style.css"
   echo "put site/sitemap.xml $RACINE/sitemap.xml"
 } > "$lot"
-echo "Envoi vers republique.fr (environ 170 fichiers)…"
+echo "Envoi vers republique.fr (environ 500 fichiers)…"
 sftp -q -i "$CLE" -o BatchMode=yes -b "$lot" "$INSTANCE@sftp.sd6.gpaas.net" >/dev/null
 rm -f "$lot"
 
 echo "Vérification :"
-for u in / /test/ /test/archivo.css /polices/Archivo-var-latin.woff2 /test/donnees.json /test/p/aabb.html /test/og/aabb.png; do
+for u in / /test/ /test/archivo.css /polices/Archivo-var-latin.woff2 /test/donnees.json /test/p/aabb.html /test/og/aabb.png /test/p/2-aabb.html /test/og/3-aabb.png; do
   printf '  %-22s %s\n' "$u" "$(curl -s -o /dev/null -w '%{http_code} %{content_type}' "https://republique.fr$u?v=$RANDOM")"
 done
 echo "Terminé. Le test : https://republique.fr/test/"

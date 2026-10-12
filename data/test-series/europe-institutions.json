@@ -1,0 +1,718 @@
+{
+  "titre": "Ta boussole d'idées · Europe et institutions",
+  "accroche": "16 nouveaux dilemmes sur l'Europe, la démocratie, le monde et l'État, tirés des textes officiels des partis. Trois minutes. Aucun nom de parti avant la fin.",
+  "version": "2026-10-12",
+  "note_methode": "Chaque dilemme oppose deux orientations défendues dans les documents officiels des huit forces politiques suivies par le site. Un parti n'est rattaché à une réponse que si une citation vérifiée de ses textes l'appuie ; sinon il est noté « ne se prononce pas dans les textes lus ». Les quatre axes et leurs libellés sont une lecture éditoriale : ils simplifient, ils ne mesurent pas une identité. Tant que les programmes 2027 ne sont pas tous publiés, une partie des appuis vient de textes antérieurs (programmes 2022, textes de 2020 à 2024), signalés « archive ».",
+  "axes": [
+    {
+      "id": "ue",
+      "nom": "Europe",
+      "n": "Entre-deux sur l'Europe",
+      "a": "Intégration européenne",
+      "b": "Souveraineté nationale",
+      "a_long": "Vous penchez vers l'intégration européenne : institutions communes renforcées, décisions à la majorité, budget et défense mis en commun.",
+      "b_long": "Vous penchez vers la souveraineté nationale : primauté du droit français, dernier mot à chaque pays, contribution réduite, défense indépendante."
+    },
+    {
+      "id": "demo",
+      "nom": "Démocratie",
+      "n": "Entre-deux sur les institutions",
+      "a": "Démocratie élargie",
+      "b": "Institutions actuelles",
+      "a_long": "Vous penchez vers une démocratie plus directe et plus parlementaire : référendum d'initiative citoyenne, vote local ouvert aux étrangers résidents, nouvelle Constitution, Parlement renforcé face à l'exécutif.",
+      "b_long": "Vous penchez vers les institutions actuelles : démocratie représentative, vote lié à la nationalité, Ve République et exécutif fort."
+    },
+    {
+      "id": "monde",
+      "nom": "International et défense",
+      "n": "Entre-deux sur l'international",
+      "a": "Engagements partagés",
+      "b": "Indépendance nationale",
+      "a_long": "Vous penchez vers les engagements partagés : alliances militaires, aide au développement accrue, dissuasion étendue aux Européens, accords commerciaux assortis de réciprocité.",
+      "b_long": "Vous penchez vers l'indépendance : hors des blocs, aide recentrée sur nos priorités, dissuasion strictement nationale, refus des accords de libre-échange."
+    },
+    {
+      "id": "terr",
+      "nom": "État et territoires",
+      "n": "Entre-deux sur l'État et les territoires",
+      "a": "Action publique étoffée",
+      "b": "État resserré",
+      "a_long": "Vous penchez vers une action publique étoffée : collectivités plus fortes, intercommunalités élues, guichets humains, agences publiques confortées.",
+      "b_long": "Vous penchez vers un État resserré : communes et État au centre, moins d'échelons, démarches numérisées, agences réduites."
+    }
+  ],
+  "dilemmes": [
+    {
+      "id": "traites",
+      "axe": "ue",
+      "notion": "primaute-du-droit-europeen",
+      "question": "Les traités européens",
+      "icone": "📜",
+      "a": "Renforcer les institutions communes de l'Union, quitte à réviser les traités.",
+      "b": "Faire primer le droit français, même face aux traités européens.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "p903587b0",
+            "pa30195e4"
+          ]
+        },
+        "ps-pp": {
+          "choix": "a",
+          "appuis": [
+            "pfc629376"
+          ]
+        },
+        "lfi": {
+          "choix": "b",
+          "appuis": [
+            "p7c435e3a",
+            "p9cd753fc"
+          ]
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "p29329c55",
+            "p966ebc06",
+            "p3ebf2f5c"
+          ]
+        },
+        "reconquete": {
+          "choix": "b",
+          "appuis": [
+            "p3e6849b9"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ric",
+      "axe": "demo",
+      "notion": "ric",
+      "question": "Le référendum citoyen",
+      "icone": "🗳️",
+      "a": "Permettre aux citoyens de déclencher eux-mêmes un référendum.",
+      "b": "Laisser décider les élus : la démocratie reste représentative.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "p759e8bad"
+          ]
+        },
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "p684a0c8b"
+          ]
+        },
+        "ps-pp": {
+          "choix": "a",
+          "appuis": [
+            "p66c2b76b",
+            "p42ecb2e0"
+          ]
+        },
+        "rn": {
+          "choix": "a",
+          "appuis": [
+            "p99e0a146",
+            "p435445a7"
+          ]
+        },
+        "lr": {
+          "choix": "a",
+          "appuis": [
+            "p713f6d0e"
+          ],
+          "nuance": "programme de 2022 : référendums d'initiative populaire"
+        },
+        "horizons": {
+          "choix": "b",
+          "appuis": [
+            "p09a83fb5"
+          ],
+          "nuance": "défend la démocratie représentative, sans citer le RIC"
+        }
+      }
+    },
+    {
+      "id": "alliances",
+      "axe": "monde",
+      "notion": "otan",
+      "question": "Les alliances militaires",
+      "icone": "🤝",
+      "a": "Les renforcer : notre sécurité passe par nos alliés.",
+      "b": "Prendre ses distances avec les blocs militaires, OTAN comprise.",
+      "positions": {
+        "lr": {
+          "choix": "a",
+          "appuis": [
+            "pb2cf8d4a"
+          ],
+          "nuance": "une Europe « solidaire dans l'OTAN »"
+        },
+        "renaissance": {
+          "choix": "a",
+          "appuis": [
+            "pf9409e83"
+          ],
+          "nuance": "les alliances comptées parmi les « vecteurs de puissance », sans citer l'OTAN"
+        },
+        "lfi": {
+          "choix": "b",
+          "appuis": [
+            "p28259dd6",
+            "p88c58652"
+          ]
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "p0108ca27",
+            "p288194eb"
+          ],
+          "nuance": "« puissance d'équilibre entre les grands blocs », sans demander la sortie de l'OTAN dans les textes lus"
+        }
+      }
+    },
+    {
+      "id": "decentralisation",
+      "axe": "terr",
+      "notion": "decentralisation",
+      "question": "La décentralisation",
+      "icone": "🗺️",
+      "a": "Transférer davantage de compétences et de moyens aux collectivités.",
+      "b": "Recentrer les compétences sur les communes et l'État.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "p636807f1",
+            "pabf34151"
+          ]
+        },
+        "ps-pp": {
+          "choix": "a",
+          "appuis": [
+            "p4cb01d70",
+            "padc7fe48"
+          ]
+        },
+        "lr": {
+          "choix": "a",
+          "appuis": [
+            "pd586624e",
+            "pa2269b42"
+          ]
+        },
+        "reconquete": {
+          "choix": "b",
+          "appuis": [
+            "p970eb7ec"
+          ]
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "p3648ddb4",
+            "pacba6147"
+          ],
+          "nuance": "simplifier le millefeuille et baisser les dotations des régions et intercommunalités"
+        }
+      }
+    },
+    {
+      "id": "veto",
+      "axe": "ue",
+      "notion": "vote-a-la-majorite-qualifiee",
+      "question": "Le veto des États",
+      "icone": "✋",
+      "a": "Décider à la majorité, pour qu'un seul pays ne bloque pas tout.",
+      "b": "Garder à chaque pays le dernier mot sur les sujets sensibles.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "p32b172b4"
+          ]
+        },
+        "ps-pp": {
+          "choix": "a",
+          "appuis": [
+            "pfc629376"
+          ]
+        },
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "p20e091e3"
+          ],
+          "nuance": "pour les questions fiscales"
+        },
+        "renaissance": {
+          "choix": "a",
+          "appuis": [
+            "pe7ab08c6"
+          ],
+          "nuance": "avancer à plusieurs « sans attendre l'accord unanime des 27 »"
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "pa3b703be"
+          ],
+          "nuance": "aucun transfert à l'Union en défense et en diplomatie"
+        }
+      }
+    },
+    {
+      "id": "vote-etrangers",
+      "axe": "demo",
+      "notion": "droit-de-vote-des-etrangers",
+      "question": "Le vote des étrangers",
+      "icone": "🪪",
+      "a": "L'accorder aux étrangers non européens pour les élections locales.",
+      "b": "Ne pas l'étendre : voter reste lié à la nationalité.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "p4f91b3c5"
+          ],
+          "nuance": "après cinq ans de résidence"
+        },
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "pb36b55b5"
+          ]
+        },
+        "ps-pp": {
+          "choix": "a",
+          "appuis": [
+            "p34a459e6"
+          ]
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "pffd653d1"
+          ],
+          "nuance": "seuls les nationaux votent et sont éligibles"
+        }
+      }
+    },
+    {
+      "id": "aide-developpement",
+      "axe": "monde",
+      "notion": "aide-publique-au-developpement",
+      "question": "L'aide au développement",
+      "icone": "🌍",
+      "a": "La porter à 0,7 % du revenu national, comme promis.",
+      "b": "La remettre à plat et la recentrer sur nos priorités.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "p46dfb6aa"
+          ]
+        },
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "p72f84271"
+          ]
+        },
+        "ps-pp": {
+          "choix": "a",
+          "appuis": [
+            "p448a4e57"
+          ]
+        },
+        "lr": {
+          "choix": "b",
+          "appuis": [
+            "p8781e6d9"
+          ],
+          "nuance": "redéployée vers l'Afrique"
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "pd66a5901"
+          ],
+          "nuance": "« rationalisation » inscrite dans son contre-budget"
+        }
+      }
+    },
+    {
+      "id": "intercommunalites",
+      "axe": "terr",
+      "notion": "intercommunalite",
+      "question": "Les intercommunalités",
+      "icone": "🏘️",
+      "a": "Élire leurs conseils au suffrage direct et renforcer leur rôle.",
+      "b": "Rendre la main aux communes, sans transferts de compétences imposés.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "p35650ad7",
+            "pb0374fba"
+          ]
+        },
+        "ps-pp": {
+          "choix": "a",
+          "appuis": [
+            "p5fbc3709"
+          ]
+        },
+        "lfi": {
+          "choix": "b",
+          "appuis": [
+            "pcf8e4126",
+            "p7ee71823"
+          ]
+        },
+        "reconquete": {
+          "choix": "b",
+          "appuis": [
+            "p970eb7ec"
+          ]
+        },
+        "lr": {
+          "choix": "b",
+          "appuis": [
+            "p76583dea"
+          ],
+          "nuance": "le maire reste signataire final en urbanisme"
+        }
+      }
+    },
+    {
+      "id": "budget-ue",
+      "axe": "ue",
+      "notion": "budget-europeen",
+      "question": "Le budget européen",
+      "icone": "💶",
+      "a": "Investir bien plus en commun : budget accru, emprunt commun.",
+      "b": "Réduire la contribution de la France au budget européen.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "pa7aace35",
+            "p3958f88e",
+            "pfb6d9e61"
+          ]
+        },
+        "ps-pp": {
+          "choix": "a",
+          "appuis": [
+            "pa091a097",
+            "p37bc7877"
+          ]
+        },
+        "renaissance": {
+          "choix": "a",
+          "appuis": [
+            "pe7ab08c6"
+          ],
+          "nuance": "investissements communs massifs, sans préciser leur financement"
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "p1517adcd"
+          ]
+        }
+      }
+    },
+    {
+      "id": "constitution",
+      "axe": "demo",
+      "notion": "assemblee-constituante",
+      "question": "La Constitution",
+      "icone": "🏛️",
+      "a": "Changer de République, par une assemblée ou une convention constituante.",
+      "b": "Garder la Ve République, quitte à la moderniser.",
+      "positions": {
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "p1f5bdb04"
+          ]
+        },
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "p97d15f26"
+          ]
+        },
+        "ps-pp": {
+          "choix": "a",
+          "appuis": [
+            "p006bd904"
+          ]
+        },
+        "horizons": {
+          "choix": "b",
+          "appuis": [
+            "p09a83fb5"
+          ]
+        },
+        "renaissance": {
+          "choix": "b",
+          "appuis": [
+            "p0cbdb99e"
+          ],
+          "nuance": "moderniser les institutions par une convention transpartisane"
+        }
+      }
+    },
+    {
+      "id": "dissuasion",
+      "axe": "monde",
+      "notion": "dissuasion-nucleaire",
+      "question": "La dissuasion nucléaire",
+      "icone": "☢️",
+      "a": "Étendre sa protection à nos partenaires européens.",
+      "b": "La garder strictement nationale, sans aucun partage.",
+      "positions": {
+        "ps-pp": {
+          "choix": "a",
+          "appuis": [
+            "p110d9d37"
+          ],
+          "nuance": "la France gardant la décision d'emploi"
+        },
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "p4c756a46"
+          ],
+          "nuance": "une extension à « envisager »"
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "pda2e6ef6"
+          ]
+        }
+      }
+    },
+    {
+      "id": "demarches",
+      "axe": "terr",
+      "notion": "dematerialisation",
+      "question": "Les démarches administratives",
+      "icone": "🖥️",
+      "a": "Garantir partout un guichet humain et des formulaires papier.",
+      "b": "Accélérer la numérisation des démarches, intelligence artificielle comprise.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "pa009c0c4",
+            "p89c3a56f"
+          ]
+        },
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "pab01b59d"
+          ]
+        },
+        "lr": {
+          "choix": "b",
+          "appuis": [
+            "pef3683e5",
+            "p1b799fe8"
+          ]
+        },
+        "reconquete": {
+          "choix": "b",
+          "appuis": [
+            "p2ed0db46"
+          ]
+        }
+      }
+    },
+    {
+      "id": "defense-ue",
+      "axe": "ue",
+      "notion": "defense-europeenne",
+      "question": "La défense européenne",
+      "icone": "🛡️",
+      "a": "Bâtir une défense européenne commune, avec des moyens partagés.",
+      "b": "Garder une défense nationale indépendante, sans intégration européenne.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "p466c8f18",
+            "pc87abd61"
+          ],
+          "nuance": "sans pouvoir mobiliser directement les armées nationales"
+        },
+        "ps-pp": {
+          "choix": "a",
+          "appuis": [
+            "p354782ce",
+            "p37bc7877"
+          ]
+        },
+        "renaissance": {
+          "choix": "a",
+          "appuis": [
+            "p9ad6122f"
+          ]
+        },
+        "lr": {
+          "choix": "a",
+          "appuis": [
+            "pb2cf8d4a"
+          ],
+          "nuance": "une capacité autonome de défense, « solidaire dans l'OTAN »"
+        },
+        "lfi": {
+          "choix": "b",
+          "appuis": [
+            "pe1a48abb",
+            "p7458c8c0"
+          ]
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "pa3b703be",
+            "pda2e6ef6"
+          ]
+        }
+      }
+    },
+    {
+      "id": "executif",
+      "axe": "demo",
+      "notion": "article-49-3",
+      "question": "L'exécutif et le Parlement",
+      "icone": "🗣️",
+      "a": "Renforcer le Parlement face au gouvernement, en supprimant le 49.3.",
+      "b": "Préserver un exécutif fort, garant de la capacité à gouverner.",
+      "positions": {
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "pd315441d",
+            "pa7e31dee"
+          ]
+        },
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "p7dbcb06e",
+            "p276d9850"
+          ]
+        },
+        "ps-pp": {
+          "choix": "a",
+          "appuis": [
+            "p896d5076",
+            "p6461d39a"
+          ]
+        },
+        "horizons": {
+          "choix": "b",
+          "appuis": [
+            "p09a83fb5"
+          ]
+        }
+      }
+    },
+    {
+      "id": "libre-echange",
+      "axe": "monde",
+      "notion": "accords-de-libre-echange",
+      "question": "Les accords commerciaux",
+      "icone": "🚢",
+      "a": "Continuer à en conclure, en exigeant la réciprocité.",
+      "b": "Refuser ces accords, à commencer par le Mercosur et le CETA.",
+      "positions": {
+        "lr": {
+          "choix": "a",
+          "appuis": [
+            "p0c408490"
+          ],
+          "nuance": "clauses de réciprocité dans tous les accords commerciaux"
+        },
+        "ecologistes": {
+          "choix": "b",
+          "appuis": [
+            "p068b8ff2"
+          ]
+        },
+        "lfi": {
+          "choix": "b",
+          "appuis": [
+            "pf5a7e36d",
+            "p21f399ba"
+          ]
+        },
+        "ps-pp": {
+          "choix": "b",
+          "appuis": [
+            "p1d64be0a"
+          ]
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "p32c7c893",
+            "pbc4ddd4e"
+          ]
+        }
+      }
+    },
+    {
+      "id": "agences",
+      "axe": "terr",
+      "notion": "agences-de-l-etat",
+      "question": "Les agences de l'État",
+      "icone": "🏢",
+      "a": "Les conforter et leur garantir des moyens durables.",
+      "b": "En supprimer ou en fusionner une partie pour réduire la dépense.",
+      "positions": {
+        "ecologistes": {
+          "choix": "a",
+          "appuis": [
+            "p1434c55d"
+          ]
+        },
+        "lfi": {
+          "choix": "a",
+          "appuis": [
+            "pf01afc70"
+          ],
+          "nuance": "recruter les postes manquants, agences de l'État comprises"
+        },
+        "lr": {
+          "choix": "b",
+          "appuis": [
+            "pe7bb6eda",
+            "p51bc5c60"
+          ]
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "pb726a2ec",
+            "pf8292259"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -74,6 +74,34 @@ const rep = await page.goto(`${BASE}/test/p/anan.html`);
 ok(rep.ok() && (await page.getAttribute('meta[property="og:image"]', "content")).endsWith("/test/og/anan.png"), "page de portrait avec image d'aperçu");
 ok((await page.getAttribute(".appel-fixe a", "href")).includes("defi=anan"), "page de portrait : bouton de défi");
 ok((await page.locator(".mots li").count()) === 4, "page de portrait : quatre mots");
+// Séries qui s'additionnent : la série 2 suit la 1, le profil global les réunit, la mémoire sur l'appareil est volontaire.
+await page.goto(`${BASE}/test/#commencer`);
+for (let i = 0; i < 16; i++) { await page.waitForSelector(`.compte:text("${i + 1} / 16")`); await page.keyboard.press(i % 2 ? "ArrowLeft" : "ArrowRight"); }
+await page.waitForSelector(".resultat");
+ok((await page.locator(".suite .serie").count()) === 3, "trois séries proposées sous le résultat");
+ok(await page.evaluate(() => localStorage.getItem("boussole-idees") === null), "rien gardé sur l'appareil sans le choix de la personne");
+await page.check("#garder");
+ok(await page.evaluate(() => !!localStorage.getItem("boussole-idees")), "séries gardées sur l'appareil après la case cochée");
+await page.click(".suite .gros-bouton");
+await page.waitForSelector(".compte small:text('Série 2')");
+for (let i = 0; i < 16; i++) { await page.waitForSelector(`.compte:text("${i + 1} / 16")`); await page.keyboard.press("ArrowUp"); }
+await page.waitForSelector(".resultat");
+const h2 = await page.evaluate(() => location.hash);
+ok(/s=2/.test(h2) && /t1=[ab0]{16}/.test(h2), "la série 1 suit dans l'adresse de la série 2");
+ok(!(await page.isVisible(".bandeau.alerte")), "série 2 jouée : pas d'avertissement");
+await page.click("text=Voir mon profil global");
+await page.waitForSelector(".global");
+ok((await page.locator(".serie-res").count()) === 2, "profil global : deux séries réunies");
+await page.click("#reveler");
+ok((await page.locator("#paquet .carte-parti").first().locator(".cases i").count()) === 32, "profil global : 32 cases par parti");
+ok(!(await page.textContent(".global .partage")).match(/LFI|RN|Renaissance|Républicains/), "partage du profil global sans parti");
+await page.goto(`${BASE}/test/`);
+await page.waitForSelector(".bloc-series");
+ok((await page.textContent(".bloc-series h2")).includes("2 séries sur 3"), "accueil : le profil gardé est retrouvé");
+await page.click("#oublier");
+ok(await page.evaluate(() => localStorage.getItem("boussole-idees") === null), "effacement de l'appareil en un geste");
+const rep2 = await page.goto(`${BASE}/test/p/2-anbn.html`);
+ok(rep2.ok() && (await page.getAttribute(".appel-fixe a", "href")).includes("commencer=2&defi=anbn"), "portrait de série 2 avec défi sur la série 2");
 const img = await page.goto(`${BASE}/test/og/anan.png`);
 ok(img.ok(), "image d'aperçu servie");
 ok(!erreurs.length, `aucune erreur JavaScript ${erreurs.join(" | ")}`);
