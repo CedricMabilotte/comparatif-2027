@@ -7,8 +7,18 @@ Cible : l'instance Simple Hosting existante de Cedric (PHP 8.4, Paris SD6), vhos
 - Les anciens enregistrements de parking (`@ A 217.70.184.38`, `www CNAME webredir.vip.gandi.net.`) ont été supprimés, puis les deux vhosts créés avec `linked_dns_zone.allow_alteration: true` : Simple Hosting a posé lui-même `@ A/AAAA` (racine) et `www CNAME webacc12.sd6.ghst.net.`.
 - Base : SQLite, dans `/vhosts/republique.fr/donnees/republique.sqlite`, hors de la racine web. Pas de mot de passe à gérer ; passer à MySQL si le trafic l'exige (le DSN suffit, l'API est compatible).
 
+## Source de déploiement : la branche main
+Depuis le 2026-10-12, `main` est la seule source de ce qui est servi sur republique.fr : le site (PR #1) et le test « boussole d'idées » (PR #2) y sont fusionnés. On ne déploie plus depuis `prototype-v2` ni depuis une branche de travail : elles n'ont pas tout (`prototype-v2` n'a pas le test, et redéployer depuis elle effacerait l'encart du test sur l'accueil).
+
+Marche à suivre :
+1. Fusionner la modification dans `main` (par une PR).
+2. Dans un clone à jour de `main` : `git switch main && git pull`.
+3. Construire : `node scripts/construire.mjs` (il faut les textes sources, voir `scripts/telecharger-sources.sh`).
+4. Avant d'envoyer : `bash scripts/comparer-en-ligne.sh`. Un « ÉCART » sur un fichier que la modification ne touche pas veut dire que le site en ligne contient quelque chose que `main` n'a pas : s'arrêter et le rapatrier dans `main` d'abord.
+5. Envoyer par SFTP (lot complet ci-dessous, ou `scripts/deployer-boussole.sh` pour le seul test).
+
 ## Contenu déployé
-- `site/` → `/vhosts/republique.fr/htdocs/` : page, `corpus.json`, `consensus.js`.
+- `site/` → `/vhosts/republique.fr/htdocs/` : page, `corpus.json`, scripts, pages de partage `c/` et `t/`, test `test/`, `sitemap.xml`.
 - `api/index.php` → `htdocs/api/`, avec un `config.php` créé au déploiement (jamais versionné, `sel` aléatoire, `envoi => 'mail'`).
 - `/vhosts/www.republique.fr/htdocs/index.html` : redirection vers `https://republique.fr`.
 - Dépôt par SFTP : `sftp.sd6.gpaas.net`, utilisateur = identifiant de l'instance, clé de Cedric.

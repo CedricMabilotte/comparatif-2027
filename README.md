@@ -2,7 +2,7 @@
 
 Comparatif participatif des programmes, des concepts et du vocabulaire des candidatures à l'élection présidentielle de 2027.
 
-> **État : prototype (phase M1).** Les données de `data/corpus.json` sont **fictives** et servent à éprouver les mécanismes. Aucun parti réel n'y figure.
+> **État : bêta, en ligne sur https://republique.fr.** Corpus réel des 8 principales forces politiques, citations vérifiées dans leurs documents officiels (programmes 2022 signalés « archive » tant que ceux de 2027 manquent). La branche `main` est la source de ce qui est en ligne (voir `docs/DEPLOIEMENT.md`).
 
 ## Ce que fait le site
 
