@@ -1,5 +1,5 @@
 // Images d'aperçu du test « Ta boussole d'idées » (1200 × 630, format Facebook, X, LinkedIn, WhatsApp) :
-// site/test/og/<code>.png pour chacun des 81 portraits, et site/test/og/test.png pour l'invitation.
+// site/test/og/<code>.png pour chacun des 81 portraits de chaque série (préfixe <n>- à partir de la série 2), et site/test/og/test.png pour l'invitation.
 // Rendu par un navigateur sans tête (Playwright, Chromium) avec les polices du site. Lancer après scripts/test-profil.mjs.
 // Usage : node scripts/test-profil-images.mjs
 import fs from "node:fs";
@@ -37,20 +37,20 @@ const STYLE_ETOILE = `
   .et-forme.et-plein { fill: rgba(13,13,13,.08); stroke: #0d0d0d; stroke-width: 4; stroke-linejoin: round; }
   .et-point { stroke: #fff; stroke-width: 3; }
   .et-pole { font-family: "Archivo", sans-serif; font-weight: 800; font-size: 17px; }`;
-function carte(code) {
-  const svg = Etoile.profil([Etoile.depuisCode(code)], { axes: D.axes, couleurs: COULEURS }).replace(/<tspan class="et-n"[^>]*>[^<]*<\/tspan>/g, "");
-  const mots = D.axes.map((a, i) => `<li style="--c:${COULEURS[i]}" class="${code[i] === "n" ? "nuance" : ""}"><span>${esc(a.nom)}</span>${esc(code[i] === "n" ? "Des deux côtés" : a[code[i]])}</li>`).join("");
+function carte(se, n, code) {
+  const svg = Etoile.profil([Etoile.depuisCode(code)], { axes: se.axes, couleurs: COULEURS }).replace(/<tspan class="et-n"[^>]*>[^<]*<\/tspan>/g, "");
+  const mots = se.axes.map((a, i) => `<li style="--c:${COULEURS[i]}" class="${code[i] === "n" ? "nuance" : ""}"><span>${esc(a.nom)}</span>${esc(code[i] === "n" ? "Des deux côtés" : a[code[i]])}</li>`).join("");
   return base(`<style>${STYLE_ETOILE}
-    .grille { display: grid; grid-template-columns: 300px 500px 1fr; gap: 16px; align-items: center; flex: 1; min-height: 0; margin-top: 10px; }
+    .grille { display: grid; grid-template-columns: 300px 520px 1fr; gap: 16px; align-items: center; flex: 1; min-height: 0; margin-top: 10px; }
     .mots { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
     .mots li { background: var(--c); color: #fff; border-radius: 16px; padding: 10px 16px 12px; font-weight: 900; font-stretch: 115%; font-size: 24px; line-height: 1.02; }
     .mots li.nuance { background: #f4f4f4; color: #0d0d0d; box-shadow: inset 0 0 0 3px var(--c); }
     .mots span { display: block; font-weight: 700; font-stretch: 100%; font-size: 13px; letter-spacing: .1em; text-transform: uppercase; opacity: .85; margin-bottom: 3px; }
-    .etoile { width: 480px; height: 415px; display: block; overflow: visible; margin: 0 auto; }
-    .defi b { display: block; font-weight: 900; font-stretch: 125%; font-size: 46px; line-height: .95; }
+    .etoile { width: 440px; height: 380px; display: block; overflow: visible; margin: 0 auto; }
+    .defi b { display: block; font-weight: 900; font-stretch: 125%; font-size: 38px; line-height: .95; }
     .defi span { display: inline-block; margin-top: 18px; background: #0d0d0d; color: #fff; font-weight: 800; font-size: 22px; padding: 12px 20px; border-radius: 99px; }
   </style>
-  <div class="sur">Sur 16 dilemmes tirés des programmes, j'ai penché vers</div>
+  <div class="sur">${n > 1 ? `${esc(se.court)} · 16 dilemmes, j'ai penché vers` : "Sur 16 dilemmes tirés des programmes, j'ai penché vers"}</div>
   <div class="grille"><ul class="mots">${mots}</ul>${svg}<div class="defi"><b>D'accord avec moi&nbsp;?</b><span>Fais le test →</span></div></div>
   <div class="pied"><div class="site">republique.fr/test</div><div class="mention">Ni sondage ni consigne de vote<br>Aucun parti sur cette image</div></div>`);
 }
@@ -66,21 +66,24 @@ function invitation() {
     .pile .c1 { background: ${COULEURS[0]}; transform: rotate(-1.5deg); color: #fff; padding: 26px; display: flex; flex-direction: column; justify-content: space-between; font-style: normal; }
     .pile .c1 b { font-size: 70px; line-height: 1; } .pile .c1 em { font-style: normal; font-weight: 900; font-stretch: 125%; font-size: 42px; line-height: .95; }
   </style>
-  <div class="ecran"><div><div class="sur">Programmes 2027 · 3 minutes</div><h1>Ta boussole d'idées</h1>
-  <p class="acc">16 dilemmes tirés des textes des partis. Tu glisses chaque carte vers ton choix, sans savoir qui défend quoi.</p></div>
+  <div class="ecran"><div><div class="sur">Programmes 2027 · 3 séries de 16 cartes</div><h1>Ta boussole d'idées</h1>
+  <p class="acc">Des dilemmes tirés des textes des partis. Tu glisses chaque carte vers ton choix, sans savoir qui défend quoi.</p></div>
   <div class="pile"><i class="c3"></i><i class="c2"></i><i class="c1"><b>⏳</b><em>La retraite</em></i></div></div>
   <div class="pied"><div class="site">republique.fr/test</div><div class="mention">Partis révélés seulement à la fin, citations à l'appui<br>Ni sondage ni consigne de vote</div></div>`);
 }
 
 const codes = [""];
-for (const _ of D.axes) codes.splice(0, codes.length, ...codes.flatMap((c) => ["a", "n", "b"].map((e) => c + e)));
+for (let i = 0; i < 4; i++) codes.splice(0, codes.length, ...codes.flatMap((c) => ["a", "n", "b"].map((e) => c + e)));
+// Série 1 : og/<code>.png ; série n : og/<n>-<code>.png (mêmes noms que les pages de portrait).
+const cartes = D.series.flatMap((se, k) => codes.map((c) => [k ? `${k + 1}-${c}` : c, carte(se, k + 1, c)]));
+const attendus = new Set(["test.png", ...cartes.map(([nom]) => `${nom}.png`)]);
 const dossier = path.join(SITE, "test", "og");
 fs.mkdirSync(dossier, { recursive: true });
 const tmp = fs.mkdtempSync(path.join(RACINE, ".og-"));
 const nav = await playwright.chromium.launch();
 const page = await nav.newPage({ viewport: { width: 1200, height: 630 } });
 try {
-  for (const [nom, html] of [["test", invitation()], ...codes.map((c) => [c, carte(c)])]) {
+  for (const [nom, html] of [["test", invitation()], ...cartes]) {
     const f = path.join(tmp, `${nom}.html`);
     fs.writeFileSync(f, html);
     await page.goto(pathToFileURL(f).href);
@@ -91,4 +94,5 @@ try {
   await nav.close();
   fs.rmSync(tmp, { recursive: true, force: true });
 }
-console.log(`Images d'aperçu : ${codes.length + 1} dans site/test/og/.`);
+for (const f of fs.readdirSync(dossier)) if (!attendus.has(f)) fs.unlinkSync(path.join(dossier, f));
+console.log(`Images d'aperçu : ${attendus.size} dans site/test/og/.`);

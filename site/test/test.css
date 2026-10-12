@@ -13,7 +13,7 @@ html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; background: var(--fond); color: var(--encre); font-family: var(--f); font-size: 16.5px; line-height: 1.45; overflow-wrap: break-word; -webkit-tap-highlight-color: transparent; }
 a { color: inherit; }
 button { font: inherit; color: inherit; cursor: pointer; }
-button:focus-visible, a:focus-visible, summary:focus-visible, label:focus-within { outline: 3px solid var(--encre); outline-offset: 3px; }
+button:focus-visible, a:focus-visible, summary:focus-visible, label:has(:focus-visible) { outline: 3px solid var(--encre); outline-offset: 3px; }
 .g1 { --c: var(--g1); } .g2 { --c: var(--g2); } .g3 { --c: var(--g3); } .g4 { --c: var(--g4); }
 
 .tete, main, .pied { max-width: 480px; margin: 0 auto; padding-inline: 16px; }
@@ -186,3 +186,37 @@ details[open] > summary::after { content: "−"; }
 .carte-parti .cases i { border-radius: 6px; }
 .carte-parti .cases .desaccord { box-shadow: inset 0 0 0 3px var(--c); }
 .carte-parti .cases .muet { border-radius: 50%; }
+
+/* Séries qui s'additionnent : liste à l'accueil et sous chaque résultat, profil global. */
+.bloc-series { margin-top: 26px; display: grid; gap: 10px; }
+.bloc-series h2 { margin: 0; }
+.series { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+.serie a { display: grid; grid-template-columns: 40px 1fr auto; gap: 12px; align-items: center; text-decoration: none; border: 2px solid var(--encre); border-radius: 18px; padding: 10px 14px; min-height: 64px; }
+.serie .num { width: 40px; height: 40px; border-radius: 50%; background: var(--encre); color: var(--fond); display: grid; place-items: center; font-weight: 900; font-stretch: 125%; font-size: 20px; }
+.serie .txt strong { display: block; font-weight: 800; font-stretch: 110%; font-size: 17px; line-height: 1.1; }
+.serie .txt small { display: block; font-size: 12.5px; color: var(--gris); line-height: 1.3; margin-top: 3px; }
+.serie .etat { font-size: 13px; font-weight: 800; white-space: nowrap; }
+.serie.faite a { background: var(--voile); border-color: var(--trait); }
+.serie.faite .num { background: var(--g1); }
+.serie.ici a { border-style: dashed; }
+.suite { display: grid; gap: 10px; }
+.suite h2 { margin: 0; }
+.garder { display: flex; gap: 12px; align-items: flex-start; border-top: 1px solid var(--trait); padding-top: 12px; cursor: pointer; }
+.garder input { width: 24px; height: 24px; margin: 2px 0 0; accent-color: var(--encre); flex: none; }
+.garder strong { display: block; font-size: 15px; }
+.garder small { display: block; font-size: 13px; color: var(--gris); line-height: 1.35; }
+.surtitre-serie { font-size: 13px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: var(--gris); margin: 6px 0 4px; }
+.compte small { font-weight: 600; color: var(--gris); }
+.nets { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.nets li { background: var(--c); color: #fff; border-radius: 14px; padding: 8px 12px 10px; }
+.nets span { display: block; font-size: 11.5px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; opacity: .85; }
+.nets strong { font-weight: 900; font-stretch: 115%; font-size: 18px; line-height: 1.05; }
+.serie-res summary { list-style: none; cursor: pointer; display: flex; align-items: center; min-height: 44px; }
+.serie-res summary::after { content: "+"; margin-left: auto; font-weight: 900; font-size: 26px; }
+.serie-res summary::-webkit-details-marker { display: none; }
+.serie-res summary h2 { display: flex; align-items: center; gap: 10px; margin: 0; font-size: 22px; }
+.serie-res .num { width: 32px; height: 32px; border-radius: 50%; background: var(--encre); color: var(--fond); display: grid; place-items: center; font-size: 17px; flex: none; }
+.serie-res[open] > :not(summary) { margin-top: 10px; }
+.carte-parti .ligne-serie { font-size: 12px; font-weight: 700; opacity: .75; margin-top: 4px; }
+.carte-parti.multi .cases { margin-top: 0; }
+.resultat .sous { margin-top: 8px; }

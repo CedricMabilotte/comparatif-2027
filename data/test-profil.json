@@ -1,5 +1,5 @@
 {
-  "titre": "Votre boussole d'idées",
+  "titre": "Ta boussole d'idées · L'essentiel",
   "accroche": "16 dilemmes tirés des textes officiels des partis. Trois minutes. Aucun nom de parti avant la fin.",
   "version": "2026-10-12",
   "note_methode": "Chaque dilemme oppose deux orientations défendues dans les documents officiels des huit forces politiques suivies par le site. Un parti n'est rattaché à une réponse que si une citation vérifiée de ses textes l'appuie ; sinon il est noté « ne se prononce pas dans les textes lus ». Les quatre axes et leurs libellés sont une lecture éditoriale : ils simplifient, ils ne mesurent pas une identité. Tant que les programmes 2027 ne sont pas tous publiés, une partie des appuis vient de textes antérieurs (programmes 2022, textes de 2020 à 2024), signalés « archive ».",
@@ -35,10 +35,10 @@
       "id": "eco2",
       "nom": "Écologie",
       "n": "Entre-deux sur l'écologie",
-      "a": "Normes vertes renforcées",
-      "b": "Normes vertes allégées",
-      "a_long": "Vous penchez vers l'exigence : accélérer les renouvelables, réduire les pesticides, protéger les sols, interdire la location des passoires.",
-      "b_long": "Vous penchez vers l'allègement des normes : freiner éolien et solaire, autoriser au cas par cas, laisser construire et louer."
+      "a": "Renouvelables et normes fortes",
+      "b": "Nucléaire et normes allégées",
+      "a_long": "Vous penchez vers l'exigence écologique : accélérer les renouvelables, réduire les pesticides, sortir du nucléaire, interdire la location des passoires.",
+      "b_long": "Vous penchez vers l'allègement des normes et le nucléaire : freiner éolien et solaire, autoriser au cas par cas, construire de nouveaux réacteurs, laisser louer."
     }
   ],
   "dilemmes": [
@@ -123,12 +123,6 @@
             "pb1abb588"
           ],
           "nuance": "pour les faits liés au narcotrafic"
-        },
-        "reconquete": {
-          "choix": "b",
-          "appuis": [
-            "p7540dfe3"
-          ]
         }
       }
     },
@@ -335,6 +329,13 @@
             "p12ad9157",
             "p52852ed7"
           ]
+        },
+        "horizons": {
+          "choix": "b",
+          "appuis": [
+            "pd2af7628"
+          ],
+          "nuance": "durcir l'application des peines des grands narcotrafiquants, sans peines planchers"
         }
       }
     },
@@ -468,6 +469,13 @@
           "appuis": [
             "p50fea32c"
           ]
+        },
+        "lr": {
+          "choix": "b",
+          "appuis": [
+            "p2c749046",
+            "p63f175d3"
+          ]
         }
       }
     },
@@ -550,38 +558,57 @@
       }
     },
     {
-      "id": "sols",
+      "id": "nucleaire",
       "axe": "eco2",
-      "notion": "zan",
-      "question": "Les terres et le béton",
-      "icone": "🏗️",
-      "a": "Tenir l'objectif « zéro artificialisation nette » des sols.",
-      "b": "Abroger cet objectif, jugé trop contraignant pour construire.",
+      "notion": "sortie-du-nucleaire",
+      "question": "Le nucléaire",
+      "icone": "⚛️",
+      "a": "Sortir du nucléaire, sans nouveaux réacteurs.",
+      "b": "Construire de nouveaux réacteurs nucléaires.",
       "positions": {
         "ecologistes": {
           "choix": "a",
           "appuis": [
-            "p70493ca8",
-            "p5dd314e5"
+            "pd19e6f31",
+            "p081cbb2b"
           ]
         },
         "lfi": {
           "choix": "a",
           "appuis": [
-            "p52790987"
-          ],
-          "nuance": "texte antérieur à la loi ZAN"
+            "p4d87da7d",
+            "pdece24c7"
+          ]
         },
         "ps-pp": {
-          "choix": "a",
+          "choix": "b",
           "appuis": [
-            "p0300553a"
+            "p4eb8c27c"
+          ]
+        },
+        "renaissance": {
+          "choix": "b",
+          "appuis": [
+            "p780e0b79"
           ]
         },
         "lr": {
           "choix": "b",
           "appuis": [
-            "pb096ac04"
+            "p28527e13",
+            "p2c0413f4"
+          ]
+        },
+        "rn": {
+          "choix": "b",
+          "appuis": [
+            "pe3350bed"
+          ]
+        },
+        "reconquete": {
+          "choix": "b",
+          "appuis": [
+            "p27d7d30f"
           ]
         }
       }
@@ -696,6 +723,13 @@
           "appuis": [
             "p1e4f3365"
           ]
+        },
+        "ps-pp": {
+          "choix": "a",
+          "appuis": [
+            "p4ccbfe1c"
+          ],
+          "nuance": "refuse l'externalisation de l'asile, sans parler des procédures accélérées"
         }
       }
     },
