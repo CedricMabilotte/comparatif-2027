@@ -71,7 +71,7 @@ const titrePortrait = (code) => T.axes.map((a, i) => ligne(a, code[i])).join(" �
 function pagePortrait(code) {
   const canon = `${URL_SITE}/test/p/${code}.html`;
   const titre = titrePortrait(code);
-  const desc = `Ma boussole d'idées face aux programmes 2027 : ${titre}. 16 dilemmes, 3 minutes, sans nom de parti avant la fin. Et vous ?`;
+  const desc = `Ma boussole d'idées face aux programmes 2027 : ${titre}. 16 dilemmes, 3 minutes, sans nom de parti avant la fin. Et toi ?`;
   return `<!doctype html>
 <html lang="fr">
 <head>
@@ -84,7 +84,7 @@ function pagePortrait(code) {
 <meta property="og:site_name" content="République des mots 2027">
 <meta property="og:locale" content="fr_FR">
 <meta property="og:title" content="Ma boussole d'idées : ${esc(titre)}">
-<meta property="og:description" content="16 dilemmes tirés des textes officiels des partis, 3 minutes, aucun nom de parti avant la fin. D'accord avec moi ? Faites le test et comparons nos boussoles.">
+<meta property="og:description" content="16 dilemmes tirés des textes officiels des partis, 3 minutes, aucun nom de parti avant la fin. D'accord avec moi ? Fais le test et comparons nos boussoles.">
 <meta property="og:url" content="${canon}">
 <meta property="og:image" content="${URL_SITE}/test/og/${code}.png">
 <meta property="og:image:width" content="1200">
@@ -92,22 +92,22 @@ function pagePortrait(code) {
 <meta property="og:image:alt" content="Boussole d'idées en quatre axes : ${esc(titre)}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Ma boussole d'idées : ${esc(titre)}">
-<meta name="twitter:description" content="16 dilemmes tirés des textes officiels des partis. Et vous ?">
+<meta name="twitter:description" content="16 dilemmes tirés des textes officiels des partis. Et toi ?">
 <meta name="twitter:image" content="${URL_SITE}/test/og/${code}.png">
-<link rel="stylesheet" href="../../polices.css">
+<link rel="stylesheet" href="../archivo.css">
 <link rel="stylesheet" href="../test.css">
 </head>
 <body class="portrait">
-<header class="tete"><a class="marque" href="../../">République des mots <em>2027</em></a></header>
+<header class="tete"><a class="marque" href="../../">République des mots</a><a class="lien-tete" href="../">Le test</a></header>
 <main>
-<p class="surtitre">Sur 16 dilemmes tirés des programmes, une personne a penché vers</p>
-<h1>${T.axes.map((a, i) => `<span class="g${i + 1}${code[i] === "n" ? " nuance" : ""}">${esc(ligne(a, code[i]))}</span>`).join(" ")}</h1>
-<p class="appel"><a class="btn principal" href="../#commencer&amp;defi=${code}">D'accord ? Faites le test et comparez</a></p>
-<figure class="hero">${Etoile.profil([Etoile.depuisCode(code)], { axes: T.axes, titre: `Forme type de ce portrait : ${titre}` }).replace(/<tspan class="et-n"[^>]*>[^<]*<\/tspan>/g, "")}
-<figcaption class="petit">Forme type de ce portrait : chaque branche pointe vers un pôle, les deux pôles d'un axe se font face.</figcaption></figure>
-<details class="lecture"><summary>Lire ce portrait en mots</summary><p>${esc(description(code).replaceAll("Vous penchez", "Cette personne penche"))}</p></details>
-<p class="avert">Ni sondage ni consigne de vote : ce portrait résume des réponses à 16 dilemmes, pas une personne. Rien n'est enregistré, le calcul se fait dans le navigateur. Aucun parti n'apparaît avant la fin du test, et chaque rapprochement s'appuie sur une citation vérifiée.</p>
-<div class="appel-fixe"><a class="btn principal" href="../#commencer&amp;defi=${code}">Faire le test : 16 dilemmes, 3 minutes</a></div>
+<h1>Une boussole d'idées</h1>
+<p class="surtitre">Sur 16 dilemmes tirés des programmes, une personne a penché vers :</p>
+<ul class="mots">${T.axes.map((a, i) => `<li class="g${i + 1}${code[i] === "n" ? " nuance" : ""}">${esc(code[i] === "n" ? `${a.nom} : des deux côtés` : ligne(a, code[i]))}</li>`).join("")}</ul>
+<figure class="bloc" style="margin:0">${Etoile.profil([Etoile.depuisCode(code)], { axes: T.axes, titre: `Forme type de ce portrait : ${titre}` }).replace(/<tspan class="et-n"[^>]*>[^<]*<\/tspan>/g, "")}
+<figcaption class="note" style="text-align:center">Forme type de ce portrait : chaque branche pointe vers un pôle, les deux pôles d'un axe se font face.</figcaption></figure>
+<details class="lecture bloc"><summary>Ce portrait en mots</summary><p>${esc(description(code).replaceAll("Vous penchez", "Cette personne penche"))}</p></details>
+<p class="avert">Ni sondage ni consigne de vote : ce portrait résume des réponses à 16 dilemmes, pas une personne. Rien n'est enregistré, le calcul se fait sur le téléphone. Aucun parti n'apparaît avant la fin du test, et chaque rapprochement s'appuie sur une citation vérifiée.</p>
+<div class="appel-fixe"><a class="gros-bouton" href="../#commencer&amp;defi=${code}">D'accord ? Fais le test et comparons</a></div>
 </main>
 <footer class="pied"><p><a href="../../">republique.fr</a> · <a href="../../#a-propos">À propos</a> · <a href="../../#methode">La méthode</a> · Aucun traceur, aucun cookie. © 2026 eozen, textes et données CC BY-SA 4.0, code MIT.</p></footer>
 </body>

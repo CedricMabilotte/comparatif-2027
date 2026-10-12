@@ -15,7 +15,10 @@ lot=$(mktemp)
   echo "-mkdir $RACINE/test"
   echo "-mkdir $RACINE/test/p"
   echo "-mkdir $RACINE/test/og"
-  for f in index.html etoile.js test.js test.css donnees.json; do echo "put site/test/$f $RACINE/test/$f"; done
+  for f in index.html etoile.js test.js test.css archivo.css donnees.json; do echo "put site/test/$f $RACINE/test/$f"; done
+  echo "-mkdir $RACINE/polices"
+  echo "put site/polices/Archivo-var-latin.woff2 $RACINE/polices/Archivo-var-latin.woff2"
+  echo "put site/polices/Archivo-var-latin-ext.woff2 $RACINE/polices/Archivo-var-latin-ext.woff2"
   echo "put site/test/p/* $RACINE/test/p/"
   echo "put site/test/og/* $RACINE/test/og/"
   echo "put site/js/accueil.js $RACINE/js/accueil.js"
@@ -27,7 +30,7 @@ sftp -q -i "$CLE" -o BatchMode=yes -b "$lot" "$INSTANCE@sftp.sd6.gpaas.net" >/de
 rm -f "$lot"
 
 echo "Vérification :"
-for u in / /test/ /test/donnees.json /test/p/aabb.html /test/og/aabb.png; do
+for u in / /test/ /test/archivo.css /polices/Archivo-var-latin.woff2 /test/donnees.json /test/p/aabb.html /test/og/aabb.png; do
   printf '  %-22s %s\n' "$u" "$(curl -s -o /dev/null -w '%{http_code} %{content_type}' "https://republique.fr$u?v=$RANDOM")"
 done
 echo "Terminé. Le test : https://republique.fr/test/"
