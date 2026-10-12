@@ -23,6 +23,7 @@ R.module("accueil", (R) => {
         <p class="chapo">${esc(R.DEVISE)} Lisez les programmes des huit principales forces politiques côte à côte, comprenez les concepts et les mots du débat, et jugez les propositions avant de savoir de qui elles viennent.</p>
         <p class="chiffres"><span><b>${C.propositions.length.toLocaleString("fr")}</b> citations vérifiées</span><span><b>${C.candidatures.length}</b> forces politiques</span><span><b>${nbDocs}</b> documents officiels</span><span><b>${NOTIONS.length}</b> concepts</span><span><b>${VOCAB.length}</b> mots du débat</span></p>
       </div>
+      <a class="encart-boussole" href="test/"><span class="surtitre-boussole">Nouveau · 3 minutes</span><strong>Votre boussole d'idées</strong><span>16 dilemmes tirés des programmes, aucun nom de parti avant la fin.</span><span class="lien-fleche">Faire le test →</span></a>
       <div class="portes">
         <a class="porte" href="#concept-${duJour.id}"><h3>Découvrir</h3><p>Un concept par jour, expliqué simplement, avec ce qu'en dit chaque parti. Aujourd'hui : <strong>${esc(duJour.nom)}</strong>.</p><span class="lien-fleche">Lire la fiche →</span></a>
         <a class="porte" href="#jouer"><h3>Jouer</h3><p>Pour ou contre ? Jugez une proposition sans savoir qui l'a écrite, puis découvrez de qui elle vient. Quiz, défis et test de proximité.</p><span class="lien-fleche">Commencer à l'aveugle →</span></a>
