@@ -3,7 +3,7 @@
 # À lancer avant tout déploiement : un écart signale un fichier modifié en ligne ou un clone en retard.
 # Usage, depuis la racine du dépôt : bash scripts/comparer-en-ligne.sh [fichier relatif à site/ ...]
 set -uo pipefail
-cd "$(dirname "$0")/.."
+cd "$(git rev-parse --show-toplevel)"
 FICHIERS=("$@"); [ ${#FICHIERS[@]} -gt 0 ] || FICHIERS=(index.html js/accueil.js style.css sitemap.xml corpus.json test/index.html test/test.js test/donnees.json)
 ecarts=0
 for f in "${FICHIERS[@]}"; do
