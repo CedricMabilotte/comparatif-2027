@@ -77,7 +77,7 @@ function curseur(axe, e, i) {
 function pagePortrait(code) {
   const canon = `${URL_SITE}/test/p/${code}.html`;
   const titre = titrePortrait(code);
-  const desc = `Ma boussole d'idées sur les programmes 2027 : ${titre}. 16 dilemmes, 3 minutes, sans nom de parti avant la fin. Et vous ?`;
+  const desc = `Ma boussole d'idées face aux programmes 2027 : ${titre}. 16 dilemmes, 3 minutes, sans nom de parti avant la fin. Et vous ?`;
   return `<!doctype html>
 <html lang="fr">
 <head>
@@ -90,7 +90,7 @@ function pagePortrait(code) {
 <meta property="og:site_name" content="République des mots 2027">
 <meta property="og:locale" content="fr_FR">
 <meta property="og:title" content="Ma boussole d'idées : ${esc(titre)}">
-<meta property="og:description" content="16 dilemmes tirés des programmes 2027, 3 minutes, aucun nom de parti avant la fin. Et vous, où penchez-vous ?">
+<meta property="og:description" content="16 dilemmes tirés des textes officiels des partis, 3 minutes, aucun nom de parti avant la fin. Et vous, où penchez-vous ?">
 <meta property="og:url" content="${canon}">
 <meta property="og:image" content="${URL_SITE}/test/og/${code}.png">
 <meta property="og:image:width" content="1200">
@@ -98,7 +98,7 @@ function pagePortrait(code) {
 <meta property="og:image:alt" content="Boussole d'idées en quatre axes : ${esc(titre)}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Ma boussole d'idées : ${esc(titre)}">
-<meta name="twitter:description" content="16 dilemmes tirés des programmes 2027. Et vous ?">
+<meta name="twitter:description" content="16 dilemmes tirés des textes officiels des partis. Et vous ?">
 <meta name="twitter:image" content="${URL_SITE}/test/og/${code}.png">
 <link rel="stylesheet" href="../../polices.css">
 <link rel="stylesheet" href="../test.css">

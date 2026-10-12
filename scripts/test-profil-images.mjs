@@ -37,9 +37,9 @@ function carte(code) {
   }).join("");
   return base(`<style>
     .ls { display: grid; gap: 20px; margin-top: 34px; }
-    .l { display: grid; grid-template-columns: 1fr 380px; align-items: center; gap: 28px; }
-    .mot { font-family: "Bricolage Grotesque", sans-serif; font-weight: 700; font-size: 60px; line-height: 1; letter-spacing: -.01em; white-space: nowrap; }
-    .mot.nuance { font-size: 38px; font-weight: 600; }
+    .l { display: grid; grid-template-columns: 1fr 340px; align-items: center; gap: 28px; }
+    .mot { font-family: "Bricolage Grotesque", sans-serif; font-weight: 700; font-size: 50px; line-height: 1; letter-spacing: -.01em; white-space: nowrap; }
+    .mot.nuance { font-size: 36px; font-weight: 600; }
     .ax { display: grid; gap: 6px; }
     .nom { font-family: "JetBrains Mono", monospace; font-size: 15px; letter-spacing: .08em; text-transform: uppercase; color: #9ba3b6; }
     .piste { position: relative; height: 8px; border-radius: 99px; background: linear-gradient(90deg, color-mix(in srgb, var(--c) 60%, transparent), #2c3342 50%, color-mix(in srgb, var(--c) 60%, transparent)); }
@@ -59,7 +59,7 @@ function invitation() {
   </style>
   <div class="sur">Programmes 2027 · test en 3 minutes</div>
   <h1>Votre boussole <em>d'idées</em></h1>
-  <p class="acc">16 dilemmes tirés des programmes. Vous choisissez sans savoir qui défend quoi.</p>
+  <p class="acc">16 dilemmes tirés des textes des partis. Vous choisissez sans savoir qui défend quoi.</p>
   <div class="tags">${D.axes.map((a, i) => `<span style="color:${COULEURS[i]}">${esc(a.nom)}</span>`).join("")}</div>
   <div class="pied"><div class="site">republique.fr/test</div><div class="invite">Les partis ne sont révélés<br><b>qu'à la fin, citations à l'appui.</b></div></div>`);
 }

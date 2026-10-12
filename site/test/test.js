@@ -45,7 +45,7 @@
       let accord = 0, compares = 0;
       D.dilemmes.forEach((d, i) => { const pos = d.positions[p.id]; if (!pos || !"ab".includes(rep[i])) return; compares++; if (pos.choix === rep[i]) accord++; });
       return { p, accord, compares, taux: compares ? accord / compares : 0 };
-    }).sort((x, y) => (y.compares >= 4) - (x.compares >= 4) || y.taux - x.taux || y.compares - x.compares);
+    }).sort((x, y) => (y.compares >= 4) - (x.compares >= 4) || y.taux - x.taux);
   }
 
   // ---------- Écrans ----------
@@ -101,7 +101,7 @@
     const lecture = sc.filter((x) => x.etat !== "n").map((x) => x.axe[x.etat + "_long"]).join(" ")
       || "Aucun axe ne domine : sur chaque grande question, vos réponses se partagent entre les deux orientations.";
     const lienPortrait = `${URL_SITE}/test/p/${code}.html`;
-    const texte = `Ma boussole d'idées sur les programmes 2027 : ${titreTexte}. Et vous ? 16 dilemmes, 3 minutes, sans nom de parti avant la fin.`;
+    const texte = `Ma boussole d'idées face aux programmes 2027 : ${titreTexte}. Et vous ? 16 dilemmes, 3 minutes, sans nom de parti avant la fin.`;
     const u = encodeURIComponent(lienPortrait), t = encodeURIComponent(texte);
     const repondus = [...rep].filter((r) => r !== "0").length;
     document.title = `Ma boussole d'idées : ${titreTexte}`;

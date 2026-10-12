@@ -34,8 +34,8 @@ for (let i = 0; i < 16; i++) {
 }
 await page.waitForSelector(".resultat");
 ok((await page.evaluate(() => location.hash)) === "#r=aaa0aaaabbbbbbbb", "réponses gardées dans l'adresse");
-ok((await page.textContent(".resultat h1")).includes("Partage des richesses"), "portrait : partage des richesses");
-ok((await page.textContent(".resultat h1")).includes("Moins de normes"), "portrait : moins de normes");
+ok((await page.textContent(".resultat h1")).includes("Redistribution"), "portrait : redistribution");
+ok((await page.textContent(".resultat h1")).includes("Normes vertes allégées"), "portrait : normes vertes allégées");
 ok(!(await page.isVisible("#partis")), "partis cachés avant la révélation");
 ok(!(await page.textContent(".resultat h1")).match(/LFI|RN|Renaissance/), "aucun parti dans le portrait");
 await page.click("#reveler");
