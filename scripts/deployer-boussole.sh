@@ -15,7 +15,7 @@ lot=$(mktemp)
   echo "-mkdir $RACINE/test"
   echo "-mkdir $RACINE/test/p"
   echo "-mkdir $RACINE/test/og"
-  for f in index.html test.js test.css donnees.json; do echo "put site/test/$f $RACINE/test/$f"; done
+  for f in index.html etoile.js test.js test.css donnees.json; do echo "put site/test/$f $RACINE/test/$f"; done
   echo "put site/test/p/* $RACINE/test/p/"
   echo "put site/test/og/* $RACINE/test/og/"
   echo "put site/js/accueil.js $RACINE/js/accueil.js"
