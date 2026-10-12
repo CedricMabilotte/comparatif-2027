@@ -1,0 +1,232 @@
+{
+  "titre": "Votre boussole d'idées",
+  "accroche": "16 dilemmes tirés des programmes 2027. Trois minutes. Aucun nom de parti avant la fin.",
+  "version": "2026-10-12",
+  "note_methode": "Chaque dilemme oppose deux orientations défendues dans les documents officiels des huit forces politiques suivies par le site. Un parti n'est rattaché à une réponse que si une citation vérifiée de ses textes l'appuie ; sinon il est noté « ne se prononce pas dans les textes lus ». Les quatre axes et leurs libellés sont une lecture éditoriale : ils simplifient, ils ne mesurent pas une identité.",
+  "axes": [
+    { "id": "eco", "nom": "Économie", "n": "Entre-deux sur l'économie", "a": "Partage des richesses", "b": "Moins de prélèvements",
+      "a_long": "Vous penchez vers la redistribution : protéger les revenus, taxer davantage les gros patrimoines, partir plus tôt.",
+      "b_long": "Vous penchez vers l'allègement : moins de cotisations et d'impôts sur la transmission, travailler plus longtemps, inciter à l'emploi." },
+    { "id": "soc", "nom": "Justice et sécurité", "n": "Entre-deux sur la justice", "a": "Libertés d'abord", "b": "Autorité d'abord",
+      "a_long": "Vous penchez vers la prévention et les libertés : peines alternatives, justice éducative pour les mineurs, méfiance envers la surveillance.",
+      "b_long": "Vous penchez vers la sanction et l'autorité : peines plus sûres et plus rapides, mineurs jugés plus durement, outils de surveillance." },
+    { "id": "nat", "nom": "Frontières et Europe", "n": "Entre-deux sur les frontières", "a": "Ouverture", "b": "Souveraineté",
+      "a_long": "Vous penchez vers l'ouverture : droit du sol, régularisation des travailleurs, regroupement familial, défense européenne commune.",
+      "b_long": "Vous penchez vers la souveraineté : nationalité par la filiation, moins de titres et de régularisations, compétences gardées à la nation." },
+    { "id": "eco2", "nom": "Écologie", "n": "Entre-deux sur l'écologie", "a": "Exigence écologique", "b": "Moins de normes",
+      "a_long": "Vous penchez vers l'exigence : accélérer les renouvelables, réduire les pesticides, protéger les sols, interdire la location des passoires.",
+      "b_long": "Vous penchez vers l'allègement des normes : freiner éolien et solaire, autoriser au cas par cas, laisser construire et louer." }
+  ],
+  "dilemmes": [
+    {
+      "id": "retraite", "axe": "eco", "notion": "age-legal-de-depart",
+      "question": "La retraite",
+      "a": "Revenir à 62 ans, voire 60 ans.",
+      "b": "Garder 64 ans, aller vers 65, ou raisonner en durée de cotisation.",
+      "positions": {
+        "ecologistes": { "choix": "a", "appuis": ["pbde9b10d"] },
+        "lfi": { "choix": "a", "appuis": ["p6c6b4a39", "pa38ec343"] },
+        "ps-pp": { "choix": "a", "appuis": ["p45386d87", "p96afe6ea"] },
+        "rn": { "choix": "a", "appuis": ["pf0122122", "p14f2f85a"] },
+        "lr": { "choix": "b", "appuis": ["p5acb8849"] },
+        "renaissance": { "choix": "b", "appuis": ["p4a8a715d"] }
+      }
+    },
+    {
+      "id": "heritage", "axe": "eco", "notion": "droits-de-succession",
+      "question": "L'héritage",
+      "a": "Taxer davantage les très gros héritages.",
+      "b": "Alléger les droits de succession pour la plupart des familles.",
+      "positions": {
+        "ecologistes": { "choix": "a", "appuis": ["pe0f0c717"] },
+        "lfi": { "choix": "a", "appuis": ["p521316e1"] },
+        "ps-pp": { "choix": "a", "appuis": ["pbf8bd6f9"] },
+        "renaissance": { "choix": "b", "appuis": ["p62bdc651"] },
+        "lr": { "choix": "b", "appuis": ["pf6f66ef0"] },
+        "reconquete": { "choix": "b", "appuis": ["p8819b77c"] },
+        "rn": { "choix": "b", "appuis": ["pf705fd83", "p1b65956c"] }
+      }
+    },
+    {
+      "id": "salaires", "axe": "eco", "notion": "smic",
+      "question": "Pour augmenter les salaires, la priorité",
+      "a": "Augmenter nettement le SMIC.",
+      "b": "Baisser les cotisations pour que le salaire net monte.",
+      "positions": {
+        "ecologistes": { "choix": "a", "appuis": ["p31bc8dde"] },
+        "lfi": { "choix": "a", "appuis": ["p2cf37527"] },
+        "ps-pp": { "choix": "a", "appuis": ["p42725c66"] },
+        "rn": { "choix": "b", "appuis": ["pa0ea4c9c"] },
+        "renaissance": { "choix": "b", "appuis": ["pdc367e93"] }
+      }
+    },
+    {
+      "id": "chomage", "axe": "eco", "notion": "assurance-chomage",
+      "question": "L'assurance chômage",
+      "a": "Annuler les dernières réformes qui ont réduit les droits.",
+      "b": "Durcir les règles pour inciter à reprendre un emploi.",
+      "positions": {
+        "ecologistes": { "choix": "a", "appuis": ["pf8ed9503"] },
+        "lfi": { "choix": "a", "appuis": ["pa38ec343"] },
+        "ps-pp": { "choix": "a", "appuis": ["pcadb78d7"] },
+        "rn": { "choix": "a", "appuis": ["pf250ed3b"] },
+        "lr": { "choix": "b", "appuis": ["pb344284f", "p37b5774d"] },
+        "renaissance": { "choix": "b", "appuis": ["p2adf8f31"] }
+      }
+    },
+    {
+      "id": "mineurs", "axe": "soc", "notion": "justice-penale-des-mineurs",
+      "question": "Les mineurs délinquants",
+      "a": "Garder une justice à part, centrée sur l'éducatif.",
+      "b": "Les juger plus durement : majorité pénale à 16 ans, comparution immédiate.",
+      "positions": {
+        "ecologistes": { "choix": "a", "appuis": ["p96e6fdb5", "p6246d03a"] },
+        "lr": { "choix": "b", "appuis": ["p07bc5f3e"] },
+        "rn": { "choix": "b", "appuis": ["pb4223c5f", "p814df39f"] },
+        "horizons": { "choix": "b", "appuis": ["pb1abb588"], "nuance": "pour les faits liés au narcotrafic" },
+        "reconquete": { "choix": "b", "appuis": ["p7540dfe3"] }
+      }
+    },
+    {
+      "id": "peines", "axe": "soc", "notion": "peines-alternatives",
+      "question": "Les peines",
+      "a": "Développer les peines alternatives à la prison : probation, travaux d'intérêt général.",
+      "b": "Peines planchers et fin des aménagements de peine.",
+      "positions": {
+        "ecologistes": { "choix": "a", "appuis": ["p69e29b98"] },
+        "lfi": { "choix": "a", "appuis": ["p7a6e2773"] },
+        "ps-pp": { "choix": "a", "appuis": ["pe0e84485"] },
+        "lr": { "choix": "b", "appuis": ["p10fcf4ad"] },
+        "rn": { "choix": "b", "appuis": ["pb66f6490", "p3ca035ff"] },
+        "reconquete": { "choix": "b", "appuis": ["p12ad9157", "p52852ed7"] }
+      }
+    },
+    {
+      "id": "drogues", "axe": "soc", "notion": "depenalisation-de-l-usage",
+      "question": "Le cannabis et les drogues",
+      "a": "Légaliser le cannabis ou dépénaliser l'usage, et miser sur la prévention.",
+      "b": "Durcir la répression de la consommation.",
+      "positions": {
+        "ecologistes": { "choix": "a", "appuis": ["pbc9894d4", "pe479de7d"] },
+        "lfi": { "choix": "a", "appuis": ["p541a2adc"] },
+        "rn": { "choix": "b", "appuis": ["pa9949cd2"] },
+        "horizons": { "choix": "b", "appuis": ["p08ddff45"] }
+      }
+    },
+    {
+      "id": "surveillance", "axe": "soc", "notion": "reconnaissance-faciale",
+      "question": "La reconnaissance faciale",
+      "a": "L'interdire.",
+      "b": "L'autoriser pour certaines missions de sécurité, dans un cadre légal.",
+      "positions": {
+        "ecologistes": { "choix": "a", "appuis": ["pa7e84547"] },
+        "lfi": { "choix": "a", "appuis": ["p92937f5f"] },
+        "horizons": { "choix": "b", "appuis": ["pf3dda90b"], "nuance": "comme moyen d'exception contre le narcotrafic" },
+        "lr": { "choix": "b", "appuis": ["pa611ce4e", "p68e4f1ef"], "nuance": "vision par ordinateur autorisée, reconnaissance faciale en temps réel de masse interdite" }
+      }
+    },
+    {
+      "id": "droit-du-sol", "axe": "nat", "notion": "droit-du-sol",
+      "question": "Un enfant né en France de parents étrangers",
+      "a": "Garder le droit du sol : il peut devenir français.",
+      "b": "Supprimer le droit du sol automatique : la nationalité passe par la filiation ou la naturalisation.",
+      "positions": {
+        "ecologistes": { "choix": "a", "appuis": ["pa853e755"] },
+        "lfi": { "choix": "a", "appuis": ["p29c1161f"] },
+        "lr": { "choix": "b", "appuis": ["p61d09132", "p56dc25b2"] },
+        "reconquete": { "choix": "b", "appuis": ["p23c982bd"] },
+        "rn": { "choix": "b", "appuis": ["pb95ced2e", "pa242690b"] }
+      }
+    },
+    {
+      "id": "regularisation", "axe": "nat", "notion": "regularisation",
+      "question": "Les travailleurs sans papiers",
+      "a": "Régulariser ceux qui travaillent, étudient ou ont des enfants scolarisés.",
+      "b": "Suspendre ou interdire les régularisations.",
+      "positions": {
+        "ecologistes": { "choix": "a", "appuis": ["pa4b26b39"] },
+        "lfi": { "choix": "a", "appuis": ["p329c53f9"] },
+        "ps-pp": { "choix": "a", "appuis": ["p46363aaf"] },
+        "reconquete": { "choix": "b", "appuis": ["p7d5bce98"] },
+        "rn": { "choix": "b", "appuis": ["p5f191cc4"] }
+      }
+    },
+    {
+      "id": "regroupement", "axe": "nat", "notion": "regroupement-familial",
+      "question": "Le regroupement familial",
+      "a": "Le rendre effectif et plus simple.",
+      "b": "Le restreindre fortement, voire le supprimer.",
+      "positions": {
+        "ecologistes": { "choix": "a", "appuis": ["p1226095a"] },
+        "lr": { "choix": "b", "appuis": ["p6d0719b5"] },
+        "reconquete": { "choix": "b", "appuis": ["pf64db320"] },
+        "renaissance": { "choix": "b", "appuis": ["p3ca245dc"] },
+        "rn": { "choix": "b", "appuis": ["p59f51c6d", "p937e2975"] }
+      }
+    },
+    {
+      "id": "defense", "axe": "nat", "notion": "defense-europeenne",
+      "question": "La défense",
+      "a": "Bâtir une vraie défense européenne commune.",
+      "b": "Refuser tout transfert de compétences de défense à l'Union européenne.",
+      "positions": {
+        "ecologistes": { "choix": "a", "appuis": ["p466c8f18"] },
+        "ps-pp": { "choix": "a", "appuis": ["p354782ce", "p37bc7877"] },
+        "renaissance": { "choix": "a", "appuis": ["p9ad6122f"] },
+        "lr": { "choix": "a", "appuis": ["pb2cf8d4a"] },
+        "rn": { "choix": "b", "appuis": ["pa3b703be"] }
+      }
+    },
+    {
+      "id": "eolien", "axe": "eco2", "notion": "moratoire-eolien-solaire",
+      "question": "L'éolien et le solaire",
+      "a": "Les développer massivement.",
+      "b": "Stopper les nouveaux projets, voire démanteler.",
+      "positions": {
+        "ecologistes": { "choix": "a", "appuis": ["p3ba11f9a"] },
+        "ps-pp": { "choix": "a", "appuis": ["pfdef81cc"] },
+        "lfi": { "choix": "a", "appuis": ["p6683ec75"] },
+        "renaissance": { "choix": "a", "appuis": ["p780e0b79"] },
+        "lr": { "choix": "b", "appuis": ["p51af7ed1", "pc5e0c0b2"] },
+        "reconquete": { "choix": "b", "appuis": ["p3de79e64"] },
+        "rn": { "choix": "b", "appuis": ["p3d15347f"] }
+      }
+    },
+    {
+      "id": "pesticides", "axe": "eco2", "notion": "ecophyto",
+      "question": "Les pesticides",
+      "a": "Les réduire fortement, avec un objectif de sortie.",
+      "b": "Ne plus interdire sans solution de remplacement : autoriser au cas par cas.",
+      "positions": {
+        "ecologistes": { "choix": "a", "appuis": ["pe09943c4", "p4e2d1813"] },
+        "lfi": { "choix": "a", "appuis": ["p0f5e60ee", "p52790987"] },
+        "lr": { "choix": "b", "appuis": ["p1c6e4655"] },
+        "rn": { "choix": "b", "appuis": ["p477cea2d"] }
+      }
+    },
+    {
+      "id": "sols", "axe": "eco2", "notion": "zan",
+      "question": "Les terres et le béton",
+      "a": "Tenir l'objectif « zéro artificialisation nette » des sols.",
+      "b": "Abroger cet objectif qui empêche de construire.",
+      "positions": {
+        "ecologistes": { "choix": "a", "appuis": ["p70493ca8", "p5dd314e5"] },
+        "lfi": { "choix": "a", "appuis": ["p52790987"] },
+        "ps-pp": { "choix": "a", "appuis": ["p0300553a"] },
+        "lr": { "choix": "b", "appuis": ["pb096ac04"] }
+      }
+    },
+    {
+      "id": "passoires", "axe": "eco2", "notion": "renovation-energetique",
+      "question": "Les logements mal isolés",
+      "a": "Maintenir l'interdiction de louer les passoires thermiques.",
+      "b": "Ne plus interdire la location à cause du diagnostic énergétique.",
+      "positions": {
+        "ecologistes": { "choix": "a", "appuis": ["p8a27c368"] },
+        "lfi": { "choix": "a", "appuis": ["p99706b53"] },
+        "lr": { "choix": "b", "appuis": ["pf8d1bac1"] },
+        "rn": { "choix": "b", "appuis": ["p3962f269"] }
+      }
+    }
+  ]
+}

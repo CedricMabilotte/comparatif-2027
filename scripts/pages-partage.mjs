@@ -146,7 +146,7 @@ for (const [dossier, liste, faire] of [["c", C.notions, pageConcept], ["t", C.vo
   bilan[dossier] = { pages: liste.length, ecrits, supprimes };
 }
 
-const urls = [`${URL_SITE}/`, ...C.notions.map((n) => `${URL_SITE}/c/${n.id}.html`), ...C.vocabulaire.map((v) => `${URL_SITE}/t/${v.id}.html`)];
+const urls = [`${URL_SITE}/`, `${URL_SITE}/test/`, ...C.notions.map((n) => `${URL_SITE}/c/${n.id}.html`), ...C.vocabulaire.map((v) => `${URL_SITE}/t/${v.id}.html`)];
 ecrire(path.join(SITE, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map((u) => `<url><loc>${u}</loc><lastmod>${DATE}</lastmod></url>`).join("\n")}\n</urlset>\n`);
 ecrire(path.join(SITE, "robots.txt"), `# République des mots 2027 : tout est public, sauf l'interface de participation.\nUser-agent: *\nAllow: /\nDisallow: /api/\n\nSitemap: ${URL_SITE}/sitemap.xml\n`);
 console.log(`Concepts : ${bilan.c.pages} pages (${bilan.c.ecrits} écrites, ${bilan.c.supprimes} supprimées) · Termes : ${bilan.t.pages} pages (${bilan.t.ecrits} écrites, ${bilan.t.supprimes} supprimées) · sitemap : ${urls.length} adresses`);

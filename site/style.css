@@ -226,6 +226,10 @@ a { color: var(--accent); }
 .heros .chapo { font-size: clamp(17px, 2vw, 19px); max-width: 60ch; margin: 0; color: var(--encre-douce); }
 .chiffres { display: flex; flex-wrap: wrap; gap: 8px 22px; font-family: var(--f-ref); font-size: 12.5px; color: var(--encre-douce); }
 .chiffres b { color: var(--encre); font-weight: 500; font-size: 15px; }
+.encart-boussole { display: grid; gap: 4px; padding: 18px 20px; border-radius: var(--rayon); background: #12151c; color: #e7e9ef; text-decoration: none; border-top: 6px solid; border-image: linear-gradient(90deg, #4fc4cc 25%, #f0985f 25% 50%, #b896f5 50% 75%, #b6c76a 75%) 1; }
+.encart-boussole strong { font-family: var(--f-titre); font-size: 24px; }
+.encart-boussole .surtitre-boussole { font-family: var(--f-ref); font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; color: #9ba3b6; }
+.encart-boussole .lien-fleche { color: #8c9bff; font-family: var(--f-titre); font-weight: 600; }
 .portes { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; }
 .porte { display: grid; gap: 8px; align-content: start; padding: 20px; border-radius: var(--rayon); background: var(--surface); border: 1px solid var(--filet); box-shadow: var(--ombre); color: var(--encre); text-decoration: none; transition: transform .15s, border-color .15s; }
 .porte:hover { border-color: var(--accent); transform: translateY(-2px); }
