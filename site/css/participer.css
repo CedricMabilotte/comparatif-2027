@@ -1,0 +1,73 @@
+/* Styles de la rubrique participer : échelle d'engagement, formulaires encadrés, journal, modération */
+
+/* Champ piège pour les robots : hors de l'écran, ignoré des lecteurs d'écran et du clavier */
+.piege { position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden; }
+
+.formulaire { display: grid; gap: 8px; min-width: 0; }
+.formulaire p { margin: 0; }
+.formulaire .btn { justify-self: start; }
+.formulaire textarea.champ { width: 100%; resize: vertical; min-height: 4.5em; }
+.champ.court { max-width: 320px; }
+.compte-car { justify-self: end; margin-top: -4px; }
+.natures { border: 0; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; min-width: 0; }
+.natures legend { padding: 0; margin-bottom: 6px; }
+.vie-privee-rappel { margin: 0; }
+
+/* L'échelle : un sommaire cliquable, puis une carte par marche */
+.echelle-sommaire { display: flex; flex-wrap: wrap; gap: 6px; counter-reset: marche; }
+.echelle-sommaire a { display: inline-flex; align-items: center; gap: 6px; padding: 5px 10px 5px 5px; border: 1px solid var(--filet); border-radius: 999px; background: var(--surface); color: var(--encre); text-decoration: none; font-family: var(--f-titre); font-size: 13.5px; }
+.echelle-sommaire a:hover, .echelle-sommaire a:focus-visible { border-color: var(--accent); }
+.echelle-sommaire small { font-family: var(--f-ref); font-size: 10.5px; color: var(--encre-douce); }
+.marche-n { display: inline-grid; place-items: center; width: 22px; height: 22px; border-radius: 50%; background: var(--accent-doux); color: var(--accent); font-family: var(--f-titre); font-size: 12px; font-weight: 600; flex: none; }
+.echelle { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); gap: 16px; align-items: start; }
+.marche { scroll-margin-top: calc(var(--haut-bandeau) + 16px); }
+.marche-tete { display: flex; align-items: center; gap: 8px; margin: 0; }
+.marche h3 { font-size: 18px; }
+.marche-quoi { margin: 0; }
+.marche-dl { display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; margin: 0; font-size: 15px; }
+.marche-dl dt { font-family: var(--f-titre); font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--encre-douce); padding-top: 3px; }
+.marche-dl dd { margin: 0; }
+.marche-comment { border-top: 1px solid var(--filet); padding-top: 12px; display: grid; gap: 10px; min-width: 0; }
+.marche-comment p { margin: 0; }
+.marche-comment textarea { font-family: var(--f-ref); font-size: 12px; }
+.cercles li { gap: 6px; }
+.cercles .choix { align-items: center; }
+.cercles .btn[aria-pressed="true"] { background: var(--accent-doux); border-color: var(--accent); color: var(--accent); }
+#proposes { scroll-margin-top: calc(var(--haut-bandeau) + 16px); }
+.proposes .etat { margin-left: 6px; }
+
+/* Signaler une erreur : le formulaire s'ouvre sous les actions de la fiche */
+.signaler { margin-top: 4px; border-color: var(--accent); }
+.signaler-lien { color: var(--encre-douce); }
+
+/* Une question par concept */
+.question h3 { font-size: 17px; }
+.question .aide { margin: 0; }
+.reponses-liste { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.reponses-liste li { border-left: 2px solid var(--filet); padding-left: 12px; display: grid; gap: 2px; }
+.reponses-liste p { margin: 0; overflow-wrap: anywhere; }
+.reponse-mod { margin-top: 4px !important; padding: 6px 10px; border-radius: 6px; background: var(--accent-doux); font-size: 15px; }
+
+/* Journal des corrections et file de modération */
+.journal { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; max-width: 80ch; }
+.journal p, .mod-item p { margin: 0; overflow-wrap: anywhere; }
+.journal-tete { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; font-family: var(--f-ref); font-size: 12px; color: var(--encre-douce); }
+.mod-compteur { margin: 0; font-family: var(--f-titre); }
+.mod-file { display: grid; gap: 12px; max-width: 90ch; }
+.mod-texte { white-space: pre-wrap; padding: 8px 10px; border-radius: 6px; background: var(--papier); border: 1px solid var(--filet); }
+.mod-traites .docs { margin-top: 10px; }
+.puce[aria-pressed] { font: inherit; font-family: var(--f-titre); font-size: 13.5px; }
+
+@media (max-width: 640px) {
+  .marche-dl { grid-template-columns: 1fr; gap: 0; }
+  .marche-dl dd { margin-bottom: 6px; }
+  .echelle-sommaire a { font-size: 13px; }
+}
+
+/* Mon espace */
+.espace { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 1fr)); }
+.espace-liste li { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.espace-deux { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr)); }
+.espace-mod { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; background: var(--fond-doux, #eef0fb); padding: 10px; border-radius: 10px; margin: 0; }
+.espace label.btn { cursor: pointer; }
+.btn.danger { color: #b3261e; border-color: #e3b5b1; }

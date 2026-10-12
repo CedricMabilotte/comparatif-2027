@@ -1,0 +1,2525 @@
+[
+ {
+  "id": "parcoursup",
+  "nom": "Parcoursup",
+  "variantes": [
+   "plateforme Parcoursup",
+   "MonMaster"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "Parcoursup est la plateforme nationale d’admission dans les formations de premier cycle de l’enseignement supérieur. Les lycéens y formulent des vœux, que chaque formation examine selon ses propres critères avant de proposer une admission, un « oui si » assorti d’un accompagnement, une mise en liste d’attente ou un refus pour les filières sélectives. Elle a remplacé en 2018 le système Admission post-bac (APB), critiqué pour son recours au tirage au sort dans les filières en tension. La plateforme MonMaster joue un rôle comparable pour l’entrée en master depuis 2023.",
+  "enjeux": "Ses opposants lui reprochent l’opacité des algorithmes locaux de classement, le stress imposé aux élèves et une sélection de fait à l’entrée de l’université. Ses défenseurs y voient un outil qui a mis fin au tirage au sort et qui oriente les candidats selon leurs chances de réussite. Le débat porte aussi sur ce qui devrait la remplacer : une simple plateforme d’orientation, un outil de sélection assumé ou une version plus prévisible.",
+  "reperes": [
+   "Loi relative à l’orientation et à la réussite des étudiants (dite loi ORE) du 8 mars 2018",
+   "Remplace la plateforme APB, en service de 2009 à 2017"
+  ],
+  "liens": [
+   "selection-a-l-universite",
+   "orientation-scolaire",
+   "autonomie-des-universites"
+  ],
+  "motifs": [
+   "Parcoursup",
+   "MonMaster"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de remplacer Parcoursup et MonMaster par « une vraie plateforme d’orientation » et de créer 100 000 places à l’université.",
+    "appuis": [
+     "pb66cfb3a",
+     "pb13e7af1"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’abolir Parcoursup et la sélection dans l’université publique.",
+    "appuis": [
+     "p2e398ef1"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose un « Parcoursup refondé en outil d’information et de sélection », qui intègre les résultats du baccalauréat et permet aux universités de choisir leurs étudiants.",
+    "appuis": [
+     "p6a8e8f37",
+     "p868b2e78"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de repenser Parcoursup par une concertation, et dans un autre texte de le supprimer au profit d’une orientation personnalisée.",
+    "appuis": [
+     "p73d09ae1",
+     "p68c6638d"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de rendre Parcoursup plus prévisible en publiant les résultats précis des années précédentes et en accompagnant mieux les familles.",
+    "appuis": [
+     "pf30ce908"
+    ]
+   }
+  }
+ },
+ {
+  "id": "selection-a-l-universite",
+  "nom": "Sélection à l’entrée de l’université",
+  "variantes": [
+   "sélection",
+   "régulation des filières",
+   "démassification"
+  ],
+  "categorie": "notion juridique",
+  "theme": "education",
+  "definition": "En France, le baccalauréat ouvre en principe l’accès à une licence universitaire, sans concours ni examen d’entrée, alors que les classes préparatoires, les BTS, les BUT ou les écoles sélectionnent leurs élèves. Depuis 2018, les universités peuvent toutefois classer les candidats dans les filières où les demandes dépassent les capacités d’accueil, et l’entrée en master est sélective depuis une loi de 2016. La question de la sélection recouvre donc à la fois le droit d’accès aux études supérieures et la régulation des effectifs par filière.",
+  "enjeux": "Les partisans d’une sélection assumée invoquent le taux d’échec en première année et l’adéquation entre formations et emplois. Ses opposants défendent un droit aux études supérieures pour tout bachelier et demandent plutôt des places supplémentaires. Une position intermédiaire consiste à orienter plutôt qu’à sélectionner, en ouvrant des places dans les filières professionnalisantes.",
+  "reperes": [
+   "Loi du 23 décembre 2016 sur la sélection en master",
+   "Loi ORE du 8 mars 2018"
+  ],
+  "liens": [
+   "parcoursup",
+   "autonomie-des-universites",
+   "classes-preparatoires"
+  ],
+  "motifs": [
+   "sélection dans l'université",
+   "choisir leurs étudiants",
+   "démassifier",
+   "réguler les filières"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de « réhabiliter le droit à des études supérieures » et de créer 100 000 places dans les universités.",
+    "appuis": [
+     "pb66cfb3a",
+     "pb13e7af1"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’abolir la sélection dans l’université publique et de rendre gratuit l’enseignement supérieur.",
+    "appuis": [
+     "p2e398ef1",
+     "p522c0164"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose d’autoriser les universités à choisir leurs étudiants « au mérite », selon des critères transparents et leurs capacités d’accueil.",
+    "appuis": [
+     "p6a8e8f37"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’« ouvrir l’accès à l’enseignement supérieur » en supprimant Parcoursup et en généralisant l’alternance.",
+    "appuis": [
+     "p68c6638d"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de « démassifier l’enseignement supérieur », de réduire la durée initiale des études et de réguler les filières qui mènent peu à l’emploi.",
+    "appuis": [
+     "p8ffe43c0",
+     "pdb5be1f4"
+    ]
+   }
+  }
+ },
+ {
+  "id": "carte-scolaire",
+  "nom": "Carte scolaire",
+  "variantes": [
+   "sectorisation",
+   "secteur scolaire"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "La carte scolaire désigne la règle qui affecte chaque élève de l’école publique dans un établissement selon son lieu de domicile. Pour les écoles, la commune définit les secteurs ; pour les collèges, c’est le département, l’affectation dans les lycées relevant de l’État. Des dérogations sont possibles pour des motifs listés, et les établissements privés sous contrat n’y sont pas soumis. Instituée au début des années 1960, elle a été assouplie en 2007.",
+  "enjeux": "Ses défenseurs y voient un instrument de mixité sociale, à condition de redessiner les secteurs et d’y inclure le privé. Ses critiques soulignent qu’elle reproduit la ségrégation résidentielle et qu’elle est contournée par les familles qui en ont les moyens, par le déménagement, les options ou le privé. D’autres plaident pour la liberté de choix des familles.",
+  "reperes": [
+   "Assouplissement de la carte scolaire en 2007",
+   "Secteurs des collèges fixés par les conseils départementaux"
+  ],
+  "liens": [
+   "mixite-sociale-a-l-ecole",
+   "enseignement-prive-sous-contrat",
+   "education-prioritaire"
+  ],
+  "motifs": [
+   "carte scolaire"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose « une nouvelle carte scolaire établissant la mixité sociale ».",
+    "appuis": [
+     "p2051ca5e"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit une carte scolaire du primaire pluriannuelle, négociée et contractualisée avec les communes.",
+    "appuis": [
+     "pcdd9bc40"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’intégrer les établissements privés sous contrat à la carte scolaire pour renforcer la mixité sociale.",
+    "appuis": [
+     "pc8976f6b"
+    ]
+   }
+  }
+ },
+ {
+  "id": "mixite-sociale-a-l-ecole",
+  "nom": "Mixité sociale à l’école",
+  "variantes": [
+   "mixité scolaire",
+   "indice de position sociale"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "La mixité sociale à l’école désigne le fait que des élèves de milieux sociaux différents fréquentent les mêmes établissements et les mêmes classes. Elle est mesurée notamment par l’indice de position sociale (IPS) des élèves, que le ministère de l’Éducation nationale publie par établissement depuis 2022. Les écarts sont importants entre établissements publics et privés sous contrat, ainsi qu’entre établissements d’un même territoire. Les leviers discutés sont la carte scolaire, les dotations, l’affectation et les obligations faites au privé.",
+  "enjeux": "Pour ses partisans, la mixité améliore les résultats des élèves défavorisés sans nuire aux autres et constitue une condition de la cohésion nationale ; ils proposent de moduler les moyens selon des objectifs de mixité. D’autres courants privilégient la liberté de choix des familles, l’excellence dans chaque territoire ou des dispositifs ciblés pour les élèves méritants plutôt que des contraintes d’affectation.",
+  "reperes": [
+   "Publication des indices de position sociale des établissements depuis 2022"
+  ],
+  "liens": [
+   "carte-scolaire",
+   "enseignement-prive-sous-contrat",
+   "education-prioritaire",
+   "discrimination-positive"
+  ],
+  "motifs": [
+   "mixité sociale"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de moduler les dotations des établissements et les forfaits communaux selon des critères de mixité sociale, et de conditionner le financement public du privé à des obligations de mixité.",
+    "appuis": [
+     "p70428b91",
+     "p7636817e"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de moduler les dotations des établissements, « y compris privés », selon des objectifs de mixité sociale.",
+    "appuis": [
+     "pdc6adf0f",
+     "p2051ca5e"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’intégrer le privé sous contrat à la carte scolaire pour « renforcer la mixité sociale ».",
+    "appuis": [
+     "pc8976f6b"
+    ]
+   }
+  }
+ },
+ {
+  "id": "enseignement-prive-sous-contrat",
+  "nom": "Enseignement privé sous contrat",
+  "variantes": [
+   "contrat d’association",
+   "loi Debré",
+   "règle des 80-20",
+   "école libre",
+   "privé sous contrat",
+   "établissements confessionnels"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "education",
+  "definition": "Les établissements privés sous contrat d’association avec l’État suivent les programmes nationaux, et leurs enseignants sont rémunérés par l’État ; les collectivités participent à leurs frais de fonctionnement par un forfait. En contrepartie, ils doivent accueillir tous les élèves sans distinction, tout en conservant leur « caractère propre », souvent confessionnel. Ce régime découle de la loi Debré de 1959. Une règle non écrite, dite des « 80-20 », limite depuis plusieurs décennies la part des moyens publics attribués au privé à environ un cinquième. Environ un élève sur six y est scolarisé. Ce financement est une exception assumée au principe, posé par la loi de 1905, selon lequel la République ne subventionne aucun culte.",
+  "enjeux": "Ses critiques soulignent que le privé sous contrat accueille une population plus favorisée tout en étant largement financé par l’argent public, et demandent des contreparties en matière de mixité et de contrôle. Ses défenseurs invoquent la liberté d’enseignement, valeur constitutionnelle, et la demande des familles, et souhaitent lever la limitation de ses moyens.",
+  "reperes": [
+   "Loi Debré du 31 décembre 1959",
+   "Liberté de l’enseignement reconnue comme principe à valeur constitutionnelle en 1977"
+  ],
+  "liens": [
+   "mixite-sociale-a-l-ecole",
+   "carte-scolaire",
+   "instruction-en-famille",
+   "enseignement-superieur-prive",
+   "laicite"
+  ],
+  "motifs": [
+   "enseignement privé",
+   "établissements privés",
+   "privé sous contrat",
+   "loi Debré",
+   "80-20",
+   "établissements confessionnels",
+   "édifices religieux"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de réviser la loi Debré pour ramener à 50 % la part de financement public du privé, de la conditionner à la mixité sociale, d’imposer une inspection pédagogique tous les cinq ans et de créer une autorité de contrôle des holdings de l’enseignement privé.",
+    "appuis": [
+     "p7636817e",
+     "p39b72bcd",
+     "p173f5a5b",
+     "p22249c47",
+     "pcaf461ee"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de moduler les dotations des établissements, « y compris privés », selon leur respect d’objectifs de mixité sociale, et refuse tout financement public pour la construction de nouveaux édifices religieux ou d’établissements confessionnels.",
+    "appuis": [
+     "pdc6adf0f",
+     "pc14ef9b9"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de supprimer la règle « non écrite » des « 80-20 » et de soumettre public et privé sous contrat à une même instance d’évaluation.",
+    "appuis": [
+     "pe66b78ed",
+     "pb801d0eb"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’intégrer les établissements privés sous contrat à la carte scolaire.",
+    "appuis": [
+     "pc8976f6b"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de « renforcer la liberté d’enseignement », notamment l’enseignement en famille.",
+    "appuis": [
+     "pfb6e6226"
+    ]
+   }
+  },
+  "autres_themes": [
+   "institutions"
+  ]
+ },
+ {
+  "id": "choc-des-savoirs",
+  "nom": "Choc des savoirs",
+  "variantes": [
+   "groupes de niveau",
+   "groupes de besoins"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "education",
+  "definition": "Le « choc des savoirs » est un ensemble de mesures annoncé fin 2023 par Gabriel Attal, alors ministre de l’Éducation nationale. Sa mesure la plus discutée organise, en sixième et en cinquième, l’enseignement du français et des mathématiques en groupes constitués selon le niveau des élèves, appelés ensuite « groupes de besoins ». Il comprend aussi de nouveaux programmes et manuels labellisés au primaire et un renforcement du rôle du brevet. Sa mise en œuvre a été progressive et en partie assouplie.",
+  "enjeux": "Ses partisans y voient une réponse à la baisse du niveau mesurée par les évaluations internationales et un moyen de mieux faire progresser chaque élève. Ses opposants, dont une partie des syndicats enseignants, dénoncent un tri précoce des élèves contraire au collège unique, et des moyens insuffisants pour constituer les groupes.",
+  "reperes": [
+   "Annoncé en décembre 2023",
+   "Groupes en français et mathématiques en sixième et cinquième à partir de la rentrée 2024"
+  ],
+  "liens": [
+   "college-unique",
+   "savoirs-fondamentaux",
+   "brevet"
+  ],
+  "motifs": [
+   "choc des savoirs",
+   "groupes de niveau",
+   "groupes de niveaux",
+   "classes de niveaux"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’abroger le « choc des savoirs » et ses groupes de niveaux en sixième et cinquième.",
+    "appuis": [
+     "pa740add9"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’abroger le « choc des savoirs » pour redonner à l’école publique « son objectif d’émancipation ».",
+    "appuis": [
+     "p8a5d078d"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose un examen d’entrée en sixième qui détermine l’affectation des élèves dans des groupes de niveau.",
+    "appuis": [
+     "p55d115ad"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose d’instituer des classes de niveaux à la place du collège unique, avec des passerelles.",
+    "appuis": [
+     "pca4ed20d"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit de rétablir les mesures du « Choc des savoirs », lancé par le candidat lorsqu’il était ministre.",
+    "appuis": [
+     "pb0d592b4"
+    ]
+   }
+  }
+ },
+ {
+  "id": "college-unique",
+  "nom": "Collège unique",
+  "variantes": [
+   "tronc commun",
+   "collège pour tous"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "Le collège unique désigne l’organisation qui scolarise tous les élèves, de la sixième à la troisième, dans un même type d’établissement et selon des programmes communs. Il a été instauré par la réforme Haby de 1975, qui a supprimé les filières séparées du premier cycle du secondaire. L’orientation vers les voies générale, technologique ou professionnelle intervient ainsi à la fin de la troisième.",
+  "enjeux": "Ses défenseurs y voient une condition de l’égalité des chances et un rempart contre une orientation précoce socialement marquée. Ses critiques jugent qu’il ne permet pas de répondre à l’hétérogénéité des élèves et proposent des classes de niveaux ou une orientation professionnelle plus tôt, parfois dès la quatrième.",
+  "reperes": [
+   "Loi Haby du 11 juillet 1975"
+  ],
+  "liens": [
+   "choc-des-savoirs",
+   "voie-professionnelle",
+   "apprentissage",
+   "brevet"
+  ],
+  "motifs": [
+   "collège unique",
+   "collège uniforme"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme prévoit de mettre fin au collège unique, « devenu un collège uniforme », et d’ouvrir l’apprentissage dès la quatrième.",
+    "appuis": [
+     "pe1057088",
+     "p39f79d7a"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de « mettre un terme au collège unique » par des classes de niveaux et une voie préprofessionnelle.",
+    "appuis": [
+     "pca4ed20d"
+    ]
+   }
+  }
+ },
+ {
+  "id": "education-prioritaire",
+  "nom": "Éducation prioritaire",
+  "variantes": [
+   "REP",
+   "REP+",
+   "ZEP",
+   "zones prioritaires"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "L’éducation prioritaire consiste à donner davantage de moyens aux écoles et collèges qui scolarisent une forte proportion d’élèves de milieux défavorisés. Créée en 1981 sous la forme des zones d’éducation prioritaire (ZEP), elle est organisée depuis 2015 en réseaux d’éducation prioritaire (REP et REP+), chacun associant un collège et les écoles de son secteur. Elle se traduit par des classes moins chargées, dont les classes de CP et CE1 dédoublées depuis 2017, des primes pour les personnels et du temps de concertation.",
+  "enjeux": "Ses défenseurs souhaitent l’amplifier, notamment en réduisant encore les effectifs. D’autres jugent sa carte figée et demandent de l’étendre aux territoires ruraux, ou d’y affecter des enseignants expérimentés par des contrats spécifiques. Le débat porte aussi sur l’efficacité réelle de la dépense supplémentaire.",
+  "reperes": [
+   "Zones d’éducation prioritaire créées en 1981",
+   "Refondation en REP et REP+ en 2015",
+   "Dédoublement des CP et CE1 en REP et REP+ à partir de 2017"
+  ],
+  "liens": [
+   "effectifs-par-classe",
+   "mixite-sociale-a-l-ecole",
+   "fermetures-d-ecoles-rurales"
+  ],
+  "motifs": [
+   "éducation prioritaire",
+   "réseau d'éducation prioritaire",
+   "réseaux d'éducation prioritaire",
+   "REP+",
+   "zones prioritaires",
+   "territoires à besoins éducatifs particuliers"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de limiter les classes de primaire à 12 élèves dans les établissements en REP et REP+.",
+    "appuis": [
+     "p25f5e7e7"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de refonder l’éducation prioritaire, dont la carte est jugée « obsolète », de l’étendre aux territoires ruraux et d’y affecter « les meilleurs professeurs » par des contrats de mission.",
+    "appuis": [
+     "p6b566091",
+     "pf67fa071",
+     "p658cacba"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de généraliser la vidéoprotection dans les établissements du secondaire en priorisant les réseaux d’éducation prioritaire.",
+    "appuis": [
+     "pb5619d62"
+    ]
+   }
+  }
+ },
+ {
+  "id": "effectifs-par-classe",
+  "nom": "Effectifs par classe",
+  "variantes": [
+   "dédoublement des classes",
+   "taux d’encadrement",
+   "nombre d’élèves par classe"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "Le nombre d’élèves par classe est un indicateur central des moyens de l’école. En France, les classes du primaire comptent en moyenne davantage d’élèves que dans la moyenne des pays européens comparables. Depuis 2017, les classes de CP et de CE1, puis de grande section, ont été dédoublées en éducation prioritaire, et un plafond de 24 élèves par classe dans ces niveaux, annoncé en 2019, est appliqué progressivement ailleurs depuis la rentrée 2020 ; selon le Sénat, 95 % des classes concernées le respectaient à la rentrée 2022. La baisse démographique en cours réduit mécaniquement le nombre d’élèves, ce qui ouvre le débat sur l’usage des postes ainsi libérés.",
+  "enjeux": "Pour certains, la baisse démographique doit servir à alléger les classes ; pour d’autres, elle permet de financer la revalorisation des enseignants ou de réduire la dépense. Les études disponibles montrent un effet plus net de la réduction des effectifs dans les petites classes et pour les élèves défavorisés.",
+  "reperes": [
+   "Dédoublement des CP en REP+ à la rentrée 2017",
+   "Plafond de 24 élèves en grande section, CP et CE1, appliqué progressivement depuis la rentrée 2020"
+  ],
+  "liens": [
+   "education-prioritaire",
+   "revalorisation-des-enseignants",
+   "fermetures-d-ecoles-rurales"
+  ],
+  "motifs": [
+   "élèves par classe",
+   "effectifs par classe",
+   "effectifs des classes",
+   "taille des classes",
+   "nombre d'élèves par enseignant",
+   "dédoublement",
+   "classes dédoublées"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de limiter les classes du primaire à 19 élèves en 2032 et à 12 en éducation prioritaire.",
+    "appuis": [
+     "p25f5e7e7"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de réduire les effectifs par classe pour « faire mieux que la moyenne européenne de 19 élèves ».",
+    "appuis": [
+     "p28aa847c"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de réduire le nombre d’élèves par enseignant en primaire et de l’expérimenter dans le second degré.",
+    "appuis": [
+     "p36e3c6df"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de plafonner à 20 élèves les classes de grande section et de CP, et à 30 élèves les classes du secondaire.",
+    "appuis": [
+     "p25bf328f",
+     "p51a538f7"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de viser moins de 20 élèves par classe en primaire grâce à la baisse démographique et de poursuivre les classes dédoublées.",
+    "appuis": [
+     "pceb945f4",
+     "p2d354e0a"
+    ]
+   }
+  }
+ },
+ {
+  "id": "savoirs-fondamentaux",
+  "nom": "Savoirs fondamentaux",
+  "variantes": [
+   "fondamentaux",
+   "lire, écrire, compter",
+   "socle commun"
+  ],
+  "categorie": "doctrine ou courant",
+  "theme": "education",
+  "definition": "L’expression désigne les apprentissages jugés premiers à l’école primaire : la lecture, l’écriture, le calcul, et selon les usages l’histoire ou les sciences. Elle renvoie au socle commun de connaissances, de compétences et de culture, que la loi définit comme ce que tout élève doit maîtriser à la fin de la scolarité obligatoire. Le recentrage sur les fondamentaux est un objectif affiché par plusieurs ministres depuis les années 2000.",
+  "enjeux": "Ses promoteurs dénoncent une dispersion des programmes au détriment du français et des mathématiques, et proposent d’augmenter ces horaires ou de contrôler les acquis par un examen. D’autres estiment que l’école doit aussi former à l’écologie, aux médias, à la citoyenneté ou aux pratiques artistiques, sans opposer ces enseignements aux fondamentaux.",
+  "reperes": [
+   "Socle commun créé par la loi du 23 avril 2005, rénové en 2015"
+  ],
+  "liens": [
+   "educations-a",
+   "choc-des-savoirs"
+  ],
+  "motifs": [
+   "savoirs fondamentaux",
+   "lire, écrire, compter",
+   "lire, écrire et compter",
+   "heures de français et de mathématiques",
+   "priorité absolue au français",
+   "disciplines fondamentales"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme assigne à l’école l’objectif que « 100 % des élèves » entrent en sixième en sachant lire, écrire et compter, et propose de recentrer le primaire sur ces savoirs et sur l’histoire et la géographie de la France.",
+    "appuis": [
+     "pe6cd94dd",
+     "p0a277883"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de recentrer les enseignements sur les savoirs fondamentaux et de donner en primaire « une priorité absolue » au français, aux mathématiques et à l’histoire de France.",
+    "appuis": [
+     "p3819d642",
+     "p51c21c82"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de recentrer le primaire sur les savoirs fondamentaux et d’en contrôler l’acquisition par un « Certificat de Fin d’Études ».",
+    "appuis": [
+     "p9eb51f80",
+     "p09a22674"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose d’augmenter les heures de français et de mathématiques en primaire et en sixième.",
+    "appuis": [
+     "p8a6e1b52"
+    ]
+   }
+  }
+ },
+ {
+  "id": "revalorisation-des-enseignants",
+  "nom": "Revalorisation des enseignants",
+  "variantes": [
+   "Pacte enseignant",
+   "salaires des professeurs",
+   "attractivité du métier"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "La revalorisation désigne l’augmentation de la rémunération des enseignants, dont les salaires, en début et en milieu de carrière, sont inférieurs à la moyenne des pays comparables de l’OCDE. Elle peut prendre la forme d’une hausse de la grille indiciaire pour tous, de primes, ou d’une rémunération liée à des missions supplémentaires, comme le « Pacte » créé à la rentrée 2023. La question est liée à la crise de recrutement, qui laisse des postes non pourvus aux concours.",
+  "enjeux": "Le débat oppose une hausse générale et lisible des salaires à une rémunération conditionnée à des missions, au mérite ou à l’affectation sur des postes difficiles. Le financement est aussi discuté : budget supplémentaire, redéploiement des postes libérés par la baisse démographique ou réduction de la bureaucratie.",
+  "reperes": [
+   "Pacte enseignant mis en place à la rentrée 2023"
+  ],
+  "liens": [
+   "formation-des-enseignants",
+   "effectifs-par-classe",
+   "education-prioritaire"
+  ],
+  "motifs": [
+   "salaires des enseignants",
+   "salaire des enseignants",
+   "salaire de tous les enseignants",
+   "salaire des professeurs",
+   "revalorisation des grilles",
+   "« Pacte »",
+   "pacte proposé à tous les enseignants",
+   "métier d'enseignant",
+   "mieux rémunérer nos professeurs",
+   "revalorisation nette"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme prévoit de revaloriser les grilles de salaires, en particulier dans le primaire, et de recruter au moins 60 000 enseignants supplémentaires sur cinq ans.",
+    "appuis": [
+     "pb8eb2e27",
+     "pb656e5a6",
+     "p84e60f99"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose « une revalorisation nette et lisible » plutôt qu’un « Pacte » de primes, de 135 à 300 euros nets par mois, financée par la baisse démographique.",
+    "appuis": [
+     "p27d2faec",
+     "pc05b5868",
+     "pc2135d5f"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de revaloriser le salaire de tous les enseignants de manière continue et planifiée sur cinq ans.",
+    "appuis": [
+     "p45260983"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de revaloriser les salaires des enseignants de 3 % par an pendant cinq ans et de valoriser le mérite dans les carrières.",
+    "appuis": [
+     "p035794e7",
+     "p8b83ea71"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose d’accélérer la progression des carrières et de créer des « Primes d’Excellence Professorale » fondées sur des inspections plus fréquentes.",
+    "appuis": [
+     "pcd2ca815"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose un « pacte » associant de nouvelles missions à une rémunération accrue, et de mieux rémunérer professeurs et AESH grâce à la baisse démographique.",
+    "appuis": [
+     "p36b4dd05",
+     "p0a7766ec"
+    ]
+   }
+  }
+ },
+ {
+  "id": "formation-des-enseignants",
+  "nom": "Formation des enseignants",
+  "variantes": [
+   "INSPE",
+   "École normale",
+   "concours de recrutement",
+   "CAPES",
+   "agrégation"
+  ],
+  "categorie": "institution",
+  "theme": "education",
+  "definition": "Les enseignants du public sont recrutés par concours : le concours de recrutement de professeurs des écoles (CRPE) pour le primaire, le CAPES, le CAPET, le CAPLP et l’agrégation pour le secondaire. Leur formation initiale est assurée depuis 2019 par les Instituts nationaux supérieurs du professorat et de l’éducation (INSPE), rattachés aux universités, qui ont succédé aux ESPE (2013) et aux IUFM (1990), eux-mêmes héritiers des écoles normales. Une réforme annoncée en 2025 et fixée par décret en novembre 2025 place le concours au niveau de la licence à partir de la session 2026 ; les lauréats suivent ensuite deux années de master rémunérées, comme élèves fonctionnaires puis fonctionnaires stagiaires (environ 1 400 puis 1 800 euros nets par mois). La formation continue est organisée différemment dans le premier degré, où des heures y sont consacrées dans les obligations de service, et dans le second degré.",
+  "enjeux": "Le débat porte sur le moment du concours, la place de l’université et de la recherche dans la formation, et le contenu des enseignements, entre maîtrise disciplinaire et pédagogie. Certains courants veulent sortir la formation de l’université et rétablir des écoles normales, d’autres veulent renforcer l’accompagnement des débutants. Les critiques des INSPE portent aussi sur leur contenu, jugé « idéologique » par une partie de la droite.",
+  "reperes": [
+   "INSPE créés par la loi pour une école de la confiance du 26 juillet 2019",
+   "IUFM créés par la loi d’orientation de 1989",
+   "Concours de recrutement placé au niveau de la licence à partir de la session 2026"
+  ],
+  "liens": [
+   "revalorisation-des-enseignants",
+   "ecole-inclusive"
+  ],
+  "motifs": [
+   "INSPE",
+   "Instituts nationaux supérieurs du professorat",
+   "Instituts National Supérieur du Professorat",
+   "École Normale du Professorat",
+   "Écoles normales supérieures régionales",
+   "formation des maîtres",
+   "CAPES",
+   "agrégation",
+   "concours d'enseignants",
+   "refonder leur formation",
+   "formation continue"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’« enrichir la réforme Borne » des INSPE et d’attribuer un tuteur expérimenté à chaque professeur pendant ses trois premières années.",
+    "appuis": [
+     "p44d97e75",
+     "pbf6d0257"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit un dispositif de pré-recrutement pour favoriser l’accès au métier des jeunes de milieux populaires.",
+    "appuis": [
+     "p84e60f99"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de sortir la formation des maîtres de l’université, de créer une « École Normale du Professorat » par académie et de régionaliser les concours après la licence, sauf l’agrégation.",
+    "appuis": [
+     "p10029c4c",
+     "p34c8e412",
+     "pbe8a2723"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’attribuer de droit à tous les personnels d’éducation un temps de formation continue sur le temps scolaire.",
+    "appuis": [
+     "p431c91ec"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de supprimer les INSPE, jugés « inefficaces », et de recruter les enseignants au CAPES et à l’agrégation après un master 2.",
+    "appuis": [
+     "p479faf21",
+     "p4d36d238"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de supprimer les INSPE au profit d’« Écoles normales supérieures régionales » et de rendre les concours plus exigeants.",
+    "appuis": [
+     "p89f80c2d"
+    ]
+   }
+  }
+ },
+ {
+  "id": "ecole-inclusive",
+  "nom": "École inclusive",
+  "variantes": [
+   "AESH",
+   "inclusion scolaire",
+   "scolarisation des élèves handicapés",
+   "PIAL"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "L’école inclusive désigne la scolarisation des élèves en situation de handicap en milieu ordinaire, consacrée comme un droit par la loi du 11 février 2005. Elle repose notamment sur les accompagnants d’élèves en situation de handicap (AESH), dont le statut a été créé en 2014 : ils sont recrutés sur contrat, souvent à temps partiel, et ne sont pas fonctionnaires. Leur nombre dépasse aujourd’hui 130 000, ce qui en fait le deuxième métier de l’Éducation nationale par les effectifs. L’accompagnement est prescrit par les maisons départementales des personnes handicapées (MDPH).",
+  "enjeux": "Le débat porte sur la précarité des AESH, leur temps de travail et leur formation, que plusieurs courants proposent de corriger par une titularisation ou un passage à temps plein. Il porte aussi sur l’accessibilité des bâtiments et sur l’équilibre entre milieu ordinaire et établissements spécialisés.",
+  "reperes": [
+   "Loi du 11 février 2005 pour l’égalité des droits et des chances des personnes handicapées",
+   "Statut d’AESH créé en 2014"
+  ],
+  "liens": [
+   "formation-des-enseignants",
+   "revalorisation-des-enseignants"
+  ],
+  "motifs": [
+   "AESH",
+   "accompagnants d'élèves en situation de handicap",
+   "accompagnantes d'élèves en situation de handicap",
+   "accompagnants des élèves en situation de handicap",
+   "accompagnement des élèves en situation de handicap",
+   "inclusion scolaire",
+   "enfants touchés par le handicap",
+   "enfants porteurs de handicap"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un « service public d’accompagnement des élèves en situation de handicap », la titularisation des 144 000 AESH et au moins une classe accessible dans chaque école.",
+    "appuis": [
+     "pe5f95bfc",
+     "p1d00b6cb"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit un service public d’accompagnement des élèves en situation de handicap, avec la formation et la titularisation des AESH.",
+    "appuis": [
+     "p09066d93"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de former et de rémunérer les accompagnants d’élèves en situation de handicap, et d’inclure un module obligatoire sur les troubles de l’apprentissage dans la formation des professeurs.",
+    "appuis": [
+     "pcb0b1ddd",
+     "p21820e04"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit « un grand plan » sur l’accès à la scolarité des enfants touchés par le handicap.",
+    "appuis": [
+     "pbe21eb15"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de porter jusqu’à 35 heures le temps de travail des AESH et de mieux les rémunérer.",
+    "appuis": [
+     "p78fdc984",
+     "p0a7766ec"
+    ]
+   }
+  }
+ },
+ {
+  "id": "reforme-du-baccalaureat",
+  "nom": "Réforme du baccalauréat",
+  "variantes": [
+   "réforme Blanquer",
+   "bac 2021",
+   "spécialités",
+   "filières S, ES, L",
+   "contrôle continu"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "Le baccalauréat est le diplôme qui sanctionne la fin des études secondaires et ouvre l’accès à l’enseignement supérieur. La réforme du lycée général et technologique conduite par Jean-Michel Blanquer, appliquée au baccalauréat à partir de 2021, a supprimé les séries S, ES et L au profit d’un tronc commun et d’enseignements de spécialité choisis par l’élève. Elle a introduit une part de contrôle continu dans la note finale et une épreuve orale terminale, le « grand oral ». Les mathématiques ont depuis été réintroduites dans le tronc commun de première.",
+  "enjeux": "Ses défenseurs y voient une personnalisation des parcours. Ses critiques dénoncent la perte d’un examen national et anonyme, le recul des mathématiques et des inégalités entre lycées dans l’offre de spécialités. Les propositions vont de l’abrogation pure à la restauration des anciennes filières ou à des niveaux différenciés en mathématiques.",
+  "reperes": [
+   "Première session du nouveau baccalauréat en 2021",
+   "Suppression des séries S, ES et L de la voie générale"
+  ],
+  "liens": [
+   "brevet",
+   "parcoursup",
+   "savoirs-fondamentaux"
+  ],
+  "motifs": [
+   "réforme Blanquer",
+   "examen national, anonyme et terminal",
+   "niveau du baccalauréat",
+   "résultats du Bac",
+   "brevet et le baccalauréat",
+   "filières scientifique, littéraire",
+   "tronc commun du lycée",
+   "spécialité mathématique",
+   "deux niveaux seront proposés"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’ouvrir une concertation avec les syndicats pour « corriger profondément la réforme Blanquer ».",
+    "appuis": [
+     "pda44b640"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de relever le niveau du baccalauréat, de créer deux niveaux de mathématiques dès la seconde et d’intégrer les résultats du bac dans Parcoursup.",
+    "appuis": [
+     "pc7bad5f2",
+     "p61f62493",
+     "p868b2e78"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d’abroger la réforme Blanquer du baccalauréat et de fixer nationalement le programme des examens.",
+    "appuis": [
+     "p3417f596",
+     "pe4a9405a"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de restaurer les filières scientifique, littéraire et économique et de refaire du baccalauréat « un examen national, anonyme et terminal ».",
+    "appuis": [
+     "pdd7bc292",
+     "pf76838a6"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de mettre les mathématiques dans le tronc commun du lycée.",
+    "appuis": [
+     "p8a6e1b52"
+    ]
+   }
+  }
+ },
+ {
+  "id": "brevet",
+  "nom": "Diplôme national du brevet",
+  "variantes": [
+   "brevet des collèges",
+   "DNB",
+   "certificat d’études"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "education",
+  "definition": "Le diplôme national du brevet (DNB) sanctionne la fin du collège. Il combine des épreuves écrites et orales et l’évaluation du socle commun en cours d’année. Son obtention n’est pas, à la date de rédaction (octobre 2026), une condition d’entrée au lycée, ce projet annoncé fin 2023 ayant été abandonné, même si les réformes récentes ont accru le poids des épreuves finales. Il a succédé au brevet d’études du premier cycle, tandis que le certificat d’études primaires, qui sanctionnait la fin de l’école élémentaire, a été supprimé en 1989.",
+  "enjeux": "Plusieurs courants proposent d’en faire un véritable palier d’orientation, voire une condition d’entrée en seconde, pour lui rendre sa valeur. Leurs opposants y voient un risque de tri précoce et de sorties sans diplôme. Le retour d’un examen à la fin du primaire est aussi proposé.",
+  "reperes": [
+   "Suppression du certificat d’études primaires en 1989"
+  ],
+  "liens": [
+   "reforme-du-baccalaureat",
+   "college-unique",
+   "choc-des-savoirs",
+   "orientation-scolaire"
+  ],
+  "motifs": [
+   "diplôme national du brevet",
+   "le brevet",
+   "Brevet sa véritable valeur",
+   "Certificat de Fin d'Études"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose de faire du brevet « un véritable palier d’orientation » conditionnant l’entrée au lycée, et de le remettre le 14 juillet avec le baccalauréat.",
+    "appuis": [
+     "pdd1d8d3e",
+     "p92ecbd3a"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de faire du brevet « un examen d’orientation post-3e ».",
+    "appuis": [
+     "pf7dc5472"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de « rendre au Brevet sa véritable valeur » et d’instaurer un « Certificat de Fin d’Études » à la fin du primaire.",
+    "appuis": [
+     "pf76838a6",
+     "p09a22674"
+    ]
+   }
+  }
+ },
+ {
+  "id": "voie-professionnelle",
+  "nom": "Voie professionnelle",
+  "variantes": [
+   "lycée professionnel",
+   "bac pro",
+   "réforme de la voie professionnelle",
+   "CAP"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "La voie professionnelle scolarise près d’un tiers des lycéens dans les lycées professionnels, qui préparent au CAP et au baccalauréat professionnel. Depuis 2009, le bac pro se prépare en trois ans après la troisième, contre quatre auparavant (deux ans de BEP puis deux ans de bac pro). Une réforme engagée en 2023 a augmenté la durée des stages en entreprise, gratifiés par l’État, et réorganisé la dernière année. Les lycées professionnels relèvent de l’Éducation nationale, les régions en ayant la charge matérielle.",
+  "enjeux": "Une partie de la gauche demande d’abroger la réforme de 2023, de rétablir le bac pro en quatre ans et de rouvrir des formations. La droite propose de confier ces lycées aux régions ou aux entreprises, voire de les fusionner avec les centres de formation d’apprentis, au nom de l’adéquation aux besoins de l’économie.",
+  "reperes": [
+   "Bac professionnel en trois ans généralisé en 2009",
+   "Réforme de la voie professionnelle engagée en 2023"
+  ],
+  "liens": [
+   "apprentissage",
+   "orientation-scolaire",
+   "college-unique"
+  ],
+  "motifs": [
+   "lycées professionnels",
+   "lycée professionnel",
+   "voie professionnelle",
+   "baccalauréat professionnel",
+   "filières pros",
+   "Campus Régionaux de la Formation Professionnelle"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de rétablir le baccalauréat professionnel en quatre ans et d’abroger la réforme de la voie professionnelle.",
+    "appuis": [
+     "p6d5e503d"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de rétablir le bac pro en quatre ans, d’abroger la réforme de la voie professionnelle et d’arrêter les fermetures de lycées professionnels.",
+    "appuis": [
+     "pecccd02e",
+     "p5facedf0"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de confier les lycées professionnels aux régions, de les rapprocher des centres de formation d’apprentis « jusqu’à leur fusion » et de viser « 100 % d’alternance ».",
+    "appuis": [
+     "p9d54ce0c",
+     "pc1f88915",
+     "p1b38cd63"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un comité de suivi académique de la réforme des lycées professionnels.",
+    "appuis": [
+     "p2f5c107b"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de rattacher les lycées professionnels au ministère de l’Industrie et de créer des « Campus Régionaux de la Formation Professionnelle ».",
+    "appuis": [
+     "p2101c163",
+     "pdcd9213b"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit d’augmenter de 50 % la durée des stages en lycée professionnel et de les rémunérer.",
+    "appuis": [
+     "pcb520fcf"
+    ]
+   }
+  }
+ },
+ {
+  "id": "apprentissage",
+  "nom": "Apprentissage et alternance",
+  "variantes": [
+   "alternance",
+   "contrat d’apprentissage",
+   "CFA",
+   "aide à l’embauche d’apprentis"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "education",
+  "definition": "L’apprentissage est une formation en alternance entre un centre de formation d’apprentis (CFA) et une entreprise, dans le cadre d’un contrat de travail spécifique. L’apprenti perçoit un salaire fixé en pourcentage du Smic selon son âge et son année de formation. La loi « Avenir professionnel » de 2018 a libéralisé l’ouverture des CFA et confié leur financement aux branches professionnelles, puis des aides exceptionnelles à l’embauche ont été créées à partir de 2020. Le nombre de contrats a fortement augmenté, surtout dans l’enseignement supérieur.",
+  "enjeux": "Le débat porte sur le coût des aides publiques et sur leur ciblage : faut-il les concentrer sur les premiers niveaux de qualification, où leur effet sur l’insertion est jugé plus fort, ou les maintenir dans le supérieur ? Il porte aussi sur l’âge d’entrée en apprentissage, la rémunération des apprentis et la place de l’alternance dans la voie professionnelle scolaire.",
+  "reperes": [
+   "Loi pour la liberté de choisir son avenir professionnel du 5 septembre 2018",
+   "Aides exceptionnelles à l’embauche d’apprentis à partir de 2020"
+  ],
+  "liens": [
+   "voie-professionnelle",
+   "orientation-scolaire",
+   "college-unique"
+  ],
+  "motifs": [
+   "apprenti",
+   "apprentis",
+   "apprenti·es",
+   "aides à l'apprentissage",
+   "l'apprentissage ou de l'alternance",
+   "pré-apprentissage",
+   "contrats d'apprentissage",
+   "alternance",
+   "alternants",
+   "alternant·es",
+   "apprentissage sera ouvert",
+   "chèques apprentissages",
+   "centres de formation des apprentis"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de renforcer les aides à l’apprentissage pour les jeunes peu qualifiés et de rémunérer au Smic les alternants de plus de deux ans.",
+    "appuis": [
+     "p78b3d9ae",
+     "p9f284d9e"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’augmenter le salaire des apprentis et des alternants, ainsi que les indemnités des stagiaires.",
+    "appuis": [
+     "p2cf37527"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose d’ouvrir l’apprentissage dès quatorze ans et de réorienter les aides vers les niveaux Bac+2 et infra dans certaines filières, tout en les « sanctuarisant » dans l’industrie jusqu’au master.",
+    "appuis": [
+     "p39f79d7a",
+     "p26256b8a",
+     "p347751cb"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de généraliser l’alternance dans l’enseignement supérieur.",
+    "appuis": [
+     "p68c6638d"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit un chèque-formation mensuel de 200 à 300 euros pour les apprentis, les alternants et leurs employeurs, et de réserver les aides aux étudiants avant la licence.",
+    "appuis": [
+     "p4dbeb0a2",
+     "pff547722",
+     "pa468c86c"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose d’augmenter l’exonération de cotisations des apprentis et de favoriser leur embauche en CDI.",
+    "appuis": [
+     "pcbf34de6",
+     "p842bbcf7"
+    ]
+   }
+  }
+ },
+ {
+  "id": "orientation-scolaire",
+  "nom": "Orientation scolaire",
+  "variantes": [
+   "service public de l’orientation",
+   "conseil de classe",
+   "découverte des métiers"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "L’orientation désigne les décisions qui affectent les élèves dans les différentes voies et formations, à la fin de la troisième, de la seconde et du lycée. Elle est proposée par le conseil de classe, après dialogue avec la famille, et s’appuie sur les psychologues de l’Éducation nationale et les centres d’information et d’orientation. Depuis la loi de 2018 sur l’avenir professionnel, les régions sont chargées de l’information sur les métiers et les formations.",
+  "enjeux": "Le débat oppose ceux qui veulent un service public de l’orientation renforcé au sein de l’école à ceux qui veulent la confier aux régions, aux missions locales et aux entreprises, plus proches de l’emploi. Le poids respectif des souhaits des familles et de l’avis des enseignants est également discuté.",
+  "reperes": [
+   "Compétence d’information sur les métiers confiée aux régions par la loi du 5 septembre 2018"
+  ],
+  "liens": [
+   "parcoursup",
+   "voie-professionnelle",
+   "apprentissage",
+   "brevet"
+  ],
+  "motifs": [
+   "service public de l'orientation",
+   "compétence d'orientation",
+   "orientation personnalisée",
+   "accompagnement personnalisé à l'orientation",
+   "plateforme d'orientation",
+   "l'orientation et les lycées professionnels",
+   "missions locales refondées",
+   "séance d'orientation",
+   "stages de découverte",
+   "découvriront, de la 5e à la 3e"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de créer « un véritable service public de l’orientation » dans tous les lycées.",
+    "appuis": [
+     "p9b0e67a6"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de transférer l’orientation aux missions locales et aux régions, d’organiser des stages de découverte de la sixième à la terminale et de rendre l’orientation à « la seule souveraineté des conseils de classe ».",
+    "appuis": [
+     "p3b2dc093",
+     "pd12df86a",
+     "paed1c0db"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de renforcer l’accompagnement personnalisé à l’orientation des élèves.",
+    "appuis": [
+     "p044fa911",
+     "p68c6638d"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit que tous les élèves découvrent plusieurs métiers, dont des métiers techniques et manuels, de la cinquième à la troisième.",
+    "appuis": [
+     "pb08d43ac"
+    ]
+   }
+  }
+ },
+ {
+  "id": "autonomie-des-universites",
+  "nom": "Autonomie des universités",
+  "variantes": [
+   "loi LRU",
+   "responsabilités et compétences élargies"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "education",
+  "definition": "L’autonomie des universités désigne le transfert aux établissements de la gestion de leur budget global et de leur masse salariale, ainsi qu’une gouvernance renforcée autour du président et du conseil d’administration. Elle a été instituée par la loi relative aux libertés et responsabilités des universités (LRU) de 2007, dite loi Pécresse, et généralisée dans les années suivantes. Les universités restent financées principalement par l’État, par une dotation annuelle.",
+  "enjeux": "Ses partisans souhaitent aller plus loin, notamment pour adapter les formations aux besoins de l’économie et recruter librement. Ses critiques jugent que l’autonomie s’est faite sans moyens suffisants, mettant de nombreuses universités en difficulté budgétaire, et demandent un bilan et un financement pérenne.",
+  "reperes": [
+   "Loi LRU du 10 août 2007"
+  ],
+  "liens": [
+   "selection-a-l-universite",
+   "financement-de-la-recherche",
+   "enseignement-superieur-prive"
+  ],
+  "motifs": [
+   "autonomie des universités",
+   "universités publiques"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de garantir « un financement durable et suffisant » aux universités publiques.",
+    "appuis": [
+     "pd6a6b823"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit d’« achever l’autonomie des universités » pour adapter leurs formations aux métiers de demain.",
+    "appuis": [
+     "p1d163697"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un « bilan » de l’autonomie des universités pour définir un modèle de financement renforcé et durable.",
+    "appuis": [
+     "p6e256d10"
+    ]
+   }
+  }
+ },
+ {
+  "id": "bourses-sur-criteres-sociaux",
+  "nom": "Bourses sur critères sociaux",
+  "variantes": [
+   "bourses étudiantes",
+   "bourses au mérite",
+   "Crous"
+  ],
+  "categorie": "prestation sociale",
+  "theme": "education",
+  "definition": "Les bourses sur critères sociaux sont des aides financières versées par l’État, par l’intermédiaire des Crous, aux étudiants dont les ressources familiales sont faibles. Leur montant dépend d’un barème par échelons, qui tient compte des revenus des parents, du nombre d’enfants à charge et de l’éloignement du lieu d’études. Elles exonèrent aussi des droits d’inscription. Elles reposent sur le principe que l’étudiant reste rattaché à sa famille, et des bourses au mérite peuvent s’y ajouter. Il existe par ailleurs des bourses de collège et de lycée.",
+  "enjeux": "Les critiques du système soulignent la faiblesse des montants, les effets de seuil et le fait que de nombreux étudiants modestes doivent travailler pendant leurs études. Les propositions vont d’une revalorisation à un remplacement par une allocation universelle d’autonomie ou un capital formation, tandis que d’autres courants insistent sur les bourses au mérite et l’excellence.",
+  "reperes": [
+   "Bourses gérées par les centres régionaux des œuvres universitaires et scolaires (Crous)"
+  ],
+  "liens": [
+   "allocation-d-autonomie",
+   "gratuite-scolaire"
+  ],
+  "motifs": [
+   "bourses étudiantes",
+   "bourses au mérite",
+   "bourses scolaires",
+   "bourses d'excellence"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de « revaloriser et refonder » les bourses étudiantes pour les jeunes rattachés fiscalement à leur famille.",
+    "appuis": [
+     "p990e4dfa"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de revaloriser les bourses au mérite et de créer des bourses d’excellence en intelligence artificielle.",
+    "appuis": [
+     "p34ed2d6f",
+     "pd3eb8097"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de remplacer les bourses par « un capital formation universel », activable à tout moment de la vie.",
+    "appuis": [
+     "p986e509b"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de suspendre les bourses scolaires en cas d’absentéisme avéré.",
+    "appuis": [
+     "pe0553c33"
+    ]
+   }
+  }
+ },
+ {
+  "id": "allocation-d-autonomie",
+  "nom": "Allocation d’autonomie des jeunes",
+  "variantes": [
+   "garantie d’autonomie",
+   "revenu étudiant",
+   "capital formation universel",
+   "salaire étudiant"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "education",
+  "definition": "L’allocation d’autonomie désigne une prestation versée directement aux jeunes en formation, indépendamment des revenus de leurs parents ou sous condition de ressources propres, pour leur permettre d’étudier sans dépendre de leur famille ni d’un emploi. Elle n’existe pas en France, où les aides passent par les bourses, les aides au logement et les avantages fiscaux accordés aux parents. Des dispositifs comparables existent dans plusieurs pays d’Europe du Nord. Le revenu de solidarité active n’est pas ouvert, sauf exceptions, avant 25 ans.",
+  "enjeux": "Ses partisans y voient un moyen de réduire les inégalités d’accès aux études et la précarité étudiante. Ses opposants mettent en avant son coût et préfèrent cibler les aides sur les étudiants modestes ou méritants. Les variantes divergent sur l’universalité, le montant et les conditions de formation.",
+  "reperes": [
+   "Revenu de solidarité active accessible en principe à partir de 25 ans"
+  ],
+  "liens": [
+   "bourses-sur-criteres-sociaux",
+   "gratuite-scolaire",
+   "service-national-universel",
+   "minimum-jeunesse",
+   "garantie-d-autonomie"
+  ],
+  "motifs": [
+   "allocation d'autonomie",
+   "capital formation universel",
+   "lycéen professionnel aura"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme prévoit une « garantie d’autonomie » de 1 063 euros par mois pour chaque étudiant et lycéen professionnel, et une allocation d’autonomie de trois ans pour les 18-25 ans en formation qualifiante.",
+    "appuis": [
+     "p6d2d8455",
+     "p7db0803d"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un « capital formation universel », allocation activable à tout moment de la vie, en remplacement des bourses.",
+    "appuis": [
+     "p986e509b"
+    ]
+   }
+  }
+ },
+ {
+  "id": "droits-d-inscription-etudiants-etrangers",
+  "nom": "Droits d’inscription des étudiants étrangers",
+  "variantes": [
+   "Bienvenue en France",
+   "droits différenciés",
+   "étudiants extracommunautaires"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "education",
+  "definition": "Les droits d’inscription dans les universités publiques sont fixés nationalement et restent faibles pour les étudiants français et européens. Depuis la stratégie « Bienvenue en France » de 2019, les étudiants extracommunautaires acquittent des droits nettement plus élevés en licence et en master, sauf exonérations décidées par les établissements ou prévues par des accords entre États. La France est l’un des principaux pays d’accueil d’étudiants internationaux.",
+  "enjeux": "Les partisans de droits majorés invoquent le coût réel des formations et l’équité envers les contribuables. Leurs opposants y voient un frein à l’attractivité internationale et une discrimination envers les étudiants des pays du Sud. La question rejoint les débats sur l’immigration étudiante et les aides sociales qui leur sont ouvertes.",
+  "reperes": [
+   "Stratégie « Bienvenue en France » appliquée à partir de la rentrée 2019"
+  ],
+  "liens": [
+   "gratuite-scolaire",
+   "bourses-sur-criteres-sociaux",
+   "etudiants-etrangers"
+  ],
+  "motifs": [
+   "étudiants étrangers",
+   "extracommunautaires",
+   "droits d'inscriptions",
+   "Bienvenue en France"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’abolir la majoration des droits d’inscription pour les étudiants extracommunautaires.",
+    "appuis": [
+     "p28d317e2"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit une hausse des frais de scolarité des étudiants étrangers, sauf conventions entre États.",
+    "appuis": [
+     "pc0d39ce2"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de « sélectionner au mérite les étudiants étrangers ».",
+    "appuis": [
+     "p4e664755"
+    ]
+   }
+  }
+ },
+ {
+  "id": "enseignement-superieur-prive",
+  "nom": "Enseignement supérieur privé lucratif",
+  "variantes": [
+   "écoles privées à but lucratif",
+   "holdings de l’enseignement"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "L’enseignement supérieur privé lucratif regroupe des écoles détenues par des groupes à but lucratif, souvent organisés en holdings et parfois contrôlés par des fonds d’investissement. Il a connu une forte croissance, notamment grâce à l’apprentissage, dont le financement public couvre une partie des frais. Ces établissements délivrent des titres inscrits au répertoire national des certifications professionnelles ou des diplômes visés, et leur contrôle par l’État est partiel. Ils se distinguent des établissements privés d’intérêt général, à but non lucratif.",
+  "enjeux": "Ses critiques dénoncent des pratiques commerciales trompeuses, une qualité inégale et un financement public indirect via l’apprentissage, et demandent un encadrement et une transparence accrus. Ses défenseurs soulignent qu’il répond à une demande que le public ne satisfait pas et qu’il facilite l’insertion professionnelle.",
+  "reperes": [],
+  "liens": [
+   "apprentissage",
+   "autonomie-des-universites",
+   "enseignement-prive-sous-contrat"
+  ],
+  "motifs": [
+   "enseignement supérieur privé",
+   "holdings de l'enseignement privé"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une « autorité publique de contrôle des holdings de l’enseignement privé ».",
+    "appuis": [
+     "pcaf461ee"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de mieux encadrer l’enseignement supérieur privé lucratif, avec transparence des financements, contrôle pédagogique renforcé et aides publiques conditionnées.",
+    "appuis": [
+     "p738cb443"
+    ]
+   }
+  }
+ },
+ {
+  "id": "credit-d-impot-recherche",
+  "nom": "Crédit d’impôt recherche",
+  "variantes": [
+   "CIR"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "education",
+  "definition": "Le crédit d’impôt recherche (CIR) est une réduction d’impôt accordée aux entreprises en proportion de leurs dépenses de recherche et développement. Créé en 1983, il a été fortement élargi en 2008 et représente aujourd’hui une dépense fiscale de plusieurs milliards d’euros par an, l’une des plus importantes du budget de l’État. Il est calculé principalement à hauteur de 30 % des dépenses éligibles jusqu’à 100 millions d’euros.",
+  "enjeux": "Ses défenseurs y voient un levier d’attractivité qui maintient des activités de recherche en France, notamment dans l’industrie. Ses critiques jugent son efficacité insuffisamment démontrée, soulignent qu’il profite surtout aux grands groupes et proposent de le plafonner ou de le réorienter vers la recherche publique.",
+  "reperes": [
+   "Créé en 1983",
+   "Réforme de 2008 passant à un calcul en volume des dépenses"
+  ],
+  "liens": [
+   "financement-de-la-recherche",
+   "intelligence-artificielle",
+   "reindustrialisation"
+  ],
+  "motifs": [
+   "crédit d'impôt recherche",
+   "CIR",
+   "Crédit Impôt Recherche"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme prévoit de « sanctuariser » le CIR, présenté comme un levier de localisation de la recherche en France, et d’en renforcer les contrôles.",
+    "appuis": [
+     "pdb6da6d9"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de refonder le CIR en le plafonnant pour les grands groupes.",
+    "appuis": [
+     "p2a699668"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose de recentrer et « verdir » le crédit d'impôt recherche sur les PME et ETI.",
+    "appuis": [
+     "pe914d9af"
+    ]
+   }
+  },
+  "autres_themes": [
+   "travail"
+  ]
+ },
+ {
+  "id": "financement-de-la-recherche",
+  "nom": "Financement de la recherche publique",
+  "variantes": [
+   "ANR",
+   "appels à projets",
+   "loi de programmation de la recherche",
+   "LPR",
+   "Horizon Europe"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "La recherche publique est financée d’une part par les dotations récurrentes des universités et des organismes (CNRS, Inserm, INRAE…), d’autre part par des financements sur projets attribués après mise en concurrence, notamment par l’Agence nationale de la recherche (ANR), créée en 2005, et par les programmes européens comme Horizon Europe. La loi de programmation de la recherche de 2020 prévoit une hausse des moyens sur dix ans. La dépense intérieure de recherche de la France, publique et privée, reste inférieure à l’objectif européen de 3 % du PIB.",
+  "enjeux": "Le débat oppose le financement sur projets, présenté comme un moyen de sélectionner les meilleures équipes, au financement récurrent, que ses partisans jugent indispensable à une recherche libre et de long terme. La place de la recherche orientée vers l’industrie ou les priorités stratégiques est aussi discutée.",
+  "reperes": [
+   "Agence nationale de la recherche créée en 2005",
+   "Loi de programmation de la recherche du 24 décembre 2020"
+  ],
+  "liens": [
+   "credit-d-impot-recherche",
+   "statut-des-jeunes-chercheurs",
+   "liberte-academique",
+   "autonomie-des-universites"
+  ],
+  "motifs": [
+   "Agence nationale de la recherche",
+   "ANR",
+   "appels à projets court-termistes",
+   "loi de programmation de la recherche",
+   "investissement public dans la recherche",
+   "Horizon Europe",
+   "perspective industrielle"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de remplacer les appels à projets de l’ANR par des conventions pluriannuelles par laboratoire et d’augmenter de 10 % les salaires des personnels de recherche.",
+    "appuis": [
+     "p5ff8d516",
+     "p34ba8646"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de rehausser l’investissement public dans la recherche et une loi de programmation de la recherche « plus ambitieuse ».",
+    "appuis": [
+     "pc070388e",
+     "pd62aaecd"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit que « l’argent public ne financera plus une recherche sans perspective industrielle » et de redéployer jusqu’à 2 000 postes de chercheurs vers les disciplines stratégiques.",
+    "appuis": [
+     "p0343d5a7",
+     "pdb9bdbf1"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’en finir avec les appels à projets « court-termistes », de financer durablement les laboratoires et de doubler le budget d’Horizon Europe.",
+    "appuis": [
+     "pb5fd6d97",
+     "pb58acdf3"
+    ]
+   }
+  }
+ },
+ {
+  "id": "statut-des-jeunes-chercheurs",
+  "nom": "Statut des jeunes chercheurs",
+  "variantes": [
+   "précarité dans la recherche",
+   "vacataires",
+   "chaires de professeur junior",
+   "titularisation"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "education",
+  "definition": "Les jeunes chercheurs, doctorants et docteurs, enchaînent souvent des contrats temporaires avant d’obtenir un poste de titulaire de maître de conférences ou de chargé de recherche, recruté par concours. Une part importante des enseignements universitaires est en outre assurée par des vacataires, rémunérés à l’heure. La loi de programmation de la recherche de 2020 a créé les chaires de professeur junior, contrats pouvant déboucher sur une titularisation, et revalorisé les contrats doctoraux.",
+  "enjeux": "Une partie de la gauche et des écologistes demandent un statut protecteur et la titularisation des personnels qui assurent des missions pérennes. Les défenseurs des chaires juniors et des contrats de projet y voient une souplesse de recrutement qui renforce l’attractivité internationale.",
+  "reperes": [
+   "Chaires de professeur junior créées par la loi du 24 décembre 2020"
+  ],
+  "liens": [
+   "financement-de-la-recherche",
+   "liberte-academique"
+  ],
+  "motifs": [
+   "statut du jeune chercheur",
+   "précarité des doctorants",
+   "enseignants vacataires",
+   "enseignant·es vacataires",
+   "Chaires de Professeurs Juniors"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un statut du jeune chercheur, l’extension des chaires de professeur junior avec de « véritables possibilités de titularisation » et la déprécarisation des vacataires.",
+    "appuis": [
+     "pb4c5aa46",
+     "p59a8337e"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit un statut du jeune chercheur et la titularisation des doctorants et jeunes chercheurs qui effectuent des missions pérennes.",
+    "appuis": [
+     "p6dc282fe",
+     "pd0a96f39"
+    ]
+   }
+  }
+ },
+ {
+  "id": "liberte-academique",
+  "nom": "Liberté académique",
+  "variantes": [
+   "indépendance des enseignants-chercheurs",
+   "libertés universitaires"
+  ],
+  "categorie": "notion juridique",
+  "theme": "education",
+  "definition": "La liberté académique garantit aux enseignants-chercheurs la liberté d’enseigner, de mener leurs recherches et d’en publier les résultats sans pression politique, religieuse ou économique. En France, l’indépendance des professeurs d’université a été reconnue comme un principe fondamental à valeur constitutionnelle par le Conseil constitutionnel en 1984. Le code de l’éducation précise qu’ils jouissent d’une pleine indépendance et d’une entière liberté d’expression, dans le respect de la tolérance et de l’objectivité.",
+  "enjeux": "Le débat porte sur les menaces qui pèsent sur elle : pressions politiques, intimidations, dépendance aux financements privés ou sur projets. Certains proposent de pénaliser les entraves, d’autres d’accueillir les chercheurs menacés à l’étranger. La notion est aussi invoquée dans les controverses sur les études de genre ou postcoloniales.",
+  "reperes": [
+   "Décision du Conseil constitutionnel du 20 janvier 1984"
+  ],
+  "liens": [
+   "financement-de-la-recherche",
+   "statut-des-jeunes-chercheurs"
+  ],
+  "motifs": [
+   "liberté académique",
+   "recherche libre",
+   "France Libertés"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose des sanctions pénales en cas d’entrave à la liberté académique et un registre des financements privés de la recherche publique.",
+    "appuis": [
+     "p348f59a3",
+     "peb4b6c6e"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de « garantir une recherche libre » et de lancer un programme « France Libertés » pour accueillir les chercheurs menacés.",
+    "appuis": [
+     "pb5fd6d97",
+     "pf036b4ba"
+    ]
+   }
+  }
+ },
+ {
+  "id": "classes-preparatoires",
+  "nom": "Classes préparatoires aux grandes écoles",
+  "variantes": [
+   "CPGE",
+   "prépas",
+   "grandes écoles"
+  ],
+  "categorie": "institution",
+  "theme": "education",
+  "definition": "Les classes préparatoires aux grandes écoles (CPGE) sont des formations sélectives de deux ans, le plus souvent installées dans des lycées, qui préparent aux concours d’entrée des écoles d’ingénieurs, de commerce et des écoles normales supérieures. Elles relèvent de l’enseignement supérieur et donnent lieu à des crédits universitaires. Elles constituent une spécificité française, héritée du XIXe siècle. Leur recrutement social est nettement plus favorisé que celui de l’université.",
+  "enjeux": "Pour leurs défenseurs, elles incarnent une « voie d’excellence » fondée sur le mérite académique. Leurs critiques dénoncent un système à deux vitesses qui concentre les moyens sur une minorité, et proposent de les intégrer aux licences universitaires. Les dispositifs d’ouverture sociale, comme les quotas de boursiers, sont contestés par une partie de la droite.",
+  "reperes": [],
+  "liens": [
+   "selection-a-l-universite",
+   "discrimination-positive"
+  ],
+  "motifs": [
+   "classes préparatoires",
+   "CPGE",
+   "classes d'excellence"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’intégrer les CPGE au sein de licences universitaires.",
+    "appuis": [
+     "p09d3cf99"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de « réhabiliter » la voie des classes préparatoires, « débarrassée des critères non académiques ».",
+    "appuis": [
+     "pe8e50cd7"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose des classes d’excellence littéraires et scientifiques dans un lycée par académie pour « former une nouvelle élite ».",
+    "appuis": [
+     "p62b99c29"
+    ]
+   }
+  }
+ },
+ {
+  "id": "discrimination-positive",
+  "nom": "Discrimination positive",
+  "variantes": [
+   "quotas de boursiers",
+   "ouverture sociale",
+   "action positive"
+  ],
+  "categorie": "doctrine ou courant",
+  "theme": "education",
+  "definition": "La discrimination positive désigne les dispositifs qui accordent un avantage à des personnes issues de groupes défavorisés pour compenser des inégalités. En France, elle repose sur des critères sociaux ou territoriaux, et non ethniques : quotas de bacheliers boursiers dans les formations sélectives, conventions d’éducation prioritaire de Sciences Po depuis 2001, moyens supplémentaires de l’éducation prioritaire. Le terme est lui-même discuté, certains préférant parler d’égalité des chances ou d’action positive.",
+  "enjeux": "Ses partisans y voient un moyen de corriger la reproduction sociale dans l’accès aux filières d’élite. Ses opposants dénoncent une atteinte au mérite et à l’égalité républicaine, et proposent de la supprimer, parfois par une réforme constitutionnelle.",
+  "reperes": [
+   "Conventions d’éducation prioritaire de Sciences Po depuis 2001"
+  ],
+  "liens": [
+   "classes-preparatoires",
+   "education-prioritaire",
+   "mixite-sociale-a-l-ecole"
+  ],
+  "motifs": [
+   "discrimination positive",
+   "quotas de boursiers",
+   "critères non académiques"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’intégrer des quotas de boursiers dans les formations supérieures.",
+    "appuis": [
+     "pecefe7d3"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de débarrasser le recrutement des classes préparatoires et des grandes écoles des « critères non académiques ».",
+    "appuis": [
+     "pe8e50cd7"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de supprimer « toute forme de discrimination positive » dans l’enseignement secondaire et supérieur, par une réforme constitutionnelle.",
+    "appuis": [
+     "pdcab26d8"
+    ]
+   }
+  }
+ },
+ {
+  "id": "instruction-en-famille",
+  "nom": "Instruction en famille",
+  "variantes": [
+   "école à la maison",
+   "IEF",
+   "liberté d’instruction"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "education",
+  "definition": "En France, l’instruction est obligatoire de 3 à 16 ans, mais elle peut être dispensée dans un établissement ou dans la famille. Jusqu’en 2022, les familles devaient simplement déclarer leur choix et faire l’objet de contrôles. La loi de 2021 confortant le respect des principes de la République a soumis l’instruction en famille à une autorisation préalable, accordée pour des motifs limitativement énumérés, comme l’état de santé ou un projet éducatif particulier. Le gouvernement la présentait comme un moyen de lutter contre le « séparatisme » et les structures d’enseignement clandestines.",
+  "enjeux": "Ses défenseurs y voient une liberté fondamentale des parents, découlant de la liberté de l’enseignement, et contestent le régime d’autorisation. Les partisans de la loi de 2021 estiment qu’il permet de mieux protéger les enfants contre l’emprise de mouvements religieux ou sectaires et garantit leur droit à l’instruction.",
+  "reperes": [
+   "Instruction obligatoire dès 3 ans depuis la loi du 26 juillet 2019",
+   "Régime d’autorisation créé par la loi du 24 août 2021"
+  ],
+  "liens": [
+   "enseignement-prive-sous-contrat"
+  ],
+  "motifs": [
+   "instruction en famille",
+   "instruire leur enfant en famille",
+   "enseignement en famille"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose de rendre aux parents « la liberté d’instruire leur enfant en famille jusqu’à six ans ».",
+    "appuis": [
+     "pc8149490"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de renforcer la liberté de l’enseignement en famille, « particulièrement restreinte par la loi sur le séparatisme ».",
+    "appuis": [
+     "pfb6e6226"
+    ]
+   }
+  }
+ },
+ {
+  "id": "uniforme-scolaire",
+  "nom": "Uniforme scolaire",
+  "variantes": [
+   "tenue unique",
+   "blouse"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "education",
+  "definition": "L’uniforme scolaire désigne une tenue commune imposée aux élèves d’un établissement. Il n’est pas obligatoire dans l’école publique française, où la blouse a été portée jusqu’aux années 1960 sans avoir jamais été imposée par une loi nationale. Une expérimentation d’une « tenue unique » a été lancée en 2024 dans des établissements volontaires, en lien avec les collectivités qui la financent.",
+  "enjeux": "Ses partisans y voient un moyen de rétablir l’autorité, de réduire les marques d’inégalité sociale et le harcèlement, et de lutter contre les signes d’appartenance. Ses opposants doutent de ses effets, soulignent son coût pour les familles et les collectivités, et jugent qu’il détourne des vrais problèmes de l’école.",
+  "reperes": [
+   "Expérimentation de la tenue unique lancée à la rentrée 2024"
+  ],
+  "liens": [
+   "autorite-et-discipline",
+   "harcelement-scolaire"
+  ],
+  "motifs": [
+   "un uniforme",
+   "port de l'uniforme",
+   "blouse"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme prévoit que le port de l’uniforme soit « encouragé ».",
+    "appuis": [
+     "p0e7dcbc8"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit un uniforme au primaire et au collège pour « rétablir l’autorité de l’institution scolaire ».",
+    "appuis": [
+     "pfbb5acda"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de rendre la blouse obligatoire à l’école primaire pour lutter contre le harcèlement, le « communautarisme » et les inégalités sociales.",
+    "appuis": [
+     "pa389bf09"
+    ]
+   }
+  }
+ },
+ {
+  "id": "autorite-et-discipline",
+  "nom": "Autorité et discipline à l’école",
+  "variantes": [
+   "conseil de discipline",
+   "établissements disciplinaires",
+   "sanctions-plancher",
+   "responsabilisation des parents",
+   "loi Ciotti"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "Les sanctions disciplinaires applicables aux élèves sont fixées par le code de l’éducation, de l’avertissement à l’exclusion définitive, cette dernière étant prononcée par un conseil de discipline. Les élèves exclus à plusieurs reprises peuvent être orientés vers des dispositifs relais. Des établissements de réinsertion scolaire ont été créés en 2010, puis en grande partie fermés. La loi Ciotti de 2010 permettait de suspendre les allocations familiales en cas d’absentéisme scolaire ; elle a été abrogée en 2013.",
+  "enjeux": "Une partie de la droite propose de renforcer l’autorité des enseignants et des chefs d’établissement, de créer des établissements disciplinaires, d’instaurer des sanctions minimales et de sanctionner financièrement les familles. La gauche privilégie en général la prévention, le renforcement des personnels de vie scolaire et l’accompagnement, et conteste l’efficacité des sanctions financières, qui pénalisent selon elle les familles les plus fragiles.",
+  "reperes": [
+   "Loi Ciotti du 28 septembre 2010, abrogée en 2013",
+   "Établissements de réinsertion scolaire créés en 2010"
+  ],
+  "liens": [
+   "uniforme-scolaire",
+   "harcelement-scolaire",
+   "autonomie-des-etablissements"
+  ],
+  "motifs": [
+   "établissements disciplinaires",
+   "internats de réinsertion",
+   "sanctions-plancher",
+   "surveillants généraux",
+   "autorité et la discipline",
+   "pouvoirs d'autorité et de sanction",
+   "autorité de l'institution scolaire",
+   "loi Ciotti",
+   "allocations familiales des parents",
+   "durablement absentéistes"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de créer dans chaque académie des postes spécialisés pour accompagner les personnels de direction dans les actions de prévention et de sanction.",
+    "appuis": [
+     "pcaa9617e"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de renforcer les pouvoirs de sanction des chefs d’établissement, de créer au moins un établissement disciplinaire par académie et de responsabiliser les parents d’élèves violents ou absentéistes.",
+    "appuis": [
+     "p7ec42515",
+     "pcaf130e9",
+     "pe0bbbd76"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit des « sanctions-plancher » en conseil de discipline et le retour aux principes de la loi Ciotti, avec suspension des allocations familiales et des bourses en cas d’absentéisme.",
+    "appuis": [
+     "p0b37fcfa",
+     "pe0553c33"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de « rétablir l’autorité et la discipline », de transformer les CPE en « surveillants généraux » et de suspendre les allocations familiales des parents d’élèves perturbateurs ou absentéistes.",
+    "appuis": [
+     "p888dec5c",
+     "p279cec32",
+     "p30292de9"
+    ]
+   }
+  }
+ },
+ {
+  "id": "harcelement-scolaire",
+  "nom": "Harcèlement scolaire",
+  "variantes": [
+   "harcèlement à l’école",
+   "cyberharcèlement",
+   "programme pHARe"
+  ],
+  "categorie": "notion juridique",
+  "theme": "education",
+  "definition": "Le harcèlement scolaire désigne des violences répétées, physiques, verbales ou numériques, exercées par un ou plusieurs élèves sur un autre. Depuis la loi du 2 mars 2022, il constitue un délit spécifique. L’Éducation nationale a généralisé un programme de prévention, pHARe, et met à disposition des numéros d’écoute nationaux, dont le 3018. Depuis 2023, l’élève harceleur peut être changé d’école à l’initiative du directeur ou du maire.",
+  "enjeux": "Le débat porte sur l’équilibre entre prévention, formation des personnels et sanction des auteurs, ainsi que sur la place des réseaux sociaux. Certains insistent sur les formes spécifiques de harcèlement, notamment les violences sexistes ou LGBTphobes, d’autres sur l’autorité et la tenue commune.",
+  "reperes": [
+   "Délit de harcèlement scolaire créé par la loi du 2 mars 2022"
+  ],
+  "liens": [
+   "autorite-et-discipline",
+   "ecrans-a-l-ecole",
+   "uniforme-scolaire"
+  ],
+  "motifs": [
+   "harcèlement scolaire",
+   "harcèlement et les violences LGBTQIAphobes",
+   "harceleur qui part",
+   "3018"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose des référents formés contre le harcèlement et les violences LGBTQIAphobes dans chaque établissement.",
+    "appuis": [
+     "pb856e464"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit que « c’est le harceleur qui part, jamais le harcelé ».",
+    "appuis": [
+     "p2d3fc919"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose la blouse obligatoire au primaire pour lutter notamment contre le harcèlement scolaire.",
+    "appuis": [
+     "pa389bf09"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de généraliser les délégués « non au harcèlement scolaire » au collège et de soutenir les plateformes 3018 et 3020.",
+    "appuis": [
+     "pdd420683",
+     "pbc727e30"
+    ]
+   }
+  }
+ },
+ {
+  "id": "ecrans-a-l-ecole",
+  "nom": "Écrans et téléphones à l’école",
+  "variantes": [
+   "portable en pause",
+   "majorité numérique",
+   "réseaux sociaux avant 15 ans"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "L’usage du téléphone portable est interdit à l’école et au collège depuis une loi de 2018 ; une loi de 2026 l’a étendu au lycée à partir de la rentrée 2026, le règlement intérieur pouvant prévoir des exceptions. Une loi de 2023 a fixé une « majorité numérique » à 15 ans pour l’inscription sur les réseaux sociaux sans accord parental, mais sa mise en œuvre dépend du droit européen. La loi adoptée en juillet 2026 prévoyait aussi d’interdire l’accès aux réseaux sociaux avant 15 ans ; le Conseil constitutionnel a censuré cette disposition le 14 août 2026, la jugeant disproportionnée au regard de la liberté d’expression et de communication. Le débat s’est élargi à l’exposition des jeunes enfants aux écrans, à partir de travaux médicaux et d’une commission d’experts remise en 2024.",
+  "enjeux": "Les propositions vont d’une interdiction des écrans à l’école primaire et des téléphones jusqu’au lycée à une interdiction des réseaux sociaux avant 15 ans. Les débats portent sur l’effectivité de ces interdictions, sur la vérification de l’âge en ligne et sur la place à laisser au numérique éducatif.",
+  "reperes": [
+   "Loi du 3 août 2018 interdisant le téléphone portable à l’école et au collège",
+   "Loi du 7 juillet 2023 instaurant une majorité numérique",
+   "Loi adoptée le 21 juillet 2026 étendant l’interdiction du téléphone au lycée ; censure de l’interdiction des réseaux sociaux avant 15 ans par le Conseil constitutionnel le 14 août 2026"
+  ],
+  "liens": [
+   "ia-a-l-ecole",
+   "harcelement-scolaire"
+  ],
+  "motifs": [
+   "écrans à l'école",
+   "écrans aux enfants",
+   "zéro écran",
+   "écrans numériques",
+   "téléphone interdit",
+   "réseaux sociaux pour les moins de",
+   "moins de 15 ans",
+   "devant les écrans",
+   "usage des écrans"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’interdire l’usage des écrans à l’école avant six ans.",
+    "appuis": [
+     "pe717bf0a"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit « zéro écran à l’école primaire » et l’interdiction du téléphone dans les établissements jusqu’à la fin du lycée.",
+    "appuis": [
+     "pe5b454f7",
+     "pa5e5371f"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’interdire les réseaux sociaux aux moins de 15 ans.",
+    "appuis": [
+     "p5096e2b5"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit que chaque enfant côtoie le vivant pour échapper à « la fascination exclusive des écrans numériques ».",
+    "appuis": [
+     "pfef3f6c0"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit d’« aller au bout » de l’interdiction des réseaux sociaux pour les moins de 15 ans.",
+    "appuis": [
+     "pbd8d1007"
+    ]
+   }
+  }
+ },
+ {
+  "id": "ia-a-l-ecole",
+  "nom": "Intelligence artificielle à l’école",
+  "variantes": [
+   "formation à l’IA",
+   "numérique éducatif",
+   "enseignement du code"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "La question recouvre l’enseignement de l’informatique et de l’intelligence artificielle, l’usage d’outils d’IA par les élèves et les enseignants, et la formation des étudiants et des actifs à ces technologies. L’informatique est enseignée au lycée, notamment par la spécialité numérique et sciences informatiques créée en 2019, et le collège comporte une initiation à la programmation. Le développement des outils d’IA générative depuis 2022 a relancé le débat sur leur place dans les apprentissages.",
+  "enjeux": "Certains font de la maîtrise de l’IA une nouvelle forme d’alphabétisation à généraliser dès le primaire ; d’autres veulent la tenir à l’écart des élèves avant le lycée pour préserver les apprentissages classiques. Le débat porte aussi sur la formation d’ingénieurs et de spécialistes, et sur la souveraineté des outils utilisés à l’école.",
+  "reperes": [
+   "Spécialité numérique et sciences informatiques au lycée depuis 2019"
+  ],
+  "liens": [
+   "ecrans-a-l-ecole",
+   "savoirs-fondamentaux"
+  ],
+  "motifs": [
+   "formation à l'IA",
+   "socle de maîtrise de l'IA",
+   "IA comme outil pédagogique",
+   "intelligence artificielle avant le lycée",
+   "Français à l'IA",
+   "ingénieurs spécialisés en IA",
+   "campus international de l'I.A",
+   "code informatique",
+   "programmation informatique",
+   "numérique éducatif"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose de réserver l’IA comme outil pédagogique au lycée, sans « exposition directe » avant, d’intégrer un socle de maîtrise de l’IA dans tous les cursus du supérieur et de doubler le nombre d’ingénieurs spécialisés.",
+    "appuis": [
+     "p37da9ba0",
+     "p4a947232",
+     "p88c7c8ca"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un campus international de l’IA formant ensemble codeurs, juristes et scientifiques.",
+    "appuis": [
+     "pa1411ed7"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de donner une « place de choix » à l’enseignement de la programmation informatique dès le secondaire.",
+    "appuis": [
+     "p4fdeb1b4"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose une formation à l’IA « universelle, obligatoire, exigeante », du primaire à la reconversion, et l’enseignement du code dès la cinquième.",
+    "appuis": [
+     "p505a3ed2",
+     "p6feff675",
+     "p633357f3"
+    ]
+   }
+  }
+ },
+ {
+  "id": "educations-a",
+  "nom": "« Éducations à »",
+  "variantes": [
+   "éducation à l’environnement",
+   "éducation aux médias",
+   "éducation à la citoyenneté",
+   "enseignement moral et civique"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "L’expression désigne les enseignements transversaux ajoutés aux disciplines au fil des années : éducation au développement durable, aux médias et à l’information, à la santé, à la sécurité routière, à la vie affective, à l’égalité entre filles et garçons. Ils ne disposent généralement pas d’horaires propres et sont répartis entre disciplines et projets. L’enseignement moral et civique (EMC), créé en 2015, en constitue la forme disciplinaire.",
+  "enjeux": "Leurs défenseurs y voient une réponse aux défis contemporains, comme la désinformation ou la crise écologique, et demandent des moyens dédiés. Leurs critiques dénoncent une dispersion qui « grignote » les heures de français et de mathématiques, et souhaitent rendre ce temps aux disciplines fondamentales.",
+  "reperes": [
+   "Enseignement moral et civique créé en 2015"
+  ],
+  "liens": [
+   "savoirs-fondamentaux",
+   "evars"
+  ],
+  "motifs": [
+   "« éducations à »",
+   "éducations à",
+   "éducation aux médias",
+   "Médias et Influence",
+   "Enseignement moral et civique",
+   "Enseignement Civique et Morale",
+   "enjeu écologique dans les programmes"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose des moyens pour développer les « éducations à » la nature, à la pensée critique et à la vie affective, d’intégrer l’écologie dans les programmes et de « massifier » l’éducation aux médias.",
+    "appuis": [
+     "p042bcf5e",
+     "p70aecf38",
+     "pcd2a3544"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de mettre fin, dans le temps scolaire, à « la dispersion des “éducations à” » au profit du français, du calcul et de l’anglais.",
+    "appuis": [
+     "pa71d8375"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’enseigner le décryptage des médias dès le primaire et un module obligatoire « Médias et Influence » au lycée.",
+    "appuis": [
+     "p16f61402"
+    ]
+   }
+  }
+ },
+ {
+  "id": "evars",
+  "nom": "Éducation à la vie affective et sexuelle",
+  "variantes": [
+   "EVARS",
+   "EVAR",
+   "éducation sexuelle"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "education",
+  "definition": "L’éducation à la sexualité est prévue par la loi depuis 2001, à raison d’au moins trois séances annuelles de l’école au lycée, mais elle a longtemps été peu appliquée. Un programme national a été publié en 2025 : l’éducation à la vie affective et relationnelle (EVAR) à l’école primaire, et l’éducation à la vie affective et relationnelle et à la sexualité (EVARS) au collège et au lycée. Elle aborde notamment le consentement, le respect du corps et la prévention des violences.",
+  "enjeux": "Ses partisans y voient un levier de prévention des violences sexuelles et des discriminations, et demandent son application effective avec des moyens. Une partie des opposants contestent certains contenus et le rôle des associations intervenantes, et défendent la primauté des parents en la matière.",
+  "reperes": [
+   "Loi du 4 juillet 2001 prévoyant trois séances annuelles",
+   "Programme EVAR et EVARS publié en 2025"
+  ],
+  "liens": [
+   "educations-a",
+   "harcelement-scolaire"
+  ],
+  "motifs": [
+   "EVARS",
+   "EVAR",
+   "vie affective"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de veiller à l’application de l’EVAR dans toutes les écoles élémentaires et de l’EVARS dans tous les établissements du second degré, avec un budget dédié.",
+    "appuis": [
+     "pec7d2cc0",
+     "p042bcf5e"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de protéger les interventions associatives sur les discriminations et de renforcer les contrôles de la mise en œuvre de l’éducation à la vie affective.",
+    "appuis": [
+     "pb4f36dfa"
+    ]
+   }
+  }
+ },
+ {
+  "id": "langues-regionales",
+  "nom": "Langues régionales",
+  "variantes": [
+   "Charte européenne des langues régionales",
+   "enseignement immersif",
+   "enseignement bilingue",
+   "ELCO"
+  ],
+  "categorie": "notion juridique",
+  "theme": "education",
+  "definition": "Les langues régionales, comme le basque, le breton, le catalan, le corse, l’alsacien, l’occitan ou les créoles, peuvent être enseignées à l’école sous forme d’option, de cursus bilingue ou, dans des écoles associatives, d’immersion. Depuis 2008, la Constitution dispose qu’elles « appartiennent au patrimoine de la France ». La France a signé en 1999 la Charte européenne des langues régionales ou minoritaires, mais ne l’a pas ratifiée, le Conseil constitutionnel l’ayant jugée contraire à la Constitution. La loi Molac de 2021 a renforcé leur protection, sa disposition sur l’enseignement immersif ayant été censurée.",
+  "enjeux": "Leurs défenseurs demandent la ratification de la Charte et le développement de l’enseignement bilingue. D’autres invoquent l’article 2 de la Constitution, selon lequel la langue de la République est le français, et l’unité nationale. Un débat voisin porte sur l’enseignement des langues d’origine des élèves issus de l’immigration, longtemps assuré par des enseignants étrangers dans le cadre des ELCO, remplacés en 2020 par un enseignement international de langues étrangères.",
+  "reperes": [
+   "Article 75-1 de la Constitution depuis 2008",
+   "Charte européenne signée en 1999, non ratifiée",
+   "Loi Molac du 21 mai 2021"
+  ],
+  "liens": [
+   "educations-a"
+  ],
+  "motifs": [
+   "langues régionales",
+   "Charte des Langues régionales",
+   "enseignement bilingue",
+   "langue et de culture d'origine",
+   "ELCO"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de ratifier la Charte des langues régionales et minoritaires, de protéger les langues régionales de l’Hexagone, de Corse et des outre-mer et de soutenir l’enseignement bilingue.",
+    "appuis": [
+     "p6aa026a5",
+     "pa7d9d37a"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de favoriser l’enseignement des langues régionales en outre-mer.",
+    "appuis": [
+     "pa2ff8a76"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de supprimer les enseignements de langue et de culture d’origine (ELCO), présentés comme nuisant à « l’assimilation des élèves ».",
+    "appuis": [
+     "p4ac60c26"
+    ]
+   }
+  }
+ },
+ {
+  "id": "autonomie-des-etablissements",
+  "nom": "Autonomie des établissements scolaires",
+  "variantes": [
+   "liberté pédagogique",
+   "statut de directeur d’école",
+   "établissement public local d’enseignement",
+   "école du socle"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "Les collèges et lycées sont des établissements publics locaux d’enseignement (EPLE) dotés d’un conseil d’administration et d’une marge de manœuvre limitée sur l’usage de leurs heures et leur projet. Les écoles primaires, elles, n’ont pas de personnalité juridique, et leur directeur n’était pas un supérieur hiérarchique des enseignants ; la loi Rilhac de 2021 lui a reconnu une autorité fonctionnelle. La liberté pédagogique de l’enseignant est reconnue par le code de l’éducation, dans le respect des programmes. Le recrutement des enseignants reste national, par mutation.",
+  "enjeux": "Les partisans de l’autonomie souhaitent donner aux établissements la liberté de recruter une partie de leur équipe, d’adapter les programmes et d’organiser le temps scolaire, avec une évaluation publique des résultats. Leurs opposants craignent une concurrence entre établissements et un creusement des inégalités, et défendent plutôt la liberté pédagogique des enseignants et des moyens supplémentaires.",
+  "reperes": [
+   "Loi Rilhac du 21 décembre 2021 sur la fonction de directeur d’école"
+  ],
+  "liens": [
+   "revalorisation-des-enseignants",
+   "autorite-et-discipline",
+   "enseignement-prive-sous-contrat"
+  ],
+  "motifs": [
+   "liberté pédagogique",
+   "plus de liberté pour les établissements",
+   "plus de liberté aux écoles",
+   "établissements de plein exercice",
+   "statut de directeur d'école",
+   "Établissements publics innovants",
+   "budget pédagogique",
+   "temps de décharge",
+   "école du socle"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de développer la liberté pédagogique par un budget pédagogique dans chaque établissement et d’augmenter le temps de décharge des directeurs d’école.",
+    "appuis": [
+     "p4a817c33",
+     "pa5f45d45"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de « préserver la liberté pédagogique ».",
+    "appuis": [
+     "p8a5d078d"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de créer un statut de directeur d’école « doté d’une autorité réelle », 1 000 « Établissements publics innovants » et des programmes que chaque établissement pourra adapter.",
+    "appuis": [
+     "p2e4b4b6d",
+     "pe9f1cc0c",
+     "p0e3e10ff"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de réduire la bureaucratie pour « redonner libertés et moyens aux professeurs ».",
+    "appuis": [
+     "p783dc2fc"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose plus de liberté pour les établissements dans leur organisation interne et pour le recrutement d’une partie de l’équipe pédagogique, avec la publication d’indicateurs de réussite.",
+    "appuis": [
+     "paf9375ff",
+     "p59dd9822"
+    ]
+   }
+  }
+ },
+ {
+  "id": "fermetures-d-ecoles-rurales",
+  "nom": "Fermetures d’écoles rurales",
+  "variantes": [
+   "école de proximité",
+   "regroupement pédagogique intercommunal",
+   "fermetures de classes"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "Les ouvertures et fermetures de classes sont décidées chaque année par les services académiques en fonction des effectifs prévus. Dans les territoires ruraux, la baisse démographique conduit à fermer des classes ou à regrouper des écoles au sein de regroupements pédagogiques intercommunaux (RPI), ce qui allonge les trajets des élèves. En avril 2019, le président de la République s’est engagé à ce qu’aucune école ne ferme sans l’accord du maire jusqu’à la fin du quinquennat, en 2022 ; cet engagement portait sur les écoles, et non sur les fermetures de classes.",
+  "enjeux": "Les élus ruraux et plusieurs partis défendent l’école de proximité comme service public essentiel à la vie des villages. D’autres font valoir que des écoles de taille suffisante offrent de meilleures conditions pédagogiques et que les moyens doivent suivre les élèves.",
+  "reperes": [
+   "Regroupements pédagogiques intercommunaux"
+  ],
+  "liens": [
+   "effectifs-par-classe",
+   "education-prioritaire",
+   "carte-scolaire"
+  ],
+  "motifs": [
+   "fermetures d'écoles",
+   "fermeture des écoles rurales",
+   "écoles rurales",
+   "école de proximité",
+   "réimplanter des écoles publiques",
+   "aucune classe ne fermera",
+   "fermetures de classes"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de réimplanter des écoles publiques dans tous les territoires, en particulier en ruralité, et de limiter à 30 minutes le trajet des enfants.",
+    "appuis": [
+     "pfb502e99",
+     "p4ffc57b6"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’arrêter les fermetures de classes et de lycées professionnels.",
+    "appuis": [
+     "p5facedf0"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit que, dans les communes rurales, « aucune classe ne fermera sans consultation obligatoire du conseil municipal ».",
+    "appuis": [
+     "pcdd9bc40"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de « sauver l’école de proximité » en freinant les fermetures d’écoles rurales et en réévaluant les regroupements.",
+    "appuis": [
+     "pfae88093"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d’arrêter les fermetures d’écoles.",
+    "appuis": [
+     "p51a538f7"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de suspendre la fermeture des écoles rurales sans l’accord du maire.",
+    "appuis": [
+     "p1c1f9bf9"
+    ]
+   }
+  }
+ },
+ {
+  "id": "gratuite-scolaire",
+  "nom": "Gratuité de l’école et des études",
+  "variantes": [
+   "gratuité de la cantine",
+   "gratuité de l’enseignement supérieur",
+   "cantine à 1 euro"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "L’enseignement public primaire est gratuit depuis la loi Ferry de 1881, et la gratuité a été étendue au secondaire dans les années 1930. Restent à la charge des familles, selon les cas, la cantine, les fournitures, certains transports, les activités périscolaires et, dans le supérieur, les droits d’inscription et la CVEC. La restauration scolaire est un service facultatif des collectivités, dont les tarifs peuvent être modulés selon les revenus, l’État soutenant depuis 2019 des tarifs sociaux à un euro dans certaines communes.",
+  "enjeux": "Les partisans d’une gratuité intégrale y voient une condition de l’égalité réelle et un levier contre la pauvreté des enfants. Ses critiques mettent en avant son coût pour les finances publiques et préfèrent des tarifs sociaux ciblés.",
+  "reperes": [
+   "Loi du 16 juin 1881 sur la gratuité de l’enseignement primaire public"
+  ],
+  "liens": [
+   "bourses-sur-criteres-sociaux",
+   "allocation-d-autonomie",
+   "droits-d-inscription-etudiants-etrangers"
+  ],
+  "motifs": [
+   "gratuité intégrale",
+   "gratuité de l'enseignement supérieur",
+   "cantines scolaires un service public gratuit",
+   "gratuité de la cantine",
+   "soutien scolaire gratuit",
+   "goûters et des petits-déjeuners",
+   "cantine à 1 €",
+   "repas à 1 euro"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de rétablir les « cantines à 1 euro » pour les communes qui le souhaitent et de prendre en charge les goûters et petits-déjeuners dans les écoles des quartiers prioritaires de la politique de la ville.",
+    "appuis": [
+     "pa0af86b9",
+     "pc0ecd899"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit la « gratuité intégrale » à l’école, dont la cantine, les fournitures et les transports, la gratuité de l’enseignement supérieur et le repas à 1 euro dans les Crous.",
+    "appuis": [
+     "pd88023c3",
+     "p522c0164",
+     "p2e398ef1"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose une « réserve éducative nationale » pour du soutien scolaire gratuit et la cantine à 1 euro contre la grande pauvreté.",
+    "appuis": [
+     "p1eaee05e",
+     "p2bb5498e"
+    ]
+   }
+  }
+ },
+ {
+  "id": "service-national-universel",
+  "nom": "Service national universel",
+  "variantes": [
+   "SNU",
+   "service civique",
+   "service citoyen",
+   "service militaire"
+  ],
+  "categorie": "politique publique",
+  "theme": "education",
+  "definition": "Le service national universel (SNU) est un dispositif destiné aux jeunes de 15 à 17 ans, comprenant un séjour de cohésion collectif d’environ deux semaines puis une mission d’intérêt général. Expérimenté à partir de 2019 sur la base du volontariat, il n’a jamais été généralisé ni rendu obligatoire. Le gouvernement a annoncé en septembre 2025 la suppression de sa délégation ministérielle au 1er janvier 2026, et le président de la République a annoncé en novembre 2025 la création d’un service militaire volontaire de dix mois pour les jeunes majeurs, dont la première promotion était prévue en septembre 2026. Il coexiste avec le service civique, créé en 2010, qui permet aux 16-25 ans d’effectuer une mission indemnisée de six à douze mois auprès d’une association ou d’un service public. Le service militaire obligatoire a été suspendu en 1997.",
+  "enjeux": "Ses partisans y voient un moyen de recréer un brassage social et un engagement civique, voire un « rite de passage » commun. Ses critiques jugent son coût élevé au regard de ses effets, contestent son encadrement d’inspiration militaire et préfèrent renforcer le service civique et les associations de jeunesse. D’autres proposent un service obligatoire rémunéré de plus longue durée.",
+  "reperes": [
+   "Service civique créé par la loi du 10 mars 2010",
+   "Suspension du service militaire obligatoire votée en 1997",
+   "SNU expérimenté à partir de 2019, abandonné en 2025",
+   "Annonce d’un service militaire volontaire de dix mois, novembre 2025"
+  ],
+  "liens": [
+   "education-populaire",
+   "allocation-d-autonomie"
+  ],
+  "motifs": [
+   "service national universel",
+   "SNU",
+   "service civique",
+   "services civiques",
+   "service citoyen",
+   "rite de passage",
+   "Service national volontaire"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’accroître le nombre de services civiques et de revaloriser leur indemnité.",
+    "appuis": [
+     "pa227de87"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’arrêter le SNU et d’instaurer un « service citoyen obligatoire » de neuf mois pour les moins de 25 ans, rémunéré au Smic.",
+    "appuis": [
+     "p92432cb6",
+     "pff1a4bff"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de recréer « un rite de passage républicain et universel » autour de la majorité pour remplacer le service militaire.",
+    "appuis": [
+     "p13bcc4de"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d’expérimenter un « Service national volontaire du patrimoine ».",
+    "appuis": [
+     "p7ad6bcb9"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit de déployer le service national universel, avec le financement du permis de conduire pour ceux qui s’y engagent pleinement.",
+    "appuis": [
+     "p8d265d1e"
+    ]
+   }
+  }
+ },
+ {
+  "id": "education-populaire",
+  "nom": "Éducation populaire",
+  "variantes": [
+   "MJC",
+   "colonies de vacances",
+   "accueils collectifs de mineurs",
+   "centres sociaux"
+  ],
+  "categorie": "doctrine ou courant",
+  "theme": "education",
+  "definition": "L’éducation populaire désigne un ensemble de mouvements et d’associations qui visent l’émancipation et la formation des personnes en dehors du cadre scolaire, par des activités culturelles, sportives, civiques ou de loisirs. Elle s’est structurée à partir de la fin du XIXe siècle, puis avec le Front populaire et la Libération, à travers les maisons des jeunes et de la culture (MJC), les fédérations laïques, confessionnelles ou de jeunesse, et les colonies de vacances. L’État agrée ces associations et leur verse des subventions, qui ont fortement fluctué.",
+  "enjeux": "Ses défenseurs demandent des financements pérennes et pluriannuels plutôt que des appels à projets, et un accès de tous les enfants aux séjours collectifs, dont la fréquentation a reculé. Le débat porte aussi sur la place de ces associations face à des dispositifs d’État comme le SNU.",
+  "reperes": [],
+  "liens": [
+   "service-national-universel",
+   "pass-culture"
+  ],
+  "motifs": [
+   "éducation populaire",
+   "MJC",
+   "colonies de vacances",
+   "séjours collectifs"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de « rétablir une politique de soutien à l’éducation populaire » : centres sociaux, MJC, tiers-lieux, associations.",
+    "appuis": [
+     "p28d14dd4"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de soutenir les associations de jeunesse et d’éducation populaire et de créer un fonds de solidarité pour le départ en séjours collectifs des mineurs.",
+    "appuis": [
+     "p92432cb6",
+     "p60e52e44",
+     "p30324a36"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un fonds national pérenne pour l’éducation populaire et un « passeport pour l’émancipation citoyenne des enfants » finançant classes découvertes et colonies.",
+    "appuis": [
+     "p37e9e86e",
+     "p93deb57e"
+    ]
+   }
+  }
+ },
+ {
+  "id": "pass-culture",
+  "nom": "Pass Culture et éducation artistique",
+  "variantes": [
+   "part individuelle",
+   "part collective",
+   "éducation artistique et culturelle"
+  ],
+  "categorie": "prestation sociale",
+  "theme": "education",
+  "definition": "Le pass Culture est un dispositif public qui offre aux jeunes un crédit à dépenser dans des offres culturelles (livres, places de spectacle, cours, instruments) via une application. Généralisé en 2021 pour les jeunes de 18 ans, il comprend aussi une « part collective » finançant des sorties et des interventions artistiques pour les classes, du collège au lycée. Depuis le 1er mars 2025, la part individuelle est ramenée de 300 à 150 euros à 18 ans, portée de 30 à 50 euros à 17 ans et supprimée à 15 et 16 ans. Il est souvent critiqué pour la concentration de ses dépenses sur les livres et les produits culturels déjà populaires.",
+  "enjeux": "Ses défenseurs y voient un outil d’accès autonome des jeunes à la culture. Ses critiques jugent qu’il profite surtout aux pratiques existantes et proposent de réorienter ses crédits vers l’éducation artistique à l’école ou vers la diversité culturelle. D’autres souhaitent l’étendre aux plus jeunes.",
+  "reperes": [
+   "Généralisé en 2021 pour les jeunes de 18 ans",
+   "Décret du 27 février 2025 révisant la part individuelle, applicable au 1er mars 2025"
+  ],
+  "liens": [
+   "education-populaire"
+  ],
+  "motifs": [
+   "pass Culture",
+   "Classe Culture",
+   "éducation artistique",
+   "enseignement artistique"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de « réviser en profondeur » le Pass Culture pour favoriser l’accès des jeunes à la diversité artistique et culturelle.",
+    "appuis": [
+     "p0c95adcf"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit un « renouveau de l’éducation artistique à l’école et dans les conservatoires ».",
+    "appuis": [
+     "p30324a36"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose une « Classe Culture » dotée d’un budget propre dans chaque école et établissement.",
+    "appuis": [
+     "p2dc21b1b"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de supprimer la part individuelle du pass Culture au profit d’artistes intervenant en milieu scolaire.",
+    "appuis": [
+     "pd63a6e03"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit d’étendre le pass Culture pour accéder plus jeune à la culture.",
+    "appuis": [
+     "pcb8555dd"
+    ]
+   }
+  }
+ },
+ {
+  "id": "intermittence-du-spectacle",
+  "nom": "Intermittence du spectacle",
+  "variantes": [
+   "régime des intermittents",
+   "annexes 8 et 10",
+   "statut des artistes-auteurs"
+  ],
+  "categorie": "prestation sociale",
+  "theme": "education",
+  "definition": "Le régime d’assurance chômage des intermittents du spectacle, défini par les annexes 8 et 10 de la convention d’assurance chômage, indemnise les artistes et techniciens qui alternent contrats courts et périodes sans emploi. Il exige en principe 507 heures de travail sur douze mois. Les artistes-auteurs, comme les écrivains, illustrateurs ou plasticiens, relèvent d’un autre régime : rémunérés en droits d’auteur, ils sont affiliés à la sécurité sociale mais ne bénéficient pas d’assurance chômage.",
+  "enjeux": "Ses défenseurs le présentent comme une condition de l’existence du spectacle vivant et de la création, et demandent de l’étendre ou d’en créer l’équivalent pour les artistes-auteurs. Ses critiques soulignent son déficit et estiment qu’il subventionne indirectement les employeurs du secteur.",
+  "reperes": [
+   "Seuil de 507 heures sur douze mois",
+   "Accord du 28 avril 2016 sur les annexes 8 et 10"
+  ],
+  "liens": [
+   "pass-culture"
+  ],
+  "motifs": [
+   "intermittents",
+   "intermittent·es",
+   "artistes-auteurs"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de préserver la protection chômage des intermittents et de créer une assurance-chômage pour les artistes-auteurs.",
+    "appuis": [
+     "p2db1661d",
+     "p9167e5c1"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de pérenniser le régime des intermittents sur la base de l’accord du 28 avril 2016, de l’étendre aux professions artistiques précaires et de créer un régime pour les artistes-auteurs.",
+    "appuis": [
+     "p693e72b8",
+     "p9faf610b"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une loi sur le statut des artistes-auteurs garantissant continuité de revenus et droits sociaux.",
+    "appuis": [
+     "p2926ffe6"
+    ]
+   }
+  }
+ }
+]

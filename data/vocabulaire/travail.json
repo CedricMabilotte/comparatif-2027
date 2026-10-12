@@ -1,0 +1,1892 @@
+[
+ {
+  "id": "superprofits",
+  "terme": "Superprofits",
+  "variantes": [
+   "superprofit",
+   "profits exceptionnels"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Profits jugés exceptionnels, réalisés par des entreprises à la faveur d'une conjoncture particulière, comme une flambée des prix de l'énergie ou des matières premières, plutôt que par leur propre activité. Le terme sert à justifier des taxes exceptionnelles sur ces bénéfices.",
+  "usage": "Employé par LFI, les écologistes et le PS pour viser l'énergie, le transport maritime, l'agro-industrie ou la grande distribution. Le mot suggère un enrichissement indu ; ses contradicteurs parlent de « bénéfices » ou de « résultats » et soulignent la difficulté de définir le seuil de l'exceptionnel.",
+  "concurrents": [
+   "profits exceptionnels",
+   "bénéfices",
+   "rente"
+  ],
+  "notions": [
+   "prix-planchers",
+   "partage-de-la-valeur"
+  ],
+  "motifs": [
+   "superprofits",
+   "superprofit"
+  ]
+ },
+ {
+  "id": "cout-du-travail",
+  "terme": "Coût du travail",
+  "variantes": [
+   "coût salarial"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Ensemble des dépenses supportées par l'employeur pour un salarié : salaire brut, cotisations patronales et autres charges liées à l'emploi. C'est une notion comptable courante, mais son emploi dans le débat public est chargé.",
+  "usage": "Les Républicains en font un argument de compétitivité et proposent de le baisser « dès la première heure ». La gauche lui préfère « salaire socialisé » ou « rémunération du travail », pour souligner que les cotisations financent des droits.",
+  "concurrents": [
+   "salaire socialisé",
+   "rémunération du travail"
+  ],
+  "notions": [
+   "smic",
+   "conditionnalite-des-aides"
+  ],
+  "motifs": [
+   "coût du travail"
+  ]
+ },
+ {
+  "id": "charges-sociales",
+  "terme": "Charges sociales",
+  "variantes": [
+   "charges",
+   "charges patronales",
+   "charges salariales",
+   "zéro charge"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Expression courante pour désigner les cotisations et contributions sociales prélevées sur les salaires, à la charge de l'employeur ou du salarié. Le droit parle de cotisations sociales.",
+  "usage": "Employé par LR, Reconquête (« Prime Zéro Charge ») et Renaissance, qui proposent de « réduire les charges » pour augmenter le salaire net. Le mot présente ces prélèvements comme un poids ; les syndicats et la gauche parlent de « cotisations », qui ouvrent des droits.",
+  "concurrents": [
+   "cotisations sociales",
+   "salaire socialisé"
+  ],
+  "notions": [
+   "heures-supplementaires",
+   "smic"
+  ],
+  "motifs": [
+   "charges sociales",
+   "charges patronales",
+   "charges salariales",
+   "Zéro Charge",
+   "ni charge"
+  ]
+ },
+ {
+  "id": "cotisations-sociales",
+  "terme": "Cotisations sociales",
+  "variantes": [
+   "cotisations patronales",
+   "cotisations salariales"
+  ],
+  "registre": "technique",
+  "theme": "travail",
+  "definition": "Prélèvements assis sur les rémunérations qui financent la Sécurité sociale et l'assurance chômage. Elles ouvrent des droits contributifs (retraite, chômage, indemnités journalières) et se répartissent entre une part patronale et une part salariale.",
+  "usage": "Terme employé par tous les partis dans les propositions d'exonération : LR, Reconquête et le RN proposent des exonérations ciblées, les écologistes veulent supprimer celles qu'ils jugent « inutiles » au-dessus de 1,6 SMIC. Le choix de « cotisations » plutôt que « charges » met l'accent sur les droits ouverts.",
+  "concurrents": [
+   "charges sociales",
+   "prélèvements"
+  ],
+  "notions": [
+   "apprentissage",
+   "smic",
+   "conditionnalite-des-aides"
+  ],
+  "motifs": [
+   "cotisations patronales",
+   "cotisations salariales",
+   "cotisations sociales"
+  ]
+ },
+ {
+  "id": "licenciements-boursiers",
+  "terme": "Licenciements boursiers",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Expression sans définition juridique désignant des licenciements décidés par une entreprise bénéficiaire, ou pour améliorer la rentabilité versée aux actionnaires et le cours de bourse.",
+  "usage": "Employée par LFI, qui propose de les interdire. L'expression oppose l'emploi à la rémunération du capital ; ses contradicteurs parlent de « restructurations » ou de « licenciements économiques » destinés à préserver la compétitivité.",
+  "concurrents": [
+   "licenciements économiques",
+   "restructurations",
+   "plan de sauvegarde de l'emploi"
+  ],
+  "notions": [
+   "licenciements-economiques",
+   "partage-de-la-valeur"
+  ],
+  "motifs": [
+   "licenciements boursiers"
+  ]
+ },
+ {
+  "id": "management-toxique",
+  "terme": "Management toxique",
+  "variantes": [
+   "idéologie managériale"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Pratiques d'encadrement jugées nuisibles à la santé des salariés : pression excessive, objectifs inatteignables, isolement, harcèlement. La notion recoupe en partie celle de risques psychosociaux.",
+  "usage": "Les écologistes veulent « mettre fin aux pratiques de management toxique » et LFI dénonce une « idéologie managériale ». Ces formules mettent en cause l'organisation du travail elle-même plutôt que des comportements individuels ; le vocabulaire administratif parle de « risques psychosociaux ».",
+  "concurrents": [
+   "risques psychosociaux",
+   "qualité de vie au travail"
+  ],
+  "notions": [
+   "sante-au-travail"
+  ],
+  "motifs": [
+   "management toxique",
+   "idéologie managériale"
+  ]
+ },
+ {
+  "id": "marges-abusives",
+  "terme": "Marges abusives de la grande distribution",
+  "variantes": [
+   "marges de la grande distribution"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Désigne les marges réalisées par les distributeurs et les industriels de l'agroalimentaire, présentées comme excessives au détriment des producteurs agricoles et des consommateurs.",
+  "usage": "Le RN parle de « marges abusives », LFI propose de « plafonner les marges », les écologistes d'afficher leur répartition. La formule désigne un responsable du faible revenu agricole ; les distributeurs mettent en avant des marges nettes faibles et la pression qu'ils exercent sur les prix à la consommation.",
+  "concurrents": [
+   "partage de la valeur",
+   "répartition des marges"
+  ],
+  "notions": [
+   "prix-planchers"
+  ],
+  "motifs": [
+   "marges abusives",
+   "marges de la grande distribution",
+   "répartition des marges"
+  ]
+ },
+ {
+  "id": "concurrence-deloyale",
+  "terme": "Concurrence déloyale",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Au sens juridique, actes contraires aux usages loyaux du commerce entre concurrents. Dans le débat politique, l'expression désigne la concurrence de producteurs soumis à des normes sociales, environnementales ou fiscales moins exigeantes.",
+  "usage": "Employée par LFI, le PS, le RN, Reconquête et Renaissance, à propos du travail détaché, des importations agricoles ou des produits chinois. Elle justifie des mesures de protection ; les partisans du libre-échange parlent d'« avantages comparatifs ».",
+  "concurrents": [
+   "avantages comparatifs",
+   "compétitivité"
+  ],
+  "notions": [
+   "protectionnisme",
+   "travailleurs-detaches"
+  ],
+  "motifs": [
+   "concurrence déloyale"
+  ]
+ },
+ {
+  "id": "souverainete",
+  "terme": "Souveraineté (industrielle, numérique, alimentaire)",
+  "variantes": [
+   "souverain",
+   "souveraine",
+   "acteurs souverains"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Au sens juridique, pouvoir suprême de l'État. Le mot est aujourd'hui employé dans un sens économique pour désigner la capacité d'un pays ou de l'Europe à produire lui-même les biens et services jugés essentiels sans dépendre de puissances étrangères.",
+  "usage": "C'est l'un des mots les plus partagés du thème, employé par tous les partis représentés. Les écologistes, LFI et le PS l'associent souvent à l'échelle européenne et à la maîtrise publique, LR, Reconquête et le RN plutôt à l'échelle nationale. Son consensus apparent masque des désaccords sur les moyens.",
+  "concurrents": [
+   "autonomie stratégique",
+   "indépendance"
+  ],
+  "notions": [
+   "reindustrialisation",
+   "souverainete-numerique",
+   "fonds-souverain"
+  ],
+  "motifs": [
+   "souveraineté",
+   "souverain",
+   "souverains",
+   "souveraine",
+   "souveraines"
+  ]
+ },
+ {
+  "id": "souverainete-alimentaire",
+  "terme": "Souveraineté alimentaire",
+  "variantes": [
+   "Manger français",
+   "autosuffisance alimentaire"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Capacité d'un pays à définir sa politique agricole et à produire lui-même l'essentiel de son alimentation. La notion a été popularisée par le mouvement paysan international Via Campesina dans les années 1990.",
+  "usage": "LFI l'emploie dans le sens originel d'une agriculture paysanne relocalisée ; le RN la décline en plan « Manger français ». La droite parle plutôt d'« objectifs mesurables par filière ». Le même mot recouvre une critique du libre-échange et une défense de la production nationale.",
+  "concurrents": [
+   "sécurité alimentaire",
+   "compétitivité agricole"
+  ],
+  "notions": [
+   "politique-agricole-commune",
+   "protectionnisme"
+  ],
+  "motifs": [
+   "souveraineté alimentaire",
+   "Manger français",
+   "autosuffisance alimentaire"
+  ]
+ },
+ {
+  "id": "valeur-travail",
+  "terme": "Valeur travail",
+  "variantes": [
+   "revalorisation du travail",
+   "travailler plus"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Expression qui fait du travail une valeur morale et sociale, à récompenser par le revenu et à préférer aux revenus d'assistance.",
+  "usage": "L'expression elle-même figure peu dans les programmes, mais l'idée est mobilisée par Horizons (« revalorisation du travail » comme contrepartie de la solidarité), Renaissance (« travailler plus » à certains moments) et LR. Elle met l'accent sur l'effort individuel ; la gauche parle plutôt de « partage du travail » et de « conditions de travail ».",
+  "concurrents": [
+   "partage du travail",
+   "droit au travail"
+  ],
+  "notions": [
+   "heures-supplementaires",
+   "duree-legale-du-travail"
+  ],
+  "motifs": [
+   "valeur travail",
+   "revalorisation du travail",
+   "travailler plus"
+  ]
+ },
+ {
+  "id": "fermes-usines",
+  "terme": "Fermes-usines",
+  "variantes": [
+   "élevages industriels",
+   "agriculture industrielle"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Désigne des exploitations d'élevage de très grande taille, à forte concentration d'animaux et fortement mécanisées.",
+  "usage": "Employé par LFI (« stopper les projets de fermes-usines ») et les écologistes. Le mot associe l'agriculture à l'usine pour critiquer l'intensification ; les défenseurs de ces exploitations parlent d'« élevages modernes » ou de « compétitivité », et le droit d'« installations classées ».",
+  "concurrents": [
+   "élevages modernes",
+   "installations classées"
+  ],
+  "notions": [
+   "agriculture-biologique"
+  ],
+  "motifs": [
+   "fermes-usines",
+   "fermes usines",
+   "élevages industriels"
+  ]
+ },
+ {
+  "id": "accaparement-des-terres",
+  "terme": "Accaparement des terres",
+  "variantes": [
+   "accaparement"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Acquisition massive de terres agricoles par des investisseurs, des sociétés financières ou des groupes étrangers, au détriment de l'installation d'agriculteurs.",
+  "usage": "Employé par les écologistes, LFI et le RN, ce dernier insistant sur les groupes étrangers. Le mot suggère une captation illégitime ; les acteurs concernés parlent d'« investissement » ou de « concentration des exploitations ».",
+  "concurrents": [
+   "concentration foncière",
+   "agrandissement"
+  ],
+  "notions": [
+   "foncier-agricole",
+   "installation-agricole"
+  ],
+  "motifs": [
+   "accaparement"
+  ]
+ },
+ {
+  "id": "agribashing",
+  "terme": "Agribashing",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Anglicisme désignant un dénigrement supposé systématique des agriculteurs et de leurs pratiques dans le débat public et les médias.",
+  "usage": "Repris par LR, qui propose des campagnes de valorisation de l'agroalimentaire. Le terme présente les critiques environnementales comme une hostilité envers une profession ; les associations environnementales y voient un moyen de disqualifier leurs alertes.",
+  "concurrents": [
+   "critique des pratiques agricoles"
+  ],
+  "notions": [
+   "agriculture-biologique",
+   "simplification-administrative"
+  ],
+  "motifs": [
+   "agribashing"
+  ]
+ },
+ {
+  "id": "penurie-administree",
+  "terme": "Pénurie administrée",
+  "variantes": [
+   "administrer les prix"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Expression qui attribue un manque de logements ou de biens à l'excès de règles publiques plutôt qu'à des causes de marché.",
+  "usage": "Formule de LR à propos du logement (« quarante ans de pénurie administrée », « on ne résout pas une pénurie en administrant les prix »). Elle justifie la libération des loyers et des règles de construction ; la gauche parle de « crise du logement » et de « spéculation ».",
+  "concurrents": [
+   "crise du logement",
+   "spéculation immobilière"
+  ],
+  "notions": [
+   "encadrement-des-loyers",
+   "logement-social"
+  ],
+  "motifs": [
+   "pénurie administrée",
+   "administrant les prix"
+  ]
+ },
+ {
+  "id": "surtransposition",
+  "terme": "Surtransposition",
+  "variantes": [
+   "sur-transposition"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Fait, pour un État, d'ajouter des obligations allant au-delà de ce qu'exige une directive européenne lors de sa transposition en droit national.",
+  "usage": "Employé par LR et Reconquête, qui veulent l'interdire au nom de la compétitivité. Le mot présente l'exigence nationale supplémentaire comme une faute ; ses défenseurs parlent de « mieux-disant » social ou environnemental.",
+  "concurrents": [
+   "mieux-disant"
+  ],
+  "notions": [
+   "simplification-administrative",
+   "surtransposition"
+  ],
+  "motifs": [
+   "surtransposition",
+   "sur-transposition"
+  ]
+ },
+ {
+  "id": "desherbage-normatif",
+  "terme": "Désherbage normatif",
+  "variantes": [
+   "désherbage"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Métaphore désignant la suppression systématique de règles jugées inutiles, redondantes ou disproportionnées.",
+  "usage": "Formule de LR. L'image assimile les normes à des mauvaises herbes ; d'autres parlent de « simplification » ou, à l'inverse, de « dérégulation ».",
+  "concurrents": [
+   "simplification",
+   "dérégulation"
+  ],
+  "notions": [
+   "simplification-administrative"
+  ],
+  "motifs": [
+   "désherbage"
+  ]
+ },
+ {
+  "id": "souplesse",
+  "terme": "Souplesse et flexibilité",
+  "variantes": [
+   "assouplir",
+   "flexibilité"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Capacité des entreprises à adapter l'organisation, la durée du travail ou les contrats aux variations de l'activité.",
+  "usage": "Employés par LR (annualisation, temps partiel assoupli) et Reconquête. Ces mots présentent la règle comme une rigidité ; syndicats et partis de gauche parlent de « précarisation » ou de « dérégulation ».",
+  "concurrents": [
+   "précarisation",
+   "dérégulation"
+  ],
+  "notions": [
+   "duree-legale-du-travail",
+   "principe-de-faveur"
+  ],
+  "motifs": [
+   "souplesse",
+   "assouplir",
+   "flexibilité"
+  ]
+ },
+ {
+  "id": "democratiser-l-entreprise",
+  "terme": "Démocratiser l'entreprise",
+  "variantes": [
+   "démocratie au travail",
+   "droit d'intervention des salariés"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Idée d'étendre aux salariés un pouvoir de décision dans l'entreprise, par des sièges aux conseils, des droits de veto ou des coopératives.",
+  "usage": "Formule des écologistes et de LFI. Elle transpose à l'entreprise le vocabulaire de la démocratie politique ; ses contradicteurs défendent la « liberté d'entreprendre » et la responsabilité des dirigeants devant les actionnaires.",
+  "concurrents": [
+   "liberté d'entreprendre",
+   "gouvernance"
+  ],
+  "notions": [
+   "codetermination",
+   "reprise-en-cooperative",
+   "comite-social-et-economique"
+  ],
+  "motifs": [
+   "démocratie au travail",
+   "démocratiser",
+   "droit d'intervention",
+   "vote de défiance"
+  ]
+ },
+ {
+  "id": "planification",
+  "terme": "Planification",
+  "variantes": [
+   "planifier",
+   "plan de filières"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Organisation par la puissance publique d'objectifs et de moyens économiques sur plusieurs années. La France a eu un Commissariat général du Plan de 1946 à 2006.",
+  "usage": "Employée surtout par les écologistes et LFI (« planification écologique », « plans de filières »), parfois par Renaissance pour la décarbonation. Le mot revendique un rôle directeur de l'État ; ses critiques y voient un « dirigisme ».",
+  "concurrents": [
+   "dirigisme",
+   "économie de marché"
+  ],
+  "notions": [
+   "reindustrialisation"
+  ],
+  "motifs": [
+   "planification",
+   "planifier",
+   "planifiée"
+  ]
+ },
+ {
+  "id": "prosperite-ecologique",
+  "terme": "Prospérité écologique",
+  "variantes": [
+   "indicateurs de prospérité"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Projet de mesurer et de piloter la réussite économique par des indicateurs de bien-être et d'environnement, et pas seulement par la croissance du PIB.",
+  "usage": "Titre et notion centrale du programme des écologistes. La formule se démarque à la fois de la « croissance verte » et de la « décroissance », deux termes que ses adversaires lui opposent.",
+  "concurrents": [
+   "croissance verte",
+   "décroissance",
+   "croissance"
+  ],
+  "notions": [
+   "reindustrialisation"
+  ],
+  "motifs": [
+   "prospérité écologique"
+  ]
+ },
+ {
+  "id": "gafam",
+  "terme": "GAFAM",
+  "variantes": [
+   "géants du numérique",
+   "taxe GAFA",
+   "Big Tech"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Acronyme de Google, Apple, Facebook (Meta), Amazon et Microsoft, désignant par extension les grandes plateformes numériques américaines.",
+  "usage": "Employé par le PS (« sortir de la dépendance aux GAFAM ») ; le RN parle de « géants du numérique ». Le sigle personnifie la dépendance technologique ; les textes administratifs parlent de « contrôleurs d'accès ».",
+  "concurrents": [
+   "contrôleurs d'accès",
+   "grandes plateformes"
+  ],
+  "notions": [
+   "souverainete-numerique"
+  ],
+  "motifs": [
+   "GAFAM",
+   "géants du numérique",
+   "taxe GAFA"
+  ]
+ },
+ {
+  "id": "talents",
+  "terme": "Talents",
+  "variantes": [
+   "attirer les talents"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Désigne les personnes très qualifiées, chercheurs, ingénieurs ou entrepreneurs, que les pays cherchent à attirer ou à retenir.",
+  "usage": "Employé par LR (programme « Retour au pays »), Reconquête et Renaissance. Le mot valorise la compétition internationale pour les compétences ; la gauche parle plutôt de « qualification » ou de « métiers ».",
+  "concurrents": [
+   "compétences",
+   "qualifications"
+  ],
+  "notions": [
+   "intelligence-artificielle",
+   "formation-professionnelle"
+  ],
+  "motifs": [
+   "talents"
+  ]
+ },
+ {
+  "id": "metiers-manuels",
+  "terme": "Métiers manuels et savoir-faire",
+  "variantes": [
+   "savoir-faire"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Métiers de production, d'artisanat ou de réparation reposant sur des compétences pratiques.",
+  "usage": "Valorisés par Reconquête (« identité culturelle française »), Renaissance et LR, souvent en lien avec l'apprentissage.",
+  "concurrents": [
+   "voie professionnelle"
+  ],
+  "notions": [
+   "apprentissage",
+   "formation-professionnelle"
+  ],
+  "motifs": [
+   "métiers manuels",
+   "savoir-faire"
+  ]
+ },
+ {
+  "id": "metiers-en-tension",
+  "terme": "Métiers en tension",
+  "variantes": [
+   "secteurs en tension",
+   "secteurs prioritaires"
+  ],
+  "registre": "administratif",
+  "theme": "travail",
+  "definition": "Métiers pour lesquels les employeurs peinent à recruter, recensés dans des listes officielles par région, qui servent notamment à l'immigration de travail et à l'orientation des formations.",
+  "usage": "Employé par LR, qui lie l'indemnisation chômage à l'acceptation d'une formation dans ces secteurs, et par le RN (« secteurs prioritaires ») pour le logement social. Les syndicats y voient souvent des métiers aux conditions de travail difficiles.",
+  "concurrents": [
+   "pénurie de main-d'œuvre"
+  ],
+  "notions": [
+   "assurance-chomage",
+   "formation-professionnelle"
+  ],
+  "motifs": [
+   "secteur en tension",
+   "métiers en tension",
+   "secteurs prioritaires"
+  ]
+ },
+ {
+  "id": "assistanat",
+  "terme": "Assistanat",
+  "variantes": [
+   "assistés"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Terme péjoratif désignant une dépendance supposée durable aux aides sociales au détriment du travail.",
+  "usage": "Présent dans le débat public mais absent des programmes étudiés pour ce thème. Les textes de LR et d'Horizons expriment une idée voisine par la « contrepartie » exigée des bénéficiaires ; la gauche parle de « solidarité » et de « droits ».",
+  "concurrents": [
+   "solidarité",
+   "droits sociaux",
+   "contrepartie"
+  ],
+  "notions": [
+   "assurance-chomage"
+  ],
+  "motifs": [
+   "assistanat",
+   "assistés"
+  ]
+ },
+ {
+  "id": "contrepartie",
+  "terme": "Contrepartie",
+  "variantes": [
+   "droits et devoirs",
+   "donnant-donnant"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Obligation exigée en échange d'une aide ou d'une protection publique.",
+  "usage": "Le mot circule dans deux sens. LR et Horizons l'appliquent aux bénéficiaires d'aides ou d'indemnités (« l'exigence est la contrepartie de la protection ») ; les écologistes et LFI l'appliquent aux entreprises aidées (aides « sans contrepartie »).",
+  "concurrents": [
+   "conditionnalité",
+   "droits"
+  ],
+  "notions": [
+   "conditionnalite-des-aides",
+   "assurance-chomage"
+  ],
+  "motifs": [
+   "contrepartie",
+   "contreparties",
+   "donnant-donnant"
+  ]
+ },
+ {
+  "id": "demandeurs-d-emploi",
+  "terme": "Demandeurs d'emploi, chômeurs, chercheurs d'emploi",
+  "variantes": [
+   "chômeurs",
+   "chercheurs d'emploi",
+   "privés d'emploi"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Désignations des personnes sans emploi qui en recherchent un. « Demandeur d'emploi » est la catégorie administrative de l'inscription à France Travail ; « chômeur » renvoie à la définition statistique du Bureau international du travail.",
+  "usage": "Reconquête parle de « chercheurs d'emploi », qui insiste sur la démarche active ; LFI et les écologistes parlent de « chômeurs », qui insiste sur la situation subie.",
+  "concurrents": [
+   "privés d'emploi"
+  ],
+  "notions": [
+   "assurance-chomage",
+   "territoires-zero-chomeur"
+  ],
+  "motifs": [
+   "chercheurs d'emploi",
+   "demandeurs d'emploi",
+   "chômeurs",
+   "privées durablement d'emploi"
+  ]
+ },
+ {
+  "id": "criminalise-les-locataires",
+  "terme": "Criminaliser les locataires",
+  "variantes": [
+   "loi anti-squat"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Formule employée pour qualifier la loi du 27 juillet 2023 dite Kasbarian-Bergé, qui a durci les sanctions contre l'occupation illicite de logements et accéléré certaines procédures d'expulsion locative.",
+  "usage": "Employée par les écologistes et LFI, qui demandent l'abrogation de la loi. Ses défenseurs parlent de « loi anti-squat » et de « protection des propriétaires ».",
+  "concurrents": [
+   "loi anti-squat",
+   "protection des propriétaires"
+  ],
+  "notions": [
+   "logement-social",
+   "garantie-universelle-des-loyers"
+  ],
+  "motifs": [
+   "criminalise les locataires"
+  ]
+ },
+ {
+  "id": "fauteurs-de-troubles",
+  "terme": "Fauteurs de troubles et mauvais payeurs",
+  "variantes": [
+   "mauvais payeurs"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Désignations de locataires accusés de troubles de voisinage ou d'impayés de loyer.",
+  "usage": "LR parle de « fauteurs de troubles » à expulser des logements sociaux, Renaissance de « mauvais payeurs » à sanctionner. Ces formules mettent l'accent sur la responsabilité individuelle ; la gauche parle de « locataires en difficulté » et de « prévention des expulsions ».",
+  "concurrents": [
+   "locataires en difficulté",
+   "prévention des expulsions"
+  ],
+  "notions": [
+   "logement-social",
+   "garantie-universelle-des-loyers"
+  ],
+  "motifs": [
+   "fauteurs de troubles",
+   "mauvais payeurs"
+  ]
+ },
+ {
+  "id": "zero-mort-au-travail",
+  "terme": "Zéro mort au travail",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Objectif de supprimer les accidents mortels du travail, sur le modèle de la « vision zéro » appliquée à la sécurité routière dans plusieurs pays.",
+  "usage": "Formule commune aux écologistes, à LFI et au PS, qui parle d'un « scandale français ». Elle met en avant le nombre de morts plutôt que le taux d'accidents ; les autres programmes n'emploient pas cette formule.",
+  "concurrents": [
+   "prévention des risques professionnels"
+  ],
+  "notions": [
+   "sante-au-travail"
+  ],
+  "motifs": [
+   "zéro mort au travail"
+  ]
+ },
+ {
+  "id": "cadeaux-fiscaux",
+  "terme": "Cadeaux fiscaux",
+  "variantes": [
+   "cadeaux aux entreprises"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Expression critique désignant des baisses d'impôts ou des aides accordées aux entreprises ou aux ménages aisés.",
+  "usage": "Employée par LFI à propos des aides accordées « sans contrepartie » aux grandes entreprises. Le mot suggère une faveur injustifiée ; les partisans de ces mesures parlent d'« allègements », de « baisse des prélèvements » ou de « compétitivité ».",
+  "concurrents": [
+   "allègements",
+   "baisse des prélèvements"
+  ],
+  "notions": [
+   "conditionnalite-des-aides",
+   "credit-d-impot-recherche"
+  ],
+  "motifs": [
+   "cadeaux fiscaux"
+  ]
+ },
+ {
+  "id": "finance-speculative",
+  "terme": "Finance spéculative",
+  "variantes": [
+   "spéculation",
+   "produits toxiques",
+   "activités spéculatives"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Activités financières qui cherchent un gain sur l'évolution des prix des actifs plutôt que le financement de l'activité productive.",
+  "usage": "Employée par les écologistes (« activités spéculatives » des banques), LFI (produits dérivés « toxiques et inutiles ») et le PS. Elle oppose la finance à l'« économie réelle » ; les acteurs financiers parlent de « couverture des risques » et de « liquidité ».",
+  "concurrents": [
+   "économie réelle",
+   "couverture des risques"
+  ],
+  "notions": [
+   "pole-public-bancaire"
+  ],
+  "motifs": [
+   "spéculatives",
+   "spéculation",
+   "spéculatif",
+   "toxiques et inutiles"
+  ]
+ },
+ {
+  "id": "economie-reelle",
+  "terme": "Économie réelle",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Désigne la production et l'échange de biens et de services, par opposition à la sphère financière.",
+  "usage": "Employé par les écologistes (réinvestir l'épargne dans l'« économie réelle »), LR et Reconquête (cryptoactifs réinvestis). Le terme valorise l'investissement productif face à la finance de marché.",
+  "concurrents": [
+   "finance spéculative"
+  ],
+  "notions": [
+   "pole-public-bancaire",
+   "fonds-souverain"
+  ],
+  "motifs": [
+   "économie réelle"
+  ]
+ },
+ {
+  "id": "precarite",
+  "terme": "Précarité",
+  "variantes": [
+   "précaires",
+   "contrats précaires",
+   "emploi précaire"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Situation d'instabilité de l'emploi ou du revenu : contrats courts, temps partiel subi, faibles revenus, insécurité du logement.",
+  "usage": "Mot surtout employé par les écologistes, LFI et le PS. Il insiste sur l'insécurité subie ; la droite parle davantage de « souplesse » et d'« activité ».",
+  "concurrents": [
+   "souplesse",
+   "emplois flexibles"
+  ],
+  "notions": [
+   "contrats-courts",
+   "presomption-de-salariat"
+  ],
+  "motifs": [
+   "précarité",
+   "précaires"
+  ]
+ },
+ {
+  "id": "transition-juste",
+  "terme": "Transition juste",
+  "variantes": [
+   "transition sociale et écologique"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Principe selon lequel la transition écologique doit protéger les travailleurs et territoires dont les emplois sont menacés, par la formation, la reconversion et la garantie de revenus. La notion vient du mouvement syndical international.",
+  "usage": "Les écologistes l'incarnent par la « sécurité sociale professionnelle » et un plan de compétences ; d'autres partis emploient « transition écologique » sans cet adjectif. Ses critiques à droite parlent d'« écologie punitive », terme absent des programmes étudiés pour ce thème.",
+  "concurrents": [
+   "écologie punitive",
+   "transition écologique"
+  ],
+  "notions": [
+   "securite-sociale-professionnelle",
+   "formation-professionnelle"
+  ],
+  "motifs": [
+   "transition juste",
+   "transition sociale et écologique",
+   "écologie punitive"
+  ]
+ },
+ {
+  "id": "competitivite",
+  "terme": "Compétitivité et productivité",
+  "variantes": [
+   "productivité",
+   "compétitivité"
+  ],
+  "registre": "économique",
+  "theme": "travail",
+  "definition": "La compétitivité est la capacité d'une entreprise ou d'un pays à vendre face à ses concurrents, par les prix ou la qualité. La productivité mesure la production obtenue par heure de travail ou par unité de capital.",
+  "usage": "Mis en avant par Renaissance (investir dans la productivité pour augmenter les salaires), le RN et Reconquête. Ces mots servent souvent à justifier la baisse des prélèvements ; la gauche les relie plutôt à l'investissement public et à la qualification.",
+  "concurrents": [
+   "coût du travail",
+   "partage de la valeur"
+  ],
+  "notions": [
+   "reindustrialisation"
+  ],
+  "motifs": [
+   "productivité",
+   "compétitivité"
+  ]
+ },
+ {
+  "id": "secteurs-strategiques",
+  "terme": "Secteurs et entreprises stratégiques",
+  "variantes": [
+   "entreprises stratégiques",
+   "industries stratégiques"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Activités jugées essentielles à la sécurité ou à l'indépendance d'un pays : énergie, défense, santé, semi-conducteurs, numérique, alimentation. Le droit français soumet certains investissements étrangers dans ces secteurs à autorisation.",
+  "usage": "Mot commun à tous les bords : LFI et les écologistes l'emploient pour justifier la maîtrise publique, LR pour concentrer les financements sur sept secteurs, Reconquête et le RN pour protéger les entreprises des rachats étrangers.",
+  "concurrents": [
+   "intérêt général",
+   "souveraineté"
+  ],
+  "notions": [
+   "reindustrialisation",
+   "nationalisation",
+   "fonds-souverain"
+  ],
+  "motifs": [
+   "secteurs stratégiques",
+   "entreprises stratégiques",
+   "industries stratégiques",
+   "domaines stratégiques"
+  ]
+ },
+ {
+  "id": "fabrique-en-france",
+  "terme": "Fabriqué en France",
+  "variantes": [
+   "Patrie-score",
+   "production française",
+   "made in France"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Désigne les produits fabriqués sur le territoire national, et les dispositifs d'affichage qui les signalent au consommateur.",
+  "usage": "Le PS défend le « Fabriqué en France » dans la commande publique, Reconquête propose un « Patrie-score » sur le modèle du Nutri-score, le RN et LR parlent de « production française ». Le vocabulaire patriotique varie d'un parti à l'autre.",
+  "concurrents": [
+   "préférence européenne",
+   "origine"
+  ],
+  "notions": [
+   "commande-publique",
+   "reindustrialisation"
+  ],
+  "motifs": [
+   "Fabriqué en France",
+   "Patrie-score",
+   "production française",
+   "produits agricoles français"
+  ]
+ },
+ {
+  "id": "paysans",
+  "terme": "Paysans et agriculture paysanne",
+  "variantes": [
+   "agriculture familiale",
+   "agriculteurs",
+   "exploitants"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "« Paysan » désigne les personnes qui travaillent la terre ; l'expression « agriculture paysanne » renvoie à un modèle de petites exploitations autonomes, revendiqué notamment par la Confédération paysanne. « Agriculteur » et « exploitant » sont les termes administratifs.",
+  "usage": "LFI parle d'« agriculture paysanne », le RN de « paysans », le PS d'« agriculture familiale ». LR et Renaissance emploient plutôt « agriculteurs » et « exploitations ». Le choix du mot dit souvent le modèle agricole défendu.",
+  "concurrents": [
+   "agriculteurs",
+   "exploitants agricoles"
+  ],
+  "notions": [
+   "installation-agricole",
+   "foncier-agricole"
+  ],
+  "motifs": [
+   "paysans",
+   "paysanne",
+   "agriculture familiale",
+   "modèle agricole familial"
+  ]
+ },
+ {
+  "id": "travailleur-ses",
+  "terme": "Travailleurs et travailleuses",
+  "variantes": [
+   "travailleur·ses",
+   "salariés",
+   "actifs"
+  ],
+  "registre": "élément de langage",
+  "theme": "travail",
+  "definition": "Désignation des personnes qui travaillent, quel que soit leur statut. Le droit distingue les salariés, liés par un contrat de travail, et les indépendants.",
+  "usage": "Les écologistes emploient presque systématiquement l'écriture inclusive « travailleur·ses », LFI « travailleurs et travailleuses ». LR et Renaissance parlent plus volontiers d'« actifs » ou de « salariés ».",
+  "concurrents": [
+   "salariés",
+   "actifs"
+  ],
+  "notions": [
+   "presomption-de-salariat"
+  ],
+  "motifs": [
+   "travailleur·ses",
+   "travailleurs·ses",
+   "travailleuses"
+  ]
+ },
+ {
+  "id": "convention-collective",
+  "terme": "Convention collective",
+  "variantes": [
+   "accord de branche",
+   "conventions collectives"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Accord conclu entre organisations syndicales de salariés et organisations d'employeurs, qui fixe les conditions d'emploi, de travail et de rémunération d'un secteur (convention de branche) ou d'une entreprise. Une convention de branche étendue par arrêté du ministre s'applique à toutes les entreprises du secteur.",
+  "usage": "Terme technique employé par les écologistes (convention collective unique pour le nucléaire, unités économiques et sociales dans les franchises) et LFI. Sa portée par rapport à la loi et à l'accord d'entreprise oppose la gauche et la droite.",
+  "concurrents": [
+   "accord d'entreprise"
+  ],
+  "notions": [
+   "principe-de-faveur"
+  ],
+  "motifs": [
+   "convention collective",
+   "conventions collectives"
+  ]
+ },
+ {
+  "id": "minima-conventionnels",
+  "terme": "Minima conventionnels",
+  "variantes": [
+   "minima de branche",
+   "grilles salariales"
+  ],
+  "registre": "technique",
+  "theme": "travail",
+  "definition": "Salaires minimaux fixés par les conventions collectives pour chaque niveau de classification. Lorsqu'ils sont inférieurs au SMIC, c'est le SMIC qui s'applique, ce qui écrase le bas des grilles.",
+  "usage": "Les écologistes veulent les relever au moins au niveau du salaire minimum, LR maintient l'extension des accords « sur quelques thèmes essentiels comme les minima ». Le PS parle de « conférences salariales » pour renégocier les grilles.",
+  "concurrents": [
+   "grilles salariales"
+  ],
+  "notions": [
+   "smic",
+   "principe-de-faveur"
+  ],
+  "motifs": [
+   "minima conventionnels",
+   "comme les minima"
+  ]
+ },
+ {
+  "id": "referendum-d-entreprise",
+  "terme": "Référendum d'entreprise",
+  "variantes": [
+   "consultation des salariés"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Consultation directe des salariés pour valider un accord collectif. Depuis les ordonnances de 2017, il peut être organisé à l'initiative de l'employeur dans les petites entreprises sans délégué syndical ; dans les autres entreprises, il permet de valider un accord signé par des syndicats minoritaires, à leur demande ou à celle de l'employeur.",
+  "usage": "LR propose de l'étendre à l'initiative de l'employeur, y compris pour sortir des 35 heures. Ses partisans y voient une expression directe des salariés ; les syndicats craignent un contournement de la négociation collective.",
+  "concurrents": [
+   "négociation collective",
+   "accord majoritaire"
+  ],
+  "notions": [
+   "principe-de-faveur",
+   "duree-legale-du-travail"
+  ],
+  "motifs": [
+   "référendum à l'initiative de l'employeur",
+   "recours possible au référendum"
+  ]
+ },
+ {
+  "id": "representativite",
+  "terme": "Représentativité",
+  "variantes": [
+   "représentativité patronale",
+   "représentativité syndicale"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Reconnaissance légale qui permet à une organisation syndicale ou patronale de négocier et signer des accords. Depuis 2008 pour les syndicats et 2014 pour le patronat, elle repose sur l'audience mesurée, par les élections professionnelles pour les premiers et par le nombre d'entreprises adhérentes pour le second.",
+  "usage": "LFI propose de fonder la représentativité patronale sur des élections, en dénonçant l'« usurpation de la parole des patrons par le MEDEF ». Les écologistes proposent le scrutin proportionnel dans les chambres d'agriculture et des campagnes d'adhésion syndicale.",
+  "concurrents": [],
+  "notions": [
+   "principe-de-faveur"
+  ],
+  "motifs": [
+   "représentativité des organisations patronales",
+   "MEDEF"
+  ]
+ },
+ {
+  "id": "obligation-de-securite",
+  "terme": "Obligation de sécurité de résultat",
+  "variantes": [
+   "obligation de moyens"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Obligation faite à l'employeur d'assurer la sécurité et de protéger la santé de ses salariés. La jurisprudence l'a longtemps qualifiée d'obligation de résultat, avant de l'apprécier, depuis 2015, au regard des mesures de prévention effectivement prises.",
+  "usage": "LR propose de la transformer explicitement en obligation de moyens, pour alléger la responsabilité des employeurs. Les syndicats y voient un affaiblissement de la protection des salariés.",
+  "concurrents": [
+   "obligation de moyens"
+  ],
+  "notions": [
+   "sante-au-travail"
+  ],
+  "motifs": [
+   "obligation de sécurité",
+   "obligation de moyens"
+  ]
+ },
+ {
+  "id": "cdi",
+  "terme": "CDI",
+  "variantes": [
+   "contrat à durée indéterminée",
+   "CDI d'insertion"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Contrat de travail conclu sans limitation de durée, qui constitue la forme normale et générale de la relation de travail selon le Code du travail.",
+  "usage": "Reconquête propose d'exonérer de cotisations les embauches en CDI dans les très petites entreprises et des apprentis ; le PS propose un « CDI d'insertion ». Le CDI sert de référence de l'emploi stable.",
+  "concurrents": [
+   "CDD",
+   "contrats courts"
+  ],
+  "notions": [
+   "contrats-courts",
+   "apprentissage"
+  ],
+  "motifs": [
+   "CDI"
+  ]
+ },
+ {
+  "id": "temps-partiel",
+  "terme": "Temps partiel et temps partiel contraint",
+  "variantes": [
+   "temps partiel subi",
+   "24 heures hebdomadaires"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Durée de travail inférieure à la durée légale ou conventionnelle. Depuis 2014, un temps partiel doit en principe compter au moins 24 heures par semaine, sauf dérogations. Il est dit contraint ou subi lorsque le salarié souhaiterait travailler davantage.",
+  "usage": "LFI veut lutter contre le temps partiel contraint, qui touche majoritairement des femmes ; LR propose de supprimer le minimum de 24 heures, sauf accord collectif, au nom de la souplesse.",
+  "concurrents": [
+   "temps choisi"
+  ],
+  "notions": [
+   "egalite-salariale",
+   "duree-legale-du-travail"
+  ],
+  "motifs": [
+   "temps partiel"
+  ]
+ },
+ {
+  "id": "annualisation",
+  "terme": "Annualisation du temps de travail",
+  "variantes": [
+   "modulation"
+  ],
+  "registre": "technique",
+  "theme": "travail",
+  "definition": "Organisation du temps de travail sur l'année plutôt que sur la semaine, qui permet de faire varier les horaires selon l'activité ; la référence d'un temps plein est alors de 1 607 heures par an.",
+  "usage": "LR la propose pour donner « davantage de souplesse aux entreprises » ; LFI veut l'abroger pour les fonctionnaires. Ses critiques y voient un moyen de réduire le paiement des heures supplémentaires.",
+  "concurrents": [
+   "modulation",
+   "semaine de référence"
+  ],
+  "notions": [
+   "duree-legale-du-travail",
+   "heures-supplementaires"
+  ],
+  "motifs": [
+   "annualisation"
+  ]
+ },
+ {
+  "id": "compte-epargne-temps",
+  "terme": "Compte épargne-temps universel",
+  "variantes": [
+   "CET",
+   "compte épargne temps"
+  ],
+  "registre": "technique",
+  "theme": "travail",
+  "definition": "Le compte épargne-temps permet à un salarié d'accumuler des jours de congé ou de repos, ou des heures, pour les utiliser plus tard ou les convertir en argent. Il existe aujourd'hui par accord dans l'entreprise ; un compte « universel » serait portable d'un employeur à l'autre.",
+  "usage": "Proposition commune, rare, aux écologistes et à Renaissance : les premiers veulent conserver les droits en cas de rupture du contrat, la seconde « monétiser » RTT et congés pour travailler plus à certains moments.",
+  "concurrents": [],
+  "notions": [
+   "heures-supplementaires",
+   "duree-legale-du-travail"
+  ],
+  "motifs": [
+   "compte épargne temps",
+   "compte épargne-temps"
+  ]
+ },
+ {
+  "id": "droit-a-la-deconnexion",
+  "terme": "Droit à la déconnexion",
+  "variantes": [
+   "droit de non-surveillance"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Droit du salarié de ne pas être sollicité par des outils numériques professionnels en dehors de son temps de travail, inscrit dans le Code du travail par la loi de 2016 sous forme d'une obligation de négocier.",
+  "usage": "Les écologistes veulent le rendre opposable et y ajouter un droit à la transparence algorithmique et un droit de non-surveillance en télétravail.",
+  "concurrents": [],
+  "notions": [
+   "sante-au-travail",
+   "intelligence-artificielle"
+  ],
+  "motifs": [
+   "droit opposable à la déconnexion",
+   "droit à la déconnexion",
+   "transparence algorithmique"
+  ]
+ },
+ {
+  "id": "teletravail",
+  "terme": "Télétravail",
+  "variantes": [
+   "charte de télétravail"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Travail effectué hors des locaux de l'employeur à l'aide des technologies numériques, encadré par accord collectif, charte ou accord individuel. Il s'est fortement développé depuis la crise sanitaire de 2020.",
+  "usage": "Les écologistes proposent une charte négociée obligatoire et le promeuvent pour réduire les trajets ; Reconquête et le PS l'abordent sous l'angle de l'aménagement du territoire.",
+  "concurrents": [],
+  "notions": [
+   "sante-au-travail"
+  ],
+  "motifs": [
+   "télétravail"
+  ]
+ },
+ {
+  "id": "burn-out",
+  "terme": "Burn-out",
+  "variantes": [
+   "épuisement professionnel"
+  ],
+  "registre": "technique",
+  "theme": "travail",
+  "definition": "Syndrome d'épuisement physique et psychique lié au travail. Il ne figure pas dans les tableaux de maladies professionnelles et n'est reconnu qu'au cas par cas, par un comité régional.",
+  "usage": "Les écologistes et LFI demandent sa reconnaissance comme maladie professionnelle, en l'associant à la critique du « management toxique ».",
+  "concurrents": [
+   "risques psychosociaux"
+  ],
+  "notions": [
+   "sante-au-travail"
+  ],
+  "motifs": [
+   "burn-out",
+   "épuisement professionnel"
+  ]
+ },
+ {
+  "id": "tribunaux-de-commerce",
+  "terme": "Tribunaux de commerce et procédures collectives",
+  "variantes": [
+   "redressement judiciaire",
+   "liquidation judiciaire",
+   "juges consulaires"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Les tribunaux de commerce, composés de juges élus parmi les commerçants et chefs d'entreprise dits juges consulaires, traitent les litiges commerciaux et les procédures de sauvegarde, de redressement et de liquidation des entreprises en difficulté.",
+  "usage": "Les écologistes proposent l'échevinage, avec des juges citoyens et syndicaux, et une administration publique des mandataires ; LFI veut donner plus de pouvoirs aux salariés dans ces procédures.",
+  "concurrents": [
+   "échevinage"
+  ],
+  "notions": [
+   "licenciements-economiques",
+   "reprise-en-cooperative"
+  ],
+  "motifs": [
+   "tribunaux de commerce",
+   "liquidateurs",
+   "redressement et liquidation"
+  ]
+ },
+ {
+  "id": "droits-de-vote-multiples",
+  "terme": "Droits de vote multiples",
+  "variantes": [
+   "droits de vote différents",
+   "actions de préférence",
+   "cotation continue"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Possibilité d'attribuer à certaines actions plus de droits de vote qu'aux autres, par exemple aux actionnaires de long terme ou aux fondateurs. En France, le droit de vote double après deux ans de détention est la règle dans les sociétés cotées depuis 2014, sauf décision contraire.",
+  "usage": "Les écologistes et LFI veulent plus de droits de vote pour les actionnaires de long terme, LFI veut aussi mettre fin à la cotation continue ; Reconquête défend des droits de vote différents pour que les fondateurs de start-up gardent le contrôle.",
+  "concurrents": [],
+  "notions": [
+   "codetermination"
+  ],
+  "motifs": [
+   "droits de vote",
+   "droit de vote pour les actionnaires",
+   "cotation continue"
+  ]
+ },
+ {
+  "id": "aides-d-etat",
+  "terme": "Aides d'État",
+  "variantes": [
+   "régime de minimis"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Avantages accordés par un État à certaines entreprises, que les traités européens interdisent en principe lorsqu'ils faussent la concurrence, sauf exemptions (montants de faible importance dits de minimis, recherche, régions en difficulté, projets importants d'intérêt européen commun).",
+  "usage": "LFI veut pérenniser le droit des États à aider les secteurs stratégiques ; le RN invoque le régime de minimis pour compléter la PAC ; les écologistes parlent d'aides conditionnées.",
+  "concurrents": [],
+  "notions": [
+   "conditionnalite-des-aides",
+   "reindustrialisation"
+  ],
+  "motifs": [
+   "aides d'État",
+   "de minimis",
+   "venir en aide aux secteurs"
+  ]
+ },
+ {
+  "id": "contrat-pour-difference",
+  "terme": "Contrat pour différence",
+  "variantes": [
+   "CfD"
+  ],
+  "registre": "économique",
+  "theme": "travail",
+  "definition": "Contrat de long terme qui garantit un prix de référence de l'électricité : si le prix de marché est inférieur, l'État ou un fonds verse la différence au producteur, et inversement s'il est supérieur.",
+  "usage": "Les écologistes le proposent pour garantir un prix compétitif aux industries exposées ; LR propose un contrat pour différence « bidirectionnel » entre EDF et les fournisseurs d'électricité.",
+  "concurrents": [
+   "tarif réglementé"
+  ],
+  "notions": [
+   "reindustrialisation"
+  ],
+  "motifs": [
+   "contrat pour différence"
+  ]
+ },
+ {
+  "id": "friches-industrielles",
+  "terme": "Friches industrielles",
+  "variantes": [
+   "friches"
+  ],
+  "registre": "technique",
+  "theme": "travail",
+  "definition": "Terrains anciennement occupés par une activité industrielle et aujourd'hui abandonnés, souvent pollués, dont la réhabilitation permet d'accueillir de nouvelles activités sans consommer de terres naturelles ou agricoles.",
+  "usage": "Mot consensuel : les écologistes, LR, le PS et le RN veulent les recenser et les réhabiliter, pour l'industrie ou le logement, et éviter l'artificialisation.",
+  "concurrents": [
+   "foncier disponible"
+  ],
+  "notions": [
+   "reindustrialisation",
+   "foncier-agricole"
+  ],
+  "motifs": [
+   "friches industrielles",
+   "friches"
+  ]
+ },
+ {
+  "id": "assurance-recolte",
+  "terme": "Assurance récolte",
+  "variantes": [
+   "assurances récoltes",
+   "gestion des risques climatiques"
+  ],
+  "registre": "technique",
+  "theme": "travail",
+  "definition": "Assurance qui indemnise les agriculteurs en cas de pertes liées aux aléas climatiques. Une réforme de 2022 a organisé un système à trois étages, entre risque assumé par l'exploitant, assurance subventionnée et indemnisation publique des catastrophes.",
+  "usage": "Les écologistes veulent réserver les aides publiques aux dispositifs mutualistes à but non lucratif ; le RN veut « réorganiser » le système pour le rendre accessible.",
+  "concurrents": [
+   "calamités agricoles"
+  ],
+  "notions": [
+   "politique-agricole-commune"
+  ],
+  "motifs": [
+   "assurances récoltes",
+   "assurance récolte",
+   "système d'assurance"
+  ]
+ },
+ {
+  "id": "paiements-pour-services-environnementaux",
+  "terme": "Paiements pour services environnementaux",
+  "variantes": [
+   "PSE",
+   "revenu écologique"
+  ],
+  "registre": "économique",
+  "theme": "travail",
+  "definition": "Rémunérations versées aux agriculteurs ou propriétaires pour des pratiques favorables à l'environnement, comme le maintien de haies, de prairies ou la protection de captages d'eau.",
+  "usage": "Les écologistes veulent les généraliser ; le RN parle d'un « revenu écologique » pour les exploitants engagés « Nature Environnement », le PS d'un « revenu de transition écologique ».",
+  "concurrents": [
+   "revenu écologique",
+   "mesures agroenvironnementales"
+  ],
+  "notions": [
+   "agriculture-biologique",
+   "politique-agricole-commune"
+  ],
+  "motifs": [
+   "paiements pour services environnementaux",
+   "revenu écologique",
+   "revenu de transition écologique"
+  ]
+ },
+ {
+  "id": "centrales-d-achat",
+  "terme": "Centrales d'achat",
+  "variantes": [
+   "centrales d'achat européennes"
+  ],
+  "registre": "économique",
+  "theme": "travail",
+  "definition": "Structures qui négocient les achats pour le compte de plusieurs enseignes de distribution. Certaines sont installées dans d'autres pays européens, ce qui permet d'échapper en partie aux règles françaises des négociations commerciales.",
+  "usage": "Les écologistes veulent les encadrer strictement, LR rendre les enseignes responsables des pratiques de leurs centrales européennes.",
+  "concurrents": [],
+  "notions": [
+   "prix-planchers"
+  ],
+  "motifs": [
+   "centrales d'achat"
+  ]
+ },
+ {
+  "id": "vente-a-perte",
+  "terme": "Vente à perte",
+  "variantes": [
+   "seuil de revente à perte",
+   "SRP+10"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Revente d'un produit en l'état à un prix inférieur à son prix d'achat effectif, interdite en France. La loi Egalim de 2018 a relevé de 10 % le seuil de revente à perte des produits alimentaires.",
+  "usage": "LFI veut interdire les ventes à perte pour les agriculteurs ; LR veut interdire aux promoteurs la vente à perte de logements aux bailleurs sociaux ; Renaissance veut taxer les importations chinoises vendues à perte.",
+  "concurrents": [
+   "prix abusivement bas"
+  ],
+  "notions": [
+   "prix-planchers"
+  ],
+  "motifs": [
+   "vente à perte",
+   "ventes à perte",
+   "vendues à perte"
+  ]
+ },
+ {
+  "id": "ngt",
+  "terme": "Nouvelles techniques génomiques (NGT)",
+  "variantes": [
+   "NGT",
+   "nouveaux OGM"
+  ],
+  "registre": "technique",
+  "theme": "travail",
+  "definition": "Techniques de modification ciblée du génome des plantes, comme l'édition génomique, dont l'Union européenne a engagé l'assouplissement de l'encadrement par rapport aux OGM classiques.",
+  "usage": "LR veut les intégrer « pleinement » à la stratégie agricole ; leurs opposants, dont les écologistes, parlent de « nouveaux OGM ».",
+  "concurrents": [
+   "nouveaux OGM"
+  ],
+  "notions": [
+   "agriculture-biologique",
+   "simplification-administrative"
+  ],
+  "motifs": [
+   "NGT",
+   "nouvelles techniques génomiques"
+  ]
+ },
+ {
+  "id": "loi-duplomb",
+  "terme": "Loi Duplomb",
+  "variantes": [
+   "loi visant à lever les contraintes à l'exercice du métier d'agriculteur"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Loi du 11 août 2025 visant à lever les contraintes à l'exercice du métier d'agriculteur, issue d'une proposition du sénateur Laurent Duplomb, qui assouplit plusieurs règles applicables aux agriculteurs (stockage de l'eau, bâtiments d'élevage, produits phytosanitaires). Sa disposition la plus contestée, la réintroduction dérogatoire de l'acétamipride, un insecticide de la famille des néonicotinoïdes, a été censurée par le Conseil constitutionnel le 7 août 2025 au nom de la Charte de l'environnement ; le reste de la loi a été promulgué.",
+  "usage": "Les écologistes proposent de l'abroger et de la remplacer par une « véritable » loi d'orientation agricole. Ses partisans la présentent comme une loi de simplification pour les agriculteurs ; ses opposants mettent en avant ses effets sur la santé et l'environnement.",
+  "concurrents": [
+   "simplification agricole"
+  ],
+  "notions": [
+   "simplification-administrative",
+   "agriculture-biologique"
+  ],
+  "motifs": [
+   "loi Duplomb"
+  ]
+ },
+ {
+  "id": "etiquetage-origine",
+  "terme": "Étiquetage de l'origine et traçabilité",
+  "variantes": [
+   "Rémunéra-score",
+   "Patrie-score",
+   "appellations d'origine"
+  ],
+  "registre": "technique",
+  "theme": "travail",
+  "definition": "Obligation d'indiquer sur les produits leur pays d'origine ou celui de leurs ingrédients, et de pouvoir retracer leur parcours. Les règles relèvent largement du droit européen.",
+  "usage": "Le RN, LR et Reconquête le mettent en avant pour favoriser la production française ; LR propose un « Rémunéra-score » sur la part reversée au producteur, Reconquête un « Patrie-score ».",
+  "concurrents": [],
+  "notions": [
+   "prix-planchers",
+   "commande-publique"
+  ],
+  "motifs": [
+   "étiquetage",
+   "traçabilité",
+   "appellations d'origine",
+   "Rémunéra-score"
+  ]
+ },
+ {
+  "id": "circuits-courts",
+  "terme": "Circuits courts et restauration collective",
+  "variantes": [
+   "restauration collective",
+   "cantines",
+   "produits locaux"
+  ],
+  "registre": "technique",
+  "theme": "travail",
+  "definition": "Un circuit court est un mode de vente avec au plus un intermédiaire entre producteur et consommateur. La restauration collective publique est soumise depuis la loi Egalim à des objectifs de produits durables et biologiques.",
+  "usage": "Mot partagé : LFI veut « imposer » les circuits courts, les écologistes des quotas de produits bio et locaux, le RN 80 % de produits français dans les cantines, LR et Reconquête plus de produits locaux.",
+  "concurrents": [
+   "produits locaux"
+  ],
+  "notions": [
+   "agriculture-biologique",
+   "commande-publique"
+  ],
+  "motifs": [
+   "circuits courts",
+   "restauration collective",
+   "cantines"
+  ]
+ },
+ {
+  "id": "separation-bancaire",
+  "terme": "Séparation bancaire",
+  "variantes": [
+   "banques de dépôt",
+   "banques d'affaires"
+  ],
+  "registre": "économique",
+  "theme": "travail",
+  "definition": "Principe de séparation entre les activités de banque de dépôt, qui collectent l'épargne et prêtent, et les activités de marché ou d'investissement. La France l'a appliqué de 1945 à 1984 ; la loi bancaire de 2013 n'a isolé qu'une petite partie des activités spéculatives.",
+  "usage": "Les écologistes et LFI proposent une séparation stricte pour prévenir les crises et le sauvetage des banques par l'État ; les banques invoquent les mérites du modèle de « banque universelle ».",
+  "concurrents": [
+   "banque universelle"
+  ],
+  "notions": [
+   "pole-public-bancaire"
+  ],
+  "motifs": [
+   "banques de dépôt",
+   "banques d'affaires",
+   "Séparer les banques"
+  ]
+ },
+ {
+  "id": "rse",
+  "terme": "Responsabilité sociale des entreprises (RSE)",
+  "variantes": [
+   "RSE",
+   "raison d'être",
+   "entreprise à mission"
+  ],
+  "registre": "technique",
+  "theme": "travail",
+  "definition": "Démarche volontaire ou encadrée par laquelle une entreprise intègre des préoccupations sociales et environnementales à son activité, assortie d'obligations de publication pour les plus grandes.",
+  "usage": "Les écologistes veulent associer obligatoirement le CSE aux objectifs de RSE ; Renaissance veut lier la rémunération des dirigeants à des objectifs environnementaux et sociaux.",
+  "concurrents": [
+   "devoir de vigilance"
+  ],
+  "notions": [
+   "comite-social-et-economique",
+   "partage-de-la-valeur"
+  ],
+  "motifs": [
+   "RSE",
+   "Responsabilité Sociale des Entreprises"
+  ]
+ },
+ {
+  "id": "neutralite-du-net",
+  "terme": "Neutralité du net",
+  "variantes": [],
+  "registre": "technique",
+  "theme": "travail",
+  "definition": "Principe selon lequel les fournisseurs d'accès à internet doivent traiter de la même manière tous les flux de données, sans discrimination selon leur source, leur destination ou leur contenu. Il est garanti par un règlement européen de 2015.",
+  "usage": "LFI veut la garantir par une maîtrise publique des infrastructures ; le RN propose à l'inverse de taxer l'usage du réseau par les géants du numérique, idée que les défenseurs de la neutralité jugent contraire au principe.",
+  "concurrents": [],
+  "notions": [
+   "souverainete-numerique"
+  ],
+  "motifs": [
+   "neutralité du net"
+  ]
+ },
+ {
+  "id": "logiciels-libres",
+  "terme": "Logiciels libres",
+  "variantes": [
+   "open source"
+  ],
+  "registre": "technique",
+  "theme": "travail",
+  "definition": "Logiciels dont le code source est accessible et que chacun peut utiliser, étudier, modifier et redistribuer.",
+  "usage": "LFI, les écologistes et le PS veulent en généraliser l'usage dans l'administration et l'éducation, au nom de la souveraineté numérique.",
+  "concurrents": [
+   "logiciels propriétaires"
+  ],
+  "notions": [
+   "souverainete-numerique"
+  ],
+  "motifs": [
+   "logiciels libres",
+   "open source"
+  ]
+ },
+ {
+  "id": "data-centers",
+  "terme": "Centres de données",
+  "variantes": [
+   "data centers"
+  ],
+  "registre": "technique",
+  "theme": "travail",
+  "definition": "Installations qui hébergent des serveurs informatiques et fournissent puissance de calcul et stockage. Leur consommation d'électricité et d'eau croît fortement avec l'intelligence artificielle.",
+  "usage": "LR vise environ 1 gigawatt de capacité souveraine en 2030 et 4 gigawatts pour l'IA ensuite ; Renaissance en fait un atout du mix électrique décarboné ; les écologistes veulent les soumettre au débat public.",
+  "concurrents": [],
+  "notions": [
+   "intelligence-artificielle",
+   "souverainete-numerique"
+  ],
+  "motifs": [
+   "data centers",
+   "centres de données"
+  ]
+ },
+ {
+  "id": "jei",
+  "terme": "Jeune entreprise innovante (JEI)",
+  "variantes": [
+   "JEI",
+   "ACRE"
+  ],
+  "registre": "administratif",
+  "theme": "travail",
+  "definition": "Statut fiscal et social qui accorde des exonérations aux jeunes PME consacrant une part importante de leurs dépenses à la recherche. L'ACRE est une autre aide, d'exonération de cotisations au démarrage, pour les créateurs et repreneurs d'entreprise.",
+  "usage": "Le RN veut annuler les réformes récentes de la JEI et de l'ACRE ; Reconquête veut étendre le dispositif JEI à l'artisanat.",
+  "concurrents": [],
+  "notions": [
+   "credit-d-impot-recherche"
+  ],
+  "motifs": [
+   "Jeunes Entreprises Innovantes",
+   "Jeune entreprise innovante",
+   "JEI",
+   "ACRE"
+  ]
+ },
+ {
+  "id": "france-travail",
+  "terme": "France Travail",
+  "variantes": [
+   "Pôle emploi"
+  ],
+  "registre": "administratif",
+  "theme": "travail",
+  "definition": "Opérateur public de l'emploi qui a succédé à Pôle emploi le 1er janvier 2024, en application de la loi pour le plein emploi de 2023. Il inscrit et accompagne les demandeurs d'emploi, y compris désormais les bénéficiaires du RSA.",
+  "usage": "Renaissance revendique sa création ; LR veut associer davantage l'Unédic, les partenaires sociaux et les régions à son pilotage ; le PS veut un guichet unique territorial piloté par France Travail.",
+  "concurrents": [],
+  "notions": [
+   "assurance-chomage",
+   "formation-professionnelle"
+  ],
+  "motifs": [
+   "France Travail",
+   "Pôle emploi"
+  ]
+ },
+ {
+  "id": "iae",
+  "terme": "Insertion par l'activité économique (IAE)",
+  "variantes": [
+   "IAE",
+   "emplois aidés",
+   "contrats aidés"
+  ],
+  "registre": "administratif",
+  "theme": "travail",
+  "definition": "Dispositifs qui proposent un emploi accompagné à des personnes éloignées de l'emploi, dans des structures conventionnées (chantiers d'insertion, entreprises d'insertion). Les contrats aidés sont des emplois dont l'État prend en charge une partie du coût.",
+  "usage": "Les écologistes veulent soutenir les structures d'IAE, LFI relancer les emplois aidés pour les associations, le PS créer un CDI d'insertion.",
+  "concurrents": [],
+  "notions": [
+   "territoires-zero-chomeur",
+   "economie-sociale-et-solidaire"
+  ],
+  "motifs": [
+   "insertion par l'activité économique",
+   "IAE",
+   "emplois aidés",
+   "CDI d'insertion"
+  ]
+ },
+ {
+  "id": "oeth",
+  "terme": "Obligation d'emploi des travailleurs handicapés (OETH)",
+  "variantes": [
+   "OETH",
+   "ESAT"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Obligation faite aux employeurs d'au moins 20 salariés d'employer 6 % de travailleurs handicapés, sous peine de contribution financière. Les ESAT sont des établissements médico-sociaux où travaillent des personnes handicapées, longtemps hors du droit du travail commun.",
+  "usage": "Les écologistes veulent augmenter les sanctions et contraindre les ESAT à respecter le droit du travail ; le PS veut renforcer l'inclusion des travailleurs handicapés.",
+  "concurrents": [],
+  "notions": [
+   "egalite-salariale"
+  ],
+  "motifs": [
+   "OETH",
+   "ESAT",
+   "travailleurs handicapés"
+  ]
+ },
+ {
+  "id": "loi-kasbarian",
+  "terme": "Loi Kasbarian",
+  "variantes": [
+   "loi anti-squat",
+   "loi Kasbarian-Bergé"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Loi du 27 juillet 2023 visant à protéger les logements contre l'occupation illicite, qui alourdit les sanctions contre les squats et accélère certaines procédures en cas d'impayés de loyer.",
+  "usage": "Les écologistes, LFI et le PS en demandent l'abrogation, les deux premiers estimant qu'elle « criminalise les locataires ». Ses défenseurs parlent de protection des petits propriétaires.",
+  "concurrents": [
+   "loi anti-squat"
+  ],
+  "notions": [
+   "logement-social"
+  ],
+  "motifs": [
+   "loi Kasbarian"
+  ]
+ },
+ {
+  "id": "bail-reel-solidaire",
+  "terme": "Bail réel solidaire (BRS)",
+  "variantes": [
+   "BRS",
+   "organisme de foncier solidaire",
+   "PSLA"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Dispositif qui dissocie le foncier, conservé par un organisme de foncier solidaire, et le bâti, acheté par un ménage sous plafond de ressources, ce qui réduit le prix d'accession. Le prêt social location-accession (PSLA) permet d'acheter après une période de location.",
+  "usage": "Dispositif consensuel : les écologistes, LR et le PS veulent le développer massivement, LR en mobilisant le foncier public.",
+  "concurrents": [],
+  "notions": [
+   "logement-social",
+   "foncier-agricole"
+  ],
+  "motifs": [
+   "Bail Réel Solidaire",
+   "BRS",
+   "PSLA",
+   "foncier solidaire"
+  ]
+ },
+ {
+  "id": "ptz",
+  "terme": "Prêt à taux zéro (PTZ)",
+  "variantes": [
+   "PTZ",
+   "primo-accédants"
+  ],
+  "registre": "administratif",
+  "theme": "travail",
+  "definition": "Prêt sans intérêts, aidé par l'État, réservé aux ménages qui achètent leur première résidence principale sous conditions de ressources, avec des règles variant selon la zone et le type de logement.",
+  "usage": "LFI et LR veulent l'ouvrir à tous les primo-accédants sans distinction géographique ni entre neuf et ancien ; le RN propose un prêt public à taux zéro jusqu'à 100 000 euros pour les jeunes couples.",
+  "concurrents": [],
+  "notions": [
+   "logement-social"
+  ],
+  "motifs": [
+   "prêt à taux zéro",
+   "prêt public à taux zéro",
+   "PTZ",
+   "primo-accédants",
+   "primoaccédants"
+  ]
+ },
+ {
+  "id": "apl",
+  "terme": "Aides personnalisées au logement (APL)",
+  "variantes": [
+   "APL",
+   "aides au logement"
+  ],
+  "registre": "administratif",
+  "theme": "travail",
+  "definition": "Prestations versées par les caisses d'allocations familiales pour réduire le loyer ou les mensualités des ménages modestes. Elles sont calculées sur les ressources récentes depuis 2021.",
+  "usage": "Les écologistes et LFI proposent de les revaloriser de 10 %, les premiers avec un mécanisme empêchant leur répercussion sur les loyers ; LR prévoit de les conserver dans sa refonte des aides sociales. Leurs critiques soulignent un effet inflationniste sur les loyers.",
+  "concurrents": [],
+  "notions": [
+   "logement-social",
+   "encadrement-des-loyers"
+  ],
+  "motifs": [
+   "APL",
+   "aides personnelles au logement"
+  ]
+ },
+ {
+  "id": "meubles-de-tourisme",
+  "terme": "Meublés de tourisme",
+  "variantes": [
+   "locations de courte durée",
+   "Airbnb"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Logements meublés loués à une clientèle de passage pour de courtes durées, souvent par des plateformes. La loi de novembre 2024 dite loi Le Meur a renforcé les outils de régulation des communes.",
+  "usage": "Les écologistes veulent les aligner sur les règles hôtelières et limiter les licences en zones tendues, le PS les réguler davantage ; LR encourage les maires à utiliser la loi Le Meur.",
+  "concurrents": [],
+  "notions": [
+   "encadrement-des-loyers"
+  ],
+  "motifs": [
+   "meublés de tourisme",
+   "meublés touristiques",
+   "location de courte durée",
+   "licences touristiques",
+   "Airbnb"
+  ]
+ },
+ {
+  "id": "zones-tendues",
+  "terme": "Zones tendues",
+  "variantes": [
+   "zone tendue",
+   "marchés immobiliers tendus"
+  ],
+  "registre": "administratif",
+  "theme": "travail",
+  "definition": "Communes où la demande de logements excède nettement l'offre, définies par décret. Des règles spécifiques y s'appliquent, comme l'encadrement de l'évolution des loyers ou la taxe sur les logements vacants.",
+  "usage": "Catégorie employée par les écologistes, LFI, le PS et LR, soit pour y renforcer la régulation, soit, chez LR, pour cibler des mesures comme le permis de diviser.",
+  "concurrents": [],
+  "notions": [
+   "encadrement-des-loyers",
+   "logement-social"
+  ],
+  "motifs": [
+   "zones tendues",
+   "zone tendue",
+   "zones en grande tension"
+  ]
+ },
+ {
+  "id": "dalo",
+  "terme": "Droit au logement opposable (DALO)",
+  "variantes": [
+   "DALO"
+  ],
+  "registre": "juridique",
+  "theme": "travail",
+  "definition": "Droit créé par la loi de 2007 qui permet aux personnes mal logées, reconnues prioritaires par une commission de médiation, d'obtenir de l'État une proposition de logement, et à défaut d'exercer un recours devant le juge.",
+  "usage": "LR propose son « extinction progressive » au profit d'un « droit à une solution de logement », avec sortie du dispositif en cas de refus. La gauche n'en parle pas dans les textes étudiés pour ce thème.",
+  "concurrents": [
+   "droit à une solution de logement"
+  ],
+  "notions": [
+   "logement-social"
+  ],
+  "motifs": [
+   "DALO"
+  ]
+ },
+ {
+  "id": "tpe-pme-eti",
+  "terme": "TPE, PME et ETI",
+  "variantes": [
+   "petites et moyennes entreprises",
+   "entreprises de taille intermédiaire"
+  ],
+  "registre": "administratif",
+  "theme": "travail",
+  "definition": "Catégories d'entreprises selon leur taille : très petites entreprises (moins de 10 salariés), petites et moyennes entreprises (moins de 250 salariés), entreprises de taille intermédiaire (moins de 5 000 salariés), selon les définitions de la loi de modernisation de l'économie de 2008.",
+  "usage": "Catégories omniprésentes : tous les partis présentent les PME comme bénéficiaires prioritaires de leurs mesures, qu'il s'agisse de crédit public à gauche, d'allègements de normes à droite ou de priorité dans les marchés publics au RN.",
+  "concurrents": [
+   "grandes entreprises"
+  ],
+  "notions": [
+   "commande-publique",
+   "seuils-sociaux",
+   "pole-public-bancaire"
+  ],
+  "motifs": [
+   "TPE",
+   "PME",
+   "ETI"
+  ]
+ }
+]

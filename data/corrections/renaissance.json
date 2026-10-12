@@ -1,0 +1,305 @@
+{
+ "pb0f5e79c": {
+  "exclure": true,
+  "motif": "remplacée par la position 2026 (poursuivre et amplifier le réarmement, p181e4959)"
+ },
+ "p851e4aff": {
+  "exclure": true,
+  "motif": "remplacée par la position 2026 (interdiction des réseaux sociaux aux moins de 15 ans, pbd8d1007)"
+ },
+ "p718ce4b1": {
+  "exclure": true,
+  "motif": "remplacée par la position 2026 (sortir de la dépendance aux énergies fossiles, p9ce0600a)"
+ },
+ "pfc83cb99": {
+  "exclure": true,
+  "motif": "doublon de p743109cc (Constitution du travail)"
+ },
+ "p6ce92d1c": {
+  "exclure": true,
+  "motif": "doublon de p181e4959 (hausse des moyens de la défense)"
+ },
+ "p57b47ae9": {
+  "exclure": true,
+  "motif": "slogan sans contenu (« une politique ambitieuse »)"
+ },
+ "p743109cc": {
+  "intitule": "Réécrire le Code du travail en une « Constitution du travail »",
+  "concepts": [
+   "travail",
+   "liberte"
+  ],
+  "motif": "fusion du doublon pfc83cb99"
+ },
+ "pf0133c5d": {
+  "intitule": "Annoncer une stratégie pour une « hausse massive des salaires »",
+  "motif": "intitulé fidèle (annonce)"
+ },
+ "pbc727e30": {
+  "intitule": "Garantir une école où aucun élève n'a peur d'aller en classe",
+  "motif": "intitulé fidèle à la citation"
+ },
+ "p8a07d562": {
+  "intitule": "Égalité femmes-hommes, grande cause du quinquennat 2022-2027",
+  "motif": "éviter de laisser croire à un engagement 2027"
+ },
+ "p82c5ae34": {
+  "intitule": "Poursuivre la fermeture d'associations, mosquées et écoles « radicales »",
+  "motif": "intitulé fidèle (poursuite)"
+ },
+ "p34288898": {
+  "theme": "institutions",
+  "concepts": [
+   "protection"
+  ],
+  "motif": "outre-mer"
+ },
+ "pe0fdaf1e": {
+  "theme": "institutions",
+  "concepts": [
+   "souverainete"
+  ],
+  "motif": "outre-mer"
+ },
+ "p9ce0600a": {
+  "concepts": [
+   "souverainete",
+   "transition"
+  ],
+  "motif": "concept"
+ },
+ "pa18e5508": {
+  "concepts": [
+   "protection",
+   "souverainete"
+  ],
+  "motif": "concept"
+ },
+ "pba355fb2": {
+  "concepts": [
+   "travail"
+  ],
+  "motif": "concept"
+ },
+ "pb08d43ac": {
+  "concepts": [
+   "travail"
+  ],
+  "motif": "concept"
+ },
+ "pdb5be1f4": {
+  "concepts": [
+   "nation"
+  ],
+  "motif": "concept"
+ },
+ "p36b4dd05": {
+  "concepts": [
+   "merite"
+  ],
+  "motif": "concept"
+ },
+ "p86eb3ba7": {
+  "concepts": [
+   "democratie"
+  ],
+  "motif": "concept"
+ },
+ "pcc9c15be": {
+  "concepts": [
+   "democratie",
+   "egalite"
+  ],
+  "motif": "concept"
+ },
+ "p1adbe9d8": {
+  "concepts": [
+   "egalite"
+  ],
+  "motif": "concept"
+ },
+ "pecd55b96": {
+  "concepts": [
+   "solidarite"
+  ],
+  "motif": "concept"
+ },
+ "pa341d606": {
+  "concepts": [
+   "solidarite"
+  ],
+  "motif": "concept"
+ },
+ "p5057bdc6": {
+  "concepts": [
+   "democratie"
+  ],
+  "motif": "concept"
+ },
+ "pddfb1aa6": {
+  "concepts": [
+   "travail"
+  ],
+  "motif": "concept"
+ },
+ "pcf490ea6": {
+  "concepts": [
+   "liberte"
+  ],
+  "motif": "concept"
+ },
+ "p4a8b2e7e": {
+  "concepts": [
+   "egalite"
+  ],
+  "motif": "concept"
+ },
+ "pe827daaa": {
+  "concepts": [
+   "liberte",
+   "travail"
+  ],
+  "motif": "concept"
+ },
+ "p5979e7f6": {
+  "concepts": [
+   "travail"
+  ],
+  "motif": "concept"
+ },
+ "pf785d985": {
+  "concepts": [
+   "transition"
+  ],
+  "motif": "concept"
+ },
+ "p2bb1147b": {
+  "concepts": [
+   "transition"
+  ],
+  "motif": "concept"
+ },
+ "pb658517b": {
+  "concepts": [
+   "transition"
+  ],
+  "motif": "concept"
+ },
+ "p8429f875": {
+  "concepts": [
+   "souverainete",
+   "transition"
+  ],
+  "motif": "concept"
+ },
+ "p5f7af7c1": {
+  "concepts": [
+   "souverainete"
+  ],
+  "motif": "concept"
+ },
+ "pfcc45631": {
+  "concepts": [
+   "transition"
+  ],
+  "motif": "concept"
+ },
+ "p09bb7ad8": {
+  "concepts": [
+   "protection"
+  ],
+  "motif": "concept"
+ },
+ "p633357f3": {
+  "concepts": [
+   "progres"
+  ],
+  "motif": "concept"
+ },
+ "pf27dc706": {
+  "concepts": [
+   "progres"
+  ],
+  "motif": "concept"
+ },
+ "p4f5202d0": {
+  "concepts": [
+   "solidarite"
+  ],
+  "motif": "concept"
+ },
+ "pbad8efe4": {
+  "concepts": [
+   "puissance"
+  ],
+  "motif": "concept"
+ },
+ "pd546a86d": {
+  "concepts": [
+   "protection"
+  ],
+  "motif": "concept"
+ },
+ "pdd657e9b": {
+  "concepts": [
+   "ordre"
+  ],
+  "motif": "concept"
+ },
+ "p7b6c35ae": {
+  "concepts": [
+   "securite"
+  ],
+  "motif": "concept"
+ },
+ "p7ad98732": {
+  "concepts": [
+   "securite"
+  ],
+  "motif": "concept"
+ },
+ "p31d0653f": {
+  "concepts": [
+   "protection"
+  ],
+  "motif": "concept"
+ },
+ "pb96ba7f9": {
+  "concepts": [
+   "puissance"
+  ],
+  "motif": "concept"
+ },
+ "p57818117": {
+  "concepts": [
+   "securite",
+   "souverainete"
+  ],
+  "motif": "concept"
+ },
+ "pa0946f48": {
+  "concepts": [
+   "liberte",
+   "democratie"
+  ],
+  "motif": "concept"
+ },
+ "pac9e4f06": {
+  "concepts": [
+   "solidarite"
+  ],
+  "motif": "concept"
+ },
+ "pf4274aba": {
+  "concepts": [
+   "protection"
+  ],
+  "motif": "concept"
+ },
+ "pef9edeaf": {
+  "concepts": [
+   "puissance"
+  ],
+  "motif": "concept (section « choix de la puissance »)"
+ }
+}

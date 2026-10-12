@@ -1,0 +1,2042 @@
+[
+ {
+  "id": "droit-du-sol",
+  "nom": "Droit du sol",
+  "variantes": [
+   "jus soli",
+   "droit du sol intégral",
+   "droit du sol automatique"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "immigration",
+  "definition": "Le droit du sol désigne l'attribution ou l'acquisition de la nationalité en raison de la naissance sur le territoire. En France, il ne joue pas seul : l'enfant né en France d'un parent lui-même né en France est français dès la naissance (double droit du sol), tandis que l'enfant né en France de deux parents nés à l'étranger devient français à sa majorité s'il réside en France et y a résidé au moins cinq ans depuis l'âge de onze ans, avec une possibilité de déclaration anticipée. Il coexiste avec le droit du sang, qui transmet la nationalité par la filiation. Ce principe est ancré dans le droit français depuis le XIXe siècle ; la loi de 1993 avait exigé une manifestation de volonté du jeune, condition supprimée en 1998.",
+  "enjeux": "Ses partisans y voient un instrument d'intégration des enfants qui grandissent en France et un trait de la tradition républicaine. Ses opposants estiment que l'acquisition doit résulter d'une démarche volontaire ou d'une naturalisation et non de la seule naissance. Une suppression complète est généralement présentée comme nécessitant une révision de la Constitution, compte tenu de l'ancienneté du principe.",
+  "reperes": [
+   "Code civil, article 19-3 (double droit du sol)",
+   "Code civil, article 21-7 (acquisition à la majorité)",
+   "Régime dérogatoire à Mayotte depuis la loi du 10 septembre 2018, durci par la loi du 12 mai 2025"
+  ],
+  "liens": [
+   "naturalisation",
+   "mayotte",
+   "decheance-de-nationalite"
+  ],
+  "motifs": [
+   "droit du sol"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de garantir le droit du sol pour les enfants nés en France indépendamment de la situation des parents et de supprimer le régime dérogatoire applicable à Mayotte.",
+    "appuis": [
+     "pa853e755",
+     "pf4b342ab"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de garantir le « droit du sol intégral » pour les enfants nés en France et de faciliter l'obtention de la nationalité française.",
+    "appuis": [
+     "p29c1161f"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose « la fin du droit du sol automatique » et une demande de nationalité à 18 ans assortie de preuves d'assimilation.",
+    "appuis": [
+     "p61d09132",
+     "p56dc25b2"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de supprimer le droit du sol : un enfant de deux parents étrangers ne pourrait devenir français que par naturalisation, « sans aucune automaticité ».",
+    "appuis": [
+     "p23c982bd"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit la suppression du droit du sol et une transmission de la nationalité limitée, pour l'essentiel, à la filiation, l'accès à la nationalité passant sinon par la naturalisation.",
+    "appuis": [
+     "p60a5ca6e",
+     "pb95ced2e",
+     "pa242690b"
+    ]
+   }
+  }
+ },
+ {
+  "id": "naturalisation",
+  "nom": "Naturalisation et acquisition de la nationalité",
+  "variantes": [
+   "accès à la nationalité",
+   "acquisition de la nationalité par mariage",
+   "demande de nationalité"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "immigration",
+  "definition": "La naturalisation est l'acquisition de la nationalité française par décision de l'autorité publique, à la demande d'un étranger majeur. Elle n'est pas un droit : l'administration apprécie la demande, qui suppose notamment une résidence habituelle en France, en principe de cinq ans, et la preuve de l'assimilation à la communauté française, dont la connaissance de la langue et des valeurs de la République. La nationalité peut aussi s'acquérir par déclaration, par exemple pour le conjoint d'un Français après quatre ans de mariage, ou par la naissance et la résidence en France. La loi du 26 janvier 2024 a relevé le niveau de français exigé : depuis le 1er janvier 2026, la naturalisation suppose le niveau B2, contre B1 auparavant, ainsi que la réussite d'un examen civique.",
+  "enjeux": "Le débat porte sur la durée de résidence exigée, le niveau de langue, la place du critère d'assimilation et le maintien des voies d'acquisition automatiques ou déclaratives. Les uns veulent faciliter l'accès à la nationalité pour favoriser l'intégration, les autres en faire l'aboutissement d'un parcours plus exigeant, fondé sur le « mérite ».",
+  "reperes": [
+   "Code civil, article 21-17 (condition de résidence)",
+   "Code civil, article 21-24 (assimilation)",
+   "Code civil, article 21-2 (déclaration du conjoint)",
+   "Niveau B2 de français exigé depuis le 1er janvier 2026 (loi du 26 janvier 2024 et textes d'application)"
+  ],
+  "liens": [
+   "droit-du-sol",
+   "assimilation",
+   "decheance-de-nationalite",
+   "parcours-d-integration"
+  ],
+  "motifs": [
+   "naturalisation*",
+   "naturaliser",
+   "obtention de la nationalité",
+   "accès à la nationalité",
+   "demande de nationalité",
+   "nationalité par le mariage",
+   "par filiation"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de faciliter l'obtention de la nationalité française.",
+    "appuis": [
+     "pa853e755"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de faciliter l'obtention de la nationalité française.",
+    "appuis": [
+     "p29c1161f"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit une demande de nationalité à 18 ans, assortie de « preuves d'assimilation », notamment un test de français.",
+    "appuis": [
+     "p56dc25b2"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de porter la durée minimale de résidence de 5 à 10 ans et d'exiger une parfaite maîtrise de la langue, une « assimilation réelle et vérifiable » et une absence totale de condamnation.",
+    "appuis": [
+     "p79d869c4"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de limiter l'accès à la nationalité à la naturalisation « sur des critères de mérite et d'assimilation » et de mettre fin à l'acquisition de la nationalité par le mariage, qu'il qualifie d'automatique.",
+    "appuis": [
+     "pb95ced2e",
+     "pbee2ee51",
+     "pa242690b"
+    ]
+   }
+  }
+ },
+ {
+  "id": "decheance-de-nationalite",
+  "nom": "Déchéance de nationalité",
+  "variantes": [
+   "perte de la nationalité",
+   "retrait de la nationalité"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "immigration",
+  "definition": "La déchéance de nationalité est le retrait, par décret, de la nationalité française à une personne qui l'a acquise, en raison de faits graves, notamment une condamnation pour atteinte aux intérêts fondamentaux de la Nation ou pour terrorisme. Elle ne peut viser les Français de naissance et ne peut rendre la personne apatride, ce qui la réserve en pratique aux binationaux. Elle est enfermée dans des délais à compter de l'acquisition de la nationalité et des faits. Son extension à tous les binationaux, y compris nés français, a été envisagée après les attentats de 2015 puis abandonnée en 2016.",
+  "enjeux": "Ses partisans y voient une sanction symbolique et un outil de protection contre ceux qui rompent avec la communauté nationale. Ses opposants y voient une rupture d'égalité entre Français selon leur origine et contestent son efficacité. L'extension aux Français de naissance ou à des motifs idéologiques soulève des questions constitutionnelles et conventionnelles.",
+  "reperes": [
+   "Code civil, article 25",
+   "Projet de révision constitutionnelle de 2015-2016, abandonné"
+  ],
+  "liens": [
+   "naturalisation",
+   "eloignement-des-etrangers-condamnes"
+  ],
+  "motifs": [
+   "déchéance de nationalité",
+   "déchoir*",
+   "retirer la nationalité",
+   "perdre la qualité de Français"
+  ],
+  "positions": {
+   "reconquete": {
+    "texte": "Le programme propose de déchoir de la nationalité française puis d'expulser les « criminels binationaux » et les délinquants récidivistes.",
+    "appuis": [
+     "p0fa4b89a"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit qu'une personne puisse perdre la qualité de Français pour un acte « incompatible avec cette qualité », et que la nationalité acquise puisse être retirée à ceux qui manifestent ou diffusent « l'idéologie islamiste ».",
+    "appuis": [
+     "p1d7df776",
+     "pdfa805da"
+    ]
+   }
+  }
+ },
+ {
+  "id": "regroupement-familial",
+  "nom": "Regroupement familial",
+  "variantes": [
+   "immigration familiale",
+   "regroupement familial automatique"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "immigration",
+  "definition": "Le regroupement familial est la procédure qui permet à un étranger résidant régulièrement en France, en principe depuis au moins dix-huit mois, de faire venir son conjoint et ses enfants mineurs. Il est soumis à des conditions de ressources stables et suffisantes et de logement adapté, vérifiées notamment par l'OFII et le maire. Il ne doit pas être confondu avec la venue des conjoints de Français, qui relève d'autres règles et constitue une part importante de l'immigration dite familiale. Organisé par un décret de 1976, il se rattache au droit de mener une vie familiale normale, reconnu par le Conseil d'État en 1978 et protégé par la Convention européenne des droits de l'homme.",
+  "enjeux": "Les uns veulent le restreindre ou le supprimer pour réduire les flux et privilégier l'immigration de travail, en durcissant les conditions de ressources et de logement. Les autres demandent de le rendre plus effectif au nom du droit à la vie familiale et de l'intégration. La marge nationale est encadrée par la directive européenne de 2003 et l'article 8 de la Convention européenne des droits de l'homme.",
+  "reperes": [
+   "Décret du 29 avril 1976",
+   "Conseil d'État, arrêt GISTI du 8 décembre 1978",
+   "Directive 2003/86/CE sur le regroupement familial"
+  ],
+  "liens": [
+   "titres-de-sejour",
+   "immigration-de-travail",
+   "primaute-de-la-constitution"
+  ],
+  "motifs": [
+   "regroupement familial",
+   "immigration familiale"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de rendre effectif le droit au regroupement familial, par un renouvellement automatique et pluriannuel des titres de séjour.",
+    "appuis": [
+     "p1226095a"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit la « fin du regroupement familial automatique ».",
+    "appuis": [
+     "p6d0719b5"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de supprimer le droit au regroupement familial et tous les « droits automatiques » liés à l'immigration familiale.",
+    "appuis": [
+     "pf64db320"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le parti indique vouloir privilégier l'immigration de travail au détriment du regroupement familial, qui doit être « mieux encadré » et diminuer.",
+    "appuis": [
+     "p3ca245dc"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de restreindre le regroupement familial par un durcissement des conditions d'emploi et de ressources, et de « mettre fin » à celui-ci dans un autre texte.",
+    "appuis": [
+     "p59f51c6d",
+     "p937e2975"
+    ]
+   }
+  }
+ },
+ {
+  "id": "aide-medicale-d-etat",
+  "nom": "Aide médicale de l'État (AME)",
+  "variantes": [
+   "AME",
+   "aide médicale d'urgence",
+   "aide d'urgence vitale"
+  ],
+  "categorie": "prestation sociale",
+  "theme": "immigration",
+  "definition": "L'aide médicale de l'État prend en charge les frais de santé des étrangers en situation irrégulière qui résident en France depuis plus de trois mois et dont les ressources sont inférieures à un plafond. Elle est financée par l'État et gérée par l'Assurance maladie, sur un panier de soins qui exclut certaines prestations et soumet d'autres à un délai. Créée en 2000 avec la couverture maladie universelle, elle a été plusieurs fois resserrée. Les soins urgents des personnes qui n'y ont pas droit relèvent d'un dispositif distinct.",
+  "enjeux": "Ses défenseurs invoquent la santé publique, l'éthique médicale et le coût plus élevé des soins tardifs aux urgences. Ses détracteurs estiment qu'elle constitue une incitation à l'installation irrégulière et proposent de la ramener à une aide limitée aux urgences. Un rapport remis au gouvernement en 2023 a conclu qu'elle n'était pas un facteur d'attractivité significatif tout en proposant des ajustements.",
+  "reperes": [
+   "Créée par la loi du 27 juillet 1999, en vigueur en 2000",
+   "Condition de résidence de plus de trois mois",
+   "Rapport Evin-Stefanini, décembre 2023"
+  ],
+  "liens": [
+   "conditionnement-des-prestations",
+   "priorite-nationale",
+   "regularisation",
+   "mayotte"
+  ],
+  "motifs": [
+   "aide médicale d'État",
+   "aide médicale de l'État",
+   "AME",
+   "aide d'urgence vitale",
+   "aide médicale d'urgence"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de garantir l'accès à l'AME, y compris pour les personnes exilées, et de l'étendre à Mayotte.",
+    "appuis": [
+     "p5d202f8e",
+     "p5a8a803a",
+     "p6862f7a4"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de garantir l'accès à l'aide médicale d'État et de l'étendre à Mayotte.",
+    "appuis": [
+     "p50d911f7",
+     "p09d0661f"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de supprimer les « soins gratuits pour les étrangers clandestins » et de ne conserver qu'une aide médicale d'urgence.",
+    "appuis": [
+     "pd9698747"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de remplacer l'AME par une « aide d'urgence vitale ».",
+    "appuis": [
+     "pa3d4aa5a"
+    ]
+   }
+  }
+ },
+ {
+  "id": "priorite-nationale",
+  "nom": "Priorité nationale",
+  "variantes": [
+   "préférence nationale"
+  ],
+  "categorie": "doctrine ou courant",
+  "theme": "immigration",
+  "definition": "La priorité nationale, appelée « préférence nationale » par le Front national à partir des années 1980, est le principe consistant à réserver ou à attribuer en priorité aux citoyens français l'accès à certains droits : emploi, logement social, prestations sociales. Elle s'oppose au principe d'égalité de traitement entre nationaux et étrangers en situation régulière qui prévaut aujourd'hui pour la plupart des prestations et services. Sa mise en œuvre générale est présentée par ses promoteurs eux-mêmes comme supposant une révision de la Constitution, éventuellement par référendum.",
+  "enjeux": "Ses promoteurs y voient une protection des nationaux et un levier d'économies sur la dépense sociale. Ses opposants y voient une discrimination contraire au principe d'égalité, au préambule de 1946 et aux engagements européens et internationaux de la France. Le débat porte aussi sur ses effets économiques, sur les finances sociales et sur la cohésion.",
+  "reperes": [
+   "Expression « préférence nationale » popularisée par le Front national dans les années 1980"
+  ],
+  "liens": [
+   "conditionnement-des-prestations",
+   "referendum-sur-l-immigration",
+   "primaute-de-la-constitution"
+  ],
+  "motifs": [
+   "la priorité nationale",
+   "priorité nationale d'accès*",
+   "préférence nationale"
+  ],
+  "positions": {
+   "rn": {
+    "texte": "Le programme prévoit de mettre en place la « priorité nationale », si nécessaire par référendum constitutionnel, notamment pour l'accès au logement social, au logement étudiant et à l'emploi, et y voit un moyen de réduire la dépense sociale.",
+    "appuis": [
+     "pab311771",
+     "p48a59cea",
+     "p456c5283"
+    ]
+   }
+  }
+ },
+ {
+  "id": "conditionnement-des-prestations",
+  "nom": "Conditionnement des prestations sociales pour les étrangers",
+  "variantes": [
+   "prestations non contributives",
+   "condition de durée de résidence",
+   "condition de résidence"
+  ],
+  "categorie": "politique publique",
+  "theme": "immigration",
+  "definition": "Il s'agit de subordonner l'accès des étrangers en situation régulière à certaines prestations, surtout non contributives, à une durée de résidence ou d'activité en France, voire de les en exclure. Les prestations non contributives sont celles qui ne dépendent pas de cotisations préalables : allocations familiales, aides au logement, RSA, minimum vieillesse. Le droit actuel exige déjà, en règle générale, la régularité du séjour, et pour le RSA la détention depuis au moins cinq ans d'un titre autorisant à travailler. La loi de 2024 prévoyait un durcissement, censuré par le Conseil constitutionnel pour des raisons de procédure.",
+  "enjeux": "Ses partisans estiment qu'un délai de résidence ou de travail limite l'attractivité du système social et responsabilise les nouveaux arrivants. Ses opposants y voient une atteinte à l'égalité et un risque d'aggravation de la pauvreté des familles, notamment des enfants. En avril 2024, le Conseil constitutionnel a jugé contraire à la Constitution une proposition de référendum qui imposait cinq ans de résidence ou d'activité pour certaines prestations.",
+  "reperes": [
+   "Conseil constitutionnel, décision du 25 janvier 2024 sur la loi immigration",
+   "Conseil constitutionnel, décision du 11 avril 2024 sur une proposition de référendum d'initiative partagée"
+  ],
+  "liens": [
+   "priorite-nationale",
+   "aide-medicale-d-etat",
+   "logement-d-abord",
+   "etudiants-etrangers",
+   "allocations-familiales",
+   "rsa",
+   "minimum-vieillesse",
+   "fraude-sociale"
+  ],
+  "motifs": [
+   "non-contributive*",
+   "dispositifs familiaux",
+   "allocations familiales aux Français",
+   "réservées, exclusivement",
+   "au moins l'un des deux parents est Français",
+   "aides non contributives",
+   "prestations sociales non-contributives",
+   "résidence régulière en France",
+   "aides sociales non-contributives"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme prévoit que les ressortissants étrangers devront justifier de cinq années de résidence et d'une activité professionnelle pour bénéficier pleinement des dispositifs familiaux, dont le Revenu familial.",
+    "appuis": [
+     "p25e1fdfe",
+     "p0cd16a8f"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de supprimer les aides sociales non contributives (allocations familiales, aides au logement, RSA, minimum vieillesse) pour les étrangers extra-européens.",
+    "appuis": [
+     "p167d2bf2"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de réserver les prestations familiales aux familles dont au moins un parent est Français, de conditionner les prestations non contributives à cinq années de travail en France et d’instaurer la « priorité nationale », si nécessaire par référendum.",
+    "appuis": [
+     "pf62e17f9",
+     "pc6afd704",
+     "p456c5283"
+    ]
+   }
+  },
+  "autres_themes": [
+   "social"
+  ]
+ },
+ {
+  "id": "droit-d-asile",
+  "nom": "Droit d'asile",
+  "variantes": [
+   "asile",
+   "demande d'asile",
+   "asile constitutionnel"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "immigration",
+  "definition": "Le droit d'asile est la protection qu'un État accorde à une personne qui craint avec raison d'être persécutée dans son pays ou qui y court un risque de menaces graves. En France, il repose sur la Convention de Genève de 1951 (statut de réfugié), sur le préambule de la Constitution de 1946, qui protège « tout homme persécuté en raison de son action en faveur de la liberté » (asile constitutionnel), et sur le droit européen (protection subsidiaire). Les demandes sont instruites par l'OFPRA, et les refus peuvent être contestés devant la CNDA. Le demandeur bénéficie pendant l'examen de conditions matérielles d'accueil, dont une allocation et un hébergement.",
+  "enjeux": "Le débat oppose ceux qui veulent garantir les conditions d'examen, les recours et l'accueil des demandeurs à ceux qui jugent le système détourné par des migrations économiques et veulent en restreindre fortement l'accès, voire le recentrer sur un petit nombre de cas. La rapidité des procédures, le sort des déboutés et l'harmonisation européenne sont au cœur des controverses.",
+  "reperes": [
+   "Convention de Genève relative au statut des réfugiés, 1951",
+   "Préambule de la Constitution de 1946, alinéa 4",
+   "Code de l'entrée et du séjour des étrangers et du droit d'asile (CESEDA)"
+  ],
+  "liens": [
+   "statut-de-refugie",
+   "ofpra",
+   "cnda",
+   "asile-hors-du-territoire",
+   "reglement-de-dublin-et-pacte-asile",
+   "droit-au-travail-des-demandeurs-d-asile"
+  ],
+  "motifs": [
+   "asile"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d'abroger les lois asile et immigration adoptées sous Emmanuel Macron, d'augmenter et d'indexer l'allocation pour demandeur d'asile et de rétablir la collégialité à la CNDA.",
+    "appuis": [
+     "pede86843",
+     "p32c3c77c",
+     "p7ce8ced4"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit « la pleine garantie et le renforcement du droit d'asile », la suppression de la procédure accélérée et des mesures dérogatoires, et l'asile pour les « combattants de la liberté ».",
+    "appuis": [
+     "pf584caa7",
+     "pbf9200a4",
+     "p29d95b24"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d'harmoniser les procédures d'asile au sein de l'Union européenne avec un mécanisme de répartition entre États.",
+    "appuis": [
+     "p4ccbfe1c"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de « revenir à l'esprit originel du droit d'asile » en le limitant à une centaine de personnes par an et d'exiger le dépôt des demandes dans les consulats.",
+    "appuis": [
+     "p21381237",
+     "p1e4f3365"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le parti prévoit de poursuivre la refonte de l'organisation de l'asile pour décider plus rapidement qui est éligible et un accueil facilité des « combattantes et combattants de la liberté ».",
+    "appuis": [
+     "pdd657e9b",
+     "p09363903"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit que les principes de la politique d'asile soient fixés par la loi, que les demandes soient déposées dans les ambassades et consulats et que le statut de réfugié soit réexaminé périodiquement.",
+    "appuis": [
+     "pc1fac9e8",
+     "p9568a306",
+     "pe558f0ee"
+    ]
+   }
+  }
+ },
+ {
+  "id": "statut-de-refugie",
+  "nom": "Statut de réfugié et sa cessation",
+  "variantes": [
+   "réfugié",
+   "réexamen du statut",
+   "clause de cessation"
+  ],
+  "categorie": "notion juridique",
+  "theme": "immigration",
+  "definition": "Le statut de réfugié est reconnu à la personne qui remplit les critères de la Convention de Genève : une crainte fondée de persécution en raison de sa race, de sa religion, de sa nationalité, de son appartenance à un certain groupe social ou de ses opinions politiques. Il ouvre droit à une carte de résident de dix ans. La Convention prévoit des clauses de cessation, notamment lorsque les circonstances ayant justifié la protection ont cessé d'exister, et le droit français permet de retirer le statut dans certains cas de menace grave ou de condamnation. Une protection subsidiaire, plus précaire, couvre les personnes exposées à des menaces graves sans relever de la Convention.",
+  "enjeux": "Certains proposent un réexamen périodique du statut ou un retour des réfugiés lorsque leur pays est jugé redevenu sûr. D'autres soulignent que la stabilité du statut conditionne l'intégration des réfugiés et que l'appréciation de la sécurité d'un pays est délicate. Le traitement des personnes persécutées en raison de leur genre est un autre point de débat.",
+  "reperes": [
+   "Convention de Genève, article 1er A (définition) et 1er C (cessation)",
+   "Protection subsidiaire introduite en droit français en 2003"
+  ],
+  "liens": [
+   "droit-d-asile",
+   "ofpra",
+   "voies-legales-et-sures"
+  ],
+  "motifs": [
+   "réfugié*",
+   "statut de réfugié"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de créer des voies légales et sûres d'immigration pour les femmes persécutées en raison de leur genre ou de leur engagement, et un label pour les clubs sportifs accueillant des réfugiés.",
+    "appuis": [
+     "pe18ba0ae",
+     "pc7f83040"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de fixer le principe d'un retour des réfugiés dans les « pays redevenus sûrs ».",
+    "appuis": [
+     "pefa9977a"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit que le bien-fondé du statut de réfugié soit réexaminé périodiquement.",
+    "appuis": [
+     "pe558f0ee"
+    ]
+   }
+  }
+ },
+ {
+  "id": "asile-hors-du-territoire",
+  "nom": "Externalisation de l'asile",
+  "variantes": [
+   "dépôt des demandes d'asile à l'étranger",
+   "externalisation des frontières",
+   "pays tiers sûr"
+  ],
+  "categorie": "politique publique",
+  "theme": "immigration",
+  "definition": "L'externalisation désigne le fait de déplacer hors du territoire national ou européen tout ou partie du contrôle migratoire ou de l'examen des demandes d'asile : dépôt des demandes dans les consulats, examen dans des pays tiers liés par un accord, coopération avec les pays de transit pour retenir les départs. Le droit actuel impose en principe d'examiner la demande d'asile présentée à la frontière ou sur le territoire. Plusieurs États européens ont expérimenté des formules de ce type, comme l'accord entre l'Italie et l'Albanie en 2023 ou le projet britannique avec le Rwanda, abandonné en 2024. La notion de « pays tiers sûr » permet de déclarer irrecevable une demande lorsque le demandeur peut être protégé dans un autre pays.",
+  "enjeux": "Ses partisans y voient un moyen de dissuader les traversées dangereuses et d'éviter l'installation durable de déboutés. Ses opposants dénoncent un risque de violation du principe de non-refoulement, une dépendance envers des États tiers et un affaiblissement du droit d'asile. Sa compatibilité avec la Convention de Genève et le droit européen fait l'objet de contentieux.",
+  "reperes": [
+   "Protocole Italie-Albanie, novembre 2023",
+   "Projet Royaume-Uni-Rwanda abandonné en juillet 2024"
+  ],
+  "liens": [
+   "droit-d-asile",
+   "reglement-de-dublin-et-pacte-asile",
+   "controle-des-frontieres"
+  ],
+  "motifs": [
+   "externaliser",
+   "externalisation de nos politiques migratoires",
+   "en dehors du territoire national",
+   "en-dehors du territoire national",
+   "dans les ambassades et consulats",
+   "pays tiers sûr"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de dénoncer les accords de l'Union visant à externaliser la gestion des frontières et de revenir sur la notion de « pays tiers sûr ».",
+    "appuis": [
+     "pc2291f75",
+     "p9004e371"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit de refuser l'externalisation des politiques migratoires et d'asile.",
+    "appuis": [
+     "p4ccbfe1c"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose d'exiger que les demandes d'asile soient déposées hors du territoire national, dans les consulats.",
+    "appuis": [
+     "p1e4f3365"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit l'obligation de déposer les demandes dans les ambassades et consulats, et la possibilité d'accueillir les demandeurs, pendant l'examen, dans des États liés à la France par un accord.",
+    "appuis": [
+     "p9568a306",
+     "pfe206a29"
+    ]
+   }
+  }
+ },
+ {
+  "id": "ofpra",
+  "nom": "Office français de protection des réfugiés et apatrides (OFPRA)",
+  "variantes": [
+   "OFPRA"
+  ],
+  "categorie": "institution",
+  "theme": "immigration",
+  "definition": "L'OFPRA est l'établissement public chargé d'instruire les demandes d'asile et de reconnaître le statut de réfugié, la protection subsidiaire ou le statut d'apatride. Créé en 1952, il examine chaque demande de manière indépendante, mais il est aujourd'hui placé sous la tutelle administrative du ministère de l'Intérieur, après avoir longtemps relevé du ministère des Affaires étrangères.",
+  "enjeux": "Le rattachement au ministère de l'Intérieur est critiqué par ceux qui y voient une confusion entre protection et contrôle des flux, et défendu par ceux qui privilégient la cohérence de la politique migratoire. Les délais d'instruction et les moyens de l'Office sont un autre sujet récurrent.",
+  "reperes": [
+   "Créé par la loi du 25 juillet 1952"
+  ],
+  "liens": [
+   "droit-d-asile",
+   "cnda",
+   "statut-de-refugie"
+  ],
+  "motifs": [
+   "OFPRA",
+   "Office français de protection des réfugiés et apatrides"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de confier la tutelle de l'OFPRA au ministère des Affaires étrangères, dans le cadre d'une fin de la centralisation par le ministère de l'Intérieur.",
+    "appuis": [
+     "p3c6f576a"
+    ]
+   }
+  }
+ },
+ {
+  "id": "cnda",
+  "nom": "Cour nationale du droit d'asile (CNDA)",
+  "variantes": [
+   "CNDA",
+   "juge unique",
+   "collégialité"
+  ],
+  "categorie": "institution",
+  "theme": "immigration",
+  "definition": "La CNDA est la juridiction administrative spécialisée qui statue sur les recours formés contre les décisions de l'OFPRA. Elle a succédé en 2007 à la Commission des recours des réfugiés et relève du Conseil d'État. Ses formations collégiales réunissent un président et deux assesseurs, dont l'un est désigné par le Haut-Commissariat des Nations unies pour les réfugiés. La loi de 2024 a fait du juge unique la règle et de la collégialité l'exception, et a prévu des chambres territoriales.",
+  "enjeux": "Les partisans de la réforme de 2024 mettent en avant la réduction des délais de jugement. Ses opposants estiment que la collégialité, et la présence d'une personnalité désignée par le HCR, garantissaient un examen plus approfondi de dossiers complexes.",
+  "reperes": [
+   "Dénomination actuelle depuis 2007",
+   "Loi du 26 janvier 2024 généralisant le juge unique"
+  ],
+  "liens": [
+   "droit-d-asile",
+   "ofpra",
+   "lois-asile-immigration"
+  ],
+  "motifs": [
+   "CNDA",
+   "Cour nationale du droit d'asile"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de rétablir le principe de collégialité à la CNDA, supprimé selon lui par la « loi Darmanin ».",
+    "appuis": [
+     "p7ce8ced4"
+    ]
+   }
+  }
+ },
+ {
+  "id": "droit-au-travail-des-demandeurs-d-asile",
+  "nom": "Droit au travail des demandeurs d'asile",
+  "variantes": [
+   "autorisation de travail",
+   "accès au marché du travail"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "immigration",
+  "definition": "Pendant l'examen de leur demande, les demandeurs d'asile ne peuvent en principe pas travailler. Ils peuvent solliciter une autorisation de travail lorsque l'OFPRA n'a pas statué dans un délai de six mois, délai fixé par la loi de 2018. Le projet de loi présenté en 2023 prévoyait un accès anticipé pour les demandeurs originaires de pays à fort taux de protection ; cette disposition ne figure pas dans la loi promulguée le 26 janvier 2024. Durant cette période, ils perçoivent l'allocation pour demandeur d'asile, versée par l'OFII.",
+  "enjeux": "Les partisans d'un accès immédiat au travail mettent en avant l'autonomie, l'intégration et la réduction des dépenses d'allocation. Leurs contradicteurs craignent un effet d'attraction et une confusion entre asile et immigration économique.",
+  "reperes": [
+   "Délai de six mois depuis la loi du 10 septembre 2018",
+   "Directive européenne « accueil » de 2013, refondue en 2024 dans le cadre du pacte sur la migration et l'asile"
+  ],
+  "liens": [
+   "droit-d-asile",
+   "immigration-de-travail",
+   "regularisation"
+  ],
+  "motifs": [
+   "autorisation de travail",
+   "autorisation de travailler",
+   "droit au travail",
+   "allocation pour demandeur* d'asile",
+   "ADA"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d'automatiser le droit au travail dès la délivrance de l'attestation de demande d'asile, sans délai, et d'augmenter l'allocation pour demandeur d'asile.",
+    "appuis": [
+     "pc95a952c",
+     "p32c3c77c"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit un accompagnement social et une autorisation de travailler pour les demandeurs d'asile.",
+    "appuis": [
+     "pd690a012"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d'ouvrir le droit au travail, sans autorisation spécifique, dès l'enregistrement de la demande d'asile.",
+    "appuis": [
+     "p46363aaf"
+    ]
+   }
+  }
+ },
+ {
+  "id": "regularisation",
+  "nom": "Régularisation",
+  "variantes": [
+   "admission exceptionnelle au séjour",
+   "régularisation des sans-papiers"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "immigration",
+  "definition": "La régularisation est la délivrance d'un titre de séjour à un étranger présent en France sans droit au séjour. En France, elle se fait au cas par cas, à la discrétion du préfet, par la voie de l'admission exceptionnelle au séjour, au regard de critères comme la durée de présence, les attaches familiales, la scolarisation des enfants ou l'activité professionnelle. Une circulaire de 2012 avait précisé ces critères ; elle a été abrogée par une circulaire du 23 janvier 2025, qui retient notamment une durée de présence de sept ans, au lieu de cinq, comme indicateur d'intégration. La loi de 2024 a créé, à titre expérimental jusqu'à la fin de 2026, une voie de régularisation pour les travailleurs des métiers en tension. Des régularisations collectives ont eu lieu dans le passé, notamment en 1981 et en 1997.",
+  "enjeux": "Ses partisans estiment qu'elle répond à des situations installées, aux besoins de main-d'œuvre et à l'exploitation des travailleurs sans titre. Ses opposants considèrent qu'elle récompense l'entrée irrégulière et crée un « appel d'air ». Le débat porte aussi sur le choix entre critères objectifs et pouvoir discrétionnaire des préfets.",
+  "reperes": [
+   "Circulaire du 28 novembre 2012, abrogée par la circulaire du 23 janvier 2025",
+   "Régularisations collectives de 1981 et 1997",
+   "Loi du 26 janvier 2024, titre « métiers en tension »"
+  ],
+  "liens": [
+   "titres-de-sejour",
+   "immigration-de-travail",
+   "delit-de-sejour-irregulier"
+  ],
+  "motifs": [
+   "régularis*"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de régulariser les travailleurs, les étudiants et les parents d'enfants scolarisés sur la base de critères objectifs (durée de résidence, lien familial, activité professionnelle).",
+    "appuis": [
+     "pa4b26b39"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de régulariser les travailleurs, les étudiants et les parents d'enfants scolarisés.",
+    "appuis": [
+     "p329c53f9"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de faciliter les démarches de régularisation des « travailleurs sans papiers ».",
+    "appuis": [
+     "p46363aaf"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose d'interdire définitivement la régularisation de tout étranger entré illégalement.",
+    "appuis": [
+     "p7d5bce98"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit la suspension de toutes les régularisations de « clandestins » par les préfets.",
+    "appuis": [
+     "p5f191cc4"
+    ]
+   }
+  }
+ },
+ {
+  "id": "oqtf",
+  "nom": "Obligation de quitter le territoire français (OQTF)",
+  "variantes": [
+   "OQTF",
+   "mesure d'éloignement",
+   "taux d'exécution"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "immigration",
+  "definition": "L'OQTF est la décision administrative, prise par le préfet, qui enjoint à un étranger sans droit au séjour de quitter la France, en principe dans un délai de trente jours, ou sans délai dans certains cas. Elle peut être contestée devant le juge administratif et être assortie d'une interdiction de retour. Créée en 2006, elle est devenue la principale mesure d'éloignement. Une part minoritaire des OQTF prononcées est effectivement exécutée, faute notamment de laissez-passer consulaires des pays d'origine ou de localisation des personnes.",
+  "enjeux": "Le faible taux d'exécution est invoqué par tous les camps, mais pour des conclusions opposées : les uns réclament plus de moyens, de rétention et de pression sur les pays d'origine ; les autres dénoncent des décisions prises en série, parfois inapplicables, et une « politique du chiffre ».",
+  "reperes": [
+   "Créée par la loi du 24 juillet 2006",
+   "Délai de départ volontaire de principe : trente jours"
+  ],
+  "liens": [
+   "retention-administrative",
+   "eloignement-des-etrangers-condamnes",
+   "politique-des-visas"
+  ],
+  "motifs": [
+   "OQTF",
+   "obligation* de quitter le territoire*"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de supprimer les OQTF « automatiques ou inapplicables » et range les OQTF non exécutées parmi les modalités qu'il juge « coûteuses et inutiles ».",
+    "appuis": [
+     "p336a849c",
+     "p5320231c"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit de mettre fin à la « politique du chiffre » sur les OQTF et d'appliquer celles qui sont délivrées.",
+    "appuis": [
+     "p89297fee"
+    ]
+   }
+  }
+ },
+ {
+  "id": "retention-administrative",
+  "nom": "Rétention administrative",
+  "variantes": [
+   "centre de rétention administrative",
+   "CRA"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "immigration",
+  "definition": "La rétention administrative est le maintien, dans un centre fermé, d'un étranger faisant l'objet d'une mesure d'éloignement, le temps d'organiser son départ. Décidée par le préfet, elle est contrôlée par le juge judiciaire, qui doit autoriser sa prolongation. Sa durée maximale de droit commun a été portée à 90 jours par la loi de 2018 ; des durées dérogatoires de 180 et 210 jours existent en matière de terrorisme. En août 2025, le Conseil constitutionnel a censuré l'extension de ces durées longues à d'autres catégories d'étrangers condamnés ou jugés menaçants pour l'ordre public. La loi de 2024 interdit le placement en rétention des mineurs, à partir de 2027 à Mayotte. Elle se distingue de la détention pénale : elle ne sanctionne pas une infraction.",
+  "enjeux": "Ses partisans la jugent indispensable à l'exécution des éloignements et demandent davantage de places ou une durée plus longue pour les profils dangereux. Ses opposants dénoncent son coût, ses conditions et son efficacité limitée, ainsi que l'enfermement de familles avec enfants, qui a valu à la France plusieurs condamnations de la Cour européenne des droits de l'homme avant son interdiction par la loi de 2024.",
+  "reperes": [
+   "Durée maximale portée à 90 jours par la loi du 10 septembre 2018",
+   "Prolongation soumise au contrôle du juge judiciaire",
+   "Conseil constitutionnel, décision n° 2025-895 DC du 7 août 2025 (loi du 11 août 2025)",
+   "Rétention des mineurs interdite par la loi du 26 janvier 2024 (à Mayotte à partir du 1er janvier 2027)"
+  ],
+  "liens": [
+   "oqtf",
+   "eloignement-des-etrangers-condamnes"
+  ],
+  "motifs": [
+   "rétention administrative",
+   "centre* de rétention"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d'« en finir avec la rétention administrative », qu'il qualifie de « coûteuse et indigne ».",
+    "appuis": [
+     "p25086e00",
+     "p5320231c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "delit-de-sejour-irregulier",
+  "nom": "Délit de séjour irrégulier",
+  "variantes": [
+   "pénalisation du séjour irrégulier"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "immigration",
+  "definition": "Le délit de séjour irrégulier punissait pénalement le seul fait, pour un étranger, de séjourner en France sans titre. Il a été supprimé par une loi de décembre 2012, à la suite d'arrêts de la Cour de justice de l'Union européenne jugeant qu'une peine d'emprisonnement pour ce seul motif contrariait la directive « retour » de 2008. Le séjour irrégulier reste un motif d'éloignement administratif, et l'entrée irrégulière demeure, dans certains cas, une infraction.",
+  "enjeux": "Ses partisans estiment que son rétablissement donnerait un outil de sanction et faciliterait l'éloignement. Ses opposants rappellent l'obstacle posé par le droit de l'Union et jugent que la voie administrative est mieux adaptée et moins coûteuse pour la justice.",
+  "reperes": [
+   "Supprimé par la loi du 31 décembre 2012",
+   "CJUE, arrêts El Dridi et Achughbabian, 2011",
+   "Directive 2008/115/CE dite « retour »"
+  ],
+  "liens": [
+   "regularisation",
+   "oqtf",
+   "delit-de-solidarite"
+  ],
+  "motifs": [
+   "délit de séjour irrégulier"
+  ],
+  "positions": {
+   "reconquete": {
+    "texte": "Le programme propose de réinstaurer le délit de séjour irrégulier, « supprimé en 2012 », pour sanctionner et renvoyer tout étranger entré illégalement.",
+    "appuis": [
+     "p331d05dc"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit le retour du délit de séjour irrégulier.",
+    "appuis": [
+     "p4638dc0c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "delit-de-solidarite",
+  "nom": "Délit d'aide à l'entrée et au séjour irréguliers",
+  "variantes": [
+   "délit de solidarité",
+   "principe de fraternité"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "immigration",
+  "definition": "Le droit français punit le fait de faciliter l'entrée, la circulation ou le séjour irréguliers d'un étranger. Des exemptions protègent l'aide apportée par des proches ou l'aide sans contrepartie fournie dans un but exclusivement humanitaire. En 2018, le Conseil constitutionnel a reconnu valeur constitutionnelle au « principe de fraternité », dont découle la liberté d'aider autrui dans un but humanitaire, sans considération de la régularité de son séjour, ce qui a conduit à élargir ces exemptions. L'expression « délit de solidarité » est employée par les associations pour critiquer les poursuites visant des aidants.",
+  "enjeux": "Les uns veulent supprimer toute possibilité de poursuivre l'aide désintéressée et protéger les militants associatifs. Les autres veulent au contraire étendre les poursuites à toute aide, directe ou indirecte, apportée à l'entrée ou au maintien irrégulier, en y voyant une complicité avec les filières.",
+  "reperes": [
+   "Conseil constitutionnel, décision du 6 juillet 2018 (principe de fraternité)",
+   "Loi du 10 septembre 2018 élargissant les exemptions"
+  ],
+  "liens": [
+   "delit-de-sejour-irregulier",
+   "sauvetage-en-mer"
+  ],
+  "motifs": [
+   "délit de solidarité",
+   "délit d'aide à l'entrée*",
+   "aide directe ou indirecte aux étrangers"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de réformer le délit d'aide à l'entrée et au séjour irréguliers pour protéger les « citoyen·nes militant·es ».",
+    "appuis": [
+     "p2da1acc8"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit la fin du « délit de solidarité ».",
+    "appuis": [
+     "p802d943f"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit que la loi permette de poursuivre et de condamner les personnes qui apportent une aide directe ou indirecte aux étrangers tentant d'entrer ou de se maintenir illégalement sur le territoire.",
+    "appuis": [
+     "p963351e0"
+    ]
+   }
+  }
+ },
+ {
+  "id": "eloignement-des-etrangers-condamnes",
+  "nom": "Expulsion des étrangers délinquants ou menaçant l'ordre public",
+  "variantes": [
+   "expulsion",
+   "éloignement",
+   "interdiction du territoire",
+   "protections contre l'expulsion"
+  ],
+  "categorie": "politique publique",
+  "theme": "immigration",
+  "definition": "Au sens strict, l'expulsion est une mesure administrative prise contre un étranger dont la présence constitue une menace grave pour l'ordre public ; le juge pénal peut aussi prononcer une interdiction du territoire français à titre de peine. Le droit protège certaines catégories contre l'expulsion, par exemple les personnes arrivées en France enfant ou ayant des attaches familiales fortes, protections que la loi de 2024 a réduites. L'exécution suppose l'accord du pays de destination et le respect de l'article 3 de la Convention européenne des droits de l'homme, qui interdit le renvoi vers un pays où la personne risque la torture ou des traitements inhumains.",
+  "enjeux": "Le consensus est large pour éloigner les étrangers auteurs d'infractions graves, mais les partis divergent sur l'automaticité, la suppression des protections, l'extension à des personnes non condamnées, comme les « fichés S », et le respect de la Convention européenne des droits de l'homme. Les difficultés d'exécution tiennent souvent aux pays d'origine.",
+  "reperes": [
+   "Convention européenne des droits de l'homme, articles 3 et 8",
+   "Loi du 26 janvier 2024 réduisant les protections contre l'expulsion"
+  ],
+  "liens": [
+   "oqtf",
+   "retention-administrative",
+   "decheance-de-nationalite",
+   "remigration",
+   "primaute-de-la-constitution"
+  ],
+  "motifs": [
+   "expulser systématiquement",
+   "expulser immédiatement",
+   "expulser les étrangers",
+   "expulsion des étrangers",
+   "expulsions d'étrangers",
+   "être expulsés",
+   "puis expulser",
+   "expulser plus efficacement",
+   "expulsant les fichés S",
+   "obstacles à l'éloignement",
+   "délinquants étrangers",
+   "criminels étrangers"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme indique que les recruteurs terroristes étrangers condamnés doivent pouvoir être expulsés, et propose d'interdire l'expulsion des personnes exilées atteintes d'une affection de longue durée.",
+    "appuis": [
+     "p43fdcb44",
+     "p5a8a803a"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose d'expulser systématiquement les délinquants étrangers dès leur condamnation, les criminels à l'issue de leur peine et les « fichés S » étrangers, et d'expulser immédiatement les délinquants étrangers incarcérés.",
+    "appuis": [
+     "p89a18dce",
+     "p32d6cd3b",
+     "p7496c3de"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le parti prévoit l'expulsion des étrangers « qui troublent l'ordre public » et d'expulser plus efficacement ceux qui ne sont pas éligibles au séjour.",
+    "appuis": [
+     "pea8fc877",
+     "pdd657e9b"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d'expulser systématiquement les « clandestins, délinquants et criminels étrangers », de supprimer les dérogations qui empêchent les expulsions et de lever les obstacles à l'éloignement des étrangers condamnés.",
+    "appuis": [
+     "pbec7d326",
+     "p282a4346",
+     "p665cffdc"
+    ]
+   }
+  }
+ },
+ {
+  "id": "remigration",
+  "nom": "Remigration",
+  "variantes": [
+   "ministère de la Remigration",
+   "retour au pays"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "immigration",
+  "definition": "Le terme de remigration désigne une politique de retour massif d'étrangers, et parfois de personnes d'origine étrangère, vers leur pays d'origine ou celui de leurs parents. Venu des milieux identitaires européens, il a été repris en France dans le débat politique au cours des années 2020. Son contenu varie selon ceux qui l'emploient : retour des étrangers en situation irrégulière ou condamnés, retour incité ou contraint, ou projet plus large. Il ne correspond à aucune catégorie du droit français.",
+  "enjeux": "Ses promoteurs le présentent comme la réponse à une immigration jugée excessive et comme l'inversion des flux. Ses opposants y voient une notion à connotation ethnique, dont les versions les plus larges seraient contraires à l'égalité devant la loi et aux engagements internationaux. Le flou du terme est lui-même un objet de débat.",
+  "reperes": [],
+  "liens": [
+   "eloignement-des-etrangers-condamnes",
+   "sejour-conditionne-aux-ressources"
+  ],
+  "motifs": [
+   "remigration"
+  ],
+  "positions": {
+   "reconquete": {
+    "texte": "Le programme propose de créer un « ministère de la Remigration » doté de moyens matériels, notamment des avions, et de rétablir l'usage de charters collectifs pour les éloignements.",
+    "appuis": [
+     "p7cc93aac",
+     "p94808195"
+    ]
+   }
+  }
+ },
+ {
+  "id": "sejour-conditionne-aux-ressources",
+  "nom": "Séjour conditionné à l'emploi et aux ressources",
+  "variantes": [
+   "condition de ressources",
+   "retrait du titre pour chômage"
+  ],
+  "categorie": "politique publique",
+  "theme": "immigration",
+  "definition": "Il s'agit de lier le maintien du droit au séjour à la capacité de l'étranger à subvenir à ses besoins par son travail ou ses ressources. Le droit actuel exige déjà des ressources pour plusieurs titres et pour le regroupement familial, mais la perte d'emploi involontaire n'entraîne pas en principe à elle seule le retrait d'un titre en cours de validité. Certaines propositions vont jusqu'au renvoi des étrangers restés sans emploi pendant une durée donnée, ou à l'exigence d'une assurance santé pour entrer.",
+  "enjeux": "Ses partisans y voient la conséquence logique d'une immigration fondée sur le travail et un moyen de protéger les finances sociales. Ses opposants soulignent que les étrangers cotisent à l'assurance chômage comme les autres salariés et qu'une telle règle les rendrait plus vulnérables à leurs employeurs.",
+  "reperes": [],
+  "liens": [
+   "immigration-de-travail",
+   "titres-de-sejour",
+   "conditionnement-des-prestations"
+  ],
+  "motifs": [
+   "étrangers au chômage",
+   "qui n'ont pas eu d'emploi",
+   "subvenir à ses besoins",
+   "subvenir à leurs besoins"
+  ],
+  "positions": {
+   "reconquete": {
+    "texte": "Le programme propose d'expulser les étrangers au chômage au terme de six mois de recherche d'emploi infructueuse.",
+    "appuis": [
+     "p2065b361"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de renvoyer les étrangers restés un an sans emploi et sans moyens de subvenir à leurs besoins, d'exiger la preuve de ressources suffisantes et une assurance couvrant les frais médicaux.",
+    "appuis": [
+     "p6d76b0e1",
+     "pdcc046b1",
+     "pd4c25942"
+    ]
+   }
+  }
+ },
+ {
+  "id": "mineurs-non-accompagnes",
+  "nom": "Mineurs non accompagnés",
+  "variantes": [
+   "MNA",
+   "mineurs étrangers isolés",
+   "évaluation de minorité",
+   "tests osseux"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "immigration",
+  "definition": "Les mineurs non accompagnés sont des étrangers de moins de dix-huit ans présents en France sans représentant légal. Ils relèvent de la protection de l'enfance, confiée aux départements, après une évaluation de leur minorité et de leur isolement ; un mineur ne peut faire l'objet d'une mesure d'éloignement. L'âge peut être recherché par des examens radiologiques osseux, encadrés depuis 2016 : ils supposent une décision judiciaire et l'accord de l'intéressé, et le doute profite à l'intéressé. Le Conseil constitutionnel a validé ces examens en 2019 sous ces garanties. À leur majorité, ces jeunes doivent obtenir un titre de séjour pour rester.",
+  "enjeux": "Les uns mettent en avant la protection due à tout enfant, la présomption de minorité et le manque de fiabilité des tests osseux. Les autres insistent sur les fraudes à l'âge, le coût pour les départements et la nécessité d'un retour vers les familles ou les pays d'origine.",
+  "reperes": [
+   "Code civil, article 388 (examens radiologiques osseux)",
+   "Conseil constitutionnel, décision du 21 mars 2019"
+  ],
+  "liens": [
+   "titres-de-sejour",
+   "eloignement-des-etrangers-condamnes"
+  ],
+  "motifs": [
+   "mineurs étrangers isolés",
+   "mineurs isolés",
+   "mineurs non accompagnés",
+   "MNA",
+   "mineurs étrangers",
+   "tests osseux",
+   "évaluation de minorité",
+   "présomption de minorité"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de refondre l'évaluation de minorité avec une « présomption de minorité » et une mise à l'abri pendant les recours, d'interdire les tests osseux et d'attribuer à la majorité un titre de séjour valable jusqu'à 25 ans.",
+    "appuis": [
+     "p4394c456",
+     "p456c84d9",
+     "p0bd69289"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de mettre fin au dispositif des « mineurs étrangers isolés » et de rendre ces enfants à leurs familles.",
+    "appuis": [
+     "p6f2f6af4"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de soumettre les mineurs isolés étrangers à toutes les vérifications, notamment des tests osseux, et de remettre aux autorités de leur pays ceux qui ne remplissent pas les conditions de prise en charge.",
+    "appuis": [
+     "pc3a7c15c",
+     "p138aa407"
+    ]
+   }
+  }
+ },
+ {
+  "id": "quotas-d-immigration",
+  "nom": "Quotas d'immigration",
+  "variantes": [
+   "quotas migratoires",
+   "plafonds"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "immigration",
+  "definition": "Les quotas d'immigration consistent à fixer à l'avance, souvent par une loi votée chaque année, un nombre maximal d'admissions au séjour, éventuellement réparti par pays d'origine ou par catégorie (travail, études, famille). Des pays comme le Canada ou l'Australie fixent des cibles d'admission. En France, une commission présidée par Pierre Mazeaud a estimé en 2008 que des quotas contraignants seraient difficiles à concilier avec la Constitution et les engagements internationaux, notamment pour l'asile et la vie familiale.",
+  "enjeux": "Ses partisans y voient un moyen pour la Nation de « décider qui entre » et d'adapter les flux aux besoins. Ses opposants soulignent que l'asile et le regroupement familial reposent sur des droits individuels difficiles à plafonner, et jugent les quotas par nationalité discriminatoires ou peu opérants.",
+  "reperes": [
+   "Rapport de la commission Mazeaud, juillet 2008"
+  ],
+  "liens": [
+   "immigration-de-travail",
+   "regroupement-familial",
+   "referendum-sur-l-immigration"
+  ],
+  "motifs": [
+   "quotas d'immigration",
+   "quotas d'accueil"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose des quotas d'immigration « par métier et par pays » et des quotas d'accueil par pays et par catégorie (étudiants, familles, métiers).",
+    "appuis": [
+     "p61d09132",
+     "p9277d280"
+    ]
+   }
+  }
+ },
+ {
+  "id": "immigration-de-travail",
+  "nom": "Immigration de travail et système à points",
+  "variantes": [
+   "immigration choisie",
+   "système à points",
+   "métiers en tension",
+   "opposabilité de la situation de l'emploi"
+  ],
+  "categorie": "politique publique",
+  "theme": "immigration",
+  "definition": "L'immigration de travail désigne l'admission au séjour d'étrangers pour occuper un emploi. En France, l'employeur doit en principe obtenir une autorisation de travail, qui peut être refusée si des candidats sont disponibles sur le marché du travail, sauf pour les métiers inscrits sur une liste de métiers en tension ou pour certains profils qualifiés (titre « talent »). Le système à points, pratiqué notamment au Canada, attribue des points selon des critères comme la langue, le diplôme, l'âge ou l'offre d'emploi. L'expression « immigration choisie » s'est imposée en France au milieu des années 2000, par opposition à une immigration dite « subie ».",
+  "enjeux": "Le débat porte sur la place à donner au travail par rapport aux motifs familiaux ou humanitaires, sur l'adaptation aux pénuries de main-d'œuvre, sur la reconnaissance des diplômes et sur les risques de dépendance des travailleurs envers leur employeur. Certains réservent l'admission aux qualifications manquantes ; d'autres veulent ouvrir des voies légales plus larges.",
+  "reperes": [
+   "Liste des métiers en tension fixée par arrêté",
+   "Titre de séjour « talent » créé par la loi du 7 mars 2016"
+  ],
+  "liens": [
+   "quotas-d-immigration",
+   "regularisation",
+   "voies-legales-et-sures",
+   "droit-au-travail-des-demandeurs-d-asile"
+  ],
+  "motifs": [
+   "immigration de travail",
+   "immigration légale de travail",
+   "système à points",
+   "visa Talents Tech",
+   "préférence travail"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de rémunérer de façon égale les professionnels étrangers (médecins, chercheurs, ingénieurs) et de reconnaître leurs diplômes.",
+    "appuis": [
+     "pbb9d8ebf"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de créer un « visa Talents Tech » délivré en quelques semaines pour attirer des ingénieurs.",
+    "appuis": [
+     "p3be3cdd1"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose des voies légales d'immigration de travail, avec des accords bilatéraux et des visas multi-entrées pour des « mobilités circulaires », et compte sur l'immigration légale de travail pour accroître le nombre de cotisants.",
+    "appuis": [
+     "pa8816f32",
+     "p86355bca"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le parti défend une « préférence travail » fondée sur un système à points inspiré du Canada et la priorité donnée à l'immigration de travail sur le regroupement familial.",
+    "appuis": [
+     "p1f534959",
+     "p3ca245dc"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de n'admettre à séjourner durablement et à travailler que les étrangers possédant des qualifications pour des emplois qui ne peuvent être occupés par des nationaux, et de renforcer les sanctions contre les employeurs de « travailleurs clandestins ».",
+    "appuis": [
+     "p5ef61777",
+     "p0eb1b2e6"
+    ]
+   }
+  }
+ },
+ {
+  "id": "voies-legales-et-sures",
+  "nom": "Voies légales et sûres de migration",
+  "variantes": [
+   "voies légales et sécurisées",
+   "réinstallation",
+   "visas humanitaires"
+  ],
+  "categorie": "politique publique",
+  "theme": "immigration",
+  "definition": "Les voies légales et sûres désignent les moyens d'entrer régulièrement dans un pays sans recourir aux passeurs : visas humanitaires, programmes de réinstallation de réfugiés organisés avec le Haut-Commissariat des Nations unies pour les réfugiés, visas de travail ou d'études, regroupement familial. L'expression est d'usage courant dans les organisations internationales et le droit européen. Leur ouverture est présentée comme un moyen de réduire les traversées dangereuses.",
+  "enjeux": "Leurs partisans estiment qu'elles affaiblissent les réseaux de passeurs et protègent les personnes. Leurs détracteurs craignent qu'elles s'ajoutent aux arrivées irrégulières sans les remplacer et augmentent les flux globaux.",
+  "reperes": [],
+  "liens": [
+   "immigration-de-travail",
+   "sauvetage-en-mer",
+   "reglement-de-dublin-et-pacte-asile",
+   "politique-des-visas"
+  ],
+  "motifs": [
+   "voies légales"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de créer des voies légales et sûres d'immigration, notamment pour les femmes persécutées en raison de leur genre, par une révision du pacte européen.",
+    "appuis": [
+     "pe18ba0ae",
+     "pc946201b"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de créer des voies légales et sécurisées d'immigration.",
+    "appuis": [
+     "p103b01b1"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de créer des voies légales et sécurisées d'immigration de travail.",
+    "appuis": [
+     "pa8816f32"
+    ]
+   }
+  }
+ },
+ {
+  "id": "titres-de-sejour",
+  "nom": "Titres de séjour : carte pluriannuelle et carte de résident",
+  "variantes": [
+   "titre de séjour",
+   "carte de séjour pluriannuelle",
+   "carte de résident",
+   "titre de long séjour"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "immigration",
+  "definition": "Le titre de séjour est le document qui autorise un étranger non européen à résider en France au-delà de trois mois. Il existe plusieurs niveaux : carte de séjour temporaire, en général d'un an ; carte de séjour pluriannuelle, de deux à quatre ans, généralisée par la loi de 2016 ; carte de résident, de dix ans renouvelable, créée par une loi de 1984 votée à l'unanimité. Le renouvellement est soumis à des conditions et l'accès aux titres longs suppose désormais un niveau de français et le respect des principes de la République. Les délais de rendez-vous en préfecture sont un problème récurrent.",
+  "enjeux": "Les uns veulent faire de la carte pluriannuelle ou de la carte de dix ans le titre de référence, pour stabiliser les parcours et désengorger les préfectures. Les autres veulent des titres plus courts, des renouvellements moins systématiques et des conditions d'assimilation ou de réussite à un examen de français.",
+  "reperes": [
+   "Carte de résident créée par la loi du 17 juillet 1984",
+   "Carte pluriannuelle généralisée par la loi du 7 mars 2016"
+  ],
+  "liens": [
+   "regularisation",
+   "regroupement-familial",
+   "parcours-d-integration",
+   "assimilation"
+  ],
+  "motifs": [
+   "titre de séjour",
+   "titres de séjour",
+   "carte de séjour*",
+   "carte de résident",
+   "titres de long séjour"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un renouvellement automatique et pluriannuel des titres de séjour et la suppression du titre de séjour territorialisé à Mayotte avant 2030.",
+    "appuis": [
+     "p1226095a",
+     "pf4b342ab"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d'instituer la carte de séjour de dix ans comme titre de séjour de référence.",
+    "appuis": [
+     "p329c53f9"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de généraliser la carte de séjour pluriannuelle et d'en faire le titre de séjour de référence.",
+    "appuis": [
+     "p08daa62d"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de mettre fin au renouvellement « quasi-systématique » des titres de séjour.",
+    "appuis": [
+     "p9118f104"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le parti prévoit de réserver les titres de long séjour à ceux qui réussissent un examen de français et s'insèrent professionnellement.",
+    "appuis": [
+     "pcafabfde"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de subordonner tout titre de séjour à l'engagement de « s'assimiler » et de réduire la durée de validité des titres en vigueur.",
+    "appuis": [
+     "pedb4119a",
+     "pf941af91"
+    ]
+   }
+  }
+ },
+ {
+  "id": "accord-franco-algerien-1968",
+  "nom": "Accord franco-algérien de 1968",
+  "variantes": [
+   "accord de 1968",
+   "certificat de résidence algérien"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "immigration",
+  "definition": "L'accord du 27 décembre 1968 entre la France et l'Algérie régit l'entrée, le séjour et le travail des ressortissants algériens en France, qui échappent sur ces points au droit commun du CESEDA. Il prévoit notamment un certificat de résidence propre et des règles spécifiques, plus favorables sur certains points, comme le regroupement familial ou l'accès au titre de dix ans, et moins favorables sur d'autres. Il a été modifié par trois avenants, le dernier datant de 2001.",
+  "enjeux": "Ses détracteurs jugent ce régime dérogatoire avantageux et demandent sa dénonciation, notamment comme moyen de pression sur la délivrance des laissez-passer consulaires. Ses défenseurs soulignent que ses avantages ont été en partie érodés, que sa dénonciation aurait des effets diplomatiques et qu'elle ramènerait les Algériens au droit commun sans garantir une baisse des flux.",
+  "reperes": [
+   "Signé le 27 décembre 1968",
+   "Avenants de 1985, 1994 et 2001"
+  ],
+  "liens": [
+   "politique-des-visas",
+   "regroupement-familial",
+   "titres-de-sejour"
+  ],
+  "motifs": [
+   "accord franco-algérien",
+   "accord de 1968"
+  ],
+  "positions": {
+   "reconquete": {
+    "texte": "Le programme propose de dénoncer les accords bilatéraux facilitant l'immigration, en particulier l'accord franco-algérien de 1968, pour mettre un terme à ce qu'il appelle des « privilèges migratoires ».",
+    "appuis": [
+     "ped3536ab"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit la fin de l'accord de 1968 avec l'Algérie.",
+    "appuis": [
+     "p150fa34b"
+    ]
+   }
+  }
+ },
+ {
+  "id": "espace-schengen",
+  "nom": "Espace Schengen",
+  "variantes": [
+   "Schengen",
+   "libre circulation",
+   "contrôles aux frontières intérieures"
+  ],
+  "categorie": "institution",
+  "theme": "immigration",
+  "definition": "L'espace Schengen est la zone, composée de la plupart des États de l'Union et de quelques États associés, à l'intérieur de laquelle les contrôles aux frontières intérieures sont supprimés et où s'applique une politique commune de visas de court séjour et de contrôle des frontières extérieures. Il découle de l'accord de 1985 et de la convention d'application de 1990, entrés en vigueur en 1995, puis intégrés au droit de l'Union. Les États peuvent rétablir temporairement des contrôles intérieurs en cas de menace grave ; la France le fait sans interruption depuis 2015. Le code frontières Schengen a été réformé en 2024.",
+  "enjeux": "Les uns veulent renforcer Schengen par des frontières extérieures mieux contrôlées ; d'autres veulent le renégocier, le restreindre aux seuls ressortissants européens ou en sortir. Ses défenseurs soulignent son apport économique et à la liberté de circulation des citoyens, ses critiques les failles dans le contrôle des frontières extérieures.",
+  "reperes": [
+   "Accord de Schengen, 14 juin 1985",
+   "Convention d'application, 1990, appliquée depuis 1995",
+   "Contrôles aux frontières intérieures rétablis par la France depuis novembre 2015"
+  ],
+  "liens": [
+   "frontex",
+   "controle-des-frontieres",
+   "politique-des-visas",
+   "reglement-de-dublin-et-pacte-asile"
+  ],
+  "motifs": [
+   "Schengen"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme prévoit de « sortir de l'impasse de Schengen et de Frontex ».",
+    "appuis": [
+     "p20685daf"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose une renégociation de Schengen et le renforcement de Frontex.",
+    "appuis": [
+     "pc1a7fa0b"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le parti prévoit d'« aller au bout de la réforme de Schengen » pour renforcer les frontières européennes.",
+    "appuis": [
+     "pd546a86d"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de négocier pour réserver la libre circulation Schengen aux seuls ressortissants européens et de rétablir un contrôle permanent des frontières nationales.",
+    "appuis": [
+     "p98b78452",
+     "p89f17240"
+    ]
+   }
+  }
+ },
+ {
+  "id": "frontex",
+  "nom": "Frontex",
+  "variantes": [
+   "Agence européenne de garde-frontières et de garde-côtes",
+   "garde-frontières européens"
+  ],
+  "categorie": "institution",
+  "theme": "immigration",
+  "definition": "Frontex est l'Agence européenne de garde-frontières et de garde-côtes, chargée d'appuyer les États membres dans le contrôle des frontières extérieures de l'espace Schengen, la surveillance maritime et l'organisation de retours. Créée en 2004 et installée à Varsovie, elle a vu son mandat et ses moyens fortement accrus à partir de 2016, avec la constitution d'un contingent permanent de garde-frontières. Elle a fait l'objet de critiques et d'enquêtes au sujet de refoulements en mer Égée.",
+  "enjeux": "Ses partisans veulent renforcer ses effectifs pour mieux contrôler les frontières extérieures. Ses détracteurs l'accusent de privilégier la dissuasion sur le sauvetage et le respect des droits fondamentaux, et certains demandent son démantèlement au profit d'une agence de sauvetage.",
+  "reperes": [
+   "Créée en 2004, siège à Varsovie",
+   "Mandat élargi par des règlements de 2016 et 2019"
+  ],
+  "liens": [
+   "espace-schengen",
+   "sauvetage-en-mer",
+   "controle-des-frontieres"
+  ],
+  "motifs": [
+   "Frontex"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de démanteler Frontex et de créer une agence chargée des droits fondamentaux des personnes migrantes et du sauvetage en mer et sur terre.",
+    "appuis": [
+     "p328381d8"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de « sortir de l'impasse de Schengen et de Frontex ».",
+    "appuis": [
+     "p20685daf"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de renforcer Frontex par le recrutement de 10 000 garde-frontières supplémentaires.",
+    "appuis": [
+     "pc1a7fa0b"
+    ]
+   }
+  }
+ },
+ {
+  "id": "pacte-de-marrakech",
+  "nom": "Pacte de Marrakech",
+  "variantes": [
+   "Pacte mondial pour des migrations sûres, ordonnées et régulières"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "immigration",
+  "definition": "Le Pacte mondial pour des migrations sûres, ordonnées et régulières, dit pacte de Marrakech, est un texte adopté sous l'égide des Nations unies en décembre 2018. Il énonce des objectifs de coopération internationale, comme la lutte contre les passeurs, la gestion des frontières, l'accès des migrants aux services de base ou la facilitation des retours. Il n'est pas juridiquement contraignant et réaffirme la souveraineté des États sur leur politique migratoire. La France l'a approuvé, tandis que plusieurs États, dont les États-Unis, la Hongrie ou l'Autriche, s'en sont tenus à l'écart.",
+  "enjeux": "Ses opposants y voient un texte qui encourage les migrations et pourrait inspirer les juges. Ses défenseurs rappellent son caractère non contraignant et soulignent qu'il vise aussi à lutter contre l'immigration irrégulière et à organiser les retours.",
+  "reperes": [
+   "Adopté à Marrakech les 10 et 11 décembre 2018",
+   "Texte non contraignant"
+  ],
+  "liens": [
+   "voies-legales-et-sures",
+   "politique-des-visas"
+  ],
+  "motifs": [
+   "Pacte de Marrakech",
+   "Marrakech"
+  ],
+  "positions": {
+   "reconquete": {
+    "texte": "Le programme propose de retirer la signature de la France au pacte de Marrakech, qu'il présente comme favorisant les migrations internationales.",
+    "appuis": [
+     "pab54d4fc"
+    ]
+   }
+  }
+ },
+ {
+  "id": "accords-du-touquet",
+  "nom": "Accords du Touquet",
+  "variantes": [
+   "contrôles juxtaposés",
+   "frontière franco-britannique"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "immigration",
+  "definition": "Le traité du Touquet, signé en 2003 entre la France et le Royaume-Uni, organise des contrôles frontaliers juxtaposés : les agents britanniques contrôlent les passagers à destination du Royaume-Uni dans les ports français de la Manche, et inversement. Il a pour effet de placer de fait la frontière britannique sur le sol français, notamment à Calais. Il est complété par des accords de financement par lesquels le Royaume-Uni contribue à la surveillance du littoral français.",
+  "enjeux": "Ses critiques estiment qu'il fait de la France le garde-frontière du Royaume-Uni et contribue aux campements et aux traversées dangereuses en petites embarcations. Ses défenseurs y voient un outil de coopération qui limite les départs, et certains proposent de s'en servir comme levier de négociation avec Londres.",
+  "reperes": [
+   "Traité signé au Touquet le 4 février 2003"
+  ],
+  "liens": [
+   "controle-des-frontieres",
+   "sauvetage-en-mer"
+  ],
+  "motifs": [
+   "Touquet"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de remettre en cause les accords du Touquet.",
+    "appuis": [
+     "p0b0c0684"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de dénoncer les accords du Touquet.",
+    "appuis": [
+     "p70bc3c3e"
+    ]
+   }
+  }
+ },
+ {
+  "id": "controle-des-frontieres",
+  "nom": "Contrôle des frontières nationales",
+  "variantes": [
+   "police aux frontières",
+   "garde-frontières",
+   "force des frontières",
+   "refoulements"
+  ],
+  "categorie": "politique publique",
+  "theme": "immigration",
+  "definition": "Le contrôle des frontières est assuré en France principalement par la police aux frontières et par les douanes, aux points de passage extérieurs de l'espace Schengen (ports, aéroports) et, depuis le rétablissement des contrôles intérieurs en 2015, aux frontières avec les pays voisins. Une personne interpellée à la frontière peut se voir refuser l'entrée, mais le refus doit respecter le droit d'asile et le principe de non-refoulement. Des associations et des institutions ont signalé des refoulements contestés, notamment à la frontière franco-italienne.",
+  "enjeux": "Les uns veulent renforcer les moyens, créer de nouvelles forces dédiées, y compris à statut militaire, et rétablir un contrôle permanent. Les autres dénoncent les violences, la « militarisation » et les refoulements illégaux, et rappellent les obligations d'examen des demandes d'asile présentées à la frontière.",
+  "reperes": [
+   "Direction nationale de la police aux frontières",
+   "Contrôles aux frontières intérieures rétablis depuis novembre 2015"
+  ],
+  "liens": [
+   "espace-schengen",
+   "frontex",
+   "accords-du-touquet"
+  ],
+  "motifs": [
+   "garde-frontières",
+   "police aux frontières",
+   "force des frontières",
+   "frontières nationales",
+   "zones de frontières",
+   "contrôle permanent de nos frontières"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de mettre fin aux violences, à la « militarisation » et aux refoulements illégaux dans les zones de frontières, en particulier dans le Briançonnais et sur le littoral Nord.",
+    "appuis": [
+     "p01fa2786"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de créer une garde-frontières à statut militaire pour épauler la police aux frontières.",
+    "appuis": [
+     "p5e25b818"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le parti prévoit de créer une « force des frontières » pour renforcer les frontières nationales.",
+    "appuis": [
+     "p62d88523"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de rétablir une surveillance et un contrôle permanent des frontières, en invoquant les défaillances des mécanismes européens.",
+    "appuis": [
+     "p89f17240"
+    ]
+   }
+  }
+ },
+ {
+  "id": "sauvetage-en-mer",
+  "nom": "Sauvetage en mer",
+  "variantes": [
+   "devoir de sauver",
+   "agence de sauvetage",
+   "secours en mer"
+  ],
+  "categorie": "politique publique",
+  "theme": "immigration",
+  "definition": "Le droit international de la mer impose aux capitaines et aux États de porter assistance à toute personne en détresse en mer et de la débarquer dans un lieu sûr. En Méditerranée, les opérations de secours aux embarcations de migrants ont été assurées tour à tour par des opérations étatiques, comme l'opération italienne Mare Nostrum en 2013 et 2014, par des opérations européennes et par des navires d'organisations non gouvernementales. La question du port de débarquement donne lieu à des conflits récurrents entre États.",
+  "enjeux": "Les uns demandent une mission publique européenne de sauvetage et protègent l'action des ONG au nom du devoir d'assistance. Les autres estiment que des opérations de secours trop proches des côtes de départ facilitent le travail des passeurs et encouragent les traversées.",
+  "reperes": [
+   "Convention des Nations unies sur le droit de la mer, 1982, article 98",
+   "Convention internationale sur la recherche et le sauvetage maritimes, 1979"
+  ],
+  "liens": [
+   "frontex",
+   "voies-legales-et-sures",
+   "delit-de-solidarite"
+  ],
+  "motifs": [
+   "sauvetage en mer",
+   "devoir de sauver"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de créer une agence européenne chargée notamment du sauvetage en mer et sur terre, à la place de Frontex.",
+    "appuis": [
+     "p328381d8"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit une agence de sauvetage en mer et sur terre, dans l'attente de sa création au niveau européen.",
+    "appuis": [
+     "p0a0be88a"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une force européenne de sauvetage en mer et la reconnaissance d'un « devoir de sauver ».",
+    "appuis": [
+     "pe74426f1"
+    ]
+   }
+  }
+ },
+ {
+  "id": "droit-de-vote-des-etrangers",
+  "nom": "Droit de vote des étrangers aux élections locales",
+  "variantes": [
+   "vote des résidents étrangers",
+   "étrangers extra-communautaires"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "immigration",
+  "definition": "En France, seuls les citoyens français votent aux élections nationales. Depuis le traité de Maastricht et la révision constitutionnelle de 1992, les ressortissants des autres États de l'Union résidant en France peuvent voter et être élus aux élections municipales, sans pouvoir être maire ou adjoint, ainsi qu'aux élections européennes. L'extension aux étrangers non européens pour les élections locales figurait parmi les engagements de François Mitterrand en 1981 ; une proposition de loi constitutionnelle a été adoptée par l'Assemblée nationale en 2000 et par le Sénat en 2011 sans aboutir. Elle nécessiterait une révision de la Constitution.",
+  "enjeux": "Ses partisans y voient une reconnaissance de la participation des résidents durables à la vie locale et un facteur d'intégration. Ses opposants estiment que le vote doit rester lié à la nationalité, accessible par la naturalisation, et certains veulent inscrire cette exclusivité dans la Constitution.",
+  "reperes": [
+   "Constitution, article 88-3 (citoyens européens)",
+   "Révision constitutionnelle du 25 juin 1992"
+  ],
+  "liens": [
+   "naturalisation",
+   "assimilation"
+  ],
+  "motifs": [
+   "vote des étrangers",
+   "vote des résidents étrangers",
+   "droit de vote aux étranger*",
+   "pour les étrangers extra-communautaires",
+   "seuls les nationaux français ont le droit de vote"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d'étendre le droit de vote aux étrangers extra-communautaires pour les élections locales après cinq années de résidence.",
+    "appuis": [
+     "p4f91b3c5"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d'instituer le droit de vote des résidents étrangers aux élections locales.",
+    "appuis": [
+     "pb36b55b5"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d'ouvrir le droit de vote aux étrangers extra-communautaires pour les élections locales.",
+    "appuis": [
+     "p34a459e6"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de préciser dans la Constitution que seuls les nationaux français ont le droit de vote et sont éligibles.",
+    "appuis": [
+     "pffd653d1"
+    ]
+   }
+  }
+ },
+ {
+  "id": "assimilation",
+  "nom": "Assimilation",
+  "variantes": [
+   "assimilation à la communauté française",
+   "modèle assimilationniste"
+  ],
+  "categorie": "doctrine ou courant",
+  "theme": "immigration",
+  "definition": "L'assimilation désigne à la fois une notion juridique et une conception de l'accueil des immigrés. En droit, le code civil subordonne la naturalisation à la justification de l'« assimilation à la communauté française », appréciée notamment par la connaissance de la langue, de l'histoire, de la culture et des valeurs de la République. Comme doctrine, elle attend des nouveaux venus qu'ils adoptent les mœurs et la culture du pays d'accueil, par contraste avec l'intégration, qui insiste sur la participation à la société en laissant plus de place aux appartenances d'origine, et avec le multiculturalisme.",
+  "enjeux": "Ses défenseurs y voient la condition de l'unité nationale et la tradition française historique. Ses critiques estiment que ses versions les plus exigeantes nient la liberté individuelle et les identités plurielles, et préfèrent le vocabulaire de l'intégration ou de l'inclusion. Le choix du mot lui-même marque souvent une position politique.",
+  "reperes": [
+   "Code civil, article 21-24"
+  ],
+  "liens": [
+   "naturalisation",
+   "parcours-d-integration",
+   "titres-de-sejour"
+  ],
+  "motifs": [
+   "assimilation",
+   "s'assimiler"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme prévoit d'exiger des « preuves d'assimilation », notamment un test de français, pour la demande de nationalité.",
+    "appuis": [
+     "p56dc25b2"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le parti indique vouloir remettre « l'assimilation au cœur de notre Nation » et exiger une « assimilation réelle et vérifiable » pour la naturalisation.",
+    "appuis": [
+     "pc6665822",
+     "p79d869c4"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d'« imposer l'assimilation » et de subordonner la délivrance d'un titre de séjour à l'engagement de s'assimiler à la société française.",
+    "appuis": [
+     "p573047dc",
+     "pedb4119a",
+     "pb95ced2e"
+    ]
+   }
+  }
+ },
+ {
+  "id": "parcours-d-integration",
+  "nom": "Parcours d'intégration et apprentissage du français",
+  "variantes": [
+   "contrat d'intégration républicaine",
+   "CIR",
+   "OFII",
+   "français langue étrangère",
+   "guichet unique"
+  ],
+  "categorie": "politique publique",
+  "theme": "immigration",
+  "definition": "Les étrangers admis pour la première fois au séjour en vue de s'installer durablement signent avec l'État un contrat d'intégration républicaine, mis en place en 2016 et géré par l'Office français de l'immigration et de l'intégration (OFII). Il comprend une formation civique et, selon le niveau constaté, une formation linguistique en français. Le niveau de langue est mesuré sur l'échelle du cadre européen commun de référence pour les langues, du niveau A1 au niveau C2. L'OFII, créé en 2009, gère aussi l'accueil des demandeurs d'asile et les aides au retour.",
+  "enjeux": "Les uns veulent renforcer les moyens et l'accès aux cours de français, regrouper les démarches dans des guichets uniques et faire de l'intégration un droit. Les autres veulent conditionner davantage les titres de séjour à la réussite d'examens et à l'insertion professionnelle. Les deux approches partagent l'idée que la langue est centrale, mais divergent sur la logique de droit ou de condition.",
+  "reperes": [
+   "Contrat d'intégration républicaine créé par la loi du 7 mars 2016",
+   "OFII créé en 2009"
+  ],
+  "liens": [
+   "assimilation",
+   "titres-de-sejour",
+   "naturalisation"
+  ],
+  "motifs": [
+   "parcours d'intégration",
+   "contrat d'intégration*",
+   "OFII",
+   "Office français de l'immigration et de l'intégration",
+   "langue française",
+   "français langue étrangère",
+   "FLE",
+   "cours de français",
+   "examen de français",
+   "test de français",
+   "primo-arrivant*",
+   "nouveaux arrivants"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un droit effectif à la formation en français langue étrangère jusqu'au niveau A2, avec des moyens suffisants pour l'OFII.",
+    "appuis": [
+     "p5d7fa6d9"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit le renforcement des dispositifs d'apprentissage de la langue française.",
+    "appuis": [
+     "pcfd2f3cb"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit un « vrai parcours d'intégration » pour les nouveaux arrivants par l'école, l'emploi et le logement.",
+    "appuis": [
+     "p54c84a89"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose des guichets uniques pour les primo-arrivants, sur le modèle portugais, et des cours de français universels jusqu'au niveau A2.",
+    "appuis": [
+     "pf34db81e",
+     "p46363aaf"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le parti prévoit de réserver les titres de long séjour à ceux qui réussissent un examen de français et s'insèrent professionnellement.",
+    "appuis": [
+     "pcafabfde"
+    ]
+   }
+  }
+ },
+ {
+  "id": "referendum-sur-l-immigration",
+  "nom": "Référendum sur l'immigration",
+  "variantes": [
+   "référendum constitutionnel",
+   "article 11",
+   "article 89"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "immigration",
+  "definition": "Plusieurs partis proposent de soumettre la politique migratoire au référendum. L'article 11 de la Constitution limite le référendum législatif à certains domaines, dont les réformes relatives à la politique économique, sociale ou environnementale, et la question de savoir si l'immigration en relève est discutée. L'article 89 permet de réviser la Constitution par référendum, mais seulement après l'adoption du texte dans les mêmes termes par les deux assemblées. Le recours à l'article 11 pour réviser la Constitution, utilisé par le général de Gaulle en 1962, est contesté par une grande partie de la doctrine.",
+  "enjeux": "Ses partisans y voient un moyen de redonner la parole aux citoyens et de dépasser les obstacles juridiques posés par les juges. Ses opposants contestent la voie juridique envisagée et craignent qu'un référendum serve à écarter des droits fondamentaux protégés par la Constitution et les traités.",
+  "reperes": [
+   "Constitution, articles 11 et 89",
+   "Révision de 2008 élargissant l'article 11 aux questions environnementales"
+  ],
+  "liens": [
+   "priorite-nationale",
+   "primaute-de-la-constitution",
+   "quotas-d-immigration"
+  ],
+  "motifs": [
+   "référendum sur l'immigration",
+   "parole aux Français par référendum",
+   "référendum constitutionnel",
+   "un référendum soumettra"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme présidentiel de 2022 prévoyait de solliciter les Français par référendum sur l'immigration, la sécurité et la laïcité.",
+    "appuis": [
+     "pc04b3384"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose un « grand référendum sur l'immigration, la sécurité et la justice ».",
+    "appuis": [
+     "p8e153305"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit un référendum portant sur une réforme de la Constitution et des lois relatives aux étrangers, à la nationalité et à l'« identité française », pour « arrêter l'immigration incontrôlée ».",
+    "appuis": [
+     "pa0b6dd4d",
+     "p182e7e82",
+     "pab311771"
+    ]
+   }
+  }
+ },
+ {
+  "id": "mayotte",
+  "nom": "Régime dérogatoire de Mayotte",
+  "variantes": [
+   "titre de séjour territorialisé",
+   "droit du sol à Mayotte"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "immigration",
+  "definition": "Mayotte, département depuis 2011, connaît une forte immigration en provenance notamment des Comores et un régime juridique dérogatoire. Depuis la loi de 2018, l'acquisition de la nationalité par le droit du sol y suppose qu'un parent ait résidé régulièrement en France depuis un certain temps à la naissance de l'enfant, condition durcie par la loi du 12 mai 2025 : depuis l'entrée en vigueur de ses textes d'application en mai 2026, les parents doivent avoir résidé régulièrement en France depuis plus d'un an, et non plus un seul parent depuis trois mois, sauf exception pour les familles monoparentales. Les titres de séjour délivrés à Mayotte sont en principe valables sur ce seul territoire, ce qui empêche leurs titulaires de se rendre dans l'Hexagone sans autorisation. L'AME n'y est pas applicable.",
+  "enjeux": "Les partisans de ce régime invoquent la pression migratoire exceptionnelle et la saturation des services publics. Ses opposants dénoncent une rupture d'égalité entre territoires de la République et demandent l'alignement sur le droit commun, notamment pour fluidifier la circulation vers l'Hexagone.",
+  "reperes": [
+   "Département depuis le 31 mars 2011",
+   "Loi du 10 septembre 2018, dérogation au droit du sol",
+   "Loi du 12 mai 2025 renforçant les conditions d'accès à la nationalité à Mayotte, applicable depuis mai 2026"
+  ],
+  "liens": [
+   "droit-du-sol",
+   "titres-de-sejour",
+   "aide-medicale-d-etat"
+  ],
+  "motifs": [
+   "régime dérogatoire à Mayotte",
+   "exilés à Mayotte",
+   "entre Mayotte et le reste du territoire",
+   "titre de séjour territorialisé"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de supprimer le régime dérogatoire de Mayotte en matière de droit du sol et le titre de séjour territorialisé avant 2030, et d'y étendre l'AME.",
+    "appuis": [
+     "pa853e755",
+     "pf4b342ab",
+     "p6862f7a4"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d'améliorer les conditions d'accueil des exilés à Mayotte et de supprimer les conditions empêchant le déplacement entre Mayotte et le reste du territoire.",
+    "appuis": [
+     "pee134f38"
+    ]
+   }
+  }
+ },
+ {
+  "id": "politique-des-visas",
+  "nom": "Politique des visas",
+  "variantes": [
+   "visa Schengen",
+   "visa pour soins",
+   "laissez-passer consulaire",
+   "réadmission"
+  ],
+  "categorie": "politique publique",
+  "theme": "immigration",
+  "definition": "Le visa est l'autorisation préalable d'entrée délivrée par les consulats aux ressortissants des pays qui y sont soumis. Le visa de court séjour, jusqu'à trois mois, obéit à des règles communes à l'espace Schengen ; le visa de long séjour relève du droit national et vaut parfois titre de séjour. La politique des visas sert aussi de levier diplomatique, notamment pour obtenir des pays d'origine la délivrance de laissez-passer consulaires, sans lesquels l'éloignement de leurs ressortissants est impossible.",
+  "enjeux": "Les uns veulent faciliter l'accès aux visas, y compris des visas à entrées multiples pour des mobilités circulaires, en contrepartie d'une coopération sur les retours. Les autres veulent les restreindre, les rendre plus coûteux ou exiger des garanties financières. La réduction des visas comme sanction des pays peu coopératifs est utilisée et discutée.",
+  "reperes": [
+   "Code communautaire des visas, 2009"
+  ],
+  "liens": [
+   "espace-schengen",
+   "oqtf",
+   "accord-franco-algerien-1968",
+   "immigration-de-travail"
+  ],
+  "motifs": [
+   "visas",
+   "un visa",
+   "visa pour soins",
+   "visa touristiques",
+   "visa Talents Tech",
+   "laissez-passer consulaire*"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme prévoit de faciliter l'accès aux visas.",
+    "appuis": [
+     "p329c53f9"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit un « visa Talents Tech » délivré en quelques semaines.",
+    "appuis": [
+     "p3be3cdd1"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de lier la délivrance de visas à entrées multiples pour des mobilités circulaires à la réadmission, via des laissez-passer consulaires, des personnes déboutées.",
+    "appuis": [
+     "pa8816f32"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose une caution obligatoire de 10 000 euros pour l'obtention d'un visa par les ressortissants des pays d'où viennent majoritairement les « immigrés clandestins ».",
+    "appuis": [
+     "p14ab3b13"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit la suppression du visa pour soins et des timbres sur les visas touristiques.",
+    "appuis": [
+     "pfac449d8",
+     "ped323815"
+    ]
+   }
+  }
+ },
+ {
+  "id": "lois-asile-immigration",
+  "nom": "Lois asile et immigration de 2018 et 2024",
+  "variantes": [
+   "loi Collomb",
+   "loi Darmanin",
+   "loi immigration de 2024"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "immigration",
+  "definition": "La loi du 10 septembre 2018 « pour une immigration maîtrisée, un droit d'asile effectif et une intégration réussie », portée par Gérard Collomb, a notamment réduit certains délais de la procédure d'asile et porté la durée maximale de rétention à 90 jours. La loi du 26 janvier 2024 « pour contrôler l'immigration, améliorer l'intégration », portée par Gérald Darmanin, a notamment réformé le contentieux des étrangers, généralisé le juge unique à la CNDA, réduit les protections contre l'expulsion et créé un titre pour les métiers en tension. Le Conseil constitutionnel a censuré, en tout ou partie, plusieurs dizaines de ses articles, pour la plupart comme étrangers à l'objet du texte.",
+  "enjeux": "Leurs partisans y voient des outils pour accélérer les procédures et rendre l'éloignement plus effectif. Leurs opposants à gauche leur reprochent de restreindre les droits des étrangers et demandent leur abrogation ; leurs critiques à droite les jugent insuffisantes, surtout après la censure de 2024.",
+  "reperes": [
+   "Loi n° 2018-778 du 10 septembre 2018",
+   "Loi n° 2024-42 du 26 janvier 2024",
+   "Conseil constitutionnel, décision du 25 janvier 2024"
+  ],
+  "liens": [
+   "cnda",
+   "retention-administrative",
+   "regularisation",
+   "conditionnement-des-prestations"
+  ],
+  "motifs": [
+   "lois asile et immigration",
+   "loi immigration",
+   "loi Darmanin"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d'abroger les lois asile et immigration adoptées sous Emmanuel Macron et les mesures visant selon lui à « amoindrir les droits des personnes exilées ».",
+    "appuis": [
+     "pede86843"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d'abroger les lois asile et immigration « de Macron ».",
+    "appuis": [
+     "p4fd49083"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d'abroger la loi immigration de 2024.",
+    "appuis": [
+     "pd2eb3dc8"
+    ]
+   }
+  }
+ },
+ {
+  "id": "etudiants-etrangers",
+  "nom": "Étudiants étrangers",
+  "variantes": [
+   "frais d'inscription différenciés",
+   "Bienvenue en France",
+   "APL des étudiants étrangers"
+  ],
+  "categorie": "politique publique",
+  "theme": "immigration",
+  "definition": "Les étudiants étrangers non européens viennent en France avec un visa de long séjour valant titre de séjour pour études, qui autorise un travail à temps partiel. Ils constituent l'un des principaux motifs de premier titre de séjour. Depuis le plan « Bienvenue en France » de 2019, les universités appliquent en principe aux étudiants extra-européens des droits d'inscription plus élevés, avec de nombreuses exonérations. À l'issue de leurs études, ils peuvent sous conditions changer de statut pour travailler en France.",
+  "enjeux": "Les uns défendent l'accueil des étudiants étrangers au nom du rayonnement scientifique, de la francophonie et des besoins en compétences. Les autres veulent sélectionner davantage, augmenter les frais, supprimer certaines aides ou imposer le départ à la fin des études, pour éviter que les études ne servent de voie d'installation.",
+  "reperes": [
+   "Plan « Bienvenue en France », 2019",
+   "Aides au logement réservées, parmi les étudiants extra-européens, aux boursiers : mesure de la loi de finances pour 2026, appliquée depuis le 1er juillet 2026"
+  ],
+  "liens": [
+   "immigration-de-travail",
+   "conditionnement-des-prestations",
+   "titres-de-sejour",
+   "droits-d-inscription-etudiants-etrangers"
+  ],
+  "motifs": [
+   "étudiants étrangers",
+   "étudiant étranger"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme prévoit d'appliquer strictement la suppression des APL pour les étudiants étrangers hors Union non boursiers, prévue par la loi de finances pour 2026.",
+    "appuis": [
+     "p82379b89"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de sélectionner « au mérite » les étudiants étrangers, dans les filières jugées utiles au pays.",
+    "appuis": [
+     "p4e664755"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit qu'un étudiant étranger doive quitter le territoire à la fin de ses études, et une hausse des frais de scolarité des étudiants étrangers.",
+    "appuis": [
+     "p726e9c8c",
+     "pc0d39ce2"
+    ]
+   }
+  }
+ }
+]

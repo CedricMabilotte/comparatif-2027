@@ -1,0 +1,2226 @@
+[
+ {
+  "document": "lr-travail",
+  "theme": "travail",
+  "concepts": [
+   "travail"
+  ],
+  "intitule": "Exonérer de cotisations sociales les heures au-delà de 1 623 heures par an",
+  "citation": "Au-delà, la rémunération des heures travaillées est majorée selon les termes de l’accord d’entreprise et exonérées de toutes les cotisations sociales, salariales et patronales."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Fixer un seuil « zéro cotisation » à 1 623 heures annuelles",
+  "citation": "Le seuil est fixé à 1 623 heures par an, au lieu de 1 607 heures aujourd’hui, soit deux jours de travail supplémentaires rémunérés."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Maintenir l'exonération d'impôt sur le revenu des heures supplémentaires",
+  "citation": "Le dispositif actuel d’exonération d’impôt sur le revenu existant des heures supplémentaires est intégralement maintenu."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Annualiser le temps de travail",
+  "citation": "La mesure s’accompagne d’une annualisation du temps de travail, offrant davantage de souplesse aux entreprises."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [
+   "travail"
+  ],
+  "intitule": "Fusionner RSA, prime d'activité et ASS en un Revenu d'incitation à l'activité",
+  "citation": "Pour lever ces freins, nous proposons la création d’un Revenu d’incitation à l’activité (RIA), en remplacement de trois dispositifs existants : le RSA, la prime d’activité et l’allocation de solidarité spécifique (ASS)."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Verser un RIA socle de 300 euros mensuels aux adultes sans revenu",
+  "citation": "Une personne adulte de moins de 65 ans, sans activité et sans revenu, en situation régulière, perçoit un « RIA Socle » de 300 euros par mois."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [
+   "travail"
+  ],
+  "intitule": "Ajouter 250 euros mensuels en cas de formation ou recherche d'emploi",
+  "citation": "Si elle s’investit dans une formation ou une recherche active d’emploi, justifiant d’au moins quinze heures d’activité hebdomadaires, son RIA est complété par un « RIA Insertion » de 250 euros par mois."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [
+   "travail"
+  ],
+  "intitule": "Cumuler RIA et salaire en déduisant 30 % du salaire",
+  "citation": "Si elle reprend une activité, son allocation devient un complément de rémunération, calculé en additionnant RIA Socle et RIA Insertion et en déduisant 30 % de son salaire."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Annuler le RIA au-delà de 1 833 euros mensuels de revenus d'activité",
+  "citation": "Lorsque sa rémunération progresse et que ses revenus d’activité dépassent 1 833 euros par mois, le RIA s’annule"
+ },
+ {
+  "document": "lr-travail",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Supprimer le minimum légal de 24 heures hebdomadaires du temps partiel",
+  "citation": "En complément, nous proposons d’assouplir le travail à temps partiel en supprimant l’obligation d’un minimum légal de 24 heures hebdomadaires, sauf accord collectif."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [
+   "travail"
+  ],
+  "intitule": "Exonérer de cotisations retraite et chômage les seniors ayant tous leurs trimestres",
+  "citation": "Pour les salariés ayant tous leurs trimestres mais n’ayant pas encore atteint l’âge légal de départ, et ne relevant d’aucun dispositif spécifique existant (carrières longues, pénibilité, bonification pour enfants, etc.), nous proposons une exonération totale de cotisations retraite et chômage."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [
+   "travail"
+  ],
+  "intitule": "Remplacer surcote et cumul emploi-retraite par un dispositif unique",
+  "citation": "Ce dispositif unique remplacerait les mécanismes actuels de surcote et de cumul emploi-retraite."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Exonérer de cotisations, hors CSG-CRDS, le cumul emploi-retraite",
+  "citation": "Une exonération de toutes les cotisations sociales pour l’employeur et le salarié, hors CSG et CRDS ;"
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Minorer la pension de 30 % du revenu d'activité en cumul",
+  "citation": "Un cumul partiel entre pension et revenu d’activité, la pension étant minorée de 30 % du revenu d’activité ;"
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Supprimer le délai de carence de six mois chez le même employeur",
+  "citation": "La suppression du délai de carence de six mois pour conserver ou reprendre son emploi chez le même employeur, et des limites aux temps partiels (24 heures hebdomadaires)."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Créer un Compte social unique retraçant toutes les aides perçues",
+  "citation": "Nous proposons la création d’un Compte social unique (CSU), sur le modèle du compte fiscal."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Alimenter le CSU par un registre national obligatoire des versements",
+  "citation": "Ce compte serait alimenté par un registre national des versements, obligatoire et partagé entre tous les organismes publics et sociaux."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [
+   "travail"
+  ],
+  "intitule": "Plafonner le total des aides à 70 % du SMIC net par adulte",
+  "citation": "Une fois ce recensement en place, un plafond national pourrait s’appliquer, hors handicap, dépendance et vieillesse. Le total des aides ne pourrait pas dépasser 70 % du SMIC net par adulte."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Revoir les aides sociales pour renforcer leurs conditions d'attribution",
+  "citation": "Cette mesure ira de pair avec une revue des aides afin d’en renforcer les conditions d’attribution."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Appliquer les règles d'indemnisation chômage de juin 2024",
+  "citation": "La mise en œuvre des règles sur l’indemnisation du chômage de juin 2024, jamais appliquées, constitue une première étape nécessaire."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [
+   "travail"
+  ],
+  "intitule": "Mettre fin à l'indemnisation après trois refus d'offre raisonnable",
+  "citation": "un premier refus peut être admis lorsqu’une offre est manifestement inadaptée, un deuxième toléré dans des conditions proches, mais le refus d’une troisième offre raisonnable doit mettre fin à l’indemnisation."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Limiter à six mois et plafonner l'indemnisation des ruptures conventionnelles",
+  "citation": "La réforme consiste à limiter la durée d’indemnisation à six mois et à plafonner le montant perçu, afin d’adapter la protection à un départ négocié."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Calculer l'allocation des frontaliers sur un salaire français équivalent",
+  "citation": "La réforme prévoit de calculer l’allocation sur un salaire de référence français équivalent, tout en maintenant le mécanisme de remboursement de trois à cinq mois par le pays d’emploi."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Accélérer la dégressivité au-dessus de 3 000 euros et allonger le rechargement",
+  "citation": "La réforme prévoit de plafonner l’allocation au-delà d’un certain niveau de revenu, d’accélérer la dégressivité au-dessus de 3 000 euros nets et d’allonger la période minimale de rechargement des droits à 9 ou 12 mois."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Associer Unédic, partenaires sociaux et régions au pilotage de France Travail",
+  "citation": "Il est nécessaire d’associer pleinement l’Unédic, les partenaires sociaux et les régions à la définition de l’accompagnement assuré par France Travail, et au partage des données."
+ },
+ {
+  "document": "lr-travail",
+  "theme": "pouvoir-achat",
+  "concepts": [
+   "travail"
+  ],
+  "intitule": "Restituer 30 milliards d'euros aux salariés et aux entreprises",
+  "citation": "Pour moitié aux salariés, sous forme de gains de pouvoir d’achat, représentant environ 500 euros par an pour un salarié rémunéré au niveau du salaire médian ;"
+ },
+ {
+  "document": "lr-travail",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Baisser durablement le coût du travail dès la première heure",
+  "citation": "Pour moitié aux entreprises, par une baisse durable du coût du travail dès la première heure travaillée."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Supprimer les 50 règles les plus pénalisantes pour la production",
+  "citation": "Dès le lendemain de l’élection, les cinquante règles qui pénalisent le plus la production seront supprimées ou strictement recentrées afin de redonner sans délai des marges de manœuvre aux entreprises."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Supprimer le principe général de non-régression environnementale",
+  "citation": "Principe général de non-régression Suppression pure et simple"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Relever le seuil de 50 à 100 salariés pour toutes les obligations",
+  "citation": "Relèvement du seuil à 100 salariés pour toutes les obligations"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Transformer l'obligation de sécurité de résultat en obligation de moyens",
+  "citation": "Transformation de l'obligation de sécurité de résultat en obligation de moyens"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Remplacer le principe de précaution par un principe de responsabilité",
+  "citation": "Remplacement du principe de précaution par un principe de responsabilité"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Relever à 50 salariés le seuil du comité social et économique",
+  "citation": "Relèvement du seuil à 50 salariés (suppression du CSE « réduit » des 11-49 salariés) sauf accord d’entreprise"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Supprimer l'obligation de BDESE sous 250 salariés",
+  "citation": "Suppression de l'obligation en dessous de 250 salariés (retour au droit européen)"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Appliquer les nouvelles normes automobiles aux seuls nouveaux modèles",
+  "citation": "Application de toute nouvelle norme aux nouveaux modèles uniquement"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Moratoire sur les interdictions plastiques/PFAS allant au-delà de l'UE",
+  "citation": "Moratoire immédiat sur toute interdiction allant au‑delà des règlements européens"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Aligner les seuils des installations classées sur les seuils européens",
+  "citation": "Alignement sur les seuils européens en relevant les seuils de passage à l’Autorisation"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Mener un désherbage normatif dans chaque département",
+  "citation": "Dans chaque département, nous mènerons un désherbage systématique partant du terrain, pour supprimer les règles inutiles, redondantes ou disproportionnées et résorber durablement le stock."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Adopter une loi annuelle de simplification à article unique",
+  "citation": "Les mesures nécessitant une intervention législative seront regroupées dans une loi annuelle de simplification ciblée, construite autour d’un article unique et d’annexes précisant, pour chaque suppression ou modification, la règle de référence."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Refonder le code du travail sur 50 principes fondamentaux indépassables",
+  "citation": "Un socle de 50 principes fondamentaux sera rendu indépassable. Il ne sera pas possible d’y déroger."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [
+   "liberte"
+  ],
+  "intitule": "Rendre le code du travail supplétif face à l'accord collectif",
+  "citation": "Pour le reste, le Code du travail deviendra supplétif et ne s’appliquera qu’en l’absence d’accord collectif."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Permettre les accords par référendum à l'initiative de l'employeur",
+  "citation": "Les accords pourront être conclus par des syndicats majoritaires, par le comité social et économique (CSE) ou par référendum à l’initiative de l’employeur, avec une voie adaptée aux entreprises sans délégué syndical."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Abandonner l'extension automatique des accords de branche",
+  "citation": "La branche se recentrera sur un rôle de cadre et de conseil, et l’extension automatique des accords sera abandonnée, sauf sur quelques thèmes essentiels comme les minima."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Soumettre toute règle nouvelle à une évaluation préalable opposable",
+  "citation": "Toute règle nouvelle ayant un impact économique sera soumise à une évaluation préalable opposable : étude d’impact indépendante, test PME systématique, et mesure chiffrée de son coût pour les entreprises."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Appliquer strictement en valeur la règle du « un pour un »",
+  "citation": "Toute règle nouvelle imposant 1 euro de coût devra entraîner la suppression de 1 euro de coût de règles existantes."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Créer une autorité indépendante de contrôle des normes avec veto",
+  "citation": "Pour empêcher durablement la reconstitution des contraintes, la France se dotera d’une autorité indépendante de contrôle préalable, dotée d’un pouvoir de veto, capable de bloquer les règles excessives, inutiles ou disproportionnées."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Recentrer la loi sur les principes, renvoyer le reste au règlement",
+  "citation": "Enfin, la loi - y compris existante - sera recentrée sur les principes essentiels. Le reste relèvera du règlement, pour être plus aisément modifiable et adaptable."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Permettre des adaptations locales des normes nationales",
+  "citation": "Lorsque l’application uniforme d’une règle nationale entrave inutilement un projet productif, des adaptations locales pourront être décidées, sous l’autorité de l’État, afin d’atteindre les objectifs fixés sans bloquer l’activité."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "europe",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Interdire la surtransposition du droit européen",
+  "citation": "La France se dotera par ailleurs d’un principe d’action intangible : elle n’imposera jamais plus que ce que l’Europe exige."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Créer une cellule de veille réglementaire à Bruxelles",
+  "citation": "À cette fin, la France mettra en place une cellule de veille réglementaire à Bruxelles, chargée d’identifier le plus en amont possible les textes européens en préparation"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Ne sanctionner que l'intention frauduleuse des entreprises",
+  "citation": "L’erreur non intentionnelle ne constituera plus une faute sauf pour un socle de règles strictement limité. Seule l’intention frauduleuse justifiera la sanction."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Faire reposer la charge de la preuve sur l'administration",
+  "citation": "La charge de la preuve reposera essentiellement sur les administrations et non plus sur les entreprises."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Orienter l'inspection du travail vers le conseil avant sanction",
+  "citation": "L’inspection du travail, par exemple, doit conseiller en amont et proposer des aménagements de sécurité, plutôt que constater et sanctionner après coup."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Alléger de plus de 25 milliards le coût du travail",
+  "citation": "Plus de 25 milliards d’euros d’allègements porteront sur le coût du travail, en combinant la mise en place du seuil « zéro cotisation », tel que présenté dans Travail gagnant, et une baisse directe des cotisations patronales non contributives."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Alléger de près de 15 milliards la fiscalité de production",
+  "citation": "Cet effort sera complété par un allègement ciblé de près de 15 milliards d’euros de la fiscalité de production, concentré sur les impôts les plus pénalisants pour l’industrie."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Supprimer la C3S",
+  "citation": "Contribution sociale de solidarité des sociétés (C3S, 5,3 milliards d’euros) : suppression intégrale d’un impôt particulièrement nocif ;"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Supprimer définitivement la CVAE",
+  "citation": "Cotisation sur la valeur ajoutée des entreprises (CVAE, 4,3 milliards d’euros) : suppression définitive d’un impôt pénalisant l’investissement et les entreprises à forte intensité capitalistique ;"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Exonérer de forfait social l'intéressement et l'épargne retraite",
+  "citation": "Forfait social (2,8 milliards d’euros) : maintien à 20 % sur la participation légale obligatoire et exonération de l’intéressement, de la part supra-légale de la participation et de l’épargne retraite individuelle ;"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Exonérer de CFE la part industrielle",
+  "citation": "(1,9 milliard d’euros) : exonération de la part industrielle afin de mettre fin à la taxation de l’outil productif fondée sur les immobilisations."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Garantir la stabilité du cadre fiscal pendant le quinquennat",
+  "citation": "Nous garantirons strictement la stabilité de ce nouveau cadre fiscal pendant toute la durée du quinquennat, soit au moins 5 ans."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Remplacer le Versement nucléaire universel par un contrat de long terme",
+  "citation": "Nous lui substituerons un dispositif contractuel de long terme, inspiré d’Exeltium, reposant sur un contrat conclu entre EDF et les fournisseurs alternatifs volontaires."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Prolonger les réacteurs jusqu'à 80 ans et viser 400 TWh",
+  "citation": "La prolongation de l’exploitation des réacteurs jusqu’à quatre-vingts ans, lorsque les conditions de sûreté le permettront, et une augmentation de la production annuelle vers 400 TWh permettront de mieux répartir les coûts fixes et d’abaisser durablement le coût économique du MWh."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Viser une baisse de 10 % du prix de l'électricité industrielle",
+  "citation": "Dans ce cadre stabilisé, nous rendrons crédible un objectif de baisse pouvant atteindre 10 % du prix moyen de fourniture pour l’industrie."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Mettre fin aux soutiens publics au solaire et à l'éolien",
+  "citation": "Nous mettrons fin aux soutiens publics aux nouvelles capacités solaires et éoliennes et reporterons les projets déjà autorisés lorsque la situation de surcapacité l’exigera"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Baisser de 5 à 10 % le tarif d'acheminement",
+  "citation": "Cette inflexion permettra de stabiliser le prochain tarif et d’engager une baisse comprise entre 5 et 10 % à moyen terme."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Imposer des clauses de réciprocité dans les accords commerciaux",
+  "citation": "La France portera au niveau européen l’imposition systématique de clauses de réciprocité dans tous les accords commerciaux."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "europe",
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Consacrer la moitié des contrôles aux produits importés",
+  "citation": "À effectifs constants, au moins 50 % des contrôles des administrations compétentes"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Étendre le mécanisme d'ajustement carbone aux produits transformés",
+  "citation": "Dans le même esprit, le mécanisme d’ajustement carbone aux frontières sera renforcé et étendu aux produits transformés, afin de garantir une réciprocité climatique effective et de mettre fin au dumping environnemental."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Conditionner l'accès au marché européen à une production sur son sol",
+  "citation": "Nous défendrons également, fermement, une Europe qui conditionne davantage l’accès à son marché à une production sur son sol."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Mobiliser la commande publique comme levier industriel",
+  "citation": "Enfin, la commande publique sera plus mobilisée comme levier industriel, en s’appuyant sur des critères mieux adaptés à une politique stratégique des achats, tout en restant compatibles avec le droit européen."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Créer un Fonds France Production de 600 millions par an",
+  "citation": "Nous créerons un Fonds France Production, intégralement financé, doté de 600 millions d’euros par an, exclusivement dédié à la modernisation de l’outil industriel."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Confier aux régions le pilotage du Fonds France Production",
+  "citation": "Le fonds sera ainsi piloté par les régions, dont nous consacrons enfin la compétence en matière de développement économique"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Instaurer un sur-amortissement fiscal pour l'investissement industriel",
+  "citation": "En complément, un dispositif distinct de sur-amortissement fiscal sera introduit afin d’encourager l’investissement industriel."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Recenser les friches industrielles dans un registre national",
+  "citation": "Leur recensement systématique dans un registre national placé sous l’autorité des préfets permettra d’accélérer leur dépollution et leur remise en service."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Faciliter l'accès des PME aux terrains contigus",
+  "citation": "Permettre aux PME et ETI industrielles d’accéder plus rapidement aux terrains contigus à leurs implantations actuelles constitue un levier simple et efficace."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Partager la gouvernance de la formation entre État et partenaires sociaux",
+  "citation": "La gouvernance sera strictement partagée entre l’État et les partenaires sociaux afin d’assurer une allocation des ressources conforme aux besoins réels de l’économie."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Réorienter les aides à l'apprentissage vers Bac+2 et infra",
+  "citation": "Dans certaines filières de l’enseignement supérieur, notamment en sciences humaines, sociales et en commerce, les aides seront progressivement réorientées, sur la durée du quinquennat, vers les niveaux Bac+2 et infra, où leur effet sur l’insertion professionnelle est le plus fort ;"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Renforcer les aides pour les NEETs et le pré-apprentissage",
+  "citation": "Cette meilleure allocation des moyens permettra également de relancer et de développer le pré‑apprentissage pour ces jeunes éloignés de l’emploi, avec une aide à l’embauche à 6 000 euros ;"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Sanctuariser les aides à l'apprentissage dans l'industrie",
+  "citation": "Dans l’industrie, où les besoins en compétences sont particulièrement aigus, les aides publiques seront sanctuarisées, y compris jusqu’au niveau Master, afin de soutenir l’attractivité de ces métiers."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "social",
+  "concepts": [
+   "travail"
+  ],
+  "intitule": "Conditionner le revenu des jeunes à l'emploi ou la formation",
+  "citation": "L’accès à un revenu pour les jeunes reposera désormais sur un principe clair d’engagement dans l’emploi ou dans une formation certifiante."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Confier lycées professionnels et orientation aux régions et entreprises",
+  "citation": "l’orientation et les lycées professionnels quitteront le giron de l’Éducation nationale et seront confiés aux régions et aux entreprises."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Conditionner le financement de la recherche à un débouché industriel",
+  "citation": "L’argent public ne financera plus une recherche sans perspective industrielle."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Sanctuariser le crédit d'impôt recherche et renforcer ses contrôles",
+  "citation": "Le Crédit d’Impôt Recherche (CIR) sera sanctuarisé, il est un levier majeur de localisation de la recherche-développement (R&D) en France, notamment pour les PME et les ETI industrielles."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Redéployer 2 000 postes de chercheurs vers les sciences et technologies",
+  "citation": "Jusqu’à 2 000 emplois de chercheurs pourront ainsi être redéployés vers ces disciplines stratégiques"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "travail",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Concentrer les financements publics sur sept secteurs stratégiques",
+  "citation": "Enfin, les financements publics seront concentrés sur sept secteurs stratégiques, essentiels à notre souveraineté et à notre croissance."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Différer les droits de mutation jusqu'à la cession de l'entreprise",
+  "citation": "Pour remédier à cette situation, nous proposons un dispositif simple : les droits de mutation sont calculés à la date de la transmission mais leur exigibilité est automatique différée"
+ },
+ {
+  "document": "lr-produire",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Réorienter l'épargne vers le capital des entreprises",
+  "citation": "Nous engagerons une réforme ciblée des produits d’épargne afin de favoriser l’investissement en fonds propres dans les entreprises françaises, en particulier industrielles."
+ },
+ {
+  "document": "lr-produire",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Créer un étage de retraite par capitalisation avec compte pour chaque actif",
+  "citation": "Un compte d’épargne retraite sera ouvert pour chaque actif."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "institutions",
+  "concepts": [
+   "souverainete",
+   "nation"
+  ],
+  "intitule": "Inscrire l'agriculture comme intérêt fondamental de la Nation dans la Constitution",
+  "citation": "Nous y inscrirons la notion d’intérêts fondamentaux de la Nation, et une loi organique précisera que l’agriculture en fait pleinement partie."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Supprimer le principe de précaution de la Charte de l'environnement par référendum",
+  "citation": "Nous assumons de le supprimer tel qu’il figure aujourd’hui dans la Charte de l’environnement. Cette décision impliquera une révision constitutionnelle soumise au référendum."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Compenser chaque euro de norme agricole par un euro supprimé",
+  "citation": "Lorsqu’une norme serait néanmoins retenue pour des motifs impérieux, elle devra, à titre strictement exceptionnel, faire l’objet d’une compensation intégrale en euros : 1 € de coût pour l’agriculture devra être compensé par 1 € de normes supprimé."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Abandonner l'objectif Ecophyto de réduction de 50 % des pesticides",
+  "citation": "Sur les produits phytosanitaires, cela implique d’abandonner les trajectoires arbitraires, telles que l’objectif uniforme de réduction de 50 % fixé par la stratégie Ecophyto 2030, au profit d’une logique d’autorisation au cas par cas, fondée sur l’analyse scientifique des risques et des bénéfices."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Intégrer les nouvelles techniques génomiques à la stratégie agricole",
+  "citation": "Enfin, les nouvelles techniques génomiques (NGT) seront pleinement intégrées à la stratégie agricole française."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Rationaliser les moyens de l'ANSES",
+  "citation": "Elle sera maintenue sous la tutelle des quatre ministères concernés mais une rationalisation des moyens sera engagée (170 millions d’euros de budget et 1 400 agents)."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Autoriser automatiquement en France les produits autorisés en Europe",
+  "citation": "Nous appliquerons strictement et automatiquement le principe de reconnaissance mutuelle."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Supprimer l'Office français de la biodiversité",
+  "citation": "Dans le même mouvement de reprise en main politique, l’Office français de la biodiversité (OFB) sera supprimé"
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Confier la police de l'environnement hors chasse à la gendarmerie",
+  "citation": "L’ensemble des missions de police de l’environnement ne relevant pas de la chasse sera exercé par la gendarmerie nationale"
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Auditer les agences et supprimer celles aux logiques militantes",
+  "citation": "Enfin, un audit général des agences et structures administratives sera conduit et pourra aboutir à la suppression de celles dont l’action s’est éloignée de leur mission de service public au profit de logiques militantes ou idéologiques."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Instaurer une présomption de bonne foi pour les agriculteurs",
+  "citation": "Nous établirons explicitement une présomption de bonne foi pour les agriculteurs."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Interdire par loi organique toute surtransposition des directives",
+  "citation": "Nous imposerons par une loi organique l’interdiction ferme de toute sur-transposition française des directives européennes dans tous les domaines, y compris l’agriculture"
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Aligner par ordonnance les seuils ICPE des élevages sur l'Europe",
+  "citation": "Dès le début du quinquennat, une ordonnance engagera une révision complète des seuils applicables aux élevages afin d’aligner durablement le droit français sur le socle européen et de mettre fin aux sur-transpositions."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Supprimer le zéro artificialisation nette",
+  "citation": "Le zéro artificialisation nette (ZAN), qu’aucun autre pays européen ne s’impose dans ces conditions, sera supprimé."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Réautoriser certains néonicotinoïdes dont l'acétamipride",
+  "citation": "Nous autoriserons de nouveau l’usage de certains néonicotinoïdes, dont l’acétamipride"
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Aligner les exigences environnementales de la PAC sur les voisins les moins contraignants",
+  "citation": "La France mettra en œuvre ces règles de manière strictement proportionnée en recherchant un alignement systématique avec les niveaux d’exigence les moins contraignants appliqués par nos principaux voisins européens"
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Reconnaître le stockage d'eau agricole d'intérêt général majeur",
+  "citation": "Nous reconnaîtrons explicitement les projets de stockage d’eau à usage agricole comme relevant de l’intérêt général majeur afin de sécuriser leur instruction et de limiter les contentieux."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Supprimer les projets de territoire pour la gestion de l'eau",
+  "citation": "Les Projets de Territoire pour la Gestion de l’Eau (PTGE) seront supprimés et remplacés par une planification stratégique de l’eau, décisionnelle et opposable"
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Réformer la gouvernance des agences de l'eau",
+  "citation": "Nous réformerons également la gouvernance des agences de l’eau afin de rééquilibrer la représentation des usagers et mieux intégrer les réalités économiques et agricoles des territoires."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Remettre à plat la loi sur l'eau",
+  "citation": "Enfin, nous engagerons une remise à plat de la loi sur l’eau pour inscrire la politique hydrique dans une planification territoriale pluriannuelle intégrant les besoins agricoles et l’évolution climatique"
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Faire valoir le silence de l'administration comme acceptation",
+  "citation": "À défaut de réponse dans les temps, le silence de l’administration vaudra acceptation."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Redéployer des crédits bio vers l'investissement productif agricole",
+  "citation": "Certains dispositifs existants, y compris une partie des crédits de la PAC - par exemple ceux alloués à la filière biologique pouvant atteindre jusqu’à 700 millions d’euros à partir de 2028 - constitueront des leviers de redéploiement."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Autoriser l'usage encadré des drones agricoles",
+  "citation": "En cohérence avec cet objectif, l’usage des drones agricoles sera autorisé et encadré pour des applications ciblées, notamment l’épandage de précision, la surveillance des cultures et la gestion des risques sanitaires."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Assouplir le plafond européen d'incorporation des biocarburants",
+  "citation": "la France défendra une évolution du cadre européen des biocarburants afin d’assouplir le plafond d’incorporation d’environ 7 %, aujourd’hui trop limitant pour le biodiesel compatible avec le parc existant."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Soutenir des standards ouverts et la maîtrise des données agricoles",
+  "citation": "L’État soutiendra des standards ouverts, la maîtrise des données par les agriculteurs et leur valorisation économique"
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Différer l'imposition de la transmission des exploitations jusqu'à la cession",
+  "citation": "Une exploitation ne sera pas taxée tant qu’elle continue de produire."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Généraliser la dissociation du foncier et de l'outil de production",
+  "citation": "Nous faciliterons l’accès des jeunes au foncier en généralisant un mécanisme de dissociation entre le foncier et l’outil de production."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Généraliser le salariat agricole préalable à l'installation",
+  "citation": "Nous généraliserons également les parcours de salariat agricole préalables à l’installation, via des contrats longs soutenus par un abaissement des charges et pleinement reconnus dans les dispositifs d’aide à l’installation."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Utiliser une moyenne olympique sur huit ans lors des transmissions",
+  "citation": "Nous généraliserons l’usage d’une moyenne olympique calculée sur huit ans pour l’évaluation des références économiques lors des transmissions et installations"
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Augmenter de 30 % les effectifs de l'enseignement technique agricole",
+  "citation": "avec une hausse de 30 % des effectifs de l’enseignement technique agricole d’ici 2030, de la classe de quatrième au BTSA, afin de garantir un agriculteur formé pour chaque départ à la retraite."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Former 75 % de vétérinaires et 30 % d'ingénieurs agronomes en plus",
+  "citation": "Un plan massif de montée en compétences corrigera les pénuries critiques, avec un objectif de + 75 % de vétérinaires et + 30 % d’ingénieurs agronomes par rapport à 2017"
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Déployer un Bachelor Agro au grade de licence",
+  "citation": "Nous déploierons le Bachelor Agro conférant le grade de licence afin de moderniser l’enseignement supérieur agricole et renforcer l’attractivité des parcours."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Transférer l'orientation aux 500 missions locales",
+  "citation": "La compétence d’orientation sera transférée vers les 500 missions locales avec une gouvernance partagée régions/entreprises afin de rapprocher les parcours des réalités économiques."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Supprimer les subventions aux associations pratiquant l'agribashing",
+  "citation": "D’abord, nous supprimerons toute subvention publique accordée à des structures qui pratiquent l’agribashing, soutiennent des actions d’entrave et ont recours à la violence pour bloquer des projets d’intérêt général."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Durcir l'agrément des associations environnementales",
+  "citation": "notre réforme passera par une réécriture de l’article L. 141-2 du Code de l’environnement, afin de transformer l’agrément en un statut strict, sélectif et réversible"
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Raccourcir les délais de recours contre les projets agricoles",
+  "citation": "Les délais de recours seront strictement raccourcis afin d’empêcher le blocage prolongé des décisions administratives autorisant des projets agricoles"
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Lancer des campagnes nationales de valorisation de l'agroalimentaire",
+  "citation": "Nous lancerons des campagnes nationales de valorisation fondées sur des données factuelles, mettant en lumière les progrès réels, les contraintes objectives et les comparaisons internationales afin de sortir de ce discours."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Étiqueter l'origine de tout ingrédient dépassant 10 % du produit",
+  "citation": "Nous renforcerons l’obligation d’étiquetage de l’origine des produits agricoles et agroalimentaires, y compris pour les produits transformés, avec l’indication claire de l’origine de tout ingrédient représentant 10 % ou plus de la composition du produit, sous peine d’une amende de 150 000 euros et d’un an d’emprisonnement."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Réserver les termes « viande », « steak » aux produits animaux",
+  "citation": "Les termes « viande », « steak », « saucisse », « escalope », « burger » ou équivalents ne pourront être utilisés que pour des produits issus des filières correspondantes"
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Déployer un Rémunéra-score sur la part reversée au producteur",
+  "citation": "Aussi, le Rémunéra-score sera déployé afin de rendre visible la part de valeur effectivement reversée au producteur."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Réformer la MSA pour simplifier les cotisations agricoles",
+  "citation": "Nous engagerons une réforme de la MSA visant à simplifier les assiettes et la lisibilité des cotisations, à renforcer l’accompagnement des exploitants face aux aléas économiques et humains."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Allotir davantage les marchés publics alimentaires",
+  "citation": "Les marchés alimentaires seront plus systématiquement allotis lorsque cela est pertinent pour permettre aux agriculteurs, PME et ETI de répondre directement, et les formats simplifiés pour les achats récurrents."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Limiter le délit de favoritisme aux comportements frauduleux intentionnels",
+  "citation": "Afin que le prix ne soit plus systématiquement déterminant, nous reviendrons sur la loi Sapin 2. Le délit de favoritisme ne pourra être retenu qu’en cas de comportements frauduleux intentionnels, afin de lever la paralysie actuelle des acheteurs publics."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "S'opposer à la renationalisation de la PAC",
+  "citation": "nous veillerons à ce que, face à ces évolutions, la PAC demeure pleinement européenne, dotée de moyens à la hauteur des enjeux."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Relever le seuil de dégressivité des aides PAC à 100 hectares",
+  "citation": "La France relèvera le seuil de dégressivité de 52 à 100 hectares afin de tenir compte de la réalité des exploitations."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Porter le forfait « petit agriculteur » à 3 000 euros",
+  "citation": "nous réorienterons une part des aides directes afin de porter le forfait « petit agriculteur » de 1 250 euros à 3 000 euros, sans augmentation de l’enveloppe globale."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Permettre le versement anticipé pluriannuel des aides PAC",
+  "citation": "Nous instaurerons la possibilité de mobiliser les aides surfaciques ou couplées sur une base pluriannuelle, afin de permettre leur versement anticipé et leur utilisation en une seule fois comme levier d’investissement pour des projets de modernisation."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Défendre une PAC sanctuarisée avec plafonds nationaux garantis sur sept ans",
+  "citation": "Nous défendrons donc une PAC européenne, pluriannuelle et sanctuarisée, avec des enveloppes agricoles dédiées sous forme de plafonds nationaux garantis sur sept ans pour assurer la prévisibilité des aides."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Fixer des objectifs chiffrés de souveraineté par filière",
+  "citation": "Concrètement, la France fixera dans son plan stratégique national (déclinaison interne de la PAC) des objectifs mesurables par filière - part maximale d’importations, volumes produits, taux de transformation sur le territoire - afin d’orienter les aides vers la reconstruction de nos capacités agricoles."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Sanctuariser la part des matières premières agricoles dans les prix",
+  "citation": "Nous sanctuariserons la part non négociable liée aux matières premières en rendant pleinement opérante la logique de marche en avant des prix et en renforçant la contractualisation écrite."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Clore les négociations commerciales au 31 décembre",
+  "citation": "Les contrats devront sécuriser volumes, visibilité et investissement, avec une date butoir au 31 décembre pour clore les négociations commerciales."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Rendre les enseignes responsables de leurs centrales d'achat européennes",
+  "citation": "Les enseignes opérant en France seront responsables des pratiques de leurs centrales d’achat européennes ou internationales."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Renforcer les moyens de la DGCCRF et de FranceAgriMer",
+  "citation": "Enfin, la DGCCRF et FranceAgriMer disposeront de moyens accrus pour contrôler et sanctionner les pratiques abusives"
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Encourager méthanisation, circuits courts et transformation à la ferme",
+  "citation": "Les activités génératrices de revenus complémentaires seront encouragées : méthanisation, biocarburants, transformation à la ferme, circuits courts ou agriculture artisanale."
+ },
+ {
+  "document": "lr-agriculture",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "S'opposer à l'intégration de l'Ukraine au marché agricole européen",
+  "citation": "Enfin, nous nous opposerons à l’intégration de l’Ukraine au marché agricole européen."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Abroger le volet électricité de la PPE 3",
+  "citation": "Nous abrogerons immédiatement le volet électricité de la PPE 3, déclarerons infructueux les appels d’offres non encore attribués en matière de photovoltaïque et d’éolien en mer, et n’en lancerons plus - tant que la demande n’augmentera pas nettement."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Fixer un horizon d'exploitation de 80 ans aux réacteurs",
+  "citation": "Plutôt que de renouveler l’autorisation d’une centrale tous les 10 ans en se demandant à chaque fois si elle va continuer à exister, nous proposons de fixer d’emblée un horizon de 80 ans."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Encourager une filière nucléaire européenne fondée sur la modularité",
+  "citation": "nous encouragerons la constitution d’une filière industrielle nucléaire à l’échelle européenne, fondée sur la modularité des composants et la stabilisation de leur conception"
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Commander huit EPR2 supplémentaires en début de mandat",
+  "citation": "Si l’avancement des six premiers réacteurs s’avère satisfaisant, nous confirmerons la commande de huit EPR2 supplémentaires dès les deux premières années du mandat."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Moderniser l'hydroélectricité et développer de nouvelles capacités",
+  "citation": "Nous soutiendrons la modernisation des installations hydroélectriques existantes"
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Remettre à l'étude la STEP de Redenat en Corrèze",
+  "citation": "Nous remettrons également à l’étude le projet de STEP de Redenat en Corrèze - 1 100 MW, 1 milliard d’euros - dont le site est déjà acquis et la galerie partiellement creusée, mais qui a été abandonné depuis 1982 faute de volonté politique."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Préserver la gestion coordonnée des réservoirs par vallée",
+  "citation": "la gestion coordonnée des réservoirs par vallée - actif stratégique national - devra être préservée, sans être soumise aux seuls aléas des marchés financiers."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Accélérer le déploiement des Micro-STEP",
+  "citation": "Nous accélérerons également le déploiement des Micro-STEP."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Développer un mix batteries / Micro-STEP en outre-mer",
+  "citation": "nous défendrons un mix batteries / Micro-STEP à cet effet - ce qui permettra de réduire la contribution au service public de l’énergie (CSPE)"
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Supprimer les avantages fiscaux des nouvelles installations photovoltaïques",
+  "citation": "Nous supprimerons également, pour toute nouvelle installation photovoltaïque mise en service après la promulgation de notre loi de programmation, l’ensemble des avantages fiscaux et tarifaires associés : retour au taux normal de TVA à 20 %, suppression des exonérations de taxes pour l’autoconsommation avec revente de surplus sur le réseau, suppression des crédits d’impôt et des aides publiques à l’investissement."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Faire financer le raccordement de l'éolien en mer par les producteurs",
+  "citation": "Le programme français d’éolien offshore repose sur une anomalie que nous corrigerons"
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Mettre fin aux subventions des futurs projets solaires et éoliens",
+  "citation": "Pas d’aide publique, pas de tarif garanti, pas de prise en charge des coûts de raccordement."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Adopter une loi de programmation actant la relance du nucléaire",
+  "citation": "Cette loi de programmation énergétique actera la relance du nucléaire en France, incluant les réacteurs et les usines du cycle associées, en ancrant la stratégie française de traitement-recyclage des combustibles usés et en accélérant la progression vers la fermeture du cycle du combustible."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Recentrer les investissements de RTE et Enedis sur les besoins réels",
+  "citation": "Nous leur demanderons de ramener cette trajectoire à la mesure des besoins réels, et de concentrer leurs moyens sur les raccordements qui soutiennent la croissance : data centers, sites industriels, nouveaux logements, nouveaux usages électriques."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire l'arrêt forcé d'un réacteur pour demande insuffisante",
+  "citation": "Nous inscrirons dans la loi le principe suivant : aucun réacteur nucléaire français en service ne peut être forcé à l’arrêt en raison d’une demande insuffisante sur le marché français."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Permettre à RTE de restreindre les importations d'électricité",
+  "citation": "Aux frontières, RTE sera habilité à restreindre unilatéralement les capacités d’interconnexion pour limiter les importations dès l’activation de ce mécanisme."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Élargir les plages d'heures creuses, notamment en été",
+  "citation": "Nous élargirons significativement les plages d’heures creuses, notamment en été."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Transférer les obligations d'achat renouvelables d'EDF à RTE et Enedis",
+  "citation": "Cette mission sera transférée aux gestionnaires de réseaux - RTE pour le transport, Enedis pour la distribution -, qui sont juridiquement indépendants des producteurs et déjà compétents en matière d’équilibrage du système."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Créer des contrats nucléaires de long terme pour les industriels",
+  "citation": "EDF et les fournisseurs alternatifs volontaires s’engagent contractuellement sur quinze ans (avec possibilité de sortie à dix ans, voire avant) pour sécuriser jusqu’à 30 TWh d’électricité nucléaire par an à un prix négocié"
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "pouvoir-achat",
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Instaurer un contrat pour différence bidirectionnel EDF-fournisseurs",
+  "citation": "Nous proposons un contrat pour différence bidirectionnel entre EDF et les fournisseurs d’électricité."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Baisser la facture d'électricité de 5 à 10 % dès 2030",
+  "citation": "Combinées aux propositions 4 et 5, ces mesures permettent de viser une baisse de la facture d’électricité de 5 à 10 % à partir de 2030."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Sortir l'électricité des certificats d'économies d'énergie",
+  "citation": "Nous mettrons fin à cette incohérence en sortant l’électricité du périmètre des CEE et en réduisant d’autant le volume global des obligations nationales"
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Abaisser le coefficient d'énergie primaire de l'électricité à 1,2",
+  "citation": "Nous abaisserons immédiatement ce coefficient de 1,9 à 1,2 - niveau déjà retenu par la Finlande."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Mettre en service un réacteur à neutrons rapides en 2045",
+  "citation": "avec comme objectif la mise en service d’un premier réacteur de puissance en 2045, ainsi que ses usines de fabrication et de retraitement des combustibles."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "europe",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "S'opposer au European Grid Package",
+  "citation": "Nous nous opposons totalement au European Grid Package, programme porté par la Commission européenne prévoyant près de 730 milliards d’euros d’investissements dans de nouvelles interconnexions électriques transfrontalières."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Constituer une coalition d'États favorables au nucléaire",
+  "citation": "Nous constituerons une coalition d’États favorables au nucléaire afin d’imposer la neutralité technologique dans les politiques énergétiques européennes ;"
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "europe",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Saisir la CJUE en cas d'excès de compétence de la Commission",
+  "citation": "Nous saisirons la Cour de justice de l’Union européenne lorsque la Commission excédera ses compétences."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Proposer aux voisins des interconnexions contre participation aux EPR",
+  "citation": "une connexion renforcée en échange d’une participation à la construction des nouveaux EPR."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "ecologie",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Porter les stocks d'uranium naturel à cinq ans de consommation",
+  "citation": "Nous porterons les stocks stratégiques d’uranium naturel de la France à cinq ans de consommation."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Défendre un programme européen de batteries avec préférence d'achat",
+  "citation": "Nous défendrons au Conseil européen un programme industriel ambitieux - gigafactories, unités de transformation des matières actives - assorti de préférences d’achat pour les productions européennes dans les marchés publics de défense et d’énergie."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "securite",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Interdire la gestion à distance des onduleurs par des pays à risque",
+  "citation": "nous interdirons simultanément toute gestion à distance par des fournisseurs issus de pays à risque au-delà d’un certain seuil de puissance."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Démanteler progressivement les équipements solaires chinois sensibles",
+  "citation": "audit prioritaire des installations les plus critiques raccordées au réseau de transport, déconnexion des fonctions de télégestion à risque, calendrier de démantèlement progressif et contraint des équipements sensibles chinois."
+ },
+ {
+  "document": "lr-electricite",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Conditionner les appels d'offres à des audits et données hébergées en Europe",
+  "citation": "en conditionnant dès aujourd’hui l’ensemble des appels d’offres publics à des exigences strictes : audits indépendants, protocoles ouverts, données hébergées en France ou en Europe, mises à jour validées par l’exploitant."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "institutions",
+  "concepts": [
+   "laicite"
+  ],
+  "intitule": "Inscrire dans la Constitution la primauté de la loi commune sur les origines et religions",
+  "citation": "Je ferai inscrire dans la Constitution que nul ne peut se prévaloir de ses origines ou de sa religion pour s’exonérer de la loi commune."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "institutions",
+  "concepts": [
+   "peuple",
+   "democratie"
+  ],
+  "intitule": "Organiser des référendums sur l'immigration, la sécurité et la laïcité",
+  "citation": "Dès l’automne 2022, je les solliciterai par référendum sur l’immigration, la sécurité et la laïcité."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "institutions",
+  "concepts": [
+   "peuple",
+   "democratie"
+  ],
+  "intitule": "Permettre des référendums d'initiative populaire",
+  "citation": "Des référendums d’initiative populaire pourront être initiés par les Français."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Adopter une grande loi de décentralisation",
+  "citation": "Grâce à une grande loi de décentralisation, je proposerai aux élus locaux un pacte de liberté et de confiance et je donnerai davantage de compétences à nos régions, nos départements et nos communes."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [
+   "ordre",
+   "justice"
+  ],
+  "intitule": "Voter une loi de modernisation de la sécurité et de la justice",
+  "citation": "Dès l’été 2022, je ferai voter une loi de modernisation de la sécurité et de la justice, assortie de moyens considérables."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Consacrer 5 milliards d'euros aux moyens des forces de l'ordre",
+  "citation": "5 milliards d’€ pour moderniser les moyens d’action de nos forces de l’ordre"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Créer 20 000 places de prison supplémentaires",
+  "citation": "20 000 PLACES DE PRISON SUPPLÉMENTAIRES POUR GARANTIR L’EXÉCUTION DES PEINES"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Rendre obligatoires des polices municipales armées au-delà de 5 000 habitants",
+  "citation": "polices municipales armées et obligatoires dans les villes de plus de 5 000 habitants"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Créer des « brigades coup de poing » contre les trafics",
+  "citation": "« brigades coup de poing » associant police, gendarmerie, justice et fisc pour reconquérir les territoires abandonnés aux trafiquants et aux mafieux"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Doubler le nombre de centres éducatifs fermés",
+  "citation": "Le nombre de centres éducatifs fermés pour les mineurs délinquants sera doublé."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [
+   "ordre"
+  ],
+  "intitule": "Imposer un an de prison ferme minimum aux agresseurs de dépositaires de l'autorité",
+  "citation": "1 an de prison ferme minimum pour les agresseurs des dépositaires de l’autorité publique : forces de sécurité, élus, professeurs…"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Abaisser la majorité pénale de 18 à 16 ans",
+  "citation": "majorité pénale abaissée de 18 à 16 ans"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Suspendre les allocations et retenir les salaires des délinquants",
+  "citation": "sur salaires et suspension des allocations pour frapper les délinquants au portefeuille"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Instaurer des peines planchers pour multirécidivistes violents et trafiquants",
+  "citation": "peines planchers pour les délinquants multirécidivistes violents et les trafiquants de stupéfiants"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [
+   "justice"
+  ],
+  "intitule": "Augmenter de 50 % en cinq ans les moyens des tribunaux",
+  "citation": "de 50 % sur 5 ans des moyens des tribunaux"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Aggraver les sanctions dans les « quartiers de reconquête républicaine »",
+  "citation": "sanctions aggravées pour les actes commis dans les « quartiers de reconquête républicaine »"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [
+   "justice"
+  ],
+  "intitule": "Recruter 16 000 juges, procureurs, greffiers et gardiens de prison",
+  "citation": "16 000 recrutements dans la justice pour réduire les délais de jugement et garantir l’impunité zéro."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Créer un cyber-parquet contre la pédophilie et le harcèlement en ligne",
+  "citation": "cyber-parquet pour combattre la pédophilie ou le harcèlement sur Internet"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Diviser par deux la durée des procédures pénales",
+  "citation": "procédures pénales 2 fois moins longues grâce à la numérisation et la simplification"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Exclure du logement social les condamnés pour trafic et violence",
+  "citation": "du logement social des fauteurs de troubles et des personnes condamnées pour trafic et violence"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [
+   "justice"
+  ],
+  "intitule": "Juger les délits du quotidien en moins de six mois",
+  "citation": "violences et délits du quotidien jugés en moins de 6 mois et les flagrants délits en comparution immédiate"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "institutions",
+  "concepts": [
+   "securite"
+  ],
+  "intitule": "Inscrire le droit à la sécurité dans la Constitution",
+  "citation": "« Le droit à la sécurité pour tous sera inscrit dans la Constitution. »"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Créer des juges spécialisés pour les violences conjugales",
+  "citation": "juges spécialisés pour les violences conjugales avec instruction en 72H et ordonnance de protection en 6 jours"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Expulser les squatteurs de logements",
+  "citation": "squatteurs de logements expulsés"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "institutions",
+  "concepts": [
+   "laicite"
+  ],
+  "intitule": "Interdire le voile pour les fillettes et les accompagnatrices scolaires",
+  "citation": "Je refuse le port du voile forcé et j’interdirai le port du voile pour les fillettes."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "institutions",
+  "concepts": [
+   "laicite"
+  ],
+  "intitule": "Interdire le burkini dans les piscines",
+  "citation": "Le burkini sera proscrit dans les piscines."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "immigration",
+  "concepts": [
+   "identite"
+  ],
+  "intitule": "Créer un parcours d'intégration pour les nouveaux arrivants",
+  "citation": "vrai parcours d’intégration pour les nouveaux arrivants grâce à l’école, l’emploi et le logement"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "education",
+  "concepts": [
+   "nation"
+  ],
+  "intitule": "Créer une « Journée des héros français » à l'école",
+  "citation": "« Journée des héros français » célébrée à l’école"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "immigration",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Fixer des quotas d'immigration par pays et par catégorie",
+  "citation": "quotas d’accueil d’étrangers par pays et par catégorie (étudiants, familles, métiers)"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [
+   "laicite"
+  ],
+  "intitule": "Licencier en cas de radicalisation islamiste",
+  "citation": "en cas de radicalisation islamiste dans les entreprises et les administrations"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "immigration",
+  "concepts": [],
+  "intitule": "Expulser les clandestins et refuser les visas aux pays non coopératifs",
+  "citation": "systématique des clandestins et zéro visa pour les pays qui refusent de les reprendre"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [
+   "laicite"
+  ],
+  "intitule": "Expulser les prêcheurs de haine et fermer les mosquées concernées",
+  "citation": "des prêcheurs de haine et fermeture des mosquées où l’on tient des discours hostiles à la République"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "immigration",
+  "concepts": [],
+  "intitule": "Mettre fin au regroupement familial automatique",
+  "citation": "du regroupement familial automatique"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "immigration",
+  "concepts": [],
+  "intitule": "Conditionner allocations logement et familiales à cinq ans de résidence",
+  "citation": "d’allocations logement et familiales avant 5 ans de résidence légale"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "immigration",
+  "concepts": [
+   "nation",
+   "identite"
+  ],
+  "intitule": "Supprimer le droit du sol automatique, nationalité sur demande à 18 ans",
+  "citation": "du droit du sol automatique : demande de nationalité française à 18 ans et preuves d’assimilation (test de français notamment)"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Appliquer des mesures de sûreté aux terroristes sortant de prison",
+  "citation": "de sûreté contre les terroristes après leur sortie de prison"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "immigration",
+  "concepts": [],
+  "intitule": "Expulser les étrangers condamnés à l'issue de leur peine",
+  "citation": "des étrangers condamnés à l’issue de leur peine"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Poursuivre pénalement la consultation de sites terroristes",
+  "citation": "pénales en cas de consultation de sites terroristes"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "immigration",
+  "concepts": [],
+  "intitule": "Refuser toute régularisation des étrangers entrés irrégulièrement",
+  "citation": "régularisation pour les étrangers entrés de manière irrégulière"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Donner aux maires l'accès au fichier des personnes radicalisées",
+  "citation": "des maires au fichier des personnes radicalisées"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "pouvoir-achat",
+  "concepts": [
+   "travail"
+  ],
+  "intitule": "Augmenter de 10 % en cinq ans le salaire net sous 2 800 euros",
+  "citation": "du salaire net de 10 % en 5 ans pour tous ceux qui gagnent moins de 2 800 € nets/mois"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [
+   "travail"
+  ],
+  "intitule": "Réduire de 30 % l'indemnité chômage en cas de refus de formation",
+  "citation": "Les indemnités chômage seront réduites de 30 % en cas de refus d’une formation dans un secteur en tension."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [
+   "travail"
+  ],
+  "intitule": "Imposer 15 heures d'activité hebdomadaires aux bénéficiaires du RSA",
+  "citation": "15 heures d’activité par semaine obligatoires pour tout bénéﬁciaire du RSA."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Convertir les RTT en salaire sans charge ni limite",
+  "citation": "de convertir les RTT en salaire, sans charge et sans limite"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Autoriser le cumul emploi-retraite sans limite",
+  "citation": "de cumuler emploi et retraite, sans limite"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Supprimer 500 organismes publics inutiles ou en doublon",
+  "citation": "drastique des normes et suppression de 500 organismes publics inutiles ou qui font doublon"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Exonérer de charges et d'impôt les heures au-delà de 35 heures",
+  "citation": "Ni charge ni impôt pour les heures travaillées au-delà de 35 heures, sans plafond"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Supprimer 200 000 postes de fonctionnaires et en recruter 50 000",
+  "citation": "de 200 000 postes de fonctionnaires dans les services suradministrés ; 50 000 recrutements dans la santé, la justice et l’éducation"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Relever progressivement l'âge légal de la retraite à 65 ans",
+  "citation": "progressif de l’âge légal de départ à la retraite à 65 ans à horizon 2030, avec la prise en compte de la pénibilité et des carrières longues"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Garantir une pension au moins égale au SMIC net pour une carrière complète",
+  "citation": "pension en dessous d’un Smic net par mois pour une carrière complète"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Permettre de négocier le temps de travail par entreprise pour sortir des 35 heures",
+  "citation": "de négocier le temps de travail par entreprise, avec recours possible au référendum en l’absence d’accord, pour sortir des 35 heures"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Baisser de 10 milliards les impôts de production",
+  "citation": "milliards de baisse des impôts de production pour les entreprises"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Supprimer la TVA sur les taxes pesant sur l'électricité",
+  "citation": "de la TVA sur les taxes pesant sur l’électricité"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Indexer les indemnités kilométriques sur le prix des carburants",
+  "citation": "automatique des indemnités de frais kilométriques sur le prix des carburants et suppression du plafond de 40 km entre le domicile et le travail"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "europe",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Découpler le prix de l'électricité du marché européen",
+  "citation": "plus fixer le prix de l’électricité française en fonction des prix du marché européen"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Supprimer la redevance audiovisuelle",
+  "citation": "Je diminuerai les impôts des Français en supprimant la redevance audiovisuelle, en baissant les charges sociales sur le travail et les impôts de production pour les entreprises."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Porter de 54 à 75 % les pensions de réversion sans droit propre",
+  "citation": "de 54 % à 75 % des pensions de réversion pour les veuves et veufs qui n’ont pas acquis de droit personnel à pension"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [
+   "solidarite"
+  ],
+  "intitule": "Créer un statut pour les aidants familiaux",
+  "citation": "vrai statut pour les aidants familiaux qui s’occupent d’enfants en situation de handicap ou d’aînés dépendants"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Créer un revenu jeune actif de 670 euros par mois",
+  "citation": "« revenu jeune actif » de 670 €/mois pour les 18-25 ans qui s’engagent dans une formation dans les métiers en tension"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Refuser la gestation pour autrui",
+  "citation": "à la marchandisation du corps des femmes et à la gestation pour autrui (GPA)"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Créer une Banque nationale des jeunes à remboursement différé",
+  "citation": "Banque nationale des jeunes pour les aider à financer leurs projets et leurs études, avec remboursement différé"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Défiscaliser les pensions alimentaires",
+  "citation": "« Je défiscaliserai les pensions alimentaires pour que les mères seules ne soient plus pénalisées. »"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Doubler le nombre de services civiques",
+  "citation": "du nombre de services civiques volontaires"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Supprimer la surprime d'assurance des jeunes conducteurs",
+  "citation": "de la surprime d’assurance pour les jeunes conducteurs"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Accorder un trimestre de retraite aux dirigeants bénévoles",
+  "citation": "« Un statut pour les bénévoles, avec un trimestre de retraite pour les dirigeants justifiant de 10 ans d’engagement dans une association sportive, culturelle ou caritative. »"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Réduire la TVA à 5,5 % sur tous les biens culturels",
+  "citation": "le taux de TVA à 5,5 % sur tous les biens culturels (musique, musées, monuments privés...)"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Généraliser l'éducation artistique et culturelle",
+  "citation": "l’éducation artistique et culturelle tout au long de la scolarité, en lien avec les artistes et les professionnels"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Consacrer 2,5 milliards d'euros au patrimoine national",
+  "citation": "le patrimoine national sur tout le territoire avec un plan de 2,5 milliards € et rénover nos musées régionaux"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Créer un Fonds national des talents émergents",
+  "citation": "national des talents émergents : des bourses pour encourager la création et soutenir la relève des artistes"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Supprimer les droits de succession pour 95 % des Français",
+  "citation": "Je propose de supprimer les droits de succession pour 95 % des Français et d’accélérer les donations"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Lancer un plan d'investissement dans les équipements sportifs",
+  "citation": "d’investissement massif dans les équipements sportifs, avec des bonus pour encourager la pratique féminine et le handisport"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Inscrire une règle d'or budgétaire dans la Constitution",
+  "citation": "Cette règle d’or sera inscrite dans la Constitution."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Réduire le déficit public de 42 milliards en 2027",
+  "citation": "de nos finances publiques sur 5 ans, avec une réduction de 42 milliards du déficit public en 2027."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Créer un statut rémunéré pour les sportifs de haut niveau",
+  "citation": "vrai statut rémunéré pour les sportifs de très haut niveau qui leur permettra de se consacrer entièrement à leur pratique"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Ajouter une quatrième année d'internat de médecine générale dans les déserts médicaux",
+  "citation": "contre les déserts médicaux en créant une 4ème année de formation pour les internes en médecine générale, qu’ils passeront dans les territoires où il manque des médecins."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Porter la consultation des généralistes à 30 euros",
+  "citation": "consultation à 30 € pour les généralistes et une revalorisation des actes des autres professionnels de santé, sans surcoût pour le patient"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Lancer un plan santé mentale",
+  "citation": "plan santé mentale avec la création d’un"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Créer un congé rémunéré pour parents d'enfant hospitalisé pour cancer",
+  "citation": "la recherche contre le cancer de l’enfant et créer un congé, avec maintien de salaire, pour les parents qui resteront"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Reconnaître l'endométriose comme affection de longue durée",
+  "citation": "reconnaissance de l’endométriose comme affection de longue durée ; TVA à 2,1 % pour"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Élargir la complémentaire santé solidaire aux retraités",
+  "citation": "la contribution santé solidaire pour réduire le coût de la mutuelle des retraités"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Donner plus de responsabilités aux infirmiers et aides-soignants",
+  "citation": "les évolutions de carrière des infirmiers et aides-soignants et leur donner plus de responsabilités en matière de soins"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Doter les hôpitaux d'un statut rénové plus autonome",
+  "citation": "de souplesse et d’autonomie pour les hôpitaux grâce à un statut rénové"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Créer 25 000 postes de soignants à l'hôpital",
+  "citation": "Création de 25 000 postes de soignants"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Ajouter 4 000 médecins dans les maisons de santé",
+  "citation": "+ 4 000 médecins dans les maisons de santé pour lutter contre les déserts médicaux et 25 000 soignants de plus dans les hôpitaux."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [
+   "egalite"
+  ],
+  "intitule": "Mieux former et rémunérer les AESH",
+  "citation": "former et rémunérer les Accompagnants d’élèves en situation de handicap (AESH) pour scolariser les enfants handicapés en milieu ordinaire chaque fois que possible"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Accorder 2 500 euros de crédit d'impôt pour le maintien à domicile",
+  "citation": "au maintien à domicile, avec 2 500 € supplémentaires de crédit d’impôt pour les services à la personne"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Déconjugaliser l'allocation aux adultes handicapés",
+  "citation": "de l’Allocation aux adultes handicapés (AAH) pour ne pas pénaliser les personnes en situation de handicap qui veulent vivre en couple"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Renforcer les personnels en EHPAD et publier des indicateurs de qualité",
+  "citation": "davantage de personnels auprès des résidents et des indicateurs de qualité des soins qui seront rendus publics"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Verser à vie la pension de réversion à l'enfant handicapé sans revenu",
+  "citation": "pour un enfant handicapé sans revenu de percevoir toute sa vie la pension de réversion de son dernier parent survivant"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Doubler les budgets de prévention santé",
+  "citation": "des budgets pour la prévention"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "institutions",
+  "concepts": [
+   "egalite"
+  ],
+  "intitule": "Dépenser autant pour les territoires ruraux que pour les quartiers",
+  "citation": "« Pour chaque euro dépensé dans les quartiers prioritaires de la ville, il y aura un euro dépensé pour les territoires ruraux »."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Crédit d'impôt de 50 % pour investir dans les petites communes",
+  "citation": "d’impôt de 50 % pour les Français qui investissent dans les entreprises et les commerces des communes de moins de 20 000 habitants"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Déployer la fibre sur 100 % du territoire début 2024",
+  "citation": "de la fibre sur 100% du territoire début 2024"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Interdire les fermetures d'école rurale sans accord du maire",
+  "citation": "de fermeture d’école ou de classe en milieu rural sans l’accord des maires"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "education",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Former un million de talents numériques d'ici 2030",
+  "citation": "1 million de talents numériques d’ici 2030 : création d’une École nationale du numérique"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "institutions",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Héberger les données stratégiques dans un cloud français",
+  "citation": "des données stratégiques de l’État et des Français dans un cloud français"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Ajouter un milliard pour la recherche fondamentale",
+  "citation": "milliard supplémentaire pour la recherche fondamentale et les innovations stratégiques"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "europe",
+  "concepts": [
+   "puissance"
+  ],
+  "intitule": "Renforcer l'industrie de défense par la commande publique européenne",
+  "citation": "notre industrie de défense par l’innovation et la commande publique européenne"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Construire au moins six nouveaux réacteurs EPR",
+  "citation": "plan de relance gaullien : construction d’au moins 6 nouveaux réacteurs EPR"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "europe",
+  "concepts": [
+   "puissance"
+  ],
+  "intitule": "Augmenter de 108 milliards le budget des armées d'ici 2030",
+  "citation": "Je m’engage à donner à nos forces armées tous les moyens nécessaires pour assurer notre protection : 108 milliards de plus d’ici 2030."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Construire un dialogue stratégique de fermeté avec la Chine",
+  "citation": "un dialogue constructif avec les États-Unis et construire un dialogue stratégique de fermeté avec la Chine"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Redéployer l'aide au développement vers l'Afrique",
+  "citation": "à plat de notre aide au développement, avec le redéploiement de notre aide en direction de l’Afrique"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "europe",
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Renégocier Schengen et recruter 10 000 garde-frontières Frontex",
+  "citation": "Europe qui contrôle ses frontières : renégociation de Schengen ; renforcement de Frontex grâce au recrutement de 10 000 garde-frontières supplémentaires"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Instaurer une préférence européenne dans la commande publique",
+  "citation": "Europe qui protège : une taxe carbone aux frontières ; une préférence européenne dans la commande publique"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "europe",
+  "concepts": [
+   "puissance"
+  ],
+  "intitule": "Doter l'Europe d'une capacité autonome de défense",
+  "citation": "Europe puissante, solidaire dans l’OTAN, et qui se dote d’une capacité autonome de défense"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Mettre fin au processus d'adhésion de la Turquie",
+  "citation": "Europe qui met définitivement fin au processus d’adhésion de la Turquie"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Créer une Banque des outre-mer",
+  "citation": "Une Banque des outre-mer sera créée pour financer des investissements dans les secteurs porteurs d’avenir"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Plan contre la vie chère et plan hôpital en outre-mer",
+  "citation": "Je propose aussi un plan de lutte contre la vie chère, un grand plan hôpital et un programme"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Installer 200 000 bornes de recharge électrique",
+  "citation": "« Nous favoriserons les mobilités électriques avec 200 000 bornes de recharge et des aides aux ménages pour changer de véhicule. »"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Doubler le nombre de logements rénovés énergétiquement",
+  "citation": "doublant le nombre de logements rénovés"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Créer un fonds forestier national de 150 millions par an",
+  "citation": "forestier de 150 millions d’euros par an"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "ecologie",
+  "concepts": [
+   "democratie"
+  ],
+  "intitule": "Conditionner tout projet éolien à l'accord des populations",
+  "citation": "Aucun projet éolien sans accord des populations"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire la vente de véhicules thermiques neufs en 2035",
+  "citation": "neufs en 2035 et des hybrides rechargeables neufs en 2040. Développement d’un marché de l’occasion pour les véhicules électriques"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Approvisionner 100 % des cantines publiques en produits locaux",
+  "citation": "des cantines publiques approvisionnées en produits locaux, y compris en bio, d’ici 2027"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Lancer un plan national de lutte contre le bruit",
+  "citation": "plan national de lutte contre le bruit"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Moderniser et rénover le réseau ferroviaire",
+  "citation": "rénovation du ferroviaire (lignes TGV et lignes régionales)"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Fusionner livret A et LDD en un livret vert de 120 milliards",
+  "citation": "120 milliards d’euros pour la transition écologique grâce au livret vert qui fusionnera le livret A et le Livret développement durable (LDD)"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Créer un fichier des personnes condamnées pour maltraitance animale",
+  "citation": "Nous lancerons des campagnes nationales de lutte contre l’abandon des animaux et créerons un fichier dédié des personnes condamnées pour maltraitance animale."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Créer un label « ville amie des animaux »",
+  "citation": "Un label « ville amie des animaux » sera décerné aux communes qui s’engagent pour le bien-être animal."
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Créer une réserve écologique citoyenne",
+  "citation": "Une réserve écologique citoyenne (membres d’associations, volontaires…) pour nettoyer nos espaces naturels souillés ou en cas de catastrophe écologique"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Classer 10 % du territoire en zone de forte protection",
+  "citation": "10 % du territoire métropolitain classé en zone de forte protection"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Créer un fonds renaturation de 200 millions d'euros",
+  "citation": "de 200 millions d’euros pour la désimperméabilisation des sols en ville, la dépollution des friches industrielles et la renaturation"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Supprimer les emballages plastiques non recyclables d'ici la fin du mandat",
+  "citation": "aucun emballage plastique à usage"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Créer un chèque récupération pour recycler téléphones et ordinateurs",
+  "citation": "recycler tous les téléphones des Français et de 50 euros pour la restitution d’un ordinateur"
+ },
+ {
+  "document": "pecresse-2022",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Éradiquer les décharges sauvages par vidéoprotection et sanctions triplées",
+  "citation": "« Nous éradiquerons les 5 000 décharges sauvages du pays grâce à la vidéoprotection et au triplement des sanctions. »"
+ }
+]

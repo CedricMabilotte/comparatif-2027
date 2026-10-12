@@ -1,0 +1,2268 @@
+[
+ {
+  "id": "peines-planchers",
+  "nom": "Peines planchers",
+  "variantes": [
+   "peines minimales",
+   "peine plancher"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "securite",
+  "definition": "Les peines planchers sont des peines minimales que le juge doit prononcer pour certaines infractions, sauf décision spécialement motivée. En France, elles ont été instaurées par la loi du 10 août 2007 sur la récidive, d’abord pour les récidivistes, puis étendues à certaines violences aggravées. La loi du 15 août 2014, dite réforme Taubira, les a supprimées au nom du principe d’individualisation des peines. À la date de rédaction (octobre 2026), le droit ne fixe donc qu’un maximum pour chaque infraction, le juge choisissant la peine en dessous de ce plafond.",
+  "enjeux": "Leurs partisans y voient un moyen de garantir une réponse pénale certaine et dissuasive, notamment face à la récidive et au trafic de stupéfiants. Leurs opposants rappellent que les évaluations de la période 2007-2014 n’ont pas montré d’effet net sur la récidive, qu’elles ont contribué à la hausse de la population carcérale et qu’elles réduisent la marge d’appréciation du juge. Le Conseil constitutionnel les avait admises à condition que le juge puisse y déroger.",
+  "reperes": [
+   "Loi du 10 août 2007 renforçant la lutte contre la récidive des majeurs et des mineurs",
+   "Supprimées par la loi du 15 août 2014 relative à l’individualisation des peines"
+  ],
+  "liens": [
+   "amenagements-de-peine",
+   "places-de-prison",
+   "perpetuite-reelle",
+   "depositaires-de-l-autorite-publique"
+  ],
+  "motifs": [
+   "peines planchers",
+   "peine plancher",
+   "peines minimales"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose des peines planchers pour les délinquants multirécidivistes violents et les trafiquants de stupéfiants.",
+    "appuis": [
+     "p10fcf4ad"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le parti prévoit des peines planchers pour tous les crimes et délits, afin d’« obliger les juges à sanctionner ».",
+    "appuis": [
+     "p12ad9157"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit des peines planchers pour les récidivistes, les atteintes aux personnes dépositaires d’une mission de service public et le trafic de drogue, assorties d’une limitation des aménagements de peine.",
+    "appuis": [
+     "pb66f6490",
+     "p3ca035ff"
+    ]
+   }
+  }
+ },
+ {
+  "id": "perpetuite-reelle",
+  "nom": "Perpétuité réelle",
+  "variantes": [
+   "perpétuité incompressible",
+   "perpétuité non compressible",
+   "période de sûreté"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "securite",
+  "definition": "La réclusion criminelle à perpétuité est la peine la plus lourde du droit français depuis l’abolition de la peine de mort en 1981. Dans la plupart des cas, elle s’accompagne d’une période de sûreté pendant laquelle aucun aménagement n’est possible, après quoi une libération conditionnelle peut être demandée. Depuis 1994, la cour d’assises peut prononcer une perpétuité dite incompressible pour certains meurtres d’enfants, possibilité étendue ensuite à certains meurtres de personnes dépositaires de l’autorité publique et aux crimes terroristes. Même dans ce cas, un réexamen reste possible après trente ans d’incarcération.",
+  "enjeux": "Ses partisans demandent une perpétuité « réelle », sans aucune perspective de sortie, pour les criminels jugés les plus dangereux et les terroristes. Ses opposants invoquent la jurisprudence de la Cour européenne des droits de l’homme, qui exige qu’une peine perpétuelle puisse être réexaminée, ainsi que les difficultés de gestion des détenus privés de tout espoir de sortie.",
+  "reperes": [
+   "Abolition de la peine de mort : loi du 9 octobre 1981",
+   "Perpétuité incompressible introduite par la loi du 1er février 1994"
+  ],
+  "liens": [
+   "peines-planchers",
+   "amenagements-de-peine"
+  ],
+  "motifs": [
+   "perpétuité réelle",
+   "perpétuité",
+   "non compressible",
+   "non-compressible",
+   "période de sûreté"
+  ],
+  "positions": {
+   "reconquete": {
+    "texte": "Le programme propose de rétablir une perpétuité réelle non compressible pour les criminels les plus dangereux et les terroristes.",
+    "appuis": [
+     "pc0cc92be"
+    ]
+   },
+   "rn": {
+    "texte": "Le parti prévoit d’établir une perpétuité réelle, d’allonger la période de sûreté et de ne permettre la libération conditionnelle d’un condamné à perpétuité qu’après une grâce commuant sa peine.",
+    "appuis": [
+     "pda38dfcb",
+     "pf3d5d07d",
+     "pe97c7a33"
+    ]
+   }
+  }
+ },
+ {
+  "id": "amenagements-de-peine",
+  "nom": "Aménagements et réductions de peine",
+  "variantes": [
+   "aménagement de peine",
+   "réductions de peine",
+   "libération conditionnelle",
+   "semi-liberté",
+   "courtes peines"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "securite",
+  "definition": "Les aménagements de peine permettent d’exécuter une peine de prison autrement qu’en détention ordinaire : détention à domicile sous surveillance électronique, semi-liberté, placement extérieur ou libération conditionnelle. Ils sont décidés par le tribunal ou par le juge de l’application des peines. Depuis la loi du 23 mars 2019, les peines de prison ferme d’un mois ou moins sont interdites et celles de un à six mois doivent en principe être aménagées. La loi du 22 décembre 2021 a supprimé les crédits de réduction de peine automatiques, remplacés par des réductions accordées selon le comportement et les efforts de réinsertion du détenu.",
+  "enjeux": "Leurs critiques dénoncent un écart entre la peine prononcée et la peine exécutée, qui nourrirait un sentiment d’impunité. Leurs défenseurs avancent que les sorties encadrées réduisent la récidive par rapport aux « sorties sèches » et limitent la surpopulation carcérale. Le débat porte aussi sur les courtes peines, que certains veulent rétablir comme sanction rapide et que d’autres jugent désocialisantes.",
+  "reperes": [
+   "Loi du 23 mars 2019 de programmation 2018-2022 et de réforme pour la justice",
+   "Loi du 22 décembre 2021 pour la confiance dans l’institution judiciaire"
+  ],
+  "liens": [
+   "peines-alternatives",
+   "surpopulation-carcerale",
+   "perpetuite-reelle",
+   "peines-planchers"
+  ],
+  "motifs": [
+   "aménagement de peine",
+   "aménagements de peine",
+   "aménagements de peines",
+   "aménagements et réductions de peine",
+   "réduction de peine",
+   "réductions de peine",
+   "libération conditionnelle",
+   "application des peines",
+   "peines de prison inférieures",
+   "semi-liberté",
+   "placement extérieur*"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de développer la probation, le placement extérieur et la semi-liberté, avec des moyens d’accompagnement et de contrôle.",
+    "appuis": [
+     "p69e29b98"
+    ]
+   },
+   "horizons": {
+    "texte": "Le parti prévoit d’aligner le régime de l’application des peines des grands narcotrafiquants sur celui des terroristes et de supprimer la confusion des peines pour ces infractions.",
+    "appuis": [
+     "pd2af7628"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de mettre fin aux aménagements de peine.",
+    "appuis": [
+     "p52852ed7"
+    ]
+   },
+   "rn": {
+    "texte": "Le parti prévoit de limiter les aménagements aux condamnations de six mois ferme ou moins pour les atteintes aux personnes, de rendre les réductions de peine non automatiques et de revenir sur l’impossibilité de prononcer et d’exécuter les très courtes peines.",
+    "appuis": [
+     "pd4da62fd",
+     "pab5ef74c",
+     "p4f5f6e08"
+    ]
+   }
+  }
+ },
+ {
+  "id": "surpopulation-carcerale",
+  "nom": "Surpopulation carcérale",
+  "variantes": [
+   "régulation carcérale",
+   "numerus clausus carcéral",
+   "encellulement individuel"
+  ],
+  "categorie": "notion juridique",
+  "theme": "securite",
+  "definition": "La surpopulation carcérale désigne la situation où le nombre de détenus dépasse le nombre de places opérationnelles d’un établissement. Elle touche surtout les maisons d’arrêt, qui accueillent les prévenus et les condamnés à de courtes peines. Au 1er septembre 2026, la France comptait 90 020 détenus pour 63 348 places opérationnelles, soit une densité de 176 % dans les maisons d’arrêt. Le principe de l’encellulement individuel, inscrit dans la loi depuis le XIXe siècle, voit sa mise en œuvre reportée de moratoire en moratoire. Le mécanisme de « régulation carcérale » ou de « numerus clausus » consiste à interdire qu’un établissement dépasse sa capacité, chaque entrée impliquant alors une sortie anticipée encadrée.",
+  "enjeux": "Les uns y voient d’abord un manque de places et proposent d’en construire davantage. Les autres y voient l’effet d’un recours excessif à l’incarcération et proposent la régulation carcérale et le développement des peines alternatives. La Cour européenne des droits de l’homme a condamné la France en 2020 pour des conditions de détention jugées dégradantes, et le Contrôleur général des lieux de privation de liberté alerte régulièrement sur cette situation.",
+  "reperes": [
+   "CEDH, J.M.B. et autres c. France, 30 janvier 2020",
+   "Contrôleur général des lieux de privation de liberté créé en 2007",
+   "Statistique mensuelle de l’administration pénitentiaire : 90 020 détenus au 1er septembre 2026, contre 84 311 un an plus tôt"
+  ],
+  "liens": [
+   "places-de-prison",
+   "conditions-de-detention",
+   "peines-alternatives",
+   "amenagements-de-peine"
+  ],
+  "motifs": [
+   "surpopulation carcérale",
+   "surpopulation",
+   "numerus clausus"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de plafonner l’occupation de tous les établissements pénitentiaires à 100 % de leurs capacités.",
+    "appuis": [
+     "pc01d7bf8"
+    ]
+   },
+   "lfi": {
+    "texte": "Le parti prévoit d’agir contre la surpopulation carcérale et d’assurer des conditions dignes de détention.",
+    "appuis": [
+     "pf4583c66"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de lutter contre la surpopulation carcérale en adaptant les peines aux profils des détenus et en investissant dans des prisons rénovées.",
+    "appuis": [
+     "p49db1375"
+    ]
+   }
+  }
+ },
+ {
+  "id": "places-de-prison",
+  "nom": "Construction de places de prison",
+  "variantes": [
+   "programme immobilier pénitentiaire",
+   "plan prison"
+  ],
+  "categorie": "politique publique",
+  "theme": "securite",
+  "definition": "La construction de places de prison relève de programmes immobiliers pluriannuels de l’administration pénitentiaire. Plusieurs plans se sont succédé depuis la fin des années 1980, le dernier, lancé en 2018, visant 15 000 places supplémentaires. Ces programmes servent à la fois à augmenter la capacité du parc et à remplacer des établissements vétustes. Leur réalisation se heurte souvent à des délais de plusieurs années, au choix des terrains et au recrutement des surveillants.",
+  "enjeux": "Pour leurs promoteurs, de nouvelles places sont la condition de l’exécution effective des peines prononcées. Leurs critiques soulignent que chaque hausse de capacité a été suivie d’une hausse du nombre de détenus, sans résorber la surpopulation, et plaident pour un moratoire au profit des alternatives à l’incarcération. Le débat porte aussi sur des formes nouvelles, comme les établissements à sécurité allégée ou réservés à certains publics.",
+  "reperes": [
+   "Plan de 15 000 places annoncé en 2018"
+  ],
+  "liens": [
+   "surpopulation-carcerale",
+   "conditions-de-detention",
+   "peines-alternatives"
+  ],
+  "motifs": [
+   "places de prison",
+   "place de prison",
+   "basse sécurité"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un moratoire sur la construction de nouvelles places, hors remplacement des prisons insalubres.",
+    "appuis": [
+     "p703ac340"
+    ]
+   },
+   "lr": {
+    "texte": "Le parti prévoit 20 000 places de prison supplémentaires pour garantir l’exécution des peines.",
+    "appuis": [
+     "p27b62299"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de construire 10 000 places supplémentaires sur le mandat et d’expulser les détenus étrangers pour en libérer au moins 10 000.",
+    "appuis": [
+     "p5573d3fb",
+     "p7496c3de"
+    ]
+   },
+   "rn": {
+    "texte": "Le parti vise 85 000 places en 2027, la reconversion de lieux en détention de « basse sécurité » et la construction d’établissements pour détenus souffrant de troubles psychiatriques.",
+    "appuis": [
+     "p8dd000e0",
+     "p824b472c",
+     "pa8451e3b"
+    ]
+   }
+  }
+ },
+ {
+  "id": "peines-alternatives",
+  "nom": "Peines alternatives à l’incarcération",
+  "variantes": [
+   "travail d’intérêt général",
+   "TIG",
+   "probation",
+   "sursis probatoire",
+   "bracelet électronique"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "securite",
+  "definition": "Les peines alternatives sont des sanctions pénales exécutées hors de la prison : travail d’intérêt général, sursis probatoire, détention à domicile sous surveillance électronique, stages ou jours-amende. Le travail d’intérêt général, créé en 1983, consiste en un travail non rémunéré au profit d’une collectivité ou d’une association, avec l’accord du condamné. Le suivi de ces mesures est assuré par les services pénitentiaires d’insertion et de probation (SPIP), créés en 1999. La loi du 23 mars 2019 a fait de la détention à domicile sous surveillance électronique une peine à part entière.",
+  "enjeux": "Leurs défenseurs mettent en avant un taux de récidive plus faible qu’après une sortie de prison sans accompagnement, un coût moindre et un effet sur la surpopulation. Leurs critiques y voient parfois des sanctions peu dissuasives ou mal exécutées faute de moyens. Le manque de conseillers de probation et de postes de TIG disponibles est un constat partagé.",
+  "reperes": [
+   "Travail d’intérêt général créé par la loi du 10 juin 1983",
+   "Services pénitentiaires d’insertion et de probation créés en 1999"
+  ],
+  "liens": [
+   "justice-restaurative",
+   "amenagements-de-peine",
+   "surpopulation-carcerale"
+  ],
+  "motifs": [
+   "travaux d'intérêt général",
+   "travail d'intérêt général",
+   "TIG",
+   "peines alternatives",
+   "probation",
+   "SPIP",
+   "tout-carcéral"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de développer la probation et de renforcer les moyens des SPIP.",
+    "appuis": [
+     "p69e29b98",
+     "p6b895260"
+    ]
+   },
+   "lfi": {
+    "texte": "Le parti prévoit de « mettre fin au tout-carcéral » par des peines alternatives, tout en rénovant les prisons.",
+    "appuis": [
+     "p7a6e2773"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de déployer massivement les travaux d’intérêt général et de traiter localement les délits mineurs par la médiation, les TIG et des « sanctions pédagogiques ».",
+    "appuis": [
+     "pe0e84485",
+     "pe03bbf1c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "justice-restaurative",
+  "nom": "Justice restaurative",
+  "variantes": [
+   "justice réparatrice",
+   "médiation restaurative"
+  ],
+  "categorie": "doctrine ou courant",
+  "theme": "securite",
+  "definition": "La justice restaurative désigne des dispositifs qui réunissent, sur une base volontaire, une victime et un auteur d’infraction, ou des victimes et des auteurs d’infractions similaires, pour échanger sur les conséquences de l’acte, en présence de professionnels formés. Elle ne remplace pas la peine mais s’y ajoute, à tous les stades de la procédure. Elle a été inscrite dans le code de procédure pénale par la loi du 15 août 2014. Elle s’inspire d’expériences anglo-saxonnes et canadiennes.",
+  "enjeux": "Ses promoteurs y voient un moyen de mieux prendre en compte les besoins des victimes et de responsabiliser les auteurs, avec des effets favorables sur la récidive. Ses critiques ou sceptiques soulignent son caractère encore marginal, le besoin de professionnels formés et le risque de pression sur les victimes si le cadre n’est pas strict.",
+  "reperes": [
+   "Article 10-1 du code de procédure pénale, issu de la loi du 15 août 2014"
+  ],
+  "liens": [
+   "peines-alternatives"
+  ],
+  "motifs": [
+   "justice restaurative"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de développer le recours à la justice restaurative en s’assurant de la protection des victimes.",
+    "appuis": [
+     "p77e25301"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le parti prévoit de déployer massivement la justice restaurative et de former à cette fin magistrats, personnels pénitentiaires et médiateurs.",
+    "appuis": [
+     "pe0e84485"
+    ]
+   }
+  }
+ },
+ {
+  "id": "conditions-de-detention",
+  "nom": "Conditions de détention",
+  "variantes": [
+   "droits des détenus",
+   "unités de vie familiale",
+   "travail en détention"
+  ],
+  "categorie": "politique publique",
+  "theme": "securite",
+  "definition": "Les conditions de détention recouvrent l’hébergement, l’hygiène, l’accès aux soins, le maintien des liens familiaux, le travail, la formation et les activités des personnes incarcérées. La loi pénitentiaire du 24 novembre 2009 a posé des droits, comme les unités de vie familiale permettant de recevoir ses proches sur plusieurs heures, et une obligation d’activité. Le travail en prison relève depuis 2022 d’un contrat d’emploi pénitentiaire, avec une rémunération inférieure au salaire minimum. Les détenus qui n’ont pas été privés de leurs droits civiques conservent le droit de vote.",
+  "enjeux": "Les associations de défense des détenus et une partie de la gauche plaident pour aligner autant que possible la vie en détention sur celle de l’extérieur, au nom de la dignité et de la réinsertion. D’autres responsables estiment que la priorité doit aller à la sécurité des établissements et à l’exécution des peines. Les rapports du Contrôleur général des lieux de privation de liberté nourrissent ce débat.",
+  "reperes": [
+   "Loi pénitentiaire du 24 novembre 2009"
+  ],
+  "liens": [
+   "surpopulation-carcerale",
+   "places-de-prison"
+  ],
+  "motifs": [
+   "unités de vie familiale",
+   "conditions dignes de détention",
+   "personnes détenues",
+   "personne détenue",
+   "lieux de détention",
+   "en détention",
+   "bureaux de vote dans les prisons"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de généraliser les unités de vie familiale, de garantir un salaire minimum fixe aux détenus qui travaillent, d’installer des bureaux de vote en prison et d’ouvrir un accès contrôlé à internet.",
+    "appuis": [
+     "p72694da4",
+     "p62067f5d",
+     "pb62456c8",
+     "p5caa1e4f"
+    ]
+   },
+   "lfi": {
+    "texte": "Le parti prévoit d’assurer des conditions dignes de détention et de rénover les prisons.",
+    "appuis": [
+     "pf4583c66",
+     "p7a6e2773"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose des prisons « rénovées et dignes » et des parcours individualisés de réinsertion.",
+    "appuis": [
+     "p49db1375"
+    ]
+   },
+   "rn": {
+    "texte": "Le parti prévoit de construire des établissements pour les détenus présentant des troubles psychiatriques.",
+    "appuis": [
+     "pa8451e3b"
+    ]
+   }
+  }
+ },
+ {
+  "id": "majorite-penale",
+  "nom": "Majorité pénale et excuse de minorité",
+  "variantes": [
+   "excuse de minorité",
+   "irresponsabilité pénale des mineurs",
+   "âge de la responsabilité pénale"
+  ],
+  "categorie": "notion juridique",
+  "theme": "securite",
+  "definition": "La majorité pénale est fixée à 18 ans en France : en dessous, un mineur relève de règles et de juridictions spécifiques. Le code de la justice pénale des mineurs, entré en vigueur en 2021, pose une présomption de non-discernement avant 13 ans, qui peut être renversée. L’« excuse de minorité » divise par deux la peine encourue par un mineur ; le tribunal peut l’écarter, par décision motivée, pour un mineur de plus de 16 ans ; en 2025, le Conseil constitutionnel a censuré une disposition qui en faisait l’exception pour certains récidivistes de 16 à 18 ans. Ce système découle de l’ordonnance du 2 février 1945, qui posait la primauté de l’éducatif sur le répressif.",
+  "enjeux": "Les partisans d’un abaissement de la majorité pénale à 16 ans ou d’une levée plus large de l’excuse de minorité invoquent la gravité des actes commis par certains mineurs et leur recrutement par les réseaux de trafic. Leurs opposants rappellent les engagements internationaux de la France, comme la Convention internationale des droits de l’enfant, et la valeur constitutionnelle reconnue au principe d’atténuation de la responsabilité des mineurs.",
+  "reperes": [
+   "Ordonnance du 2 février 1945 relative à l’enfance délinquante",
+   "Code de la justice pénale des mineurs, en vigueur depuis le 30 septembre 2021"
+  ],
+  "liens": [
+   "justice-penale-des-mineurs",
+   "centres-educatifs-fermes"
+  ],
+  "motifs": [
+   "majorité pénale",
+   "excuse de minorité",
+   "irresponsabilité pénale"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de maintenir l’irresponsabilité pénale à 13 ans.",
+    "appuis": [
+     "p96e6fdb5"
+    ]
+   },
+   "horizons": {
+    "texte": "Le parti prévoit de lever l’excuse de minorité pour les faits liés au narcotrafic.",
+    "appuis": [
+     "pb1abb588"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose d’abaisser la majorité pénale de 18 à 16 ans.",
+    "appuis": [
+     "p07bc5f3e"
+    ]
+   },
+   "rn": {
+    "texte": "Le parti prévoit d’abaisser la majorité pénale à 16 ans.",
+    "appuis": [
+     "pb4223c5f"
+    ]
+   }
+  }
+ },
+ {
+  "id": "justice-penale-des-mineurs",
+  "nom": "Justice pénale des mineurs",
+  "variantes": [
+   "mineurs délinquants",
+   "protection judiciaire de la jeunesse",
+   "PJJ",
+   "loi Attal"
+  ],
+  "categorie": "politique publique",
+  "theme": "securite",
+  "definition": "La justice pénale des mineurs repose sur des juridictions spécialisées, le juge des enfants et le tribunal pour enfants, et sur la protection judiciaire de la jeunesse (PJJ), direction du ministère de la Justice qui suit les mineurs poursuivis. Depuis 2021, la procédure se déroule en deux temps : une audience sur la culpabilité, puis une période de mise à l’épreuve éducative avant le prononcé de la sanction. La loi du 23 juin 2025, issue d’une proposition de Gabriel Attal, visait à durcir plusieurs règles ; le Conseil constitutionnel en a censuré les principales mesures, dont l’extension de la comparution immédiate aux mineurs de 16 ans, l’élargissement de l’audience unique et la dérogation à l’excuse de minorité pour certains récidivistes de 16 à 18 ans.",
+  "enjeux": "Un camp demande une réponse plus rapide et plus ferme dès le premier acte, voire des dispositifs d’encadrement de type militaire. L’autre camp défend la primauté de l’éducatif, réclame davantage d’éducateurs de la PJJ et conteste les mesures qui rapprochent le traitement des mineurs de celui des majeurs.",
+  "reperes": [
+   "Code de la justice pénale des mineurs, en vigueur depuis le 30 septembre 2021",
+   "Conseil constitutionnel, décision n° 2025-886 DC du 19 juin 2025 ; loi du 23 juin 2025 visant à renforcer l’autorité de la justice à l’égard des mineurs délinquants et de leurs parents"
+  ],
+  "liens": [
+   "majorite-penale",
+   "centres-educatifs-fermes",
+   "suspension-des-prestations-sociales"
+  ],
+  "motifs": [
+   "mineurs délinquants",
+   "mineur délinquant",
+   "justice des mineurs",
+   "loi Attal",
+   "mineurs criminels",
+   "comparution immédiate des mineurs",
+   "protection judiciaire de la jeunesse",
+   "PJJ",
+   "encadrement par des militaires"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’abroger la loi Attal de 2025.",
+    "appuis": [
+     "p6246d03a"
+    ]
+   },
+   "horizons": {
+    "texte": "Le parti prévoit une comparution immédiate des mineurs pour les infractions liées au narcotrafic, de nouveaux établissements de réinsertion et davantage de moyens pour la PJJ.",
+    "appuis": [
+     "pb1abb588",
+     "pef53440a"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose d’embaucher des agents de la protection judiciaire de la jeunesse.",
+    "appuis": [
+     "p9391ab74"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de doubler le nombre de centres éducatifs fermés pour les mineurs délinquants.",
+    "appuis": [
+     "p0c878f58"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le parti prévoit de « mettre fin à l’impunité des mineurs délinquants ».",
+    "appuis": [
+     "p7540dfe3"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose la possibilité d’un encadrement des mineurs délinquants par des militaires.",
+    "appuis": [
+     "p5cced858"
+    ]
+   },
+   "rn": {
+    "texte": "Le parti prévoit de sanctionner les mineurs dès le premier fait et d’ouvrir la comparution immédiate aux mineurs.",
+    "appuis": [
+     "p814df39f",
+     "pb4223c5f"
+    ]
+   }
+  }
+ },
+ {
+  "id": "centres-educatifs-fermes",
+  "nom": "Centres éducatifs fermés",
+  "variantes": [
+   "CEF"
+  ],
+  "categorie": "institution",
+  "theme": "securite",
+  "definition": "Les centres éducatifs fermés accueillent des mineurs de 13 à 18 ans placés par décision judiciaire, dans le cadre d’un contrôle judiciaire, d’un sursis probatoire ou d’une libération conditionnelle. Ils ont été créés par la loi du 9 septembre 2002. Le caractère « fermé » est juridique plutôt que matériel : une fugue ou un manquement peut entraîner une incarcération. Ils sont gérés par la protection judiciaire de la jeunesse ou par des associations habilitées, et leur coût par place est élevé.",
+  "enjeux": "Leurs partisans y voient une alternative crédible à la prison pour les mineurs multiréitérants et demandent d’en ouvrir davantage. Leurs critiques pointent des résultats inégaux, des difficultés de recrutement d’éducateurs et préfèrent des structures d’insertion moins contraignantes.",
+  "reperes": [
+   "Créés par la loi du 9 septembre 2002 d’orientation et de programmation pour la justice"
+  ],
+  "liens": [
+   "justice-penale-des-mineurs",
+   "majorite-penale"
+  ],
+  "motifs": [
+   "centres éducatifs fermés",
+   "centre éducatif fermé",
+   "CEF"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de suspendre les nouveaux projets de CEF et de transformer les centres existants en centres éducatifs et d’insertion.",
+    "appuis": [
+     "pe1b3d1b4"
+    ]
+   },
+   "lr": {
+    "texte": "Le parti prévoit de doubler le nombre de centres éducatifs fermés.",
+    "appuis": [
+     "p0c878f58"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose au moins un centre éducatif fermé par département.",
+    "appuis": [
+     "p4f153eec"
+    ]
+   }
+  }
+ },
+ {
+  "id": "suspension-des-prestations-sociales",
+  "nom": "Suspension des prestations sociales des délinquants",
+  "variantes": [
+   "suspension des allocations familiales",
+   "responsabilité parentale"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "securite",
+  "definition": "Cette mesure consiste à suspendre ou supprimer des prestations sociales, en particulier les allocations familiales, en raison d’infractions commises par l’allocataire ou par ses enfants mineurs. Un dispositif voisin a existé avec la loi du 28 septembre 2010, dite loi Ciotti, qui permettait de suspendre les allocations familiales en cas d’absentéisme scolaire ; il a été abrogé en 2013. Le droit actuel prévoit un contrat de responsabilité parentale et un délit de soustraction d’un parent à ses obligations légales. Les prestations peuvent par ailleurs faire l’objet de saisies dans des limites fixées par la loi.",
+  "enjeux": "Ses partisans y voient un levier pour responsabiliser les familles et une sanction de la « défaillance » parentale. Ses opposants estiment qu’elle pénalise toute la fratrie, frappe surtout les familles pauvres et n’a pas fait la preuve de son efficacité lors de l’expérience de 2010-2013.",
+  "reperes": [
+   "Loi du 28 septembre 2010 visant à lutter contre l’absentéisme scolaire, abrogée en 2013"
+  ],
+  "liens": [
+   "justice-penale-des-mineurs"
+  ],
+  "motifs": [
+   "suspension des allocations familiales",
+   "suspendant les allocations familiales",
+   "aides sociales aux délinquants",
+   "recouvrement forcé des amendes"
+  ],
+  "positions": {
+   "horizons": {
+    "texte": "Le parti prévoit de permettre le recouvrement forcé des amendes sur les prestations sociales.",
+    "appuis": [
+     "p2514e3e2"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de suspendre les aides sociales aux délinquants.",
+    "appuis": [
+     "p6aeec8a2"
+    ]
+   },
+   "rn": {
+    "texte": "Le parti prévoit de suspendre les allocations familiales des parents de mineurs criminels ou délinquants récidivistes « coupables de défaillance ».",
+    "appuis": [
+     "pbec159ea"
+    ]
+   }
+  }
+ },
+ {
+  "id": "amende-forfaitaire-delictuelle",
+  "nom": "Amende forfaitaire délictuelle",
+  "variantes": [
+   "AFD",
+   "amendes forfaitaires"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "securite",
+  "definition": "L’amende forfaitaire délictuelle permet de sanctionner certains délits par une amende fixe, dressée directement par un policier ou un gendarme, sans passage devant un juge si elle est payée. Créée par la loi du 18 novembre 2016, elle a été étendue à l’usage de stupéfiants, généralisé à l’automne 2020 avec un montant de base de 200 euros, puis à d’autres délits comme l’occupation des halls d’immeuble ou certains vols. L’amende est inscrite au casier judiciaire. La personne peut la contester et demander à être jugée.",
+  "enjeux": "Ses partisans y voient une réponse rapide et systématique à des délits du quotidien qui restaient souvent sans suite. Ses critiques, dont la Défenseure des droits, soulignent l’absence de juge, des difficultés de contestation et une concentration des amendes sur certains quartiers et publics.",
+  "reperes": [
+   "Créée par la loi du 18 novembre 2016 de modernisation de la justice du XXIe siècle"
+  ],
+  "liens": [
+   "legalisation-du-cannabis",
+   "depenalisation-de-l-usage"
+  ],
+  "motifs": [
+   "amendes forfaitaires",
+   "amende forfaitaire"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de mettre fin aux amendes forfaitaires délictuelles.",
+    "appuis": [
+     "p81eccc45"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le parti prévoit d’étendre les amendes forfaitaires aux délits « qui empoisonnent le quotidien », sur le modèle de l’usage de cannabis.",
+    "appuis": [
+     "p80a5c1ea"
+    ]
+   }
+  }
+ },
+ {
+  "id": "police-de-proximite",
+  "nom": "Police de proximité",
+  "variantes": [
+   "police de sécurité du quotidien",
+   "commissariats de proximité",
+   "îlotage"
+  ],
+  "categorie": "politique publique",
+  "theme": "securite",
+  "definition": "La police de proximité désigne une organisation où des policiers sont affectés durablement à un territoire, connaissent ses habitants et privilégient la prévention et la résolution des problèmes. En France, elle a été généralisée par le gouvernement Jospin à partir de 1998, puis abandonnée progressivement à partir de 2002-2003 au profit d’unités d’intervention. La « police de sécurité du quotidien », lancée en 2018, en a repris certains principes. Le modèle s’inspire du « community policing » anglo-saxon.",
+  "enjeux": "Ses partisans y voient le moyen de rétablir la confiance entre police et population et de mieux prévenir la délinquance. Ses critiques ont reproché à l’expérience de 1998-2002 un coût en effectifs et des résultats jugés insuffisants contre la délinquance. Le débat oppose aussi proximité et unités d’intervention rapide.",
+  "reperes": [
+   "Généralisée à partir de 1998",
+   "Police de sécurité du quotidien lancée en 2018"
+  ],
+  "liens": [
+   "police-municipale",
+   "maintien-de-l-ordre",
+   "controle-de-la-police"
+  ],
+  "motifs": [
+   "police de proximité",
+   "commissariats de proximité",
+   "sécurité de proximité",
+   "sécurité du quotidien"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de créer une police nationale de proximité et des commissariats de proximité dans les zones sensibles, en sortant de la « politique du chiffre ».",
+    "appuis": [
+     "p471079ca",
+     "p9bb94b00"
+    ]
+   },
+   "lfi": {
+    "texte": "Le parti prévoit de rétablir la police de proximité, en démantelant les BAC.",
+    "appuis": [
+     "p39b8c3db",
+     "p75055b4c"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de « faire renaître » une police de proximité centrée sur la prévention, la médiation et la résolution des conflits.",
+    "appuis": [
+     "p093b9fe4"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le parti prévoit de faciliter le dialogue entre forces de l’ordre et population sur les priorités de sécurité de proximité, notamment par messageries instantanées.",
+    "appuis": [
+     "p7b6c35ae"
+    ]
+   }
+  }
+ },
+ {
+  "id": "police-municipale",
+  "nom": "Police municipale",
+  "variantes": [
+   "polices municipales",
+   "armement des polices municipales"
+  ],
+  "categorie": "institution",
+  "theme": "securite",
+  "definition": "Les polices municipales sont des services communaux placés sous l’autorité du maire, distincts de la police et de la gendarmerie nationales. Leurs agents font respecter les arrêtés du maire et constatent certaines infractions, mais ne disposent pas des pouvoirs d’enquête de la police judiciaire. Leur création et leur armement relèvent du choix de chaque commune, l’armement nécessitant une autorisation du préfet. Leurs effectifs ont fortement augmenté depuis les années 1990. Un projet de loi étendant leurs prérogatives, notamment la constatation de certains délits, a été examiné par le Parlement en 2026.",
+  "enjeux": "Leurs partisans souhaitent les rendre obligatoires au-delà d’un seuil de population, les armer systématiquement et élargir leurs compétences. D’autres insistent sur leur rôle de proximité et de prévention, et craignent un désengagement de l’État au détriment des communes qui n’ont pas les moyens de financer une police municipale.",
+  "reperes": [
+   "Loi du 15 avril 1999 relative aux polices municipales",
+   "Projet de loi relatif à l’extension des prérogatives des polices municipales et des gardes champêtres, adopté en première lecture par le Sénat le 10 février 2026"
+  ],
+  "liens": [
+   "police-de-proximite"
+  ],
+  "motifs": [
+   "police municipale",
+   "polices municipales"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose des polices municipales armées et obligatoires dans les villes de plus de 5 000 habitants.",
+    "appuis": [
+     "pf8dd5f5d"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le parti prévoit de réaffirmer le rôle de la police municipale, centré sur la proximité et la prévention.",
+    "appuis": [
+     "pbe5fa441"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de généraliser progressivement l’armement obligatoire des polices municipales.",
+    "appuis": [
+     "p11284c3e"
+    ]
+   },
+   "rn": {
+    "texte": "Le parti prévoit de rendre la police municipale obligatoire dans les communes de plus de 10 000 habitants et d’associer davantage les maires à la chaîne pénale.",
+    "appuis": [
+     "p70968915",
+     "p0a5a7f44"
+    ]
+   }
+  }
+ },
+ {
+  "id": "loi-de-programmation-securite-justice",
+  "nom": "Loi de programmation sécurité et justice",
+  "variantes": [
+   "LOPMI",
+   "loi de programmation de la justice"
+  ],
+  "categorie": "politique publique",
+  "theme": "securite",
+  "definition": "Une loi de programmation fixe, sur plusieurs années, les objectifs et la trajectoire des moyens budgétaires et humains d’un ministère. Elle n’engage pas juridiquement les lois de finances annuelles mais vaut engagement politique. Les plus récentes sont la loi d’orientation et de programmation du ministère de l’Intérieur du 24 janvier 2023 (LOPMI) et la loi d’orientation et de programmation du ministère de la Justice 2023-2027 du 20 novembre 2023. Elles prévoient notamment des recrutements de policiers, de gendarmes, de magistrats et de greffiers.",
+  "enjeux": "Les partis qui en font une priorité y voient le moyen de garantir des moyens durables aux forces de sécurité et à la justice. Le débat porte sur l’ampleur des hausses, sur le partage entre effectifs et équipements, et sur le respect réel de ces trajectoires lors des budgets annuels.",
+  "reperes": [
+   "LOPMI : loi du 24 janvier 2023",
+   "Loi d’orientation et de programmation du ministère de la Justice 2023-2027 : loi du 20 novembre 2023"
+  ],
+  "liens": [
+   "moyens-de-la-justice"
+  ],
+  "motifs": [
+   "loi de programmation pour la sécurité",
+   "loi de programmation de la Justice",
+   "loi de modernisation de la sécurité",
+   "loi de programmation Justice"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme présidentiel de 2022 prévoyait une loi de modernisation de la sécurité et de la justice et 5 milliards d’euros pour moderniser les moyens des forces de l’ordre.",
+    "appuis": [
+     "p87abd316",
+     "p0cf579b8"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le parti prévoit une loi de programmation de la justice et de la sécurité sur cinq ans.",
+    "appuis": [
+     "p53855aaf"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose une loi de programmation augmentant de 1,5 milliard d’euros par an le budget de la sécurité et de la justice, pour créer 7 000 postes de policiers et gendarmes et doubler le nombre de magistrats.",
+    "appuis": [
+     "pef370527"
+    ]
+   }
+  }
+ },
+ {
+  "id": "moyens-de-la-justice",
+  "nom": "Effectifs de magistrats et de greffiers",
+  "variantes": [
+   "moyens de la justice",
+   "délais de jugement",
+   "recrutement de magistrats"
+  ],
+  "categorie": "politique publique",
+  "theme": "securite",
+  "definition": "La France compte environ 9 000 magistrats de l’ordre judiciaire, juges et procureurs, assistés de greffiers et d’attachés de justice ; la loi de programmation de 2023 prévoit 1 500 magistrats supplémentaires d’ici 2027. Les comparaisons du Conseil de l’Europe placent la France sous la médiane européenne pour le nombre de juges et de procureurs par habitant. Les magistrats sont recrutés principalement par concours à l’École nationale de la magistrature, mais aussi par des voies latérales ouvertes à des professionnels expérimentés. La durée des procédures, civiles comme pénales, est l’un des principaux griefs adressés à l’institution.",
+  "enjeux": "Sept des huit partis étudiés proposent de renforcer les effectifs de la justice, avec des objectifs chiffrés et des finalités différentes : réduire les délais, garantir « l’impunité zéro », ou améliorer l’accès au droit. L’élargissement du recrutement à des policiers, gendarmes ou avocats suscite des réserves chez ceux qui insistent sur l’indépendance et la formation commune des magistrats.",
+  "reperes": [
+   "CEPEJ (Conseil de l’Europe), rapport 2024 sur les données 2022 : 11,3 juges professionnels pour 100 000 habitants en France, pour une médiane européenne de 17,6",
+   "Loi d’orientation et de programmation du ministère de la Justice 2023-2027 : 1 500 magistrats supplémentaires prévus"
+  ],
+  "liens": [
+   "loi-de-programmation-securite-justice"
+  ],
+  "motifs": [
+   "magistrats",
+   "greffiers",
+   "magistrature",
+   "personnels de justice",
+   "recrutements dans la justice",
+   "délais de jugement"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de créer 9 000 postes de magistrats sur dix ans, 10 000 postes de greffiers et 7 000 postes d’attachés de justice.",
+    "appuis": [
+     "p3198c916"
+    ]
+   },
+   "lfi": {
+    "texte": "Le parti prévoit d’embaucher des magistrats, des greffiers et des agents de la PJJ pour juger dans un délai raisonnable.",
+    "appuis": [
+     "p9391ab74"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose 16 000 recrutements dans la justice pour réduire les délais de jugement et garantir « l’impunité zéro ».",
+    "appuis": [
+     "pe327ebbc"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le parti prévoit de donner plus de moyens à la justice et d’augmenter et revaloriser les effectifs judiciaires et pénitentiaires.",
+    "appuis": [
+     "pb6abfaef",
+     "p64d4ac94"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de recruter davantage de magistrats, notamment parmi les policiers, les gendarmes et les avocats.",
+    "appuis": [
+     "p4328d426"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le parti prévoit 8 500 magistrats et personnels de justice supplémentaires d’ici 2027.",
+    "appuis": [
+     "p1de1498f"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de doubler le nombre de magistrats et d’élargir le tour extérieur d’accès à la magistrature.",
+    "appuis": [
+     "pa8914901",
+     "p159157c6"
+    ]
+   }
+  }
+ },
+ {
+  "id": "presomption-de-legitime-defense",
+  "nom": "Présomption de légitime défense",
+  "variantes": [
+   "légitime défense",
+   "défense excusable"
+  ],
+  "categorie": "notion juridique",
+  "theme": "securite",
+  "definition": "La légitime défense exonère de responsabilité pénale la personne qui riposte à une atteinte injustifiée, à condition que la riposte soit nécessaire, simultanée et proportionnée. Une présomption existe déjà dans deux cas, notamment pour repousser de nuit l’entrée par effraction dans un lieu habité : c’est alors à l’accusation de prouver que les conditions n’étaient pas réunies. Depuis la loi du 28 février 2017, policiers et gendarmes disposent d’un cadre commun d’usage de leurs armes, fondé sur l’absolue nécessité et la stricte proportionnalité. Proposer une « présomption de légitime défense » revient à inverser la charge de la preuve en faveur des forces de l’ordre, ou des particuliers agressés.",
+  "enjeux": "Ses partisans estiment que les policiers et les citoyens qui se défendent ne devraient pas avoir à justifier leur geste devant la justice. Ses opposants soulignent qu’une présomption n’empêcherait pas l’enquête, qu’elle pourrait affaiblir le contrôle de l’usage de la force et qu’elle se heurterait à des exigences constitutionnelles et européennes sur le droit à la vie.",
+  "reperes": [
+   "Articles 122-5 et 122-6 du code pénal",
+   "Article L. 435-1 du code de la sécurité intérieure, issu de la loi du 28 février 2017"
+  ],
+  "liens": [
+   "loi-cazeneuve",
+   "depositaires-de-l-autorite-publique"
+  ],
+  "motifs": [
+   "légitime défense",
+   "défense excusable"
+  ],
+  "positions": {
+   "reconquete": {
+    "texte": "Le programme propose une présomption de légitime défense pour les policiers et gendarmes en cas d’usage de leurs armes, et l’instauration d’une « défense excusable » pour tout citoyen agressé.",
+    "appuis": [
+     "p1c7305a0",
+     "pdb9a194c"
+    ]
+   },
+   "rn": {
+    "texte": "Le parti prévoit d’instituer une présomption de légitime défense pour les forces de l’ordre.",
+    "appuis": [
+     "pe1e7cb0c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "loi-cazeneuve",
+  "nom": "Loi Cazeneuve sur l’ouverture du feu",
+  "variantes": [
+   "refus d’obtempérer",
+   "usage des armes par les policiers",
+   "article L. 435-1"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "securite",
+  "definition": "La loi du 28 février 2017 relative à la sécurité publique, portée par Bernard Cazeneuve, a aligné les règles d’usage des armes des policiers sur celles des gendarmes. Elle autorise notamment le tir pour immobiliser un véhicule dont le conducteur refuse de s’arrêter et dont les occupants sont susceptibles de porter atteinte à la vie d’autrui. L’usage doit rester absolument nécessaire et strictement proportionné. Des travaux de recherche et de presse ont relevé une hausse des tirs mortels lors de refus d’obtempérer après 2017, une lecture discutée par le ministère de l’Intérieur.",
+  "enjeux": "Ses critiques demandent l’abrogation ou la révision de ce cadre, en invoquant les décès survenus lors de refus d’obtempérer, dont celui de Nahel Merzouk à Nanterre en juin 2023. Ses défenseurs mettent en avant la hausse des refus d’obtempérer et le danger qu’ils représentent pour les agents, et refusent toute remise en cause qui fragiliserait les policiers.",
+  "reperes": [
+   "Loi du 28 février 2017 relative à la sécurité publique",
+   "Article L. 435-1 du code de la sécurité intérieure"
+  ],
+  "liens": [
+   "presomption-de-legitime-defense",
+   "maintien-de-l-ordre",
+   "controle-de-la-police"
+  ],
+  "motifs": [
+   "ouverture du feu",
+   "refus d'obtempérer",
+   "loi Cazeneuve"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’abroger les dispositions de la loi Cazeneuve sur l’ouverture du feu « pour que cessent les morts pour refus d’obtempérer ».",
+    "appuis": [
+     "p77e29eab"
+    ]
+   },
+   "lfi": {
+    "texte": "Le parti prévoit de réviser la loi et la doctrine sur l’ouverture du feu.",
+    "appuis": [
+     "pcebc9d7c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "armes-de-force-intermediaire",
+  "nom": "Armes de force intermédiaire",
+  "variantes": [
+   "LBD",
+   "lanceur de balles de défense",
+   "grenades de désencerclement",
+   "taser"
+  ],
+  "categorie": "politique publique",
+  "theme": "securite",
+  "definition": "Les armes de force intermédiaire sont des armes dites « à létalité réduite », utilisées par les forces de l’ordre entre la contrainte physique et l’arme à feu : lanceurs de balles de défense (LBD, dont le LBD 40), grenades de désencerclement, pistolets à impulsion électrique et grenades lacrymogènes. Leur emploi est encadré par des instructions ministérielles. Lors du mouvement des Gilets jaunes en 2018-2019, de nombreuses blessures graves, notamment oculaires, ont été attribuées au LBD et aux grenades. La grenade GLI-F4, contenant un explosif, a été retirée en 2020.",
+  "enjeux": "Leurs opposants, dont une partie de la gauche et des associations de défense des droits, demandent leur interdiction au nom de la gravité des blessures infligées, et parlent de « grenades mutilantes ». Leurs défenseurs, dont les syndicats de police, estiment qu’elles évitent le recours à l’arme à feu et protègent les agents face à des violences.",
+  "reperes": [
+   "Retrait de la grenade GLI-F4 annoncé en janvier 2020"
+  ],
+  "liens": [
+   "maintien-de-l-ordre",
+   "controle-de-la-police"
+  ],
+  "motifs": [
+   "LBD",
+   "LBD40",
+   "LBD 40",
+   "lanceurs de balles de défense",
+   "grenades mutilantes",
+   "grenades de désencerclement",
+   "flash-balls",
+   "tasers"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’interdire les LBD 40 et les « grenades mutilantes ».",
+    "appuis": [
+     "pedb0fd54"
+    ]
+   },
+   "lfi": {
+    "texte": "Le parti prévoit d’interdire les tasers, les grenades de désencerclement, les flash-balls et les LBD 40 pour favoriser la désescalade.",
+    "appuis": [
+     "pd3b1cb71",
+     "p9d26ec5f"
+    ]
+   }
+  }
+ },
+ {
+  "id": "maintien-de-l-ordre",
+  "nom": "Doctrine du maintien de l’ordre",
+  "variantes": [
+   "schéma national du maintien de l’ordre",
+   "BRAV-M",
+   "BAC",
+   "désescalade"
+  ],
+  "categorie": "politique publique",
+  "theme": "securite",
+  "definition": "Le maintien de l’ordre désigne l’encadrement des manifestations et des rassemblements par les forces de l’ordre, historiquement confié à des unités spécialisées, gendarmes mobiles et CRS. Le schéma national du maintien de l’ordre, publié en 2020 puis révisé en 2021 après une décision du Conseil d’État, fixe la doctrine actuelle. Depuis 2018-2019, des unités plus mobiles, comme les BRAV-M à Paris, et des brigades anticriminalité (BAC) sont aussi engagées dans les manifestations. Certaines techniques d’immobilisation, comme le plaquage ventral, font l’objet de débats récurrents.",
+  "enjeux": "Les uns défendent une doctrine de désescalade inspirée de pays voisins, le démantèlement des unités mobiles et l’interdiction de certaines techniques. Les autres jugent ces unités nécessaires face aux violences en manifestation et aux groupes organisés. Le débat porte aussi sur la liberté de manifester et sur la formation des agents.",
+  "reperes": [
+   "Schéma national du maintien de l’ordre publié en septembre 2020, révisé en décembre 2021"
+  ],
+  "liens": [
+   "armes-de-force-intermediaire",
+   "police-de-proximite",
+   "controle-de-la-police"
+  ],
+  "motifs": [
+   "doctrine du maintien de l'ordre",
+   "doctrine française du maintien de l'ordre",
+   "BRAV-M",
+   "BAC",
+   "brigades anti-criminalité",
+   "désescalade",
+   "plaquage ventral"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de démanteler les unités de type BRAV-M.",
+    "appuis": [
+     "p1587565b"
+    ]
+   },
+   "lfi": {
+    "texte": "Le parti prévoit de démanteler les BRAV-M et les BAC et d’interdire les techniques d’immobilisation pouvant mener à l’asphyxie, comme le plaquage ventral.",
+    "appuis": [
+     "p9d26ec5f",
+     "p75055b4c",
+     "p50f4c5ed"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de revoir la doctrine française du maintien de l’ordre.",
+    "appuis": [
+     "pdb2ecea4"
+    ]
+   }
+  }
+ },
+ {
+  "id": "controle-de-la-police",
+  "nom": "Contrôle de la police",
+  "variantes": [
+   "IGPN",
+   "IGGN",
+   "police des polices",
+   "déontologie policière",
+   "matricule RIO"
+  ],
+  "categorie": "institution",
+  "theme": "securite",
+  "definition": "Le contrôle interne des forces de l’ordre est assuré par l’Inspection générale de la police nationale (IGPN), surnommée « police des polices », et par l’Inspection générale de la gendarmerie nationale (IGGN), qui relèvent de leurs directions générales respectives. Elles mènent des enquêtes administratives et, sur saisine de la justice, des enquêtes judiciaires. Le Défenseur des droits, autorité constitutionnelle indépendante, contrôle aussi le respect de la déontologie par les personnes exerçant une activité de sécurité. Depuis 2014, policiers et gendarmes doivent porter un numéro d’identification individuel, le RIO.",
+  "enjeux": "Une partie de la gauche et des associations jugent ce contrôle insuffisamment indépendant et proposent de le confier à une autorité extérieure, rattachée au Défenseur des droits. Les syndicats de police et les gouvernements successifs défendent l’IGPN, en rappelant le nombre d’enquêtes et de sanctions qu’elle produit.",
+  "reperes": [
+   "Défenseur des droits institué par la révision constitutionnelle de 2008, en fonction depuis 2011",
+   "Port du RIO obligatoire depuis 2014"
+  ],
+  "liens": [
+   "maintien-de-l-ordre",
+   "recepisse-de-controle-d-identite",
+   "loi-cazeneuve"
+  ],
+  "motifs": [
+   "IGPN",
+   "IGGN",
+   "Inspection générale de la police nationale",
+   "code de déontologie",
+   "questionnaires de satisfaction",
+   "matricule"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de remplacer l’IGPN et l’IGGN par un organisme indépendant rattaché à la Défenseure des droits et de faire respecter le port du RIO et des caméras embarquées.",
+    "appuis": [
+     "pbb9d49d4",
+     "p28556492"
+    ]
+   },
+   "lfi": {
+    "texte": "Le parti prévoit de supprimer l’IGPN et l’IGGN au profit d’un organisme indépendant rattaché à la Défenseure des droits, d’adopter un nouveau code de déontologie et d’instaurer des questionnaires de satisfaction des usagers.",
+    "appuis": [
+     "pad6c29fb",
+     "pf099a457"
+    ]
+   }
+  }
+ },
+ {
+  "id": "recepisse-de-controle-d-identite",
+  "nom": "Récépissé de contrôle d’identité",
+  "variantes": [
+   "contrôle au faciès",
+   "contrôles d’identité"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "securite",
+  "definition": "Le récépissé est un document remis à la personne contrôlée, mentionnant le motif, le lieu et l’agent du contrôle d’identité, afin d’en garder la trace. Les contrôles d’identité sont encadrés par l’article 78-2 du code de procédure pénale. En 2016, la Cour de cassation a condamné l’État pour faute lourde à la suite de contrôles jugés discriminatoires. En 2023, le Conseil d’État a reconnu l’existence de contrôles discriminatoires sans pour autant enjoindre au gouvernement de changer le dispositif. Le récépissé, promis en 2012, n’a pas été mis en place.",
+  "enjeux": "Ses partisans y voient un moyen de lutter contre le « contrôle au faciès » et de mesurer les pratiques. Ses opposants, dont la plupart des syndicats de police, y voient une charge administrative et une marque de défiance envers les agents ; la caméra-piéton a été présentée par les gouvernements comme une alternative.",
+  "reperes": [
+   "Article 78-2 du code de procédure pénale",
+   "Cour de cassation, arrêts du 9 novembre 2016"
+  ],
+  "liens": [
+   "controle-de-la-police",
+   "police-de-proximite"
+  ],
+  "motifs": [
+   "récépissé",
+   "récépissés",
+   "récipissés",
+   "contrôle au faciès",
+   "contrôles d'identité",
+   "contrôle d'identité"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’interdire les contrôles d’identité aléatoires pour mettre fin au « contrôle au faciès » et d’instaurer un récépissé.",
+    "appuis": [
+     "pfabd1ccf"
+    ]
+   },
+   "lfi": {
+    "texte": "Le parti prévoit de mettre en place les récépissés pour les contrôles d’identité.",
+    "appuis": [
+     "p83263c01"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de généraliser les récépissés de contrôle d’identité.",
+    "appuis": [
+     "p302e3ab3"
+    ]
+   }
+  }
+ },
+ {
+  "id": "reconnaissance-faciale",
+  "nom": "Reconnaissance faciale et vidéosurveillance algorithmique",
+  "variantes": [
+   "VSA",
+   "vision par ordinateur",
+   "identification biométrique"
+  ],
+  "categorie": "politique publique",
+  "theme": "securite",
+  "definition": "La reconnaissance faciale consiste à identifier une personne en comparant son visage à une base de données d’images. La vidéosurveillance algorithmique analyse automatiquement des flux vidéo pour repérer des situations prédéfinies, sans nécessairement identifier les personnes. En France, la loi du 19 mai 2023 relative aux Jeux olympiques a autorisé à titre expérimental la vidéosurveillance algorithmique, en excluant la reconnaissance faciale. Le règlement européen sur l’intelligence artificielle de 2024 interdit en principe l’identification biométrique à distance en temps réel dans l’espace public à des fins répressives, sauf exceptions encadrées.",
+  "enjeux": "Ses partisans y voient un outil efficace pour retrouver des suspects ou prévenir des attentats, dans un cadre légal contrôlé. Ses opposants, dont des associations de défense des libertés, alertent sur le risque de surveillance de masse, les erreurs d’identification et l’atteinte à l’anonymat dans l’espace public.",
+  "reperes": [
+   "Loi du 19 mai 2023 relative aux Jeux olympiques et paralympiques de 2024",
+   "Règlement européen sur l’intelligence artificielle adopté en 2024"
+  ],
+  "liens": [
+   "etat-d-urgence",
+   "fichiers-de-police"
+  ],
+  "motifs": [
+   "reconnaissance faciale",
+   "vision par ordinateur",
+   "vidéosurveillance algorithmique",
+   "surveillance de masse"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’interdire la reconnaissance faciale et d’évaluer de façon indépendante les dispositifs de vidéosurveillance.",
+    "appuis": [
+     "pa7e84547",
+     "pef7d6a79"
+    ]
+   },
+   "horizons": {
+    "texte": "Le parti prévoit, dans le cadre de moyens d’exception contre le narcotrafic, le recours à la reconnaissance faciale.",
+    "appuis": [
+     "pf3dda90b"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose d’interdire la reconnaissance faciale et d’évaluer de façon indépendante la vidéosurveillance.",
+    "appuis": [
+     "p92937f5f"
+    ]
+   },
+   "lr": {
+    "texte": "Le parti prévoit d’autoriser la vision par ordinateur pour certains objectifs de sécurité dans un cadre contrôlé, tout en interdisant la reconnaissance faciale en temps réel à des fins de surveillance de masse.",
+    "appuis": [
+     "pa611ce4e",
+     "p68e4f1ef"
+    ]
+   }
+  }
+ },
+ {
+  "id": "etat-d-urgence",
+  "nom": "État d’urgence",
+  "variantes": [
+   "loi SILT",
+   "mesures individuelles de contrôle",
+   "état d’urgence permanent"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "securite",
+  "definition": "L’état d’urgence est un régime d’exception prévu par la loi du 3 avril 1955, déclaré par décret en conseil des ministres et prorogé par la loi au-delà de douze jours. Il permet à l’autorité administrative de prendre des mesures sans autorisation préalable d’un juge, comme des perquisitions administratives ou des assignations à résidence. Après les attentats de novembre 2015, il a été appliqué près de deux ans. La loi du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre le terrorisme (SILT) y a mis fin en intégrant au droit commun des mesures inspirées de ce régime : périmètres de protection, fermeture de lieux de culte, mesures individuelles de contrôle et visites domiciliaires.",
+  "enjeux": "Ses critiques estiment que la loi SILT a rendu « permanent » un régime d’exception et déplacé le contrôle du juge judiciaire vers le juge administratif. Ses défenseurs soulignent que ces outils, encadrés et limités au terrorisme, ont permis de déjouer des attentats. D’autres proposent de créer des régimes d’exception ciblés sur d’autres menaces, comme le narcotrafic.",
+  "reperes": [
+   "Loi du 3 avril 1955 relative à l’état d’urgence",
+   "Loi du 30 octobre 2017 dite SILT"
+  ],
+  "liens": [
+   "loi-securite-globale",
+   "reconnaissance-faciale",
+   "renseignement-interieur"
+  ],
+  "motifs": [
+   "état d'urgence",
+   "perquisitions administratives",
+   "assignations à résidence"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’abroger les dispositions jugées « liberticides » de la loi instaurant un « état d’urgence permanent ».",
+    "appuis": [
+     "p1923c079"
+    ]
+   },
+   "horizons": {
+    "texte": "Le parti prévoit des moyens juridiques d’exception contre le narcotrafic, limités dans le temps et dans l’espace, comme les perquisitions administratives et les assignations à résidence.",
+    "appuis": [
+     "pf3dda90b"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de revenir sur les dispositions de la loi de 2017 qui « normalise l’état d’urgence » et de garantir le contrôle du juge judiciaire sur l’antiterrorisme.",
+    "appuis": [
+     "pc1fa8b61",
+     "p5e9085e2"
+    ]
+   }
+  }
+ },
+ {
+  "id": "loi-securite-globale",
+  "nom": "Loi Sécurité globale",
+  "variantes": [
+   "loi pour une sécurité globale préservant les libertés",
+   "article 24"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "securite",
+  "definition": "La loi du 25 mai 2021 pour une sécurité globale préservant les libertés a renforcé les prérogatives des polices municipales et de la sécurité privée et encadré l’usage des drones et des caméras-piétons. Son article le plus débattu, l’ancien article 24, visait à pénaliser la diffusion malveillante d’images permettant d’identifier des policiers ; il a été censuré par le Conseil constitutionnel. Le texte a suscité d’importantes manifestations à l’automne 2020.",
+  "enjeux": "Ses critiques, à gauche et parmi les organisations de journalistes, y voient des atteintes à la liberté d’informer et un développement de la surveillance. Ses défenseurs y voient un moyen de protéger les agents et de mieux organiser le « continuum de sécurité » entre police nationale, polices municipales et sécurité privée.",
+  "reperes": [
+   "Loi du 25 mai 2021 pour une sécurité globale préservant les libertés",
+   "Conseil constitutionnel, décision du 20 mai 2021"
+  ],
+  "liens": [
+   "loi-separatisme",
+   "etat-d-urgence",
+   "reconnaissance-faciale"
+  ],
+  "motifs": [
+   "sécurité globale"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’abroger les dispositions jugées « liberticides » de la loi Sécurité globale.",
+    "appuis": [
+     "p1923c079"
+    ]
+   },
+   "lfi": {
+    "texte": "Le parti prévoit d’abroger les dispositions qu’il qualifie de « liberticides » de la loi Sécurité globale.",
+    "appuis": [
+     "pcebc9d7c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "loi-separatisme",
+  "nom": "Loi Séparatisme",
+  "variantes": [
+   "loi confortant le respect des principes de la République",
+   "contrat d’engagement républicain"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "securite",
+  "definition": "La loi du 24 août 2021 confortant le respect des principes de la République, dite loi « séparatisme », vise ce que le gouvernement d’alors présentait comme des atteintes aux principes républicains, en particulier de la part de l’islamisme politique. Elle a renforcé le contrôle des associations, notamment par un « contrat d’engagement républicain » exigé de celles qui reçoivent des subventions, élargi les motifs de dissolution administrative, renforcé le contrôle des lieux de culte et de leurs financements étrangers et encadré l’instruction en famille. Elle complète la loi de 1905, qui contient déjà un titre consacré à la police des cultes.",
+  "enjeux": "Ses défenseurs y voient un outil indispensable contre l’« entrisme » islamiste et les pressions communautaires. Ses critiques, à gauche et dans le monde associatif, dénoncent un texte qu’ils jugent stigmatisant pour les musulmans et des atteintes à la liberté d’association, le contrat d’engagement républicain ayant servi selon eux à sanctionner des associations militantes.",
+  "reperes": [
+   "Loi du 24 août 2021 confortant le respect des principes de la République",
+   "Loi du 9 décembre 1905 concernant la séparation des Églises et de l’État"
+  ],
+  "liens": [
+   "fermeture-des-lieux-de-culte",
+   "loi-securite-globale"
+  ],
+  "motifs": [
+   "loi séparatisme",
+   "lois Sécurité globale, Séparatisme",
+   "sécurité globale, séparatisme",
+   "contrat d'engagement républicain"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’abroger la loi séparatisme, de s’appuyer sur la police des cultes de la loi de 1905 et d’abroger le contrat d’engagement républicain, qualifié de « liberticide ».",
+    "appuis": [
+     "pcfad6439",
+     "p1d64723b"
+    ]
+   },
+   "lfi": {
+    "texte": "Le parti prévoit d’abroger les dispositions jugées « liberticides » de la loi séparatisme et le contrat d’engagement républicain.",
+    "appuis": [
+     "pcebc9d7c",
+     "p1d717661"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de garantir l’impartialité de l’application du contrat d’engagement républicain par un comité indépendant.",
+    "appuis": [
+     "p04fc6259"
+    ]
+   }
+  }
+ },
+ {
+  "id": "fichiers-de-police",
+  "nom": "Fiche S et fichiers de police",
+  "variantes": [
+   "fiché S",
+   "fichier des personnes recherchées",
+   "FIJAIS",
+   "fichiers de renseignement"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "securite",
+  "definition": "Les forces de sécurité utilisent de nombreux fichiers, encadrés par la loi et contrôlés par la CNIL : traitement des antécédents judiciaires, fichier des personnes recherchées, fichiers de renseignement, fichier judiciaire des auteurs d’infractions sexuelles ou violentes (FIJAIS, créé en 2004). La « fiche S », pour « sûreté de l’État », est une catégorie du fichier des personnes recherchées : elle signale une personne à surveiller discrètement, sans constituer une preuve ni une mesure judiciaire. En décembre 2020, des décrets ont élargi certains fichiers de renseignement à des mentions d’opinions politiques, de convictions religieuses ou d’appartenance syndicale ; le Conseil d’État les a validés en 2021.",
+  "enjeux": "Les uns veulent tirer des conséquences directes de l’inscription en fiche S, comme l’expulsion des étrangers concernés, ou étendre l’inscription dans les fichiers à de nouvelles infractions. Les autres rappellent qu’une fiche S n’est qu’un outil de renseignement et que son usage comme preuve fragiliserait la surveillance ; ils s’inquiètent aussi de l’extension du fichage des opinions.",
+  "reperes": [
+   "FIJAIS créé par la loi du 9 mars 2004",
+   "Décrets du 2 décembre 2020 sur les fichiers PASP, GIPASP et EASP"
+  ],
+  "liens": [
+   "renseignement-interieur",
+   "controle-d-honorabilite",
+   "reconnaissance-faciale"
+  ],
+  "motifs": [
+   "fichés S",
+   "fiché S",
+   "fiche S",
+   "fichier des délinquants sexuels",
+   "fichiers qui portent atteinte"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de supprimer les fichiers qui portent mention de l’appartenance syndicale, des convictions religieuses ou des opinions politiques.",
+    "appuis": [
+     "p1db46ffb"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le parti prévoit d’expulser systématiquement tous les fichés S étrangers.",
+    "appuis": [
+     "p32d6cd3b"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose d’expulser les fichés S étrangers et d’inscrire les harceleurs de rue au fichier des délinquants sexuels.",
+    "appuis": [
+     "p3fc4f386",
+     "p31ae95c1"
+    ]
+   }
+  }
+ },
+ {
+  "id": "renseignement-interieur",
+  "nom": "Renseignement intérieur",
+  "variantes": [
+   "DGSI",
+   "renseignements généraux",
+   "renseignement territorial"
+  ],
+  "categorie": "institution",
+  "theme": "securite",
+  "definition": "Le renseignement intérieur est principalement assuré par la direction générale de la sécurité intérieure (DGSI), créée en 2014, qui a succédé à la direction centrale du renseignement intérieur (DCRI), née en 2008 de la fusion de la direction de la surveillance du territoire (DST) et des renseignements généraux (RG). Le renseignement territorial, chargé d’une partie des anciennes missions des RG, relève de la police et de la gendarmerie. La loi du 24 juillet 2015 encadre les techniques de renseignement, sous le contrôle de la Commission nationale de contrôle des techniques de renseignement (CNCTR).",
+  "enjeux": "Une partie des responsables politiques juge que la suppression des RG en 2008 a affaibli le renseignement de proximité et propose de les recréer ou de privilégier le renseignement humain. D’autres demandent d’étendre l’action de la DGSI au narcotrafic. Le débat porte aussi sur l’équilibre entre techniques de surveillance et libertés.",
+  "reperes": [
+   "Fusion DST-RG en 2008",
+   "DGSI créée en 2014",
+   "Loi du 24 juillet 2015 relative au renseignement"
+  ],
+  "liens": [
+   "fichiers-de-police",
+   "prevention-de-la-radicalisation",
+   "etat-d-urgence"
+  ],
+  "motifs": [
+   "DGSI",
+   "renseignements généraux",
+   "DST",
+   "renseignement criminel",
+   "services de renseignement",
+   "moyens humains du renseignement"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de mieux prendre en compte la menace d’extrême droite par un effort de renseignement, d’analyse et de recherche.",
+    "appuis": [
+     "p9d22bc22"
+    ]
+   },
+   "horizons": {
+    "texte": "Le parti prévoit de mobiliser la DGSI sur le narcotrafic et de réformer le renseignement économique et financier.",
+    "appuis": [
+     "p270cd846"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de renforcer le renseignement humain en revenant sur la fusion de la DST et des RG.",
+    "appuis": [
+     "pba34f34c"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le parti prévoit un service national de renseignement criminel contre le narcotrafic.",
+    "appuis": [
+     "pdc5ec76b"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de recréer une grande direction des renseignements généraux et de renforcer la formation des agents du renseignement.",
+    "appuis": [
+     "pd05eef7f",
+     "p18ebbeef"
+    ]
+   }
+  }
+ },
+ {
+  "id": "parquets-specialises",
+  "nom": "Parquets et juridictions spécialisés",
+  "variantes": [
+   "PNAT",
+   "JIRS",
+   "PNACO",
+   "parquet national antiterroriste"
+  ],
+  "categorie": "institution",
+  "theme": "securite",
+  "definition": "Pour les infractions les plus complexes, la France a créé des juridictions et des parquets spécialisés à compétence nationale ou interrégionale. Les huit juridictions interrégionales spécialisées (JIRS), créées par la loi du 9 mars 2004, traitent la criminalité organisée et la grande délinquance financière. Le parquet national financier existe depuis 2013 et le parquet national antiterroriste (PNAT) depuis 2019. La loi du 13 juin 2025 visant à sortir la France du « piège du narcotrafic » a créé un parquet national anticriminalité organisée (PNACO), entré en fonction le 5 janvier 2026.",
+  "enjeux": "Le débat porte sur le maillage territorial de ces structures, sur leurs moyens humains et sur leur articulation avec les parquets locaux. Les partisans d’une spécialisation accrue estiment qu’elle est indispensable face aux réseaux structurés ; d’autres alertent sur la concentration des affaires et sur la charge des juridictions ordinaires.",
+  "reperes": [
+   "JIRS créées par la loi du 9 mars 2004",
+   "Parquet national antiterroriste créé en 2019",
+   "Parquet national anticriminalité organisée (PNACO) créé par la loi du 13 juin 2025, installé le 5 janvier 2026"
+  ],
+  "liens": [
+   "narcotrafic",
+   "saisie-des-avoirs-criminels",
+   "renseignement-interieur"
+  ],
+  "motifs": [
+   "JIRS",
+   "juridictions interrégionales spécialisées",
+   "parquet national antiterroriste",
+   "procureur national antiterroriste",
+   "PNACO",
+   "PNAT",
+   "cyber-parquet"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une JIRS dans chaque cour d’appel, en lien avec le PNACO et l’OFAST, et de leur confier les enquêtes de corruption et de blanchiment.",
+    "appuis": [
+     "pad13e68a",
+     "pca868b27"
+    ]
+   },
+   "lr": {
+    "texte": "Le parti prévoit un « cyber-parquet » contre la pédophilie et le harcèlement en ligne.",
+    "appuis": [
+     "pdcc03a90"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de nommer un procureur antiterroriste adjoint dans chacune des huit JIRS.",
+    "appuis": [
+     "p06233a4e"
+    ]
+   }
+  }
+ },
+ {
+  "id": "narcotrafic",
+  "nom": "Lutte contre le narcotrafic",
+  "variantes": [
+   "trafic de stupéfiants",
+   "criminalité organisée",
+   "OFAST"
+  ],
+  "categorie": "politique publique",
+  "theme": "securite",
+  "definition": "Le narcotrafic désigne la production, l’importation et la vente de stupéfiants par des réseaux organisés. La lutte est coordonnée par l’Office anti-stupéfiants (OFAST), créé en 2020, et mobilise police, gendarmerie, douanes et justice. Le trafic est puni par le code pénal de peines pouvant aller jusqu’à la réclusion criminelle à perpétuité pour la direction d’un réseau. La loi du 13 juin 2025 sur le narcotrafic a créé un parquet national spécialisé, en fonction depuis janvier 2026, et un régime de détention renforcé pour les trafiquants jugés les plus dangereux. Les opérations dites « place nette », lancées en 2024, visent des points de deal.",
+  "enjeux": "Tous les partis étudiés en font une priorité, mais avec des approches différentes : renforcement des moyens d’exception et des peines, ciblage du « portefeuille » des réseaux, ou politique de santé et de régulation des drogues. Le débat porte aussi sur l’usage des « opérations coup de poing » face au travail d’enquête de long terme, et sur le recrutement de mineurs par les réseaux.",
+  "reperes": [
+   "Office anti-stupéfiants créé en 2020",
+   "Loi du 13 juin 2025 visant à sortir la France du piège du narcotrafic"
+  ],
+  "liens": [
+   "parquets-specialises",
+   "saisie-des-avoirs-criminels",
+   "legalisation-du-cannabis",
+   "depenalisation-de-l-usage"
+  ],
+  "motifs": [
+   "narcotrafic",
+   "narcotrafiquant*",
+   "trafic de drogue",
+   "trafic de stupéfiants",
+   "trafiquants",
+   "réseaux de trafic",
+   "OFAST"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de privilégier le démantèlement des réseaux et la saisie des avoirs au nombre d’interpellations et d’engager un rapport de force avec les « pays refuges » des narcotrafiquants.",
+    "appuis": [
+     "pff95beef",
+     "pb676af81"
+    ]
+   },
+   "horizons": {
+    "texte": "Le parti prévoit des « moyens juridiques d’exception » limités dans le temps et dans l’espace, l’alignement de l’application des peines des grands trafiquants sur celle des terroristes et l’extension des opérations « place nette » aux lieux festifs.",
+    "appuis": [
+     "pf3dda90b",
+     "pd2af7628",
+     "p968069d6"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose des « brigades coup de poing » associant police, gendarmerie, justice et fisc contre les trafics.",
+    "appuis": [
+     "pa02621f7"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le parti prévoit davantage d’enquêteurs spécialisés, un service de renseignement criminel et un office national de lutte contre le blanchiment.",
+    "appuis": [
+     "pdc5ec76b"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose une force nationale regroupant police, justice, douanes et fisc, et l’expulsion des trafiquants et de leurs familles des logements sociaux.",
+    "appuis": [
+     "p56e12c9c",
+     "p0bdb4226"
+    ]
+   },
+   "rn": {
+    "texte": "Le parti prévoit de durcir la lutte contre le trafic et la consommation de drogue.",
+    "appuis": [
+     "pa9949cd2"
+    ]
+   }
+  }
+ },
+ {
+  "id": "saisie-des-avoirs-criminels",
+  "nom": "Saisie des avoirs criminels et lutte contre le blanchiment",
+  "variantes": [
+   "blanchiment",
+   "TRACFIN",
+   "AGRASC",
+   "financement du terrorisme"
+  ],
+  "categorie": "politique publique",
+  "theme": "securite",
+  "definition": "La lutte contre le blanchiment vise à empêcher que les produits d’activités criminelles soient réintroduits dans l’économie légale. TRACFIN, service de renseignement financier créé en 1990, reçoit les déclarations de soupçon des banques et d’autres professions. La saisie et la confiscation des avoirs criminels, gérées par l’Agence de gestion et de recouvrement des avoirs saisis et confisqués (AGRASC) depuis 2010, permettent de priver les auteurs du fruit de leurs infractions. Les mêmes outils servent contre le financement du terrorisme, y compris via les cryptoactifs.",
+  "enjeux": "Un large accord existe pour « frapper les réseaux au portefeuille ». Les divergences portent sur les moyens d’enquête financière, sur l’échelle européenne de la lutte et sur des outils nouveaux comme un profilage bancaire des condamnés, qui soulève des questions de protection des données.",
+  "reperes": [
+   "TRACFIN créé en 1990",
+   "AGRASC créée par la loi du 9 juillet 2010"
+  ],
+  "liens": [
+   "narcotrafic",
+   "parquets-specialises"
+  ],
+  "motifs": [
+   "avoirs criminels",
+   "saisir les avoirs",
+   "blanchiment",
+   "TRACFIN",
+   "renseignement financier",
+   "circuits financiers clandestins",
+   "multiplier les saisies",
+   "profil bancaire"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de privilégier la saisie des avoirs criminels et de lutter contre les circuits financiers clandestins des réseaux terroristes et criminels, notamment en cryptomonnaies.",
+    "appuis": [
+     "pff95beef",
+     "p3997c019"
+    ]
+   },
+   "horizons": {
+    "texte": "Le parti prévoit une réforme du renseignement financier pour saisir les avoirs, y compris en cryptomonnaies, et un profil bancaire spécifique pour les condamnés pour narcotrafic.",
+    "appuis": [
+     "p270cd846",
+     "p0bd87e85"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose une peine de déchéance des droits civiques pour les activités illicites finançant le terrorisme.",
+    "appuis": [
+     "p6a5ead00"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le parti prévoit de renforcer TRACFIN et de créer un office national de lutte contre le blanchiment.",
+    "appuis": [
+     "pdc5ec76b"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de multiplier les saisies contre les trafiquants grâce à une force nationale associant l’administration fiscale.",
+    "appuis": [
+     "p56e12c9c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "legalisation-du-cannabis",
+  "nom": "Légalisation du cannabis",
+  "variantes": [
+   "cannabis récréatif",
+   "régulation du cannabis"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "securite",
+  "definition": "La légalisation consiste à autoriser et encadrer la production, la vente et la consommation de cannabis par des adultes, sous le contrôle de l’État ou d’opérateurs agréés. En France, l’usage de stupéfiants est un délit depuis la loi du 31 décembre 1970, aujourd’hui le plus souvent sanctionné par une amende forfaitaire délictuelle. Plusieurs pays ont légalisé le cannabis récréatif, dont l’Uruguay en 2013, le Canada en 2018 et, de manière partielle, l’Allemagne en 2024. Une expérimentation du cannabis à usage médical a été menée en France à partir de 2021.",
+  "enjeux": "Ses partisans avancent qu’elle priverait les réseaux d’une ressource, permettrait une politique de santé et de prévention et générerait des recettes fiscales. Ses opposants craignent une hausse de la consommation, notamment chez les jeunes, des effets sanitaires et un report des trafiquants vers d’autres produits. Une partie des responsables propose d’abord un débat citoyen.",
+  "reperes": [
+   "Loi du 31 décembre 1970 relative aux mesures sanitaires de lutte contre la toxicomanie"
+  ],
+  "liens": [
+   "depenalisation-de-l-usage",
+   "amende-forfaitaire-delictuelle",
+   "narcotrafic"
+  ],
+  "motifs": [
+   "cannabis"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de légaliser et d’encadrer la production, la vente et la consommation de cannabis, avec une distribution réservée à des structures non lucratives.",
+    "appuis": [
+     "pbc9894d4",
+     "p12fa9f1a"
+    ]
+   },
+   "lfi": {
+    "texte": "Le parti prévoit de légaliser le cannabis récréatif et d’affecter les recettes de ses taxes à la lutte contre les addictions.",
+    "appuis": [
+     "p541a2adc",
+     "p96fe0e75"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une convention citoyenne sur la politique des drogues, notamment sur la légalisation du cannabis.",
+    "appuis": [
+     "pbf7ff302"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le parti cite l’amende forfaitaire pour usage de cannabis comme modèle à étendre à d’autres délits.",
+    "appuis": [
+     "p80a5c1ea"
+    ]
+   }
+  }
+ },
+ {
+  "id": "depenalisation-de-l-usage",
+  "nom": "Dépénalisation de l’usage de drogues",
+  "variantes": [
+   "usage de stupéfiants",
+   "réduction des risques"
+  ],
+  "categorie": "doctrine ou courant",
+  "theme": "securite",
+  "definition": "La dépénalisation consiste à ne plus traiter l’usage ou la détention de drogues pour usage personnel comme une infraction pénale, ou à le traiter par une simple sanction administrative, sans légaliser la vente. Le Portugal a adopté ce modèle en 2001 pour toutes les drogues, en orientant les usagers vers des commissions sanitaires et sociales. La politique de « réduction des risques » vise à limiter les dommages sanitaires de la consommation, par exemple par les salles de consommation à moindre risque. En France, l’usage reste un délit et les politiques récentes ont plutôt renforcé la répression de l’usage.",
+  "enjeux": "Ses partisans estiment que la pénalisation de l’usage empêche une politique sanitaire efficace et encombre les tribunaux. Ses opposants considèrent que sanctionner l’usage est nécessaire pour assécher la demande qui finance les trafics, et proposent au contraire de durcir les sanctions, y compris par des conséquences professionnelles.",
+  "reperes": [
+   "Réforme portugaise de 2001"
+  ],
+  "liens": [
+   "legalisation-du-cannabis",
+   "amende-forfaitaire-delictuelle",
+   "narcotrafic"
+  ],
+  "motifs": [
+   "usage de stupéfiant*",
+   "usage personnel",
+   "consommation de drogue",
+   "réduction des risques"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de dépénaliser l’usage, l’achat et la détention de toutes les drogues pour usage personnel, au profit de la prévention et de l’accompagnement.",
+    "appuis": [
+     "pe479de7d"
+    ]
+   },
+   "horizons": {
+    "texte": "Le parti prévoit de donner aux maires le pouvoir de sanctionner l’usage de stupéfiants et d’informer les employeurs publics des poursuites pour usage visant leurs agents.",
+    "appuis": [
+     "p08ddff45",
+     "p414f25ff"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de durcir la lutte contre la consommation de drogue.",
+    "appuis": [
+     "pa9949cd2"
+    ]
+   }
+  }
+ },
+ {
+  "id": "loi-integrale-vss",
+  "nom": "Loi intégrale contre les violences sexistes et sexuelles",
+  "variantes": [
+   "VSS",
+   "loi-cadre",
+   "modèle espagnol"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "securite",
+  "definition": "Une « loi intégrale » est une loi-cadre qui traite d’un même mouvement la prévention, la protection, l’accompagnement et la répression des violences faites aux femmes, avec des moyens dédiés. Le modèle de référence est la loi organique espagnole de 2004 sur les violences de genre, qui a notamment créé des juridictions spécialisées. En France, la revendication est portée par des associations féministes, dont certaines ont estimé à environ 2,6 milliards d’euros par an les besoins de financement. Le Grenelle des violences conjugales de 2019 a donné lieu à plusieurs lois sectorielles plutôt qu’à une loi unique.",
+  "enjeux": "Ses partisans soulignent que la dispersion des dispositifs et l’insuffisance des moyens limitent leur efficacité. Les autres partis abordent souvent ces violences par des mesures pénales ciblées, comme la rapidité des jugements ou l’alourdissement des sanctions, plutôt que par une loi-cadre.",
+  "reperes": [
+   "Loi organique espagnole du 28 décembre 2004 de protection intégrale contre les violences de genre",
+   "Grenelle des violences conjugales en 2019"
+  ],
+  "liens": [
+   "protection-des-victimes-de-violences-conjugales",
+   "consentement-viol"
+  ],
+  "motifs": [
+   "loi intégrale",
+   "violences sexistes et sexuelles",
+   "VSS",
+   "violences faites aux femmes",
+   "féminicides"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une loi intégrale contre les violences sexistes et sexuelles dotée de 3 milliards d’euros et une formation de la haute fonction publique à ces violences.",
+    "appuis": [
+     "pe059c754",
+     "pfbfd0044"
+    ]
+   },
+   "lfi": {
+    "texte": "Le parti prévoit une loi intégrale dotée de 2,6 milliards d’euros et un milliard d’euros contre les féminicides.",
+    "appuis": [
+     "p3c111385",
+     "pe7f5939b"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un plan inspiré de la politique espagnole doté d’un milliard d’euros et un ministère des droits des femmes de plein exercice.",
+    "appuis": [
+     "pc95b1ae1",
+     "pafcd9849"
+    ]
+   }
+  }
+ },
+ {
+  "id": "protection-des-victimes-de-violences-conjugales",
+  "nom": "Protection des victimes de violences conjugales",
+  "variantes": [
+   "bracelet anti-rapprochement",
+   "téléphone grave danger",
+   "ordonnance de protection",
+   "juridictions spécialisées"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "securite",
+  "definition": "Plusieurs outils protègent les victimes de violences conjugales. L’ordonnance de protection, créée en 2010, permet au juge aux affaires familiales d’imposer en urgence l’éloignement du conjoint violent. Le téléphone grave danger permet à la victime d’alerter un service de téléassistance relié aux forces de l’ordre. Le bracelet anti-rapprochement, créé par la loi du 28 décembre 2019, géolocalise l’auteur et déclenche une alerte s’il s’approche de la victime. Des pôles spécialisés dans les violences intrafamiliales ont été mis en place dans les juridictions.",
+  "enjeux": "Le débat porte surtout sur le nombre de dispositifs disponibles, sur les délais de délivrance des ordonnances de protection et sur la spécialisation des magistrats. Les partis qui s’inspirent du modèle espagnol proposent des juridictions dédiées dans chaque tribunal, d’autres insistent sur la rapidité du jugement des auteurs.",
+  "reperes": [
+   "Ordonnance de protection créée par la loi du 9 juillet 2010",
+   "Bracelet anti-rapprochement créé par la loi du 28 décembre 2019"
+  ],
+  "liens": [
+   "loi-integrale-vss",
+   "consentement-viol"
+  ],
+  "motifs": [
+   "bracelets anti-rapprochement",
+   "bracelet anti-rapprochement",
+   "téléphones grave danger",
+   "ordonnance de protection",
+   "ordonnances de protection",
+   "violences conjugales",
+   "conjoints violents",
+   "violences de genre"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose davantage de téléphones grave danger et de bracelets anti-rapprochement, et des magistrats spécialisés sur les violences de genre dans chaque tribunal, sur le modèle espagnol.",
+    "appuis": [
+     "p91d601fe",
+     "pfbeda26b"
+    ]
+   },
+   "lr": {
+    "texte": "Le parti prévoit des juges spécialisés pour les violences conjugales, une instruction en 72 heures et une ordonnance de protection en six jours.",
+    "appuis": [
+     "pdacc1a8e"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’accélérer les ordonnances de protection, de généraliser les bracelets anti-rapprochement et de renforcer les unités spécialisées.",
+    "appuis": [
+     "pc95b1ae1"
+    ]
+   },
+   "rn": {
+    "texte": "Le parti prévoit de juger les conjoints violents dans des délais très brefs et de rendre efficaces les mesures de protection des victimes.",
+    "appuis": [
+     "p1436c563"
+    ]
+   }
+  }
+ },
+ {
+  "id": "consentement-viol",
+  "nom": "Définition du viol fondée sur le consentement",
+  "variantes": [
+   "non-consentement",
+   "définition pénale du viol"
+  ],
+  "categorie": "notion juridique",
+  "theme": "securite",
+  "definition": "Pendant longtemps, le code pénal a défini le viol comme un acte de pénétration sexuelle commis par violence, contrainte, menace ou surprise, sans mentionner le consentement. De nombreuses associations et une partie des juristes demandaient d’inscrire explicitement l’absence de consentement au cœur de la définition, comme l’ont fait plusieurs pays européens. La loi du 6 novembre 2025 a intégré la notion de consentement dans la définition pénale du viol et des agressions sexuelles : tout acte sexuel non consenti constitue une agression sexuelle, le consentement devant être libre et éclairé, spécifique, préalable et révocable ; il ne peut être déduit du seul silence ou de la seule absence de réaction de la victime, et les critères de violence, contrainte, menace ou surprise sont conservés. Au niveau européen, la directive de 2024 sur les violences à l’égard des femmes n’a finalement pas retenu de définition commune du viol.",
+  "enjeux": "Ses partisans estiment qu’une définition fondée sur le consentement recentre l’enquête sur le comportement de l’auteur et correspond aux engagements de la convention d’Istanbul. Ses critiques ont craint que l’attention se porte davantage sur l’attitude de la victime, ou ont jugé que la jurisprudence prenait déjà en compte l’absence de consentement.",
+  "reperes": [
+   "Article 222-23 du code pénal",
+   "Convention du Conseil de l’Europe dite d’Istanbul, 2011",
+   "Loi n° 2025-1057 du 6 novembre 2025 visant à modifier la définition pénale du viol et des agressions sexuelles"
+  ],
+  "liens": [
+   "loi-integrale-vss",
+   "protection-des-victimes-de-violences-conjugales"
+  ],
+  "motifs": [
+   "non consenti",
+   "définition européenne du viol"
+  ],
+  "positions": {
+   "ps-pp": {
+    "texte": "Le programme propose d’inscrire dans la loi que tout acte de pénétration sexuelle non consenti constitue un viol et de soutenir une définition européenne fondée sur le consentement.",
+    "appuis": [
+     "p6ad4faed"
+    ]
+   }
+  }
+ },
+ {
+  "id": "controle-d-honorabilite",
+  "nom": "Contrôle d’honorabilité",
+  "variantes": [
+   "attestation d’honorabilité",
+   "interdiction d’exercer auprès des mineurs"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "securite",
+  "definition": "Le contrôle d’honorabilité consiste à vérifier qu’une personne appelée à travailler ou à intervenir auprès d’enfants n’a pas été condamnée pour certaines infractions, en particulier sexuelles ou violentes. Il repose sur la consultation du casier judiciaire et du FIJAIS. Il est obligatoire pour plusieurs métiers et pour certains bénévoles, notamment dans le sport et l’animation, et une attestation d’honorabilité a été progressivement déployée dans la protection de l’enfance. Les condamnations pour certaines infractions sur mineurs peuvent être assorties d’une interdiction d’exercer une activité au contact d’enfants.",
+  "enjeux": "Les propositions visent à étendre ce contrôle à tous les adultes au contact d’enfants, y compris bénévoles, et à rendre automatiques les interdictions. Les questions portent sur la faisabilité administrative, la mise à jour des fichiers et le sort des personnes écartées sans condamnation.",
+  "reperes": [
+   "Fichier judiciaire national automatisé des auteurs d’infractions sexuelles ou violentes (FIJAIS) créé en 2004"
+  ],
+  "liens": [
+   "fichiers-de-police"
+  ],
+  "motifs": [
+   "attestation d'honorabilité",
+   "fichier national",
+   "contact régulier avec des enfants",
+   "approchera un enfant",
+   "au contact d'enfants"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’étendre l’attestation d’honorabilité à tous les professionnels en contact régulier avec des enfants, notamment dans le sport, la culture et les loisirs.",
+    "appuis": [
+     "pa5b4b6cf"
+    ]
+   },
+   "lr": {
+    "texte": "Le parti prévoit de contrôler tout adulte au contact d’enfants, d’obliger les employeurs à signaler au fichier national l’adulte écarté et d’interdire définitivement le contact avec les enfants aux condamnés pour violence sexuelle sur mineur.",
+    "appuis": [
+     "p7b56a162",
+     "p45689f0e",
+     "pd466d458"
+    ]
+   }
+  }
+ },
+ {
+  "id": "depositaires-de-l-autorite-publique",
+  "nom": "Atteintes aux dépositaires de l’autorité publique",
+  "variantes": [
+   "dépositaire de l’autorité publique",
+   "protection fonctionnelle",
+   "agressions de policiers"
+  ],
+  "categorie": "notion juridique",
+  "theme": "securite",
+  "definition": "Un dépositaire de l’autorité publique est une personne investie d’un pouvoir de décision ou de contrainte au nom de l’État : policiers, gendarmes, magistrats, élus exécutifs ou agents pénitentiaires notamment. Les violences, menaces ou outrages commis contre eux sont plus sévèrement punis par le code pénal. Les personnes chargées d’une mission de service public, comme les enseignants ou les soignants, bénéficient aussi de circonstances aggravantes pour certaines infractions. La protection fonctionnelle oblige l’administration à protéger et à assister ses agents attaqués en raison de leurs fonctions.",
+  "enjeux": "Les propositions visent à alourdir encore les sanctions, à étendre le statut de dépositaire à de nouvelles professions ou à faciliter les plaintes des agents. Leurs critiques rappellent que les aggravations existent déjà et s’interrogent sur l’effet dissuasif de nouvelles hausses de peines.",
+  "reperes": [
+   "Code général de la fonction publique, protection fonctionnelle des agents"
+  ],
+  "liens": [
+   "peines-planchers",
+   "presomption-de-legitime-defense"
+  ],
+  "motifs": [
+   "dépositaires de l'autorité publique",
+   "dépositaire de l'autorité publique",
+   "protection fonctionnelle",
+   "dépositaires d'une mission de services publics"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose un an de prison ferme minimum pour les agresseurs de dépositaires de l’autorité publique et de reconnaître les professeurs comme dépositaires de cette autorité.",
+    "appuis": [
+     "p72d83d7e",
+     "p9c9dcd9c"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le parti prévoit une privation de droits civiques pour les auteurs d’agressions contre des dépositaires de l’autorité publique.",
+    "appuis": [
+     "p48837f6f"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de renforcer la protection fonctionnelle des fonctionnaires attaqués, de faire porter plainte par la hiérarchie et d’anonymiser les procédures pour les policiers attaqués.",
+    "appuis": [
+     "pf766ac4d",
+     "pb0d8bad0"
+    ]
+   }
+  }
+ },
+ {
+  "id": "squats",
+  "nom": "Expulsion des squatteurs",
+  "variantes": [
+   "occupation illégale",
+   "loi anti-squat",
+   "violation de domicile"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "securite",
+  "definition": "Le squat désigne l’occupation d’un logement ou d’un terrain sans droit ni titre. Lorsqu’il s’agit du domicile d’autrui, y compris une résidence secondaire, le propriétaire peut demander au préfet une évacuation administrative rapide, sans passer par le juge. La loi du 27 juillet 2023, dite loi Kasbarian-Bergé, a porté les peines encourues pour violation de domicile à trois ans d’emprisonnement et 45 000 euros d’amende, étendu la procédure administrative et accéléré les procédures en cas d’impayés locatifs. Pour les autres situations, l’expulsion suppose une décision de justice, puis le concours de la force publique.",
+  "enjeux": "Les partisans d’un durcissement demandent des délais d’expulsion encore plus courts et une indemnisation des propriétaires quand l’État n’exécute pas les décisions. Leurs critiques, dont les associations de lutte contre le mal-logement, s’inquiètent d’une assimilation des locataires en difficulté aux squatteurs et du risque de remise à la rue sans solution.",
+  "reperes": [
+   "Loi du 27 juillet 2023 visant à protéger les logements contre l’occupation illicite"
+  ],
+  "liens": [],
+  "motifs": [
+   "squatteur*",
+   "occupation illégale",
+   "occupations illégales",
+   "logement occupé illégalement"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose une expulsion administrative sous dix jours de toute occupation illégale, la possibilité de couper eau et électricité d’un logement squatté et l’exécution des décisions d’expulsion sous trente jours, sous peine d’indemnisation du propriétaire.",
+    "appuis": [
+     "pe5ee97e8",
+     "p1843518a",
+     "p8c2a7df2"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le parti prévoit d’expulser les squatteurs en moins de 72 heures grâce au recours obligatoire à la force publique et de renforcer les pouvoirs des maires contre les occupations illégales de terrains.",
+    "appuis": [
+     "p77605ac5",
+     "p47183fca"
+    ]
+   }
+  }
+ },
+ {
+  "id": "fermeture-des-lieux-de-culte",
+  "nom": "Fermeture des lieux de culte et lutte contre l’islamisme",
+  "variantes": [
+   "fermeture administrative des mosquées",
+   "dissolution administrative",
+   "Frères musulmans",
+   "idéologie islamiste"
+  ],
+  "categorie": "politique publique",
+  "theme": "securite",
+  "definition": "Le préfet peut ordonner la fermeture temporaire d’un lieu de culte lorsque les propos qui y sont tenus ou les activités qui s’y déroulent provoquent à la violence, à la haine ou au terrorisme ; cette possibilité vient de la loi SILT de 2017 et a été élargie par la loi de 2021 sur les principes de la République. Le gouvernement peut aussi dissoudre par décret des associations ou groupements de fait pour des motifs prévus par le code de la sécurité intérieure. Un rapport gouvernemental de 2025 sur les Frères musulmans et l’islamisme politique a relancé le débat sur l’« entrisme ». Le droit actuel ne prévoit pas d’infraction réprimant une idéologie en tant que telle.",
+  "enjeux": "Les uns proposent d’interdire des mouvements comme les Frères musulmans, de créer une législation spécifique contre « l’idéologie islamiste » et de fermer plus largement les mosquées jugées « radicales ». Les autres rappellent les exigences de la liberté de culte, de la liberté d’expression et de la laïcité, et préfèrent s’appuyer sur la police des cultes de la loi de 1905 et sur la répression des actes.",
+  "reperes": [
+   "Article L. 227-1 du code de la sécurité intérieure, issu de la loi du 30 octobre 2017",
+   "Article L. 212-1 du code de la sécurité intérieure sur la dissolution administrative"
+  ],
+  "liens": [
+   "loi-separatisme",
+   "prevention-de-la-radicalisation",
+   "fichiers-de-police"
+  ],
+  "motifs": [
+   "mosquées",
+   "Frères musulmans",
+   "salafisme",
+   "idéologie islamiste",
+   "idéologies islamistes",
+   "islamisme"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose de fermer les mosquées où sont tenus des « discours hostiles à la République ».",
+    "appuis": [
+     "p41a746e9"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le parti prévoit d’interdire les « Frères musulmans » et toute mouvance djihadiste et de fermer définitivement les lieux de promotion du salafisme.",
+    "appuis": [
+     "p7da2b02c"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de poursuivre la fermeture d’associations et de mosquées « radicales » et d’écoles clandestines, l’expulsion de prêcheurs radicalisés et le contrôle des financements étrangers.",
+    "appuis": [
+     "p82c5ae34"
+    ]
+   },
+   "rn": {
+    "texte": "Le parti prévoit une législation spécifique contre les « idéologies islamistes », l’interdiction de leur diffusion publique et la fermeture des mosquées « radicales ».",
+    "appuis": [
+     "p6b11ba7a",
+     "p43f6922c",
+     "p3fc4f386"
+    ]
+   }
+  }
+ },
+ {
+  "id": "prevention-de-la-radicalisation",
+  "nom": "Prévention de la radicalisation et lutte contre le terrorisme",
+  "variantes": [
+   "déradicalisation",
+   "embrigadement",
+   "djihadistes rapatriés"
+  ],
+  "categorie": "politique publique",
+  "theme": "securite",
+  "definition": "La prévention de la radicalisation regroupe les dispositifs de repérage et de prise en charge des personnes susceptibles de basculer dans la violence politique ou religieuse : signalements, cellules préfectorales de suivi, programmes d’accompagnement et quartiers d’évaluation en prison. Elle est coordonnée par un comité interministériel. La lutte antiterroriste relève, elle, du renseignement et de la justice spécialisée. La question du retour des Français partis rejoindre des groupes djihadistes en Syrie et en Irak, et de leurs enfants, a donné lieu à des rapatriements au cas par cas à partir de 2022.",
+  "enjeux": "Le débat porte sur l’efficacité des programmes de « déradicalisation », sur l’équilibre entre prévention sociale et répression, et sur la prise en compte des différentes menaces, djihadiste et d’ultradroite. Le rapatriement et le jugement en France des djihadistes détenus à l’étranger divisent également : certains y voient une exigence de sécurité et de justice, d’autres un risque.",
+  "reperes": [
+   "Parquet national antiterroriste compétent depuis 2019"
+  ],
+  "liens": [
+   "renseignement-interieur",
+   "fermeture-des-lieux-de-culte",
+   "parquets-specialises",
+   "etat-d-urgence"
+  ],
+  "motifs": [
+   "radicalisation",
+   "radicalisés",
+   "embrigadement",
+   "djihadistes rapatriés",
+   "lois antiterroristes",
+   "français·es de Syrie"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un plan de prévention de la radicalisation adapté aux zones où les recruteurs sont actifs, le rapatriement des prisonniers français de Syrie avec une réponse pénale et une meilleure prise en compte de la menace d’extrême droite.",
+    "appuis": [
+     "pb1097ebc",
+     "pf706deba",
+     "p9d22bc22"
+    ]
+   },
+   "lfi": {
+    "texte": "Le parti prévoit d’évaluer les lois antiterroristes, de lutter contre l’embrigadement et de soutenir les programmes de prise en charge des personnes suspectées.",
+    "appuis": [
+     "pd716e178",
+     "pe41a9714"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de juger en France les djihadistes rapatriés et une nouvelle stratégie nationale contre toutes les formes de radicalisation.",
+    "appuis": [
+     "p93a69111"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le parti prévoit de poursuivre l’expulsion de prêcheurs radicalisés.",
+    "appuis": [
+     "p82c5ae34"
+    ]
+   }
+  }
+ },
+ {
+  "id": "protection-des-lieux-de-culte",
+  "nom": "Protection des lieux de culte",
+  "variantes": [
+   "opération Sentinelle",
+   "sécurité des lieux cultuels"
+  ],
+  "categorie": "politique publique",
+  "theme": "securite",
+  "definition": "La protection des lieux de culte et des établissements communautaires repose sur des patrouilles et des gardes statiques de police, de gendarmerie et, depuis 2015, de militaires de l’opération Sentinelle. Le niveau de protection varie selon l’évaluation de la menace, notamment dans le cadre du plan Vigipirate. Les synagogues, écoles juives, mosquées et églises en font l’objet, en fonction des actes antisémites, antimusulmans ou antichrétiens recensés.",
+  "enjeux": "Le principe de cette protection fait consensus dans les textes qui l’abordent. Les débats portent sur le coût de ces dispositifs pour les forces de l’ordre et les armées, et sur la manière de nommer les cultes concernés.",
+  "reperes": [
+   "Opération Sentinelle lancée en janvier 2015"
+  ],
+  "liens": [
+   "prevention-de-la-radicalisation"
+  ],
+  "motifs": [
+   "lieux cultuels",
+   "lieux de culte",
+   "lieux culturels et religieux"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’assurer la sécurité de tous les lieux cultuels et culturels, juifs, musulmans, catholiques et protestants, en renforçant si nécessaire la protection policière.",
+    "appuis": [
+     "p83b5f6e6"
+    ]
+   },
+   "lfi": {
+    "texte": "Le parti prévoit d’assurer la sécurité des lieux cultuels et culturels juifs, musulmans et chrétiens en renforçant si nécessaire la protection policière.",
+    "appuis": [
+     "pccd4139b"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de maintenir et renforcer si nécessaire la protection policière et militaire des lieux culturels et religieux juifs et musulmans.",
+    "appuis": [
+     "p8cd12729"
+    ]
+   }
+  }
+ },
+ {
+  "id": "cybersecurite",
+  "nom": "Cybersécurité et cybercriminalité",
+  "variantes": [
+   "ANSSI",
+   "NIS 2",
+   "VIGINUM",
+   "cyberpatrouilleurs"
+  ],
+  "categorie": "politique publique",
+  "theme": "securite",
+  "definition": "La cybersécurité de l’État et des opérateurs essentiels relève de l’Agence nationale de la sécurité des systèmes d’information (ANSSI), créée en 2009 et rattachée au secrétariat général de la défense et de la sécurité nationale. La directive européenne NIS 2 de 2022 élargit fortement le nombre d’entités soumises à des obligations de sécurité. La lutte contre la cybercriminalité, qui vise les escroqueries, les rançongiciels ou les contenus illicites, mobilise des services spécialisés de police, de gendarmerie et de justice. VIGINUM, créé en 2021, détecte les ingérences numériques étrangères.",
+  "enjeux": "Un large accord existe sur la nécessité de renforcer les moyens, mais les propositions diffèrent par leur échelle : sécurisation de l’État et des réseaux vitaux, maillage territorial d’enquêteurs ou assistance aux particuliers. Le recrutement et la fidélisation de spécialistes face aux salaires du privé sont un défi commun.",
+  "reperes": [
+   "ANSSI créée en 2009",
+   "Directive européenne NIS 2 de décembre 2022",
+   "VIGINUM créé en 2021"
+  ],
+  "liens": [
+   "parquets-specialises"
+  ],
+  "motifs": [
+   "ANSSI",
+   "Agence nationale de la sécurité des systèmes d'information",
+   "NIS 2",
+   "cybersécurité",
+   "VIGINUM",
+   "cybercriminalité",
+   "cyberpatrouilleurs",
+   "pôles cybers",
+   "cyber-parquet"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de doter l’ANSSI de moyens suffisants et de créer des pôles cyber dans chaque grande juridiction.",
+    "appuis": [
+     "p76cdfb06",
+     "pe833c5fc"
+    ]
+   },
+   "lr": {
+    "texte": "Le parti prévoit un « plan Vauban numérique » piloté par l’ANSSI, l’accélération de la transposition de NIS 2 et le triplement des moyens de VIGINUM.",
+    "appuis": [
+     "pef805691",
+     "p5ac89b8f",
+     "p0b3e4662"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un programme « cyber sentinelle » avec des brigades spécialisées dans tout le pays et un renforcement de l’ANSSI.",
+    "appuis": [
+     "pb2cb2797"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de faire émerger des solutions françaises souveraines dans le cloud et la cybersécurité.",
+    "appuis": [
+     "pb5808faa"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le parti prévoit 1 500 cyberpatrouilleurs, un filtre anti-arnaques et davantage de moyens pour l’ANSSI.",
+    "appuis": [
+     "p7116970f",
+     "pde21f572",
+     "p57818117"
+    ]
+   }
+  }
+ }
+]

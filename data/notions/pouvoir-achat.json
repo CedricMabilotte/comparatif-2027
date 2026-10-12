@@ -1,0 +1,2380 @@
+[
+ {
+  "id": "smic",
+  "nom": "SMIC (salaire minimum interprofessionnel de croissance)",
+  "variantes": [
+   "salaire minimum",
+   "smic"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "pouvoir-achat",
+  "definition": "Le SMIC est le salaire horaire en dessous duquel aucun salarié ne peut être payé en France. Il a été créé en 1970 pour remplacer le SMIG, institué en 1950, qui suivait seulement les prix. Il est revalorisé chaque 1er janvier selon une formule légale qui tient compte de l'inflation subie par les ménages modestes et de la moitié du gain de pouvoir d'achat du salaire horaire de base des ouvriers et des employés ; une revalorisation automatique intervient en cours d'année quand l'inflation dépasse 2 %. Le gouvernement peut décider d'aller au-delà, ce que l'on appelle un « coup de pouce ». Les montants sont généralement débattus en net mensuel, alors que la loi fixe un montant brut horaire.",
+  "enjeux": "Ses partisans d'une forte hausse y voient le premier levier du pouvoir d'achat et de la lutte contre la pauvreté au travail. Ses opposants estiment qu'une hausse trop rapide pèse sur l'emploi peu qualifié et sur les petites entreprises, et préfèrent augmenter le salaire net par la baisse des cotisations. Le débat porte aussi sur le tassement des salaires autour du SMIC, qui résulte en partie des allègements de cotisations concentrés sur les bas salaires.",
+  "reperes": [
+   "Créé par la loi du 2 janvier 1970",
+   "Code du travail, articles L3231-1 et suivants",
+   "Revalorisation légale chaque 1er janvier"
+  ],
+  "liens": [
+   "indexation-des-salaires",
+   "allegements-de-cotisations",
+   "point-d-indice",
+   "salaire-maximum"
+  ],
+  "motifs": [
+   "SMIC",
+   "salaire minimum",
+   "salaire minimal"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de porter le salaire minimum à 2 000 euros brut par mois dès 2027.",
+    "appuis": [
+     "p31bc8dde"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de porter le SMIC à 1 400 euros net dès l'élection, puis à 1 600 euros net, et d'aligner l'AAH sur son niveau.",
+    "appuis": [
+     "p62ca5c77",
+     "p2cf37527",
+     "pd9b0c43c"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d'augmenter le SMIC de 200 euros net par mois et de le porter à 1 600 euros net dans les deux ans suivant l'arrivée au pouvoir.",
+    "appuis": [
+     "p6a8c5112",
+     "p42725c66"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prend le SMIC net comme plancher des pensions : il prévoit qu'aucune retraite d'une personne ayant cotisé toute sa vie ne soit inférieure au SMIC net.",
+    "appuis": [
+     "p46406374"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit une baisse des charges des indépendants qui augmenterait de 550 euros par an le revenu de ceux qui gagnent l'équivalent du SMIC.",
+    "appuis": [
+     "pddfb1aa6"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d'inciter les entreprises à augmenter les salaires de 10 % jusqu'à trois fois le SMIC, en exonérant ces hausses de l'augmentation des cotisations patronales pendant trois à cinq ans.",
+    "appuis": [
+     "pa0ea4c9c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "indexation-des-salaires",
+  "nom": "Indexation des salaires sur l'inflation",
+  "variantes": [
+   "échelle mobile des salaires"
+  ],
+  "categorie": "politique publique",
+  "theme": "pouvoir-achat",
+  "definition": "L'indexation des salaires consiste à faire évoluer automatiquement les rémunérations au rythme de la hausse des prix. En France, ce mécanisme, appelé « échelle mobile des salaires », a été abandonné au début des années 1980 lors de la politique de désinflation. Le droit interdit aujourd'hui, sauf exceptions, les clauses qui indexent un salaire sur le niveau général des prix ; seul le SMIC bénéficie d'une indexation légale. Plusieurs pays européens, comme la Belgique, pratiquent encore une indexation automatique.",
+  "enjeux": "Ses partisans y voient la seule garantie que les salaires ne perdent pas de pouvoir d'achat en période d'inflation. Ses opposants craignent une « boucle prix-salaires » qui entretiendrait l'inflation et pèserait sur la compétitivité. Le débat s'étend aux prestations sociales, aux pensions et au barème de l'impôt, dont l'indexation est décidée chaque année.",
+  "reperes": [
+   "Désindexation des salaires engagée en 1982-1983",
+   "Ordonnance du 30 décembre 1958 interdisant l'indexation sur le niveau général des prix"
+  ],
+  "liens": [
+   "smic",
+   "point-d-indice",
+   "impot-sur-le-revenu"
+  ],
+  "motifs": [
+   "indexer les salaires",
+   "indexation des salaires",
+   "échelle mobile des salaires"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose d'indexer les salaires sur l'inflation.",
+    "appuis": [
+     "pd9b0c43c"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose d'indexer le point d'indice des fonctionnaires sur l'inflation.",
+    "appuis": [
+     "p609343ef"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit d'indexer le point d'indice des fonctionnaires sur l'inflation et d'organiser des conférences salariales pour renégocier les grilles de rémunération des branches.",
+    "appuis": [
+     "p0eb80f7a",
+     "p09288efb"
+    ]
+   }
+  }
+ },
+ {
+  "id": "point-d-indice",
+  "nom": "Point d'indice de la fonction publique",
+  "variantes": [
+   "valeur du point",
+   "traitement des fonctionnaires"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "pouvoir-achat",
+  "definition": "Le traitement de base des fonctionnaires est obtenu en multipliant un indice, qui dépend du grade et de l'échelon, par la valeur du point d'indice, fixée par décret et commune aux trois fonctions publiques. Une hausse du point augmente donc mécaniquement la rémunération de tous les agents titulaires. Le point a été gelé pendant de longues périodes depuis 2010, entrecoupées de revalorisations, notamment en 2022 et 2023. Sa revalorisation pèse sur le budget de l'État, mais aussi sur celui des collectivités et des hôpitaux.",
+  "enjeux": "Les syndicats et les partis de gauche défendent une revalorisation ou une indexation du point pour compenser les pertes de pouvoir d'achat accumulées. D'autres courants privilégient des primes ciblées ou des revalorisations par métier, jugées moins coûteuses et plus liées au mérite. La question de la compensation pour les collectivités est régulièrement soulevée.",
+  "reperes": [
+   "Commun aux fonctions publiques d'État, territoriale et hospitalière",
+   "Hausse de 3,5 % en juillet 2022"
+  ],
+  "liens": [
+   "indexation-des-salaires",
+   "smic"
+  ],
+  "motifs": [
+   "point d'indice",
+   "traitement des fonctionnaires",
+   "traitements des fonctionnaires"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d'indexer le point d'indice sur l'inflation et d'augmenter de 10 % la rémunération des catégories C et B et de certaines catégories A.",
+    "appuis": [
+     "p609343ef",
+     "pc24899e6"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit une hausse de 10 % du point d'indice, « intégralement compensée pour les collectivités territoriales ».",
+    "appuis": [
+     "p2cf37527",
+     "p37911b9f"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d'indexer le point d'indice sur l'inflation et de corriger les écarts de rémunération entre ministères.",
+    "appuis": [
+     "p0eb80f7a"
+    ]
+   }
+  }
+ },
+ {
+  "id": "salaire-maximum",
+  "nom": "Salaire maximum et écart de rémunération de 1 à 20",
+  "variantes": [
+   "revenu maximum autorisé",
+   "écart de 1 à 20"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "pouvoir-achat",
+  "definition": "Le salaire maximum désigne une limite fixée à la rémunération la plus haute, soit en valeur absolue, soit par rapport aux salaires les plus bas ou au salaire médian d'une entreprise. Le ratio de 1 à 20 est souvent invoqué en référence à des propositions anciennes du mouvement syndical et de certains économistes. En France, un plafonnement existe seulement pour les dirigeants des entreprises publiques, dont la rémunération est limitée depuis 2012. Aucune règle de ce type ne s'applique aux entreprises privées.",
+  "enjeux": "Ses partisans y voient un moyen de réduire les inégalités et de lier la hausse des hauts salaires à celle des bas salaires. Ses opposants estiment qu'il ferait fuir les dirigeants et les talents, et serait contourné par d'autres formes de rémunération. Certains proposent une voie intermédiaire : conditionner les aides publiques au respect d'un écart maximal.",
+  "reperes": [
+   "Rémunération des dirigeants d'entreprises publiques plafonnée par décret en 2012"
+  ],
+  "liens": [
+   "smic",
+   "stock-options-et-actionnariat-salarie"
+  ],
+  "motifs": [
+   "salaire maximum",
+   "revenu maximum",
+   "écart de 1 à 20",
+   "écarts de rémunération",
+   "écarts de salaires"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose un « salaire maximum autorisé » limitant l'écart de 1 à 20 dans l'entreprise et un « revenu maximum autorisé » fixé à 20 fois le revenu médian.",
+    "appuis": [
+     "p869ecf6c",
+     "p4216398a"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme vise un écart de 1 à 20 entre le salaire des dirigeants et le salaire médian, en conditionnant toute aide publique à cet objectif.",
+    "appuis": [
+     "paaa5f5e4"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit de travailler à limiter les écarts de salaires dans une même entreprise, en s'appuyant sur une proposition de la Confédération européenne des syndicats.",
+    "appuis": [
+     "pd2c4ad45"
+    ]
+   }
+  }
+ },
+ {
+  "id": "blocage-des-prix",
+  "nom": "Blocage et encadrement des prix",
+  "variantes": [
+   "gel des prix",
+   "plafonnement des prix"
+  ],
+  "categorie": "politique publique",
+  "theme": "pouvoir-achat",
+  "definition": "Le blocage des prix consiste pour l'État à interdire toute hausse des prix de certains biens, tandis que l'encadrement fixe un plafond ou une marge maximale. En France, les prix sont libres depuis l'ordonnance de 1986, mais le Code de commerce permet au gouvernement de prendre, par décret, des mesures temporaires contre des hausses excessives en cas de crise ou de situation exceptionnelle. Des prix restent par ailleurs réglementés dans certains domaines, comme une partie de l'électricité ou les médicaments remboursés.",
+  "enjeux": "Ses partisans jugent le blocage indispensable pour protéger les ménages face à une inflation qu'ils attribuent en partie aux marges des entreprises. Ses opposants redoutent des pénuries, une baisse de qualité ou des hausses différées, et préfèrent des aides ciblées ou des baisses de taxes. La durée et le périmètre des produits concernés sont au cœur des désaccords.",
+  "reperes": [
+   "Liberté des prix posée par l'ordonnance du 1er décembre 1986",
+   "Code de commerce, article L410-2"
+  ],
+  "liens": [
+   "bouclier-qualite-prix",
+   "tva",
+   "fiscalite-des-carburants"
+  ],
+  "motifs": [
+   "blocage des prix",
+   "bloquer les prix",
+   "sera bloqué",
+   "encadrer les prix",
+   "encadrement des prix",
+   "plafonner le prix",
+   "plafonner les prix",
+   "gel des prix"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de bloquer par décret les prix des biens de première nécessité dans l'alimentation, l'énergie et les carburants, et de ramener le prix de l'essence à 1,40 euro.",
+    "appuis": [
+     "p797a818b",
+     "p67d0a515"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme prévoit un blocage des prix « dans les cas d'inflation anormale » et un encadrement des prix d'un panier de biens essentiels.",
+    "appuis": [
+     "pfd04d73a",
+     "p81466f98"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose, pour les outre-mer, de plafonner les prix des biens de première nécessité au-delà du bouclier qualité-prix.",
+    "appuis": [
+     "p1355e2cb"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme proposait, « dans le contexte de la crise ukrainienne », de plafonner le prix du carburant à 1,80 euro le litre.",
+    "appuis": [
+     "pa1b50125"
+    ]
+   }
+  }
+ },
+ {
+  "id": "bouclier-qualite-prix",
+  "nom": "Bouclier qualité-prix (outre-mer)",
+  "variantes": [
+   "BQP",
+   "bouclier-prix"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "pouvoir-achat",
+  "definition": "Le bouclier qualité-prix est un accord annuel négocié dans chaque territoire d'outre-mer, sous l'égide du préfet, entre l'État et la grande distribution. Il fixe un prix global maximal pour une liste de produits de consommation courante. Il a été créé par la loi relative à la régulation économique outre-mer de 2012, dite loi Lurel, en réponse aux mouvements contre la vie chère. Les prix y restent nettement plus élevés qu'en métropole, ce qui entretient le débat sur son efficacité.",
+  "enjeux": "Les uns souhaitent le renforcer, l'élargir ou le transformer en véritable plafonnement des prix. D'autres mettent l'accent sur la concurrence, la concentration des acteurs de la distribution et l'octroi de mer comme causes principales des écarts de prix.",
+  "reperes": [
+   "Loi du 20 novembre 2012 relative à la régulation économique outre-mer"
+  ],
+  "liens": [
+   "blocage-des-prix",
+   "octroi-de-mer",
+   "vie-chere-outre-mer"
+  ],
+  "motifs": [
+   "bouclier qualité-prix",
+   "bouclier qualité prix",
+   "BQP",
+   "bouclier-prix"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de renforcer la mise en œuvre et l'efficacité du bouclier qualité-prix, et de réformer le « bouclier-prix ».",
+    "appuis": [
+     "p168433ed",
+     "pdbcb6698"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de renforcer le bouclier qualité-prix pour les outre-mer, en complément du blocage des prix.",
+    "appuis": [
+     "p797a818b"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d'« aller au-delà du bouclier qualité-prix » en plafonnant les prix des produits essentiels.",
+    "appuis": [
+     "p1355e2cb"
+    ]
+   }
+  }
+ },
+ {
+  "id": "octroi-de-mer",
+  "nom": "Octroi de mer",
+  "variantes": [],
+  "categorie": "impôt ou prélèvement",
+  "theme": "pouvoir-achat",
+  "definition": "L'octroi de mer est une taxe ancienne, propre aux départements et régions d'outre-mer, qui frappe les biens importés et, dans une moindre mesure, certaines productions locales. Ses recettes financent principalement les communes et les collectivités ultramarines. Il déroge aux règles européennes de libre circulation et doit être autorisé périodiquement par le Conseil de l'Union européenne. Il est souvent cité parmi les causes de la cherté de la vie outre-mer.",
+  "enjeux": "Certains veulent le réformer ou le supprimer pour faire baisser les prix. D'autres rappellent qu'il protège les productions locales et constitue une ressource essentielle des communes, qu'il faudrait compenser.",
+  "reperes": [
+   "Applicable en Guadeloupe, Guyane, Martinique, à Mayotte et à La Réunion"
+  ],
+  "liens": [
+   "bouclier-qualite-prix",
+   "tva"
+  ],
+  "motifs": [
+   "octroi de mer"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de réformer le prélèvement et l'affectation de l'octroi de mer.",
+    "appuis": [
+     "pdbcb6698"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit de flécher une part des revenus de l'octroi de mer vers des investissements locaux.",
+    "appuis": [
+     "pac31a588"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit une « réforme de l'octroi de mer », confiée notamment à un ministère d'État de la Mer et de l'Outre-mer.",
+    "appuis": [
+     "p0b5afb4a",
+     "p68f6b55c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "tva",
+  "nom": "TVA (taxe sur la valeur ajoutée)",
+  "variantes": [
+   "taxe sur la valeur ajoutée",
+   "taux réduits de TVA"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "pouvoir-achat",
+  "definition": "La TVA est un impôt sur la consommation, payé par le consommateur final et collecté par les entreprises à chaque étape de la production. Inventée en France en 1954 par Maurice Lauré, elle est la première recette fiscale de l'État. Elle comporte un taux normal de 20 % et des taux réduits de 10 %, 5,5 % et 2,1 %, qui s'appliquent notamment à l'alimentation, à certains services ou aux médicaments. Ses règles sont encadrées par une directive européenne qui limite la liberté des États pour créer de nouveaux taux réduits.",
+  "enjeux": "Parce qu'elle pèse proportionnellement plus sur les ménages modestes, qui consomment une plus grande part de leur revenu, la baisser sur les produits de première nécessité ou sur l'énergie est une proposition récurrente. Ses défenseurs y voient un soutien direct au pouvoir d'achat ; ses critiques soulignent son coût élevé pour les finances publiques et le risque que la baisse ne soit pas répercutée sur les prix. D'autres proposent de moduler les taux selon l'impact environnemental ou le caractère de luxe des produits.",
+  "reperes": [
+   "Créée en 1954",
+   "Taux de 20 %, 10 %, 5,5 % et 2,1 %"
+  ],
+  "liens": [
+   "fiscalite-ecologique",
+   "accise-sur-l-electricite",
+   "fiscalite-des-carburants",
+   "blocage-des-prix"
+  ],
+  "motifs": [
+   "TVA",
+   "taxe sur la valeur ajoutée"
+  ],
+  "positions": {
+   "rn": {
+    "texte": "Le programme prévoit une baisse de la TVA sur l'ensemble des produits énergétiques, avec un contrôle de sa répercussion, et la suspension de la TVA sur une centaine de produits de première nécessité en cas de forte inflation.",
+    "appuis": [
+     "p90bfad0e",
+     "pc4a3e974",
+     "pb697929d"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de réduire la TVA sur les produits de première nécessité et de la financer par une « TVA grand luxe ».",
+    "appuis": [
+     "pa7805f87"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose une « TVA verte » différenciée selon l'impact environnemental et sanitaire, et des taux relevés sur les produits de luxe ou nocifs.",
+    "appuis": [
+     "p2273a170",
+     "p8fe1cd1b"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit de diminuer la facture énergétique et le prix du carburant par une baisse de la TVA.",
+    "appuis": [
+     "p162896e9"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de supprimer la TVA appliquée aux taxes pesant sur l'électricité et de réduire la TVA sur les biens culturels.",
+    "appuis": [
+     "pc01b1948",
+     "p7e57a430"
+    ]
+   }
+  }
+ },
+ {
+  "id": "isf",
+  "nom": "ISF (impôt de solidarité sur la fortune)",
+  "variantes": [
+   "impôt sur la fortune",
+   "ISF climatique"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "pouvoir-achat",
+  "definition": "L'ISF était un impôt annuel sur le patrimoine net des ménages dépassant un certain seuil, qui incluait les biens immobiliers, les placements financiers et les autres actifs, avec des exonérations comme celle des biens professionnels. Créé en 1982 sous le nom d'impôt sur les grandes fortunes, supprimé en 1987, il a été rétabli en 1989. Il a été supprimé au 1er janvier 2018 et remplacé par l'impôt sur la fortune immobilière (IFI), qui ne porte plus que sur l'immobilier. Son rétablissement est devenu un marqueur du débat sur la justice fiscale.",
+  "enjeux": "Ses partisans considèrent sa suppression comme un avantage accordé aux plus fortunés et demandent son retour, parfois avec un volet climatique qui taxerait davantage les actifs polluants. Ses opposants estiment qu'il provoquait des départs de contribuables et freinait l'investissement dans les entreprises. Les évaluations de la suppression de 2018, menées notamment par France Stratégie, alimentent les deux camps.",
+  "reperes": [
+   "Impôt sur les grandes fortunes créé en 1982",
+   "ISF institué en 1989",
+   "Remplacé par l'IFI au 1er janvier 2018"
+  ],
+  "liens": [
+   "ifi",
+   "taxe-zucman",
+   "exit-tax",
+   "fiscalite-ecologique"
+  ],
+  "motifs": [
+   "ISF",
+   "impôt de solidarité sur la fortune"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de rétablir un ISF « renforcé avec un volet climatique ».",
+    "appuis": [
+     "pdd3eb2b0",
+     "pf871ff13"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme prévoit de rétablir l'ISF en lui ajoutant une « composante climatique » destinée à orienter le patrimoine vers des actifs verts.",
+    "appuis": [
+     "pfc096279"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un « ISF Climat et Biodiversité ».",
+    "appuis": [
+     "pb78ec8c3"
+    ]
+   }
+  }
+ },
+ {
+  "id": "ifi",
+  "nom": "IFI (impôt sur la fortune immobilière)",
+  "variantes": [
+   "impôt sur la fortune immobilière",
+   "impôt sur la fortune financière",
+   "IFF"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "pouvoir-achat",
+  "definition": "L'IFI est un impôt annuel qui frappe les ménages dont le patrimoine immobilier net dépasse 1,3 million d'euros. Il a remplacé l'ISF en 2018 et exclut les placements financiers, les actions et les autres actifs mobiliers. Son barème est progressif et reprend celui de l'ancien ISF. La résidence principale bénéficie d'un abattement.",
+  "enjeux": "Ses défenseurs estiment que l'immobilier est un patrimoine moins productif que l'investissement dans les entreprises. Ses critiques lui reprochent, selon les camps, soit de ne pas taxer les grandes fortunes financières, soit de pénaliser la propriété et la transmission du patrimoine immobilier.",
+  "reperes": [
+   "En vigueur depuis le 1er janvier 2018",
+   "Seuil d'imposition de 1,3 million d'euros"
+  ],
+  "liens": [
+   "isf",
+   "droits-de-succession"
+  ],
+  "motifs": [
+   "IFI",
+   "impôt sur la fortune immobilière",
+   "IFF",
+   "impôt sur la fortune financière"
+  ],
+  "positions": {
+   "rn": {
+    "texte": "Le programme propose de remplacer l'IFI par un « impôt sur la fortune financière » (IFF), au motif que l'IFI « épargne de tout effort contributif les fortunes exclusivement mobilières ».",
+    "appuis": [
+     "p143467b7"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme prévoit de permettre de déduire de l'IFI 50 % des sommes investies dans les start-ups et les PME françaises.",
+    "appuis": [
+     "pe0b74902"
+    ]
+   }
+  }
+ },
+ {
+  "id": "taxe-zucman",
+  "nom": "Taxe Zucman",
+  "variantes": [
+   "impôt Zucman",
+   "impôt plancher sur les ultra-riches"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "pouvoir-achat",
+  "definition": "La taxe Zucman, du nom de l'économiste Gabriel Zucman, est un impôt plancher de 2 % par an sur le patrimoine des personnes dont la fortune dépasse 100 millions d'euros. Il s'agit d'un impôt minimum : le contribuable ne paierait que la différence entre ce montant et les impôts qu'il acquitte déjà. L'idée a été portée au niveau international, notamment dans le cadre du G20 en 2024. En France, une proposition de loi en ce sens, déposée par des députés écologistes, a été adoptée par l'Assemblée nationale le 20 février 2025, puis rejetée par le Sénat le 12 juin 2025. Des amendements reprenant cette taxe ont de nouveau été rejetés par l'Assemblée nationale le 31 octobre 2025, lors de l'examen du projet de loi de finances pour 2026. Le nom de Gabriel Zucman est parfois associé, dans le débat, à d'autres propositions d'imposition, notamment des multinationales.",
+  "enjeux": "Ses partisans soutiennent que les très grandes fortunes paient proportionnellement moins d'impôts que les autres contribuables, car leurs revenus restent dans des sociétés. Ses opposants estiment qu'elle obligerait à céder des parts d'entreprises, encouragerait l'exil fiscal et rapporterait moins que prévu. Le traitement des biens professionnels et des entreprises familiales est au cœur du débat.",
+  "reperes": [
+   "Seuil de 100 millions d'euros et taux de 2 %",
+   "Proposition de loi adoptée à l'Assemblée nationale le 20 février 2025, rejetée par le Sénat le 12 juin 2025",
+   "Amendements rejetés à l'Assemblée nationale le 31 octobre 2025, lors du budget pour 2026"
+  ],
+  "liens": [
+   "isf",
+   "exit-tax",
+   "impot-minimum-sur-les-multinationales"
+  ],
+  "motifs": [
+   "Zucman"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une taxe Zucman de 2 % au-delà de 100 millions d'euros de patrimoine.",
+    "appuis": [
+     "p843f3472"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose d'instaurer « l'impôt Zucman sur les bénéfices des multinationales ».",
+    "appuis": [
+     "p462a061e"
+    ]
+   }
+  }
+ },
+ {
+  "id": "flat-tax",
+  "nom": "Flat tax (prélèvement forfaitaire unique)",
+  "variantes": [
+   "PFU",
+   "prélèvement forfaitaire unique"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "pouvoir-achat",
+  "definition": "Le prélèvement forfaitaire unique, souvent appelé flat tax, impose les revenus du capital (dividendes, intérêts, plus-values sur valeurs mobilières) à un taux unique. Mis en place au 1er janvier 2018, il était fixé à 30 %, dont 12,8 % d'impôt sur le revenu et 17,2 % de prélèvements sociaux. La loi de financement de la sécurité sociale pour 2026 a relevé de 1,4 point la CSG sur une grande partie de ces revenus, ce qui porte le taux global à 31,4 % pour les revenus concernés ; l'assurance-vie, l'épargne logement et les plus-values immobilières en restent exclues. Le contribuable peut opter pour le barème progressif de l'impôt sur le revenu s'il y gagne. Il a remplacé l'imposition de ces revenus au barème, qui pouvait atteindre des taux plus élevés pour les ménages aisés.",
+  "enjeux": "Ses défenseurs estiment qu'il rend la fiscalité du capital lisible et comparable à celle des pays voisins, et favorise l'investissement. Ses opposants y voient un traitement plus favorable des revenus du capital que des revenus du travail, et demandent soit sa suppression, soit une hausse de son taux.",
+  "reperes": [
+   "En vigueur depuis le 1er janvier 2018",
+   "Taux de 30 % à sa création",
+   "Porté à 31,4 % pour la plupart des revenus de placement par la loi du 30 décembre 2025 de financement de la sécurité sociale pour 2026"
+  ],
+  "liens": [
+   "csg",
+   "impot-sur-le-revenu",
+   "isf"
+  ],
+  "motifs": [
+   "flat tax",
+   "prélèvement forfaitaire unique",
+   "PFU"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de supprimer la flat tax et d'imposer les revenus du capital comme ceux du travail.",
+    "appuis": [
+     "p6a97437c",
+     "peef99447"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme prévoit d'augmenter la flat tax de 3 points.",
+    "appuis": [
+     "p547324d6"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose d'ouvrir, sur option, le prélèvement forfaitaire unique de 30 % aux revenus des bailleurs dont le patrimoine est déjà amorti.",
+    "appuis": [
+     "p5290cfc2"
+    ]
+   }
+  }
+ },
+ {
+  "id": "impot-sur-le-revenu",
+  "nom": "Impôt sur le revenu : barème, tranches et progressivité",
+  "variantes": [
+   "IR",
+   "barème progressif",
+   "tranches d'imposition"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "pouvoir-achat",
+  "definition": "L'impôt sur le revenu est calculé par foyer fiscal selon un barème progressif : chaque tranche de revenu est imposée à un taux croissant, de 0 % à 45 %, le taux marginal ne s'appliquant qu'à la part du revenu qui dépasse le seuil. Créé en 1914, il est prélevé à la source depuis 2019. Le barème est normalement revalorisé chaque année pour tenir compte de l'inflation, faute de quoi des ménages paient davantage sans gagner plus. Moins de la moitié des foyers fiscaux acquittent cet impôt, qui ne représente qu'une partie des prélèvements sur les revenus, à côté de la CSG.",
+  "enjeux": "La gauche propose d'ajouter des tranches et de renforcer la progressivité, en allégeant l'impôt des revenus moyens. La droite et l'extrême droite défendent plutôt des exonérations ciblées (jeunes, heures supplémentaires, primes) et l'indexation du barème. Le débat oppose aussi les partisans d'une fusion avec la CSG à ceux qui veulent garder deux impôts distincts.",
+  "reperes": [
+   "Créé par la loi du 15 juillet 1914",
+   "Prélèvement à la source depuis le 1er janvier 2019",
+   "Cinq tranches : 0 %, 11 %, 30 %, 41 % et 45 %"
+  ],
+  "liens": [
+   "quotient-familial",
+   "csg",
+   "flat-tax",
+   "niches-fiscales"
+  ],
+  "motifs": [
+   "impôt sur le revenu",
+   "barème de l'IR",
+   "deux tranches",
+   "14 tranches",
+   "tranches les plus basses",
+   "nouvelle tranche",
+   "progressivité de l'impôt",
+   "impôt citoyen"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de porter le barème à 14 tranches et de créer un « impôt citoyen » ; il annonce que les foyers gagnant jusqu'à 4 000 euros par mois paieront moins d'impôts.",
+    "appuis": [
+     "pb8c9cfda",
+     "p5733e2cb",
+     "pfeaf9411"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme prévoit de diminuer l'impôt des tranches les plus basses et de créer une tranche à 60 % au-delà de 250 000 euros annuels.",
+    "appuis": [
+     "p9c2c43b3",
+     "p8085aa63"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose d'indexer le barème de l'impôt sur le revenu sur l'inflation et de supprimer cet impôt pour les moins de 30 ans.",
+    "appuis": [
+     "p53d76010",
+     "p4ad84253"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de maintenir l'exonération d'impôt sur le revenu des heures supplémentaires et de permettre aux familles qui achètent leur résidence principale de déduire une part des intérêts d'emprunt.",
+    "appuis": [
+     "pda6acf5e",
+     "p6b1a200e"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de permettre à tous les couples vivant ensemble de réduire leurs impôts comme s'ils étaient mariés ou pacsés.",
+    "appuis": [
+     "pbaa6ff27"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme prévoit d'exonérer d'impôt sur le revenu les heures supplémentaires et le déblocage de la prime de participation.",
+    "appuis": [
+     "pe7e6cd1e",
+     "p4e0a1933"
+    ]
+   }
+  }
+ },
+ {
+  "id": "quotient-familial",
+  "nom": "Quotient familial et parts fiscales",
+  "variantes": [
+   "demi-part fiscale",
+   "quotient conjugal"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "pouvoir-achat",
+  "definition": "Le quotient familial consiste à diviser le revenu imposable d'un foyer par un nombre de parts qui dépend de sa composition : deux parts pour un couple marié ou pacsé, une demi-part pour chacun des deux premiers enfants, une part entière à partir du troisième. L'impôt est calculé sur ce revenu par part, puis multiplié par le nombre de parts, ce qui réduit l'effet de la progressivité pour les familles. L'avantage procuré par chaque demi-part est plafonné. Instauré en 1945, il est l'un des piliers de la politique familiale française. Une demi-part supplémentaire existe pour certaines personnes seules, dont une partie des veufs et veuves.",
+  "enjeux": "Ses défenseurs y voient la reconnaissance fiscale des charges de famille et un soutien à la natalité. Ses critiques relèvent que l'avantage croît avec le revenu et proposent de le remplacer par un crédit d'impôt ou une allocation identique pour chaque enfant. Le débat porte aussi sur la demi-part des veufs, restreinte par la loi de finances pour 2009, et sur l'imposition commune des couples non mariés.",
+  "reperes": [
+   "Instauré en 1945",
+   "Avantage plafonné par demi-part"
+  ],
+  "liens": [
+   "impot-sur-le-revenu",
+   "allocations-familiales"
+  ],
+  "motifs": [
+   "quotient familial",
+   "part fiscale",
+   "demi-part fiscale",
+   "demi part",
+   "comme s'ils étaient mariés"
+  ],
+  "positions": {
+   "rn": {
+    "texte": "Le programme propose d'accorder une part fiscale complète dès le deuxième enfant et de généraliser la demi-part pour les veuves et les veufs.",
+    "appuis": [
+     "p45ecea76",
+     "p1ed81c9b"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme prévoit de doubler le plafond du quotient familial et de rétablir la demi-part fiscale des veuves et veufs.",
+    "appuis": [
+     "p7186b4c4",
+     "p0114088f"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose d'étendre l'imposition commune à tous les couples vivant ensemble, mariés ou non.",
+    "appuis": [
+     "pbaa6ff27"
+    ]
+   }
+  }
+ },
+ {
+  "id": "csg",
+  "nom": "CSG (contribution sociale généralisée)",
+  "variantes": [
+   "contribution sociale généralisée",
+   "CSG progressive"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "pouvoir-achat",
+  "definition": "La CSG est un prélèvement proportionnel qui frappe presque tous les revenus : salaires, pensions, allocations chômage, revenus du patrimoine et des placements. Créée en 1990 par le gouvernement de Michel Rocard au taux de 1,1 %, elle est devenue l'une des premières recettes publiques et finance la Sécurité sociale. Ses taux varient selon la nature du revenu, et les retraités modestes en sont exonérés ou bénéficient d'un taux réduit. Contrairement à l'impôt sur le revenu, elle n'est pas progressive.",
+  "enjeux": "Une partie de la gauche propose de la rendre progressive ou de la fusionner avec l'impôt sur le revenu. Une partie de la droite et de l'extrême droite propose de la baisser pour augmenter le salaire net des travailleurs modestes. La hausse de la CSG sur les revenus du capital est aussi débattue comme un moyen de rapprocher leur fiscalité de celle du travail.",
+  "reperes": [
+   "Créée par la loi de finances pour 1991",
+   "Taux initial de 1,1 %",
+   "Taux sur la plupart des revenus du patrimoine et de placement relevé de 1,4 point par la loi de financement de la sécurité sociale pour 2026"
+  ],
+  "liens": [
+   "impot-sur-le-revenu",
+   "flat-tax",
+   "allegements-de-cotisations",
+   "minimum-contributif",
+   "cumul-emploi-retraite"
+  ],
+  "motifs": [
+   "CSG",
+   "contribution sociale généralisée"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de rendre la CSG progressive.",
+    "appuis": [
+     "p004a4b48"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme prévoit de rendre la CSG progressive pour combler le déficit de l'assurance maladie et d'augmenter de 3 points son taux sur les revenus du capital.",
+    "appuis": [
+     "p9f670aaa",
+     "pf7691333"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose d'augmenter le salaire des travailleurs modestes par une baisse de la CSG et d'exonérer de CSG les petites retraites.",
+    "appuis": [
+     "p50fea32c",
+     "p6b68dec9"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d'indexer la CSG sur l'inflation, au même titre que le barème de l'impôt sur le revenu.",
+    "appuis": [
+     "p53d76010"
+    ]
+   }
+  }
+ },
+ {
+  "id": "droits-de-succession",
+  "nom": "Droits de succession et de donation",
+  "variantes": [
+   "impôt sur l'héritage",
+   "droits de mutation à titre gratuit",
+   "héritage maximum"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "pouvoir-achat",
+  "definition": "Les droits de succession sont dus par les héritiers sur les biens reçus au décès d'un proche ; les droits de donation s'appliquent aux transmissions de son vivant. En ligne directe, entre parents et enfants, chaque enfant bénéficie d'un abattement de 100 000 euros par parent, renouvelable tous les quinze ans, puis d'un barème progressif qui atteint 45 %. Les taux sont bien plus élevés entre frères et sœurs ou personnes sans lien de parenté. De nombreux dispositifs, comme l'assurance-vie ou le pacte Dutreil, permettent de réduire fortement l'imposition des transmissions.",
+  "enjeux": "La droite et l'extrême droite proposent de supprimer ces droits pour la grande majorité des familles, au nom du droit de transmettre le fruit de son travail. La gauche juge au contraire que l'héritage concentre les inégalités et propose de renforcer la progressivité, voire de plafonner l'héritage, tout en épargnant les petites successions. Le constat que la plupart des successions ne paient déjà pas de droits est mis en avant par les deux camps.",
+  "reperes": [
+   "Abattement de 100 000 euros par enfant et par parent",
+   "Délai de rappel fiscal des donations de quinze ans"
+  ],
+  "liens": [
+   "pacte-dutreil",
+   "ifi",
+   "isf"
+  ],
+  "motifs": [
+   "droits de succession",
+   "impôt sur les successions",
+   "impôt sur l'héritage",
+   "impôts sur l'héritage",
+   "droits de donation",
+   "héritage maximum",
+   "dons familiaux"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de rendre l'impôt sur l'héritage plus progressif en ciblant les plus hauts patrimoines et d'instaurer un « héritage maximum » de 12 millions d'euros.",
+    "appuis": [
+     "p521316e1",
+     "pf871ff13"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme prévoit d'affecter une partie des droits de succession au financement de la branche autonomie et de mettre en place un barème progressif unique comprenant deux tranches supplémentaires, au-delà de 4 et de 13 millions d'euros.",
+    "appuis": [
+     "pbde9c307",
+     "pe0f0c717"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un « grand chantier fiscal » pour rééquilibrer la taxation entre le travail, le capital, l'héritage et les retraites, jugeant que le système actuel « favorise les héritiers ».",
+    "appuis": [
+     "pbf8bd6f9"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit l'absence d'impôt sur les successions jusqu'à 150 000 euros par enfant et jusqu'à 100 000 euros pour les autres membres de la famille.",
+    "appuis": [
+     "p62bdc651"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de supprimer les droits de succession pour 95 % des Français et de relever temporairement le plafond des dons familiaux exonérés.",
+    "appuis": [
+     "pf6f66ef0",
+     "pcdea7d47"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme prévoit d'exonérer 95 % des Français des droits de donation et de succession.",
+    "appuis": [
+     "p8819b77c"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de supprimer l'impôt sur l'héritage direct pour les familles modestes et moyennes, d'exclure 300 000 euros de biens immobiliers de l'assiette et d'exonérer les donations jusqu'à 100 000 euros par descendant tous les dix ans.",
+    "appuis": [
+     "pf705fd83",
+     "pf9a44d85",
+     "p1b65956c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "pacte-dutreil",
+  "nom": "Pacte Dutreil et transmission d'entreprise",
+  "variantes": [
+   "abattement Dutreil"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "pouvoir-achat",
+  "definition": "Le pacte Dutreil permet de transmettre une entreprise familiale en n'étant imposé aux droits de succession ou de donation que sur un quart de la valeur des titres, à condition que les héritiers s'engagent à les conserver plusieurs années et que l'un d'eux exerce une fonction de direction. Il porte le nom de Renaud Dutreil, ministre à l'origine de son extension en 2003. Il vise à éviter que des entreprises doivent être vendues pour payer les droits de transmission.",
+  "enjeux": "Ses défenseurs y voient un outil indispensable à la pérennité des entreprises familiales et des ETI. Ses critiques estiment qu'il bénéficie surtout aux très grands patrimoines professionnels et proposent de le plafonner. Certains partis veulent au contraire aller plus loin et exonérer totalement les transmissions d'entreprises.",
+  "reperes": [
+   "Loi du 1er août 2003 pour l'initiative économique",
+   "Exonération de 75 % de la valeur des titres transmis"
+  ],
+  "liens": [
+   "droits-de-succession",
+   "niches-fiscales"
+  ],
+  "motifs": [
+   "Dutreil",
+   "transmission des entreprises familiales",
+   "transmissions de TPE",
+   "droits de mutation"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de plafonner l'abattement Dutreil à 50 % au-delà de 50 millions d'euros.",
+    "appuis": [
+     "p1b22491c"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de supprimer la fiscalité sur les transmissions de TPE, PME et ETI en échange d'un engagement de détention de dix ans, et de modifier en ce sens le pacte Dutreil.",
+    "appuis": [
+     "p6c16e15f",
+     "pcccfe057"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de supprimer les droits de donation et de succession sur la transmission des entreprises familiales.",
+    "appuis": [
+     "p9d1b39d9"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de calculer les droits de mutation à la date de la transmission mais d'en différer l'exigibilité jusqu'à la cession, notamment pour les exploitations agricoles.",
+    "appuis": [
+     "p31d7c02d",
+     "p94b68367"
+    ]
+   }
+  }
+ },
+ {
+  "id": "exit-tax",
+  "nom": "Exit tax",
+  "variantes": [
+   "taxe sur l'exil fiscal"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "pouvoir-achat",
+  "definition": "L'exit tax impose les plus-values latentes sur les titres détenus par une personne qui transfère son domicile fiscal hors de France. Elle vise à éviter qu'un contribuable s'installe à l'étranger juste avant de vendre ses actions pour échapper à l'impôt français. Créée en 2011, elle a été fortement allégée en 2019, avec un délai de conservation raccourci au-delà duquel l'impôt est abandonné. Son champ est limité par le droit européen de la libre circulation.",
+  "enjeux": "Ses partisans veulent la rétablir dans sa forme initiale ou l'étendre pour décourager l'exil fiscal. Ses opposants estiment qu'elle nuit à l'attractivité de la France pour les entrepreneurs et rapporte peu.",
+  "reperes": [
+   "Créée par la loi de finances rectificative de 2011",
+   "Allégée par la loi de finances pour 2019"
+  ],
+  "liens": [
+   "isf",
+   "taxe-zucman",
+   "fraude-et-evasion-fiscales"
+  ],
+  "motifs": [
+   "exit tax"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de rétablir l'exit tax.",
+    "appuis": [
+     "peef99447"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme prévoit d'étendre les conditions de l'exit tax pour maintenir une contribution des « émigrés fiscaux ».",
+    "appuis": [
+     "pbda31858"
+    ]
+   }
+  }
+ },
+ {
+  "id": "niches-fiscales",
+  "nom": "Niches fiscales",
+  "variantes": [
+   "dépenses fiscales",
+   "avantages fiscaux",
+   "niches"
+  ],
+  "categorie": "notion économique",
+  "theme": "pouvoir-achat",
+  "definition": "Une niche fiscale est une disposition qui réduit l'impôt dû par certains contribuables ou pour certaines activités : réduction ou crédit d'impôt, exonération, abattement, taux réduit. L'administration les appelle « dépenses fiscales » et en publie chaque année la liste en annexe du projet de loi de finances ; on en compte plusieurs centaines. Pour l'impôt sur le revenu, la plupart sont soumises à un plafonnement global par foyer. Elles servent à orienter les comportements (emploi à domicile, dons, investissement, rénovation), mais leur efficacité est inégalement évaluée.",
+  "enjeux": "Tous les partis disent vouloir supprimer les niches « inefficaces », mais ne visent pas les mêmes. La gauche et les écologistes ciblent celles qui profitent aux plus aisés, aux grandes entreprises ou aux énergies fossiles. La droite et l'extrême droite défendent plutôt certaines niches liées à la famille, au travail ou aux indépendants, et en ciblent d'autres, comme celles de certaines professions.",
+  "reperes": [
+   "Liste annuelle dans l'annexe Voies et moyens du projet de loi de finances",
+   "Plafonnement global à 10 000 euros par foyer pour la plupart des niches de l'impôt sur le revenu"
+  ],
+  "liens": [
+   "fiscalite-ecologique",
+   "pacte-dutreil",
+   "credit-d-impot-recherche",
+   "impot-sur-le-revenu"
+  ],
+  "motifs": [
+   "niche fiscale",
+   "niches fiscales",
+   "niches polluantes",
+   "niche Copé",
+   "niche journalistes",
+   "avantages fiscaux",
+   "dépenses fiscales"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de plafonner le montant total des niches par foyer, de supprimer progressivement les niches favorables aux énergies fossiles et la « niche Copé ».",
+    "appuis": [
+     "pfa90bd56",
+     "pff5351f9",
+     "pbe15880d"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de supprimer les niches fiscales « inefficaces, injustes et polluantes ».",
+    "appuis": [
+     "pdf7a6482"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de supprimer les avantages fiscaux « inefficaces ou injustifiés », notamment ceux des grandes entreprises et des « ultrariches », ainsi que les niches polluantes.",
+    "appuis": [
+     "pa5cdb7c2",
+     "p9f76986c"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de supprimer la niche des journalistes et des conseillers régionaux, et de préserver plusieurs autres niches, dont celles des frais de scolarité, des indemnités journalières ALD et la niche « Madelin ».",
+    "appuis": [
+     "p048de150",
+     "paa3d1028",
+     "p40550833",
+     "p5ee63147"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de supprimer progressivement, sur cinq ans, l'exonération d'impôt sur les sociétés dont bénéficient les organismes HLM, et dénonce « l'instabilité fiscale permanente » des dispositifs d'investissement locatif.",
+    "appuis": [
+     "pb35620b2",
+     "p1da8748a"
+    ]
+   }
+  }
+ },
+ {
+  "id": "impots-de-production",
+  "nom": "Impôts de production",
+  "variantes": [
+   "fiscalité de production",
+   "CFE",
+   "cotisation foncière des entreprises"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "pouvoir-achat",
+  "definition": "Les impôts de production sont des prélèvements que les entreprises paient indépendamment de leurs bénéfices, du seul fait de produire : CVAE, cotisation foncière des entreprises (CFE), taxe foncière sur les propriétés bâties, C3S ou certaines taxes sur les salaires. Ils financent en grande partie les collectivités locales. La France se distingue par un niveau de ces impôts supérieur à la moyenne européenne. Le plan de relance de 2021 les a réduits d'environ 10 milliards d'euros par an, notamment en divisant par deux la CVAE et les impôts fonciers des établissements industriels.",
+  "enjeux": "La droite, l'extrême droite et la majorité sortante jugent qu'ils pénalisent l'industrie et la localisation des usines en France, et proposent de continuer à les baisser. La gauche et les écologistes y voient une ressource essentielle de l'autonomie des collectivités et s'interrogent sur l'efficacité de ces baisses sans contreparties. La question de la compensation pour les collectivités traverse tous les débats.",
+  "reperes": [
+   "Baisse d'environ 10 milliards d'euros par an à partir de 2021 dans le cadre du plan France Relance"
+  ],
+  "liens": [
+   "cvae",
+   "c3s",
+   "impot-sur-les-societes",
+   "reindustrialisation"
+  ],
+  "motifs": [
+   "impôts de production",
+   "impôt de production",
+   "fiscalité de production",
+   "CFE",
+   "cotisation foncière des entreprises"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose un allègement ciblé de près de 15 milliards d'euros de la fiscalité de production, avec la suppression de la C3S et de la CVAE et l'exonération de CFE pour la part industrielle.",
+    "appuis": [
+     "pde5ed95c",
+     "p5fbd0ed3",
+     "p6447757f",
+     "peefd2292"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme prévoit de baisser les impôts de production de 30 milliards d'euros supplémentaires par an, en supprimant en priorité la C3S et la CVAE.",
+    "appuis": [
+     "pccea10ee"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de réduire les impôts de production qui pèsent sur l'industrie et l'agriculture, notamment en supprimant la CVAE.",
+    "appuis": [
+     "pbe490f90"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de supprimer la CFE, la CVAE et la C3S.",
+    "appuis": [
+     "p367c38db",
+     "p329054ad",
+     "p0e1f0edb"
+    ]
+   }
+  }
+ },
+ {
+  "id": "cvae",
+  "nom": "CVAE (cotisation sur la valeur ajoutée des entreprises)",
+  "variantes": [
+   "cotisation sur la valeur ajoutée des entreprises"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "pouvoir-achat",
+  "definition": "La CVAE est un impôt local dû par les entreprises dont le chiffre d'affaires dépasse un certain seuil, calculé sur la valeur ajoutée qu'elles produisent. Elle a été créée en 2010, avec la cotisation foncière des entreprises, pour remplacer la taxe professionnelle. Divisée par deux en 2021, elle fait l'objet d'une suppression progressive engagée par la loi de finances pour 2023, dont le calendrier a été plusieurs fois repoussé pour des raisons budgétaires. Les collectivités qui la percevaient reçoivent en compensation une fraction de TVA.",
+  "enjeux": "Ses opposants la jugent pénalisante pour les entreprises industrielles, qui produisent beaucoup de valeur ajoutée avant de dégager des bénéfices. Ses défenseurs soulignent qu'elle reliait la ressource des collectivités à l'activité économique de leur territoire, ce que la compensation par la TVA ne permet plus.",
+  "reperes": [
+   "Créée par la loi de finances pour 2010",
+   "Remplace la taxe professionnelle"
+  ],
+  "liens": [
+   "impots-de-production",
+   "c3s"
+  ],
+  "motifs": [
+   "CVAE",
+   "cotisation sur la valeur ajoutée des entreprises"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de rétablir la CVAE pour assurer un financement autonome des collectivités locales.",
+    "appuis": [
+     "p3517a4d8"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit la « suppression définitive » de la CVAE.",
+    "appuis": [
+     "peefd2292"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de supprimer en priorité la CVAE dans le cadre de la baisse des impôts de production.",
+    "appuis": [
+     "pccea10ee"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit de supprimer la CVAE pour toutes les entreprises.",
+    "appuis": [
+     "pbe490f90"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose la suppression totale de la CVAE.",
+    "appuis": [
+     "p329054ad"
+    ]
+   }
+  }
+ },
+ {
+  "id": "c3s",
+  "nom": "C3S (contribution sociale de solidarité des sociétés)",
+  "variantes": [
+   "contribution sociale de solidarité des sociétés"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "pouvoir-achat",
+  "definition": "La C3S est un prélèvement assis sur le chiffre d'affaires des entreprises, et non sur leurs bénéfices. Créée en 1970 pour financer la protection sociale des travailleurs indépendants, elle est aujourd'hui affectée à la Sécurité sociale. Un abattement important exonère les petites et moyennes entreprises, si bien que seules les grandes entreprises la paient. Parce qu'elle s'applique à chaque étape de la production, elle est accusée de se cumuler tout au long d'une chaîne de fournisseurs.",
+  "enjeux": "Ses opposants la jugent particulièrement défavorable à l'industrie et aux entreprises à faible marge. Ses défenseurs rappellent qu'elle finance la Sécurité sociale et que sa suppression devrait être compensée.",
+  "reperes": [
+   "Créée en 1970",
+   "Abattement sur le chiffre d'affaires qui exonère la majorité des entreprises"
+  ],
+  "liens": [
+   "impots-de-production",
+   "cvae"
+  ],
+  "motifs": [
+   "C3S",
+   "contribution sociale de solidarité des sociétés"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose la suppression intégrale de la C3S.",
+    "appuis": [
+     "p5fbd0ed3"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme prévoit de supprimer la C3S en priorité.",
+    "appuis": [
+     "pccea10ee"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de supprimer la C3S.",
+    "appuis": [
+     "p0e1f0edb"
+    ]
+   }
+  }
+ },
+ {
+  "id": "impot-sur-les-societes",
+  "nom": "Impôt sur les sociétés",
+  "variantes": [
+   "IS",
+   "super-IS",
+   "IS progressif"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "pouvoir-achat",
+  "definition": "L'impôt sur les sociétés frappe les bénéfices réalisés en France par les entreprises constituées en société. Son taux normal a été abaissé progressivement de 33,3 % à 25 % entre 2018 et 2022. Les PME bénéficient d'un taux réduit de 15 % sur une première fraction de leurs bénéfices. La loi de finances pour 2025 a créé une contribution exceptionnelle sur les bénéfices des plus grandes entreprises, parfois appelée « super-IS ».",
+  "enjeux": "La gauche propose de le rendre progressif ou de moduler son taux selon l'usage des bénéfices, afin de favoriser le réinvestissement plutôt que les dividendes. La droite et l'extrême droite défendent des taux réduits pour les petites entreprises ou des exonérations ciblées. Tous les camps évoquent le transfert de bénéfices vers l'étranger par les grands groupes.",
+  "reperes": [
+   "Taux normal de 25 % depuis 2022",
+   "Taux réduit de 15 % pour les PME sur une première fraction de bénéfices"
+  ],
+  "liens": [
+   "impot-minimum-sur-les-multinationales",
+   "impots-de-production",
+   "taxe-sur-les-superprofits"
+  ],
+  "motifs": [
+   "impôt sur les sociétés",
+   "impôts sur les sociétés",
+   "super-IS"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de rendre l'impôt sur les sociétés progressif pour favoriser les TPE et PME, et de le moduler selon l'usage des bénéfices.",
+    "appuis": [
+     "pc39826aa",
+     "p25db7d4e"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme prévoit de moduler le taux d'imposition selon l'affectation des bénéfices pour dissuader le rachat d'actions, et d'abaisser le taux réduit pour les TPE, PME et associations.",
+    "appuis": [
+     "p574db1bf",
+     "p220672f9"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose un taux de 15 % pour les PME, artisans, commerçants et agriculteurs jusqu'à 300 000 euros de bénéfices.",
+    "appuis": [
+     "p1145e96b"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d'exonérer d'impôt sur les sociétés pendant cinq ans les entreprises créées par un jeune de moins de 30 ans, d'exempter les ETI du « super-IS » et de garantir que les profits réalisés en France y soient intégralement imposés.",
+    "appuis": [
+     "pcf7657c6",
+     "p3ac9bac9",
+     "p0eeb497d"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de supprimer progressivement l'exonération d'impôt sur les sociétés dont bénéficient les organismes HLM.",
+    "appuis": [
+     "pb35620b2"
+    ]
+   }
+  }
+ },
+ {
+  "id": "impot-minimum-sur-les-multinationales",
+  "nom": "Impôt minimum mondial sur les multinationales",
+  "variantes": [
+   "impôt universel",
+   "pilier 2",
+   "impôt minimal sur les bénéfices"
+  ],
+  "categorie": "politique publique",
+  "theme": "pouvoir-achat",
+  "definition": "L'impôt minimum mondial vise à empêcher les grands groupes de réduire leur impôt en déclarant leurs bénéfices dans des pays à fiscalité faible. Un accord conclu à l'OCDE en 2021 par plus de 130 pays fixe un taux effectif minimum de 15 % pour les groupes réalisant plus de 750 millions d'euros de chiffre d'affaires ; c'est le « pilier 2 ». L'Union européenne l'a transposé par une directive de 2022, appliquée en France depuis 2024. L'« impôt universel » défendu par une partie de la gauche consiste, plus largement, à imposer les entreprises en fonction de leur activité réelle dans chaque pays.",
+  "enjeux": "Ses partisans jugent le taux de 15 % trop bas et souhaitent le relever ou taxer les bénéfices en proportion de l'activité réalisée en France. D'autres insistent sur la coordination internationale, en estimant qu'une mesure unilatérale serait contournée ou provoquerait des représailles commerciales.",
+  "reperes": [
+   "Accord OCDE d'octobre 2021",
+   "Taux minimum de 15 %",
+   "Directive européenne de décembre 2022"
+  ],
+  "liens": [
+   "impot-sur-les-societes",
+   "taxe-zucman",
+   "fraude-et-evasion-fiscales",
+   "taxe-sur-les-services-numeriques",
+   "fiscalite-internationale"
+  ],
+  "motifs": [
+   "impôt minimal",
+   "impôt minimum",
+   "impôt universel",
+   "coopération fiscale internationale"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un impôt minimal sur les bénéfices des sociétés de plus d'un milliard d'euros de chiffre d'affaires, calculé à proportion de leur activité en France, et soutient une convention fiscale à l'ONU.",
+    "appuis": [
+     "pca559223",
+     "p6aafad11"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit « l'impôt universel pour les multinationales qui font du profit en France ».",
+    "appuis": [
+     "pf871ff13"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose une législation garantissant que les profits réalisés en France soient intégralement soumis à l'impôt français sur les sociétés.",
+    "appuis": [
+     "p0eeb497d"
+    ]
+   }
+  }
+ },
+ {
+  "id": "taxe-sur-les-superprofits",
+  "nom": "Taxe sur les superprofits",
+  "variantes": [
+   "superprofits",
+   "profits exceptionnels",
+   "superdividendes"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "pouvoir-achat",
+  "definition": "Une taxe sur les superprofits frappe les bénéfices jugés exceptionnels d'entreprises qui profitent d'une crise, par exemple une flambée des prix de l'énergie. En 2022, l'Union européenne a instauré une contribution temporaire de solidarité sur les profits des entreprises des secteurs pétrolier, gazier et charbonnier, appliquée en France. Il n'existe pas de définition juridique unique du « superprofit » ; elle suppose de fixer un niveau de bénéfice considéré comme normal.",
+  "enjeux": "Ses partisans estiment juste de faire contribuer les entreprises qui ont tiré profit d'une crise payée par les ménages. Ses opposants contestent la notion, jugée arbitraire, et craignent l'instabilité fiscale et des effets sur l'investissement. Le choix des secteurs visés et le caractère temporaire ou permanent de la taxe sont discutés.",
+  "reperes": [
+   "Règlement européen du 6 octobre 2022 sur une contribution de solidarité temporaire"
+  ],
+  "liens": [
+   "impot-sur-les-societes",
+   "taxe-sur-les-transactions-financieres"
+  ],
+  "motifs": [
+   "superprofits",
+   "super-profits",
+   "superdividendes",
+   "profiteurs de guerre",
+   "profits exceptionnels"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une taxe exceptionnelle sur les superprofits de l'industrie pétrogazière et du commerce maritime.",
+    "appuis": [
+     "pc3a946d8"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de généraliser la taxation des superprofits au niveau européen.",
+    "appuis": [
+     "p04e121c3"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un mécanisme automatique de taxation des superprofits des multinationales et des « profiteurs de guerre ».",
+    "appuis": [
+     "p555a3dee"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit une taxe sur les « superdividendes » et une taxe sur les rachats d'actions.",
+    "appuis": [
+     "p7b70d4c6",
+     "p37f85607"
+    ]
+   }
+  }
+ },
+ {
+  "id": "taxe-sur-les-transactions-financieres",
+  "nom": "Taxe sur les transactions financières",
+  "variantes": [
+   "TTF",
+   "taxe Tobin"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "pouvoir-achat",
+  "definition": "La taxe sur les transactions financières prélève un faible pourcentage sur les achats de titres. En France, elle existe depuis 2012 et porte sur les acquisitions d'actions de grandes sociétés françaises cotées. L'idée s'inspire de la « taxe Tobin » proposée en 1972 par l'économiste James Tobin sur les opérations de change. Un projet de taxe européenne, en discussion depuis 2011 dans le cadre d'une coopération renforcée, n'a pas abouti.",
+  "enjeux": "Ses partisans veulent l'élargir, par exemple aux opérations intra-journalières et au trading à haute fréquence, pour freiner la spéculation et dégager des recettes. Ses opposants craignent une fuite des transactions vers d'autres places financières.",
+  "reperes": [
+   "Créée en France en 2012",
+   "Taxe Tobin proposée en 1972"
+  ],
+  "liens": [
+   "taxe-sur-les-superprofits",
+   "fiscalite-internationale"
+  ],
+  "motifs": [
+   "transactions financières",
+   "taxe Tobin"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de porter la taxe sur les transactions financières à 0,7 %.",
+    "appuis": [
+     "p05571193"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit une taxation renforcée des transactions financières.",
+    "appuis": [
+     "p4113473d"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose une taxe sur les transactions financières intra-journalières.",
+    "appuis": [
+     "p7e992c45"
+    ]
+   }
+  }
+ },
+ {
+  "id": "taxe-sur-les-services-numeriques",
+  "nom": "Taxe sur les services numériques",
+  "variantes": [
+   "TSN",
+   "taxe GAFA"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "pouvoir-achat",
+  "definition": "La taxe sur les services numériques, surnommée « taxe GAFA », frappe le chiffre d'affaires réalisé en France par les très grandes entreprises du numérique sur la publicité en ligne, la vente de données et l'intermédiation. Créée en 2019 au taux de 3 %, elle visait à imposer des groupes dont les bénéfices échappent largement à l'impôt sur les sociétés français. Elle a provoqué des menaces de représailles commerciales des États-Unis.",
+  "enjeux": "Ses partisans souhaitent en relever le taux ou en élargir l'assiette. D'autres veulent la remplacer par une solution internationale négociée à l'OCDE, au nom du risque de conflit commercial.",
+  "reperes": [
+   "Loi du 24 juillet 2019",
+   "Taux initial de 3 %"
+  ],
+  "liens": [
+   "impot-minimum-sur-les-multinationales"
+  ],
+  "motifs": [
+   "taxe sur les services numériques",
+   "TSN",
+   "taxe GAFA"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de relever la taxe sur les services numériques de 3 à 5 %.",
+    "appuis": [
+     "p1985deb7"
+    ]
+   }
+  }
+ },
+ {
+  "id": "heures-supplementaires",
+  "nom": "Défiscalisation des heures supplémentaires",
+  "variantes": [
+   "heures sup",
+   "exonération des heures supplémentaires"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "pouvoir-achat",
+  "definition": "Les heures supplémentaires sont les heures travaillées au-delà de la durée légale de 35 heures par semaine ; elles donnent lieu à une majoration de salaire. Depuis 2019, leur rémunération est exonérée d'impôt sur le revenu dans la limite d'un plafond annuel et bénéficie d'une réduction des cotisations salariales. Un dispositif comparable avait été créé en 2007 par la loi TEPA, puis supprimé en 2012. Des majorations et un contingent annuel encadrent leur usage dans le Code du travail.",
+  "enjeux": "Ses partisans y voient un moyen simple d'augmenter le salaire de ceux qui travaillent plus. Ses critiques estiment qu'elle coûte cher aux finances publiques, favorise ceux qui ont accès aux heures supplémentaires et freine l'embauche ; une partie de la gauche veut la supprimer et faire respecter les 35 heures.",
+  "reperes": [
+   "Loi TEPA du 21 août 2007",
+   "Exonération d'impôt sur le revenu rétablie en 2019"
+  ],
+  "liens": [
+   "allegements-de-cotisations",
+   "impot-sur-le-revenu"
+  ],
+  "motifs": [
+   "heures supplémentaires",
+   "au-delà de 35 heures"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme prévoit de maintenir l'exonération d'impôt des heures supplémentaires et d'aller vers « ni charge ni impôt » pour les heures travaillées au-delà de 35 heures, « sans plafond ».",
+    "appuis": [
+     "pda6acf5e",
+     "p68ef9e1f",
+     "p72f95600"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose d'exonérer les heures supplémentaires d'impôts et de charges.",
+    "appuis": [
+     "pe7e6cd1e"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de supprimer le plafond d'heures supplémentaires fixé par le Code du travail.",
+    "appuis": [
+     "p30ea9da3"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme prévoit de supprimer les exonérations de cotisations portant sur les heures supplémentaires.",
+    "appuis": [
+     "p359a7223"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de soumettre les heures supplémentaires à cotisation et de les majorer, en appliquant réellement les 35 heures.",
+    "appuis": [
+     "p76cf605d",
+     "p4ddf1186"
+    ]
+   }
+  }
+ },
+ {
+  "id": "allegements-de-cotisations",
+  "nom": "Allègements et exonérations de cotisations sociales",
+  "variantes": [
+   "baisse des charges",
+   "zéro cotisation",
+   "allègements généraux"
+  ],
+  "categorie": "politique publique",
+  "theme": "pouvoir-achat",
+  "definition": "Depuis 1993, l'État réduit les cotisations patronales sur les bas salaires pour diminuer le coût du travail peu qualifié ; ces allègements sont dégressifs et s'annulent à un certain multiple du SMIC. Le crédit d'impôt pour la compétitivité et l'emploi (CICE), créé en 2013, a été transformé en baisse de cotisations en 2019. Ces dispositifs représentent plusieurs dizaines de milliards d'euros par an, compensés en grande partie à la Sécurité sociale par l'État. Leur forme dégressive est accusée de concentrer les salaires autour du SMIC.",
+  "enjeux": "La droite et la majorité sortante veulent poursuivre ces baisses, du côté salarié pour augmenter le salaire net ou du côté employeur pour soutenir l'emploi. La gauche et les écologistes jugent une partie de ces exonérations inefficaces, notamment au-dessus de 1,6 SMIC, et proposent de les supprimer ou de les conditionner à des hausses de salaires. Le vocabulaire lui-même (« charges » ou « cotisations ») marque le clivage.",
+  "reperes": [
+   "Premiers allègements généraux en 1993",
+   "CICE créé en 2013 et transformé en baisse de cotisations en 2019"
+  ],
+  "liens": [
+   "smic",
+   "heures-supplementaires",
+   "prime-de-partage-de-la-valeur",
+   "csg"
+  ],
+  "motifs": [
+   "zéro cotisation",
+   "exonération de cotisations",
+   "exonérations de cotisations",
+   "allègement de cotisations",
+   "allègements de cotisations",
+   "cotisations patronales",
+   "charges sociales",
+   "charges salariales",
+   "coût du travail",
+   "baisser les charges"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme prévoit plus de 25 milliards d'euros d'allègements sur le coût du travail, combinant un seuil « zéro cotisation » et une baisse des cotisations patronales non contributives, partagés entre salariés et entreprises.",
+    "appuis": [
+     "p2c749046",
+     "p63f175d3",
+     "pad9814b5"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de réduire les charges salariales pour faire monter le salaire net et de baisser les charges des indépendants.",
+    "appuis": [
+     "pdc367e93",
+     "pddfb1aa6"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d'exonérer de la hausse des cotisations patronales, pendant trois à cinq ans, les augmentations de salaire de 10 %.",
+    "appuis": [
+     "pa0ea4c9c"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose une « Prime Zéro Charge » et l'exonération de cotisations patronales des petites entreprises de moins de 11 salariés.",
+    "appuis": [
+     "p8cd74fd7",
+     "pc4dc3811"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme prévoit de supprimer les exonérations de cotisations au-delà de 1,6 SMIC et de conditionner les autres à l'augmentation des salariés gagnant moins de 2 000 euros net.",
+    "appuis": [
+     "p359a7223",
+     "paace06bc"
+    ]
+   }
+  }
+ },
+ {
+  "id": "prime-de-partage-de-la-valeur",
+  "nom": "Prime de partage de la valeur (« prime Macron »)",
+  "variantes": [
+   "prime Macron",
+   "prime exceptionnelle de pouvoir d'achat",
+   "PPV"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "pouvoir-achat",
+  "definition": "La prime de partage de la valeur permet aux employeurs de verser à leurs salariés une prime facultative exonérée de cotisations sociales, et sous conditions d'impôt sur le revenu, dans la limite d'un plafond annuel. Elle succède à la prime exceptionnelle de pouvoir d'achat créée fin 2018 en réponse au mouvement des gilets jaunes, d'où son surnom de « prime Macron ». Elle a été pérennisée par la loi sur le pouvoir d'achat de l'été 2022. Elle ne remplace pas un élément de salaire existant.",
+  "enjeux": "Ses défenseurs y voient un outil souple pour redistribuer une partie des profits sans alourdir durablement le coût du travail. Ses critiques estiment qu'elle se substitue aux hausses de salaires, ne compte pas pour la retraite et prive la Sécurité sociale de recettes.",
+  "reperes": [
+   "Prime exceptionnelle créée par la loi du 24 décembre 2018",
+   "Prime de partage de la valeur instituée par la loi du 16 août 2022"
+  ],
+  "liens": [
+   "partage-de-la-valeur",
+   "allegements-de-cotisations"
+  ],
+  "motifs": [
+   "prime « Macron »",
+   "prime de partage de la valeur",
+   "Prime Zéro Charge",
+   "partage des profits"
+  ],
+  "positions": {
+   "renaissance": {
+    "texte": "Le programme propose de tripler la prime « Macron », « sans charges ni impôts », et de rendre obligatoire un dispositif de partage des profits dans les entreprises qui versent des dividendes.",
+    "appuis": [
+     "pbcb09e70",
+     "pec7c9bde"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme prévoit une « Prime Zéro Charge » permettant de verser jusqu'à trois mois de salaire net.",
+    "appuis": [
+     "p8cd74fd7"
+    ]
+   }
+  }
+ },
+ {
+  "id": "stock-options-et-actionnariat-salarie",
+  "nom": "Stock-options, actions gratuites et actionnariat salarié",
+  "variantes": [
+   "BSPCE",
+   "parachutes dorés",
+   "retraites chapeaux"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "pouvoir-achat",
+  "definition": "Les stock-options donnent à des salariés ou dirigeants le droit d'acheter des actions de leur entreprise à un prix fixé à l'avance ; les actions gratuites et les BSPCE, réservés aux jeunes entreprises, poursuivent un objectif proche. Ces dispositifs bénéficient d'une fiscalité spécifique, débattue car elle se situe entre celle du salaire et celle de la plus-value. Les parachutes dorés désignent les indemnités de départ des dirigeants, et les retraites chapeaux les retraites supplémentaires qui leur sont réservées ; tous deux sont encadrés par la loi depuis les années 2000.",
+  "enjeux": "Leurs défenseurs y voient un moyen d'associer les salariés au capital et d'attirer des talents dans les start-ups, et demandent que les gains soient imposés comme des plus-values. Leurs critiques estiment qu'ils servent surtout à rémunérer les dirigeants en échappant aux cotisations, et proposent de les supprimer ou de les taxer comme des salaires.",
+  "reperes": [
+   "BSPCE créés par la loi de finances pour 1998"
+  ],
+  "liens": [
+   "partage-de-la-valeur",
+   "salaire-maximum"
+  ],
+  "motifs": [
+   "stock-options",
+   "actionnariat salarié",
+   "actions gratuites",
+   "BSPCE",
+   "parachutes dorés",
+   "retraites chapeaux",
+   "attribution gratuite d'actions"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de supprimer les stock-options et d'interdire les parachutes dorés et les retraites chapeaux.",
+    "appuis": [
+     "pfe86b5e5",
+     "p60330ba5"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de supprimer la contribution patronale sur l'actionnariat salarié, les actions gratuites, les BSPCE et les stock-options, et d'imposer les gains comme une plus-value « et non requalifié en salaire déguisé ».",
+    "appuis": [
+     "p88005115",
+     "pf2d5b81d"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de « sanctuariser » la fiscalité de l'actionnariat salarié afin que la plus-value ne soit jamais considérée comme un salaire.",
+    "appuis": [
+     "pbd844821"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme prévoit d'étendre les cotisations sociales à l'attribution gratuite d'actions.",
+    "appuis": [
+     "p70a5cbe4"
+    ]
+   }
+  }
+ },
+ {
+  "id": "cheque-energie",
+  "nom": "Chèque énergie",
+  "variantes": [
+   "chèques énergie"
+  ],
+  "categorie": "prestation sociale",
+  "theme": "pouvoir-achat",
+  "definition": "Le chèque énergie est une aide annuelle versée aux ménages modestes, sous conditions de revenus, pour payer leurs factures d'énergie ou certains travaux de rénovation. Généralisé en 2018, il a remplacé les tarifs sociaux de l'électricité et du gaz. Son montant varie selon le revenu fiscal de référence et la composition du foyer. Un chèque exceptionnel a été ajouté pendant la crise énergétique de 2022, et son taux de non-recours reste discuté.",
+  "enjeux": "Ses défenseurs le jugent mieux ciblé qu'une baisse générale des prix. Ses critiques jugent son montant insuffisant au regard des hausses de prix et soulignent qu'une partie des bénéficiaires ne l'utilise pas ; certains proposent de le remplacer par une aide automatique.",
+  "reperes": [
+   "Généralisé le 1er janvier 2018"
+  ],
+  "liens": [
+   "accise-sur-l-electricite",
+   "tarification-progressive",
+   "prix-de-l-electricite"
+  ],
+  "motifs": [
+   "chèque énergie",
+   "chèques énergie",
+   "chèques énergies"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de porter le chèque énergie à 400 euros ; il prévoit aussi de le remplacer par un crédit d'impôt ciblé versé automatiquement aux personnes en situation de précarité.",
+    "appuis": [
+     "pb939b22e",
+     "p65cae188"
+    ]
+   }
+  }
+ },
+ {
+  "id": "prix-de-l-electricite",
+  "nom": "Prix de l'électricité",
+  "variantes": [
+   "ARENH",
+   "contrat pour différence",
+   "découplage des prix",
+   "tarif régulé du nucléaire"
+  ],
+  "categorie": "politique publique",
+  "theme": "pouvoir-achat",
+  "definition": "Sur le marché européen de l'électricité, le prix de gros est fixé à chaque instant par le coût de la dernière centrale nécessaire pour répondre à la demande, souvent une centrale au gaz ; c'est pourquoi la flambée du gaz en 2022 a fait monter le prix de l'électricité, y compris en France où elle est surtout nucléaire. L'accès régulé à l'électricité nucléaire historique (ARENH), créé par la loi NOME de 2010, obligeait EDF à vendre à ses concurrents une partie de sa production à un prix fixe ; il a pris fin le 31 décembre 2025. Depuis le 1er janvier 2026, un mécanisme appelé versement nucléaire universel prévoit de reverser aux consommateurs une partie des revenus nucléaires d'EDF lorsque les prix de marché dépassent certains seuils. Un contrat pour différence garantit au producteur un prix cible : l'État verse la différence quand le marché est plus bas et récupère l'excédent quand il est plus haut. Les ménages peuvent encore bénéficier d'un tarif réglementé de vente.",
+  "enjeux": "Une partie des partis propose de sortir des règles européennes de formation des prix ou de « découpler » le prix de l'électricité de celui du gaz. D'autres préfèrent des contrats de long terme adossés aux coûts de production du nucléaire et des renouvelables, compatibles avec le marché européen. Le niveau du prix de référence du nucléaire oppose les intérêts d'EDF à ceux des consommateurs.",
+  "reperes": [
+   "Loi NOME du 7 décembre 2010",
+   "Fin de l'ARENH le 31 décembre 2025, remplacé par le versement nucléaire universel à partir du 1er janvier 2026",
+   "Réforme du marché européen de l'électricité adoptée en 2024"
+  ],
+  "liens": [
+   "accise-sur-l-electricite",
+   "cheque-energie",
+   "tarification-progressive",
+   "arenh",
+   "marche-europeen-de-l-electricite"
+  ],
+  "motifs": [
+   "ARENH",
+   "contrat pour différence",
+   "prix de l'électricité",
+   "marché de l'électricité",
+   "fixation des prix de l'énergie",
+   "tarif régulé",
+   "facture d'électricité",
+   "prix de marché"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de découpler le prix de l'électricité de celui des énergies fossiles.",
+    "appuis": [
+     "p87ca6f41"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit de fixer une partie de la facture sur le coût de production de l'électricité nucléaire et renouvelable, « et non plus sur un prix de marché très volatile ».",
+    "appuis": [
+     "p7b0b188f"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose un contrat pour différence bidirectionnel entre EDF et les fournisseurs, et vise une baisse de 5 à 10 % de la facture d'électricité à partir de 2030.",
+    "appuis": [
+     "p38c8bd8d",
+     "p5ab1d1c8"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme prévoit de remplacer l'ARENH par un tarif régulé de l'électricité nucléaire.",
+    "appuis": [
+     "p066b8742"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de sortir des règles européennes de fixation des prix de l'énergie.",
+    "appuis": [
+     "p88dd2126"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de revenir sur la libéralisation du marché de l'électricité et du gaz.",
+    "appuis": [
+     "p777de0f7"
+    ]
+   }
+  }
+ },
+ {
+  "id": "accise-sur-l-electricite",
+  "nom": "Accise sur l'électricité",
+  "variantes": [
+   "TICFE",
+   "taxe sur l'électricité"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "pouvoir-achat",
+  "definition": "L'accise sur l'électricité, anciennement taxe intérieure sur la consommation finale d'électricité (TICFE), est un impôt proportionnel à la quantité d'électricité consommée. Elle a été abaissée à son minimum européen en 2022 et 2023 dans le cadre du bouclier tarifaire, puis relevée à 21 euros par mégawattheure pour les ménages le 1er février 2024, et de nouveau en février 2025. La TVA s'applique sur le prix de l'électricité taxes comprises, y compris sur l'accise, ce qu'on appelle parfois une « taxe sur la taxe ». Le gaz est soumis à une accise distincte.",
+  "enjeux": "Plusieurs partis proposent d'annuler les hausses récentes ou de supprimer la TVA sur cette taxe pour faire baisser la facture. D'autres rappellent son rendement pour le budget de l'État ou proposent de rééquilibrer la fiscalité entre l'électricité et le gaz, afin d'encourager l'électrification.",
+  "reperes": [
+   "Abaissée à 1 euro par mégawattheure pour les ménages en 2022 et 2023",
+   "Relevée à 21 euros par mégawattheure pour les ménages au 1er février 2024, par arrêté pris sur le fondement de la loi de finances pour 2024"
+  ],
+  "liens": [
+   "tva",
+   "prix-de-l-electricite",
+   "fiscalite-des-carburants"
+  ],
+  "motifs": [
+   "accise",
+   "taxe sur l'électricité",
+   "TICFE",
+   "taxes pesant sur l'électricité",
+   "fiscalité sur l'électricité"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de diminuer la fiscalité sur l'électricité en unifiant le socle de l'accise du gaz et de l'électricité et en baissant la TVA sur l'abonnement.",
+    "appuis": [
+     "pa913e001"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d'abolir la « taxe Macron de 10% sur les factures d’énergie », sans préciser l'impôt visé, et d'annuler la hausse programmée du prix du gaz.",
+    "appuis": [
+     "p3c4e77ce"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d'annuler la hausse de taxe sur l'électricité imposée en 2024.",
+    "appuis": [
+     "pad545002"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de supprimer la TVA sur les taxes pesant sur l'électricité et de sortir l'électricité du périmètre des certificats d'économies d'énergie.",
+    "appuis": [
+     "pc01b1948",
+     "pca4a6bee"
+    ]
+   }
+  }
+ },
+ {
+  "id": "tarification-progressive",
+  "nom": "Tarification progressive et gratuité des premières quantités",
+  "variantes": [
+   "tarification sociale",
+   "gratuité des premiers kWh",
+   "gratuité des premiers mètres cubes"
+  ],
+  "categorie": "politique publique",
+  "theme": "pouvoir-achat",
+  "definition": "La tarification progressive consiste à faire payer l'eau ou l'énergie à un prix unitaire qui augmente avec la quantité consommée, les premières unités étant gratuites ou peu chères. Elle vise à garantir l'accès aux quantités jugées indispensables et à décourager les consommations excessives. La loi Brottes de 2013 a ouvert une expérimentation de tarification sociale de l'eau dans des collectivités volontaires. Sa mise en œuvre pour l'électricité se heurte à la difficulté de tenir compte de la taille des foyers et du mode de chauffage.",
+  "enjeux": "Ses partisans y voient un droit d'accès aux biens essentiels et un outil de sobriété. Ses critiques soulignent le risque de pénaliser les familles nombreuses ou les logements chauffés à l'électricité, et la complexité de la gestion des compteurs.",
+  "reperes": [
+   "Loi du 15 avril 2013 dite loi Brottes"
+  ],
+  "liens": [
+   "cheque-energie",
+   "prix-de-l-electricite",
+   "accise-sur-l-electricite"
+  ],
+  "motifs": [
+   "tarification progressive",
+   "tarification sociale",
+   "premiers KwH",
+   "premiers mètres cubes",
+   "premiers mètres-cubes",
+   "quantités d'eau et d'électricité",
+   "quantités indispensables"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose la gratuité des premiers kilowattheures et des quantités d'eau et d'électricité « indispensables à la vie digne », ainsi que l'abolition des coupures d'énergie.",
+    "appuis": [
+     "p3c4e77ce",
+     "p6e3b4de1",
+     "p9d3f89f1"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme prévoit de réduire la part fixe de l'abonnement, de développer une tarification progressive et d'aider les collectivités à rendre gratuits les premiers mètres cubes d'eau.",
+    "appuis": [
+     "p647827ce",
+     "pa2450d37"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une tarification sociale de l'eau, avec des aides automatiques pour les foyers dont la facture dépasse 3 % des revenus.",
+    "appuis": [
+     "p2f3b0847"
+    ]
+   }
+  }
+ },
+ {
+  "id": "fiscalite-des-carburants",
+  "nom": "Fiscalité et prix des carburants",
+  "variantes": [
+   "TICPE",
+   "accise sur les énergies",
+   "prix à la pompe"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "pouvoir-achat",
+  "definition": "Le prix des carburants à la pompe comprend une part importante de taxes : l'accise sur les énergies, anciennement TICPE, fixée par litre, et la TVA, calculée sur le prix taxes comprises. L'accise n'évolue pas avec le prix du pétrole, alors que la TVA augmente quand les prix montent. En 2022, une remise générale à la pompe financée par l'État a été appliquée pendant plusieurs mois. Certains secteurs, comme le transport routier de marchandises, l'agriculture ou la pêche, bénéficient de taux réduits ou de remboursements.",
+  "enjeux": "Une partie des partis propose de baisser la TVA, de plafonner les prix ou de rembourser une partie des frais de trajet. Les écologistes proposent au contraire de supprimer progressivement les taux réduits dont bénéficient certains secteurs. La hausse de la taxe carbone sur les carburants a déclenché le mouvement des gilets jaunes en 2018 et reste un sujet sensible.",
+  "reperes": [
+   "TICPE renommée accise sur les énergies en 2022",
+   "Remise à la pompe en 2022"
+  ],
+  "liens": [
+   "tva",
+   "fiscalite-ecologique",
+   "blocage-des-prix"
+  ],
+  "motifs": [
+   "carburant",
+   "carburants",
+   "prix de l'essence",
+   "gazole",
+   "frais de carburant"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de bloquer le prix des carburants par décret et de ramener le prix de l'essence à 1,40 euro.",
+    "appuis": [
+     "p797a818b",
+     "p67d0a515"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit de diminuer le prix du carburant par une baisse de la TVA.",
+    "appuis": [
+     "p162896e9"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de rembourser 50 % des frais de carburant des trajets domicile-travail jusqu'à 40 euros par mois et de plafonner le prix du carburant à 1,80 euro le litre.",
+    "appuis": [
+     "p1f0dd476",
+     "pa1b50125"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit une baisse de la TVA sur l'ensemble des produits énergétiques.",
+    "appuis": [
+     "p90bfad0e"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose de relever progressivement les taxes sur le gazole des camions au taux normal et de transformer les taux réduits sur les produits fossiles en aides forfaitaires.",
+    "appuis": [
+     "p20ed2cdd",
+     "p7dc574aa"
+    ]
+   }
+  }
+ },
+ {
+  "id": "redevance-audiovisuelle",
+  "nom": "Redevance audiovisuelle",
+  "variantes": [
+   "redevance télé",
+   "contribution à l'audiovisuel public"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "pouvoir-achat",
+  "definition": "La contribution à l'audiovisuel public, appelée redevance télé, était une taxe annuelle payée par les foyers équipés d'un téléviseur et prélevée avec la taxe d'habitation ; elle s'élevait à 138 euros en métropole en 2022. Elle a été supprimée par la loi de finances rectificative d'août 2022, l'audiovisuel public étant depuis financé par une fraction de TVA. Plusieurs programmes, rédigés avant ou après cette date, en proposent encore la suppression.",
+  "enjeux": "Ses opposants y voyaient un impôt dépassé et coûteux pour les ménages. Les défenseurs de l'audiovisuel public estiment qu'une ressource propre et stable garantissait mieux son indépendance que l'affectation d'une part du budget de l'État. Le débat se poursuit sur la privatisation éventuelle d'une partie de l'audiovisuel public.",
+  "reperes": [
+   "Supprimée par la loi de finances rectificative du 16 août 2022",
+   "138 euros en métropole en 2022"
+  ],
+  "liens": [
+   "tva",
+   "audiovisuel-public"
+  ],
+  "motifs": [
+   "redevance audiovisuelle",
+   "redevance télévision",
+   "redevance télé",
+   "de redevance"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose de supprimer la redevance audiovisuelle.",
+    "appuis": [
+     "p6943b26b"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme prévoit de supprimer la redevance télévision de 138 euros par an.",
+    "appuis": [
+     "p3bff162c"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de supprimer la « redevance télé » tout en garantissant l'indépendance de l'audiovisuel public.",
+    "appuis": [
+     "pcf490ea6"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de privatiser l'audiovisuel public afin de supprimer les 138 euros de redevance.",
+    "appuis": [
+     "pf4ec6b36"
+    ]
+   }
+  }
+ },
+ {
+  "id": "fiscalite-ecologique",
+  "nom": "Fiscalité écologique",
+  "variantes": [
+   "TVA verte",
+   "malus automobile",
+   "taxe carbone",
+   "niches fossiles"
+  ],
+  "categorie": "politique publique",
+  "theme": "pouvoir-achat",
+  "definition": "La fiscalité écologique regroupe les impôts et avantages fiscaux destinés à modifier les comportements en faveur de l'environnement, selon le principe pollueur-payeur. Elle comprend notamment la composante carbone des accises sur l'énergie, introduite en 2014, le malus automobile sur les émissions et le poids des véhicules, ou des redevances sur les pollutions. La hausse prévue de la taxe carbone a été gelée en 2018 après le mouvement des gilets jaunes. Les dépenses fiscales favorables aux énergies fossiles en sont l'envers.",
+  "enjeux": "Ses partisans la jugent indispensable pour orienter l'économie vers la décarbonation, à condition qu'elle soit compensée pour les ménages modestes. Ses opposants dénoncent une « écologie punitive » qui pèse sur ceux qui n'ont pas d'alternative à la voiture et proposent d'annuler les hausses récentes. Le débat porte aussi sur l'usage des recettes.",
+  "reperes": [
+   "Composante carbone introduite en 2014",
+   "Trajectoire de la taxe carbone gelée en décembre 2018"
+  ],
+  "liens": [
+   "niches-fiscales",
+   "tva",
+   "fiscalite-des-carburants",
+   "isf"
+  ],
+  "motifs": [
+   "fiscalité écologique",
+   "TVA verte",
+   "malus poids",
+   "malus de poids",
+   "malus Auto",
+   "pacte fiscal vert",
+   "niches fiscales fossiles",
+   "ISF Climat",
+   "Redevance pour Pollution Diffuse"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une « TVA verte », un malus poids déclenché à 1 300 kg pour les véhicules thermiques et la suppression progressive des niches fiscales fossiles.",
+    "appuis": [
+     "p2273a170",
+     "p73fe54b3",
+     "pff5351f9"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit de renforcer la fiscalité écologique par la suppression des niches polluantes, un ISF climatique et la taxation des placements liés aux énergies fossiles.",
+    "appuis": [
+     "p9f76986c",
+     "pb78ec8c3"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de supprimer les niches fiscales « polluantes » et d'instaurer une taxe kilométrique sur les produits importés.",
+    "appuis": [
+     "pdf7a6482",
+     "p5d3340ec"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de supprimer la hausse du malus automobile et de réduire la fiscalité sur les ventes de seconde main et la réparation.",
+    "appuis": [
+     "pa37dd7d6",
+     "p80a0d0a5"
+    ]
+   }
+  }
+ },
+ {
+  "id": "dette-publique",
+  "nom": "Dette publique",
+  "variantes": [
+   "endettement public",
+   "audit de la dette",
+   "dette perpétuelle"
+  ],
+  "categorie": "notion économique",
+  "theme": "pouvoir-achat",
+  "definition": "La dette publique est l'ensemble des emprunts contractés par l'État, la Sécurité sociale et les collectivités locales. Celle de l'État est émise sous forme d'obligations, gérées par l'Agence France Trésor et achetées par des investisseurs français et étrangers. Elle atteignait 115,6 % du PIB fin 2025 selon l'Insee, et la charge des intérêts est devenue l'un des premiers postes du budget. Les traités européens interdisent à la Banque centrale européenne de financer directement les États.",
+  "enjeux": "La droite, le centre et une partie de la gauche jugent prioritaire de la réduire pour préserver la souveraineté financière du pays et limiter le coût des intérêts. La gauche radicale conteste ce cadrage, propose un audit pour en identifier une part « illégitime » et une restructuration avec l'aide de la BCE. Le partage entre baisse des dépenses et hausse des recettes est au cœur des désaccords.",
+  "reperes": [
+   "Agence France Trésor créée en 2001",
+   "Article 123 du traité sur le fonctionnement de l'Union européenne",
+   "Critère de Maastricht de 60 % du PIB",
+   "115,6 % du PIB fin 2025 (Insee, mars 2026)"
+  ],
+  "liens": [
+   "regle-d-or-budgetaire"
+  ],
+  "motifs": [
+   "dette publique",
+   "dettes publiques",
+   "titres de dette",
+   "désendettement",
+   "emprunts publics",
+   "créanciers nationaux",
+   "bons du Trésor",
+   "circuit public du Trésor",
+   "comptes de la Nation"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose un « audit citoyen » de la dette pour en déterminer la « part illégitime », le rachat des dettes publiques par la BCE et leur transformation en dettes perpétuelles à taux nul, et le rétablissement d'un circuit public du Trésor.",
+    "appuis": [
+     "pa7c1c53d",
+     "p817563cc",
+     "pecac7b26"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme prévoit de réduire la part des titres de dette indexés sur l'inflation, de renforcer la part des créanciers nationaux et européens et de mobiliser l'épargne française par des bons spéciaux.",
+    "appuis": [
+     "pd7f7ca9a",
+     "p009e9af5",
+     "p1baf3dd0"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une « trajectoire crédible de désendettement » pour emprunter à de meilleures conditions et investir.",
+    "appuis": [
+     "p4933b9c6"
+    ]
+   },
+   "horizons": {
+    "texte": "Le programme fait de « l'ordre dans les comptes de la Nation » une condition de l'indépendance nationale et refuse que l'État redistribue « une richesse qu'il n'a pas » au détriment des générations futures.",
+    "appuis": [
+     "p5352251e",
+     "p0914c595"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit une réforme de la gestion des bons du Trésor à taux fixe et la création d'une commission d'évaluation des comptes publics.",
+    "appuis": [
+     "p6f3cda12",
+     "pa04d96e7"
+    ]
+   }
+  }
+ },
+ {
+  "id": "regle-d-or-budgetaire",
+  "nom": "Règle d'or budgétaire et réduction du déficit",
+  "variantes": [
+   "règle d'or",
+   "déficit public",
+   "pacte de stabilité"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "pouvoir-achat",
+  "definition": "Une règle d'or budgétaire impose l'équilibre des comptes publics ou interdit d'emprunter pour financer les dépenses de fonctionnement. Le traité européen sur la stabilité, la coordination et la gouvernance de 2012 a imposé aux États de limiter leur déficit structurel ; la France l'a transposé par une loi organique, qui a créé le Haut Conseil des finances publiques, sans l'inscrire dans la Constitution. Le pacte de stabilité et de croissance fixe par ailleurs des références de 3 % du PIB pour le déficit et de 60 % pour la dette ; il a été réformé en 2024. La France est sous procédure pour déficit excessif depuis 2024.",
+  "enjeux": "La droite et le centre défendent une règle stricte, voire constitutionnelle, et un retour rapide vers l'équilibre par la baisse des dépenses. La gauche et les écologistes jugent ces règles « austéritaires » et demandent d'en exclure les investissements de la transition écologique, voire de les abandonner. Le rythme de réduction du déficit et ses effets sur la croissance sont débattus.",
+  "reperes": [
+   "Traité sur la stabilité, la coordination et la gouvernance signé en 2012",
+   "Loi organique du 17 décembre 2012",
+   "Références de 3 % du PIB pour le déficit et 60 % pour la dette"
+  ],
+  "liens": [
+   "dette-publique",
+   "pacte-de-stabilite"
+  ],
+  "motifs": [
+   "règle d'or",
+   "déficit public",
+   "zéro déficit",
+   "pacte de stabilité",
+   "règles budgétaires",
+   "économie équivalente",
+   "loi de programmation des finances publiques",
+   "baisse de la dépense publique"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose d'inscrire une règle d'or dans la Constitution et de réduire le déficit public de 42 milliards d'euros en 2027.",
+    "appuis": [
+     "p01fe83bc",
+     "pca825a89"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme vise « zéro déficit en 10 ans maximum », en faisant d'abord porter l'effort sur la dépense sociale.",
+    "appuis": [
+     "pc1523e00",
+     "pf72a090e"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit que l'État n'engage aucune dépense de fonctionnement qui ne soit couverte par une économie équivalente.",
+    "appuis": [
+     "pf46a7bac"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose une baisse de la dépense publique, précédée d'un grand audit de la Cour des comptes sur toutes les politiques publiques.",
+    "appuis": [
+     "p05ccdc77"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme prévoit un « pacte fiscal vert » sous forme de loi de programmation des finances publiques et propose de supprimer les « contraintes austéritaires » du pacte de stabilité.",
+    "appuis": [
+     "p69f2af30",
+     "p07bc118e"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de refuser le pacte de stabilité et d'abandonner les règles budgétaires européennes.",
+    "appuis": [
+     "p48a19196",
+     "pc2775284"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit que chaque investissement supplémentaire soit justifié par un audit sur l'absence de gaspillage.",
+    "appuis": [
+     "p5644e224"
+    ]
+   }
+  }
+ },
+ {
+  "id": "fraude-et-evasion-fiscales",
+  "nom": "Fraude, évasion et optimisation fiscales",
+  "variantes": [
+   "évasion fiscale",
+   "optimisation fiscale",
+   "paradis fiscaux"
+  ],
+  "categorie": "notion juridique",
+  "theme": "pouvoir-achat",
+  "definition": "La fraude fiscale est le fait d'échapper illégalement à l'impôt, par dissimulation de revenus ou fausses déclarations ; c'est un délit. L'optimisation fiscale consiste à réduire son impôt en utilisant les règles existantes, ce qui est légal tant qu'elle ne relève pas de l'abus de droit. L'évasion fiscale désigne, selon les usages, des montages internationaux à la frontière des deux. La loi de 2018 relative à la lutte contre la fraude a notamment assoupli le « verrou de Bercy », qui réservait à l'administration l'initiative des poursuites pénales.",
+  "enjeux": "Tous les partis promettent de lutter contre la fraude, mais la gauche insiste sur la fraude et l'optimisation des grandes entreprises et des plus riches, quand la droite met aussi l'accent sur l'efficacité des contrôles et la fraude à la TVA. Les estimations du manque à gagner, très variables, sont elles-mêmes débattues.",
+  "reperes": [
+   "Loi du 23 octobre 2018 relative à la lutte contre la fraude"
+  ],
+  "liens": [
+   "exit-tax",
+   "impot-minimum-sur-les-multinationales",
+   "tva"
+  ],
+  "motifs": [
+   "fraude fiscale",
+   "évasion fiscale",
+   "évasion fiscales",
+   "optimisation fiscale",
+   "paradis fiscaux",
+   "stratégies d'optimisation",
+   "contrôles fiscaux",
+   "TVA en temps réel"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme fait de la lutte contre la fraude et l'évasion fiscales une priorité, avec des moyens humains et financiers supplémentaires.",
+    "appuis": [
+     "p197ff013"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose de renforcer les moyens de lutte contre la fraude, l'évasion fiscale et les paradis fiscaux, qui « mine le consentement à l'impôt ».",
+    "appuis": [
+     "p897034b3"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit un effort fiscal ciblé sur les très hauts patrimoines et les grands groupes pour contrer leur optimisation fiscale.",
+    "appuis": [
+     "p47631fb3"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de faire prélever la TVA en temps réel par les banques et de sanctionner les stratégies d'optimisation des profits réalisés en France.",
+    "appuis": [
+     "pb61da09b",
+     "p0eeb497d"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de porter à 80 % le ciblage des contrôles fiscaux par l'exploration de données, pour un gain estimé à 1 milliard d'euros par an.",
+    "appuis": [
+     "p34301012"
+    ]
+   }
+  }
+ },
+ {
+  "id": "credit-d-impot-recherche",
+  "nom": "Crédit d'impôt recherche",
+  "variantes": [
+   "CIR"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "pouvoir-achat",
+  "definition": "Le crédit d'impôt recherche permet aux entreprises de déduire de leur impôt une partie de leurs dépenses de recherche et développement. Créé en 1983, il a été fortement élargi en 2008 et représente l'une des dépenses fiscales les plus coûteuses pour l'État. Il est calculé principalement sur le volume des dépenses, avec un taux plus faible au-delà d'un seuil élevé. Ses effets sur l'effort de recherche des entreprises sont discutés par les évaluations publiques.",
+  "enjeux": "Ses défenseurs y voient un atout majeur pour attirer les centres de recherche en France. Ses critiques jugent qu'il bénéficie surtout aux grands groupes, parfois sans hausse réelle de leur recherche, et proposent de le plafonner ou de le recentrer sur les PME.",
+  "reperes": [
+   "Créé en 1983",
+   "Réforme de 2008 qui en fait un crédit assis sur le volume des dépenses"
+  ],
+  "liens": [
+   "niches-fiscales",
+   "impot-sur-les-societes"
+  ],
+  "motifs": [
+   "crédit d'impôt recherche",
+   "CIR",
+   "crédit impôt recherche"
+  ],
+  "positions": {
+   "ps-pp": {
+    "texte": "Le programme propose de refonder le crédit d'impôt recherche en le plafonnant pour les grands groupes et en le recentrant sur les PME, ETI industrielles et jeunes entreprises innovantes.",
+    "appuis": [
+     "p2a699668"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme prévoit de recentrer et de « verdir » le crédit d'impôt recherche sur les PME et ETI.",
+    "appuis": [
+     "pe914d9af"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de « sanctuariser » le crédit d'impôt recherche.",
+    "appuis": [
+     "pdb6da6d9"
+    ]
+   }
+  }
+ },
+ {
+  "id": "statut-du-bailleur-prive",
+  "nom": "Statut du bailleur privé et amortissement locatif",
+  "variantes": [
+   "amortissement universel",
+   "dispositif Pinel"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "pouvoir-achat",
+  "definition": "Le statut du bailleur privé désigne un régime fiscal qui permet aux particuliers qui louent un logement de déduire chaque année de leurs revenus locatifs une fraction de la valeur du bien, comme le font les entreprises pour leurs équipements. Ce mécanisme d'amortissement existait pour la location meublée ; la loi de finances pour 2026 du 19 février 2026 l'a ouvert, sous conditions de loyer et de durée de location, à la location nue de logements neufs ou d'anciens logements lourdement rénovés acquis jusqu'à la fin de 2028, dans la limite d'un plafond annuel. Depuis les années 2000, l'investissement locatif avait surtout été encouragé par des réductions d'impôt temporaires et successives, dont les dispositifs Robien, Scellier, Duflot et Pinel, ce dernier ayant pris fin en 2024. Plusieurs programmes proposent un statut plus large que celui adopté en 2026.",
+  "enjeux": "Ses partisans y voient un moyen stable de relancer l'investissement locatif et la construction. Ses critiques s'inquiètent de son coût et estiment qu'il profiterait d'abord aux ménages déjà propriétaires.",
+  "reperes": [
+   "Fin du dispositif Pinel au 31 décembre 2024",
+   "Amortissement ouvert à la location nue, sous conditions, par la loi de finances pour 2026 (19 février 2026)"
+  ],
+  "liens": [
+   "niches-fiscales"
+  ],
+  "motifs": [
+   "statut du bailleur privé",
+   "amortissement universel",
+   "Pinel"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose un « véritable statut du bailleur privé », avec un amortissement de 4 % par an de la valeur du bâti, bonifié pour les loyers modérés, et un cadre fiscal garanti pour dix ans.",
+    "appuis": [
+     "p7f4e1fac",
+     "p711ad1e9",
+     "p1da8748a",
+     "pf9da3ed0"
+    ]
+   }
+  }
+ },
+ {
+  "id": "frais-bancaires",
+  "nom": "Droit au compte et plafonnement des frais bancaires",
+  "variantes": [
+   "frais d'incidents bancaires",
+   "droit au compte"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "pouvoir-achat",
+  "definition": "Le droit au compte permet à toute personne qui s'est vu refuser l'ouverture d'un compte de saisir la Banque de France, qui désigne un établissement tenu de lui ouvrir un compte avec des services de base gratuits. Les frais d'incidents bancaires, comme les commissions d'intervention ou les rejets de prélèvement, sont plafonnés par la réglementation, avec des plafonds plus bas pour les clients en situation de fragilité financière. Ces frais pèsent davantage sur les ménages modestes, plus exposés aux découverts.",
+  "enjeux": "Une partie de la gauche et des écologistes propose d'abaisser ou de généraliser les plafonds de frais. Les banques font valoir le coût de gestion des incidents et l'existence d'offres spécifiques pour les clients fragiles.",
+  "reperes": [
+   "Code monétaire et financier, article L312-1"
+  ],
+  "liens": [
+   "tarification-progressive"
+  ],
+  "motifs": [
+   "frais bancaires",
+   "compte bancaire"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de garantir un droit universel au compte bancaire, de plafonner les frais bancaires et de prévenir le surendettement des personnes pauvres.",
+    "appuis": [
+     "p7d5d22be"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de plafonner les frais bancaires.",
+    "appuis": [
+     "p3c4e77ce"
+    ]
+   }
+  }
+ }
+]

@@ -1,0 +1,2457 @@
+[
+ {
+  "id": "duree-legale-du-travail",
+  "nom": "Durée légale du travail (35 heures)",
+  "variantes": [
+   "35 heures",
+   "35h",
+   "1 607 heures"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "travail",
+  "definition": "La durée légale du travail est le seuil au-delà duquel les heures travaillées deviennent des heures supplémentaires, mieux rémunérées ou compensées en repos. En France, elle est fixée à 35 heures par semaine pour un temps plein, soit 1 607 heures par an lorsque le temps de travail est annualisé. Ce n'est pas un maximum : les durées maximales sont distinctes (en principe 10 heures par jour et 48 heures par semaine). Les 35 heures ont été instaurées par les lois Aubry de 1998 et 2000, et ont depuis été assouplies par plusieurs réformes qui ont élargi la place de la négociation d'entreprise.",
+  "enjeux": "Ses partisans y voient un acquis social qui partage l'emploi et protège la santé des salariés, et dénoncent les assouplissements successifs qui en ont réduit la portée. Ses opposants estiment qu'elle pèse sur la compétitivité et la quantité de travail disponible, et proposent d'en sortir par la négociation d'entreprise ou en rendant les heures au-delà plus avantageuses. Le débat porte aussi sur le cadre pertinent : la loi, la branche ou l'entreprise.",
+  "reperes": [
+   "Lois Aubry de 1998 et 2000",
+   "1 607 heures par an en cas d'annualisation"
+  ],
+  "liens": [
+   "semaine-de-32-heures",
+   "heures-supplementaires",
+   "principe-de-faveur"
+  ],
+  "motifs": [
+   "35h",
+   "sortir des 35 heures",
+   "ainsi que les 35 heures",
+   "au-delà de 35 heures",
+   "1 607 heures",
+   "1 623 heures",
+   "durée effective hebdomadaire"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose d'appliquer « réellement » les 35 heures en majorant les heures supplémentaires et de rétablir la durée effective hebdomadaire de 35 heures.",
+    "appuis": [
+     "p4ddf1186",
+     "p406a89ce",
+     "p6c6b4a39"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de négocier le temps de travail par entreprise, avec référendum possible, « pour sortir des 35 heures », et de porter à 1 623 heures annuelles le seuil au-delà duquel les heures sont exonérées de cotisations.",
+    "appuis": [
+     "p00df1172",
+     "p09bb9d90",
+     "p68ef9e1f"
+    ]
+   }
+  }
+ },
+ {
+  "id": "semaine-de-32-heures",
+  "nom": "Semaine de 32 heures et semaine de quatre jours",
+  "variantes": [
+   "32 heures",
+   "semaine de quatre jours",
+   "réduction du temps de travail"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "travail",
+  "definition": "La semaine de 32 heures désigne une nouvelle réduction de la durée légale du travail, de 35 à 32 heures, en principe sans baisse de salaire. La semaine de quatre jours est une notion voisine mais distincte : elle réorganise le temps de travail sur quatre jours, avec ou sans réduction de sa durée totale. Des entreprises et quelques administrations l'expérimentent en France et à l'étranger. La réduction du temps de travail s'inscrit dans une longue histoire, des 40 heures de 1936 aux 35 heures de 1998-2000.",
+  "enjeux": "Ses partisans y voient un moyen de partager le travail, de créer des emplois, de réduire la pénibilité et de tirer parti des gains de productivité. Ses opposants redoutent une hausse du coût du travail et des difficultés d'organisation, notamment dans les services publics et les petites entreprises. Les propositions diffèrent selon qu'elles visent une loi générale, une négociation par branche, les seuls métiers pénibles ou une simple réorganisation sur quatre jours.",
+  "reperes": [
+   "Semaine de 40 heures en 1936, de 35 heures en 1998-2000"
+  ],
+  "liens": [
+   "duree-legale-du-travail",
+   "penibilite"
+  ],
+  "motifs": [
+   "32 heures",
+   "semaine de quatre jours",
+   "semaine en quatre jours",
+   "partage du temps de travail",
+   "réduction du temps de travail"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de passer aux 32 heures sans perte de salaire dans les métiers pénibles ou de nuit, en y conditionnant les aides aux entreprises.",
+    "appuis": [
+     "p3e5c8270"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit le passage immédiat aux 32 heures dans les métiers pénibles ou de nuit, des négociations par branche pour la semaine de 32 heures et la promotion de la semaine de quatre jours.",
+    "appuis": [
+     "p406a89ce",
+     "p255cf986",
+     "p42a9d518"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de promouvoir, « là où c'est possible », la semaine en quatre jours et une meilleure adaptation des horaires entre employeur et salarié, sans réduction de la durée légale.",
+    "appuis": [
+     "pba355fb2"
+    ]
+   }
+  }
+ },
+ {
+  "id": "heures-supplementaires",
+  "nom": "Heures supplémentaires",
+  "variantes": [
+   "heures sup",
+   "défiscalisation des heures supplémentaires"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "travail",
+  "definition": "Les heures supplémentaires sont les heures accomplies au-delà de la durée légale ou de la durée équivalente. Elles donnent lieu à une majoration de salaire (par défaut 25 % pour les huit premières heures et 50 % au-delà, un accord pouvant fixer un taux plus bas, sans descendre sous 10 %) ou à un repos compensateur. Leur volume est encadré par un contingent annuel fixé par accord ou, à défaut, par décret. Depuis 2019, elles sont exonérées de cotisations salariales et, dans une certaine limite, d'impôt sur le revenu, après une première défiscalisation entre 2007 et 2012.",
+  "enjeux": "Pour leurs défenseurs, faciliter et défiscaliser les heures supplémentaires permet de « travailler plus pour gagner plus » et donne de la souplesse aux entreprises. Leurs critiques y voient un manque à gagner pour la protection sociale, un frein à l'embauche et une manière de contourner la durée légale. Le débat oppose l'exonération, le relèvement ou la suppression du plafond, et au contraire leur soumission à cotisation ou une majoration plus forte.",
+  "reperes": [
+   "Majoration légale par défaut de 25 % puis 50 %",
+   "Exonération de cotisations salariales depuis 2019"
+  ],
+  "liens": [
+   "duree-legale-du-travail",
+   "smic"
+  ],
+  "motifs": [
+   "heures supplémentaires"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de supprimer les exonérations de cotisations portant sur les heures supplémentaires.",
+    "appuis": [
+     "p359a7223"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de majorer les heures supplémentaires et de les soumettre à cotisation, comme les dividendes et l'épargne salariale.",
+    "appuis": [
+     "p4ddf1186",
+     "p76cf605d"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose « ni charge ni impôt » pour les heures travaillées au-delà de 35 heures, le maintien de l'exonération d'impôt existante et la conversion des RTT en salaire.",
+    "appuis": [
+     "p68ef9e1f",
+     "pda6acf5e",
+     "p72f95600"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose d'exonérer d'impôts et de charges les heures supplémentaires.",
+    "appuis": [
+     "pe7e6cd1e"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de supprimer le plafond d'heures supplémentaires fixé par le Code du travail à défaut d'accord collectif.",
+    "appuis": [
+     "p30ea9da3"
+    ]
+   }
+  }
+ },
+ {
+  "id": "smic",
+  "nom": "Salaire minimum (SMIC)",
+  "variantes": [
+   "Smic",
+   "salaire minimum interprofessionnel de croissance",
+   "salaire minimum"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "travail",
+  "definition": "Le salaire minimum interprofessionnel de croissance est le salaire horaire en dessous duquel aucun salarié ne peut être payé en France. Créé en 1970 pour succéder au SMIG de 1950, il est revalorisé chaque année au 1er janvier selon une formule légale qui tient compte de l'inflation subie par les ménages modestes et de la moitié des gains de pouvoir d'achat du salaire horaire de base des ouvriers et des employés. Le gouvernement peut y ajouter un « coup de pouce ». Il sert aussi de référence à de nombreux dispositifs, comme les allègements de cotisations ou certaines prestations.",
+  "enjeux": "Les partisans d'une forte hausse y voient le levier le plus direct contre les bas salaires et pour le pouvoir d'achat. Leurs contradicteurs craignent un effet sur l'emploi peu qualifié et le « tassement » des grilles salariales, et préfèrent agir sur le salaire net par la baisse des cotisations ou l'incitation des entreprises. La question des branches dont les minima restent sous le SMIC revient régulièrement.",
+  "reperes": [
+   "Créé en 1970, successeur du SMIG de 1950",
+   "Revalorisation automatique chaque 1er janvier"
+  ],
+  "liens": [
+   "principe-de-faveur",
+   "egalite-salariale"
+  ],
+  "motifs": [
+   "smic",
+   "salaire minimum"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de porter le salaire minimum à 2 000 euros brut par mois dès 2027 et de relever les minima conventionnels au moins à son niveau.",
+    "appuis": [
+     "p31bc8dde",
+     "p7c982df0"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de porter le SMIC à 1 600 euros net ; la profession de foi de 2022 prévoyait 1 400 euros net dès l'élection.",
+    "appuis": [
+     "p2cf37527",
+     "p62ca5c77"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d'augmenter le SMIC de 200 euros net par mois, pour le porter à 1 600 euros net dans les deux ans.",
+    "appuis": [
+     "p6a8c5112",
+     "p42725c66"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme utilise le SMIC net comme référence : aucune retraite inférieure à ce niveau après une carrière complète, et un plafond des aides fixé à 70 % du SMIC net par adulte.",
+    "appuis": [
+     "p46406374",
+     "pb5c1738b"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d'exonérer de la hausse des cotisations patronales, pendant trois à cinq ans, les entreprises qui augmentent de 10 % les salaires jusqu'à trois fois le SMIC.",
+    "appuis": [
+     "pa0ea4c9c"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de porter l'exonération de cotisations salariales des apprentis de 79 % à 100 % du SMIC et d'exonérer de cotisations, à hauteur du SMIC, leur embauche en CDI.",
+    "appuis": [
+     "pcbf34de6",
+     "p842bbcf7"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme mentionne le SMIC comme niveau de revenu de référence pour la baisse des charges des indépendants, qui augmenterait de 550 euros par an le revenu correspondant.",
+    "appuis": [
+     "pddfb1aa6"
+    ]
+   }
+  }
+ },
+ {
+  "id": "principe-de-faveur",
+  "nom": "Principe de faveur et hiérarchie des normes sociales",
+  "variantes": [
+   "hiérarchie des normes",
+   "inversion de la hiérarchie des normes",
+   "primauté de l'accord d'entreprise"
+  ],
+  "categorie": "notion juridique",
+  "theme": "travail",
+  "definition": "Le principe de faveur veut qu'en cas de conflit entre deux normes du droit du travail, on applique la plus favorable au salarié : un accord d'entreprise ne pouvait ainsi, en principe, qu'améliorer l'accord de branche, lui-même plus favorable que la loi. Ce principe a été progressivement aménagé, notamment en 2004, puis par la loi « travail » de 2016 sur le temps de travail et par les ordonnances de 2017, qui ont réparti les sujets en trois blocs et donné la primauté à l'accord d'entreprise dans de nombreux domaines. On parle depuis d'« inversion de la hiérarchie des normes ».",
+  "enjeux": "Les syndicats et la gauche y voient une protection essentielle contre le chantage à l'emploi dans l'entreprise et demandent son rétablissement. Les organisations patronales, la droite et le centre défendent une négociation au plus près du terrain et proposent de réduire le Code du travail à un socle de principes, le reste relevant des accords. La place de la branche, garante de règles communes dans un secteur, est au cœur de la discussion.",
+  "reperes": [
+   "Loi « travail » (El Khomri) de 2016",
+   "Ordonnances de septembre 2017"
+  ],
+  "liens": [
+   "lois-travail",
+   "comite-social-et-economique",
+   "seuils-sociaux"
+  ],
+  "motifs": [
+   "principe de faveur",
+   "accords de branches",
+   "accord de branche",
+   "accords d'entreprise",
+   "supplétif",
+   "extension automatique",
+   "Constitution du travail"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de rétablir le principe de faveur, qui « voit la loi primer sur la convention collective ».",
+    "appuis": [
+     "pd9c1c8f2"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de rétablir le « principe de faveur », selon lequel l'accord d'entreprise doit être plus favorable que l'accord de branche, lui-même plus favorable que la loi.",
+    "appuis": [
+     "p2c3567a0"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de redonner la priorité aux accords de branche sur les accords d'entreprise.",
+    "appuis": [
+     "p842485dc"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit un socle de 50 principes indépassables, un Code du travail « supplétif » qui ne s'appliquerait qu'en l'absence d'accord collectif, et l'abandon de l'extension automatique des accords de branche.",
+    "appuis": [
+     "p7d7197a7",
+     "pee953755",
+     "p363ac6ea"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de réécrire un code plus simple, une « Constitution du travail » de quelques articles fondamentaux, le reste relevant des branches et des entreprises.",
+    "appuis": [
+     "p743109cc"
+    ]
+   }
+  }
+ },
+ {
+  "id": "lois-travail",
+  "nom": "Lois travail (loi El Khomri et ordonnances Macron)",
+  "variantes": [
+   "loi El Khomri",
+   "ordonnances Macron",
+   "loi Travail"
+  ],
+  "categorie": "politique publique",
+  "theme": "travail",
+  "definition": "On désigne sous ce nom les réformes du droit du travail des années 2016 et 2017. La loi du 8 août 2016, dite loi El Khomri ou loi Travail, a notamment donné la priorité à l'accord d'entreprise en matière de temps de travail et précisé les motifs du licenciement économique. Les ordonnances de septembre 2017 ont fusionné les instances représentatives du personnel dans le comité social et économique, instauré un barème des indemnités prud'homales pour licenciement sans cause réelle et sérieuse et élargi le champ de la négociation d'entreprise.",
+  "enjeux": "Leurs défenseurs estiment qu'elles ont assoupli le marché du travail, simplifié le dialogue social et favorisé l'embauche. Leurs opposants, syndicats et partis de gauche en tête, y voient un affaiblissement des protections des salariés et des contre-pouvoirs dans l'entreprise, et en demandent l'abrogation. La loi de 2016 a donné lieu à un important mouvement social.",
+  "reperes": [
+   "Loi du 8 août 2016",
+   "Ordonnances du 22 septembre 2017"
+  ],
+  "liens": [
+   "principe-de-faveur",
+   "comite-social-et-economique",
+   "licenciements-economiques"
+  ],
+  "motifs": [
+   "lois travail",
+   "loi El Khomri",
+   "ordonnances Macron"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d'abroger les « dispositions régressives » des lois travail, citant la loi El Khomri et les ordonnances Macron.",
+    "appuis": [
+     "p4b7abc0a"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d'abroger les lois travail et de rétablir le principe de faveur.",
+    "appuis": [
+     "p2c3567a0"
+    ]
+   }
+  }
+ },
+ {
+  "id": "comite-social-et-economique",
+  "nom": "Comité social et économique (CSE) et CHSCT",
+  "variantes": [
+   "CSE",
+   "comité d'entreprise",
+   "CHSCT",
+   "instances représentatives du personnel"
+  ],
+  "categorie": "institution",
+  "theme": "travail",
+  "definition": "Le comité social et économique est l'instance élue de représentation du personnel dans l'entreprise. Créé par les ordonnances de 2017, il a remplacé et fusionné les délégués du personnel, le comité d'entreprise et le comité d'hygiène, de sécurité et des conditions de travail (CHSCT). Il est obligatoire à partir de 11 salariés, avec des attributions économiques et des activités sociales et culturelles plus étendues à partir de 50 salariés. Il est informé et consulté sur la marche de l'entreprise, mais ses avis sont en règle générale consultatifs.",
+  "enjeux": "Une partie de la gauche juge que la fusion a réduit les moyens consacrés à la santé au travail et demande le retour des CHSCT ou des pouvoirs plus contraignants, comme un avis conforme ou un droit de veto. À droite, plusieurs programmes jugent ces obligations lourdes pour les petites entreprises et proposent d'en relever les seuils. Le débat porte sur le passage d'une instance consultative à un véritable contre-pouvoir.",
+  "reperes": [
+   "Créé par les ordonnances de 2017",
+   "Obligatoire dès 11 salariés, attributions élargies dès 50"
+  ],
+  "liens": [
+   "seuils-sociaux",
+   "codetermination",
+   "sante-au-travail"
+  ],
+  "motifs": [
+   "CSE",
+   "comité social et économique",
+   "CHSCT",
+   "comités d'entreprise",
+   "comité d'entreprise",
+   "BDESE"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d'étendre les pouvoirs du CSE sur l'organisation du travail et de lui donner un avis conforme avant tout déploiement d'intelligence artificielle et sur les objectifs RSE.",
+    "appuis": [
+     "pe2f8fd44",
+     "p53b44820",
+     "p99ab79f9"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de rétablir les CHSCT, d'accorder aux comités d'entreprise des droits de contrôle sur les finances et un veto suspensif sur les licenciements économiques.",
+    "appuis": [
+     "p80dc30e8",
+     "p51290c91",
+     "p518979b5"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de relever à 50 salariés le seuil du CSE, en supprimant le CSE « réduit » des 11-49 salariés, et de supprimer la base de données économiques et sociales sous 250 salariés.",
+    "appuis": [
+     "p9a05cbba",
+     "p1294cf2b"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de relever de 50 à 250 salariés le seuil d'obligation de consultation du CSE.",
+    "appuis": [
+     "p4621fff2"
+    ]
+   }
+  }
+ },
+ {
+  "id": "seuils-sociaux",
+  "nom": "Seuils sociaux",
+  "variantes": [
+   "seuils d'effectif",
+   "effets de seuil"
+  ],
+  "categorie": "notion juridique",
+  "theme": "travail",
+  "definition": "Les seuils sociaux sont les niveaux d'effectif à partir desquels une entreprise doit respecter de nouvelles obligations : élection d'un CSE à 11 salariés, attributions renforcées du CSE, participation aux résultats et règlement intérieur à 50 salariés, obligations supplémentaires à 250 ou 300 salariés. La loi Pacte de 2019 a regroupé la plupart des seuils autour de 11, 50 et 250 salariés et prévu qu'un seuil ne s'applique qu'après avoir été franchi pendant cinq années consécutives.",
+  "enjeux": "Pour les organisations patronales et la droite, ces seuils créent des « effets de seuil » qui dissuaderaient les entreprises de grandir, d'où les propositions de les relever ou de différencier les règles selon la taille. Les syndicats répondent que ces seuils conditionnent l'accès des salariés à la représentation et à certains droits, et contestent l'ampleur de l'effet sur l'embauche.",
+  "reperes": [
+   "Loi Pacte de 2019 : seuils regroupés autour de 11, 50 et 250 salariés"
+  ],
+  "liens": [
+   "comite-social-et-economique",
+   "simplification-administrative"
+  ],
+  "motifs": [
+   "seuil à 100 salariés",
+   "seuil à 50 salariés",
+   "seuil de 50",
+   "seuils sociaux",
+   "selon la taille des entreprises"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose de relever le seuil de 50 à 100 salariés « pour toutes les obligations » et de porter à 50 salariés le seuil du CSE.",
+    "appuis": [
+     "pe85baab2",
+     "p9a05cbba"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de relever de 50 à 250 salariés le seuil de consultation du CSE.",
+    "appuis": [
+     "p4621fff2"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de différencier les textes et leur application selon la taille des entreprises.",
+    "appuis": [
+     "p5a11d4f5"
+    ]
+   }
+  }
+ },
+ {
+  "id": "codetermination",
+  "nom": "Codétermination et administrateurs salariés",
+  "variantes": [
+   "cogestion",
+   "administrateurs salariés",
+   "salariés au conseil d'administration"
+  ],
+  "categorie": "doctrine ou courant",
+  "theme": "travail",
+  "definition": "La codétermination désigne la participation des salariés aux organes de direction de l'entreprise, en particulier par des sièges au conseil d'administration ou de surveillance. En Allemagne, les salariés détiennent la moitié des sièges du conseil de surveillance dans les grandes entreprises. En France, les entreprises d'une certaine taille doivent compter un ou deux administrateurs salariés depuis la loi de sécurisation de l'emploi de 2013, obligation renforcée par la loi Pacte de 2019.",
+  "enjeux": "Ses partisans y voient un moyen de démocratiser l'entreprise, d'orienter la stratégie vers le long terme et de mieux prendre en compte l'emploi. Ses détracteurs craignent une dilution du pouvoir des actionnaires et une gouvernance plus lente. Le débat porte sur la proportion de sièges, le seuil d'effectif et l'éventuel droit de veto ou de défiance des salariés.",
+  "reperes": [
+   "Loi de sécurisation de l'emploi de 2013",
+   "Loi Pacte de 2019"
+  ],
+  "liens": [
+   "comite-social-et-economique",
+   "partage-de-la-valeur",
+   "reprise-en-cooperative"
+  ],
+  "motifs": [
+   "conseils d'administration",
+   "conseil d'administration",
+   "codétermination",
+   "vote de défiance"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d'attribuer de droit des postes aux salariés dans les conseils d'administration ou de surveillance, et d'accorder plus de droits de vote aux actionnaires de long terme.",
+    "appuis": [
+     "p02ab5536",
+     "pbcef7b32"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de réserver aux salariés au moins un tiers des sièges des conseils d'administration et de créer un « vote de défiance » des salariés envers les dirigeants.",
+    "appuis": [
+     "p5737db90",
+     "pbdd00114"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d'intégrer davantage de représentants des salariés dans les conseils d'administration dès 100 salariés.",
+    "appuis": [
+     "p0accc8ab"
+    ]
+   }
+  }
+ },
+ {
+  "id": "presomption-de-salariat",
+  "nom": "Présomption de salariat des travailleurs des plateformes",
+  "variantes": [
+   "directive plateformes",
+   "ubérisation",
+   "requalification en salariat"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "travail",
+  "definition": "La présomption de salariat est une règle selon laquelle un travailleur est réputé salarié dès lors que certains indices de contrôle par la plateforme sont réunis, à charge pour celle-ci de prouver le contraire. Elle vise les chauffeurs et livreurs qui travaillent par l'intermédiaire d'applications sous un statut d'indépendant, souvent celui de micro-entrepreneur. La directive (UE) 2024/2831 du 23 octobre 2024 l'impose aux États membres, qui doivent la transposer au plus tard le 2 décembre 2026 ; à l'été 2026, aucun projet de loi de transposition n'avait encore été présenté en France. En France, des juges ont déjà requalifié certaines relations en contrats de travail.",
+  "enjeux": "Ses partisans y voient la fin d'un salariat déguisé qui prive ces travailleurs de protection sociale et de droits collectifs. Les plateformes et une partie des travailleurs concernés défendent la souplesse de l'indépendance et ont privilégié en France un dialogue social propre au secteur. Le débat porte sur l'ampleur de la transposition et sur les critères retenus.",
+  "reperes": [
+   "Directive (UE) 2024/2831 du 23 octobre 2024 relative à l'amélioration des conditions de travail via une plateforme",
+   "Délai de transposition : 2 décembre 2026"
+  ],
+  "liens": [
+   "contrats-courts",
+   "intelligence-artificielle"
+  ],
+  "motifs": [
+   "présomption de salariat",
+   "travailleurs des plates-formes",
+   "travailleur·ses des plateformes"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de transposer la directive européenne sur la présomption de salariat pour les travailleurs des plateformes.",
+    "appuis": [
+     "pe0727e02"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de transposer « au plus vite » la directive européenne sur la présomption de salariat des travailleurs des plateformes.",
+    "appuis": [
+     "p95009fb1"
+    ]
+   }
+  }
+ },
+ {
+  "id": "assurance-chomage",
+  "nom": "Assurance chômage",
+  "variantes": [
+   "assurance-chômage",
+   "allocation de retour à l'emploi",
+   "Unédic"
+  ],
+  "categorie": "prestation sociale",
+  "theme": "travail",
+  "definition": "L'assurance chômage verse un revenu de remplacement aux salariés involontairement privés d'emploi qui ont suffisamment cotisé. Créée en 1958, elle est gérée par l'Unédic, organisme paritaire, selon des règles négociées par les partenaires sociaux dans un cadre fixé par l'État, qui reprend la main en cas d'échec. Les réformes engagées depuis 2019 ont durci les conditions d'accès, modifié le calcul de l'allocation et, depuis 2023, modulé la durée d'indemnisation selon la conjoncture.",
+  "enjeux": "Les défenseurs des réformes estiment qu'elles incitent à la reprise d'emploi dans un marché du travail en tension. Leurs opposants y voient une baisse des droits frappant d'abord les plus précaires et en demandent l'abrogation. Le débat porte aussi sur la gouvernance, entre paritarisme et étatisation, et sur la conditionnalité de l'indemnisation.",
+  "reperes": [
+   "Créée en 1958, gérée par l'Unédic",
+   "Modulation de la durée selon la conjoncture depuis 2023"
+  ],
+  "liens": [
+   "securite-sociale-professionnelle",
+   "formation-professionnelle"
+  ],
+  "motifs": [
+   "assurance chômage",
+   "assurance-chômage",
+   "indemnités chômage",
+   "droits au chômage",
+   "indemnisation du chômage",
+   "Unédic"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d'abroger les réformes de l'assurance chômage des deux derniers quinquennats et de créer une assurance chômage européenne.",
+    "appuis": [
+     "pf8ed9503",
+     "p5ee3d490"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d'abroger les réformes de l'assurance chômage en même temps que la retraite à 64 ans.",
+    "appuis": [
+     "pa38ec343"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d'abroger la réforme Macron de l'assurance chômage.",
+    "appuis": [
+     "pcadb78d7"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d'annuler la réforme de l'assurance chômage de juillet 2024.",
+    "appuis": [
+     "pf250ed3b"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose d'appliquer les règles d'indemnisation de juin 2024, de réduire de 30 % les indemnités en cas de refus de formation dans un secteur en tension et de les suspendre en cas de refus d'une offre adaptée.",
+    "appuis": [
+     "p37b5774d",
+     "pa0d8d4bd",
+     "p5e2f3ec1"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de verser directement la moitié des droits au chômage aux demandeurs d'emploi qui déménagent pour un emploi.",
+    "appuis": [
+     "pb63b15a6"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit une réforme de l'assurance chômage « qui incite au travail », présentée comme créatrice de 100 000 emplois.",
+    "appuis": [
+     "p2adf8f31"
+    ]
+   }
+  }
+ },
+ {
+  "id": "securite-sociale-professionnelle",
+  "nom": "Sécurité sociale professionnelle",
+  "variantes": [
+   "sécurité sociale professionnelle",
+   "continuité des droits"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "travail",
+  "definition": "La sécurité sociale professionnelle est un projet de garantie collective qui attacherait les droits à la personne plutôt qu'au contrat de travail : maintien du revenu et des droits, comme l'ancienneté ou la formation, en cas de perte d'emploi, de reconversion ou de transition. L'idée a été portée notamment par la CGT à partir des années 2000, sous le nom de « nouveau statut du travail salarié ». Elle n'existe pas en tant que telle en droit français, même si le compte personnel d'activité en reprend certains éléments.",
+  "enjeux": "Ses partisans y voient une protection adaptée aux carrières discontinues et aux transitions industrielles ou écologiques. Ses critiques s'interrogent sur son coût, son financement et son articulation avec l'assurance chômage existante. Les versions proposées diffèrent par leur champ : tous les actifs ou seulement les salariés des secteurs touchés par la transition.",
+  "reperes": [
+   "Notion portée par la CGT depuis les années 2000"
+  ],
+  "liens": [
+   "assurance-chomage",
+   "formation-professionnelle",
+   "territoires-zero-chomeur"
+  ],
+  "motifs": [
+   "sécurité sociale professionnelle",
+   "continuité des droits personnels",
+   "continuité du revenu"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une sécurité sociale professionnelle pour les travailleurs touchés par la transition écologique, avec une garantie de salaire de deux ans dans les secteurs les plus exposés.",
+    "appuis": [
+     "p83784483",
+     "p54a5514b"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit une sécurité sociale professionnelle garantissant la continuité du revenu et des droits personnels hors du contrat de travail.",
+    "appuis": [
+     "p11012273",
+     "pabc4abac"
+    ]
+   }
+  }
+ },
+ {
+  "id": "territoires-zero-chomeur",
+  "nom": "Territoires zéro chômeur de longue durée et garantie d'emploi",
+  "variantes": [
+   "TZCLD",
+   "entreprises à but d'emploi",
+   "droit opposable à l'emploi",
+   "garantie d'emploi"
+  ],
+  "categorie": "politique publique",
+  "theme": "travail",
+  "definition": "Territoires zéro chômeur de longue durée est une expérimentation lancée par une loi de 2016, puis élargie en 2020, à l'initiative notamment d'ATD Quart Monde. Dans les territoires habilités, des « entreprises à but d'emploi » embauchent en CDI, au SMIC, des personnes privées durablement d'emploi pour des activités utiles localement et non concurrentes. Elles sont financées en partie par la réaffectation des dépenses liées au chômage. L'idée s'apparente à celle, plus large, de « garantie d'emploi », où la puissance publique s'engage à proposer un emploi à qui en demande.",
+  "enjeux": "Ses partisans y voient la preuve que « personne n'est inemployable » et proposent de la généraliser, voire d'en faire un droit opposable. Les évaluations publiques ont relevé des effets positifs pour les bénéficiaires mais un coût par emploi plus élevé que prévu, ce que soulignent ses critiques. Le débat porte sur sa généralisation et son financement.",
+  "reperes": [
+   "Loi d'expérimentation de 2016, élargie en 2020"
+  ],
+  "liens": [
+   "securite-sociale-professionnelle",
+   "economie-sociale-et-solidaire"
+  ],
+  "motifs": [
+   "zéro chômeur",
+   "zéro chômeurs",
+   "garantie d'emploi",
+   "garantie à l'emploi",
+   "but d'emploi",
+   "droit opposable à l'emploi"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une garantie d'emploi pour les chômeurs à partir de 55 ans en essaimant Territoires zéro chômeur de longue durée et les entreprises à but d'emploi.",
+    "appuis": [
+     "p75e9d411"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit un « droit opposable à l'emploi » par l'embauche publique des chômeurs volontaires sur des tâches d'intérêt général.",
+    "appuis": [
+     "p1e644c30"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une « garantie à l'emploi » en généralisant Territoires zéro chômeur de longue durée et en créant un CDI d'insertion.",
+    "appuis": [
+     "p56a8c84a"
+    ]
+   }
+  }
+ },
+ {
+  "id": "apprentissage",
+  "nom": "Apprentissage et alternance",
+  "variantes": [
+   "alternance",
+   "apprentis",
+   "contrat d'apprentissage"
+  ],
+  "categorie": "politique publique",
+  "theme": "travail",
+  "definition": "L'apprentissage est une formation en alternance qui associe un contrat de travail dans une entreprise et des enseignements dans un centre de formation d'apprentis (CFA), pour préparer un diplôme ou un titre professionnel. L'apprenti est un salarié rémunéré selon un pourcentage du SMIC qui varie avec l'âge et l'année de formation. La loi « Avenir professionnel » de 2018 a libéralisé l'ouverture des CFA et instauré un financement au contrat ; les aides à l'embauche créées à partir de 2020 ont fortement accru le nombre d'apprentis, notamment dans l'enseignement supérieur.",
+  "enjeux": "Un large accord existe sur son intérêt pour l'insertion professionnelle. Le débat porte sur le coût des aides publiques, leur ciblage (jeunes peu qualifiés ou étudiants du supérieur), l'âge d'entrée et la place de l'alternance dans la voie professionnelle. Certains programmes privilégient les exonérations de cotisations, d'autres la rémunération des apprentis.",
+  "reperes": [
+   "Loi « Avenir professionnel » de 2018",
+   "Aides exceptionnelles à l'embauche depuis 2020"
+  ],
+  "liens": [
+   "formation-professionnelle",
+   "smic"
+  ],
+  "motifs": [
+   "apprentis",
+   "apprenti·es",
+   "alternance",
+   "alternants",
+   "alternant·es",
+   "aides à l'apprentissage",
+   "l'apprentissage ou de l'alternance"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de renforcer les aides à l'apprentissage pour les jeunes peu qualifiés et d'augmenter le salaire des apprentis et des alternants.",
+    "appuis": [
+     "p78b3d9ae",
+     "pdf06d2b2"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d'augmenter le salaire des apprentis et des alternants.",
+    "appuis": [
+     "p2cf37527"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose d'ouvrir l'apprentissage dès quatorze ans, de viser 100 % d'alternance dans la voie professionnelle et un million d'apprentis.",
+    "appuis": [
+     "p39f79d7a",
+     "pc1f88915",
+     "p3abef420"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose d'exonérer davantage de cotisations les apprentis et leur embauche en CDI, jusqu'au niveau du SMIC.",
+    "appuis": [
+     "pcbf34de6",
+     "p842bbcf7"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit un chèque-formation mensuel de 200 à 300 euros pour les apprentis, alternants et employeurs, et le maintien de l'exonération de cotisations salariales des apprentis.",
+    "appuis": [
+     "p4dbeb0a2",
+     "pa468c86c",
+     "p7244c8a8"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de généraliser l'alternance dans l'enseignement supérieur.",
+    "appuis": [
+     "p68c6638d"
+    ]
+   }
+  }
+ },
+ {
+  "id": "formation-professionnelle",
+  "nom": "Formation professionnelle et compte personnel de formation",
+  "variantes": [
+   "CPF",
+   "MonCompteFormation",
+   "reconversion professionnelle",
+   "formation continue"
+  ],
+  "categorie": "politique publique",
+  "theme": "travail",
+  "definition": "La formation professionnelle continue permet aux actifs de se former tout au long de leur carrière. Son principal outil individuel est le compte personnel de formation (CPF), créé en 2014 et crédité en euros depuis 2019, mobilisable par l'application MonCompteFormation ; une participation forfaitaire du titulaire est demandée depuis 2024. Le système est financé principalement par une contribution des entreprises gérée par France compétences, et associe les régions, les branches et France Travail.",
+  "enjeux": "Tous les programmes jugent la formation décisive face aux transitions écologique et numérique. Ils divergent sur les publics prioritaires (non-diplômés, demandeurs d'emploi, salariés des petites entreprises), sur le pilotage (régions, partenaires sociaux, État) et sur le lien entre formation et indemnisation du chômage. La qualité des formations financées par le CPF a aussi fait débat.",
+  "reperes": [
+   "CPF créé en 2014, monétisé en 2019"
+  ],
+  "liens": [
+   "apprentissage",
+   "assurance-chomage",
+   "intelligence-artificielle"
+  ],
+  "motifs": [
+   "CPF",
+   "MonCompteFormation",
+   "formation professionnelle",
+   "formations professionnelles",
+   "reconversion professionnelle",
+   "parcours de reconversion",
+   "Plan Compétences"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un Plan compétences transition écologique, un accès simplifié aux formations certifiantes pour les non-bacheliers et un rôle accru des régions dans l'anticipation des compétences.",
+    "appuis": [
+     "p93bea6d8",
+     "pb9dd16ae",
+     "pa456f358"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit d'abonder le CPF pour former à l'intelligence artificielle les demandeurs d'emploi et salariés de TPE, et de former plusieurs millions d'actifs en deux ans.",
+    "appuis": [
+     "paab126e1",
+     "p99c0a334",
+     "pd5d43f6e"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de créer des campus régionaux de la formation professionnelle pour revaloriser les métiers manuels.",
+    "appuis": [
+     "pdcd9213b"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit de former un million de personnes aux « métiers d'avenir » avant la fin de la décennie.",
+    "appuis": [
+     "pf4d5afed"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de créer des formations professionnelles et des unités de recherche sur les métiers de la transition écologique.",
+    "appuis": [
+     "p58b8093c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "contrats-courts",
+  "nom": "Contrats courts et bonus-malus",
+  "variantes": [
+   "CDD",
+   "contrats précaires",
+   "bonus-malus",
+   "prime de précarité"
+  ],
+  "categorie": "politique publique",
+  "theme": "travail",
+  "definition": "Les contrats courts sont les contrats à durée déterminée et missions d'intérim de faible durée, dont l'usage s'est fortement développé depuis les années 2000. Le CDD ouvre droit, sauf exceptions, à une indemnité de fin de contrat dite prime de précarité, égale à 10 % de la rémunération brute. Depuis 2022, un bonus-malus module la contribution d'assurance chômage des entreprises de onze salariés et plus dans plusieurs secteurs selon leur taux de séparation.",
+  "enjeux": "Ses partisans souhaitent renchérir ou plafonner le recours aux contrats courts pour encourager l'emploi durable. Les organisations patronales jugent ces contrats nécessaires dans certains secteurs et contestent l'efficacité du bonus-malus. Les propositions vont du renforcement du bonus-malus à des quotas maximaux de contrats précaires.",
+  "reperes": [
+   "Prime de précarité de 10 %",
+   "Bonus-malus appliqué depuis 2022"
+  ],
+  "liens": [
+   "assurance-chomage",
+   "presomption-de-salariat"
+  ],
+  "motifs": [
+   "contrats courts",
+   "contrats précaires",
+   "bonus-malus",
+   "prime de précarité",
+   "CDD",
+   "Contrat à Durée Déterminée"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de renforcer le bonus-malus sur les cotisations chômage en cas de CDD et de relever la prime de précarité.",
+    "appuis": [
+     "p9e18bb6d"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit un quota maximum de contrats précaires : 10 % dans les PME, 5 % dans les grandes entreprises.",
+    "appuis": [
+     "p96dfe981"
+    ]
+   }
+  }
+ },
+ {
+  "id": "licenciements-economiques",
+  "nom": "Licenciements économiques et licenciements boursiers",
+  "variantes": [
+   "licenciements boursiers",
+   "licenciement abusif",
+   "barème prud'homal"
+  ],
+  "categorie": "notion juridique",
+  "theme": "travail",
+  "definition": "Le licenciement économique est un licenciement fondé sur un motif non inhérent à la personne du salarié, comme des difficultés économiques, des mutations technologiques, une réorganisation nécessaire à la sauvegarde de la compétitivité ou la cessation d'activité. Il obéit à des procédures particulières, dont un plan de sauvegarde de l'emploi dans les entreprises d'au moins 50 salariés qui licencient au moins dix personnes. L'expression « licenciements boursiers », qui n'a pas de définition juridique, désigne des licenciements décidés par des entreprises bénéficiaires, ou pour accroître la rentabilité servie aux actionnaires.",
+  "enjeux": "La gauche propose d'interdire ou de pénaliser ces licenciements dans les entreprises qui versent des dividendes et de donner aux représentants des salariés un droit de veto. Ses contradicteurs estiment que ces mesures dissuaderaient l'investissement et l'embauche, et invoquent la liberté d'entreprendre, protégée par la Constitution. Le plafonnement des indemnités en cas de licenciement abusif, instauré en 2017, reste contesté.",
+  "reperes": [
+   "Barème des indemnités prud'homales instauré par les ordonnances de 2017"
+  ],
+  "liens": [
+   "comite-social-et-economique",
+   "partage-de-la-valeur",
+   "lois-travail"
+  ],
+  "motifs": [
+   "licenciements boursiers",
+   "licenciements économiques",
+   "licenciement abusif"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de porter à six mois de salaire les condamnations pour licenciement abusif.",
+    "appuis": [
+     "p2ab0ea2b"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d'interdire les licenciements boursiers et le versement de dividendes dans les entreprises qui licencient pour motif économique, et un veto suspensif des comités d'entreprise.",
+    "appuis": [
+     "pa6426355",
+     "p518979b5",
+     "p54d5d928"
+    ]
+   }
+  }
+ },
+ {
+  "id": "sante-au-travail",
+  "nom": "Santé et sécurité au travail",
+  "variantes": [
+   "zéro mort au travail",
+   "médecine du travail",
+   "inspection du travail",
+   "maladies professionnelles",
+   "burn-out"
+  ],
+  "categorie": "politique publique",
+  "theme": "travail",
+  "definition": "La santé et la sécurité au travail regroupent les règles de prévention des accidents et des maladies liés au travail. L'employeur est tenu d'une obligation de sécurité envers ses salariés ; la médecine du travail, l'inspection du travail et les instances représentatives en contrôlent l'application. Les accidents du travail et maladies professionnelles sont indemnisés par une branche spécifique de la Sécurité sociale ; une maladie ne figurant pas dans les tableaux officiels, comme l'épuisement professionnel, ne peut être reconnue qu'au cas par cas. La France compte chaque année plusieurs centaines de décès par accident du travail.",
+  "enjeux": "À gauche, les programmes dénoncent un nombre élevé de morts au travail, réclament un plan « zéro mort », davantage d'inspecteurs et la reconnaissance du burn-out. À droite, l'accent est mis sur une inspection qui conseille plutôt qu'elle ne sanctionne et sur l'allègement de l'obligation de sécurité de l'employeur. Le rétablissement d'une instance dédiée, l'ancien CHSCT, est aussi débattu.",
+  "reperes": [
+   "CHSCT créés en 1982, fusionnés dans le CSE en 2017"
+  ],
+  "liens": [
+   "penibilite",
+   "comite-social-et-economique"
+  ],
+  "motifs": [
+   "zéro mort au travail",
+   "médecine du travail",
+   "santé au travail",
+   "maladies professionnelles",
+   "maladie professionnelle",
+   "burn-out",
+   "inspection du travail",
+   "inspecteur·ices du travail",
+   "obligation de sécurité"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un plan « santé au travail » visant zéro mort au travail en 2032, 200 postes d'inspecteurs du travail et l'inscription du burn-out au tableau des maladies professionnelles.",
+    "appuis": [
+     "p075581de",
+     "pd6fa121e",
+     "p684a5837"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit un plan « zéro mort au travail » avec le rétablissement des CHSCT, la reconnaissance du burn-out comme maladie professionnelle et la garantie des pouvoirs de l'inspection du travail.",
+    "appuis": [
+     "p80dc30e8",
+     "pb87731ef",
+     "pade26796"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une stratégie « Zéro mort au travail ».",
+    "appuis": [
+     "p2690a7cd"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de transformer l'obligation de sécurité de résultat de l'employeur en obligation de moyens et d'orienter l'inspection du travail vers le conseil avant la sanction.",
+    "appuis": [
+     "p611cfc08",
+     "pc58c6226"
+    ]
+   }
+  }
+ },
+ {
+  "id": "penibilite",
+  "nom": "Pénibilité du travail",
+  "variantes": [
+   "métiers pénibles",
+   "usure professionnelle",
+   "compte professionnel de prévention",
+   "C2P"
+  ],
+  "categorie": "notion juridique",
+  "theme": "travail",
+  "definition": "La pénibilité désigne l'exposition à des facteurs de risques professionnels susceptibles de laisser des traces durables sur la santé, comme le travail de nuit, les températures extrêmes ou les gestes répétitifs. Le compte personnel de prévention de la pénibilité, créé en 2015, permettait d'acquérir des points pour se former, travailler à temps partiel ou partir plus tôt à la retraite. Devenu compte professionnel de prévention en 2017, il a perdu quatre facteurs : port de charges lourdes, postures pénibles, vibrations mécaniques et agents chimiques dangereux.",
+  "enjeux": "La gauche demande le rétablissement des facteurs supprimés et lie la pénibilité à la réduction du temps de travail ou à l'âge de départ. La droite et le centre privilégient la prévention de l'« usure professionnelle » et des dispositifs ciblés. Le sujet est étroitement lié aux débats sur les retraites.",
+  "reperes": [
+   "Compte créé en 2015, réduit à six facteurs en 2017"
+  ],
+  "liens": [
+   "sante-au-travail",
+   "semaine-de-32-heures"
+  ],
+  "motifs": [
+   "pénibilité",
+   "métiers pénibles",
+   "carrières pénibles",
+   "usure professionnelle"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une conférence nationale sur le travail et la pénibilité, la reconnaissance de la pénibilité du travail en mer et les 32 heures dans les métiers pénibles.",
+    "appuis": [
+     "pf3ee980b",
+     "pb03ef5b7",
+     "p3e5c8270"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de rétablir les facteurs de pénibilité supprimés et les 32 heures dans les métiers pénibles.",
+    "appuis": [
+     "p4e14c3d9",
+     "p406a89ce"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de rétablir les critères de pénibilité et de mieux prendre en compte les carrières pénibles pour la retraite.",
+    "appuis": [
+     "p96afe6ea",
+     "pce3b6aaa"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit la prise en compte de la pénibilité dans le cadre d'un âge légal de départ porté à 65 ans.",
+    "appuis": [
+     "p5acb8849"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose une mobilisation pour prévenir l'usure professionnelle et la prise en compte des carrières pénibles.",
+    "appuis": [
+     "p969019cd",
+     "pba463080"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit un système de retraites qui prenne en compte « la pénibilité réelle » des emplois faiblement qualifiés.",
+    "appuis": [
+     "p64998eaa"
+    ]
+   }
+  }
+ },
+ {
+  "id": "egalite-salariale",
+  "nom": "Égalité salariale entre femmes et hommes",
+  "variantes": [
+   "écarts de rémunération",
+   "index de l'égalité professionnelle",
+   "transparence salariale"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "travail",
+  "definition": "Le principe d'égalité de rémunération entre femmes et hommes pour un même travail ou un travail de valeur égale est inscrit dans la loi depuis 1972. Depuis la loi « Avenir professionnel » de 2018, les entreprises d'au moins 50 salariés doivent publier un index de l'égalité professionnelle et prendre des mesures de correction si leur note est insuffisante, sous peine de pénalité. La directive européenne du 10 mai 2023 sur la transparence des rémunérations, dont le délai de transposition expirait le 7 juin 2026, renforce ces obligations ; la France ne l'avait pas transposée à cette date, le projet de loi ayant été transmis au Conseil d'État en juin 2026 et son examen par le Parlement étant annoncé pour 2027. Les écarts de salaire moyens persistent, en partie liés au temps partiel et à la répartition des métiers.",
+  "enjeux": "Les programmes qui en traitent proposent de durcir les sanctions, d'étendre la transparence et de revaloriser les métiers majoritairement féminins. Le débat porte sur l'efficacité de l'index, jugé trop facile à satisfaire par ses critiques, et sur le poids des obligations déclaratives pour les entreprises.",
+  "reperes": [
+   "Principe posé par la loi de 1972",
+   "Index de l'égalité professionnelle créé par la loi de 2018",
+   "Directive (UE) 2023/970 du 10 mai 2023 sur la transparence des rémunérations, à transposer avant le 7 juin 2026"
+  ],
+  "liens": [
+   "smic"
+  ],
+  "motifs": [
+   "égalité salariale",
+   "égalité de salaire",
+   "écarts de rémunération",
+   "métiers occupés majoritairement par des femmes"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une loi pour l'émancipation économique des femmes avec des sanctions financières dissuasives et l'extension de la publication des écarts de rémunération aux entreprises de plus de 50 salariés.",
+    "appuis": [
+     "p207ea431",
+     "p78e51c56"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d'augmenter les sanctions financières et pénales contre les entreprises qui ne respectent pas l'égalité salariale et de revaloriser les métiers majoritairement féminins.",
+    "appuis": [
+     "p9bb13e05",
+     "p7ed254bb",
+     "peb833f10"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de rendre transparents les écarts de rémunération et de renforcer les sanctions.",
+    "appuis": [
+     "p0d75040f"
+    ]
+   }
+  }
+ },
+ {
+  "id": "conditionnalite-des-aides",
+  "nom": "Conditionnalité des aides publiques aux entreprises",
+  "variantes": [
+   "contreparties",
+   "aides sans contrepartie",
+   "remboursement des aides"
+  ],
+  "categorie": "politique publique",
+  "theme": "travail",
+  "definition": "La conditionnalité consiste à subordonner les aides publiques aux entreprises, qu'il s'agisse de subventions, de crédits d'impôt ou d'exonérations de cotisations, au respect d'engagements : maintien ou création d'emplois, investissements, objectifs environnementaux, égalité professionnelle, absence de délocalisation. Elle peut s'accompagner de clauses de remboursement en cas de manquement. Ces aides représentent des montants très élevés en France : la commission d'enquête du Sénat sur l'utilisation des aides publiques aux grandes entreprises et à leurs sous-traitants les a estimées à au moins 211 milliards d'euros pour 2023, dans un rapport adopté à l'unanimité et rendu public le 8 juillet 2025.",
+  "enjeux": "Ses partisans y voient la juste contrepartie de l'argent public et dénoncent des aides versées « sans contrepartie ». Ses opposants craignent une complexité administrative et une perte d'attractivité, et rappellent que beaucoup de ces aides compensent des prélèvements jugés élevés. Le choix des critères, sociaux, environnementaux ou territoriaux, distingue les programmes.",
+  "reperes": [
+   "Rapport de la commission d'enquête du Sénat sur les aides publiques aux grandes entreprises, rendu public le 8 juillet 2025 : au moins 211 milliards d'euros d'aides en 2023"
+  ],
+  "liens": [
+   "reindustrialisation",
+   "commande-publique"
+  ],
+  "motifs": [
+   "conditionner les aides aux entreprises",
+   "conditionnant les aides aux entreprises",
+   "conditionnant les aides publiques",
+   "Conditionner les aides aux constructeurs",
+   "Conditionner les subventions à la création",
+   "remboursement des aides",
+   "remboursement intégral des aides",
+   "Subordonner les aides",
+   "sans contrepartie",
+   "clauses de remboursement"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de conditionner les aides publiques à des critères environnementaux et sociaux, d'en exiger le remboursement en cas de non-respect et de prévoir des clauses de remboursement en cas de délocalisation.",
+    "appuis": [
+     "p7cff7bc2",
+     "peee79975",
+     "p6b4f3ce5"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de conditionner les aides aux entreprises à des critères environnementaux, sociaux et de lutte contre les discriminations, et de revenir sur les « cadeaux fiscaux » accordés sans contrepartie.",
+    "appuis": [
+     "p9f64ed90",
+     "p759c187f"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de conditionner les aides aux entreprises au respect de normes sociales, éthiques et environnementales.",
+    "appuis": [
+     "p728d63eb"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose d'exiger le remboursement intégral des aides publiques par les entreprises qui délocalisent.",
+    "appuis": [
+     "p5c43687d"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de conditionner les subventions à la création d'emplois, au titre de l'aménagement du territoire.",
+    "appuis": [
+     "pb1a94387"
+    ]
+   }
+  }
+ },
+ {
+  "id": "economie-sociale-et-solidaire",
+  "nom": "Économie sociale et solidaire (ESS)",
+  "variantes": [
+   "ESS",
+   "économie sociale"
+  ],
+  "categorie": "notion économique",
+  "theme": "travail",
+  "definition": "L'économie sociale et solidaire regroupe les associations, coopératives, mutuelles et fondations, ainsi que les sociétés commerciales qui en adoptent les principes : but autre que le seul partage des bénéfices, gouvernance démocratique, réinvestissement de la majeure partie des excédents. La loi du 31 juillet 2014, dite loi Hamon, en a donné une définition légale. Elle représente une part importante de l'emploi privé en France, de l'ordre d'un salarié sur dix.",
+  "enjeux": "La gauche et les écologistes veulent en faire un modèle de développement à généraliser, avec un accès facilité au financement et à la commande publique. D'autres programmes n'en traitent pas ou l'abordent sous l'angle des associations. Le débat porte sur son changement d'échelle et sur la frontière avec l'entreprise classique.",
+  "reperes": [
+   "Loi du 31 juillet 2014 relative à l'économie sociale et solidaire"
+  ],
+  "liens": [
+   "reprise-en-cooperative",
+   "commande-publique",
+   "territoires-zero-chomeur"
+  ],
+  "motifs": [
+   "économie sociale et solidaire",
+   "ESS",
+   "entreprises sociales et solidaires"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de « généraliser » l'économie sociale et solidaire et de lui garantir l'accès au financement et aux marchés publics.",
+    "appuis": [
+     "p32eee4d2",
+     "p026178c5"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit une agence de financement de l'ESS et le déploiement de sociétés coopératives d'intérêt collectif.",
+    "appuis": [
+     "p93cd9c3c",
+     "p4d6ebeae"
+    ]
+   }
+  }
+ },
+ {
+  "id": "reprise-en-cooperative",
+  "nom": "Reprise d'entreprise par les salariés (Scop et Scic)",
+  "variantes": [
+   "Scop",
+   "Scic",
+   "société coopérative et participative",
+   "droit de préemption des salariés"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "travail",
+  "definition": "La société coopérative et participative (Scop) est une entreprise dont les salariés sont les associés majoritaires et désignent les dirigeants selon le principe « une personne, une voix ». La société coopérative d'intérêt collectif (Scic), créée en 2001, associe en outre usagers, collectivités et partenaires. La reprise d'une entreprise par ses salariés sous forme coopérative est possible lors d'une transmission ou d'une défaillance ; la loi de 2014 sur l'ESS a créé un droit d'information préalable des salariés en cas de cession dans les PME.",
+  "enjeux": "Ses partisans y voient un moyen de préserver l'emploi local et de démocratiser l'entreprise, et proposent un droit de préemption ou un fonds dédié. Ses critiques soulignent les difficultés de financement et le risque d'interférer avec le droit de propriété du cédant. Le sujet est surtout présent dans les programmes de gauche.",
+  "reperes": [
+   "Scic créées en 2001",
+   "Droit d'information préalable des salariés depuis 2014"
+  ],
+  "liens": [
+   "economie-sociale-et-solidaire",
+   "codetermination"
+  ],
+  "motifs": [
+   "Scop",
+   "Scic",
+   "sous forme coopérative",
+   "sous la forme d'une coopérative",
+   "reprise d'entreprises en coopératives",
+   "coopératives de production",
+   "Sociétés Coopératives",
+   "reprendre leur entreprise",
+   "reprendre leurs entreprises",
+   "reprise des entreprises par les salariés"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de faciliter la reprise d'entreprises en Scop ou Scic et de créer un fonds pour les salariés qui reprennent leur entreprise.",
+    "appuis": [
+     "p6d37d634",
+     "p32c0c41f"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit un droit de préemption des salariés pour reprendre leur entreprise en coopérative et de limiter les LBO aux seules reprises par les salariés.",
+    "appuis": [
+     "pfad8b8e6",
+     "p48ba08c6",
+     "pb4085da9"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de soutenir la reprise de certaines entreprises par les salariés sous forme de Scop.",
+    "appuis": [
+     "pf0ad1528"
+    ]
+   }
+  }
+ },
+ {
+  "id": "pole-public-bancaire",
+  "nom": "Pôle public bancaire (Bpifrance et Caisse des dépôts)",
+  "variantes": [
+   "BPI",
+   "Bpifrance",
+   "Banque publique d'investissement",
+   "Caisse des dépôts"
+  ],
+  "categorie": "institution",
+  "theme": "travail",
+  "definition": "Le pôle public financier français s'articule autour de la Caisse des dépôts et consignations, établissement public créé en 1816 placé sous le contrôle du Parlement, et de Bpifrance, banque publique d'investissement créée en 2012 et détenue par l'État et la Caisse des dépôts. Bpifrance prête, garantit et investit en fonds propres dans les entreprises. L'expression « pôle public bancaire » désigne, dans plusieurs programmes, un projet de regroupement et d'extension de ces outils au service d'objectifs fixés par l'État.",
+  "enjeux": "La gauche veut en faire le levier d'un crédit orienté vers la transition et les petites entreprises, jusqu'à une licence bancaire permettant de se refinancer auprès de la banque centrale. La droite mobilise ces institutions comme co-investisseurs aux côtés du privé, notamment dans le numérique. Le débat porte sur l'ampleur du rôle de l'État dans le financement de l'économie.",
+  "reperes": [
+   "Caisse des dépôts créée en 1816",
+   "Bpifrance créée en 2012"
+  ],
+  "liens": [
+   "fonds-souverain",
+   "reindustrialisation",
+   "intelligence-artificielle"
+  ],
+  "motifs": [
+   "pôle public bancaire",
+   "Banque publique d'investissement",
+   "BPI",
+   "Caisse des dépôts"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d'orienter le pôle public bancaire, Caisse des dépôts et BPI, vers la transition sociale et écologique.",
+    "appuis": [
+     "p0848efed"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit un pôle public bancaire appuyé sur la Caisse des dépôts et la BPI, une licence bancaire pour la BPI et des avances à 0 % aux PME-TPE en difficulté.",
+    "appuis": [
+     "p38e434c0",
+     "p78852d49",
+     "pdaf7255c"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de faire co-investir la BPI et la Caisse des dépôts dans les opérateurs de cloud souverain et de dédier à l'IA un compartiment de la BPI.",
+    "appuis": [
+     "pbace6869",
+     "pf092fcb2"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit de financer une Agence industrielle du numérique et de l'IA notamment par la BPI.",
+    "appuis": [
+     "pc384cdf7"
+    ]
+   }
+  }
+ },
+ {
+  "id": "fonds-souverain",
+  "nom": "Fonds souverain",
+  "variantes": [
+   "fonds souverain",
+   "livret industrie",
+   "Agence des participations de l'État"
+  ],
+  "categorie": "institution",
+  "theme": "travail",
+  "definition": "Un fonds souverain est un fonds d'investissement détenu par un État, qui place des ressources publiques ou une épargne collectée à des fins de rendement ou de politique économique. Le plus connu est le fonds norvégien, alimenté par les revenus pétroliers. La France n'a pas de fonds souverain au sens strict ; elle détient des participations par l'intermédiaire de l'Agence des participations de l'État, créée en 2004, de Bpifrance et de la Caisse des dépôts.",
+  "enjeux": "Ses promoteurs y voient un moyen d'orienter l'épargne nationale vers l'industrie, l'innovation et les entreprises stratégiques, et de protéger celles-ci des rachats étrangers. Ses critiques s'interrogent sur l'origine des ressources, la France n'ayant pas d'excédents comparables à ceux des pays dotés de grands fonds, et sur le risque de choix d'investissement politiques. Les propositions varient sur le mode de financement : livret d'épargne, participations existantes ou fonds européen.",
+  "reperes": [
+   "Agence des participations de l'État créée en 2004"
+  ],
+  "liens": [
+   "pole-public-bancaire",
+   "nationalisation",
+   "reindustrialisation"
+  ],
+  "motifs": [
+   "fonds souverain",
+   "livret industrie",
+   "Agence des participations"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un fonds souverain financé par un « livret industrie » rémunéré au taux du livret A.",
+    "appuis": [
+     "pe9b45648"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit un fonds souverain français pour mieux rémunérer l'épargne nationale et l'orienter vers les secteurs stratégiques, l'industrie et l'innovation.",
+    "appuis": [
+     "pc1732824"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de transformer l'Agence des participations de l'État en « véritable fonds souverain » investissant dans les entreprises stratégiques.",
+    "appuis": [
+     "pfcfeea39"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un fonds souverain européen pour investir dans des alternatives numériques et sortir de la dépendance aux GAFAM.",
+    "appuis": [
+     "p1a0e8b26"
+    ]
+   }
+  }
+ },
+ {
+  "id": "nationalisation",
+  "nom": "Nationalisations, privatisations et prises de participation",
+  "variantes": [
+   "nationaliser",
+   "golden share",
+   "action spécifique",
+   "réquisition",
+   "privatisations"
+  ],
+  "categorie": "politique publique",
+  "theme": "travail",
+  "definition": "La nationalisation est le transfert à l'État de la propriété d'une entreprise privée, par la loi et contre indemnisation ; la privatisation est l'opération inverse. Le préambule de la Constitution de 1946 prévoit que toute entreprise ayant les caractères d'un service public national ou d'un monopole de fait doit devenir propriété de la collectivité. La France a connu de grandes vagues de nationalisations en 1945-1946 et en 1982, suivies de privatisations à partir de 1986. Entre les deux, l'État peut prendre une participation minoritaire ou détenir une « action spécifique », dite golden share, qui lui donne un droit de veto sur certaines décisions.",
+  "enjeux": "La gauche défend des nationalisations ciblées et le retour sur des privatisations (autoroutes, aéroports) au nom de la souveraineté et de l'intérêt général. D'autres programmes privilégient des prises de participation ou une action spécifique dans des entreprises jugées stratégiques. Les opposants soulignent le coût budgétaire des rachats et l'efficacité supposée de la gestion privée.",
+  "reperes": [
+   "Préambule de la Constitution de 1946, alinéa 9",
+   "Nationalisations de 1945-1946 et de 1982"
+  ],
+  "liens": [
+   "fonds-souverain",
+   "reindustrialisation",
+   "nationalisation-edf"
+  ],
+  "motifs": [
+   "nationalisation des entreprises",
+   "nationalisation de la branche",
+   "Nationalisation d'EDF",
+   "golden share",
+   "gestion publique exceptionnelle",
+   "droit de réquisition des entreprises",
+   "privatisations",
+   "privatisation d'Arianespace",
+   "privatisation des barrages"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de nationaliser certaines entreprises industrielles (Luxfer, Famar, des branches cédées d'Alstom et d'Areva), de revenir sur les privatisations d'aéroports et d'autoroutes et de rendre effectif le droit de réquisition des entreprises.",
+    "appuis": [
+     "pf98d3e23",
+     "pab7621c2",
+     "p00ac4163"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme prévoit, en cas de nécessité, une gestion publique exceptionnelle et un droit de préemption sur les machines en cas de fermeture d'usine.",
+    "appuis": [
+     "p4238a3a7",
+     "p6b47bd45"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose d'acheter une golden share dans Atos, Arcelor et Opella.",
+    "appuis": [
+     "p78c5c4df"
+    ]
+   }
+  }
+ },
+ {
+  "id": "partage-de-la-valeur",
+  "nom": "Partage de la valeur (participation, intéressement, dividendes)",
+  "variantes": [
+   "participation",
+   "intéressement",
+   "prime de partage de la valeur",
+   "prime Macron",
+   "actionnariat salarié",
+   "dividendes",
+   "épargne salariale",
+   "forfait social"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "travail",
+  "definition": "Le partage de la valeur désigne la répartition des richesses produites par l'entreprise entre salaires, investissement et rémunération des actionnaires. Plusieurs dispositifs associent les salariés aux résultats : l'intéressement, facultatif, créé en 1959 ; la participation, obligatoire dans les entreprises d'au moins 50 salariés depuis 1967 ; la prime de partage de la valeur, héritière de la « prime Macron » créée fin 2018 ; l'épargne salariale et l'actionnariat salarié. Ces sommes bénéficient d'un régime social et fiscal plus favorable que le salaire.",
+  "enjeux": "Pour la droite et le centre, ces dispositifs récompensent l'engagement des salariés et doivent être simplifiés ou défiscalisés. La gauche juge qu'ils se substituent aux hausses de salaire et privent la protection sociale de ressources, et veut encadrer les dividendes. Le débat oppose partage par des primes et partage par le salaire ou le pouvoir dans l'entreprise.",
+  "reperes": [
+   "Intéressement créé en 1959",
+   "Participation obligatoire dès 50 salariés depuis 1967",
+   "Forfait social créé en 2009"
+  ],
+  "liens": [
+   "codetermination",
+   "licenciements-economiques",
+   "prime-de-partage-de-la-valeur",
+   "stock-options-et-actionnariat-salarie"
+  ],
+  "motifs": [
+   "dividendes",
+   "partage des profits",
+   "partage de la valeur",
+   "participation légale",
+   "prime de participation",
+   "intéressement",
+   "actionnariat salarié",
+   "épargne salariale",
+   "forfait social"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose d'interdire les dividendes supérieurs au bénéfice, de pénaliser leur versement et de soumettre à cotisation la participation et l'épargne salariale.",
+    "appuis": [
+     "p8fabbb62",
+     "p76cf605d"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme prévoit d'étendre les cotisations retraite à l'épargne salariale, à l'intéressement et à la participation.",
+    "appuis": [
+     "p70a5cbe4"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de maintenir le forfait social à 20 % sur la participation légale et d'en exonérer l'intéressement, la part supra-légale de la participation et l'épargne retraite individuelle, et de supprimer la contribution patronale sur l'actionnariat salarié.",
+    "appuis": [
+     "p0f93ad96",
+     "p88005115"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de simplifier et défiscaliser la prime de participation, d'en permettre le déblocage immédiat et d'élargir l'actionnariat salarié dans les jeunes entreprises.",
+    "appuis": [
+     "pbf3978e5",
+     "p4e0a1933",
+     "p41e496b7"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit de rendre obligatoire la prime « Macron », la participation ou l'intéressement dans les entreprises qui versent des dividendes.",
+    "appuis": [
+     "pec7c9bde"
+    ]
+   }
+  },
+  "autres_themes": [
+   "pouvoir-achat"
+  ]
+ },
+ {
+  "id": "reindustrialisation",
+  "nom": "Réindustrialisation et relocalisations",
+  "variantes": [
+   "relocalisation",
+   "souveraineté industrielle",
+   "désindustrialisation",
+   "politique industrielle"
+  ],
+  "categorie": "politique publique",
+  "theme": "travail",
+  "definition": "La réindustrialisation désigne la reconstitution d'une base industrielle après plusieurs décennies de recul de l'industrie dans l'emploi et la production en France. Elle passe par des relocalisations, l'implantation de nouvelles usines, le soutien à des filières jugées stratégiques et la sécurisation des approvisionnements. Depuis la crise sanitaire de 2020, l'État y consacre des plans d'investissement, comme France 2030, et des mesures d'accélération des implantations industrielles.",
+  "enjeux": "Tous les programmes s'en réclament, mais divergent sur les moyens. La gauche et les écologistes insistent sur la planification, la conditionnalité des aides, la décarbonation et les pôles publics. La droite et le centre mettent en avant la baisse des impôts de production, la simplification et le coût de l'énergie. Le RN et Reconquête associent réindustrialisation, protection commerciale et commandes nationales.",
+  "reperes": [
+   "Plan France 2030 lancé en 2021"
+  ],
+  "liens": [
+   "commande-publique",
+   "protectionnisme",
+   "conditionnalite-des-aides",
+   "fonds-souverain"
+  ],
+  "motifs": [
+   "réindustrialis*",
+   "relocalis*",
+   "désindustrialisation",
+   "reconstruction industrielle",
+   "outil industriel",
+   "Grenelle de l'industrie"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un Grenelle de l'industrie en vue d'une loi de programmation industrielle, un « contrat pour différence » sur l'électricité des industries exposées et des aides automobiles conditionnées à la relocalisation.",
+    "appuis": [
+     "p1554a42f",
+     "pe4b76fa2",
+     "p21b184cf"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit un plan de reconstruction industrielle dans les domaines stratégiques et la relocalisation « d'urgence » des productions essentielles.",
+    "appuis": [
+     "p75730896",
+     "pb6cf8b7b",
+     "p7cff7a59"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose un Fonds France Production de 600 millions d'euros par an pour moderniser l'outil industriel et la concentration des financements publics sur sept secteurs stratégiques.",
+    "appuis": [
+     "pa11a913b",
+     "p5d7c57ef"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de relocaliser la production de batteries et d'ouvrir de nouvelles mines et raffineries de métaux critiques.",
+    "appuis": [
+     "p55587316",
+     "pd506e508"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme prévoit des zones franches industrielles dans les régions touchées par la désindustrialisation et un ministère de l'Industrie élargi.",
+    "appuis": [
+     "p35bd41dd",
+     "pf07b2907"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de réduire la dépendance aux approvisionnements chinois en relocalisant une partie de la production et de soutenir des projets comme les mini-lanceurs et les réacteurs avancés.",
+    "appuis": [
+     "p0152878f",
+     "p64e43c25"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de soutenir les relocalisations industrielles et de créer un fonds souverain orienté vers l'industrie.",
+    "appuis": [
+     "pacceadb1",
+     "pc1732824"
+    ]
+   }
+  }
+ },
+ {
+  "id": "commande-publique",
+  "nom": "Commande publique et achat local",
+  "variantes": [
+   "marchés publics",
+   "préférence européenne",
+   "Buy European Act",
+   "achat local"
+  ],
+  "categorie": "politique publique",
+  "theme": "travail",
+  "definition": "La commande publique regroupe les achats de l'État, des collectivités et des établissements publics, encadrés par le code de la commande publique entré en vigueur en 2019 et par des directives européennes. Elle repose sur la liberté d'accès, l'égalité de traitement des candidats et la transparence, ce qui interdit en principe de favoriser les entreprises selon leur nationalité au sein de l'Union. Des critères sociaux et environnementaux peuvent être pris en compte, et l'allotissement facilite l'accès des PME. L'idée d'une préférence européenne dans les marchés publics est discutée au niveau de l'Union.",
+  "enjeux": "Presque tous les programmes veulent en faire un levier industriel ou territorial, en favorisant le local, les PME, l'ESS ou les productions européennes. Les divergences portent sur le niveau de la préférence (locale, nationale ou européenne) et sur la compatibilité avec le droit européen, que certains proposent de renégocier. Ses critiques redoutent un renchérissement des achats publics.",
+  "reperes": [
+   "Code de la commande publique en vigueur depuis le 1er avril 2019"
+  ],
+  "liens": [
+   "reindustrialisation",
+   "economie-sociale-et-solidaire",
+   "protectionnisme",
+   "preference-europeenne"
+  ],
+  "motifs": [
+   "commande publique",
+   "marchés publics",
+   "appels d'offres publics",
+   "achat local",
+   "acheter local",
+   "Buy European First",
+   "Buy European Act",
+   "Fabriqué en France",
+   "Code des marchés publics"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d'intégrer des exigences sociales, environnementales et démocratiques aux critères d'attribution de la commande publique.",
+    "appuis": [
+     "pb616fe8e"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de réviser le Code des marchés publics pour favoriser les entreprises sociales et solidaires, écologiques et locales.",
+    "appuis": [
+     "p1d43f0b4",
+     "p026178c5"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de mobiliser la commande publique comme levier industriel et d'appliquer au numérique le principe « Buy European First ».",
+    "appuis": [
+     "p688f2c7e",
+     "p073c5550"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d'orienter la commande publique par des critères durables et souverains et un indice d'achat local, pour défendre le « Fabriqué en France ».",
+    "appuis": [
+     "pb3a95a0f"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme prévoit de pénaliser dans les marchés publics les entreprises qui délocalisent et de permettre à chaque État de réserver une part de sa commande publique aux entreprises nationales.",
+    "appuis": [
+     "p02aa1c52",
+     "pde5be7ad"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de réviser la politique d'achat de l'État pour « acheter local » plutôt que toujours moins cher, et la préférence européenne dans les marchés publics du numérique.",
+    "appuis": [
+     "p616db421",
+     "pdc17f7aa"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de donner la priorité aux PME dans les marchés publics et de négocier avec l'Union européenne pour privilégier les PME locales.",
+    "appuis": [
+     "p08f523ce",
+     "p3a9d76c8"
+    ]
+   }
+  }
+ },
+ {
+  "id": "protectionnisme",
+  "nom": "Protectionnisme et défense commerciale",
+  "variantes": [
+   "protectionnisme écologique et social",
+   "droits de douane",
+   "anti-dumping",
+   "libre-échange",
+   "protectionnisme",
+   "barrières douanières",
+   "défense commerciale",
+   "protectionnisme négocié"
+  ],
+  "categorie": "doctrine ou courant",
+  "theme": "travail",
+  "definition": "Le protectionnisme désigne l'ensemble des mesures qui protègent la production nationale de la concurrence étrangère : droits de douane, quotas, normes, mesures anti-dumping ou préférence dans les achats publics. Dans l'Union européenne, la politique commerciale est une compétence exclusive de l'Union, qui négocie les accords de libre-échange et applique un tarif douanier commun. Des instruments de défense commerciale existent, comme les droits anti-dumping ou le mécanisme d'ajustement carbone aux frontières.",
+  "enjeux": "Un consensus nouveau se dessine pour davantage de protection face à la concurrence chinoise et américaine, mais les modalités divergent : « protectionnisme écologique et social » aux frontières européennes à gauche, préférence européenne au centre, priorité nationale et exclusion de l'agriculture des traités au RN. Les défenseurs du libre-échange mettent en garde contre les mesures de rétorsion et la hausse des prix pour les consommateurs. Le retour des droits de douane américains en 2025 a déplacé le débat vers la riposte européenne.",
+  "reperes": [
+   "Politique commerciale : compétence exclusive de l'Union européenne",
+   "Droits compensateurs européens sur les véhicules électriques chinois, 2024"
+  ],
+  "liens": [
+   "reindustrialisation",
+   "commande-publique",
+   "prix-planchers",
+   "mecanisme-d-ajustement-carbone-aux-frontieres",
+   "clauses-miroirs",
+   "accords-de-libre-echange",
+   "preference-europeenne"
+  ],
+  "motifs": [
+   "protectionnisme",
+   "droits de douane",
+   "anti-dumping",
+   "barrières commerciales",
+   "barrières douanières",
+   "mesures de rétorsion",
+   "traités de libre-échange",
+   "importations de produits agricoles",
+   "importation de toute production agricole",
+   "défense commerciale"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d'améliorer le « protectionnisme écologique et social » aux frontières de l'Europe et d'étendre les protections douanières aux industries stratégiques.",
+    "appuis": [
+     "pfe724d7a",
+     "p90954c2d"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit un « protectionnisme négocié », des mesures anti-dumping d'urgence et des droits de douane relevés pour les pays aux droits sociaux limités.",
+    "appuis": [
+     "p613bfb6c",
+     "pe3cab7e2",
+     "pa93f04b1"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de renforcer les outils de défense commerciale et de protéger les entreprises européennes de la concurrence chinoise par des barrières douanières, sur le modèle de l'Inflation Reduction Act.",
+    "appuis": [
+     "p999c3bd9",
+     "p6824fdb8"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose des « barrières commerciales claires », dont des taxes ciblées sur les importations chinoises vendues à perte, et un contrôle des investissements chinois.",
+    "appuis": [
+     "pa18e5508"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d'interdire les importations agricoles ne respectant pas les normes françaises et d'exclure l'agriculture des traités de libre-échange.",
+    "appuis": [
+     "pdd25e7f9",
+     "p86e4e65f"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose des mesures de rétorsion contre l'extraterritorialité du droit américain.",
+    "appuis": [
+     "p41ca7f0f"
+    ]
+   }
+  },
+  "autres_themes": [
+   "europe"
+  ]
+ },
+ {
+  "id": "prix-planchers",
+  "nom": "Prix planchers agricoles et lois Egalim",
+  "variantes": [
+   "prix plancher",
+   "prix rémunérateurs",
+   "Egalim",
+   "marche en avant des prix"
+  ],
+  "categorie": "politique publique",
+  "theme": "travail",
+  "definition": "Les lois Egalim, adoptées en 2018 puis complétées en 2021 et 2023, encadrent les négociations commerciales entre producteurs, industriels et distributeurs. Elles prévoient la construction du prix à partir des coûts de production, la non-négociabilité de la part des matières premières agricoles et un seuil de revente à perte relevé. Le prix plancher irait plus loin : un prix minimum en dessous duquel un produit agricole ne pourrait être acheté, fixé ou guidé par l'État ou des indicateurs publics.",
+  "enjeux": "Presque tous les programmes veulent garantir des « prix rémunérateurs » aux agriculteurs et dénoncent le rapport de force avec la grande distribution. Les partisans des prix planchers y voient la seule garantie effective du revenu. Leurs critiques redoutent une perte de compétitivité face aux importations et préfèrent renforcer l'application d'Egalim et les contrôles. L'encadrement des centrales d'achat européennes est un sujet commun.",
+  "reperes": [
+   "Lois Egalim de 2018, 2021 et 2023"
+  ],
+  "liens": [
+   "politique-agricole-commune",
+   "protectionnisme"
+  ],
+  "motifs": [
+   "prix plancher",
+   "prix planchers",
+   "prix minimums",
+   "prix rémunérateurs",
+   "EGALIM",
+   "Egalim",
+   "marges abusives",
+   "marges de la grande distribution",
+   "négociations commerciales",
+   "marche en avant des prix",
+   "centrales d'achat"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose des prix planchers, l'affichage obligatoire de la répartition des marges et un encadrement strict des centrales d'achat européennes.",
+    "appuis": [
+     "pe224a22f",
+     "p47fa3816"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit un prix plancher « rémunérateur », le plafonnement des marges de la grande distribution et la taxation des « superprofits » des agro-industriels.",
+    "appuis": [
+     "p16b67ddd",
+     "p86f893f5"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose des prix planchers rémunérateurs et la fin des contournements de la loi Egalim.",
+    "appuis": [
+     "p1ac0f16d"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de sanctuariser la part des matières premières agricoles dans les prix, de clore les négociations au 31 décembre et de rendre les enseignes responsables de leurs centrales d'achat européennes.",
+    "appuis": [
+     "pb404526e",
+     "p6593448e",
+     "p1dd47494"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de garantir des prix rémunérateurs, de mettre fin aux « marges abusives » de la grande distribution et de faire intervenir l'État dans les indices de prix minimums.",
+    "appuis": [
+     "pe621ed41",
+     "pfe181719",
+     "pd69e37dc"
+    ]
+   }
+  }
+ },
+ {
+  "id": "foncier-agricole",
+  "nom": "Foncier agricole et SAFER",
+  "variantes": [
+   "SAFER",
+   "accaparement des terres",
+   "terres agricoles",
+   "loi foncière"
+  ],
+  "categorie": "politique publique",
+  "theme": "travail",
+  "definition": "Le foncier agricole désigne les terres cultivables et leur régime d'accès, de vente et de location. Les sociétés d'aménagement foncier et d'établissement rural (SAFER), créées en 1960, peuvent préempter des terres mises en vente pour favoriser l'installation ou la consolidation d'exploitations. Le statut du fermage encadre la location. Une partie croissante des terres change de mains par la cession de parts de sociétés agricoles, que la loi de 2021 dite Sempastous a commencé à contrôler.",
+  "enjeux": "Les programmes de gauche, les écologistes et le RN dénoncent l'« accaparement » des terres par des fonds, des sociétés financières ou des groupes étrangers, et veulent réguler davantage les transactions. La droite met l'accent sur l'accès des jeunes par la dissociation du foncier et de l'outil de production. La perte de terres agricoles au profit de l'urbanisation est un autre point de débat.",
+  "reperes": [
+   "SAFER créées en 1960",
+   "Loi Sempastous de 2021"
+  ],
+  "liens": [
+   "installation-agricole",
+   "politique-agricole-commune"
+  ],
+  "motifs": [
+   "SAFER",
+   "accaparement",
+   "terres agricoles",
+   "foncier agricole",
+   "loi foncière",
+   "politique foncière",
+   "dissociation entre le foncier"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une grande loi foncière, l'interdiction de l'accaparement spéculatif des terres par des fonds ou holdings et une meilleure régulation des SAFER.",
+    "appuis": [
+     "pb67ef7d5",
+     "pe08ea2fc",
+     "pc63c9248"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de lutter contre l'accaparement des terres pour que chaque candidat à l'installation accède à une exploitation.",
+    "appuis": [
+     "p4299bd4d"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de faciliter l'accès au foncier pour protéger les terres agricoles et permettre l'installation.",
+    "appuis": [
+     "p5a6d3ea7"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de réserver les terres agricoles aux agriculteurs face aux groupes étrangers et d'en interdire l'urbanisation sauf dérogation préfectorale.",
+    "appuis": [
+     "p916b159c",
+     "p2d0a6cc5"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de généraliser la dissociation entre le foncier et l'outil de production pour faciliter l'accès des jeunes.",
+    "appuis": [
+     "p25808959"
+    ]
+   }
+  }
+ },
+ {
+  "id": "installation-agricole",
+  "nom": "Installation et transmission des exploitations agricoles",
+  "variantes": [
+   "renouvellement des générations",
+   "jeunes agriculteurs",
+   "dotation jeunes agriculteurs"
+  ],
+  "categorie": "politique publique",
+  "theme": "travail",
+  "definition": "L'installation désigne l'entrée dans le métier d'agriculteur, par la création ou la reprise d'une exploitation ; la transmission en est l'autre face, au moment du départ à la retraite. Une aide publique, la dotation jeunes agriculteurs, est réservée aux installés de moins de 40 ans remplissant certaines conditions. Le renouvellement des générations est un enjeu majeur, une part importante des exploitants approchant de l'âge de la retraite. La loi du 24 mars 2025 d'orientation pour la souveraineté alimentaire et agricole et le renouvellement des générations en agriculture, dont plusieurs articles ont été censurés par le Conseil constitutionnel, a fait de ce renouvellement un objectif.",
+  "enjeux": "Tous les programmes qui en traitent veulent faciliter l'installation, mais par des voies différentes : aides sans critère d'âge et soutien aux nouveaux profils chez les écologistes, accès au foncier contre l'accaparement à gauche, salariat préalable et dissociation du foncier à droite. Le coût de reprise des exploitations, souvent élevé, est au centre du débat.",
+  "reperes": [
+   "Dotation jeunes agriculteurs réservée aux moins de 40 ans",
+   "Loi d'orientation agricole du 24 mars 2025, partiellement censurée par le Conseil constitutionnel (décision du 20 mars 2025)"
+  ],
+  "liens": [
+   "foncier-agricole",
+   "politique-agricole-commune",
+   "agriculture-biologique"
+  ],
+  "motifs": [
+   "installation des jeunes agriculteurs",
+   "jeunes agriculteurs",
+   "Dotation Nouvel Agriculteur",
+   "transmission des exploitations",
+   "transmission de fermes",
+   "renouvellement des générations",
+   "préalables à l'installation",
+   "agriculteur qui souhaite s'installer"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une « Dotation Nouvel Agriculteur » sans critère d'âge, le financement des tests d'activité et des contrats de transmission de fermes.",
+    "appuis": [
+     "pada24ca3",
+     "p5c9f0534"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de permettre à chaque agriculteur qui souhaite s'installer d'accéder à une exploitation.",
+    "appuis": [
+     "p4299bd4d"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de généraliser le salariat agricole préalable à l'installation, la dissociation du foncier et une moyenne olympique sur huit ans pour évaluer les exploitations transmises.",
+    "appuis": [
+     "pa0bd035d",
+     "p25808959",
+     "p896447ba"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de favoriser l'installation des jeunes agriculteurs et la reprise des exploitations.",
+    "appuis": [
+     "pbe6254c4",
+     "p5a6d3ea7"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit une loi d'orientation pour le renouvellement des générations et l'installation des jeunes agriculteurs.",
+    "appuis": [
+     "p233bc999"
+    ]
+   }
+  }
+ },
+ {
+  "id": "agriculture-biologique",
+  "nom": "Agriculture biologique et agroécologie",
+  "variantes": [
+   "bio",
+   "agroécologie",
+   "conversion en bio"
+  ],
+  "categorie": "politique publique",
+  "theme": "travail",
+  "definition": "L'agriculture biologique est un mode de production encadré par un règlement européen, qui exclut notamment les pesticides et engrais de synthèse et les OGM ; elle est identifiée par un label officiel. L'agroécologie est une notion plus large et non réglementée, qui désigne des pratiques s'appuyant sur les processus écologiques pour réduire les intrants. La France s'est fixé un objectif de 21 % de surface agricole en bio en 2030. Les aides publiques à la conversion ont accompagné son développement, l'État ayant cessé de financer l'aide au maintien à la fin des années 2010 ; le marché du bio a ensuite connu un ralentissement à partir de 2021.",
+  "enjeux": "Les écologistes et la gauche veulent accélérer la conversion, rétablir les aides au maintien et garantir des débouchés dans la restauration collective. Le RN soutient le bio sous condition d'origine française. La droite propose de redéployer une partie des crédits du bio vers l'investissement productif. Le débat oppose transition agroécologique et compétitivité des exploitations.",
+  "reperes": [
+   "Objectif national de 21 % de surface en bio en 2030"
+  ],
+  "liens": [
+   "politique-agricole-commune",
+   "installation-agricole",
+   "simplification-administrative"
+  ],
+  "motifs": [
+   "agriculture biologique",
+   "bio",
+   "agroécologie",
+   "agroécologique",
+   "filière biologique"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d'atteindre 21 % de bio en 2030 et 25 % en 2032, de rétablir l'aide au maintien et de garantir un revenu aux agriculteurs en contrat de transition agroécologique.",
+    "appuis": [
+     "pd51ebcf4",
+     "p9d21010e",
+     "p3ecccd5d"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d'encourager la conversion en bio en reprenant la dette des exploitations et de garantir un débouché dans la restauration collective.",
+    "appuis": [
+     "p8798485d",
+     "p9cd58516"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un revenu de transition écologique pour les agriculteurs passant au bio et le développement de l'agroécologie.",
+    "appuis": [
+     "pbceb29ff",
+     "pbe6254c4"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit un plan de soutien de cinq ans à l'agriculture biologique et de réserver le bio des cantines aux produits français.",
+    "appuis": [
+     "pc88a333f",
+     "p6b5c2c71"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de redéployer une partie des crédits de la PAC alloués à la filière biologique vers l'investissement productif.",
+    "appuis": [
+     "pbd734353"
+    ]
+   }
+  }
+ },
+ {
+  "id": "intelligence-artificielle",
+  "nom": "Intelligence artificielle",
+  "variantes": [
+   "IA",
+   "I.A.",
+   "AI Act",
+   "règlement européen sur l'IA"
+  ],
+  "categorie": "politique publique",
+  "theme": "travail",
+  "definition": "L'intelligence artificielle désigne les systèmes informatiques capables d'accomplir des tâches associées à l'intelligence humaine, comme produire du texte, reconnaître des images ou prendre des décisions. Son développement récent repose sur de grands modèles entraînés sur d'immenses volumes de données, qui exigent des capacités de calcul et d'énergie considérables. L'Union européenne a adopté en 2024 un règlement sur l'IA, dit AI Act, qui encadre les usages selon leur niveau de risque. La France dispose d'une stratégie nationale depuis 2018 et d'entreprises du secteur comme Mistral AI.",
+  "enjeux": "Les programmes de droite et du centre en font un enjeu de puissance et de compétitivité, avec des investissements massifs, des centres de données et parfois des dérogations aux règles européennes. La gauche et les écologistes insistent sur la maîtrise publique, les droits des salariés face aux algorithmes et l'impact environnemental. Les effets sur l'emploi et la formation sont un point commun des débats.",
+  "reperes": [
+   "Règlement européen sur l'IA adopté en 2024",
+   "Stratégie nationale pour l'IA depuis 2018"
+  ],
+  "liens": [
+   "souverainete-numerique",
+   "formation-professionnelle",
+   "comite-social-et-economique"
+  ],
+  "motifs": [
+   "intelligence artificielle",
+   "IA",
+   "I.A.",
+   "AI Act",
+   "IA Act"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un avis conforme du CSE avant tout déploiement d'IA en entreprise et une nouvelle législation européenne intégrant un droit au retrait de l'IA.",
+    "appuis": [
+     "p53b44820",
+     "p252e51da"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit une mission nationale de maîtrise de l'intelligence artificielle.",
+    "appuis": [
+     "pfdd34fa6"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose un Observatoire de l'emploi face à l'IA, l'hébergement des IA sensibles sur des offres SecNumCloud européennes et une dérogation de trois ans au RGPD et à l'AI Act pour l'innovation stratégique.",
+    "appuis": [
+     "p4fe37b85",
+     "p06b78640",
+     "p958d7e8c"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une Agence industrielle du numérique et de l'IA et un accélérateur pour les innovations de rupture en IA.",
+    "appuis": [
+     "pc384cdf7",
+     "p31b4636b"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme prévoit d'investir dans les technologies de rupture et de faire émerger des solutions françaises dans le cloud et la cybersécurité.",
+    "appuis": [
+     "pb5808faa"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme vise à faire de la France la « première puissance d'Europe » de l'IA, en formant, en attirant les chercheurs et en soutenant des acteurs comme Mistral.",
+    "appuis": [
+     "p1e414291",
+     "p9c30e752",
+     "pdc17f7aa"
+    ]
+   }
+  }
+ },
+ {
+  "id": "souverainete-numerique",
+  "nom": "Souveraineté numérique et cloud souverain",
+  "variantes": [
+   "cloud souverain",
+   "SecNumCloud",
+   "hébergement des données",
+   "logiciels libres",
+   "GAFAM"
+  ],
+  "categorie": "doctrine ou courant",
+  "theme": "travail",
+  "definition": "La souveraineté numérique désigne la capacité d'un État à maîtriser ses infrastructures, ses données et ses technologies numériques sans dépendre d'acteurs étrangers. Elle concerne l'hébergement des données sur des serveurs soumis au droit européen, les câbles sous-marins, les centres de données, les logiciels et les semi-conducteurs. En France, la qualification SecNumCloud de l'ANSSI distingue les offres de cloud protégées des lois extraterritoriales, comme le Cloud Act américain de 2018. Le recours aux logiciels libres dans l'administration est une autre voie.",
+  "enjeux": "Tous les programmes s'en réclament, mais avec des priorités différentes : maîtrise publique et logiciels libres à gauche, hébergement obligatoire en France ou en Europe pour les données sensibles à droite et chez Reconquête, investissements et préférence européenne au centre. Le débat porte sur le coût de la sortie de la dépendance aux grandes plateformes américaines et sur le rôle de l'État.",
+  "reperes": [
+   "Cloud Act américain de 2018",
+   "Qualification SecNumCloud de l'ANSSI"
+  ],
+  "liens": [
+   "intelligence-artificielle",
+   "commande-publique",
+   "pole-public-bancaire",
+   "ia-a-l-ecole",
+   "dematerialisation"
+  ],
+  "motifs": [
+   "cloud",
+   "SecNumCloud",
+   "data centers",
+   "données sensibles",
+   "câbles souverains",
+   "souveraineté numérique",
+   "GAFAM",
+   "logiciels libres",
+   "serveurs de droit français",
+   "confortera une filière française",
+   "IA souveraines",
+   "pourcentage de souveraineté",
+   "cloud français",
+   "seuil minimal de souveraineté"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d'héberger les données sensibles dans des data centers situés en France détenus par des acteurs européens et de soutenir un réseau de câbles souverains.",
+    "appuis": [
+     "p71919e09",
+     "p1bd04b9f"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit la maîtrise publique des infrastructures numériques, la généralisation des logiciels libres dans l'administration et l'hébergement des données publiques en France.",
+    "appuis": [
+     "p746e96d4",
+     "pb8045455",
+     "paf78452b"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de porter la capacité de data centers souverains à environ 1 gigawatt d'ici 2030 et de faire co-investir l'État dans les opérateurs de cloud souverain.",
+    "appuis": [
+     "p32d8da02",
+     "pbace6869",
+     "p06b78640"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit de sortir de la dépendance aux GAFAM en cinq ans grâce à un fonds souverain européen.",
+    "appuis": [
+     "p1a0e8b26"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose d'imposer par la loi l'hébergement en France des données sensibles et de faire émerger des solutions françaises de cloud.",
+    "appuis": [
+     "p33ee2156",
+     "pb5808faa"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit une stratégie allant de l'énergie aux data centers et le soutien aux « acteurs souverains » comme Mistral.",
+    "appuis": [
+     "pdc17f7aa"
+    ]
+   }
+  }
+ },
+ {
+  "id": "obsolescence-programmee",
+  "nom": "Obsolescence programmée et droit à la réparation",
+  "variantes": [
+   "réparabilité",
+   "indice de réparabilité",
+   "pièces détachées",
+   "bonus réparation"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "travail",
+  "definition": "L'obsolescence programmée désigne les techniques par lesquelles un fabricant réduit délibérément la durée de vie d'un produit pour en augmenter le taux de remplacement. Elle constitue un délit en France depuis la loi de transition énergétique de 2015. La loi anti-gaspillage pour une économie circulaire de 2020 a créé un indice de réparabilité, transformé en indice de durabilité pour certains produits, et un fonds de réparation finance un bonus réparation. Au niveau européen, une directive de 2024 instaure un droit à la réparation.",
+  "enjeux": "Les écologistes et la gauche veulent étendre les obligations de durabilité, interdire l'obsolescence logicielle et les pratiques qui réservent la réparation aux fabricants. Les industriels mettent en avant le coût de ces obligations et la difficulté de prouver l'intention. Le sujet relie consommation, emploi dans la réparation et réduction des déchets.",
+  "reperes": [
+   "Délit créé par la loi de 2015",
+   "Indice de réparabilité issu de la loi de 2020"
+  ],
+  "liens": [
+   "reindustrialisation"
+  ],
+  "motifs": [
+   "obsolescence",
+   "réparabilité",
+   "réparables",
+   "pièces détachées",
+   "bonus réparation",
+   "indices de durabilité",
+   "sérialisation",
+   "obsolescence programmée"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d'interdire l'obsolescence logicielle programmée, de rendre les objets du quotidien démontables et réparables et d'imposer une note minimale de durabilité pour la mise sur le marché.",
+    "appuis": [
+     "pf1e19132",
+     "p66c8e3a6",
+     "p87fb5525"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d'« abolir » l'obsolescence programmée et d'allonger les garanties légales.",
+    "appuis": [
+     "p867329aa"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d'investir dans l'innovation « frugale » pour des équipements facilement réparables.",
+    "appuis": [
+     "pc70ef0f0"
+    ]
+   }
+  }
+ },
+ {
+  "id": "logement-social",
+  "nom": "Logement social (HLM et loi SRU)",
+  "variantes": [
+   "HLM",
+   "logements sociaux",
+   "loi SRU",
+   "article 55"
+  ],
+  "categorie": "politique publique",
+  "theme": "travail",
+  "definition": "Le logement social désigne les logements construits avec une aide publique et loués, sous plafond de ressources et de loyer, par des bailleurs sociaux, dont les organismes HLM. L'article 55 de la loi Solidarité et renouvellement urbains de 2000 impose à certaines communes d'atteindre 20 ou 25 % de logements sociaux, sous peine de sanctions financières. Les attributions sont décidées par des commissions, avec des contingents réservés notamment à l'État et à Action Logement.",
+  "enjeux": "La gauche et les écologistes veulent construire massivement et durcir les sanctions contre les communes qui ne respectent pas la loi SRU. La droite propose de prioriser les ménages qui travaillent, de réexaminer régulièrement la situation des locataires et de plafonner la part de logements très sociaux au nom de la mixité. Le RN propose une priorité aux travailleurs de secteurs prioritaires et une priorité nationale.",
+  "reperes": [
+   "Loi SRU du 13 décembre 2000, article 55"
+  ],
+  "liens": [
+   "encadrement-des-loyers",
+   "garantie-universelle-des-loyers"
+  ],
+  "motifs": [
+   "logement social",
+   "logements sociaux",
+   "HLM",
+   "loi SRU",
+   "SRU",
+   "bailleurs sociaux",
+   "logements publics"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de construire 700 000 logements sociaux en cinq ans et de renforcer les sanctions contre les communes hors loi SRU.",
+    "appuis": [
+     "p8d141bbd",
+     "p2e20e9b5"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de construire 200 000 logements publics par an et d'aggraver les sanctions contre les communes qui ne respectent pas la loi SRU.",
+    "appuis": [
+     "p16c3ddb8",
+     "pa3adcb45"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de construire 150 000 logements sociaux par an.",
+    "appuis": [
+     "p9d2f64ce"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose d'attribuer prioritairement les logements sociaux aux actifs, de limiter l'accès aux ménages sous le cinquième décile de revenus et de priver d'aides les territoires dépassant 30 % de logements sociaux.",
+    "appuis": [
+     "pd17b9153",
+     "pbe360bf1",
+     "pc70f8973"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de construire 100 000 logements sociaux par an et d'instaurer une priorité d'accès pour les travailleurs des secteurs prioritaires et une priorité nationale.",
+    "appuis": [
+     "p20c79b1e",
+     "p4ffef970",
+     "p48a59cea"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose d'expulser automatiquement des logements sociaux les trafiquants de drogue et leurs familles.",
+    "appuis": [
+     "p0bdb4226"
+    ]
+   }
+  }
+ },
+ {
+  "id": "encadrement-des-loyers",
+  "nom": "Encadrement des loyers",
+  "variantes": [
+   "plafonnement des loyers",
+   "zones tendues"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "travail",
+  "definition": "L'encadrement des loyers limite le montant des loyers à la mise en location, par rapport à des loyers de référence fixés par quartier et type de logement. Prévu par la loi ALUR de 2014, puis rétabli à titre expérimental par la loi ELAN de 2018, il s'applique dans les villes volontaires, dont Paris, Lille et Lyon. Il se distingue de l'encadrement de l'évolution des loyers à la relocation, applicable dans les zones dites tendues.",
+  "enjeux": "Ses partisans y voient une protection indispensable des locataires dans les marchés tendus et veulent le généraliser et le pérenniser. Ses opposants estiment qu'il décourage l'investissement locatif et aggrave la pénurie : « on ne résout pas une pénurie en administrant les prix », écrit un programme. Les évaluations font état d'effets modérés sur les loyers et de cas de non-respect.",
+  "reperes": [
+   "Loi ALUR de 2014",
+   "Loi ELAN de 2018 (expérimentation)"
+  ],
+  "liens": [
+   "logement-social",
+   "garantie-universelle-des-loyers"
+  ],
+  "motifs": [
+   "encadrement des loyers",
+   "Encadrer les loyers",
+   "encadrer les loyers",
+   "plafonnement des loyers",
+   "mécanismes de plafonnement",
+   "librement fixé"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de généraliser, d'améliorer et de pérenniser l'encadrement des loyers et d'augmenter les amendes en cas de dépassement.",
+    "appuis": [
+     "p25d4c9ba",
+     "pea2a29b9"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit l'encadrement obligatoire des loyers et des prix du foncier dans les zones tendues.",
+    "appuis": [
+     "p4ff8de1e"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d'encadrer les loyers dans les zones en grande tension.",
+    "appuis": [
+     "p0a27c5bc"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de supprimer les dispositifs issus de la loi ELAN et les plafonnements de la loi de 1989, le loyer étant « librement fixé » entre bailleur et locataire.",
+    "appuis": [
+     "pd97e7987",
+     "p332c2fd8",
+     "p0fd1ceb8"
+    ]
+   }
+  }
+ },
+ {
+  "id": "garantie-universelle-des-loyers",
+  "nom": "Garantie universelle des loyers et caution publique",
+  "variantes": [
+   "GUL",
+   "Visale",
+   "caution publique",
+   "fonds de garantie des loyers"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "travail",
+  "definition": "La garantie des loyers protège le propriétaire contre les impayés en se substituant au locataire défaillant, à la place ou en complément d'une caution personnelle. Une garantie universelle des loyers, publique et obligatoire, avait été votée dans la loi ALUR de 2014 sans jamais être mise en œuvre. Le dispositif Visale, gratuit et géré par Action Logement depuis 2016, joue aujourd'hui ce rôle pour les jeunes et certains salariés.",
+  "enjeux": "Ses partisans y voient un moyen de faciliter l'accès au logement des locataires sans garant et de rassurer les propriétaires. Les débats portent sur son caractère universel ou ciblé, son financement et le risque de déresponsabilisation des locataires. Les programmes la présentent tantôt comme une protection des locataires, tantôt comme une protection des propriétaires.",
+  "reperes": [
+   "Garantie universelle prévue par la loi ALUR de 2014",
+   "Visale créé en 2016"
+  ],
+  "liens": [
+   "encadrement-des-loyers",
+   "logement-social"
+  ],
+  "motifs": [
+   "garantie universelle des loyers",
+   "Visale",
+   "caution publique",
+   "Fonds de Garantie des Loyers"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de remplacer Visale par une garantie universelle des loyers.",
+    "appuis": [
+     "pfd204f9a"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit une garantie universelle des loyers « pour sécuriser les propriétaires et les locataires ».",
+    "appuis": [
+     "p10e9dce0"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d'étendre Visale à davantage de publics et sur une plus longue durée.",
+    "appuis": [
+     "p896146c7"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit d'étendre la caution publique pour les locataires tout en sanctionnant les « mauvais payeurs ».",
+    "appuis": [
+     "p4c897e89"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose un fonds de garantie des loyers pour protéger les propriétaires.",
+    "appuis": [
+     "p89736f03"
+    ]
+   }
+  }
+ }
+]

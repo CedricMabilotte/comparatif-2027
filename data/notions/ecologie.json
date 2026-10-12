@@ -1,0 +1,2076 @@
+[
+ {
+  "id": "epr",
+  "nom": "EPR et EPR2",
+  "variantes": [
+   "réacteur pressurisé européen",
+   "nouveaux réacteurs nucléaires"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "L’EPR est un réacteur nucléaire à eau pressurisée de troisième génération, conçu par des industriels français et allemands. En France, le premier exemplaire a été construit à Flamanville, dans la Manche, au terme d’un chantier marqué par d’importants retards et surcoûts. L’EPR2 en est une version simplifiée, destinée à être construite en série par EDF. Le gouvernement a annoncé en 2022 un programme de six EPR2, avec l’étude de huit réacteurs supplémentaires.",
+  "enjeux": "Ses partisans y voient le moyen de renouveler un parc vieillissant, de produire une électricité pilotable et peu émettrice de carbone, et de préserver une filière industrielle nationale. Ses opposants mettent en avant le coût et les délais observés à Flamanville, la question des déchets et les risques d’accident, et jugent plus rapide et moins coûteux de miser sur les énergies renouvelables.",
+  "reperes": [
+   "Discours de Belfort du président de la République, février 2022",
+   "Flamanville 3 raccordé au réseau en décembre 2024"
+  ],
+  "liens": [
+   "smr",
+   "sortie-du-nucleaire",
+   "prolongation-des-reacteurs",
+   "cigeo",
+   "ppe"
+  ],
+  "motifs": [
+   "EPR",
+   "EPR2",
+   "EPR-2",
+   "nouveaux réacteurs",
+   "relance du nucléaire",
+   "nouvelles unités",
+   "centrales nucléaires nouvelle génération"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de mettre fin aux nouveaux programmes EPR2 et SMR, qu’il qualifie d’« extrêmement dispendieux ».",
+    "appuis": [
+     "p081cbb2b"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’abandonner les projets d’EPR dans le cadre de la sortie du nucléaire.",
+    "appuis": [
+     "pdece24c7"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit la construction d’au moins six nouveaux EPR, puis la commande de huit EPR2 supplémentaires si l’avancement des premiers est satisfaisant, dans une loi de programmation actant « la relance du nucléaire ».",
+    "appuis": [
+     "p2c0413f4",
+     "p28527e13",
+     "p29f891bb"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de « conforter le rôle du nucléaire » et d’assurer la construction à temps de nouvelles unités.",
+    "appuis": [
+     "p4eb8c27c"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme prévoit de construire au moins 14 réacteurs EPR2 à l’horizon 2050.",
+    "appuis": [
+     "p27d7d30f"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit de poursuivre la construction de six premières centrales nucléaires de nouvelle génération.",
+    "appuis": [
+     "p780e0b79"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit un « plan Marie Curie » de relance du nucléaire comprenant des EPR, des SMR et des réacteurs à neutrons rapides.",
+    "appuis": [
+     "pe3350bed"
+    ]
+   }
+  }
+ },
+ {
+  "id": "smr",
+  "nom": "Petits réacteurs modulaires (SMR)",
+  "variantes": [
+   "SMR",
+   "small modular reactors",
+   "réacteurs de petite taille"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "Les SMR sont des réacteurs nucléaires de puissance réduite, conçus pour être fabriqués en usine par modules puis assemblés sur site. Ils visent des usages variés : production d’électricité, chaleur pour l’industrie ou les réseaux urbains. Plusieurs projets sont à l’étude en France et dans le monde, mais aucun n’est encore exploité commercialement en France. Le plan France 2030 a prévu des financements pour ces technologies.",
+  "enjeux": "Leurs promoteurs mettent en avant une construction plus rapide, une sûreté simplifiée et la possibilité d’exporter un savoir-faire. Leurs détracteurs soulignent l’absence de retour d’expérience, le coût par kilowattheure encore incertain et la multiplication des sites nucléaires qu’ils impliqueraient.",
+  "reperes": [
+   "Soutien prévu par le plan France 2030, présenté en 2021"
+  ],
+  "liens": [
+   "epr",
+   "sortie-du-nucleaire"
+  ],
+  "motifs": [
+   "SMR",
+   "petits réacteurs modulaires",
+   "réacteurs de petite taille"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de mettre fin aux nouveaux programmes SMR, au même titre que les EPR2.",
+    "appuis": [
+     "p081cbb2b"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de soutenir le développement des SMR afin de disposer d’un modèle prêt à construire.",
+    "appuis": [
+     "pd8191888"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme inclut les SMR dans son « plan Marie Curie » de relance du nucléaire.",
+    "appuis": [
+     "pe3350bed"
+    ]
+   }
+  }
+ },
+ {
+  "id": "sortie-du-nucleaire",
+  "nom": "Sortie du nucléaire",
+  "variantes": [
+   "arrêt du nucléaire",
+   "dénucléarisation"
+  ],
+  "categorie": "doctrine ou courant",
+  "theme": "ecologie",
+  "definition": "La sortie du nucléaire désigne l’arrêt progressif de la production d’électricité d’origine nucléaire, par la fermeture des réacteurs existants et l’abandon des nouveaux projets. L’Allemagne a fermé ses derniers réacteurs en 2023. En France, la loi de transition énergétique de 2015 prévoyait de ramener la part du nucléaire à 50 % de la production électrique, objectif reporté puis supprimé en 2023. La centrale de Fessenheim a été arrêtée en 2020.",
+  "enjeux": "Ses partisans invoquent les risques d’accident, l’absence de solution jugée satisfaisante pour les déchets à vie longue et le coût des nouveaux réacteurs. Ses opposants soulignent que le nucléaire fournit l’essentiel d’une électricité peu carbonée et pilotable, et estiment qu’en sortir compliquerait la baisse des émissions et la sécurité d’approvisionnement.",
+  "reperes": [
+   "Arrêt de la centrale de Fessenheim en 2020",
+   "Loi relative à l’accélération du nucléaire, juin 2023"
+  ],
+  "liens": [
+   "epr",
+   "cent-pour-cent-renouvelables",
+   "prolongation-des-reacteurs",
+   "cigeo"
+  ],
+  "motifs": [
+   "sortie du nucléaire",
+   "sortir du nucléaire",
+   "sortons du nucléaire",
+   "arrêt progressif du parc"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de planifier la sortie du nucléaire, par un arrêt progressif du parc étalé sur une vingtaine d’années.",
+    "appuis": [
+     "pd19e6f31",
+     "p27411c3b"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de sortir du nucléaire et de « ses dangers irréversibles », en abandonnant les projets d’EPR et d’enfouissement des déchets.",
+    "appuis": [
+     "p4d87da7d",
+     "pdece24c7"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme prévoit à l’inverse de supprimer l’objectif de réduire à 50 % la part du nucléaire et de stopper la fermeture prévue de réacteurs.",
+    "appuis": [
+     "p59aa154a",
+     "paf076efc"
+    ]
+   }
+  }
+ },
+ {
+  "id": "prolongation-des-reacteurs",
+  "nom": "Prolongation des réacteurs nucléaires",
+  "variantes": [
+   "durée de vie des centrales",
+   "grand carénage",
+   "réexamen décennal"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "En France, l’autorisation d’exploiter un réacteur n’est pas limitée dans le temps, mais chaque réacteur fait l’objet tous les dix ans d’un réexamen de sûreté sous le contrôle de l’Autorité de sûreté nucléaire et de radioprotection (ASNR), issue au 1er janvier 2025 de la fusion de l’ASN et de l’IRSN. EDF mène depuis les années 2010 un programme de travaux, dit « grand carénage », pour permettre l’exploitation des réacteurs au-delà de quarante ans. La question de leur fonctionnement jusqu’à soixante ans, voire au-delà, est à l’étude.",
+  "enjeux": "Les partisans de la prolongation y voient la source d’électricité la moins chère à court terme et un moyen de gagner du temps avant les nouveaux réacteurs. Ses opposants jugent que le vieillissement des installations accroît les risques et que les investissements seraient mieux employés ailleurs.",
+  "reperes": [
+   "Réexamen de sûreté tous les dix ans"
+  ],
+  "liens": [
+   "epr",
+   "sortie-du-nucleaire"
+  ],
+  "motifs": [
+   "quatre-vingts ans",
+   "durée de vie du parc",
+   "fermeture prévue des 12 réacteurs",
+   "horizon de 80 ans"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit l’inverse d’une prolongation : un arrêt progressif des « centrales vieillissantes » sur une vingtaine d’années.",
+    "appuis": [
+     "p27411c3b"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de prolonger l’exploitation des réacteurs jusqu’à quatre-vingts ans lorsque la sûreté le permet, et de fixer d’emblée cet horizon plutôt que de renouveler l’autorisation tous les dix ans.",
+    "appuis": [
+     "p68537df1",
+     "pe7ec4b98"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme prévoit d’allonger la durée de vie du parc existant à soixante ans au moins et de stopper la fermeture de douze réacteurs.",
+    "appuis": [
+     "p59aa154a",
+     "paf076efc"
+    ]
+   }
+  }
+ },
+ {
+  "id": "cigeo",
+  "nom": "Cigéo",
+  "variantes": [
+   "centre industriel de stockage géologique",
+   "enfouissement des déchets nucléaires"
+  ],
+  "categorie": "institution",
+  "theme": "ecologie",
+  "definition": "Cigéo est le projet de centre de stockage en couche géologique profonde des déchets radioactifs les plus dangereux, de haute et moyenne activité à vie longue. Porté par l’Agence nationale pour la gestion des déchets radioactifs (Andra), il est prévu à Bure, à la limite de la Meuse et de la Haute-Marne, dans une couche d’argile située à environ 500 mètres de profondeur. Le projet a été déclaré d’utilité publique en 2022.",
+  "enjeux": "Ses défenseurs y voient une solution définitive qui évite de laisser la charge des déchets aux générations futures. Ses opposants contestent la sûreté d’un stockage sur des milliers d’années, son caractère difficilement réversible et proposent d’autres options, comme l’entreposage de longue durée en surface ou en sub-surface.",
+  "reperes": [
+   "Projet porté par l’Andra",
+   "Déclaration d’utilité publique en 2022"
+  ],
+  "liens": [
+   "sortie-du-nucleaire",
+   "epr"
+  ],
+  "motifs": [
+   "CIGEO",
+   "Cigéo",
+   "enfouissement des déchets nucléaires",
+   "stockage à long terme des déchets nucléaires",
+   "déchets nucléaires"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un moratoire sur Cigéo en attendant d’étudier le stockage en sub-surface.",
+    "appuis": [
+     "pb018420c"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’abandonner l’enfouissement des déchets nucléaires.",
+    "appuis": [
+     "pdece24c7"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit de renforcer la recherche sur le traitement des déchets nucléaires et le réemploi des matières.",
+    "appuis": [
+     "p46b5a731"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme prévoit de réaliser Cigéo et d’investir dans l’usine de retraitement de La Hague.",
+    "appuis": [
+     "p009dc27f"
+    ]
+   }
+  }
+ },
+ {
+  "id": "arenh",
+  "nom": "ARENH et versement nucléaire universel",
+  "variantes": [
+   "accès régulé à l’électricité nucléaire historique",
+   "VNU",
+   "versement nucléaire universel"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "ecologie",
+  "definition": "L’ARENH, créé par la loi NOME de 2010, obligeait EDF à vendre une partie de sa production nucléaire, jusqu’à 100 TWh par an, à ses concurrents à un prix fixé, afin de faire profiter l’ensemble des fournisseurs de la rente du parc historique. Le dispositif a pris fin au 31 décembre 2025. Depuis le 1er janvier 2026, il est remplacé par le versement nucléaire universel, créé par la loi de finances pour 2025 : lorsque les revenus qu’EDF tire de son parc nucléaire historique dépassent certains seuils, une partie en est prélevée et reversée à tous les consommateurs sur leur facture. Pour 2026-2028, le prélèvement est de 50 % au-delà de 78 €/MWh et de 90 % au-delà de 110 €/MWh.",
+  "enjeux": "Ses critiques reprochaient à l’ARENH de faire vendre à EDF une électricité à un prix inférieur à ses coûts et d’avoir surtout profité à des fournisseurs sans moyens de production. Ses défenseurs y voyaient le moyen de faire bénéficier tous les consommateurs du parc payé par la collectivité. Le débat porte désormais sur la façon de garantir des prix stables, entre tarif régulé, contrats de long terme et mécanisme de redistribution.",
+  "reperes": [
+   "Loi portant nouvelle organisation du marché de l’électricité (NOME), 2010",
+   "Fin du dispositif au 31 décembre 2025",
+   "Versement nucléaire universel créé par la loi de finances du 14 février 2025, en vigueur depuis le 1er janvier 2026"
+  ],
+  "liens": [
+   "marche-europeen-de-l-electricite",
+   "nationalisation-edf",
+   "prix-de-l-electricite"
+  ],
+  "motifs": [
+   "ARENH",
+   "accès régulé à l'électricité nucléaire historique",
+   "versement nucléaire universel",
+   "Exeltium"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose de remplacer le versement nucléaire universel par des contrats de long terme entre EDF et les fournisseurs volontaires, sur le modèle d’Exeltium.",
+    "appuis": [
+     "p8af836b1",
+     "p28f759a0"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de remplacer l’ARENH par un tarif régulé de l’électricité nucléaire accessible à tous les consommateurs.",
+    "appuis": [
+     "p066b8742"
+    ]
+   }
+  }
+ },
+ {
+  "id": "ppe",
+  "nom": "Programmation pluriannuelle de l’énergie (PPE)",
+  "variantes": [
+   "PPE",
+   "PPE3",
+   "loi énergie-climat",
+   "loi de programmation énergie-climat"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "La PPE est le document qui fixe, pour dix ans, les priorités de la politique énergétique française : objectifs de production par source, de consommation et de réseaux. Créée par la loi de transition énergétique de 2015, elle est adoptée par décret. Depuis la loi énergie-climat de 2019, une loi de programmation quinquennale doit en principe fixer les grands objectifs avant chaque PPE. La troisième PPE, dite PPE3, qui couvre la période 2026-2035, a été adoptée par un décret publié au Journal officiel le 13 février 2026, après de vifs débats sur la place respective du nucléaire et des renouvelables. Elle prévoit la construction de six nouveaux réacteurs, huit autres restant en option, et des objectifs solaires revus à la baisse par rapport au projet soumis à consultation.",
+  "enjeux": "Le débat porte à la fois sur le contenu, notamment le rythme de développement de l’éolien et du solaire, et sur la procédure : certains réclament que ces choix soient fixés par une loi votée par le Parlement plutôt que par décret.",
+  "reperes": [
+   "Créée par la loi relative à la transition énergétique pour la croissance verte, 2015",
+   "Loi énergie-climat de 2019",
+   "PPE3 adoptée par décret, publié au Journal officiel le 13 février 2026"
+  ],
+  "liens": [
+   "snbc",
+   "epr",
+   "moratoire-eolien-solaire",
+   "obligation-d-achat"
+  ],
+  "motifs": [
+   "PPE",
+   "PPE3",
+   "PPE 3",
+   "programmation pluriannuelle de l'énergie",
+   "planification pluriannuelle de l'énergie",
+   "loi énergie-climat",
+   "loi de programmation énergétique"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de modifier la PPE3 pour porter la part des renouvelables à 44 % de la consommation d’électricité en 2030, et d’adopter une « loi énergie-climat » comprenant la sobriété.",
+    "appuis": [
+     "p2561d0ff",
+     "p27a1058e"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de faire voter une loi énergie-climat.",
+    "appuis": [
+     "pb9b6fbe3"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit d’abroger le volet électricité de la PPE3 et d’adopter une loi de programmation actant la relance du nucléaire.",
+    "appuis": [
+     "pc5e0c0b2",
+     "p29f891bb"
+    ]
+   }
+  }
+ },
+ {
+  "id": "snbc",
+  "nom": "Stratégie nationale bas carbone (SNBC)",
+  "variantes": [
+   "SNBC",
+   "SNBC-4",
+   "budgets carbone"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "La SNBC est la feuille de route de la France pour réduire ses émissions de gaz à effet de serre. Instituée par la loi de transition énergétique de 2015, elle fixe des plafonds d’émissions par périodes de cinq ans, appelés budgets carbone, et les décline par secteur. Elle vise la neutralité carbone en 2050. Son respect est évalué chaque année par le Haut Conseil pour le climat.",
+  "enjeux": "Le débat porte sur l’écart entre les objectifs et les résultats, sur le niveau d’ambition à retenir et sur le caractère contraignant de ce document, qui oriente l’action publique sans imposer d’obligations directes aux acteurs économiques.",
+  "reperes": [
+   "Instituée par la loi de 2015 relative à la transition énergétique",
+   "Évaluée par le Haut Conseil pour le climat, créé en 2018"
+  ],
+  "liens": [
+   "ppe",
+   "planification-ecologique"
+  ],
+  "motifs": [
+   "SNBC",
+   "SNBC-4",
+   "stratégie nationale bas carbone",
+   "neutralité carbone",
+   "neutralité climat"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une quatrième SNBC ramenant la France sur la trajectoire de l’accord de Paris.",
+    "appuis": [
+     "p664e15ad"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit un plan climat visant la neutralité carbone en 2050.",
+    "appuis": [
+     "p497b70bb"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une loi Climat fixant une trajectoire de moins 90 % d’émissions en 2040 et la neutralité climat en 2050.",
+    "appuis": [
+     "p6f29710a"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme affirme la nécessité de tripler le rythme annuel de baisse des émissions d’ici 2030, de 1,8 % à 5 % par an.",
+    "appuis": [
+     "pd3a26271"
+    ]
+   }
+  }
+ },
+ {
+  "id": "nationalisation-edf",
+  "nom": "Statut d’EDF et projet Hercule",
+  "variantes": [
+   "nationalisation d’EDF",
+   "Hercule",
+   "pôle public de l’énergie"
+  ],
+  "categorie": "institution",
+  "theme": "ecologie",
+  "definition": "EDF, créée en 1946 comme établissement public, est devenue une société anonyme en 2004 et a été introduite en bourse en 2005. L’État, actionnaire majoritaire, en a racheté la totalité du capital en 2023. Le projet de réorganisation dit « Hercule », envisagé à partir de 2019, prévoyait de séparer les activités nucléaires et hydrauliques des autres activités ; il a été abandonné en 2021.",
+  "enjeux": "Le débat oppose ceux qui veulent un opérateur public intégré, protégé des règles de concurrence, à ceux qui défendent l’ouverture du marché. Certains programmes vont plus loin en proposant d’y intégrer d’autres entreprises, comme Engie, au sein d’un pôle public.",
+  "reperes": [
+   "Création d’EDF par la loi du 8 avril 1946",
+   "Rachat de la totalité du capital par l’État en 2023"
+  ],
+  "liens": [
+   "marche-europeen-de-l-electricite",
+   "arenh",
+   "concessions-hydroelectriques",
+   "nationalisation"
+  ],
+  "motifs": [
+   "nationalisation d'EDF",
+   "renationalisant EDF",
+   "Hercule",
+   "démantèlement d'EDF"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose la « nationalisation d’EDF pour plus d’énergies renouvelables ».",
+    "appuis": [
+     "pa5026cbf"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de créer un pôle public de l’énergie en renationalisant EDF et Engie.",
+    "appuis": [
+     "p777de0f7"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de mettre fin au projet Hercule et de garantir l’intégrité d’EDF, qualifiée de « fleuron national ».",
+    "appuis": [
+     "p07d165c5"
+    ]
+   }
+  }
+ },
+ {
+  "id": "concessions-hydroelectriques",
+  "nom": "Concessions hydroélectriques",
+  "variantes": [
+   "barrages hydroélectriques",
+   "mise en concurrence des barrages",
+   "STEP"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "ecologie",
+  "definition": "En France, les grands barrages hydroélectriques appartiennent à l’État, qui en confie l’exploitation par concession, le plus souvent à EDF. La Commission européenne a demandé à plusieurs reprises que ces concessions soient remises en concurrence à leur échéance, ce qui a bloqué leur renouvellement et les investissements pendant des années. À la suite d’un accord de principe conclu avec la Commission en août 2025, une loi publiée au Journal officiel le 30 juin 2026 fait passer les grandes installations, de plus de 4,5 MW, du régime de la concession à un régime d’autorisation, l’État restant propriétaire des ouvrages. Les stations de transfert d’énergie par pompage (STEP) permettent de stocker l’électricité en remontant l’eau d’un bassin à un autre.",
+  "enjeux": "Les partisans d’un statut public y voient un actif stratégique, utile à la gestion de l’eau et à la flexibilité du réseau, qui ne devrait pas être soumis au marché. Les défenseurs de la concurrence estiment qu’elle peut améliorer l’exploitation. Tous s’accordent largement sur la nécessité de relancer les investissements.",
+  "reperes": [
+   "Concessions régies par la loi du 16 octobre 1919",
+   "Loi visant à relancer les investissements dans l’hydroélectricité, publiée au Journal officiel le 30 juin 2026"
+  ],
+  "liens": [
+   "nationalisation-edf",
+   "marche-europeen-de-l-electricite"
+  ],
+  "motifs": [
+   "barrages hydroélectriques",
+   "barrages",
+   "hydroélectri*",
+   "STEP",
+   "Micro-STEP"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de refuser la privatisation des barrages hydroélectriques.",
+    "appuis": [
+     "pf5341663",
+     "p777de0f7"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de moderniser les installations existantes, de relancer l’étude de la STEP de Redenat et de préserver la gestion coordonnée des réservoirs par vallée.",
+    "appuis": [
+     "p4ea5b02e",
+     "pf9903fe2",
+     "p5bb9f708"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de soustraire les barrages à la mise en concurrence « voulue par Bruxelles » et d’y investir pour augmenter leur production.",
+    "appuis": [
+     "p233fae9d",
+     "p85de7d9e"
+    ]
+   }
+  }
+ },
+ {
+  "id": "moratoire-eolien-solaire",
+  "nom": "Éolien et solaire : développement ou moratoire",
+  "variantes": [
+   "moratoire sur l’éolien",
+   "éolien en mer",
+   "parcs éoliens"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "L’éolien terrestre, l’éolien en mer et le solaire photovoltaïque sont les principales sources d’électricité renouvelable en développement en France. Leur implantation fait l’objet d’autorisations et, pour l’éolien en mer et les grandes centrales solaires, d’appels d’offres de l’État. La loi d’accélération de la production d’énergies renouvelables de 2023 a prévu des zones d’accélération définies avec les communes.",
+  "enjeux": "Leurs partisans y voient des énergies rapides à installer, sans émissions et dont les coûts ont fortement baissé. Leurs opposants critiquent leur intermittence, leur impact sur les paysages et la biodiversité, leur coût pour les finances publiques et le manque de concertation locale ; certains demandent un moratoire, voire un démantèlement.",
+  "reperes": [
+   "Loi relative à l’accélération de la production d’énergies renouvelables, mars 2023"
+  ],
+  "liens": [
+   "obligation-d-achat",
+   "ppe",
+   "cent-pour-cent-renouvelables"
+  ],
+  "motifs": [
+   "éolien*",
+   "éolienne*",
+   "photovoltaïque*",
+   "puissance solaire",
+   "capacités solaires",
+   "éolien et le solaire"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’interdire les parcs éoliens ou solaires dans les parcs naturels et réserves.",
+    "appuis": [
+     "p04ef36d5"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de faire de la France le leader européen des énergies marines, avec l’éolien en mer.",
+    "appuis": [
+     "p6683ec75"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de mettre fin aux soutiens publics aux nouvelles capacités solaires et éoliennes, de ne plus lancer d’appels d’offres et de n’autoriser aucun projet éolien « sans accord des populations ».",
+    "appuis": [
+     "p51af7ed1",
+     "pc5e0c0b2",
+     "p2b432616"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de mettre fin à tous les projets d’éoliennes, sur terre comme sur mer.",
+    "appuis": [
+     "p3de79e64"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit de multiplier par dix la puissance solaire et d’implanter 50 parcs éoliens en mer d’ici 2050.",
+    "appuis": [
+     "p780e0b79"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit un moratoire sur l’éolien et le solaire, le démantèlement progressif des éoliennes et la fin des projets au sol sur les terres agricoles.",
+    "appuis": [
+     "p3d15347f",
+     "pce21e881"
+    ]
+   }
+  }
+ },
+ {
+  "id": "obligation-d-achat",
+  "nom": "Soutien public aux renouvelables",
+  "variantes": [
+   "obligation d’achat",
+   "tarifs de rachat",
+   "complément de rémunération"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "ecologie",
+  "definition": "Pour favoriser leur développement, l’électricité produite par certaines installations renouvelables est achetée à un tarif garanti sur une longue durée, ou complétée par un versement de l’État lorsque le prix de marché est inférieur à un prix de référence. L’obligation d’achat date de la loi du 10 février 2000, le complément de rémunération de la loi de transition énergétique de 2015. Ces dispositifs sont financés par le budget de l’État au titre des charges de service public de l’énergie. Lorsque les prix de marché sont élevés, ils peuvent au contraire rapporter de l’argent à l’État.",
+  "enjeux": "Leurs partisans les jugent indispensables pour sécuriser les investissements et faire baisser les coûts des filières. Leurs critiques dénoncent leur coût cumulé pour les finances publiques et l’effet d’aubaine, et proposent de les supprimer ou d’en transférer la gestion.",
+  "reperes": [
+   "Loi du 10 février 2000 relative au service public de l’électricité"
+  ],
+  "liens": [
+   "moratoire-eolien-solaire",
+   "ppe"
+  ],
+  "motifs": [
+   "tarifs de rachat",
+   "tarifs préférentiels de rachat",
+   "obligations d'achat",
+   "soutiens publics aux nouvelles capacités solaires",
+   "subventions versées notamment aux éoliennes"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme prévoit de supprimer les soutiens publics aux nouvelles capacités solaires et éoliennes, les avantages fiscaux du photovoltaïque, et de transférer les obligations d’achat d’EDF à RTE et Enedis.",
+    "appuis": [
+     "p51af7ed1",
+     "pc4a9b96d",
+     "p3a6e1cdd"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de supprimer les tarifs préférentiels de rachat des « énergies intermittentes » et de rendre aux ménages les subventions versées aux éoliennes.",
+    "appuis": [
+     "p4bd64331",
+     "p84304a4a"
+    ]
+   }
+  }
+ },
+ {
+  "id": "cent-pour-cent-renouvelables",
+  "nom": "100 % renouvelables",
+  "variantes": [
+   "100 % d’énergies renouvelables",
+   "scénario renouvelable"
+  ],
+  "categorie": "doctrine ou courant",
+  "theme": "ecologie",
+  "definition": "Cette orientation vise un système énergétique, ou au moins électrique, reposant entièrement sur des sources renouvelables : éolien, solaire, hydraulique, biomasse, géothermie. Plusieurs études prospectives, dont celles de l’association négaWatt et le scénario sans nouveau nucléaire étudié par RTE en 2021, ont exploré cette hypothèse, en la conditionnant à de fortes baisses de consommation et à d’importants moyens de stockage et de flexibilité.",
+  "enjeux": "Ses partisans la jugent réaliste et moins risquée que le nucléaire, à condition d’une politique de sobriété. Ses opposants estiment que ce scénario repose sur des paris technologiques et industriels lourds et qu’il compliquerait l’équilibre du réseau.",
+  "reperes": [
+   "Étude « Futurs énergétiques 2050 » de RTE, 2021"
+  ],
+  "liens": [
+   "sortie-du-nucleaire",
+   "sobriete-energetique",
+   "moratoire-eolien-solaire"
+  ],
+  "motifs": [
+   "100 % d'énergies renouvelables",
+   "100% énergies renouvelables",
+   "100 % énergies renouvelables",
+   "100 % renouvelable*"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de planifier le 100 % renouvelable dès 2050, avec un double axe sobriété et efficacité énergétique.",
+    "appuis": [
+     "p4d87da7d",
+     "p13ed46aa"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’atteindre 100 % d’énergies renouvelables « dès que possible », au nom de l’indépendance énergétique.",
+    "appuis": [
+     "p22a14443"
+    ]
+   }
+  }
+ },
+ {
+  "id": "cee",
+  "nom": "Certificats d’économies d’énergie (CEE)",
+  "variantes": [
+   "CEE",
+   "CEE précarité"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "ecologie",
+  "definition": "Le dispositif des CEE oblige les fournisseurs d’énergie, appelés les « obligés », à financer des économies d’énergie chez leurs clients : isolation, changement de chauffage, équipements. Chaque action donne droit à des certificats, et les obligés doivent en détenir un volume fixé par période. Une part est réservée aux ménages modestes. Créé en 2005, il est financé par les factures d’énergie et représente plusieurs milliards d’euros par an.",
+  "enjeux": "Ses défenseurs y voient un financement important de la rénovation hors budget de l’État. Ses critiques pointent la fraude, l’opacité et la qualité inégale des travaux, ainsi que le fait que son coût pèse sur les factures ; certains proposent de le réintégrer au budget de l’État.",
+  "reperes": [
+   "Créé par la loi de programme fixant les orientations de la politique énergétique (POPE), 2005"
+  ],
+  "liens": [
+   "renovation-energetique"
+  ],
+  "motifs": [
+   "CEE",
+   "certificats d'économie d'énergie",
+   "certificats d'économies d'énergie",
+   "certificat d'économie d'énergie"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de réformer les CEE, de les étendre à l’industrie et au BTP et de transformer les CEE précarité en « certificat carbone précarité ».",
+    "appuis": [
+     "p9a758314",
+     "p21ec6691",
+     "p3447e44d"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de sortir l’électricité du périmètre des CEE et de réduire d’autant les obligations.",
+    "appuis": [
+     "pca4a6bee"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de rebudgétiser les certificats d’économie d’énergie.",
+    "appuis": [
+     "p8a628b65"
+    ]
+   }
+  }
+ },
+ {
+  "id": "planification-ecologique",
+  "nom": "Planification écologique",
+  "variantes": [
+   "planification",
+   "haut-commissariat à la planification"
+  ],
+  "categorie": "doctrine ou courant",
+  "theme": "ecologie",
+  "definition": "La planification écologique désigne l’organisation par l’État, sur plusieurs années et par secteur, des investissements et des transformations nécessaires à la baisse des émissions et à la protection de l’environnement. Le terme, porté par La France insoumise dès 2017, a été repris par l’exécutif, qui a créé en 2022 un Secrétariat général à la planification écologique rattaché au Premier ministre.",
+  "enjeux": "Le débat porte sur la méthode : ses promoteurs à gauche y associent un pilotage public fort de l’économie, quand d’autres la conçoivent comme une coordination négociée avec les acteurs économiques et les collectivités. Ses critiques y voient un risque de dirigisme.",
+  "reperes": [
+   "Secrétariat général à la planification écologique créé en 2022"
+  ],
+  "liens": [
+   "snbc",
+   "ppe"
+  ],
+  "motifs": [
+   "planification écologique",
+   "planification déclinée"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose des lois-cadres de « planification écologique et démocratique » et un haut-commissariat à la planification écologique avec des délégués locaux.",
+    "appuis": [
+     "pa8a650bb",
+     "p7b022957"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit une planification déclinée dans chaque territoire et dans chaque grand secteur économique, négociée avec les acteurs.",
+    "appuis": [
+     "pa0d63243",
+     "p40401b52"
+    ]
+   }
+  }
+ },
+ {
+  "id": "pacte-vert-europeen",
+  "nom": "Pacte vert pour l’Europe",
+  "variantes": [
+   "Green Deal",
+   "Pacte vert",
+   "Fit for 55"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "Le Pacte vert est la stratégie présentée par la Commission européenne en décembre 2019 pour faire de l’Union le premier continent neutre en carbone en 2050. Il s’est traduit par une série de textes, dont la loi européenne sur le climat, le paquet « Fit for 55 » visant une baisse de 55 % des émissions en 2030 par rapport à 1990, la fin de la vente des voitures neuves émettant du CO2 en 2035 et le mécanisme d’ajustement carbone aux frontières. Un objectif intermédiaire de baisse de 90 % des émissions nettes en 2040, négocié fin 2025, a ensuite été ajouté à la loi européenne sur le climat.",
+  "enjeux": "Ses partisans y voient un cadre commun indispensable pour décarboner l’économie européenne. Ses critiques dénoncent la charge réglementaire qu’il fait peser sur les entreprises et les agriculteurs ; plusieurs de ses volets font l’objet de demandes d’assouplissement.",
+  "reperes": [
+   "Présenté par la Commission européenne en décembre 2019",
+   "Loi européenne sur le climat, 2021"
+  ],
+  "liens": [
+   "mecanisme-d-ajustement-carbone-aux-frontieres",
+   "fin-vehicules-thermiques-2035"
+  ],
+  "motifs": [
+   "Green deal",
+   "Pacte vert",
+   "Green & Social New Deal"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose un « Green & Social New Deal » reposant sur une réduction d’au moins 65 % des émissions d’ici 2030.",
+    "appuis": [
+     "p5a69b266"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de sortir du « Green deal » et de « l’enfer administratif » qu’il imposerait aux petites entreprises.",
+    "appuis": [
+     "p9daa5be1"
+    ]
+   }
+  }
+ },
+ {
+  "id": "zfe",
+  "nom": "Zones à faibles émissions (ZFE)",
+  "variantes": [
+   "ZFE",
+   "ZFE-m",
+   "zones à trafic limité"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "ecologie",
+  "definition": "Les ZFE sont des périmètres urbains dans lesquels la circulation des véhicules les plus polluants est restreinte, selon leur vignette Crit’Air. Créées par la loi d’orientation des mobilités de 2019 et étendues par la loi Climat et résilience de 2021 aux grandes agglomérations, elles visent à réduire la pollution de l’air, responsable de nombreux décès prématurés. Le Parlement a voté leur suppression dans la loi de simplification de la vie économique ; le Conseil constitutionnel a censuré cette disposition le 21 mai 2026 (décision n° 2026-903 DC) comme « cavalier législatif », sans se prononcer sur le fond. À la date de rédaction (octobre 2026), les ZFE restent donc prévues par la loi.",
+  "enjeux": "Leurs partisans les jugent nécessaires pour la santé publique. Leurs opposants dénoncent une mesure qui pénalise les ménages modestes et les habitants des périphéries et zones rurales, contraints de changer de véhicule ; leur suppression a été défendue au Parlement par plusieurs groupes.",
+  "reperes": [
+   "Loi d’orientation des mobilités, 2019",
+   "Loi Climat et résilience, 2021",
+   "Censure de leur suppression par le Conseil constitutionnel, 21 mai 2026"
+  ],
+  "liens": [
+   "fin-vehicules-thermiques-2035",
+   "leasing-social"
+  ],
+  "motifs": [
+   "ZFE",
+   "zones à faibles émissions",
+   "zone à faibles émissions"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de modifier les conditions des ZFE et de développer des zones à trafic limité.",
+    "appuis": [
+     "p7955d432"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de supprimer les zones à faibles émissions.",
+    "appuis": [
+     "pf113877c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "fin-vehicules-thermiques-2035",
+  "nom": "Fin de la vente des voitures thermiques en 2035",
+  "variantes": [
+   "interdiction des moteurs thermiques",
+   "100 % de véhicules zéro émission"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "ecologie",
+  "definition": "Un règlement européen adopté en 2023 impose qu’à partir de 2035 les voitures et camionnettes neuves vendues dans l’Union n’émettent plus de CO2 à l’échappement, ce qui revient à mettre fin à la vente de véhicules neufs à essence ou diesel. Les véhicules d’occasion ne sont pas concernés. En décembre 2025, la Commission européenne a proposé d’assouplir cette échéance en ramenant l’objectif à une baisse de 90 % des émissions ; à la date de rédaction (octobre 2026), cette proposition est encore en discussion au Parlement européen et au Conseil.",
+  "enjeux": "Ses partisans y voient un signal indispensable pour l’industrie et la baisse des émissions des transports. Ses opposants jugent l’échéance trop rapide pour les constructeurs et les ménages, dénoncent la dépendance aux batteries asiatiques et défendent la neutralité technologique.",
+  "reperes": [
+   "Règlement européen sur les normes d’émission de CO2 des voitures, 2023",
+   "Proposition d’assouplissement présentée par la Commission européenne, décembre 2025"
+  ],
+  "liens": [
+   "zfe",
+   "leasing-social",
+   "pacte-vert-europeen"
+  ],
+  "motifs": [
+   "moteur thermique",
+   "véhicules zéro émission",
+   "zéro émission en 2035"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de maintenir l’objectif de 100 % de véhicules neufs zéro émission en 2035.",
+    "appuis": [
+     "p079e0fd3"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de renoncer à l’interdiction de la vente des voitures à moteur thermique en 2035.",
+    "appuis": [
+     "pe12da57a"
+    ]
+   }
+  }
+ },
+ {
+  "id": "leasing-social",
+  "nom": "Leasing social",
+  "variantes": [
+   "location sociale de véhicules électriques"
+  ],
+  "categorie": "prestation sociale",
+  "theme": "ecologie",
+  "definition": "Le leasing social est un dispositif public permettant à des ménages modestes de louer une voiture électrique neuve pour un loyer mensuel réduit, grâce à une aide de l’État. Lancé en France en 2024, il a d’abord été réservé aux ménages sous condition de revenus qui dépendent de leur voiture pour aller travailler. Il vise à rendre accessible la voiture électrique et à soutenir la production européenne.",
+  "enjeux": "Ses défenseurs y voient une transition juste qui ne réserve pas l’électrique aux ménages aisés. Ses critiques s’interrogent sur son coût pour les finances publiques, sur le nombre limité de bénéficiaires et sur la part de véhicules importés.",
+  "reperes": [
+   "Lancé en janvier 2024"
+  ],
+  "liens": [
+   "fin-vehicules-thermiques-2035",
+   "zfe"
+  ],
+  "motifs": [
+   "leasing social",
+   "location sociale"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un leasing social d’un million de véhicules sur le quinquennat, en favorisant les véhicules européens.",
+    "appuis": [
+     "p84998c67"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit de déployer à grande échelle le leasing social pour que les ménages modestes accèdent à la voiture électrique.",
+    "appuis": [
+     "p987d44ff"
+    ]
+   }
+  }
+ },
+ {
+  "id": "renovation-energetique",
+  "nom": "Rénovation énergétique et DPE",
+  "variantes": [
+   "MaPrimeRénov’",
+   "DPE",
+   "diagnostic de performance énergétique",
+   "passoires thermiques",
+   "interdiction de louer",
+   "MaPrimeRénov'"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "La rénovation énergétique désigne les travaux qui réduisent la consommation d’énergie d’un bâtiment : isolation, ventilation, changement de chauffage. Le diagnostic de performance énergétique (DPE) classe les logements de A à G ; la loi Climat et résilience de 2021 interdit progressivement de mettre en location les logements les moins bien classés, appelés « passoires thermiques » (classes F et G). La principale aide publique, MaPrimeRénov’, est gérée par l’Agence nationale de l’habitat depuis 2020.",
+  "enjeux": "Le débat porte sur le rythme des rénovations, sur la priorité donnée aux rénovations complètes ou aux gestes isolés, sur le reste à charge des ménages et sur les interdictions de louer, que certains jugent nécessaires pour protéger les locataires et d’autres contre-productives pour l’offre de logements.",
+  "reperes": [
+   "Loi Climat et résilience, 2021",
+   "MaPrimeRénov’ créée en 2020",
+   "Interdiction de louer : classe G en 2025, F en 2028, E en 2034"
+  ],
+  "liens": [
+   "cee",
+   "sobriete-energetique",
+   "logement-social",
+   "encadrement-des-loyers"
+  ],
+  "motifs": [
+   "rénovation énergétique",
+   "rénovation thermique",
+   "rénovations performantes",
+   "logements rénovés",
+   "MaPrimeRénov",
+   "DPE",
+   "diagnostic de performance énergétique",
+   "passoire thermique",
+   "passoires thermiques",
+   "isolation",
+   "passoires énergétiques",
+   "logements classés F",
+   "MaPrimeRénov'",
+   "100%Renov"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme vise 500 000 rénovations performantes par an via MaPrimeRénov’, propose d’ajouter au DPE une étiquette « confort d’été » et de maintenir l’interdiction de louer les logements classés F en 2028 et E en 2034.",
+    "appuis": [
+     "p81dbd4f4",
+     "pffd0ac6c",
+     "p8a27c368"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit l’isolation complète des logements avec prise en charge totale pour les ménages modestes, et l’interdiction de louer les passoires thermiques.",
+    "appuis": [
+     "pa78129dd",
+     "p99706b53"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme vise le doublement du nombre de logements rénovés, tout en prévoyant que le DPE ne puisse plus fonder une interdiction de louer.",
+    "appuis": [
+     "p9e178d9a",
+     "pf8d1bac1"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une rénovation sans avance de frais, l’accélération de la rénovation des passoires thermiques et une relance simplifiée de MaPrimeRénov’.",
+    "appuis": [
+     "p48839e55",
+     "p72df4200",
+     "pc25f2982"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit une rénovation thermique « massive » et 700 000 logements rénovés par an.",
+    "appuis": [
+     "p33bd4c27",
+     "pb658517b"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose d’abroger toutes les interdictions et obligations liées au DPE et de remplacer MaPrimeRénov’ par « 100%Renov ».",
+    "appuis": [
+     "p3962f269",
+     "p402d99a6"
+    ]
+   }
+  },
+  "autres_themes": [
+   "travail"
+  ]
+ },
+ {
+  "id": "zan",
+  "nom": "Zéro artificialisation nette (ZAN)",
+  "variantes": [
+   "ZAN",
+   "artificialisation des sols"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "ecologie",
+  "definition": "L’artificialisation désigne la transformation d’espaces naturels, agricoles ou forestiers en sols bâtis, revêtus ou aménagés. La loi Climat et résilience de 2021 fixe l’objectif d’atteindre en 2050 le « zéro artificialisation nette », c’est-à-dire de compenser toute nouvelle artificialisation par la renaturation d’une surface équivalente, avec une première étape de division par deux de la consommation d’espaces sur la décennie 2021-2031. Un assouplissement voté par le Parlement dans la loi de simplification de la vie économique, qui permettait aux collectivités de dépasser jusqu’à 20 % leur enveloppe de surfaces aménageables, a été censuré par le Conseil constitutionnel le 21 mai 2026 comme « cavalier législatif ».",
+  "enjeux": "Ses partisans y voient un outil indispensable pour préserver les terres agricoles, la biodiversité et les sols qui absorbent l’eau. Ses opposants, notamment parmi les élus ruraux, estiment qu’il bloque le développement des communes, la construction de logements et l’implantation d’activités.",
+  "reperes": [
+   "Loi Climat et résilience, 22 août 2021"
+  ],
+  "liens": [
+   "megabassines",
+   "foncier-agricole",
+   "reindustrialisation"
+  ],
+  "motifs": [
+   "ZAN",
+   "zéro artificialisation nette",
+   "artificialisation"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de renforcer la trajectoire du ZAN et d’en sanctionner le non-respect.",
+    "appuis": [
+     "p70493ca8",
+     "p5dd314e5"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de lutter contre l’artificialisation des sols.",
+    "appuis": [
+     "p52790987"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit d’abroger le ZAN, qui « bloque des territoires entiers ».",
+    "appuis": [
+     "pb096ac04"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de défendre les objectifs du ZAN en sortant d’une « logique purement comptable ».",
+    "appuis": [
+     "p0300553a"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit que les entreprises compensent « dans la mesure du possible » toute artificialisation et que les collectivités réhabilitent les friches.",
+    "appuis": [
+     "p87501229"
+    ]
+   }
+  }
+ },
+ {
+  "id": "megabassines",
+  "nom": "Méga-bassines",
+  "variantes": [
+   "réserves de substitution",
+   "retenues d’eau",
+   "stockage d’eau agricole"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "Les réserves dites « de substitution » sont de grands bassins artificiels remplis en hiver par pompage dans les nappes phréatiques ou les cours d’eau, afin d’irriguer les cultures en été. Leurs opposants les appellent « méga-bassines ». Le projet de Sainte-Soline, dans les Deux-Sèvres, a donné lieu à de violents affrontements en 2023.",
+  "enjeux": "Leurs partisans y voient un moyen de sécuriser l’agriculture face aux sécheresses en stockant l’eau quand elle est abondante. Leurs opposants dénoncent l’accaparement d’une ressource commune au profit de quelques exploitations et l’effet sur les nappes, et demandent une réduction des besoins d’irrigation.",
+  "reperes": [
+   "Manifestations de Sainte-Soline, mars 2023"
+  ],
+  "liens": [
+   "zan",
+   "regie-publique-eau"
+  ],
+  "motifs": [
+   "méga-bassine*",
+   "mégabassine*",
+   "stockage d'eau",
+   "réserves d'eau",
+   "retenue artificielle",
+   "retenues artificielles"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un moratoire sur tous les projets de méga-bassines et de conditionner toute retenue à une baisse de la consommation d’eau.",
+    "appuis": [
+     "p325d13c9",
+     "p7821a3ee"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose un moratoire sur les méga-bassines.",
+    "appuis": [
+     "p8378b885"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de reconnaître le stockage d’eau agricole comme d’« intérêt général majeur » pour limiter les contentieux.",
+    "appuis": [
+     "p3ddbc5e1"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de refuser les méga-bassines au profit de solutions locales et de transformer les comités de bassin en « Parlements de l’eau ».",
+    "appuis": [
+     "p58b9e40e"
+    ]
+   }
+  }
+ },
+ {
+  "id": "glyphosate",
+  "nom": "Glyphosate",
+  "variantes": [
+   "Roundup"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "Le glyphosate est l’herbicide le plus utilisé au monde, commercialisé à l’origine par Monsanto. Il a été classé « cancérogène probable » par le Centre international de recherche sur le cancer en 2015, alors que les agences européennes ont conclu qu’il ne présentait pas de risque cancérogène dans les conditions d’usage autorisées. L’Union européenne a renouvelé son autorisation pour dix ans en 2023.",
+  "enjeux": "Ses défenseurs soulignent l’absence d’alternative aussi efficace et peu coûteuse, notamment pour l’agriculture de conservation des sols. Ses opposants invoquent les risques pour la santé et la biodiversité et demandent son interdiction avec un accompagnement des agriculteurs.",
+  "reperes": [
+   "Classement par le CIRC en 2015",
+   "Renouvellement européen en novembre 2023"
+  ],
+  "liens": [
+   "neonicotinoides",
+   "ecophyto",
+   "principe-de-precaution"
+  ],
+  "motifs": [
+   "glyphosate"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme prévoit d’interdire le glyphosate, avec un accompagnement financier des « paysans concernés ».",
+    "appuis": [
+     "p0f5e60ee",
+     "p3d216670"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’interdire les pesticides les plus néfastes, dont le glyphosate.",
+    "appuis": [
+     "p7279ee05"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose d’indemniser les victimes « du chlordécone, du glyphosate et des sargasses » et, plus largement, de planifier une sortie progressive des pesticides de synthèse à l’horizon 2050.",
+    "appuis": [
+     "p9ebb725f",
+     "pe09943c4"
+    ]
+   }
+  }
+ },
+ {
+  "id": "neonicotinoides",
+  "nom": "Néonicotinoïdes",
+  "variantes": [
+   "acétamipride",
+   "« tueurs d’abeilles »"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "Les néonicotinoïdes sont des insecticides qui agissent sur le système nerveux des insectes. Mis en cause dans le déclin des abeilles et des pollinisateurs, ils sont interdits en France depuis 2018 en application de la loi biodiversité de 2016. Une dérogation accordée à la filière betterave a été abandonnée en 2023 après un arrêt de la Cour de justice de l’Union européenne. En 2025, la loi dite « Duplomb » a prévu de réautoriser par dérogation l’acétamipride ; cette disposition a été censurée par le Conseil constitutionnel le 7 août 2025 (décision n° 2025-891 DC).",
+  "enjeux": "Les partisans de leur réintroduction mettent en avant l’absence d’alternative pour certaines cultures et la concurrence de pays européens qui les autorisent. Leurs opposants invoquent leurs effets sur la biodiversité et la santé, et le principe de non-régression du droit de l’environnement.",
+  "reperes": [
+   "Loi pour la reconquête de la biodiversité, 2016",
+   "Décision n° 2025-891 DC du Conseil constitutionnel, 7 août 2025"
+  ],
+  "liens": [
+   "glyphosate",
+   "ecophyto",
+   "principe-de-non-regression"
+  ],
+  "motifs": [
+   "néonicotinoïde*",
+   "acétamipride"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’empêcher toute réintroduction des néonicotinoïdes.",
+    "appuis": [
+     "p7f53bb6b"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’interdire les néonicotinoïdes.",
+    "appuis": [
+     "p0f5e60ee"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de réautoriser certains néonicotinoïdes, dont l’acétamipride.",
+    "appuis": [
+     "p3bab08ba"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’interdire les néonicotinoïdes, qualifiés de « tueurs d’abeilles ».",
+    "appuis": [
+     "p7279ee05"
+    ]
+   }
+  }
+ },
+ {
+  "id": "ecophyto",
+  "nom": "Plan Ecophyto et réduction des pesticides",
+  "variantes": [
+   "Ecophyto 2030",
+   "NODU"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "Le plan Ecophyto, lancé en 2008 à la suite du Grenelle de l’environnement, vise à réduire l’usage des produits phytosanitaires en agriculture, avec un objectif de baisse de 50 % plusieurs fois reporté. Son suivi reposait sur un indicateur national, le NODU, qui mesure le nombre de doses utilisées. La version Ecophyto 2030, présentée en 2024, a retenu un indicateur européen fondé sur le risque des substances, ce qui a suscité de vives critiques des associations.",
+  "enjeux": "Ses défenseurs le jugent nécessaire pour la santé et la biodiversité et réclament des moyens supplémentaires. Ses critiques dans le monde agricole contestent les objectifs chiffrés uniformes et préfèrent une approche au cas par cas, fondée sur l’existence d’alternatives.",
+  "reperes": [
+   "Lancé en 2008 après le Grenelle de l’environnement",
+   "Stratégie Ecophyto 2030 présentée en 2024"
+  ],
+  "liens": [
+   "glyphosate",
+   "neonicotinoides"
+  ],
+  "motifs": [
+   "Ecophyto",
+   "Écophyto",
+   "NODU",
+   "phytosanitaire*",
+   "pesticide*"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de rétablir le plan Ecophyto avec son ancien indicateur, le NODU, et de sortir des pesticides de synthèse d’ici 2050.",
+    "appuis": [
+     "p4e2d1813",
+     "pe09943c4"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de rétablir le plan Ecophyto et de bannir les pesticides.",
+    "appuis": [
+     "p0f5e60ee",
+     "p52790987"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit d’abandonner l’objectif de réduction de 50 % d’Ecophyto 2030 au profit d’autorisations au cas par cas.",
+    "appuis": [
+     "p1c6e4655"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose des zones sans pesticides autour des captages d’eau et des écoles.",
+    "appuis": [
+     "p75d90b76"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de ne plus interdire de substance active « sans solution équivalente » et de lier les autorisations à l’évolution d’espèces témoins.",
+    "appuis": [
+     "p477cea2d",
+     "p5d30fd35"
+    ]
+   }
+  }
+ },
+ {
+  "id": "pfas",
+  "nom": "PFAS",
+  "variantes": [
+   "polluants éternels",
+   "substances per- et polyfluoroalkylées"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "Les PFAS sont une famille de plusieurs milliers de composés chimiques de synthèse, utilisés pour leurs propriétés antiadhésives, imperméabilisantes ou résistantes à la chaleur. Très persistants dans l’environnement, d’où leur surnom de « polluants éternels », certains sont associés à des effets sur la santé. La loi du 27 février 2025 interdit depuis le 1er janvier 2026 la fabrication, l’importation et la vente de cosmétiques, de farts de ski et de textiles d’habillement contenant des PFAS, sauf exceptions, l’interdiction devant s’étendre à l’ensemble des textiles en 2030 ; elle crée aussi une redevance sur les rejets industriels de PFAS. Une restriction plus large est discutée au niveau européen.",
+  "enjeux": "Le débat porte sur l’étendue de l’interdiction, entre une interdiction de toute la famille et une approche substance par substance, sur le calendrier et sur le coût de la dépollution des sites contaminés, que certains veulent faire payer aux industriels.",
+  "reperes": [
+   "Loi du 27 février 2025 visant à protéger la population des risques liés aux PFAS"
+  ],
+  "liens": [
+   "principe-de-precaution"
+  ],
+  "motifs": [
+   "PFAS",
+   "polluants éternels"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’interdire l’ensemble des PFAS et des perturbateurs endocriniens et de dépolluer les sites contaminés.",
+    "appuis": [
+     "pa288046d",
+     "p96d4e866"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose d’interdire tous les PFAS pour toutes les utilisations.",
+    "appuis": [
+     "pbf9cb15f"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose un moratoire sur toute interdiction allant au-delà des règlements européens.",
+    "appuis": [
+     "p2ce143ff"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’interdire les objets du quotidien contenant des PFAS.",
+    "appuis": [
+     "p7279ee05"
+    ]
+   }
+  }
+ },
+ {
+  "id": "ofb",
+  "nom": "Office français de la biodiversité (OFB)",
+  "variantes": [
+   "OFB",
+   "police de l’environnement"
+  ],
+  "categorie": "institution",
+  "theme": "ecologie",
+  "definition": "L’OFB est un établissement public créé le 1er janvier 2020 par la fusion de l’Agence française pour la biodiversité et de l’Office national de la chasse et de la faune sauvage. Il exerce notamment des missions de police de l’environnement, de connaissance et de protection des espèces et des milieux. Ses contrôles, en particulier dans les exploitations agricoles, ont été contestés lors des mobilisations agricoles de 2024.",
+  "enjeux": "Ses défenseurs jugent ses moyens insuffisants face à l’ampleur des atteintes à l’environnement. Ses critiques dénoncent des contrôles jugés intrusifs ou tatillons et proposent d’en réduire les prérogatives, voire de le supprimer et de confier ses missions à d’autres services.",
+  "reperes": [
+   "Créé le 1er janvier 2020"
+  ],
+  "liens": [
+   "aires-protegees",
+   "chasse"
+  ],
+  "motifs": [
+   "OFB",
+   "Office français de la biodiversité"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de donner des moyens à l’OFB, à l’ONF, à l’ADEME et à Météo France.",
+    "appuis": [
+     "pe596e764"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de rétablir les postes supprimés à l’OFB, à l’ONF et à Météo France.",
+    "appuis": [
+     "p6c120ad3"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de supprimer l’OFB et de confier à la gendarmerie les missions de police de l’environnement ne relevant pas de la chasse.",
+    "appuis": [
+     "p1e23d1eb",
+     "p67e12a1f"
+    ]
+   }
+  }
+ },
+ {
+  "id": "aires-protegees",
+  "nom": "Aires protégées et protection forte",
+  "variantes": [
+   "aires marines protégées",
+   "AMP",
+   "protection stricte",
+   "30 % protégés"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "Les aires protégées regroupent des espaces naturels terrestres ou marins soumis à des règles de protection : parcs nationaux, réserves naturelles, aires marines protégées. La stratégie nationale pour les aires protégées vise 30 % du territoire et des eaux protégés, dont 10 % sous protection forte, objectif repris à l’échelle mondiale par l’accord de Kunming-Montréal de 2022. La définition de la « protection forte », notamment en mer, fait débat.",
+  "enjeux": "Les associations jugent que beaucoup d’aires marines restent ouvertes aux activités les plus destructrices, comme le chalutage de fond, et demandent une protection réelle. D’autres acteurs, notamment de la pêche, craignent des restrictions d’activité.",
+  "reperes": [
+   "Accord de Kunming-Montréal sur la biodiversité, décembre 2022"
+  ],
+  "liens": [
+   "chalutage-de-fond",
+   "ofb"
+  ],
+  "motifs": [
+   "aires marines protégées",
+   "aires maritimes protégées",
+   "AMP",
+   "zone de forte protection",
+   "protéger strictement",
+   "protection stricte",
+   "parcs nationaux"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de protéger strictement 10 % des zones maritimes d’ici 2030, de renforcer la protection de 30 % des eaux et d’étendre les parcs nationaux.",
+    "appuis": [
+     "paa740a44",
+     "pce265469",
+     "p89978bf6"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de doubler la protection des aires marines et de protéger strictement 10 % des terres et des mers.",
+    "appuis": [
+     "pdfcddf9c"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de classer 10 % du territoire métropolitain en zone de forte protection.",
+    "appuis": [
+     "p107820cc"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose que les aires marines protégées soient « réellement protégées » du chalutage.",
+    "appuis": [
+     "p9e490323"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit de protéger « toujours mieux » les littoraux, montagnes, forêts et espaces naturels.",
+    "appuis": [
+     "p098b3fbf"
+    ]
+   }
+  }
+ },
+ {
+  "id": "chalutage-de-fond",
+  "nom": "Chalutage de fond",
+  "variantes": [
+   "chaluts",
+   "navires-usines",
+   "pêche électrique"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "Le chalutage de fond est une technique de pêche qui consiste à traîner un filet sur le fond marin. Efficace, il est critiqué pour ses effets sur les fonds et les espèces non ciblées. La pêche électrique, qui associait des chaluts à des impulsions électriques, a été interdite par l’Union européenne à partir de 2021. Les grands navires industriels, parfois appelés navires-usines, sont accusés de concurrencer la pêche artisanale côtière.",
+  "enjeux": "Ses critiques demandent son interdiction dans les aires marines protégées et les eaux côtières. Les professionnels concernés soulignent son poids dans l’approvisionnement et l’emploi, et le manque d’alternatives à court terme.",
+  "reperes": [
+   "Interdiction européenne de la pêche électrique, effective en 2021"
+  ],
+  "liens": [
+   "aires-protegees"
+  ],
+  "motifs": [
+   "chalut*",
+   "méga-chalutiers",
+   "navires-usines",
+   "pêche électrique"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’interdire le chalutage dans les trois milles nautiques et dans les aires marines protégées, et d’exclure les navires-usines de la bande des douze milles.",
+    "appuis": [
+     "p6613bd6d",
+     "p7a9bc76e",
+     "pe7f70cee"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’interdire la pêche électrique.",
+    "appuis": [
+     "pcb5491b9"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’exclure les méga-chalutiers des eaux côtières pour protéger les pêcheurs artisans.",
+    "appuis": [
+     "p9e490323"
+    ]
+   }
+  }
+ },
+ {
+  "id": "elevage-en-cage",
+  "nom": "Élevage en cage et fermes-usines",
+  "variantes": [
+   "élevage intensif",
+   "fermes-usines",
+   "mégafermes",
+   "élevages industriels"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "L’élevage en cage concerne en Europe surtout les poules pondeuses, les lapins, les truies et les cailles. La loi Egalim de 2018 interdit en France la construction de nouveaux bâtiments de poules en cage. Une initiative citoyenne européenne, « End the Cage Age », a recueilli plus d’un million de signatures en 2020, et la Commission s’est engagée à proposer une législation. Le terme de « fermes-usines » est employé par leurs opposants pour désigner les élevages de très grande taille.",
+  "enjeux": "Les partisans de leur interdiction invoquent la souffrance animale, la pollution et la santé publique. Les représentants des filières soulignent le coût de la transition, le risque d’importations moins exigeantes et le rôle de ces élevages dans l’accès à des produits bon marché.",
+  "reperes": [
+   "Loi Egalim, 2018",
+   "Initiative citoyenne européenne « End the Cage Age », 2020"
+  ],
+  "liens": [
+   "abattage-sans-etourdissement"
+  ],
+  "motifs": [
+   "élevage en cage*",
+   "fermes-usines",
+   "fermes usines",
+   "mégafermes",
+   "mégaporcheries",
+   "élevages industriels",
+   "élevages intensifs"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’interdire les fermes-usines, l’élevage en cage et les mégafermes d’élevage.",
+    "appuis": [
+     "p0655c44b",
+     "p323e522c"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’interdire l’élevage en cage d’ici la fin du mandat et de « sortir des fermes-usines ».",
+    "appuis": [
+     "p4c92dfb3",
+     "p3d216670"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de porter au niveau européen la disparition par étapes de l’élevage en cage.",
+    "appuis": [
+     "p141e7baa"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de renforcer les contrôles de maltraitance animale dans les abattoirs et élevages intensifs.",
+    "appuis": [
+     "p9b322eba"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de contrôler les élevages industriels en fonction de leur qualité sanitaire.",
+    "appuis": [
+     "pdbe24b8c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "abattage-sans-etourdissement",
+  "nom": "Abattage sans étourdissement",
+  "variantes": [
+   "abattage rituel",
+   "étourdissement réversible"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "ecologie",
+  "definition": "Le droit européen impose d’étourdir les animaux avant leur mise à mort à l’abattoir, afin qu’ils soient inconscients. Il autorise toutefois les États à prévoir une dérogation pour les abattages prescrits par des rites religieux, juif et musulman, ce que fait la France. La Cour de justice de l’Union européenne a admis en 2020 qu’un État impose un étourdissement réversible, comme l’a fait la région flamande en Belgique.",
+  "enjeux": "Les partisans de la fin de la dérogation invoquent le bien-être animal. Les représentants des cultes concernés y voient une atteinte à la liberté religieuse. L’étourdissement réversible est présenté par certains comme un compromis, contesté par d’autres.",
+  "reperes": [
+   "Règlement européen sur la protection des animaux au moment de leur mise à mort, 2009",
+   "Arrêt de la CJUE du 17 décembre 2020"
+  ],
+  "liens": [
+   "elevage-en-cage"
+  ],
+  "motifs": [
+   "abattage sans étourdissement",
+   "abattage rituel",
+   "étourdissement réversible",
+   "étourdissement non irréversible"
+  ],
+  "positions": {
+   "ps-pp": {
+    "texte": "Le programme propose de moderniser les abattoirs, de soutenir les abattoirs mobiles et de pousser à la reconnaissance de la compatibilité de l’abattage rituel avec l’étourdissement non irréversible.",
+    "appuis": [
+     "p8445e3ff"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose d’interdire l’abattage sans étourdissement et de généraliser progressivement l’étourdissement réversible pour l’abattage rituel.",
+    "appuis": [
+     "p62a5ac49",
+     "p3fe018aa"
+    ]
+   }
+  }
+ },
+ {
+  "id": "chasse",
+  "nom": "Chasse",
+  "variantes": [
+   "chasse à courre",
+   "journée sans chasse",
+   "chasse de loisir"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "La chasse est pratiquée en France par environ un million de personnes titulaires d’un permis. Elle est encadrée par le code de l’environnement et organisée par les fédérations départementales de chasseurs. Les débats récents portent sur la sécurité, après des accidents mortels, sur le partage de la nature avec les autres usagers, sur la chasse à courre et sur la chasse d’espèces en mauvais état de conservation.",
+  "enjeux": "Ses défenseurs y voient une tradition rurale, un outil de régulation de la faune et une contribution à l’entretien des milieux. Ses critiques réclament des jours sans chasse, l’interdiction de certaines pratiques jugées cruelles et une gouvernance moins dominée par les chasseurs.",
+  "reperes": [
+   "Encadrée par le code de l’environnement"
+  ],
+  "liens": [
+   "ofb",
+   "aires-protegees"
+  ],
+  "motifs": [
+   "chasse",
+   "chasse à courre",
+   "chasses cruelles"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une journée sans chasse par semaine, la fin de la chasse les week-ends et pendant les vacances scolaires, et l’interdiction de la chasse à courre.",
+    "appuis": [
+     "pc5b19c70",
+     "p640bbbf4",
+     "p598d550f"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un moratoire sur la chasse des espèces menacées, en collaboration avec les fédérations de chasse.",
+    "appuis": [
+     "p46bc2dca"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de « sanctuariser » la chasse et la pêche comme éléments du « patrimoine culturel » et de reconnaître les chasseurs comme acteurs de l’entretien de la nature.",
+    "appuis": [
+     "p4dc6f0fa"
+    ]
+   }
+  }
+ },
+ {
+  "id": "crime-d-ecocide",
+  "nom": "Crime d’écocide",
+  "variantes": [
+   "écocide",
+   "délit d’écocide"
+  ],
+  "categorie": "notion juridique",
+  "theme": "ecologie",
+  "definition": "L’écocide désigne une atteinte grave, étendue et durable portée à un écosystème. La loi Climat et résilience de 2021 a créé en France un délit d’écocide sanctionnant les atteintes graves et durables à l’environnement commises intentionnellement. Plusieurs États et associations militent pour en faire un crime international relevant de la Cour pénale internationale.",
+  "enjeux": "Ses partisans y voient un moyen de dissuader et de sanctionner les atteintes les plus graves, y compris par des entreprises. Ses critiques s’interrogent sur la définition juridique de la notion et sur son application effective.",
+  "reperes": [
+   "Délit créé par la loi Climat et résilience, 2021"
+  ],
+  "liens": [
+   "regle-verte",
+   "principe-de-non-regression"
+  ],
+  "motifs": [
+   "écocide"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme prévoit de faire reconnaître le crime d’écocide et soutient la création d’un tribunal international de justice climatique et environnementale.",
+    "appuis": [
+     "p6ae00c6f"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un tribunal pénal international contre le crime d’écocide.",
+    "appuis": [
+     "pba1d7ba7"
+    ]
+   }
+  }
+ },
+ {
+  "id": "regle-verte",
+  "nom": "Règle verte",
+  "variantes": [],
+  "categorie": "proposition emblématique",
+  "theme": "ecologie",
+  "definition": "La règle verte est un principe formulé par La France insoumise : ne pas prélever sur la nature davantage que ce qu’elle peut reconstituer, ni produire plus que ce qu’elle peut supporter. Elle est pensée par analogie avec la « règle d’or » budgétaire et proposée pour être inscrite dans la Constitution, afin de s’imposer à la loi.",
+  "enjeux": "Ses partisans y voient un cadre contraignant pour l’ensemble des politiques publiques. Ses critiques jugent la notion difficile à traduire en normes mesurables et s’interrogent sur son interprétation par les juges.",
+  "reperes": [],
+  "liens": [
+   "crime-d-ecocide",
+   "principe-de-non-regression",
+   "planification-ecologique"
+  ],
+  "motifs": [
+   "règle verte"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de constitutionnaliser la règle verte et d’en appliquer une version européenne aux investissements.",
+    "appuis": [
+     "p3a042b92",
+     "p0c35ec69"
+    ]
+   }
+  }
+ },
+ {
+  "id": "principe-de-non-regression",
+  "nom": "Principe de non-régression",
+  "variantes": [
+   "non-régression environnementale"
+  ],
+  "categorie": "notion juridique",
+  "theme": "ecologie",
+  "definition": "Le principe de non-régression, inscrit dans le code de l’environnement par la loi biodiversité de 2016, prévoit que la protection de l’environnement ne peut faire l’objet que d’une amélioration constante, compte tenu des connaissances scientifiques du moment. Il s’impose aux actes réglementaires, mais le législateur peut y déroger.",
+  "enjeux": "Ses défenseurs y voient une garantie contre le recul du droit de l’environnement. Ses critiques estiment qu’il fige la réglementation et empêche d’ajuster des normes jugées excessives.",
+  "reperes": [
+   "Loi pour la reconquête de la biodiversité, 2016"
+  ],
+  "liens": [
+   "principe-de-precaution",
+   "neonicotinoides"
+  ],
+  "motifs": [
+   "non-régression"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’inscrire le principe de non-régression dans la Constitution, au sein d’un principe d’« habitabilité ».",
+    "appuis": [
+     "pc48cc14f"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit la « suppression pure et simple » du principe général de non-régression.",
+    "appuis": [
+     "p29fa90a5"
+    ]
+   }
+  }
+ },
+ {
+  "id": "principe-de-precaution",
+  "nom": "Principe de précaution",
+  "variantes": [
+   "Charte de l’environnement"
+  ],
+  "categorie": "notion juridique",
+  "theme": "ecologie",
+  "definition": "Le principe de précaution figure à l’article 5 de la Charte de l’environnement, adossée à la Constitution en 2005. Il impose aux autorités publiques, lorsqu’un dommage grave et irréversible pour l’environnement est possible bien qu’incertain en l’état des connaissances, de prendre des mesures provisoires et proportionnées et d’évaluer les risques.",
+  "enjeux": "Ses défenseurs y voient une protection face aux risques sanitaires et environnementaux mal connus. Ses critiques estiment qu’il freine l’innovation, la recherche et l’activité économique, et proposent de le remplacer par un principe de responsabilité ou d’innovation.",
+  "reperes": [
+   "Charte de l’environnement, article 5",
+   "Loi constitutionnelle du 1er mars 2005"
+  ],
+  "liens": [
+   "principe-de-non-regression",
+   "pfas",
+   "glyphosate"
+  ],
+  "motifs": [
+   "principe de précaution",
+   "Charte de l'environnement"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme invoque le principe de précaution pour interdire les PFAS et les perturbateurs endocriniens.",
+    "appuis": [
+     "pa288046d"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de remplacer le principe de précaution par un principe de responsabilité et de le supprimer de la Charte de l’environnement par référendum.",
+    "appuis": [
+     "p36da28de",
+     "p50e3ec1f"
+    ]
+   }
+  }
+ },
+ {
+  "id": "regime-cat-nat",
+  "nom": "Régime des catastrophes naturelles",
+  "variantes": [
+   "Cat-Nat",
+   "assurance climatique",
+   "sécurité climatique"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "ecologie",
+  "definition": "Créé par une loi de 1982, le régime d’indemnisation des catastrophes naturelles couvre les dommages causés par des événements comme les inondations, la sécheresse ou les coulées de boue, après reconnaissance par arrêté interministériel. Il est financé par une surprime obligatoire sur les contrats d’assurance de biens et bénéficie de la garantie de l’État par la Caisse centrale de réassurance. La multiplication des sinistres liés au climat met son équilibre financier sous tension.",
+  "enjeux": "Le débat porte sur son financement, sur le retrait des assureurs de certaines zones exposées et sur la prise en compte de la prévention. Certains proposent de socialiser plus largement la couverture des risques climatiques.",
+  "reperes": [
+   "Loi du 13 juillet 1982 relative à l’indemnisation des victimes de catastrophes naturelles"
+  ],
+  "liens": [],
+  "motifs": [
+   "Cat-Nat",
+   "assurance climatique",
+   "sécurité climatique",
+   "cotisation climatique"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de remplacer la garantie Cat-Nat par une cotisation climatique obligatoire, gérée par une Caisse nationale de sécurité climatique.",
+    "appuis": [
+     "pe48f78de",
+     "pe11087c7"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une garantie universelle d’assurance climatique financée par les assurances.",
+    "appuis": [
+     "p9aca93a3"
+    ]
+   }
+  }
+ },
+ {
+  "id": "consigne",
+  "nom": "Consigne",
+  "variantes": [
+   "consigne pour réemploi",
+   "consigne pour recyclage"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "ecologie",
+  "definition": "La consigne consiste à faire payer un petit montant à l’achat d’un emballage, remboursé lorsqu’il est rapporté. Elle peut viser le réemploi, l’emballage étant lavé et réutilisé, ou le recyclage. Courante en Allemagne et dans les pays nordiques, elle a fait l’objet de longs débats en France après la loi anti-gaspillage pour une économie circulaire de 2020, notamment pour les bouteilles en plastique.",
+  "enjeux": "Ses partisans y voient un moyen efficace d’augmenter la collecte et le réemploi. Ses opposants, dont une partie des collectivités chargées du tri, craignent de perdre des recettes et préfèrent améliorer le tri sélectif existant.",
+  "reperes": [
+   "Loi anti-gaspillage pour une économie circulaire (AGEC), 2020"
+  ],
+  "liens": [
+   "fast-fashion"
+  ],
+  "motifs": [
+   "consigne",
+   "consignes"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de rendre obligatoires la consigne pour réemploi du verre et de l’aluminium et la consigne des plastiques.",
+    "appuis": [
+     "p9b00b30c",
+     "p49aa06f4"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de généraliser les consignes et d’interdire les plastiques à usage unique.",
+    "appuis": [
+     "p98b4d670"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose une consigne pour les métaux et matériaux rares, au nom de la souveraineté.",
+    "appuis": [
+     "pad4bcade"
+    ]
+   }
+  }
+ },
+ {
+  "id": "fast-fashion",
+  "nom": "Fast fashion",
+  "variantes": [
+   "mode éphémère",
+   "ultra fast fashion"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "La fast fashion désigne un modèle de production textile reposant sur le renouvellement très rapide des collections, à bas prix, avec un fort impact environnemental. La loi du 8 juillet 2026 visant à réduire l’impact environnemental de l’industrie textile, qui cible notamment les plateformes de vente en ligne de mode « ultra-éphémère », prévoit une information des consommateurs, des pénalités environnementales modulées selon les pratiques des entreprises et une interdiction de publicité pour les entreprises concernées, les seuils étant fixés par décret.",
+  "enjeux": "Ses partisans y voient une réponse aux pollutions et au gaspillage, ainsi qu’une protection de la filière textile européenne. Ses critiques s’interrogent sur la définition des entreprises visées et sur l’effet pour le pouvoir d’achat des ménages modestes.",
+  "reperes": [
+   "Loi du 8 juillet 2026 visant à réduire l’impact environnemental de l’industrie textile"
+  ],
+  "liens": [
+   "consigne",
+   "sobriete-energetique"
+  ],
+  "motifs": [
+   "fast fashion",
+   "fast-fashion"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’appliquer strictement la loi contre la fast fashion et d’en fixer le seuil à 5 000 nouveaux modèles par an.",
+    "appuis": [
+     "p7e980c3d",
+     "p102c4544"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une loi contre la fast fashion et un score carbone obligatoire sur les produits.",
+    "appuis": [
+     "p7447a978"
+    ]
+   }
+  }
+ },
+ {
+  "id": "interdiction-des-vols-courts",
+  "nom": "Interdiction des vols courts",
+  "variantes": [
+   "vols intérieurs",
+   "jets privés",
+   "lignes aériennes substituables"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "ecologie",
+  "definition": "La loi Climat et résilience de 2021 interdit les lignes aériennes intérieures lorsqu’une alternative en train de moins de deux heures et demie existe. Son application, à partir de 2023, n’a concerné qu’un petit nombre de liaisons en raison des exceptions prévues. Le débat porte aussi sur la taxation du kérosène, exonéré pour les vols internationaux, et sur les jets privés.",
+  "enjeux": "Ses partisans y voient un levier pour réduire les émissions du transport et encourager le train. Ses critiques jugent l’effet limité sur les émissions et redoutent les conséquences pour la desserte des territoires et pour le secteur aérien.",
+  "reperes": [
+   "Loi Climat et résilience, 2021"
+  ],
+  "liens": [
+   "ticket-climat"
+  ],
+  "motifs": [
+   "vols intra-européens",
+   "vols intérieurs",
+   "lignes aériennes",
+   "jets privés",
+   "kérosène"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’interdire les vols intra-européens lorsqu’une alternative de moins de quatre heures et demie en train existe, ainsi que l’atterrissage des jets privés.",
+    "appuis": [
+     "p1ac33045",
+     "pe0de1330"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose d’interdire les lignes aériennes « raisonnablement substituables » par le train et de développer les trains de nuit.",
+    "appuis": [
+     "pf8eb8a7b"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’étendre l’interdiction des vols intérieurs, de taxer le kérosène et les jets privés.",
+    "appuis": [
+     "p1c22a2f8"
+    ]
+   }
+  }
+ },
+ {
+  "id": "ticket-climat",
+  "nom": "Ticket climat",
+  "variantes": [
+   "abonnement unique",
+   "Klimaticket",
+   "Deutschlandticket"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "ecologie",
+  "definition": "Le ticket climat est un abonnement unique à prix fixe donnant accès à l’ensemble des transports en commun du quotidien, et parfois aux trains régionaux, à l’échelle nationale. Il s’inspire du Klimaticket autrichien, créé en 2021, et du Deutschlandticket allemand, lancé en 2023. En France, les transports publics relèvent de nombreuses autorités organisatrices, ce qui complique sa mise en place.",
+  "enjeux": "Ses partisans y voient un moyen simple d’encourager le report de la voiture vers les transports collectifs et de soutenir le pouvoir d’achat. Ses critiques s’interrogent sur son coût, sur la capacité des réseaux à absorber la hausse de fréquentation et sur son intérêt dans les zones peu desservies.",
+  "reperes": [
+   "Klimaticket autrichien, 2021",
+   "Deutschlandticket allemand, 2023"
+  ],
+  "liens": [
+   "interdiction-des-vols-courts"
+  ],
+  "motifs": [
+   "ticket climat"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un ticket climat mensuel à tarif unique, pour atteindre 25 % de part modale des transports collectifs en 2030.",
+    "appuis": [
+     "p8bfec6bf"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un ticket climat national à tarif fixe, d’abord réservé aux jeunes et aux publics précaires.",
+    "appuis": [
+     "pf95c1c47"
+    ]
+   }
+  }
+ },
+ {
+  "id": "sobriete-energetique",
+  "nom": "Sobriété",
+  "variantes": [
+   "sobriété énergétique",
+   "plan de sobriété"
+  ],
+  "categorie": "doctrine ou courant",
+  "theme": "ecologie",
+  "definition": "La sobriété désigne la réduction des consommations d’énergie et de matières par le changement des usages, des modes de vie ou de l’organisation collective, à la différence de l’efficacité, qui obtient le même service avec moins d’énergie. Popularisée par l’association négaWatt, elle est entrée dans le vocabulaire gouvernemental avec le plan de sobriété de l’automne 2022, face à la crise énergétique.",
+  "enjeux": "Ses partisans la jugent indispensable pour atteindre les objectifs climatiques sans tout miser sur la technologie. Ses critiques y voient une forme de privation imposée et lui opposent l’innovation et la croissance ; le débat porte aussi sur la part qui doit relever des choix individuels ou des politiques publiques.",
+  "reperes": [
+   "Plan de sobriété énergétique présenté en octobre 2022"
+  ],
+  "liens": [
+   "cent-pour-cent-renouvelables",
+   "renovation-energetique",
+   "fast-fashion"
+  ],
+  "motifs": [
+   "sobriété"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une loi énergie-climat comprenant la sobriété et d’orienter la commande publique vers la sobriété et l’électrification.",
+    "appuis": [
+     "p27a1058e",
+     "pfcc8bb69"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme associe le 100 % renouvelable à un double axe sobriété et efficacité énergétique.",
+    "appuis": [
+     "p13ed46aa"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une politique de sobriété énergétique et un « bouclier législatif pour la sobriété ».",
+    "appuis": [
+     "p4a017033",
+     "p7447a978"
+    ]
+   }
+  }
+ },
+ {
+  "id": "regie-publique-eau",
+  "nom": "Gestion publique de l’eau",
+  "variantes": [
+   "régie publique",
+   "droit à l’eau",
+   "tarification progressive de l’eau"
+  ],
+  "categorie": "politique publique",
+  "theme": "ecologie",
+  "definition": "La distribution de l’eau potable et l’assainissement relèvent des communes ou de leurs groupements, qui peuvent les gérer directement en régie ou les confier à une entreprise par délégation de service public. Plusieurs villes, dont Paris en 2010, sont revenues en régie. Le droit à l’eau potable a été reconnu par l’Assemblée générale des Nations unies en 2010. La tarification progressive fait payer davantage le mètre cube au-delà d’un certain volume.",
+  "enjeux": "Les partisans de la gestion publique y voient un moyen de maîtriser les prix et de protéger un « bien commun ». Les défenseurs de la délégation mettent en avant le savoir-faire des opérateurs et la liberté de choix des collectivités.",
+  "reperes": [
+   "Retour de Paris en régie publique en 2010",
+   "Résolution de l’Assemblée générale des Nations unies, juillet 2010"
+  ],
+  "liens": [
+   "megabassines"
+  ],
+  "motifs": [
+   "régies publiques de l'eau",
+   "gestion 100% publique de l'eau",
+   "régies locales",
+   "premiers mètres-cubes",
+   "premiers mètres cubes",
+   "droit à l'eau",
+   "tarification progressive"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’imposer aux collectivités des régies publiques de l’eau, la gratuité des premiers mètres cubes et une tarification progressive.",
+    "appuis": [
+     "p8cd0e43b"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit une gestion 100 % publique de l’eau en régies locales, avec gratuité des premiers mètres cubes, et l’inscription du droit à l’eau dans la Constitution.",
+    "appuis": [
+     "p780dccd2",
+     "p9e206b5b"
+    ]
+   }
+  }
+ }
+]

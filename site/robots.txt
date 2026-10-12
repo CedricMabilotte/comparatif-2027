@@ -1,0 +1,6 @@
+# République des mots 2027 : tout est public, sauf l'interface de participation.
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://republique.fr/sitemap.xml

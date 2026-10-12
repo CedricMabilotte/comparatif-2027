@@ -1,0 +1,2560 @@
+[
+ {
+  "id": "assemblee-constituante",
+  "nom": "Assemblée constituante et changement de République",
+  "variantes": [
+   "processus constituant",
+   "6e République",
+   "VIe République",
+   "Première République écologique"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "institutions",
+  "definition": "Une assemblée constituante est une assemblée élue ou désignée avec pour seul mandat de rédiger une nouvelle Constitution. La Constitution actuelle, celle de la Ve République, a été adoptée par référendum le 28 septembre 1958 et promulguée le 4 octobre 1958 ; elle n’a pas été rédigée par une constituante élue mais par le gouvernement du général de Gaulle. Elle peut être révisée selon la procédure de son article 89, mais son remplacement complet suppose un processus constituant hors de cette procédure ordinaire. Le projet d’une « 6e République » est porté en particulier par Jean-Luc Mélenchon depuis ses campagnes présidentielles.",
+  "enjeux": "Ses partisans y voient le moyen de rééquilibrer les pouvoirs au profit du Parlement et des citoyens et de mettre fin à ce qu’ils appellent la « monarchie présidentielle ». Ses opposants défendent la stabilité gouvernementale permise par la Ve République et jugent qu’on peut corriger ses défauts par des révisions ciblées. Le débat porte aussi sur la méthode : élection d’une assemblée, convention tirée au sort, référendum de ratification.",
+  "reperes": [
+   "Constitution du 4 octobre 1958",
+   "Procédure de révision : article 89 de la Constitution"
+  ],
+  "liens": [
+   "referendum",
+   "convention-citoyenne",
+   "pouvoirs-du-parlement",
+   "ric"
+  ],
+  "motifs": [
+   "assemblée constituante",
+   "processus constituant",
+   "6e République",
+   "VIe République",
+   "sixième République",
+   "République écologique et citoyenne",
+   "convention transpartisane"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de « passer à une 6e République » par une assemblée constituante citoyenne élue, convoquée par un référendum fondé sur l’article 11, dont le projet serait lui-même soumis à référendum.",
+    "appuis": [
+     "p1f5bdb04",
+     "p07b776e0",
+     "p613af2c0"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose un processus constituant « participatif, pluraliste et indépendant » pour « abolir la monarchie présidentielle » et passer à une « Première République écologique et citoyenne ».",
+    "appuis": [
+     "p97d15f26"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit une grande convention citoyenne chargée de jeter les bases d’une assemblée constituante.",
+    "appuis": [
+     "p006bd904"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit une convention transpartisane « afin de moderniser nos institutions ».",
+    "appuis": [
+     "p0cbdb99e"
+    ]
+   },
+   "horizons": {
+    "texte": "Le parti déclare défendre « la démocratie représentative dans le cadre des institutions de la Vème République ».",
+    "appuis": [
+     "p09a83fb5"
+    ]
+   }
+  }
+ },
+ {
+  "id": "ric",
+  "nom": "Référendum d’initiative citoyenne (RIC)",
+  "variantes": [
+   "RIC",
+   "référendum d’initiative populaire",
+   "RIC révocatoire",
+   "RIC abrogatoire",
+   "RIC constituant"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "institutions",
+  "definition": "Le référendum d’initiative citoyenne permettrait à un nombre donné d’électeurs de déclencher eux-mêmes un vote populaire, sans passer par le Président ni par le Parlement. On distingue plusieurs formes : législatif (proposer une loi), abrogatoire (supprimer une loi), révocatoire (destituer un élu) et constituant (réviser la Constitution). Il n’existe pas en droit français ; l’outil le plus proche est le référendum d’initiative partagée, qui exige l’appui d’un cinquième des parlementaires. La revendication a pris une ampleur nationale avec le mouvement des gilets jaunes en 2018 et 2019 ; des dispositifs comparables existent en Suisse et en Italie (référendum abrogatif).",
+  "enjeux": "Ses partisans y voient un moyen de redonner la parole aux citoyens entre deux élections et de corriger la défiance envers les représentants. Ses opposants craignent une démocratie d’humeur, la remise en cause de droits fondamentaux ou de l’État de droit, et une instabilité législative. Les propositions diffèrent sur le seuil de signatures, les domaines ouverts et l’existence d’un contrôle de constitutionnalité préalable.",
+  "reperes": [
+   "Absent du droit français en vigueur",
+   "Revendication centrale du mouvement des gilets jaunes (2018-2019)"
+  ],
+  "liens": [
+   "referendum",
+   "assemblee-constituante",
+   "convention-citoyenne"
+  ],
+  "motifs": [
+   "référendum d'initiative citoyenne",
+   "RIC",
+   "référendum d'initiative populaire",
+   "référendums d'initiative populaire",
+   "droit d'initiative citoyenne"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose un RIC permettant de « révoquer des élus, convoquer une Constituante, proposer ou abroger une loi ».",
+    "appuis": [
+     "pd357894a",
+     "p684a0c8b"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose un RIC « propositionnel ou abrogatif », sous condition d’un contrôle de constitutionnalité préalable.",
+    "appuis": [
+     "p759e8bad"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit un RIC et un droit d’initiative citoyenne permettant de déclencher des référendums à l’échelle locale et nationale.",
+    "appuis": [
+     "p42ecb2e0",
+     "p66c2b76b"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose d’inscrire dans la Constitution un RIC législatif.",
+    "appuis": [
+     "p99e0a146",
+     "p435445a7"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme de 2022 prévoit que des référendums d’initiative populaire pourront être initiés par les Français.",
+    "appuis": [
+     "p713f6d0e"
+    ]
+   }
+  }
+ },
+ {
+  "id": "referendum",
+  "nom": "Référendum",
+  "variantes": [
+   "référendum de l’article 11",
+   "référendum constitutionnel",
+   "référendum local",
+   "référendum obligatoire",
+   "référendum d’initiative partagée",
+   "RIP"
+  ],
+  "categorie": "institution",
+  "theme": "institutions",
+  "definition": "Le référendum est un vote par lequel les électeurs adoptent ou rejettent directement un texte. Sous la Ve République, l’article 11 permet au Président, sur proposition du gouvernement ou des deux assemblées, de soumettre au peuple certains projets de loi ; l’article 89 prévoit le référendum pour réviser la Constitution, sauf si le Président choisit le Congrès. Depuis la révision de 2008, le référendum d’initiative partagée permet à un cinquième des parlementaires, soutenus par un dixième des électeurs, de provoquer un référendum. Des référendums locaux décisionnels existent aussi pour les collectivités, et des consultations ont été organisées sur le statut de territoires comme la Corse ou la Nouvelle-Calédonie.",
+  "enjeux": "Les uns y voient l’expression la plus directe de la souveraineté populaire et veulent l’étendre à l’immigration, à la sécurité ou aux traités européens ; d’autres soulignent le risque de plébiscite et de questions binaires sur des sujets complexes. Le débat porte aussi sur le champ de l’article 11, qui ne permet pas en l’état de réviser la Constitution selon la lecture dominante, et sur le caractère obligatoire du référendum pour les révisions constitutionnelles.",
+  "reperes": [
+   "Article 11 et article 89 de la Constitution",
+   "Référendum d’initiative partagée créé par la révision constitutionnelle de 2008",
+   "Dernier référendum national : traité constitutionnel européen, 2005"
+  ],
+  "liens": [
+   "ric",
+   "assemblee-constituante",
+   "primaute-de-la-constitution"
+  ],
+  "motifs": [
+   "référendum local",
+   "référendum obligatoire",
+   "recourir au référendum",
+   "référendum constitutionnel",
+   "soumis à référendum",
+   "soumise au référendum",
+   "impose le référendum",
+   "usage du référendum",
+   "grand référendum",
+   "par référendum sur",
+   "Français par référendum",
+   "peuple seul, par référendum",
+   "référendum (article 11)",
+   "référendum d'initiative partagée",
+   "décision du peuple français par référendum",
+   "des référendums"
+  ],
+  "positions": {
+   "rn": {
+    "texte": "Le programme propose de « réserver au peuple seul, par référendum, le pouvoir de modifier la Constitution » et de soumettre au référendum une réforme sur l’immigration.",
+    "appuis": [
+     "pa1eddcf1",
+     "pa0b6dd4d",
+     "p03f4fc55"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose un référendum obligatoire pour toute révision de la Constitution, ratification de traité ou élargissement de l’Union européenne, et un « grand référendum » sur l’immigration, la sécurité et la justice.",
+    "appuis": [
+     "pc95efc63",
+     "p8e153305",
+     "pb3100a36"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit l’obligation de recourir au référendum pour toute modification de la Constitution ou adoption d’un nouveau traité européen.",
+    "appuis": [
+     "pe1d250b1",
+     "p07b776e0"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme de 2022 prévoit des référendums sur l’immigration, la sécurité et la laïcité ; le programme récent soumet au référendum la suppression du principe de précaution de la Charte de l’environnement.",
+    "appuis": [
+     "pc04b3384",
+     "p50e3ec1f"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose des référendums locaux pour créer une collectivité unique en Guadeloupe et à La Réunion et pour faire évoluer le statut de l’Alsace ou de la Corse.",
+    "appuis": [
+     "p9ac453b5",
+     "p9094137a",
+     "p6f283a65"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit un droit d’initiative citoyenne permettant de déclencher des référendums à l’échelle locale et nationale.",
+    "appuis": [
+     "p66c2b76b"
+    ]
+   }
+  }
+ },
+ {
+  "id": "proportionnelle",
+  "nom": "Scrutin proportionnel",
+  "variantes": [
+   "proportionnelle",
+   "proportionnelle intégrale",
+   "dose de proportionnelle",
+   "prime majoritaire"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "institutions",
+  "definition": "Le scrutin proportionnel attribue les sièges aux listes en fonction de leur part des voix, alors que le scrutin majoritaire donne le siège au candidat arrivé en tête. Les députés sont élus au scrutin majoritaire uninominal à deux tours dans 577 circonscriptions, un mode de scrutin fixé par la loi et non par la Constitution. La proportionnelle n’a été appliquée qu’une fois aux législatives sous la Ve République, en 1986, dans le cadre départemental. Elle est déjà utilisée pour les élections européennes, et combinée à une prime majoritaire pour les municipales et les régionales.",
+  "enjeux": "Ses partisans y voient une représentation plus fidèle de la diversité des opinions et une incitation aux coalitions. Ses opposants redoutent la fragmentation de l’Assemblée, des majorités introuvables et un affaiblissement du lien entre le député et son territoire. Les variantes en débat vont de la proportionnelle intégrale à une simple « dose » de proportionnelle, avec un cadre national, régional ou départemental.",
+  "reperes": [
+   "577 députés élus au scrutin majoritaire à deux tours",
+   "Seule application aux législatives sous la Ve République : 1986"
+  ],
+  "liens": [
+   "vote-blanc",
+   "pouvoirs-du-parlement"
+  ],
+  "motifs": [
+   "proportionnelle",
+   "scrutin proportionnel",
+   "prime majoritaire"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose la « proportionnelle intégrale sans prime majoritaire » aux législatives, la proportionnelle aux départementales et une prime majoritaire abaissée à 25 % aux municipales.",
+    "appuis": [
+     "p7b1bdd97",
+     "p7470d585"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose d’instaurer la proportionnelle.",
+    "appuis": [
+     "p089f43f9"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’instaurer « immédiatement » la proportionnelle, de préférence par circonscriptions régionales avec un fléchage départemental des candidats.",
+    "appuis": [
+     "p28e8b36e"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de mettre en place la proportionnelle.",
+    "appuis": [
+     "p435445a7"
+    ]
+   }
+  }
+ },
+ {
+  "id": "vote-blanc",
+  "nom": "Reconnaissance du vote blanc",
+  "variantes": [
+   "vote blanc",
+   "bulletin blanc"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "institutions",
+  "definition": "Voter blanc consiste à déposer un bulletin vierge ou une enveloppe vide pour signifier un refus de choisir entre les candidats. Depuis la loi du 21 février 2014, les bulletins blancs sont décomptés séparément des bulletins nuls et mentionnés dans les résultats, mais ils ne sont pas comptés dans les suffrages exprimés. Ils n’ont donc aucune incidence sur le calcul des majorités ni sur l’attribution des sièges.",
+  "enjeux": "Les partisans d’une pleine reconnaissance veulent que le vote blanc soit compté dans les suffrages exprimés, voire qu’il puisse invalider une élection ou laisser des sièges vacants. Les opposants craignent des élections sans vainqueur et une prime à la contestation sans contenu. Le sujet est lié au débat sur l’abstention et sur le vote obligatoire.",
+  "reperes": [
+   "Loi du 21 février 2014 : décompte séparé des bulletins blancs"
+  ],
+  "liens": [
+   "vote-a-16-ans",
+   "proportionnelle",
+   "convention-citoyenne"
+  ],
+  "motifs": [
+   "vote blanc"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme associe la reconnaissance du vote blanc au vote obligatoire et au droit de vote à 16 ans.",
+    "appuis": [
+     "p302fd0d1"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose de reconnaître le vote blanc aux élections territoriales en attribuant la part de sièges correspondante à des citoyens tirés au sort.",
+    "appuis": [
+     "p8a88741c"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit de prendre en compte le vote blanc.",
+    "appuis": [
+     "p2c85362b"
+    ]
+   }
+  }
+ },
+ {
+  "id": "vote-a-16-ans",
+  "nom": "Droit de vote à 16 ans",
+  "variantes": [
+   "abaissement de la majorité électorale"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "institutions",
+  "definition": "La proposition consiste à abaisser de 18 à 16 ans l’âge auquel on peut voter. En France, la majorité civile et électorale est fixée à 18 ans depuis la loi du 5 juillet 1974. Plusieurs pays ont abaissé l’âge du vote à 16 ans, comme l’Autriche pour toutes les élections nationales ; l’Allemagne et la Belgique l’ont fait pour les élections européennes.",
+  "enjeux": "Ses partisans y voient un moyen d’associer plus tôt les jeunes à la vie démocratique et de faire peser les générations concernées par les choix de long terme. Ses opposants jugent incohérent de dissocier majorité électorale et majorité civile et doutent de l’effet sur la participation.",
+  "reperes": [
+   "Majorité à 18 ans depuis la loi du 5 juillet 1974"
+  ],
+  "liens": [
+   "vote-blanc",
+   "droit-de-vote-des-etrangers"
+  ],
+  "motifs": [
+   "vote à 16 ans"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’ouvrir le droit de vote à 16 ans.",
+    "appuis": [
+     "p89b7d762"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose le droit de vote à 16 ans.",
+    "appuis": [
+     "p302fd0d1"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’ouvrir le droit de vote à 16 ans.",
+    "appuis": [
+     "p34a459e6",
+     "p2c85362b"
+    ]
+   }
+  }
+ },
+ {
+  "id": "droit-de-vote-des-etrangers",
+  "nom": "Droit de vote des étrangers aux élections locales",
+  "variantes": [
+   "vote des résidents étrangers",
+   "droit de vote des étrangers extra-communautaires"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "institutions",
+  "definition": "Il s’agit d’ouvrir aux étrangers résidant en France, non ressortissants de l’Union européenne, le droit de voter aux élections locales. Depuis le traité de Maastricht, les citoyens européens résidant en France peuvent voter aux municipales et aux européennes, en vertu de l’article 88-3 de la Constitution. L’extension aux autres étrangers suppose une révision constitutionnelle. Elle figurait parmi les engagements de François Mitterrand en 1981 et a été promise de nouveau par la suite sans être adoptée.",
+  "enjeux": "Ses partisans invoquent la participation de résidents installés durablement à la vie locale et aux impôts locaux. Ses opposants estiment que le droit de vote doit rester lié à la nationalité et que l’accès à celle-ci est la voie normale de la citoyenneté. Une proposition inverse vise à inscrire dans la Constitution que seuls les nationaux votent et sont éligibles.",
+  "reperes": [
+   "Article 88-3 de la Constitution pour les citoyens de l’Union européenne"
+  ],
+  "liens": [
+   "vote-a-16-ans",
+   "constitutionnalisation-des-droits"
+  ],
+  "motifs": [
+   "droit de vote des résidents étrangers",
+   "extra-communautaires",
+   "seuls les nationaux français ont le droit de vote"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose d’instituer le droit de vote des résidents étrangers aux élections locales.",
+    "appuis": [
+     "pb36b55b5"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’ouvrir le droit de vote aux étrangers extra-communautaires aux élections locales.",
+    "appuis": [
+     "p34a459e6"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose d’étendre ce droit aux élections municipales, intercommunales, départementales et régionales après cinq années de résidence.",
+    "appuis": [
+     "p4f91b3c5"
+    ]
+   },
+   "rn": {
+    "texte": "Le projet de révision constitutionnelle du parti prévoit de préciser que « seuls les nationaux français ont le droit de vote et sont éligibles ».",
+    "appuis": [
+     "pffd653d1"
+    ]
+   }
+  }
+ },
+ {
+  "id": "article-49-3",
+  "nom": "Article 49.3",
+  "variantes": [
+   "49.3",
+   "49-3",
+   "engagement de responsabilité du gouvernement"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "institutions",
+  "definition": "L’article 49, alinéa 3, de la Constitution permet au Premier ministre d’engager la responsabilité du gouvernement sur le vote d’un texte. Le texte est alors considéré comme adopté sans vote, sauf si une motion de censure, déposée dans les vingt-quatre heures, est adoptée par la majorité absolue des députés. Depuis la révision de 2008, son usage est limité aux lois de finances et de financement de la sécurité sociale, plus un autre texte par session. Il a été utilisé à de nombreuses reprises, notamment pour la réforme des retraites de 2023.",
+  "enjeux": "Ses défenseurs y voient un outil de stabilité, conçu pour permettre de gouverner sans majorité absolue. Ses opposants le décrivent comme un passage en force qui prive l’Assemblée du vote. Les propositions vont de son abrogation pure à son remplacement par d’autres mécanismes, comme la motion de censure constructive.",
+  "reperes": [
+   "Article 49, alinéa 3, de la Constitution",
+   "Usage encadré par la révision constitutionnelle de 2008"
+  ],
+  "liens": [
+   "pouvoirs-du-parlement",
+   "assemblee-constituante"
+  ],
+  "motifs": [
+   "49.3",
+   "49-3",
+   "article 49"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose d’abroger le 49.3.",
+    "appuis": [
+     "pd315441d"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose que le Parlement ne soit plus limité par l’article 49-3 ni par l’actuel article 34.",
+    "appuis": [
+     "p7dbcb06e"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’investir le Premier ministre par un vote de confiance et d’instaurer une motion de censure « constructive », ce qui permettrait selon lui de « mettre fin au 49.3 ».",
+    "appuis": [
+     "p896d5076"
+    ]
+   }
+  }
+ },
+ {
+  "id": "pouvoirs-du-parlement",
+  "nom": "Pouvoirs du Parlement",
+  "variantes": [
+   "parlementarisme rationalisé",
+   "article 40",
+   "motion de censure constructive",
+   "contrôle parlementaire",
+   "article 34"
+  ],
+  "categorie": "institution",
+  "theme": "institutions",
+  "definition": "La Constitution de 1958 a organisé un « parlementarisme rationalisé » qui encadre strictement le Parlement : l’article 34 délimite le domaine de la loi, l’article 40 interdit aux parlementaires de proposer des mesures qui diminuent les ressources ou augmentent les charges publiques, et le gouvernement dispose de leviers comme le vote bloqué ou le 49.3. Le gouvernement est responsable devant l’Assemblée nationale, qui peut le renverser par une motion de censure. La révision de 2008 a renforcé le Parlement en partageant l’ordre du jour et en étendant ses missions de contrôle et d’évaluation.",
+  "enjeux": "Les partisans d’un rééquilibrage veulent assouplir l’article 40, renforcer le contrôle du gouvernement ou faire investir le Premier ministre par l’Assemblée. D’autres défendent ces règles comme des garde-fous contre l’instabilité et le dérapage des finances publiques. La motion de censure constructive, inspirée de l’Allemagne, impose de désigner un successeur pour renverser un gouvernement.",
+  "reperes": [
+   "Articles 34, 40 et 49 de la Constitution",
+   "Révision constitutionnelle du 23 juillet 2008"
+  ],
+  "liens": [
+   "article-49-3",
+   "conseil-constitutionnel",
+   "senat",
+   "assemblee-constituante"
+  ],
+  "motifs": [
+   "article 40",
+   "recevabilité financière",
+   "censure constructive",
+   "motion de censure",
+   "contrôle du Parlement",
+   "responsable devant le Parlement",
+   "audition préalable des ministres",
+   "droit d'amendement",
+   "mission parlementaire",
+   "pouvoir d'initiative et d'amendement",
+   "temps parlementaire"
+  ],
+  "positions": {
+   "ps-pp": {
+    "texte": "Le programme propose l’investiture du Premier ministre par un vote de confiance, une motion de censure « constructive », la fin de l’article 40 et un contrôle renforcé du Parlement sur l’action du gouvernement.",
+    "appuis": [
+     "p896d5076",
+     "pbd2bee48",
+     "p6461d39a"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose d’assouplir l’article 40, de donner au Parlement un meilleur contrôle de son ordre du jour et d’auditionner les ministres avant de confirmer le gouvernement par un vote.",
+    "appuis": [
+     "p8d920ac4",
+     "p7dbcb06e",
+     "p276d9850"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose un gouvernement nommé par le Parlement et responsable devant lui.",
+    "appuis": [
+     "pa7e31dee"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme prévoit qu’aucune loi ne soit votée sans étude d’impact réalisée avec l’appui de la Cour des comptes.",
+    "appuis": [
+     "pcb8bfeb4"
+    ]
+   }
+  }
+ },
+ {
+  "id": "conseil-constitutionnel",
+  "nom": "Conseil constitutionnel",
+  "variantes": [
+   "Cour constitutionnelle",
+   "contrôle de constitutionnalité",
+   "QPC"
+  ],
+  "categorie": "institution",
+  "theme": "institutions",
+  "definition": "Le Conseil constitutionnel contrôle la conformité des lois à la Constitution, veille à la régularité des élections nationales et des référendums. Il compte neuf membres nommés pour neuf ans, trois par le Président de la République, trois par le président de l’Assemblée nationale et trois par le président du Sénat, auxquels s’ajoutent de droit les anciens présidents de la République. Depuis 2010, la question prioritaire de constitutionnalité permet à tout justiciable de contester une loi déjà en vigueur. Ses décisions s’imposent à toutes les autorités et ne sont susceptibles d’aucun recours.",
+  "enjeux": "Certains veulent le transformer en véritable cour constitutionnelle, avec des nominations validées par le Parlement et sans membres de droit, pour renforcer son impartialité. D’autres contestent le pouvoir des juges face à la volonté du législateur et proposent que le Parlement puisse passer outre une censure.",
+  "reperes": [
+   "Articles 56 à 63 de la Constitution",
+   "Question prioritaire de constitutionnalité en vigueur depuis le 1er mars 2010"
+  ],
+  "liens": [
+   "pouvoirs-du-parlement",
+   "primaute-de-la-constitution",
+   "assemblee-constituante"
+  ],
+  "motifs": [
+   "Conseil constitutionnel",
+   "Cour constitutionnelle",
+   "inconstitutionnalité",
+   "anciens Présidents de la République"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de transformer le Conseil en Cour constitutionnelle, avec approbation des nominations par une majorité qualifiée des commissions parlementaires, et de supprimer la présence de droit des anciens présidents.",
+    "appuis": [
+     "pb6d3bdf4",
+     "pd5b3e586"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de réformer le Conseil constitutionnel pour renforcer son impartialité et ses moyens.",
+    "appuis": [
+     "pbd2bee48"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de donner au Parlement réuni en Congrès le « dernier mot » en cas d’inconstitutionnalité d’une loi, par un vote à la majorité des trois cinquièmes.",
+    "appuis": [
+     "pc9cc8dbf"
+    ]
+   }
+  }
+ },
+ {
+  "id": "senat",
+  "nom": "Sénat",
+  "variantes": [
+   "seconde chambre",
+   "bicamérisme"
+  ],
+  "categorie": "institution",
+  "theme": "institutions",
+  "definition": "Le Sénat est la seconde chambre du Parlement. Ses 348 membres sont élus pour six ans au suffrage universel indirect par un collège d’environ 160 000 grands électeurs, composé très majoritairement de délégués des conseils municipaux, et il est renouvelé par moitié tous les trois ans. Il représente les collectivités territoriales selon l’article 24 de la Constitution. En cas de désaccord avec l’Assemblée nationale, le gouvernement peut donner le dernier mot aux députés, sauf pour les lois constitutionnelles et les lois organiques relatives au Sénat.",
+  "enjeux": "Ses défenseurs y voient une chambre de réflexion et de représentation des territoires, qui améliore la qualité de la loi. Ses critiques mettent en cause son mode d’élection, la surreprésentation des communes rurales et son poids dans les révisions constitutionnelles, et proposent de le réformer ou de le fusionner avec d’autres assemblées.",
+  "reperes": [
+   "Article 24 de la Constitution",
+   "348 sénateurs, mandat de six ans"
+  ],
+  "liens": [
+   "cese",
+   "pouvoirs-du-parlement",
+   "decentralisation"
+  ],
+  "motifs": [
+   "Sénat"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de démocratiser le Sénat sur une base régionale, d’interdire le vote « boîtier » et d’abaisser à 18 ans l’âge d’éligibilité.",
+    "appuis": [
+     "pac521408",
+     "pfe118276",
+     "pd59c08b5"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de remplacer le Sénat et le CESE par une « Assemblée du long terme ».",
+    "appuis": [
+     "p524d0770"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit une baisse du « train de vie » des institutions, Sénat compris.",
+    "appuis": [
+     "pa18cd07c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "cese",
+  "nom": "Conseil économique, social et environnemental (CESE)",
+  "variantes": [
+   "CESE",
+   "CESER",
+   "troisième assemblée"
+  ],
+  "categorie": "institution",
+  "theme": "institutions",
+  "definition": "Le CESE est une assemblée consultative prévue par la Constitution, qui représente les organisations syndicales, patronales, associatives et environnementales et rend des avis sur les politiques publiques. La loi organique du 15 janvier 2021 a réduit le nombre de ses membres et lui a permis d’organiser des consultations publiques et des conventions de citoyens tirés au sort. Dans chaque région, un conseil économique, social et environnemental régional (CESER) joue un rôle consultatif auprès du conseil régional.",
+  "enjeux": "Ses défenseurs y voient un lieu de dialogue entre corps intermédiaires et un appui à la participation citoyenne. Ses critiques jugent son influence faible au regard de son coût et proposent sa suppression, sa fusion avec le Sénat ou sa transformation en chambre de la participation.",
+  "reperes": [
+   "Titre XI de la Constitution",
+   "Loi organique du 15 janvier 2021"
+  ],
+  "liens": [
+   "senat",
+   "convention-citoyenne"
+  ],
+  "motifs": [
+   "CESE",
+   "CESER",
+   "Conseil économique, social et environnemental"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une convention citoyenne permanente au sein d’un CESE transformé.",
+    "appuis": [
+     "pc6ecb2bb"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de remplacer le Sénat et le CESE par une « Assemblée du long terme », compétente sur l’aspect écologique et social des lois.",
+    "appuis": [
+     "p524d0770"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit la suppression des CESER et une baisse du « train de vie » des institutions, dont le CESE.",
+    "appuis": [
+     "pb2061c2f",
+     "pa18cd07c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "convention-citoyenne",
+  "nom": "Convention citoyenne et tirage au sort",
+  "variantes": [
+   "convention citoyenne",
+   "assemblée tirée au sort",
+   "démocratie délibérative",
+   "mini-public"
+  ],
+  "categorie": "institution",
+  "theme": "institutions",
+  "definition": "Une convention citoyenne réunit des citoyens tirés au sort, choisis pour refléter la diversité de la population, qui délibèrent sur une question après avoir entendu des experts et formulent des propositions. La Convention citoyenne pour le climat, en 2019 et 2020, a réuni 150 personnes ; une autre convention a porté sur la fin de vie en 2022 et 2023. Ces conventions n’ont qu’un rôle consultatif : les suites données relèvent du gouvernement et du Parlement. Le tirage au sort est aussi utilisé pour composer les jurys d’assises.",
+  "enjeux": "Ses partisans y voient un moyen de renouveler la représentation et de faire délibérer des citoyens ordinaires sur des sujets de long terme. Ses critiques soulignent l’absence de légitimité élective et les déceptions nées de propositions non reprises. Le débat porte sur son caractère permanent ou ponctuel, et sur la force juridique de ses conclusions.",
+  "reperes": [
+   "Convention citoyenne pour le climat (2019-2020) : 150 citoyens tirés au sort",
+   "Convention citoyenne sur la fin de vie (2022-2023)"
+  ],
+  "liens": [
+   "cese",
+   "assemblee-constituante",
+   "ric"
+  ],
+  "motifs": [
+   "convention citoyenne",
+   "conventions citoyennes",
+   "tirés au sort",
+   "tirage au sort",
+   "Assemblée citoyenne"
+  ],
+  "positions": {
+   "ps-pp": {
+    "texte": "Le programme propose une « Assemblée citoyenne du futur » tirée au sort, des conventions citoyennes généralisées, dont une sur l’École, et une convention préparant une assemblée constituante.",
+    "appuis": [
+     "pf2d6a107",
+     "p006bd904",
+     "p8906e406"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose une convention citoyenne permanente au sein du CESE et l’attribution des sièges correspondant au vote blanc à des citoyens tirés au sort.",
+    "appuis": [
+     "pc6ecb2bb",
+     "p8a88741c"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit une convention citoyenne sur la fin de vie et déclare que les citoyens seront « associés à chaque grande décision ».",
+    "appuis": [
+     "p72b9d9c3",
+     "p8d7f5dbc"
+    ]
+   }
+  }
+ },
+ {
+  "id": "cumul-des-mandats",
+  "nom": "Cumul des mandats",
+  "variantes": [
+   "non-cumul",
+   "limitation du nombre de mandats successifs"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "institutions",
+  "definition": "Le cumul des mandats désigne le fait d’exercer simultanément plusieurs mandats électifs, ou un mandat et une fonction exécutive locale. Depuis les lois de 2014, appliquées à partir de 2017, un député, un sénateur ou un député européen ne peut plus être maire, président ou vice-président d’un exécutif local. On parle aussi de cumul dans le temps lorsqu’un élu enchaîne les mandats successifs ; seul le mandat présidentiel est aujourd’hui limité à deux mandats consécutifs.",
+  "enjeux": "Les partisans du non-cumul y voient un renouvellement des élus et une meilleure disponibilité des parlementaires. Ses critiques estiment qu’il a coupé les parlementaires des réalités locales et proposent de rétablir le cumul avec un mandat de maire.",
+  "reperes": [
+   "Lois organique et ordinaire du 14 février 2014",
+   "Limitation à deux mandats présidentiels consécutifs depuis 2008"
+  ],
+  "liens": [
+   "senat",
+   "pouvoirs-du-parlement"
+  ],
+  "motifs": [
+   "cumul des mandats",
+   "exercer un mandat parlementaire"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de limiter le cumul des mandats dans le temps, à trois par type de mandat.",
+    "appuis": [
+     "pa1415e0c"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose d’autoriser à nouveau les maires à exercer un mandat parlementaire, pour « redonner un ancrage local » aux parlementaires.",
+    "appuis": [
+     "p039cbc8b"
+    ]
+   }
+  }
+ },
+ {
+  "id": "primaute-de-la-constitution",
+  "nom": "Primauté de la Constitution sur le droit international",
+  "variantes": [
+   "article 55",
+   "supériorité des lois nationales",
+   "souveraineté juridique",
+   "article 55 de la Constitution",
+   "CEDH",
+   "bouclier constitutionnel"
+  ],
+  "categorie": "notion juridique",
+  "theme": "institutions",
+  "definition": "Selon l’article 55 de la Constitution, les traités régulièrement ratifiés ont une autorité supérieure à celle des lois. Les juges français écartent donc une loi contraire à un traité ou au droit de l’Union européenne, y compris une loi postérieure, depuis l’arrêt Nicolo du Conseil d’État en 1989. La Constitution reste au sommet de l’ordre juridique interne selon le Conseil d’État et la Cour de cassation, mais un traité contraire à la Constitution ne peut être ratifié qu’après révision de celle-ci. La Cour de justice de l’Union européenne affirme de son côté la primauté du droit de l’Union sur les droits nationaux. En matière d’immigration, les articles 3 (interdiction des traitements inhumains) et 8 (droit au respect de la vie familiale) de la Convention européenne des droits de l’homme sont souvent invoqués contre les décisions d’éloignement ou de refus de regroupement familial.",
+  "enjeux": "Ses promoteurs veulent rétablir la supériorité des choix du législateur ou de la Constitution sur les engagements internationaux, notamment en matière d’immigration, et y voient une condition de la souveraineté. Ses opposants y voient un risque de rupture avec la Convention européenne des droits de l’homme et avec les traités européens, voire une sortie de fait de l’Union.",
+  "reperes": [
+   "Article 55 de la Constitution",
+   "Arrêt Nicolo, Conseil d’État, 1989",
+   "Convention européenne des droits de l’homme, ratifiée par la France en 1974"
+  ],
+  "liens": [
+   "referendum",
+   "conseil-constitutionnel",
+   "constitutionnalisation-des-droits",
+   "referendum-sur-l-immigration",
+   "eloignement-des-etrangers-condamnes",
+   "regroupement-familial",
+   "priorite-nationale",
+   "primaute-du-droit-europeen"
+  ],
+  "motifs": [
+   "prévale sur le droit international",
+   "texte international antérieur",
+   "engagement international contraire",
+   "primauté de la Constitution",
+   "article 55",
+   "article 55 de la Constitution",
+   "supériorité des nouvelles lois nationales"
+  ],
+  "positions": {
+   "rn": {
+    "texte": "Le programme propose de faire en sorte que la Constitution « prévale sur le droit international », d’interdire tout engagement international qui lui serait contraire et de permettre aux citoyens de saisir les juges pour faire respecter cette primauté. Il prévoit aussi qu’aucune stipulation de certains engagements internationaux ne puisse être invoquée devant une juridiction française pour contester les décisions prises sur le fondement du code relatif aux étrangers.",
+    "appuis": [
+     "p29329c55",
+     "p966ebc06",
+     "pa37a0751",
+     "p3e3822fc"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de modifier l’article 55 pour instaurer la supériorité des nouvelles lois nationales sur tout texte international antérieur.",
+    "appuis": [
+     "p3e6849b9"
+    ]
+   }
+  },
+  "autres_themes": [
+   "immigration"
+  ]
+ },
+ {
+  "id": "constitutionnalisation-des-droits",
+  "nom": "Inscription de nouveaux droits dans la Constitution",
+  "variantes": [
+   "constitutionnaliser",
+   "révision constitutionnelle",
+   "bloc de constitutionnalité"
+  ],
+  "categorie": "politique publique",
+  "theme": "institutions",
+  "definition": "Constitutionnaliser un droit consiste à l’inscrire dans la Constitution ou dans les textes auxquels elle renvoie, ce qui le place au-dessus des lois ordinaires et le protège contre une suppression par simple majorité. Le « bloc de constitutionnalité » comprend notamment la Déclaration des droits de l’homme et du citoyen de 1789, le préambule de 1946 et la Charte de l’environnement de 2004, adossée à la Constitution en 2005. À la date de rédaction (octobre 2026), la dernière inscription d’un droit est celle de la liberté de recourir à l’interruption volontaire de grossesse, en 2024.",
+  "enjeux": "Les promoteurs de ces inscriptions y voient une garantie durable et un signal politique. Leurs critiques mettent en garde contre une Constitution chargée de déclarations à portée incertaine, qui transfère du pouvoir au juge. Les propositions reflètent des priorités différentes selon les partis : droits environnementaux et sociaux, sécurité, identité nationale.",
+  "reperes": [
+   "Charte de l’environnement adossée à la Constitution en 2005",
+   "Loi constitutionnelle du 8 mars 2024 sur l’IVG"
+  ],
+  "liens": [
+   "primaute-de-la-constitution",
+   "referendum",
+   "laicite"
+  ],
+  "motifs": [
+   "dans la Constitution",
+   "dans la constitution",
+   "constitutionnaliser",
+   "loi constitutionnelle",
+   "article 1er de la Constitution"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose d’inscrire dans la Constitution la liberté de conscience, la contraception et l’IVG, le droit de mourir dans la dignité, le droit à l’eau et la non-marchandisation du corps humain.",
+    "appuis": [
+     "p942515bf",
+     "p9e206b5b",
+     "p792557e2"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose d’y inscrire le « principe d’habitabilité » et les limites planétaires, le droit à une alimentation saine et le droit à une information « intègre ».",
+    "appuis": [
+     "pc48cc14f",
+     "p2fc916da",
+     "pbcc43029"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose d’y inscrire le droit à la sécurité, la règle selon laquelle nul ne peut se prévaloir de ses origines ou de sa religion pour s’exonérer de la loi commune, et la notion d’intérêts fondamentaux de la Nation incluant l’agriculture.",
+    "appuis": [
+     "p2221577a",
+     "pdf7d2b08",
+     "p829ac087"
+    ]
+   },
+   "rn": {
+    "texte": "Le projet de révision du parti ajoute à l’article 1er le sexe, l’orientation sexuelle et le handicap, charge le Président de veiller à « la sauvegarde de l’identité et du patrimoine de la France » et inscrit le français comme langue de l’enseignement et du travail.",
+    "appuis": [
+     "p13035d8b",
+     "pce622549",
+     "pf130b75b"
+    ]
+   }
+  }
+ },
+ {
+  "id": "decentralisation",
+  "nom": "Décentralisation",
+  "variantes": [
+   "loi de décentralisation",
+   "fédéralisme différencié",
+   "pacte girondin",
+   "droit à l’expérimentation",
+   "différenciation"
+  ],
+  "categorie": "politique publique",
+  "theme": "institutions",
+  "definition": "La décentralisation consiste pour l’État à transférer des compétences, des moyens et une part de pouvoir de décision à des collectivités territoriales élues : communes, départements, régions. Elle a été lancée par les lois Defferre de 1982, puis approfondie par la révision constitutionnelle de 2003, qui inscrit à l’article 1er que l’organisation de la République est « décentralisée » et ouvre un droit à l’expérimentation. La loi 3DS de 2022 a renforcé la possibilité d’adapter les règles aux territoires, dite différenciation. La France reste un État unitaire : les collectivités n’ont pas de pouvoir législatif propre, sauf pour certaines collectivités d’outre-mer.",
+  "enjeux": "Les partisans d’une décentralisation plus poussée veulent davantage de compétences, une autonomie fiscale et un pouvoir réglementaire local, certains allant jusqu’à un « fédéralisme différencié ». D’autres insistent sur l’égalité entre territoires et l’unité de la République, ou veulent clarifier les compétences en redonnant un rôle premier aux communes et à l’État.",
+  "reperes": [
+   "Lois Defferre de 1982",
+   "Révision constitutionnelle du 28 mars 2003",
+   "Loi 3DS du 21 février 2022"
+  ],
+  "liens": [
+   "intercommunalite",
+   "finances-locales",
+   "conseiller-territorial",
+   "prefet"
+  ],
+  "motifs": [
+   "décentralisation",
+   "fédéralisme différencié",
+   "pacte girondin",
+   "droit d'expérimentation",
+   "République fortement décentralisée",
+   "adaptations locales",
+   "répartition des compétences"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une République « fortement décentralisée » fondée sur le « fédéralisme différencié », avec un pouvoir réglementaire et des leviers fiscaux autonomes pour les collectivités et un droit d’expérimentation.",
+    "appuis": [
+     "p636807f1",
+     "p5a171c8f",
+     "p155131d9"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une nouvelle loi de décentralisation et de clarification des compétences, dans un « pacte girondin ».",
+    "appuis": [
+     "p4cb01d70",
+     "padc7fe48"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose une grande loi de décentralisation et des adaptations locales des normes nationales sous l’autorité de l’État.",
+    "appuis": [
+     "pd586624e",
+     "p4cea27eb"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose une décentralisation « effective » et le renforcement de la démocratie locale « dans l’unité de la République ».",
+    "appuis": [
+     "p2c2f41d3"
+    ]
+   },
+   "horizons": {
+    "texte": "Le parti prévoit une répartition plus efficace des compétences entre des collectivités au rôle clarifié et un État renforcé sur ses prérogatives régaliennes.",
+    "appuis": [
+     "pb5fecd4d"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de redistribuer certaines compétences des intercommunalités, départements et régions vers les communes et l’État.",
+    "appuis": [
+     "p970eb7ec"
+    ]
+   }
+  }
+ },
+ {
+  "id": "conseiller-territorial",
+  "nom": "Conseiller territorial",
+  "variantes": [
+   "millefeuille territorial",
+   "fusion des élus départementaux et régionaux"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "institutions",
+  "definition": "Le conseiller territorial est un élu qui siégerait à la fois au conseil départemental et au conseil régional, ce qui remplacerait deux catégories d’élus par une seule. Il a été créé par la loi du 16 décembre 2010, puis supprimé en 2013 avant d’avoir été élu une seule fois. L’idée revient régulièrement dans le débat sur le « millefeuille territorial », expression qui désigne l’empilement des échelons communes, intercommunalités, départements et régions.",
+  "enjeux": "Ses partisans y voient une simplification, une baisse du nombre d’élus et une meilleure coordination entre département et région. Ses opposants craignent des élus éloignés du terrain, débordés par deux mandats, et un affaiblissement de la parité qu’assure le scrutin binominal départemental.",
+  "reperes": [
+   "Créé par la loi du 16 décembre 2010, supprimé en 2013 sans avoir été appliqué"
+  ],
+  "liens": [
+   "decentralisation",
+   "intercommunalite"
+  ],
+  "motifs": [
+   "conseiller territorial",
+   "millefeuille territorial",
+   "mille-feuille territorial"
+  ],
+  "positions": {
+   "renaissance": {
+    "texte": "Le programme propose un seul « conseiller territorial » siégeant au département et à la région pour simplifier le « mille-feuille territorial ».",
+    "appuis": [
+     "p11fd4b6b"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de rétablir le conseiller territorial sur le modèle de la réforme de 2010 pour réduire le nombre d’élus locaux.",
+    "appuis": [
+     "p8dc5bf16"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de simplifier « drastiquement le millefeuille territorial » pour réduire la dépense et rendre du pouvoir aux élus de proximité.",
+    "appuis": [
+     "p3648ddb4"
+    ]
+   }
+  }
+ },
+ {
+  "id": "intercommunalite",
+  "nom": "Intercommunalités et métropoles",
+  "variantes": [
+   "EPCI",
+   "métropole",
+   "communauté d’agglomération",
+   "loi NOTRe"
+  ],
+  "categorie": "institution",
+  "theme": "institutions",
+  "definition": "Les établissements publics de coopération intercommunale (EPCI) regroupent des communes pour exercer en commun des compétences comme les transports, les déchets ou le développement économique ; ce sont des communautés de communes, d’agglomération, urbaines ou des métropoles. Toutes les communes doivent appartenir à un EPCI à fiscalité propre. Les conseillers communautaires sont désignés lors des élections municipales par un système de fléchage dans les communes de 1 000 habitants et plus, et non par une élection distincte. La loi NOTRe de 2015 a relevé les seuils de population des intercommunalités et transféré de nouvelles compétences obligatoires, peu après la création des métropoles par la loi MAPTAM de 2014 et le passage à treize régions métropolitaines.",
+  "enjeux": "Les uns veulent faire des intercommunalités de véritables collectivités élues au suffrage direct ; d’autres défendent les « libertés communales » et veulent revenir sur les transferts obligatoires de compétences ou sur la logique des métropoles et des grandes régions. Le débat oppose aussi métropoles et villes moyennes ou rurales dans l’attribution des moyens.",
+  "reperes": [
+   "Loi MAPTAM du 27 janvier 2014",
+   "Loi NOTRe du 7 août 2015"
+  ],
+  "liens": [
+   "decentralisation",
+   "finances-locales",
+   "conseiller-territorial"
+  ],
+  "motifs": [
+   "EPCI",
+   "intercommunalités",
+   "intercommunalité",
+   "coopération intercommunale",
+   "conseils communautaires",
+   "loi NOTRe",
+   "méga-régions",
+   "métropoles",
+   "métropole du Grand Paris",
+   "compétence est intercommunale"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de transformer les EPCI en collectivités, d’élire directement les dirigeants des agglomérations et métropoles, et de dissoudre la métropole du Grand Paris.",
+    "appuis": [
+     "p35650ad7",
+     "pb0374fba",
+     "pc6e67148"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’élire les conseils communautaires au suffrage universel direct par scrutin de liste paritaire.",
+    "appuis": [
+     "p5fbc3709"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose d’abolir la loi NOTRe et de revenir sur la logique des métropoles et des « méga-régions ».",
+    "appuis": [
+     "pcf8e4126",
+     "pd1eba74a"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de stopper le transfert obligatoire de compétences vers les intercommunalités et d’en rendre une partie aux communes.",
+    "appuis": [
+     "p970eb7ec"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit qu’en urbanisme, lorsque la compétence est intercommunale, le maire reste signataire final.",
+    "appuis": [
+     "p76583dea"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit une baisse de la dotation globale de fonctionnement des EPCI.",
+    "appuis": [
+     "pacba6147"
+    ]
+   }
+  }
+ },
+ {
+  "id": "finances-locales",
+  "nom": "Finances et autonomie fiscale des collectivités",
+  "variantes": [
+   "DGF",
+   "DILICO",
+   "autonomie financière",
+   "compensation des transferts"
+  ],
+  "categorie": "politique publique",
+  "theme": "institutions",
+  "definition": "Les collectivités financent leurs dépenses par des impôts locaux, des fractions d’impôts nationaux qui leur sont reversées, comme une part de TVA, et des dotations de l’État, dont la principale est la dotation globale de fonctionnement (DGF). La Constitution garantit leur autonomie financière et impose que tout transfert de compétences s’accompagne des ressources correspondantes (article 72-2). La suppression de la taxe d’habitation sur les résidences principales a réduit leur pouvoir de fixer elles-mêmes leurs taux. Le dispositif de lissage conjoncturel (DILICO), créé par la loi de finances pour 2025, met en réserve une partie de leurs recettes pour contribuer au redressement des comptes publics ; reconduit par la loi de finances pour 2026 à hauteur de 740 millions d’euros, en exonérant les communes, il prévoit le reversement de 90 % des sommes par tiers sur trois ans, le reste allant à la péréquation.",
+  "enjeux": "Les élus locaux et plusieurs partis réclament un pouvoir fiscal propre, une compensation intégrale des compétences transférées et la fin des prélèvements de l’État. D’autres jugent que les collectivités doivent participer à la maîtrise de la dépense publique et proposent de baisser certaines dotations.",
+  "reperes": [
+   "Article 72-2 de la Constitution",
+   "Suppression de la taxe d’habitation sur les résidences principales achevée en 2023",
+   "DILICO créé par la loi de finances pour 2025, reconduit par la loi de finances pour 2026 (740 millions d’euros, régions, départements et intercommunalités)"
+  ],
+  "liens": [
+   "decentralisation",
+   "intercommunalite"
+  ],
+  "motifs": [
+   "DGF",
+   "DILICO",
+   "dotation globale de fonctionnement",
+   "finances locales",
+   "ressources fiscales des collectivités",
+   "pouvoir d'imposition des collectivités",
+   "leviers fiscaux autonomes",
+   "fraction de la TVA",
+   "fraction forfaitaire de TVA",
+   "moyens financiers et les compétences des collectivités"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une loi organique garantissant la compensation intégrale des transferts, la suppression du DILICO et un financement des régions par une fraction de TVA et d’impôt sur les sociétés.",
+    "appuis": [
+     "pe74c5f6f",
+     "p7a41c38c",
+     "p6f175d7b"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une loi pluriannuelle des finances locales et un pouvoir d’imposition renforcé pour les collectivités.",
+    "appuis": [
+     "p5fbc3709"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit une conférence sur les moyens financiers et les compétences des collectivités.",
+    "appuis": [
+     "p241124d8"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de verser automatiquement à la commune une fraction de TVA de 9 000 euros par logement neuf.",
+    "appuis": [
+     "p3959599a"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit une baisse de la DGF des régions et des EPCI.",
+    "appuis": [
+     "pacba6147"
+    ]
+   }
+  }
+ },
+ {
+  "id": "prefet",
+  "nom": "Préfet et administration territoriale de l’État",
+  "variantes": [
+   "préfecture",
+   "sous-préfecture",
+   "corps préfectoral"
+  ],
+  "categorie": "institution",
+  "theme": "institutions",
+  "definition": "Le préfet représente l’État dans le département et la région ; il met en œuvre les politiques du gouvernement, dirige les services déconcentrés et contrôle la légalité des actes des collectivités. L’institution remonte à la loi du 28 pluviôse an VIII (1800). Les préfets sont nommés par décret du Président en conseil des ministres et relèvent du ministère de l’Intérieur. La réforme de la haute fonction publique de 2021 a mis en extinction le corps préfectoral, les fonctions de préfet restant pourvues par nomination.",
+  "enjeux": "Le débat porte sur le maillage territorial de l’État, avec le maintien ou le renforcement des sous-préfectures, sur le rattachement des préfets et sur la réforme de 2021, que certains veulent annuler. Il touche aussi au partage des pouvoirs entre préfets et maires, par exemple en matière de logement et d’urbanisme.",
+  "reperes": [
+   "Loi du 28 pluviôse an VIII (17 février 1800)",
+   "Article 72 de la Constitution : le représentant de l’État dans les collectivités"
+  ],
+  "liens": [
+   "decentralisation",
+   "france-services",
+   "fonction-publique"
+  ],
+  "motifs": [
+   "sous-préfectures",
+   "sous-préfecture",
+   "souspréfectures",
+   "corps préfectoral",
+   "contingent préfectoral",
+   "Préfets au niveau du Premier Ministre",
+   "sous l'autorité du préfet"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de réinvestir les sous-préfectures et de rattacher les préfets au Premier ministre plutôt qu’au ministère de l’Intérieur.",
+    "appuis": [
+     "pc16d7625",
+     "pe1b6f228"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit de renforcer le réseau des sous-préfectures.",
+    "appuis": [
+     "p888d2039"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de rétablir les corps préfectoral et diplomatique supprimés par la réforme de 2021.",
+    "appuis": [
+     "p8c0c27ae"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose une contractualisation entre l’État et les collectivités sous l’autorité du préfet et la restitution progressive du contingent préfectoral de logements aux maires.",
+    "appuis": [
+     "p5022f113",
+     "p3428f2f6"
+    ]
+   }
+  }
+ },
+ {
+  "id": "france-services",
+  "nom": "France services et accueil physique des services publics",
+  "variantes": [
+   "maisons France services",
+   "guichet unique",
+   "services publics de proximité"
+  ],
+  "categorie": "politique publique",
+  "theme": "institutions",
+  "definition": "France services est un réseau de guichets labellisés par l’État depuis 2019, dans lesquels des agents accompagnent les usagers dans leurs démarches auprès de plusieurs administrations : impôts, CAF, assurance maladie, retraite, France Travail, titres d’identité. Ces maisons sont portées par des collectivités, La Poste ou des associations, avec un financement partagé. Elles ont été créées en réponse à la fermeture de guichets dans de nombreux territoires et à la dématérialisation des démarches.",
+  "enjeux": "Tous les partis disent vouloir garantir un accès de proximité aux services publics, mais ils diffèrent sur les moyens : extension du réseau, garantie de distance maximale, maintien de guichets dans chaque administration, ou guichet unique. Le débat porte aussi sur la qualité de l’accompagnement assuré par des agents polyvalents.",
+  "reperes": [
+   "Label France services créé en 2019"
+  ],
+  "liens": [
+   "dematerialisation",
+   "prefet",
+   "fonction-publique"
+  ],
+  "motifs": [
+   "France services",
+   "Maisons France Services",
+   "MFS",
+   "accueil physique",
+   "guichets physiques",
+   "services publics essentiels",
+   "services de proximité",
+   "guichet unique pour toutes les démarches",
+   "maintien de guichets"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un accueil physique des services publics à 15 minutes partout, 500 nouvelles maisons France services et des unités mobiles.",
+    "appuis": [
+     "p4ebfd80d",
+     "p5272a5c4",
+     "pa009c0c4"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit que personne n’habite à plus de trente minutes d’un accueil physique des services publics et le maintien de guichets et de formulaires papier.",
+    "appuis": [
+     "pd9751262",
+     "pab01b59d"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit de garantir à chacun l’accès de proximité aux services publics essentiels.",
+    "appuis": [
+     "p5386c6b9"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit de continuer le développement des maisons France services, un guichet unique et un numéro unique pour les démarches.",
+    "appuis": [
+     "p888d2039",
+     "pa8b9e339"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de maintenir les services de proximité.",
+    "appuis": [
+     "p3f9836e9"
+    ]
+   }
+  }
+ },
+ {
+  "id": "dematerialisation",
+  "nom": "Dématérialisation des démarches administratives",
+  "variantes": [
+   "numérisation de l’administration",
+   "droit à la non-connexion",
+   "inclusion numérique"
+  ],
+  "categorie": "politique publique",
+  "theme": "institutions",
+  "definition": "La dématérialisation désigne le passage des démarches administratives du papier et du guichet vers des services en ligne. Elle s’est généralisée avec les programmes de transformation numérique de l’État, qui visent à proposer l’essentiel des démarches en ligne. Le Défenseur des droits a relevé à plusieurs reprises les difficultés qu’elle crée pour les personnes éloignées du numérique, et le Conseil d’État a jugé en 2022 qu’une démarche ne pouvait être rendue exclusivement numérique sans solution de substitution pour les étrangers.",
+  "enjeux": "Ses partisans y voient un gain de temps, de coûts et de simplicité, et proposent d’aller plus loin avec l’intelligence artificielle. Ses critiques défendent un droit de ne pas passer par le numérique et le maintien de guichets humains, en soulignant le risque de non-recours aux droits.",
+  "reperes": [
+   "Rapports du Défenseur des droits sur la dématérialisation (2019 et 2022)"
+  ],
+  "liens": [
+   "france-services",
+   "simplification-administrative"
+  ],
+  "motifs": [
+   "dématérialisation",
+   "non-connexion",
+   "numérisation des services",
+   "formulaires papier",
+   "démarches administratives sur Internet",
+   "accompagnateurs pour aider",
+   "assistant administratif numérique",
+   "transformation numérique des administrations"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un droit opposable à la « non-connexion administrative » et la possibilité de répondre par courriel aux administrations.",
+    "appuis": [
+     "p89c3a56f",
+     "p0c090e91"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit que la dématérialisation ne soit jamais un obstacle à l’accès aux services publics et le maintien de formulaires papier.",
+    "appuis": [
+     "pe2553c58",
+     "pab01b59d"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose un assistant administratif numérique appelé « Marianne » pour chaque Français.",
+    "appuis": [
+     "pef3683e5"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de permettre à tout citoyen de faire toutes ses démarches administratives sur Internet.",
+    "appuis": [
+     "p2ed0db46"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de « transformer l’État par le numérique » et de déployer 20 000 accompagnateurs pour aider aux démarches.",
+    "appuis": [
+     "pf27dc706",
+     "p4f5202d0"
+    ]
+   }
+  }
+ },
+ {
+  "id": "octroi-de-mer",
+  "nom": "Octroi de mer",
+  "variantes": [
+   "octroi de mer régional"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "institutions",
+  "definition": "L’octroi de mer est une taxe propre aux départements et régions d’outre-mer, perçue sur les biens importés et, à un taux souvent réduit, sur certaines productions locales. Son produit finance principalement les communes et les régions de ces territoires, dont il constitue une ressource importante. Son origine remonte au XVIIe siècle et son régime actuel repose sur une autorisation de l’Union européenne, qui admet des différentiels de taux en faveur de la production locale. Il est souvent cité parmi les facteurs de la cherté de la vie outre-mer.",
+  "enjeux": "Ses défenseurs soulignent son rôle dans le financement des collectivités et la protection des productions locales. Ses critiques y voient un facteur de hausse des prix et proposent de le réformer, d’en flécher le produit vers l’investissement ou de le remplacer, ce qui suppose de compenser la perte de recettes pour les collectivités.",
+  "reperes": [
+   "Applicable en Guadeloupe, Guyane, Martinique, Mayotte et à La Réunion",
+   "Régime autorisé par une décision du Conseil de l’Union européenne"
+  ],
+  "liens": [
+   "vie-chere-outre-mer",
+   "finances-locales"
+  ],
+  "motifs": [
+   "octroi de mer"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de réformer le prélèvement et l’affectation de l’octroi de mer.",
+    "appuis": [
+     "pdbcb6698"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de flécher une part de ses revenus vers l’investissement local, avec un seuil minimum.",
+    "appuis": [
+     "pac31a588"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit une réforme de l’octroi de mer, confiée à un ministère d’État de la Mer et de l’Outre-mer.",
+    "appuis": [
+     "p0b5afb4a",
+     "p68f6b55c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "vie-chere-outre-mer",
+  "nom": "Vie chère et continuité territoriale outre-mer",
+  "variantes": [
+   "bouclier qualité-prix",
+   "BQP",
+   "continuité territoriale",
+   "monopoles ultramarins"
+  ],
+  "categorie": "politique publique",
+  "theme": "institutions",
+  "definition": "Les prix sont nettement plus élevés dans les territoires d’outre-mer que dans l’Hexagone, en particulier pour l’alimentation, selon les mesures de l’Insee. Les causes avancées incluent l’éloignement, l’étroitesse des marchés, la concentration de la distribution et de l’importation, et la fiscalité. Le bouclier qualité-prix, créé par la loi de régulation économique outre-mer de 2012, fixe chaque année un prix global négocié pour un panier de produits. La continuité territoriale désigne les dispositifs qui visent à compenser l’éloignement, notamment par des aides aux billets d’avion.",
+  "enjeux": "Les propositions vont du renforcement de la concurrence et du démantèlement de positions dominantes à l’encadrement ou au plafonnement des prix, et de l’autonomie alimentaire à la réglementation des tarifs aériens. Le débat porte sur l’efficacité du bouclier qualité-prix et sur la part de responsabilité des acteurs économiques, de la fiscalité et du coût du transport.",
+  "reperes": [
+   "Loi du 20 novembre 2012 relative à la régulation économique outre-mer",
+   "Mouvements contre la vie chère en Martinique en 2024"
+  ],
+  "liens": [
+   "octroi-de-mer",
+   "nouvelle-caledonie",
+   "chlordecone",
+   "bouclier-qualite-prix"
+  ],
+  "motifs": [
+   "vie chère",
+   "bouclier qualité prix",
+   "bouclier qualité-prix",
+   "bouclier-prix",
+   "continuité territoriale",
+   "desserte aérienne",
+   "monopoles hérités",
+   "situations de monopole",
+   "conglomérats",
+   "autonomie alimentaire"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de renforcer le bouclier qualité-prix, de combattre par les règles antitrust les « monopoles hérités de l’époque coloniale » et de réglementer les tarifs aériens.",
+    "appuis": [
+     "p168433ed",
+     "p96d4c8ab",
+     "pdbcb6698"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de lutter contre les monopoles, de garantir la continuité territoriale par une desserte de service public à tarifs réglementés et de réglementer les tarifs aériens.",
+    "appuis": [
+     "pb1b0dd01",
+     "pa96c4c24",
+     "pbd7f5512"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de plafonner les prix des biens essentiels au-delà du bouclier qualité-prix et de démanteler les conglomérats qui contribuent à la vie chère.",
+    "appuis": [
+     "p1355e2cb",
+     "p191c8496"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme de 2022 propose un plan de lutte contre la vie chère outre-mer.",
+    "appuis": [
+     "p77572964"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit un plan d’autonomie alimentaire dans chaque territoire ultramarin pour lutter contre la vie chère.",
+    "appuis": [
+     "pe0fdaf1e"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme confie à un ministère d’État de la Mer et de l’Outre-mer la garantie de la continuité territoriale.",
+    "appuis": [
+     "p68f6b55c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "nouvelle-caledonie",
+  "nom": "Avenir institutionnel de la Nouvelle-Calédonie",
+  "variantes": [
+   "Kanaky",
+   "accord de Nouméa",
+   "corps électoral gelé"
+  ],
+  "categorie": "politique publique",
+  "theme": "institutions",
+  "definition": "La Nouvelle-Calédonie dispose d’un statut particulier, défini par le titre XIII de la Constitution, issu des accords de Matignon de 1988 et de l’accord de Nouméa de 1998. Ce dernier a organisé un transfert progressif de compétences et jusqu’à trois consultations sur l’indépendance, tenues en 2018, 2020 et 2021, qui ont toutes donné une majorité contre l’indépendance ; la troisième a été boycottée par les indépendantistes. Le corps électoral des élections provinciales est restreint et a été gelé en 2007. Un projet de révision constitutionnelle visant à l’élargir a été suivi en mai 2024 de violences graves, puis abandonné. L’accord de Bougival du 12 juillet 2025, complété par l’accord Élysée-Oudinot de janvier 2026, prévoit un « État de la Nouvelle-Calédonie » inscrit dans la Constitution et un corps électoral provincial redéfini ; le FLNKS a rejeté l’accord de Bougival. Le projet de loi constitutionnelle qui le traduit, adopté par le Sénat en février 2026, a été rejeté par l’Assemblée nationale le 2 avril 2026, et les élections provinciales ont été reportées à plusieurs reprises.",
+  "enjeux": "Les indépendantistes et leurs soutiens défendent le droit à l’autodétermination et la poursuite de la décolonisation ; les non-indépendantistes invoquent le résultat des trois consultations. Le dégel du corps électoral, qui conditionne le poids électoral des différentes populations, est au cœur du différend, de même que la méthode : accord négocié ou décision de Paris.",
+  "reperes": [
+   "Accords de Matignon (1988) et accord de Nouméa (1998)",
+   "Consultations sur l’indépendance : 2018, 2020, 2021",
+   "Accord de Bougival, 12 juillet 2025 ; accord Élysée-Oudinot, janvier 2026",
+   "Projet de loi constitutionnelle relatif à la Nouvelle-Calédonie : adopté par le Sénat le 24 février 2026, rejeté par l’Assemblée nationale le 2 avril 2026"
+  ],
+  "liens": [
+   "referendum",
+   "decentralisation"
+  ],
+  "motifs": [
+   "Nouvelle-Calédonie",
+   "Kanaky",
+   "accords de Nouméa",
+   "accord de Nouméa",
+   "dégel immédiat du corps électoral",
+   "autodétermination et de décolonisation"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose d’abandonner la réforme constitutionnelle visant au « dégel immédiat du corps électoral ».",
+    "appuis": [
+     "pf8890024"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de « renouer avec l’esprit des accords de Nouméa » et une « co-construction politique ».",
+    "appuis": [
+     "pef3afdcf"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose de poursuivre les négociations pour un accord fondé sur « les principes d’autodétermination et de décolonisation ».",
+    "appuis": [
+     "p423f4f40"
+    ]
+   }
+  }
+ },
+ {
+  "id": "chlordecone",
+  "nom": "Chlordécone",
+  "variantes": [
+   "pollution au chlordécone",
+   "indemnisation des victimes des pesticides"
+  ],
+  "categorie": "politique publique",
+  "theme": "institutions",
+  "definition": "Le chlordécone est un insecticide utilisé dans les bananeraies de Guadeloupe et de Martinique pour lutter contre le charançon, autorisé jusqu’en 1993 dans ces territoires alors qu’il avait été interdit en France hexagonale en 1990. Très persistant, il contamine durablement les sols, les eaux et une partie de la chaîne alimentaire. Une très large majorité de la population antillaise présente des traces de chlordécone dans le sang, et le cancer de la prostate lié à cette exposition a été reconnu comme maladie professionnelle en 2021. Le Fonds d’indemnisation des victimes de pesticides, créé en 2020, indemnise certaines victimes professionnelles.",
+  "enjeux": "Le débat porte sur l’ampleur de la responsabilité de l’État, l’extension de l’indemnisation aux populations non professionnelles et les moyens de dépollution. Les associations et plusieurs élus ultramarins réclament réparation ; une ordonnance de non-lieu a été rendue en 2023 dans l’enquête pénale, ce qui a nourri la contestation, et la cour administrative d’appel de Paris a reconnu en mars 2025 des fautes de l’État et indemnisé une partie des requérants.",
+  "reperes": [
+   "Utilisé aux Antilles jusqu’en 1993",
+   "Fonds d’indemnisation des victimes de pesticides créé en 2020"
+  ],
+  "liens": [
+   "vie-chere-outre-mer"
+  ],
+  "motifs": [
+   "chlordécone",
+   "Fonds d'indemnisation des victimes des pesticides",
+   "fonds d'indemnisation et de prévention contre les pollutions"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’augmenter les montants et d’élargir les critères d’éligibilité de l’indemnisation des victimes du chlordécone, ainsi que la dépollution des sols et des eaux.",
+    "appuis": [
+     "pb3afd56b",
+     "p9ebb725f"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose un fonds d’indemnisation et de prévention contre les pollutions, présenté au titre du chlordécone et des sargasses.",
+    "appuis": [
+     "p2caa14bb"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit une action renforcée outre-mer face à la pollution environnementale, citant le chlordécone.",
+    "appuis": [
+     "p34288898"
+    ]
+   }
+  }
+ },
+ {
+  "id": "laicite",
+  "nom": "Laïcité",
+  "variantes": [
+   "loi de 1905",
+   "séparation des Églises et de l’État",
+   "neutralité de l’État"
+  ],
+  "categorie": "doctrine ou courant",
+  "theme": "institutions",
+  "definition": "La laïcité est le principe selon lequel l’État est neutre à l’égard des religions, garantit la liberté de conscience et le libre exercice des cultes, et ne reconnaît ni ne subventionne aucun culte. Elle repose sur la loi du 9 décembre 1905 concernant la séparation des Églises et de l’État, et l’article 1er de la Constitution qualifie la République de « laïque ». La neutralité s’impose aux agents publics et aux bâtiments publics, non aux usagers, sauf exceptions prévues par la loi comme les élèves des écoles publiques. L’Observatoire de la laïcité, créé en 2007 et installé en 2013, a été remplacé en 2021 par un comité interministériel.",
+  "enjeux": "Une conception insiste sur la liberté de conscience et la neutralité de l’État, et met en garde contre l’usage de la laïcité pour viser une religion. Une autre met l’accent sur la défense d’une règle commune face à l’« islamisme » ou au « communautarisme » et veut étendre les obligations de neutralité à de nouveaux espaces. Le débat porte aussi sur les régimes dérogatoires, comme le concordat d’Alsace-Moselle ou certains statuts d’outre-mer.",
+  "reperes": [
+   "Loi du 9 décembre 1905",
+   "Article 1er de la Constitution de 1958"
+  ],
+  "liens": [
+   "concordat-alsace-moselle",
+   "loi-separatisme",
+   "signes-religieux",
+   "enseignement-prive-sous-contrat"
+  ],
+  "motifs": [
+   "laïcité",
+   "laïque",
+   "laïques",
+   "laïc",
+   "loi de 1905"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de former les fonctionnaires à la laïcité et à la loi de 1905, d’appliquer cette loi dans tous les outre-mer et d’interdire aux ministres et préfets d’assister à des cérémonies religieuses.",
+    "appuis": [
+     "p03fc77c7",
+     "pef36474d",
+     "peded2f56"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose de refonder l’Observatoire de la laïcité, de remplacer le ministre des Cultes par un ministre de la laïcité et de s’appuyer sur la « police des cultes » de la loi de 1905.",
+    "appuis": [
+     "p477b0424",
+     "pa372e818",
+     "pcfad6439"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de garantir la laïcité à l’école et de faire de l’Éducation nationale « le fer de lance de la lutte pour la laïcité » en formant et protégeant les enseignants.",
+    "appuis": [
+     "p561ab857",
+     "p2fe0583c"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose un « retour à la laïcité » dans les établissements « soumis à des menées islamistes » et associe laïcité et assimilation.",
+    "appuis": [
+     "p9d1d4d7b",
+     "p573047dc"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme de 2022 prévoit un référendum incluant la laïcité ; le programme récent fait signer aux familles un contrat d’engagement portant notamment sur le respect de la laïcité.",
+    "appuis": [
+     "pc04b3384",
+     "p38f5cef3"
+    ]
+   },
+   "horizons": {
+    "texte": "Le parti défend « la liberté de croire ou de ne pas croire dans le cadre fixé par la laïcité » contre ceux qui la contestent « au nom d’une vision dévoyée de la liberté de culte ».",
+    "appuis": [
+     "pa830efd8",
+     "p8a131c17"
+    ]
+   }
+  }
+ },
+ {
+  "id": "concordat-alsace-moselle",
+  "nom": "Concordat d’Alsace-Moselle et régimes dérogatoires",
+  "variantes": [
+   "droit local des cultes",
+   "régime concordataire"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "institutions",
+  "definition": "En Alsace et en Moselle, la loi de 1905 ne s’applique pas, car ces territoires étaient allemands lors de son adoption. Y subsiste le régime issu du concordat de 1801 et des articles organiques : les ministres des cultes catholique, luthérien, réformé et israélite sont rémunérés par l’État, et un enseignement religieux est prévu à l’école publique avec possibilité de dispense. Le Conseil constitutionnel a jugé en 2013 que ce régime ne méconnaissait pas la Constitution. D’autres régimes particuliers existent outre-mer, notamment en Guyane, régie par une ordonnance royale de 1828, et dans plusieurs collectivités d’outre-mer.",
+  "enjeux": "Les partisans de l’abrogation y voient une rupture d’égalité et une exception au principe de laïcité. Ses défenseurs invoquent l’attachement local à ce droit et l’histoire singulière de ces territoires.",
+  "reperes": [
+   "Concordat de 1801",
+   "Décision du Conseil constitutionnel du 21 février 2013"
+  ],
+  "liens": [
+   "laicite"
+  ],
+  "motifs": [
+   "concordat",
+   "régimes dérogatoires à la loi de 1905",
+   "statuts spécifiques en vigueur dans les Outre-mer"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose d’abroger le concordat d’Alsace-Moselle et les statuts spécifiques en vigueur dans les outre-mer.",
+    "appuis": [
+     "pce9eaf8f"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’abolir progressivement les régimes dérogatoires à la loi de 1905 et aux lois laïques scolaires.",
+    "appuis": [
+     "p561ab857"
+    ]
+   }
+  }
+ },
+ {
+  "id": "loi-separatisme",
+  "nom": "Loi « séparatisme » et contrat d’engagement républicain",
+  "variantes": [
+   "loi confortant le respect des principes de la République",
+   "contrat d’engagement républicain",
+   "CER"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "institutions",
+  "definition": "La loi du 24 août 2021 confortant le respect des principes de la République, appelée couramment loi « séparatisme », a renforcé le contrôle des associations et des lieux de culte, élargi les motifs de dissolution administrative et soumis l’instruction en famille à une autorisation préalable. Elle a créé le contrat d’engagement républicain : toute association qui demande une subvention ou un agrément public s’engage à respecter les principes de la République, sous peine de devoir rembourser l’aide. Le gouvernement l’a présentée comme une réponse à l’« islamisme » et au « séparatisme ».",
+  "enjeux": "Ses défenseurs y voient un outil de protection contre les « séparatismes » religieux ou politiques. Ses opposants, dont de nombreuses associations, la jugent « liberticide », craignent un contrôle politique des subventions et contestent les restrictions à l’instruction en famille.",
+  "reperes": [
+   "Loi n° 2021-1109 du 24 août 2021"
+  ],
+  "liens": [
+   "laicite",
+   "subventions-associations"
+  ],
+  "motifs": [
+   "séparatisme",
+   "contrat d'engagement républicain",
+   "Contrat d'Engagement Républicain"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’abroger la loi séparatisme et le contrat d’engagement républicain, qualifié de « liberticide ».",
+    "appuis": [
+     "pcfad6439",
+     "p1d64723b",
+     "p1923c079"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose d’abroger le contrat d’engagement républicain et les dispositions qu’il juge « liberticides » de la loi séparatisme.",
+    "appuis": [
+     "p1d717661",
+     "pcebc9d7c"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un comité indépendant chargé de contrôler l’application du contrat d’engagement républicain.",
+    "appuis": [
+     "p04fc6259"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de renforcer la liberté d’instruction en famille, qui a selon lui été « particulièrement restreinte par la loi sur le séparatisme ».",
+    "appuis": [
+     "pfb6e6226"
+    ]
+   }
+  }
+ },
+ {
+  "id": "signes-religieux",
+  "nom": "Signes religieux à l’école et dans l’espace public",
+  "variantes": [
+   "loi de 2004",
+   "voile islamique",
+   "burkini",
+   "accompagnatrices de sorties scolaires",
+   "abaya"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "institutions",
+  "definition": "La loi du 15 mars 2004 interdit aux élèves des écoles, collèges et lycées publics le port de signes ou tenues manifestant ostensiblement une appartenance religieuse ; l’interdiction a été étendue à l’abaya et au qamis par une note de service à la rentrée 2023. La loi du 11 octobre 2010 interdit de dissimuler son visage dans l’espace public. Les usagers des services publics et les personnes dans la rue restent en principe libres de porter des signes religieux, et le Conseil d’État a estimé en 2013 que les parents accompagnant des sorties scolaires ne sont pas soumis à l’obligation de neutralité. Plusieurs arrêtés municipaux interdisant le burkini ont été suspendus par le juge administratif.",
+  "enjeux": "Les partisans de nouvelles interdictions veulent étendre la neutralité aux accompagnateurs de sorties scolaires, aux mineures ou à l’ensemble de l’espace public, en y voyant une défense de la laïcité et de l’égalité entre femmes et hommes. Leurs opposants y voient une atteinte à la liberté religieuse visant principalement les musulmanes, et rappellent que la laïcité oblige l’État et non les citoyens.",
+  "reperes": [
+   "Loi du 15 mars 2004",
+   "Loi du 11 octobre 2010 sur la dissimulation du visage"
+  ],
+  "liens": [
+   "laicite",
+   "uniforme-scolaire",
+   "loi-separatisme"
+  ],
+  "motifs": [
+   "voile",
+   "voile islamique",
+   "burkini",
+   "loi de 2004",
+   "sorties scolaires",
+   "signes religieux",
+   "neutralité absolue des membres du corps enseignant"
+  ],
+  "positions": {
+   "rn": {
+    "texte": "Le programme propose d’interdire par la loi le voile aux accompagnatrices de sorties scolaires, en créant le statut de « collaborateur occasionnel du service public », et de renforcer la neutralité des enseignants.",
+    "appuis": [
+     "p5b970d1f",
+     "pbdcc0471"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose d’étendre la neutralité de la loi de 2004 aux accompagnateurs de sorties scolaires, d’interdire le voile pour les fillettes et le burkini dans les piscines.",
+    "appuis": [
+     "p0e7dcbc8",
+     "p8159303b",
+     "pbdade2c7"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose d’interdire le port du voile islamique dans l’espace public.",
+    "appuis": [
+     "pb8721263"
+    ]
+   }
+  }
+ },
+ {
+  "id": "uniforme-scolaire",
+  "nom": "Uniforme scolaire",
+  "variantes": [
+   "tenue unique",
+   "blouse"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "institutions",
+  "definition": "L’uniforme scolaire consiste à imposer aux élèves une tenue commune. Il n’existe pas d’obligation nationale dans l’enseignement public français ; une expérimentation de la « tenue unique » a été lancée à la rentrée 2024 dans des établissements volontaires.",
+  "enjeux": "Ses partisans le présentent comme un moyen de lutter contre les inégalités visibles, le harcèlement et les tenues à caractère religieux, et de restaurer l’autorité. Ses opposants doutent de son efficacité, soulignent son coût pour les familles et les collectivités et jugent qu’il ne répond pas aux causes des difficultés.",
+  "reperes": [
+   "Expérimentation de la tenue unique depuis la rentrée 2024"
+  ],
+  "liens": [
+   "signes-religieux",
+   "laicite"
+  ],
+  "motifs": [
+   "port de l'uniforme",
+   "instauration d'un uniforme",
+   "port de la blouse",
+   "tenue unique"
+  ],
+  "positions": {
+   "rn": {
+    "texte": "Le programme propose d’instaurer un uniforme au primaire et au collège pour « rétablir l’autorité de l’institution scolaire ».",
+    "appuis": [
+     "pfbb5acda"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de rendre la blouse obligatoire à l’école primaire contre le harcèlement, le « communautarisme » et les inégalités sociales.",
+    "appuis": [
+     "pa389bf09"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose d’encourager le port de l’uniforme.",
+    "appuis": [
+     "p0e7dcbc8"
+    ]
+   }
+  }
+ },
+ {
+  "id": "concentration-des-medias",
+  "nom": "Concentration des médias",
+  "variantes": [
+   "pluralisme des médias",
+   "loi anti-concentration",
+   "loi de 1986"
+  ],
+  "categorie": "politique publique",
+  "theme": "institutions",
+  "definition": "La concentration des médias désigne la détention de plusieurs titres de presse, chaînes et radios par un même groupe ou un même actionnaire. En France, elle est encadrée par la loi du 30 septembre 1986 relative à la liberté de communication, qui fixe des plafonds de détention dans l’audiovisuel et entre plusieurs types de médias. Plusieurs grands médias d’information appartiennent à des groupes industriels ou financiers. Le pluralisme des courants d’expression est un objectif de valeur constitutionnelle selon le Conseil constitutionnel.",
+  "enjeux": "Les partisans d’une loi anti-concentration jugent les règles de 1986 dépassées par le numérique et y voient une menace pour l’indépendance de l’information. Les autres soulignent la fragilité économique du secteur et la concurrence des plateformes, qui justifieraient des groupes de taille suffisante.",
+  "reperes": [
+   "Loi du 30 septembre 1986 relative à la liberté de communication",
+   "États généraux de l’information (2023-2024)"
+  ],
+  "liens": [
+   "independance-des-redactions",
+   "audiovisuel-public",
+   "aides-a-la-presse"
+  ],
+  "motifs": [
+   "anti-concentration",
+   "concentration dans les industries culturelles",
+   "limiter leur concentration",
+   "pluralisme des médias",
+   "loi de 1986"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une loi anti-concentration « sur le modèle norvégien », limitant les titres et chaînes nationales détenus par un même groupe.",
+    "appuis": [
+     "p0d21679a"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose une loi anti-concentration et la « démocratisation des médias ».",
+    "appuis": [
+     "pb68a0e7b",
+     "pac381215"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de réformer la loi de 1986 pour limiter la concentration des médias.",
+    "appuis": [
+     "p42bab6b7"
+    ]
+   }
+  }
+ },
+ {
+  "id": "audiovisuel-public",
+  "nom": "Audiovisuel public",
+  "variantes": [
+   "France Télévisions",
+   "Radio France",
+   "redevance",
+   "contribution à l’audiovisuel public",
+   "privatisation de l’audiovisuel public"
+  ],
+  "categorie": "institution",
+  "theme": "institutions",
+  "definition": "L’audiovisuel public regroupe notamment France Télévisions, Radio France, France Médias Monde, l’INA et Arte France. Il était financé principalement par la contribution à l’audiovisuel public, dite redevance, supprimée en 2022 et remplacée par une fraction du produit de la TVA. Les présidents de France Télévisions et de Radio France sont nommés par l’Arcom. Un projet de holding regroupant ces sociétés est en débat depuis plusieurs années.",
+  "enjeux": "Les uns défendent un financement pérenne et indépendant du budget de l’État pour garantir l’indépendance éditoriale. D’autres proposent de réduire sa dotation ou de le privatiser, en jugeant son coût excessif ou sa ligne éditoriale orientée. Le mode de nomination de ses dirigeants est aussi en question.",
+  "reperes": [
+   "Suppression de la redevance en 2022"
+  ],
+  "liens": [
+   "concentration-des-medias",
+   "independance-des-redactions",
+   "redevance-audiovisuelle"
+  ],
+  "motifs": [
+   "audiovisuel public",
+   "service public de l'audiovisuel",
+   "service audiovisuel public",
+   "redevance télé",
+   "redevance audiovisuelle",
+   "redevance télévision",
+   "France Télévisions",
+   "Radio France"
+  ],
+  "positions": {
+   "rn": {
+    "texte": "Le programme propose de privatiser l’audiovisuel public et, dans son chiffrage, de baisser sa dotation.",
+    "appuis": [
+     "pf1305c01",
+     "pf54ed517",
+     "pf4ec6b36"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme de 2022 propose de supprimer la « redevance télé » tout en garantissant l’indépendance de l’audiovisuel public.",
+    "appuis": [
+     "pcf490ea6"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme de 2022 propose de supprimer la redevance audiovisuelle.",
+    "appuis": [
+     "p6943b26b"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de supprimer la redevance télévision.",
+    "appuis": [
+     "p3bff162c"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose un financement « durable, lisible, socialement juste » de l’audiovisuel public et l’élection de ses présidents par le Parlement.",
+    "appuis": [
+     "pf09e78df",
+     "p45722ac1"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose une validation des dirigeants de France Télévisions et Radio France à la majorité qualifiée du Parlement et renonce au projet de holding.",
+    "appuis": [
+     "p07564cf2"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de renforcer le service public de l’audiovisuel.",
+    "appuis": [
+     "p987e17e7"
+    ]
+   }
+  }
+ },
+ {
+  "id": "aides-a-la-presse",
+  "nom": "Aides publiques à la presse",
+  "variantes": [
+   "aides à la presse",
+   "droits voisins",
+   "avantage postal",
+   "fonds de soutien aux médias"
+  ],
+  "categorie": "politique publique",
+  "theme": "institutions",
+  "definition": "L’État soutient la presse par des aides directes, comme les aides au pluralisme ou à la modernisation, et par des aides indirectes, comme un taux de TVA réduit de 2,1 % et des tarifs postaux préférentiels. Le Fonds de soutien à l’expression radiophonique locale aide les radios associatives. Depuis la loi du 24 juillet 2019, les éditeurs de presse disposent d’un « droit voisin » qui leur permet d’être rémunérés par les plateformes qui reprennent leurs contenus.",
+  "enjeux": "Le débat porte sur le ciblage de ces aides, accusées de bénéficier surtout aux grands groupes, sur leur conditionnement à l’indépendance des rédactions ou au respect de la loi, et, pour certains, sur leur suppression. La rémunération des médias par les plateformes numériques est un autre axe.",
+  "reperes": [
+   "Taux de TVA de 2,1 % sur la presse",
+   "Loi du 24 juillet 2019 créant un droit voisin pour les éditeurs de presse"
+  ],
+  "liens": [
+   "independance-des-redactions",
+   "concentration-des-medias"
+  ],
+  "motifs": [
+   "aides à la presse",
+   "aides publiques à la presse",
+   "avantage postal",
+   "droits voisins",
+   "Fonds de soutien à l'expression radiophonique locale",
+   "exclure des aides publiques",
+   "financement stable de la presse",
+   "financement des médias indépendants"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de conditionner les aides à l’indépendance des rédactions, de créer un fonds de financement des médias indépendants et d’imposer leur rémunération par les plateformes via les droits voisins.",
+    "appuis": [
+     "p730592dc",
+     "pc09e33e6",
+     "pee7f0aee"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de réserver les aides aux médias d’information et d’en exclure les médias condamnés pour incitation à la haine.",
+    "appuis": [
+     "pe9f1c02d",
+     "pac381215"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un financement stable de la presse par une taxe sur les géants du numérique.",
+    "appuis": [
+     "p987e17e7"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit la suppression des aides à la presse, hors avantage postal.",
+    "appuis": [
+     "pb3d79a40"
+    ]
+   }
+  }
+ },
+ {
+  "id": "independance-des-redactions",
+  "nom": "Indépendance des rédactions",
+  "variantes": [
+   "droit d’agrément",
+   "charte déontologique",
+   "secret des sources"
+  ],
+  "categorie": "politique publique",
+  "theme": "institutions",
+  "definition": "L’indépendance des rédactions désigne la capacité des journalistes à décider des contenus sans ingérence de leurs actionnaires, de leurs annonceurs ou du pouvoir politique. La loi du 14 novembre 2016 impose des chartes déontologiques dans les entreprises de presse et renforce la protection des sources, dont le principe est posé par la loi de 1881 modifiée en 2010. Certaines rédactions disposent, par accord, d’un droit de vote sur la nomination de leur directeur. Le Conseil de déontologie journalistique et de médiation, créé en 2019, est une instance d’autorégulation.",
+  "enjeux": "Les partisans de nouvelles protections veulent un droit d’agrément des journalistes sur leur direction et des chartes opposables aux actionnaires. D’autres invoquent la liberté de l’entreprise de presse et jugent suffisants les dispositifs actuels.",
+  "reperes": [
+   "Loi du 14 novembre 2016 visant à renforcer la liberté, l’indépendance et le pluralisme des médias",
+   "Loi du 4 janvier 2010 sur la protection du secret des sources"
+  ],
+  "liens": [
+   "concentration-des-medias",
+   "aides-a-la-presse",
+   "audiovisuel-public"
+  ],
+  "motifs": [
+   "indépendance des rédactions",
+   "droit d'agrément",
+   "chartes d'indépendance",
+   "statut juridique des rédactions",
+   "protection des sources",
+   "coopératives de journalistes",
+   "Conseil de déontologie des médias",
+   "droit à l'information"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de défendre l’indépendance des rédactions face à leurs propriétaires, de durcir leur statut juridique et d’assurer la protection des sources.",
+    "appuis": [
+     "p48cd0a4f",
+     "p4133279f",
+     "pf4ce4256"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose un droit d’agrément des journalistes sur la nomination du directeur de la rédaction et des chartes d’indépendance opposables.",
+    "appuis": [
+     "pb3fb5678"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit des états généraux du droit à l’information pour donner aux journalistes « le meilleur cadre ».",
+    "appuis": [
+     "pa0946f48"
+    ]
+   }
+  }
+ },
+ {
+  "id": "desinformation",
+  "nom": "Lutte contre la désinformation",
+  "variantes": [
+   "délit de désinformation",
+   "loi contre la manipulation de l’information",
+   "ingérences étrangères"
+  ],
+  "categorie": "politique publique",
+  "theme": "institutions",
+  "definition": "La lutte contre la désinformation regroupe les règles et les moyens visant les fausses informations diffusées de manière massive, notamment par des puissances étrangères. La loi du 22 décembre 2018 relative à la lutte contre la manipulation de l’information permet au juge des référés de faire cesser, en période électorale, la diffusion de fausses informations. Le service Viginum, créé en 2021 auprès du secrétariat général de la défense et de la sécurité nationale, détecte les ingérences numériques étrangères. La loi du 29 juillet 1881 sanctionne déjà la diffamation, l’injure et certaines provocations, et la loi Pleven de 1972 y a ajouté la provocation à la haine raciale.",
+  "enjeux": "Les uns veulent de nouveaux délits et davantage de moyens contre les campagnes de manipulation et les médias relais de propagande étrangère. Les autres craignent des atteintes à la liberté d’expression et un « délit d’opinion », et proposent d’abroger les lois existantes.",
+  "reperes": [
+   "Loi du 22 décembre 2018",
+   "Loi Pleven du 1er juillet 1972",
+   "Viginum créé en 2021"
+  ],
+  "liens": [
+   "concentration-des-medias",
+   "independance-des-redactions"
+  ],
+  "motifs": [
+   "désinformation",
+   "manipulation de l'information",
+   "loi Pleven",
+   "délit d'opinion",
+   "propagande de puissances étrangères",
+   "ingérence"
+  ],
+  "positions": {
+   "ps-pp": {
+    "texte": "Le programme propose de créer un délit de « désinformation organisée » dans la loi de 1881.",
+    "appuis": [
+     "p987e17e7"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose de bloquer la diffusion des médias relais de propagande étrangère et de massifier l’éducation aux médias.",
+    "appuis": [
+     "p6b30ee0e",
+     "pcd2a3544"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de tripler les moyens de Viginum contre la désinformation venue de l’étranger.",
+    "appuis": [
+     "p0b3e4662"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit des états généraux du droit à l’information pour lutter contre les tentatives d’ingérence.",
+    "appuis": [
+     "pa0946f48"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose d’abroger la loi de 2018 « contre la manipulation de l’information » et la loi Pleven, présentée comme un moyen de « ressusciter le délit d’opinion ».",
+    "appuis": [
+     "pecfad0fe",
+     "p7c55a712"
+    ]
+   }
+  }
+ },
+ {
+  "id": "transparence-vie-publique",
+  "nom": "Transparence de la vie publique et conflits d’intérêts",
+  "variantes": [
+   "HATVP",
+   "pantouflage",
+   "lobbying",
+   "prise illégale d’intérêts",
+   "déport"
+  ],
+  "categorie": "politique publique",
+  "theme": "institutions",
+  "definition": "La Haute Autorité pour la transparence de la vie publique (HATVP), créée par les lois du 11 octobre 2013 après l’affaire Cahuzac, reçoit les déclarations de patrimoine et d’intérêts des responsables publics, contrôle les départs vers le privé et tient le registre des représentants d’intérêts. L’Agence française anticorruption a été créée par la loi Sapin 2 de 2016. Le pantouflage désigne le passage d’un haut fonctionnaire vers le secteur privé ; la prise illégale d’intérêts est un délit pénal. Le déport consiste pour un élu à s’abstenir de participer à une décision qui le concerne.",
+  "enjeux": "Les partisans d’un durcissement veulent interdire le pantouflage, limiter l’accès des lobbyistes au Parlement et donner plus de moyens aux autorités de contrôle. D’autres jugent les règles déjà lourdes et craignent qu’elles découragent l’engagement public ou les allers-retours utiles entre public et privé.",
+  "reperes": [
+   "Lois du 11 octobre 2013 créant la HATVP",
+   "Loi Sapin 2 du 9 décembre 2016"
+  ],
+  "liens": [
+   "ineligibilite",
+   "financement-des-partis",
+   "fonction-publique"
+  ],
+  "motifs": [
+   "HATVP",
+   "Haute Autorité de la Transparence de la Vie Publique",
+   "pantouflage",
+   "prise illégale d'intérêt",
+   "conflits d'intérêts",
+   "déports",
+   "lobbyistes",
+   "lobbys",
+   "Agence Française Anticorruption",
+   "Anticor",
+   "Transparency International",
+   "intégrité publique",
+   "déclarations d'intérêts"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’augmenter les moyens de la HATVP et de l’Agence française anticorruption, de créer un registre public des déports et de durcir la prise illégale d’intérêts.",
+    "appuis": [
+     "p39c14b77",
+     "pd9ff8645",
+     "p25b10e88"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose d’interdire le pantouflage, d’interdire l’entrée du Parlement aux lobbyistes et d’appliquer les recommandations d’Anticor et de Transparency International.",
+    "appuis": [
+     "p97a38880",
+     "p926b93a4",
+     "p6eaa739f"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’agir contre le pantouflage, de renforcer les moyens de lutte contre la corruption et de créer un observatoire de l’intégrité publique.",
+    "appuis": [
+     "pad9d151d"
+    ]
+   }
+  }
+ },
+ {
+  "id": "ineligibilite",
+  "nom": "Inéligibilité des élus condamnés",
+  "variantes": [
+   "inéligibilité à vie",
+   "peine d’inéligibilité"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "institutions",
+  "definition": "L’inéligibilité est une peine qui interdit à une personne de se présenter à une élection pendant une durée fixée par le juge. Depuis la loi pour la confiance dans la vie politique de 2017, elle est en principe obligatoire pour les crimes et pour plusieurs délits, notamment les atteintes à la probité comme la corruption ou le détournement de fonds publics, sauf décision spécialement motivée du juge. Elle peut être assortie de l’exécution provisoire, c’est-à-dire s’appliquer avant un éventuel appel.",
+  "enjeux": "Les partisans d’une inéligibilité à vie y voient une exigence d’exemplarité. Leurs contradicteurs soulignent le principe d’individualisation des peines et le droit des électeurs de choisir leurs représentants ; l’exécution provisoire appliquée à des responsables politiques fait aussi débat.",
+  "reperes": [
+   "Loi du 15 septembre 2017 pour la confiance dans la vie politique"
+  ],
+  "liens": [
+   "transparence-vie-publique"
+  ],
+  "motifs": [
+   "inéligibilité",
+   "inéligible"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose l’inéligibilité à vie et la démission des élus condamnés pour détournement de fonds publics ou corruption.",
+    "appuis": [
+     "p2718ee63"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de rendre inéligible à vie toute personne condamnée pour corruption.",
+    "appuis": [
+     "pb2d8aec4"
+    ]
+   }
+  }
+ },
+ {
+  "id": "financement-des-partis",
+  "nom": "Financement des partis politiques",
+  "variantes": [
+   "bon pour la démocratie",
+   "aide publique aux partis"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "institutions",
+  "definition": "Les partis sont financés par une aide publique répartie selon les résultats aux élections législatives et le nombre de parlementaires, par les cotisations de leurs adhérents et par des dons. Depuis 1995, les dons des personnes morales sont interdits ; les dons des particuliers sont plafonnés à 7 500 euros par an et par personne et ouvrent droit à une réduction d’impôt. La Commission nationale des comptes de campagne et des financements politiques contrôle leurs comptes.",
+  "enjeux": "Le débat porte sur l’équité du système : la réduction d’impôt avantage les donateurs imposables et les plus aisés. Le « bon pour la démocratie », inspiré des travaux de l’économiste Julia Cagé, permettrait à chaque citoyen d’orienter une part de l’argent public vers le parti de son choix. Ses critiques s’interrogent sur sa complexité et sur la prime qu’il donnerait aux partis déjà connus.",
+  "reperes": [
+   "Interdiction des dons des personnes morales depuis 1995",
+   "Plafond de 7 500 euros de dons par personne et par an"
+  ],
+  "liens": [
+   "transparence-vie-publique"
+  ],
+  "motifs": [
+   "financement des partis",
+   "bon pour la démocratie",
+   "déduction fiscale par un bon public"
+  ],
+  "positions": {
+   "ps-pp": {
+    "texte": "Le programme propose un « bon pour la démocratie » permettant à chaque citoyen de flécher une part du financement public vers le parti de son choix.",
+    "appuis": [
+     "p055bffaf"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose de remplacer la déduction fiscale des dons par un bon public distribué par chaque citoyen au parti de son choix.",
+    "appuis": [
+     "pdde0e659"
+    ]
+   }
+  }
+ },
+ {
+  "id": "fonction-publique",
+  "nom": "Fonction publique et gestion de l’État",
+  "variantes": [
+   "statut des fonctionnaires",
+   "contractuels",
+   "jour de carence",
+   "New Public Management",
+   "cabinets de conseil"
+  ],
+  "categorie": "institution",
+  "theme": "institutions",
+  "definition": "La fonction publique regroupe les agents de l’État, des collectivités territoriales et des hôpitaux, qui relèvent pour la plupart d’un statut général issu des lois de 1983 et 1984, désormais codifié. La loi de transformation de la fonction publique du 6 août 2019 a élargi le recours aux contractuels. Les agents publics supportent un jour de carence en cas d’arrêt maladie, contre trois dans le privé, souvent compensés par les employeurs. Le recours de l’État aux cabinets de conseil a fait l’objet d’une commission d’enquête du Sénat en 2022 ; le « New Public Management » désigne l’importation dans l’administration de méthodes de gestion issues du privé.",
+  "enjeux": "Les uns veulent recruter, titulariser les contractuels et mettre fin aux logiques de gestion jugées concurrentielles. Les autres veulent réduire les effectifs, par le non-remplacement de départs ou l’usage de l’intelligence artificielle, et aligner les règles sur le privé. La réforme de la haute fonction publique de 2021 est également discutée.",
+  "reperes": [
+   "Loi du 6 août 2019 de transformation de la fonction publique",
+   "Commission d’enquête du Sénat sur les cabinets de conseil (2022)"
+  ],
+  "liens": [
+   "agences-de-l-etat",
+   "simplification-administrative",
+   "france-services"
+  ],
+  "motifs": [
+   "fonction publique",
+   "titularisation",
+   "titularisés",
+   "contractuels",
+   "jours de carence",
+   "emplois publics",
+   "agents publics",
+   "cabinets de conseil",
+   "New Public Management",
+   "néo-managériales",
+   "départs à la retraite ne seront pas remplacés",
+   "postes manquants de fonctionnaires"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme prévoit de titulariser les contractuels et de rattraper les postes manquants de fonctionnaires à l’hôpital, à l’école et dans la justice.",
+    "appuis": [
+     "p6c3fbedf",
+     "pf01afc70"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose un plan de titularisation, l’arrêt du « New Public Management » et la fin de la dépendance aux cabinets de conseil.",
+    "appuis": [
+     "p753314f4",
+     "pdc1c079f",
+     "p83610559"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de revaloriser les salaires et de recruter, de mettre fin aux « logiques néo-managériales » et d’encadrer le recours aux cabinets de conseil.",
+    "appuis": [
+     "p460de51e",
+     "p7c0ef090",
+     "p70643b05"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de ne pas remplacer 125 000 départs à la retraite et de gagner l’équivalent de 250 000 emplois publics grâce à l’intelligence artificielle d’ici 2032.",
+    "appuis": [
+     "p67eb662c",
+     "p1b799fe8"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de rétablir trois jours de carence pour les fonctionnaires, de rétablir les corps préfectoral et diplomatique et de délocaliser des emplois publics vers les zones rurales.",
+    "appuis": [
+     "p511c5870",
+     "p8c0c27ae",
+     "pb26c768b"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de former tous les fonctionnaires à la transition écologique.",
+    "appuis": [
+     "pa910dbf7"
+    ]
+   }
+  }
+ },
+ {
+  "id": "agences-de-l-etat",
+  "nom": "Agences et opérateurs de l’État",
+  "variantes": [
+   "opérateurs",
+   "autorités administratives indépendantes",
+   "organismes publics"
+  ],
+  "categorie": "institution",
+  "theme": "institutions",
+  "definition": "Les agences et opérateurs de l’État sont des organismes dotés d’une autonomie juridique ou de gestion, chargés d’une mission de service public sous la tutelle d’un ministère : agences régionales de santé, Ademe, Office français de la biodiversité, France Travail et bien d’autres. Ils sont financés en grande partie par des subventions ou des taxes affectées. Leur nombre et leur coût sont régulièrement mis en cause dans les débats budgétaires, et une commission d’enquête du Sénat sur les missions des agences, opérateurs et organismes consultatifs de l’État a présenté ses conclusions en juillet 2025 : elle recensait 434 opérateurs et estimait que leur suppression ne produirait pas d’économies importantes sans réduction des politiques publiques elles-mêmes.",
+  "enjeux": "Leurs critiques dénoncent un démembrement de l’État, des doublons et un coût élevé, et proposent fusions et suppressions. Leurs défenseurs soulignent l’expertise et la continuité qu’ils apportent, et notent qu’une suppression transfère le plus souvent leurs missions sans les faire disparaître.",
+  "reperes": [
+   "Agences régionales de santé créées en 2010",
+   "Commission d’enquête du Sénat sur les agences, opérateurs et organismes consultatifs de l’État, conclusions présentées le 3 juillet 2025"
+  ],
+  "liens": [
+   "fonction-publique",
+   "simplification-administrative"
+  ],
+  "motifs": [
+   "agences publiques de l'État",
+   "agences et structures administratives",
+   "agences et organismes",
+   "organismes publics inutiles",
+   "rationalisation des agences"
+  ],
+  "positions": {
+   "rn": {
+    "texte": "Le programme propose un plan de rationalisation des agences, dont la suppression des ARS, et une baisse de 20 % des financements de certaines agences.",
+    "appuis": [
+     "pb726a2ec",
+     "pf8292259"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose un audit des agences, pouvant aboutir à la suppression de celles qui relèveraient de « logiques militantes ou idéologiques », et la suppression de 500 organismes publics.",
+    "appuis": [
+     "pe7bb6eda",
+     "p51bc5c60"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose de financer durablement les structures d’ingénierie publique comme le Cerema, l’Ademe et les CAUE.",
+    "appuis": [
+     "p1434c55d"
+    ]
+   }
+  }
+ },
+ {
+  "id": "simplification-administrative",
+  "nom": "Simplification administrative et normative",
+  "variantes": [
+   "silence vaut acceptation",
+   "étude d’impact",
+   "choc de simplification",
+   "règle du un pour un",
+   "désherbage normatif",
+   "états généraux de la simplification"
+  ],
+  "categorie": "politique publique",
+  "theme": "institutions",
+  "definition": "La simplification vise à réduire le nombre et la complexité des normes et des démarches imposées aux citoyens et aux entreprises. Depuis la loi du 12 novembre 2013, le silence gardé par l’administration pendant deux mois vaut en principe acceptation, avec de nombreuses exceptions. Les projets de loi doivent être accompagnés d’une étude d’impact depuis 2009, en application de la révision constitutionnelle de 2008. Des règles de compensation, qui imposent de supprimer des normes pour toute norme nouvelle, ont été adoptées par circulaire.",
+  "enjeux": "Ses promoteurs y voient un levier de compétitivité et de confiance envers l’administration, et veulent des mécanismes contraignants. Ses critiques mettent en garde contre la suppression de protections sociales ou environnementales sous couvert de simplification. Le débat porte sur ce qui relève de la complexité inutile et de la protection nécessaire.",
+  "reperes": [
+   "Loi du 12 novembre 2013 : le silence vaut acceptation",
+   "Études d’impact obligatoires depuis la loi organique du 15 avril 2009"
+  ],
+  "liens": [
+   "agences-de-l-etat",
+   "dematerialisation",
+   "fonction-publique",
+   "seuils-sociaux",
+   "agriculture-biologique",
+   "surtransposition"
+  ],
+  "motifs": [
+   "simplification administrative",
+   "loi annuelle de simplification",
+   "états généraux de la simplification",
+   "silence de l'administration",
+   "silence vaudra accord",
+   "doubles saisies",
+   "étude d'impact",
+   "évaluation préalable opposable",
+   "autorité indépendante de contrôle préalable",
+   "surtransposition",
+   "sur-transposition",
+   "désherbage",
+   "moratoire normatif",
+   "règles qui pénalisent",
+   "environnement réglementaire"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose une loi annuelle de simplification, une règle de compensation en valeur pour toute règle nouvelle, une autorité de contrôle des normes dotée d’un veto, le principe du « silence vaut acceptation », la suppression dès l’élection des cinquante règles qui pénalisent le plus la production, un « désherbage » normatif dans chaque département et l’interdiction de toute surtransposition par loi organique.",
+    "appuis": [
+     "p211fef8c",
+     "pc060ceb6",
+     "p4e84ccfc",
+     "pf138ad43",
+     "p3c39c280",
+     "pa4150f46"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose un Haut-Commissariat à la simplification administrative rattaché au Président, une étude d’impact pour toute loi, la fin de la surtransposition et une concertation des filières avant toute évolution réglementaire.",
+    "appuis": [
+     "p4b454725",
+     "pcb8bfeb4",
+     "p1bc20f93",
+     "pa0f18e71"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit des états généraux de la simplification et des règles différenciées selon la taille des entreprises.",
+    "appuis": [
+     "pab6648a4",
+     "p193aed0c",
+     "p5a11d4f5"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose de supprimer toutes les doubles saisies dans les démarches administratives.",
+    "appuis": [
+     "p10ad3350"
+    ]
+   }
+  },
+  "autres_themes": [
+   "travail"
+  ]
+ },
+ {
+  "id": "subventions-associations",
+  "nom": "Financement et contrôle des associations",
+  "variantes": [
+   "subventions aux associations",
+   "agrément",
+   "vie associative"
+  ],
+  "categorie": "politique publique",
+  "theme": "institutions",
+  "definition": "Les associations régies par la loi du 1er juillet 1901 peuvent recevoir des subventions publiques de l’État ou des collectivités, attribuées librement ou par appels à projets, et certaines bénéficient d’un agrément qui leur ouvre des droits, comme celui d’agir en justice pour la protection de l’environnement. Depuis 2021, toute association subventionnée doit souscrire le contrat d’engagement républicain. Le Fonds pour le développement de la vie associative soutient la formation des bénévoles et le fonctionnement des petites associations.",
+  "enjeux": "Une partie des partis veut supprimer les subventions des associations jugées « politisées » ou « militantes », ou restreindre leur agrément et leur capacité à agir en justice. D’autres défendent la liberté associative, des financements stables et pluriannuels plutôt que des appels à projets, et l’abrogation du contrat d’engagement républicain.",
+  "reperes": [
+   "Loi du 1er juillet 1901 relative au contrat d’association"
+  ],
+  "liens": [
+   "loi-separatisme",
+   "transparence-vie-publique"
+  ],
+  "motifs": [
+   "subventions aux associations",
+   "associations politisées",
+   "associations militantes",
+   "agribashing",
+   "Vie Associative",
+   "conventions d'objectifs",
+   "libertés syndicales et associatives",
+   "transformer l'agrément"
+  ],
+  "positions": {
+   "reconquete": {
+    "texte": "Le programme propose de supprimer les subventions des associations « politisées » selon trois critères et d’interdire aux associations « militantes » d’aller en justice contre leurs opposants.",
+    "appuis": [
+     "p2a1a1905",
+     "p7b692529"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de supprimer les subventions aux structures qui pratiquent l’« agribashing » et de rendre l’agrément des associations environnementales « strict, sélectif et réversible ».",
+    "appuis": [
+     "p5a4b5844",
+     "pc2caabd5"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de baisser les subventions aux associations ne relevant pas de l’intérêt général.",
+    "appuis": [
+     "p3aac1e61"
+    ]
+   },
+   "ecologistes": {
+    "texte": "Le programme propose un socle de financement stable, des conventions d’objectifs plutôt que des appels à projets et le renforcement du fonds de développement de la vie associative.",
+    "appuis": [
+     "pa6135c0e",
+     "pd0984b25",
+     "p84ec4453"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de défendre les libertés associatives et syndicales et d’« en finir avec leur répression ».",
+    "appuis": [
+     "p4422bef5"
+    ]
+   }
+  }
+ }
+]

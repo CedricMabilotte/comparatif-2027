@@ -1,0 +1,1975 @@
+[
+ {
+  "id": "savoirs-fondamentaux",
+  "terme": "« Savoirs fondamentaux »",
+  "variantes": [
+   "fondamentaux",
+   "lire, écrire, compter"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Expression qui désigne la lecture, l’écriture et le calcul, parfois élargis à l’histoire ou aux sciences, comme cœur des apprentissages du primaire.",
+  "usage": "Dans les textes étudiés, l’expression est employée par Les Républicains, Reconquête et le Rassemblement national, souvent avec le verbe « recentrer », qui suggère une dérive antérieure des programmes. Les partis de gauche parlent plutôt de « socle commun » ou d’« émancipation », et défendent des enseignements que la droite range parmi les « éducations à ».",
+  "concurrents": [
+   "socle commun",
+   "éducations à",
+   "émancipation"
+  ],
+  "notions": [
+   "savoirs-fondamentaux"
+  ],
+  "motifs": [
+   "savoirs fondamentaux",
+   "lire, écrire, compter",
+   "lire, écrire et compter",
+   "disciplines fondamentales"
+  ]
+ },
+ {
+  "id": "educations-a",
+  "terme": "« Éducations à »",
+  "variantes": [
+   "éducations à ceci ou cela"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Désignation collective des enseignements transversaux : éducation au développement durable, aux médias, à la santé, à la vie affective, à l’égalité.",
+  "usage": "Les Écologistes emploient l’expression de façon descriptive pour demander des moyens. Les Républicains la reprennent entre guillemets, avec « ceci ou cela », pour dénoncer une « dispersion » qui aurait « grignoté » les heures de français et de mathématiques.",
+  "concurrents": [
+   "savoirs fondamentaux",
+   "enseignements transversaux"
+  ],
+  "notions": [
+   "educations-a",
+   "evars"
+  ],
+  "motifs": [
+   "« éducations à »",
+   "éducations à"
+  ]
+ },
+ {
+  "id": "college-uniforme",
+  "terme": "« Collège uniforme »",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Jeu de mots sur le « collège unique », issu de la réforme de 1975, pour en critiquer l’uniformité.",
+  "usage": "La formule figure dans le programme des Républicains, qui veulent mettre fin au collège unique « devenu au fil des décennies un collège uniforme ». Elle présente l’égalité de traitement comme une absence d’adaptation aux élèves ; les défenseurs du dispositif parlent de « tronc commun » ou d’« école commune ».",
+  "concurrents": [
+   "collège unique",
+   "tronc commun",
+   "école commune"
+  ],
+  "notions": [
+   "college-unique"
+  ],
+  "motifs": [
+   "collège uniforme"
+  ]
+ },
+ {
+  "id": "choc-des-savoirs",
+  "terme": "« Choc des savoirs »",
+  "variantes": [
+   "Choc des savoirs"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Nom donné en 2023 par le ministre Gabriel Attal à un ensemble de mesures, dont les groupes de niveau en français et mathématiques au collège.",
+  "usage": "Le nom, choisi pour suggérer une rupture, est revendiqué par Renaissance. Les Écologistes et La France insoumise le reprennent entre guillemets pour en demander l’abrogation, et ses opposants parlent souvent de « tri » des élèves ; le ministère a lui-même ensuite parlé de « groupes de besoins » plutôt que de « groupes de niveau ».",
+  "concurrents": [
+   "groupes de besoins",
+   "tri des élèves"
+  ],
+  "notions": [
+   "choc-des-savoirs"
+  ],
+  "motifs": [
+   "choc des savoirs"
+  ]
+ },
+ {
+  "id": "groupes-de-niveau",
+  "terme": "Groupes de niveau",
+  "variantes": [
+   "classes de niveaux",
+   "groupes homogènes",
+   "groupes de besoins"
+  ],
+  "registre": "technique",
+  "theme": "education",
+  "definition": "Organisation qui regroupe les élèves selon leur niveau dans une discipline, pour tout ou partie des heures, plutôt que dans des classes hétérogènes.",
+  "usage": "Les Républicains et Reconquête emploient « groupes de niveau » ou « classes de niveaux » et « groupes homogènes ». Les opposants y voient un « tri » ; le terme administratif de « groupes de besoins » met l’accent sur l’aide apportée plutôt que sur le classement.",
+  "concurrents": [
+   "groupes de besoins",
+   "classes hétérogènes"
+  ],
+  "notions": [
+   "choc-des-savoirs",
+   "college-unique"
+  ],
+  "motifs": [
+   "groupes de niveau",
+   "groupes de niveaux",
+   "classes de niveaux",
+   "groupes homogènes"
+  ]
+ },
+ {
+  "id": "emancipation",
+  "terme": "Émancipation",
+  "variantes": [
+   "émancipateur",
+   "émancipation citoyenne"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Idée selon laquelle l’éducation doit permettre à chacun de se libérer des déterminismes sociaux et de penser par soi-même.",
+  "usage": "Le terme est employé par La France insoumise (« redonner à l’école publique son objectif d’émancipation ») et le PS-Place publique (« passeport pour l’émancipation citoyenne »), dans la tradition de l’éducation populaire. La droite met davantage en avant la « transmission » des savoirs et l’« exigence ».",
+  "concurrents": [
+   "transmission",
+   "instruction"
+  ],
+  "notions": [
+   "education-populaire",
+   "choc-des-savoirs"
+  ],
+  "motifs": [
+   "objectif d'émancipation",
+   "but émancipateur",
+   "émancipation citoyenne"
+  ]
+ },
+ {
+  "id": "transmission",
+  "terme": "Transmission",
+  "variantes": [
+   "transmission des savoirs",
+   "transmettre"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Conception de l’école centrée sur le passage des connaissances et de l’héritage culturel d’une génération à l’autre.",
+  "usage": "Reconquête en fait un mot-titre, avec un « ministère d’État du Savoir et de la Transmission » et des primes fondées sur « la qualité de la transmission du savoir ». Le terme insiste sur l’autorité du savoir et du maître ; ses critiques lui opposent l’« émancipation » ou les pédagogies actives.",
+  "concurrents": [
+   "émancipation",
+   "construction des savoirs",
+   "pédagogies actives"
+  ],
+  "notions": [
+   "savoirs-fondamentaux"
+  ],
+  "motifs": [
+   "transmission du savoir",
+   "Savoir et de la Transmission"
+  ]
+ },
+ {
+  "id": "instruction-publique",
+  "terme": "Instruction publique",
+  "variantes": [
+   "instruction"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Nom du ministère chargé de l’enseignement jusqu’en 1932, date à laquelle il est devenu le ministère de l’Éducation nationale.",
+  "usage": "Reconquête reprend ce nom pour son projet de ministère, ce qui marque la préférence pour l’« instruction », transmission des connaissances, sur l’« éducation », qui inclut les valeurs et les comportements, perçue comme relevant des familles.",
+  "concurrents": [
+   "Éducation nationale",
+   "éducation"
+  ],
+  "notions": [],
+  "motifs": [
+   "Instruction publique"
+  ]
+ },
+ {
+  "id": "sanctuaire",
+  "terme": "Sanctuaire",
+  "variantes": [
+   "école sanctuaire",
+   "sanctuariser l’école"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Image de l’école comme lieu protégé des influences et des violences extérieures.",
+  "usage": "Reconquête veut interdire la « propagande idéologique » pour « refaire » de l’école « un sanctuaire ». L’image, ancienne et utilisée aussi à propos de la laïcité, suppose une menace venue du dehors ; d’autres courants parlent d’« école ouverte » sur son territoire et ses associations.",
+  "concurrents": [
+   "école ouverte"
+  ],
+  "notions": [
+   "autorite-et-discipline"
+  ],
+  "motifs": [
+   "sanctuaire"
+  ]
+ },
+ {
+  "id": "propagande-ideologique",
+  "terme": "« Propagande idéologique »",
+  "variantes": [
+   "idéologie délétère",
+   "idéologie à l’école"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Accusation portée contre certains contenus ou interventions à l’école, jugés militants plutôt qu’éducatifs.",
+  "usage": "Reconquête propose d’interdire « toute forme de propagande idéologique à l’école », et le Rassemblement national accuse les INSPE de « diffuser une idéologie délétère ». Les termes visent, sans les nommer, des contenus sur le genre, les discriminations ou l’écologie, que leurs promoteurs présentent comme des « éducations à » l’égalité ou à l’esprit critique.",
+  "concurrents": [
+   "liberté pédagogique",
+   "éducation à l’égalité",
+   "esprit critique"
+  ],
+  "notions": [
+   "evars",
+   "educations-a",
+   "formation-des-enseignants"
+  ],
+  "motifs": [
+   "propagande idéologique",
+   "idéologie délétère"
+  ]
+ },
+ {
+  "id": "marchandisation-de-l-ecole",
+  "terme": "Marchandisation de l’école",
+  "variantes": [
+   "marchandisation"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Critique de l’entrée de logiques commerciales et d’acteurs privés dans l’éducation : partenariats d’entreprises, officines, enseignement privé lucratif.",
+  "usage": "Les Écologistes refusent « la marchandisation de l’école » en interdisant les partenariats avec des « associations parapatronales ». La droite parle plutôt d’« ouverture sur l’entreprise » et de rapprochement entre formation et emploi.",
+  "concurrents": [
+   "ouverture sur l’entreprise",
+   "partenariats école-entreprise"
+  ],
+  "notions": [
+   "enseignement-superieur-prive"
+  ],
+  "motifs": [
+   "marchandisation de l'école"
+  ]
+ },
+ {
+  "id": "associations-parapatronales",
+  "terme": "« Associations parapatronales »",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Désignation critique d’associations liées aux organisations d’employeurs qui interviennent dans les établissements, par exemple pour faire découvrir l’entreprise.",
+  "usage": "Le terme, employé par Les Écologistes, souligne le lien de ces structures avec le patronat ; elles se présentent elles-mêmes comme des associations d’éducation à l’entrepreneuriat ou de découverte des métiers.",
+  "concurrents": [
+   "éducation à l’entrepreneuriat",
+   "découverte des métiers"
+  ],
+  "notions": [
+   "orientation-scolaire"
+  ],
+  "motifs": [
+   "parapatronales"
+  ]
+ },
+ {
+  "id": "excellence",
+  "terme": "Excellence",
+  "variantes": [
+   "voie d’excellence",
+   "internats d’excellence",
+   "classes d’excellence"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Terme qui qualifie des filières, des établissements ou des dispositifs réservés aux élèves les plus performants.",
+  "usage": "Les Républicains (« voie d’excellence » des classes préparatoires, « internats d’excellence », « bourses d’excellence ») et Reconquête (« classes d’excellence », « Primes d’Excellence Professorale ») l’emploient fréquemment. La gauche parle plutôt de « réussite de tous » et de « démocratisation ».",
+  "concurrents": [
+   "réussite de tous",
+   "démocratisation"
+  ],
+  "notions": [
+   "classes-preparatoires",
+   "discrimination-positive"
+  ],
+  "motifs": [
+   "voie d'excellence",
+   "internats d'excellence",
+   "externats d'excellence",
+   "classes d'excellence",
+   "bourses d'excellence",
+   "Primes d'Excellence Professorale"
+  ]
+ },
+ {
+  "id": "elite",
+  "terme": "Élite",
+  "variantes": [
+   "nouvelle élite",
+   "programmes d’élite"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Groupe restreint formé pour occuper les positions les plus qualifiées.",
+  "usage": "Reconquête veut « former une nouvelle élite » par des classes d’excellence, et Les Républicains des « programmes d’élite » en intelligence artificielle. Le terme est assumé à droite comme un objectif ; à gauche, il est plutôt employé de façon critique, en lien avec la reproduction sociale.",
+  "concurrents": [
+   "égalité des chances",
+   "démocratisation"
+  ],
+  "notions": [
+   "classes-preparatoires"
+  ],
+  "motifs": [
+   "nouvelle élite",
+   "programmes d'élite"
+  ]
+ },
+ {
+  "id": "merite",
+  "terme": "Mérite",
+  "variantes": [
+   "méritocratie",
+   "au mérite"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Principe selon lequel les places et les récompenses doivent revenir à ceux qui les obtiennent par leurs efforts et leurs résultats.",
+  "usage": "Le mot est employé par Les Républicains (« bourses au mérite », recruter « au mérite »), Reconquête et le Rassemblement national (« mérite » dans la carrière des enseignants). Ses critiques soulignent que la réussite scolaire dépend fortement de l’origine sociale et parlent d’« égalité réelle ».",
+  "concurrents": [
+   "égalité réelle",
+   "égalité des chances"
+  ],
+  "notions": [
+   "discrimination-positive",
+   "bourses-sur-criteres-sociaux"
+  ],
+  "motifs": [
+   "au mérite",
+   "mérite des enfants",
+   "Revalorisation du mérite"
+  ]
+ },
+ {
+  "id": "talents",
+  "terme": "Talents",
+  "variantes": [
+   "détection des talents",
+   "talents numériques"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Désignation des personnes aux aptitudes remarquables, issue du vocabulaire des ressources humaines.",
+  "usage": "Les Républicains l’emploient pour un « programme national de détection des talents », « 1 million de talents numériques » et un « Fonds national des talents émergents ». Le terme met l’accent sur des aptitudes individuelles à repérer plutôt que sur des apprentissages à construire.",
+  "concurrents": [
+   "compétences",
+   "potentiel"
+  ],
+  "notions": [
+   "ia-a-l-ecole"
+  ],
+  "motifs": [
+   "détection des talents",
+   "talents numériques",
+   "talents émergents"
+  ]
+ },
+ {
+  "id": "autorite",
+  "terme": "Autorité",
+  "variantes": [
+   "rétablir l’autorité",
+   "autorité des professeurs"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Capacité reconnue à l’enseignant, au chef d’établissement et à l’institution de faire respecter les règles.",
+  "usage": "Le mot structure les propositions des Républicains, de Reconquête et du Rassemblement national, souvent avec le verbe « rétablir », qui suppose une perte. La gauche emploie davantage les termes de « climat scolaire », de « prévention » et de « vie scolaire ».",
+  "concurrents": [
+   "climat scolaire",
+   "prévention",
+   "vie scolaire"
+  ],
+  "notions": [
+   "autorite-et-discipline",
+   "uniforme-scolaire"
+  ],
+  "motifs": [
+   "autorité et la discipline",
+   "autorité des professeurs",
+   "autorité de l'institution scolaire",
+   "pouvoirs d'autorité et de sanction",
+   "autorité réelle sur son équipe"
+  ]
+ },
+ {
+  "id": "bureaucratie",
+  "terme": "Bureaucratie",
+  "variantes": [
+   "administration administrante"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Critique du poids des structures administratives et des procédures au détriment de l’enseignement.",
+  "usage": "Le Rassemblement national veut « supprimer la bureaucratie de l’Éducation nationale » pour libérer des moyens, et Les Républicains dénoncent « l’administration administrante ». Le terme présente l’encadrement comme improductif ; ses défenseurs parlent de « personnels administratifs » ou de « fonctions support ».",
+  "concurrents": [
+   "personnels administratifs",
+   "fonctions support"
+  ],
+  "notions": [
+   "autonomie-des-etablissements"
+  ],
+  "motifs": [
+   "bureaucratie",
+   "administration administrante"
+  ]
+ },
+ {
+  "id": "demassifier",
+  "terme": "Démassifier",
+  "variantes": [
+   "démassification"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Réduire le nombre d’étudiants dans certaines filières de l’enseignement supérieur, au profit d’études plus courtes ou professionnelles.",
+  "usage": "Le terme est employé par Renaissance, qui propose de « démassifier l’enseignement supérieur ». Il présente l’afflux d’étudiants comme un problème ; la gauche parle au contraire de « démocratisation » de l’université et de places à créer.",
+  "concurrents": [
+   "démocratisation",
+   "massification"
+  ],
+  "notions": [
+   "selection-a-l-universite"
+  ],
+  "motifs": [
+   "démassifier"
+  ]
+ },
+ {
+  "id": "democratiser-l-universite",
+  "terme": "Démocratiser l’université",
+  "variantes": [
+   "démocratisation",
+   "droit aux études supérieures"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Ouvrir l’accès à l’enseignement supérieur à toutes les catégories sociales.",
+  "usage": "La France insoumise veut « démocratiser l’université » en abolissant Parcoursup, et Les Écologistes « réhabiliter le droit à des études supérieures ». Ces formules s’opposent à la « sélection » et à la « démassification » défendues à droite et au centre.",
+  "concurrents": [
+   "démassifier",
+   "sélection"
+  ],
+  "notions": [
+   "parcoursup",
+   "selection-a-l-universite"
+  ],
+  "motifs": [
+   "Démocratiser l'université",
+   "droit à des études supérieures"
+  ]
+ },
+ {
+  "id": "mixite-sociale",
+  "terme": "Mixité sociale",
+  "variantes": [
+   "mixité scolaire",
+   "mixité"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Coexistence, dans un même quartier, une même commune ou un même établissement, de populations de milieux sociaux différents. C'est un objectif affiché des politiques du logement depuis la loi SRU.",
+  "usage": "À l’école, le terme est porté par Les Écologistes, La France insoumise et le PS-Place publique, qui en font un critère de dotation et d’affectation. La droite ne l’emploie pas dans ses textes sur l’école et met en avant la « liberté de choix » des familles et la « liberté d’enseignement ». Pour le logement, le mot est partagé, mais pour des politiques opposées : le PS, les écologistes et LFI l'invoquent pour imposer des logements sociaux dans les communes aisées, LR pour plafonner la part de logements très sociaux dans les communes qui en comptent beaucoup.",
+  "concurrents": [
+   "liberté de choix",
+   "liberté d’enseignement",
+   "ghettoïsation",
+   "ségrégation"
+  ],
+  "notions": [
+   "mixite-sociale-a-l-ecole",
+   "carte-scolaire",
+   "logement-social"
+  ],
+  "motifs": [
+   "mixité sociale",
+   "mixité"
+  ],
+  "autres_themes": [
+   "travail"
+  ]
+ },
+ {
+  "id": "liberte-d-enseignement",
+  "terme": "Liberté d’enseignement",
+  "variantes": [
+   "liberté de l’enseignement",
+   "école libre"
+  ],
+  "registre": "juridique",
+  "theme": "education",
+  "definition": "Principe à valeur constitutionnelle qui permet l’existence d’établissements privés et l’instruction en famille, à côté de l’enseignement public.",
+  "usage": "Le Rassemblement national l’invoque pour « renforcer » l’instruction en famille, et Les Républicains défendent un enseignement privé « plébiscité ». La gauche insiste plutôt sur l’« école publique » et sur les obligations de mixité du privé financé par l’État.",
+  "concurrents": [
+   "école publique",
+   "service public de l’éducation"
+  ],
+  "notions": [
+   "enseignement-prive-sous-contrat",
+   "instruction-en-famille"
+  ],
+  "motifs": [
+   "liberté d'enseignement"
+  ]
+ },
+ {
+  "id": "service-public-de-l-education",
+  "terme": "Service public de l’éducation",
+  "variantes": [
+   "service public de l’orientation",
+   "service public d’accompagnement"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Désignation de l’éducation comme mission de l’État assurée selon les principes d’égalité, de continuité et de gratuité.",
+  "usage": "Les Écologistes et La France insoumise emploient la formule pour demander l’intégration du privé, un service public de l’orientation et un service public d’accompagnement des élèves handicapés. Elle s’oppose à la « liberté d’enseignement » et au rapprochement avec les entreprises promu à droite.",
+  "concurrents": [
+   "liberté d’enseignement",
+   "autonomie des établissements"
+  ],
+  "notions": [
+   "enseignement-prive-sous-contrat",
+   "ecole-inclusive",
+   "orientation-scolaire"
+  ],
+  "motifs": [
+   "service public de l'éducation",
+   "service public d'accompagnement",
+   "service public de l'orientation"
+  ]
+ },
+ {
+  "id": "ecriture-inclusive",
+  "terme": "Écriture inclusive",
+  "variantes": [
+   "point médian"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Ensemble de pratiques graphiques et syntaxiques visant à représenter également les femmes et les hommes, par exemple le point médian (« enseignant·es »).",
+  "usage": "Reconquête veut faire respecter « l’interdiction de l’écriture inclusive » jusque dans le supérieur, en référence à une circulaire de 2021 qui la proscrit à l’école. Les Écologistes emploient le point médian dans leur propre programme. Ses partisans parlent d’« écriture égalitaire » ou de « langage non sexiste ».",
+  "concurrents": [
+   "langage non sexiste",
+   "écriture égalitaire"
+  ],
+  "notions": [],
+  "motifs": [
+   "écriture inclusive"
+  ]
+ },
+ {
+  "id": "communautarisme",
+  "terme": "Communautarisme",
+  "variantes": [
+   "séparatisme"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Terme désignant le repli d’un groupe sur une identité religieuse ou culturelle, au détriment de l’appartenance commune.",
+  "usage": "Reconquête l’emploie pour justifier la blouse obligatoire. Le terme, très présent dans le débat sur la laïcité (voir le thème Institutions), est contesté par ceux qui y voient une stigmatisation des musulmans et préfèrent parler de « discriminations » ou de « ségrégation ».",
+  "concurrents": [
+   "discriminations",
+   "ségrégation"
+  ],
+  "notions": [
+   "uniforme-scolaire"
+  ],
+  "motifs": [
+   "communautarisme"
+  ]
+ },
+ {
+  "id": "menees-islamistes",
+  "terme": "« Menées islamistes »",
+  "variantes": [
+   "entrisme",
+   "atteintes à la laïcité"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Expression désignant des actions de prosélytisme ou de pression religieuse attribuées à des militants islamistes dans les établissements.",
+  "usage": "Le Rassemblement national l’emploie pour justifier un « retour à la laïcité » dans certains établissements. La question relève du thème Institutions ; d’autres partis parlent d’« atteintes à la laïcité » ou de « pressions religieuses ».",
+  "concurrents": [
+   "atteintes à la laïcité",
+   "pressions religieuses"
+  ],
+  "notions": [],
+  "motifs": [
+   "menées islamistes"
+  ]
+ },
+ {
+  "id": "neutralite-des-enseignants",
+  "terme": "Neutralité des enseignants",
+  "variantes": [
+   "neutralité absolue"
+  ],
+  "registre": "juridique",
+  "theme": "education",
+  "definition": "Obligation faite aux agents publics de ne pas manifester leurs opinions religieuses ou politiques dans l’exercice de leurs fonctions.",
+  "usage": "Le Rassemblement national demande une « neutralité absolue » des enseignants en matière politique, idéologique et religieuse. La neutralité religieuse est déjà une obligation ; l’extension à l’« idéologique » est discutée par ceux qui invoquent la liberté pédagogique.",
+  "concurrents": [
+   "liberté pédagogique",
+   "devoir de réserve"
+  ],
+  "notions": [
+   "autonomie-des-etablissements"
+  ],
+  "motifs": [
+   "neutralité absolue"
+  ]
+ },
+ {
+  "id": "histoire-de-france",
+  "terme": "Histoire de France",
+  "variantes": [
+   "héros français",
+   "roman national"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Enseignement de l’histoire centré sur la nation, ses figures et ses grands événements.",
+  "usage": "Les Républicains veulent recentrer le primaire sur « l’histoire et la géographie de la France » et créer une « Journée des héros français » ; le Rassemblement national fait de « l’histoire de France » une priorité. Les Écologistes et le PS-Place publique insistent plutôt sur l’« histoire coloniale » et la « coopération mémorielle ». Le terme « roman national » n’apparaît pas dans les textes étudiés.",
+  "concurrents": [
+   "histoire coloniale",
+   "histoire commune",
+   "roman national"
+  ],
+  "notions": [
+   "savoirs-fondamentaux"
+  ],
+  "motifs": [
+   "héros français",
+   "histoire de France",
+   "histoire et la géographie de la France"
+  ]
+ },
+ {
+  "id": "histoire-coloniale",
+  "terme": "Histoire coloniale",
+  "variantes": [
+   "coopération mémorielle",
+   "décolonisation"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Enseignement et mémoire de la colonisation et de la décolonisation.",
+  "usage": "Les Écologistes veulent mieux intégrer aux programmes « l’histoire coloniale, l’histoire du racisme » et des « luttes de libération », et le PS-Place publique une « coopération mémorielle » sur la colonisation. Leurs opposants dénoncent une « repentance » ; Horizons critique ainsi « l’esprit de défaite, de repentance et de honte ».",
+  "concurrents": [
+   "repentance",
+   "histoire de France"
+  ],
+  "notions": [],
+  "motifs": [
+   "histoire coloniale",
+   "coopération mémorielle",
+   "anciens pays colonisés"
+  ]
+ },
+ {
+  "id": "egalite-des-chances",
+  "terme": "Égalité des chances",
+  "variantes": [
+   "mêmes chances",
+   "toutes ses chances"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Principe selon lequel chacun doit avoir les mêmes possibilités de réussir, quelle que soit son origine.",
+  "usage": "Les Républicains (« la condition d’une véritable égalité des chances ») et Renaissance (« donner les mêmes chances à tous ») emploient la formule, qui insiste sur le point de départ ; le Rassemblement national l’invoquait en 2022 pour dénoncer son recul. La gauche parle plutôt d’« égalité réelle » ou de « mixité sociale », qui visent aussi les résultats.",
+  "concurrents": [
+   "égalité réelle",
+   "mérite",
+   "mixité sociale"
+  ],
+  "notions": [
+   "discrimination-positive",
+   "education-prioritaire"
+  ],
+  "motifs": [
+   "mêmes chances",
+   "toutes ses chances",
+   "égalité des chances"
+  ]
+ },
+ {
+  "id": "besoins-de-l-economie",
+  "terme": "Besoins de l’économie",
+  "variantes": [
+   "adéquation formation-emploi",
+   "besoins des entreprises",
+   "métiers de demain"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Justification des politiques de formation par les compétences recherchées par les employeurs.",
+  "usage": "La formule est employée par Les Républicains, Reconquête, Renaissance (« besoins de la Nation ») et le Rassemblement national (« besoins réels des branches professionnelles »). La gauche lui oppose une formation générale « émancipatrice » et critique une « adéquation » de court terme.",
+  "concurrents": [
+   "émancipation",
+   "formation générale"
+  ],
+  "notions": [
+   "voie-professionnelle",
+   "apprentissage",
+   "orientation-scolaire"
+  ],
+  "motifs": [
+   "besoins réels de l'économie",
+   "besoins de la Nation",
+   "besoins des entreprises",
+   "besoins réels des branches",
+   "réalités économiques",
+   "métiers de demain"
+  ]
+ },
+ {
+  "id": "metiers-manuels",
+  "terme": "Métiers manuels",
+  "variantes": [
+   "revaloriser les métiers manuels"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Métiers qui reposent principalement sur un savoir-faire technique ou physique.",
+  "usage": "Reconquête et Renaissance veulent « revaloriser » ou « valoriser » ces métiers, ce qui suppose qu’ils sont dévalorisés par l’orientation actuelle. La gauche parle plutôt de « voie professionnelle » et de « lycées professionnels », en défendant leur place dans l’Éducation nationale.",
+  "concurrents": [
+   "voie professionnelle",
+   "métiers techniques"
+  ],
+  "notions": [
+   "voie-professionnelle"
+  ],
+  "motifs": [
+   "métiers manuels"
+  ]
+ },
+ {
+  "id": "eleves-perturbateurs",
+  "terme": "Élèves perturbateurs",
+  "variantes": [
+   "comportements antiscolaires",
+   "incivilités"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Désignation des élèves dont le comportement empêche le déroulement normal des cours.",
+  "usage": "Reconquête emploie « élèves perturbateurs » et le Rassemblement national « comportements antiscolaires » et « incivilités », pour justifier des sanctions et des structures d’éloignement. La gauche parle plutôt d’« élèves en difficulté » ou de « décrochage » et met l’accent sur l’accompagnement.",
+  "concurrents": [
+   "élèves en difficulté",
+   "décrochage scolaire"
+  ],
+  "notions": [
+   "autorite-et-discipline"
+  ],
+  "motifs": [
+   "élèves perturbateurs",
+   "comportements antiscolaires",
+   "incivilités"
+  ]
+ },
+ {
+  "id": "responsabiliser-les-familles",
+  "terme": "Responsabiliser les familles",
+  "variantes": [
+   "responsabilisation des parents"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Formule qui désigne des mesures visant à rendre les parents comptables du comportement ou de l’assiduité de leurs enfants, y compris par des sanctions financières.",
+  "usage": "Reconquête et Les Républicains l’emploient pour justifier la suspension ou la réduction des allocations familiales. Le mot présente la sanction comme un levier éducatif ; ses opposants y voient une sanction qui touche d’abord les familles pauvres et défendent la « coéducation ».",
+  "concurrents": [
+   "coéducation",
+   "soutien à la parentalité"
+  ],
+  "notions": [
+   "autorite-et-discipline"
+  ],
+  "motifs": [
+   "Responsabiliser les familles",
+   "seront responsabilisés"
+  ]
+ },
+ {
+  "id": "pacte-enseignant",
+  "terme": "« Pacte »",
+  "variantes": [
+   "pacte enseignant",
+   "missions supplémentaires"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Dispositif créé à la rentrée 2023 qui rémunère des missions supplémentaires accomplies par les enseignants volontaires, comme le remplacement de courte durée ou le soutien scolaire.",
+  "usage": "Renaissance le présente comme un « pacte » : « de nouvelles missions et des rémunérations augmentées ». Les Républicains le récusent comme « un énième “Pacte” de primes conditionnées » et lui opposent une revalorisation « nette et lisible ». Une partie des syndicats enseignants lui reproche de conditionner la hausse de rémunération à un surcroît de travail.",
+  "concurrents": [
+   "revalorisation sans contrepartie",
+   "dégel du point d’indice"
+  ],
+  "notions": [
+   "revalorisation-des-enseignants"
+  ],
+  "motifs": [
+   "« Pacte »",
+   "pacte proposé à tous les enseignants"
+  ]
+ },
+ {
+  "id": "ecole-normale",
+  "terme": "École normale",
+  "variantes": [
+   "École Normale du Professorat",
+   "Écoles normales supérieures régionales"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Établissement de formation des instituteurs créé au XIXe siècle dans chaque département et remplacé par les IUFM en 1990.",
+  "usage": "Les Républicains (« renaîtra une École Normale du Professorat ») et Reconquête reprennent ce nom, qui évoque l’école de la IIIe République et une formation tenue hors de l’université. Les partisans du modèle universitaire parlent d’INSPE et de « formation par la recherche ».",
+  "concurrents": [
+   "INSPE",
+   "formation universitaire des enseignants"
+  ],
+  "notions": [
+   "formation-des-enseignants"
+  ],
+  "motifs": [
+   "École Normale du Professorat",
+   "Écoles normales supérieures régionales"
+  ]
+ },
+ {
+  "id": "formation-des-maitres",
+  "terme": "Formation des maîtres",
+  "variantes": [
+   "maîtres",
+   "élèves-professeurs"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Ancienne désignation de la formation des enseignants, en particulier du primaire, longtemps appelés « maîtres » ou « instituteurs ».",
+  "usage": "Les Républicains emploient « formation des maîtres » et « élèves-professeurs », vocabulaire de l’ancienne École normale qui met l’accent sur l’autorité du maître. Le vocabulaire administratif actuel parle de « professeurs des écoles » et de « formation initiale ».",
+  "concurrents": [
+   "formation initiale",
+   "professeurs des écoles"
+  ],
+  "notions": [
+   "formation-des-enseignants"
+  ],
+  "motifs": [
+   "formation des maîtres",
+   "élèves-professeurs"
+  ]
+ },
+ {
+  "id": "exigence",
+  "terme": "Exigence",
+  "variantes": [
+   "exigeant",
+   "voie exigeante"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Valeur qui met en avant le haut niveau attendu des élèves et des enseignants.",
+  "usage": "Le terme est employé par Reconquête (« voie exigeante », concours « plus exigeants »), Les Républicains (tronc commun « plus exigeant ») et Renaissance (formation à l’IA « exigeante »). Il suggère un relâchement antérieur ; à gauche, on parle plutôt de « bienveillance » ou de « réussite de tous ».",
+  "concurrents": [
+   "bienveillance",
+   "réussite de tous"
+  ],
+  "notions": [
+   "savoirs-fondamentaux",
+   "formation-des-enseignants"
+  ],
+  "motifs": [
+   "plus exigeant",
+   "plus exigeants",
+   "voie exigeante",
+   "exigeante"
+  ]
+ },
+ {
+  "id": "moyenne-europeenne",
+  "terme": "Moyenne européenne",
+  "variantes": [
+   "meilleurs systèmes éducatifs européens"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Référence aux moyennes des pays européens ou de l’OCDE pour comparer les effectifs, les salaires ou le temps scolaire.",
+  "usage": "La comparaison sert d’argument à presque tous les partis : La France insoumise et Renaissance pour réduire les effectifs, Les Républicains pour aligner les salaires et raccourcir les vacances. Le choix des pays comparés et des indicateurs n’est pas toujours précisé.",
+  "concurrents": [
+   "exception française"
+  ],
+  "notions": [
+   "effectifs-par-classe",
+   "revalorisation-des-enseignants"
+  ],
+  "motifs": [
+   "moyenne européenne de 19 élèves",
+   "début de carrière sur la moyenne européenne",
+   "moyenne des pays européens",
+   "meilleurs systèmes éducatifs européens",
+   "parmi les plus longues d'Europe"
+  ]
+ },
+ {
+  "id": "baisse-demographique",
+  "terme": "Baisse démographique",
+  "variantes": [
+   "recul démographique"
+  ],
+  "registre": "technique",
+  "theme": "education",
+  "definition": "Diminution du nombre d’élèves liée au recul des naissances depuis le milieu des années 2010, qui réduit les effectifs du primaire puis du secondaire.",
+  "usage": "Les Républicains et Renaissance y voient une marge pour revaloriser les enseignants ou alléger les classes « à taux d’encadrement constant ». D’autres y voient surtout un risque de fermetures de classes, en particulier en zone rurale.",
+  "concurrents": [
+   "fermetures de classes",
+   "taux d’encadrement"
+  ],
+  "notions": [
+   "effectifs-par-classe",
+   "revalorisation-des-enseignants",
+   "fermetures-d-ecoles-rurales"
+  ],
+  "motifs": [
+   "baisse démographique",
+   "taux d'encadrement constant"
+  ]
+ },
+ {
+  "id": "taux-d-encadrement",
+  "terme": "Taux d’encadrement",
+  "variantes": [
+   "nombre d’élèves par enseignant",
+   "ratio élèves par enseignant"
+  ],
+  "registre": "technique",
+  "theme": "education",
+  "definition": "Rapport entre le nombre d’élèves et le nombre d’enseignants, distinct du nombre moyen d’élèves par classe, car il intègre les enseignants sans classe.",
+  "usage": "Le PS-Place publique parle de « nombre d’élèves par enseignant » et Les Républicains de « taux d’encadrement constant ». Les deux indicateurs ne mesurent pas la même chose, ce qui explique des écarts dans les comparaisons.",
+  "concurrents": [
+   "effectifs par classe"
+  ],
+  "notions": [
+   "effectifs-par-classe"
+  ],
+  "motifs": [
+   "taux d'encadrement constant",
+   "nombre d'élèves par enseignant"
+  ]
+ },
+ {
+  "id": "dotation-horaire-globale",
+  "terme": "Dotation horaire globale",
+  "variantes": [
+   "DHG"
+  ],
+  "registre": "administratif",
+  "theme": "education",
+  "definition": "Enveloppe d’heures d’enseignement attribuée chaque année par le rectorat à un collège ou un lycée, que l’établissement répartit entre disciplines, groupes et options.",
+  "usage": "Les Écologistes proposent de renforcer les dotations horaires globales pour les travaux pratiques scientifiques. Le terme est surtout employé par les personnels et les syndicats.",
+  "concurrents": [],
+  "notions": [
+   "autonomie-des-etablissements"
+  ],
+  "motifs": [
+   "Dotations Horaires Globales",
+   "dotation horaire globale"
+  ]
+ },
+ {
+  "id": "rased",
+  "terme": "RASED",
+  "variantes": [
+   "réseaux d’aides spécialisées aux élèves en difficulté"
+  ],
+  "registre": "administratif",
+  "theme": "education",
+  "definition": "Les réseaux d’aides spécialisées aux élèves en difficulté réunissent dans le primaire des enseignants spécialisés et des psychologues de l’Éducation nationale qui interviennent auprès des élèves en difficulté. Leurs effectifs ont été réduits à partir de la fin des années 2000.",
+  "usage": "Les Écologistes proposent de « rétablir » les RASED. Le terme n’apparaît pas chez les autres partis.",
+  "concurrents": [
+   "soutien scolaire",
+   "accompagnement personnalisé"
+  ],
+  "notions": [
+   "ecole-inclusive"
+  ],
+  "motifs": [
+   "RASED",
+   "réseaux d'aides spécialisées"
+  ]
+ },
+ {
+  "id": "cpe",
+  "terme": "Conseiller principal d’éducation",
+  "variantes": [
+   "CPE",
+   "surveillant général",
+   "vie scolaire"
+  ],
+  "registre": "administratif",
+  "theme": "education",
+  "definition": "Personnel d’éducation des collèges et lycées chargé du suivi des élèves, de l’assiduité et de la vie scolaire, qui a remplacé en 1970 le surveillant général.",
+  "usage": "Les Écologistes proposent d’en améliorer les effectifs et les salaires. Reconquête veut transformer les CPE en « Surveillants Généraux » chargés exclusivement du « maintien de l’ordre scolaire », ce qui privilégie la fonction disciplinaire sur la fonction éducative.",
+  "concurrents": [
+   "surveillant général"
+  ],
+  "notions": [
+   "autorite-et-discipline"
+  ],
+  "motifs": [
+   "CPE",
+   "Conseillers Principaux d'Éducation",
+   "surveillants généraux"
+  ]
+ },
+ {
+  "id": "forfait-communal",
+  "terme": "Forfait communal",
+  "variantes": [
+   "forfait d’externat"
+  ],
+  "registre": "administratif",
+  "theme": "education",
+  "definition": "Contribution obligatoire versée par les collectivités aux établissements privés sous contrat pour leurs dépenses de fonctionnement, calculée par référence au coût d’un élève du public.",
+  "usage": "Les Écologistes proposent de moduler les forfaits communaux selon des critères de mixité sociale. Le terme technique n’apparaît pas chez les autres partis.",
+  "concurrents": [],
+  "notions": [
+   "enseignement-prive-sous-contrat"
+  ],
+  "motifs": [
+   "forfaits communaux",
+   "forfait communal"
+  ]
+ },
+ {
+  "id": "contrat-d-association",
+  "terme": "Contrat d’association",
+  "variantes": [
+   "sous contrat",
+   "caractère propre"
+  ],
+  "registre": "juridique",
+  "theme": "education",
+  "definition": "Contrat par lequel un établissement privé s’engage à suivre les programmes publics et à accueillir tous les élèves, l’État prenant en charge la rémunération de ses enseignants.",
+  "usage": "Le PS-Place publique parle de privé « sous contrat » pour l’inclure dans la carte scolaire, et Les Républicains pour le soumettre à la même évaluation que le public. Les défenseurs du privé insistent sur son « caractère propre ».",
+  "concurrents": [
+   "hors contrat"
+  ],
+  "notions": [
+   "enseignement-prive-sous-contrat"
+  ],
+  "motifs": [
+   "privés sous contrat",
+   "privé sous contrat",
+   "contrat d'association"
+  ]
+ },
+ {
+  "id": "conseil-de-classe",
+  "terme": "Conseil de classe",
+  "variantes": [
+   "conseil de discipline"
+  ],
+  "registre": "administratif",
+  "theme": "education",
+  "definition": "Instance qui réunit chaque trimestre les enseignants, la direction, des délégués d’élèves et de parents pour examiner les résultats et proposer l’orientation. Le conseil de discipline est une instance distincte, qui prononce les sanctions les plus lourdes.",
+  "usage": "Les Républicains veulent rendre au conseil de classe « la seule souveraineté » sur le redoublement et l’orientation et y rétablir « le dernier mot » du professeur. Le Rassemblement national veut imposer des « sanctions-plancher » au conseil de discipline.",
+  "concurrents": [
+   "dialogue avec les familles"
+  ],
+  "notions": [
+   "orientation-scolaire",
+   "autorite-et-discipline"
+  ],
+  "motifs": [
+   "conseil de classe",
+   "conseils de classe",
+   "conseils de discipline"
+  ]
+ },
+ {
+  "id": "redoublement",
+  "terme": "Redoublement",
+  "variantes": [
+   "passage en classe supérieure",
+   "note chiffrée"
+  ],
+  "registre": "technique",
+  "theme": "education",
+  "definition": "Fait de recommencer une année scolaire. Longtemps fréquent en France, il a été fortement réduit à partir des années 2010, les études le jugeant peu efficace, avant d’être de nouveau facilité en 2018.",
+  "usage": "Les Républicains proposent qu’on ne monte de classe « qu’après avoir acquis » les savoirs, « jamais par le seul effet de l’âge », et le retour de la « note chiffrée » contre les « codes de couleurs ». Les opposants au redoublement parlent d’« accompagnement personnalisé » et d’« évaluation par compétences ».",
+  "concurrents": [
+   "accompagnement personnalisé",
+   "évaluation par compétences"
+  ],
+  "notions": [
+   "savoirs-fondamentaux"
+  ],
+  "motifs": [
+   "redoublement",
+   "note chiffrée",
+   "seul effet de l'âge"
+  ]
+ },
+ {
+  "id": "tronc-commun",
+  "terme": "Tronc commun",
+  "variantes": [
+   "enseignements de spécialité",
+   "spécialités"
+  ],
+  "registre": "technique",
+  "theme": "education",
+  "definition": "Ensemble des enseignements suivis par tous les élèves d’un niveau, par opposition aux enseignements de spécialité ou optionnels choisis.",
+  "usage": "Renaissance veut mettre les mathématiques dans le tronc commun du lycée et Les Républicains créer un tronc commun scientifique « plus exigeant » et deux niveaux de mathématiques. Reconquête préfère restaurer des « filières » séparées.",
+  "concurrents": [
+   "filières",
+   "options"
+  ],
+  "notions": [
+   "reforme-du-baccalaureat",
+   "college-unique"
+  ],
+  "motifs": [
+   "tronc commun",
+   "spécialité mathématique"
+  ]
+ },
+ {
+  "id": "conseil-superieur-des-programmes",
+  "terme": "Conseil supérieur des programmes",
+  "variantes": [
+   "CSP",
+   "Conseil des programmes"
+  ],
+  "registre": "administratif",
+  "theme": "education",
+  "definition": "Instance consultative créée en 2013, composée d’élus et de personnalités qualifiées, qui élabore des propositions de programmes scolaires pour le ministre.",
+  "usage": "Les Écologistes veulent garantir son « indépendance scientifique » ; Les Républicains proposent de le supprimer et de laisser les établissements adapter des programmes réduits à de « grandes orientations ».",
+  "concurrents": [],
+  "notions": [
+   "autonomie-des-etablissements"
+  ],
+  "motifs": [
+   "Conseil supérieur des programmes",
+   "Conseil des programmes"
+  ]
+ },
+ {
+  "id": "evaluation-des-etablissements",
+  "terme": "Évaluation des établissements",
+  "variantes": [
+   "Ofsted",
+   "indicateurs de réussite",
+   "Conseil d’évaluation de l’école"
+  ],
+  "registre": "technique",
+  "theme": "education",
+  "definition": "Mesure publique de la performance des écoles et établissements. En France, le Conseil d’évaluation de l’école, créé en 2019, organise des autoévaluations ; au Royaume-Uni, l’Ofsted inspecte et note publiquement les écoles.",
+  "usage": "Les Républicains veulent une instance « sur le modèle de l’Ofsted britannique » pour « certifier publiquement » public et privé sous contrat, et Renaissance la « transparence » des indicateurs « au niveau le plus local ». Ses critiques craignent des classements qui accentueraient l’évitement des établissements défavorisés.",
+  "concurrents": [
+   "autoévaluation",
+   "palmarès"
+  ],
+  "notions": [
+   "autonomie-des-etablissements",
+   "enseignement-prive-sous-contrat"
+  ],
+  "motifs": [
+   "Ofsted",
+   "instance nationale d'évaluation",
+   "indicateurs de réussite éducative"
+  ]
+ },
+ {
+  "id": "pisa",
+  "terme": "PISA",
+  "variantes": [
+   "Programme international pour le suivi des acquis des élèves"
+  ],
+  "registre": "technique",
+  "theme": "education",
+  "definition": "Enquête de l’OCDE menée tous les trois ans depuis 2000 auprès des élèves de 15 ans, qui mesure leurs compétences en compréhension de l’écrit, en mathématiques et en sciences. La France s’y situe autour de la moyenne de l’OCDE, avec des écarts liés à l’origine sociale parmi les plus élevés.",
+  "usage": "Renaissance se fixe l’objectif de « reprendre en dix ans l’une des premières places du classement PISA ». Les résultats de l’enquête sont invoqués par tous les camps, comme preuve d’un déclin du niveau ou du poids des inégalités sociales.",
+  "concurrents": [
+   "évaluations nationales"
+  ],
+  "notions": [
+   "savoirs-fondamentaux",
+   "choc-des-savoirs"
+  ],
+  "motifs": [
+   "PISA"
+  ]
+ },
+ {
+  "id": "decrochage-scolaire",
+  "terme": "Décrochage scolaire",
+  "variantes": [
+   "sortie sans diplôme",
+   "Écoles de la deuxième chance",
+   "EPIDE"
+  ],
+  "registre": "technique",
+  "theme": "education",
+  "definition": "Fait de quitter le système scolaire sans diplôme qualifiant. Des structures comme les écoles de la deuxième chance ou l’Établissement pour l’insertion dans l’emploi (EPIDE) accueillent les jeunes concernés.",
+  "usage": "Les Écologistes emploient le terme et soutiennent ces structures. Les Écologistes et La France insoumise parlent aussi de jeunes « sans qualification » ; Les Républicains parlent de jeunes « éloignés de l’emploi », dans une approche centrée sur l’insertion.",
+  "concurrents": [
+   "jeunes éloignés de l’emploi",
+   "NEET"
+  ],
+  "notions": [
+   "apprentissage",
+   "voie-professionnelle"
+  ],
+  "motifs": [
+   "décrochage scolaire",
+   "Écoles de la deuxième chance",
+   "EPIDE",
+   "éloignés de l'emploi"
+  ]
+ },
+ {
+  "id": "illettrisme",
+  "terme": "Illettrisme",
+  "variantes": [
+   "alphabétisation"
+  ],
+  "registre": "technique",
+  "theme": "education",
+  "definition": "Situation d’une personne qui a été scolarisée en français mais ne maîtrise pas suffisamment la lecture et l’écriture pour être autonome. Il se distingue de l’analphabétisme (absence de scolarisation) et de l’apprentissage du français langue étrangère.",
+  "usage": "La France insoumise veut « éradiquer l’illettrisme ». Renaissance emploie l’image de l’« alphabétisation » pour qualifier la formation de tous à l’IA.",
+  "concurrents": [
+   "analphabétisme",
+   "français langue étrangère"
+  ],
+  "notions": [
+   "savoirs-fondamentaux"
+  ],
+  "motifs": [
+   "illettrisme",
+   "alphabétisation"
+  ]
+ },
+ {
+  "id": "qpv",
+  "terme": "Quartiers prioritaires de la politique de la ville",
+  "variantes": [
+   "QPV",
+   "quartiers"
+  ],
+  "registre": "administratif",
+  "theme": "education",
+  "definition": "Zones urbaines définies par l’État selon le revenu de leurs habitants, qui bénéficient de crédits spécifiques de la politique de la ville.",
+  "usage": "Les Écologistes proposent des petits-déjeuners et goûters gratuits dans les écoles des QPV, et Les Républicains des « externats d’excellence » dans les « zones prioritaires ». Le vocabulaire administratif coexiste avec « quartiers populaires » à gauche et « quartiers » ou « territoires difficiles » ailleurs.",
+  "concurrents": [
+   "quartiers populaires",
+   "territoires difficiles"
+  ],
+  "notions": [
+   "education-prioritaire"
+  ],
+  "motifs": [
+   "QPV",
+   "Quartiers Politique de la Ville",
+   "zones prioritaires",
+   "territoires difficiles"
+  ]
+ },
+ {
+  "id": "cites-educatives",
+  "terme": "Cités éducatives",
+  "variantes": [
+   "école du socle"
+  ],
+  "registre": "administratif",
+  "theme": "education",
+  "definition": "Dispositif lancé en 2019 qui coordonne, dans des quartiers prioritaires, l’action de l’école, des collectivités, des associations et des services de l’État autour des enfants et des jeunes.",
+  "usage": "Les Républicains proposent de développer les Cités éducatives et de regrouper écoles et collège en « école du socle ».",
+  "concurrents": [],
+  "notions": [
+   "education-prioritaire"
+  ],
+  "motifs": [
+   "Cités éducatives",
+   "école du socle"
+  ]
+ },
+ {
+  "id": "rythmes-scolaires",
+  "terme": "Rythmes scolaires",
+  "variantes": [
+   "semaine de quatre jours",
+   "vacances scolaires"
+  ],
+  "registre": "technique",
+  "theme": "education",
+  "definition": "Organisation du temps scolaire sur la journée, la semaine et l’année. Le primaire est passé à la semaine de quatre jours en 2008, puis à quatre jours et demi en 2013, avant que les communes puissent revenir à quatre jours à partir de 2017, ce qu’a fait une large majorité d’entre elles.",
+  "usage": "Les Écologistes proposent de revenir à la semaine de cinq jours et de commencer les cours du collège à 9 heures, au nom du rythme de l’enfant. Les Républicains veulent ramener les vacances de seize à quatorze semaines et permettre des cours de cinquante minutes.",
+  "concurrents": [
+   "chronobiologie",
+   "temps scolaire"
+  ],
+  "notions": [],
+  "motifs": [
+   "semaine de cinq jours",
+   "vacances scolaires, parmi",
+   "cours au collège à 9 heures",
+   "cours d'une heure à cinquante minutes"
+  ]
+ },
+ {
+  "id": "eps",
+  "terme": "Éducation physique et sportive",
+  "variantes": [
+   "EPS",
+   "30 minutes d’activité physique quotidienne"
+  ],
+  "registre": "technique",
+  "theme": "education",
+  "definition": "Discipline obligatoire de la maternelle au lycée. Elle compte quatre heures en sixième puis trois heures au collège et deux heures au lycée, et une activité physique quotidienne de 30 minutes est prévue à l’école primaire depuis 2022.",
+  "usage": "Les Écologistes et La France insoumise proposent d’augmenter les horaires d’EPS et de garantir l’apprentissage de la natation ; Renaissance met en avant les 30 minutes quotidiennes en primaire.",
+  "concurrents": [
+   "sport scolaire"
+  ],
+  "notions": [],
+  "motifs": [
+   "EPS",
+   "Éducation Physique et Sportive",
+   "30 minutes par jour"
+  ]
+ },
+ {
+  "id": "academie",
+  "terme": "Académie",
+  "variantes": [
+   "rectorat",
+   "recteur"
+  ],
+  "registre": "administratif",
+  "theme": "education",
+  "definition": "Circonscription administrative de l’Éducation nationale, dirigée par un recteur, qui gère les personnels et les moyens d’un ensemble de départements.",
+  "usage": "Les Républicains font de l’académie l’échelon du recrutement des enseignants, des écoles normales et de la protection juridique des professeurs, ce qui déconcentrerait des compétences nationales. Reconquête veut des classes d’excellence dans un lycée par académie.",
+  "concurrents": [
+   "recrutement national"
+  ],
+  "notions": [
+   "formation-des-enseignants"
+  ],
+  "motifs": [
+   "chaque académie",
+   "par académie",
+   "rectorat"
+  ]
+ },
+ {
+  "id": "contrat-de-mission",
+  "terme": "Contrat de mission",
+  "variantes": [
+   "postes à profil"
+  ],
+  "registre": "administratif",
+  "theme": "education",
+  "definition": "Contrat proposé par Les Républicains pour affecter des enseignants volontaires, pour une durée déterminée et avec une meilleure rémunération, sur des postes difficiles ou à profil, hors du barème de mutation habituel.",
+  "usage": "Le terme, propre au programme des Républicains, met l’accent sur l’engagement individuel et la sélection des enseignants ; les syndicats défendent en général le mouvement national fondé sur un barème.",
+  "concurrents": [
+   "mouvement national",
+   "barème de mutation"
+  ],
+  "notions": [
+   "education-prioritaire",
+   "revalorisation-des-enseignants"
+  ],
+  "motifs": [
+   "contrats de mission",
+   "postes à profil"
+  ]
+ },
+ {
+  "id": "titularisation",
+  "terme": "Titularisation",
+  "variantes": [
+   "contractuels",
+   "titulaire"
+  ],
+  "registre": "administratif",
+  "theme": "education",
+  "definition": "Fait pour un agent de devenir fonctionnaire titulaire de son grade, avec la sécurité d’emploi qui en découle, par opposition aux contractuels.",
+  "usage": "Les Écologistes et La France insoumise proposent de titulariser les AESH et les jeunes chercheurs en missions pérennes. Les Républicains proposent au contraire des contrats de droit public de cinq ans pour les enseignants recrutés du privé.",
+  "concurrents": [
+   "contrat de droit public",
+   "contractualisation"
+  ],
+  "notions": [
+   "ecole-inclusive",
+   "statut-des-jeunes-chercheurs"
+  ],
+  "motifs": [
+   "titularisant",
+   "titularisation",
+   "titularisation des personnels"
+  ]
+ },
+ {
+  "id": "vacataires",
+  "terme": "Vacataires",
+  "variantes": [
+   "enseignants vacataires"
+  ],
+  "registre": "administratif",
+  "theme": "education",
+  "definition": "Personnes rémunérées à l’heure pour assurer des enseignements, en particulier à l’université, sans contrat de longue durée ni statut.",
+  "usage": "Les Écologistes proposent de « déprécariser » les enseignants vacataires. La France insoumise évoque aussi les « vacataires de l’enseignement supérieur ».",
+  "concurrents": [
+   "contractuels",
+   "titulaires"
+  ],
+  "notions": [
+   "statut-des-jeunes-chercheurs"
+  ],
+  "motifs": [
+   "vacataires"
+  ]
+ },
+ {
+  "id": "precarite",
+  "terme": "Précarité",
+  "variantes": [
+   "déprécariser",
+   "précaires"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Situation d’instabilité de l’emploi et des revenus, appliquée ici aux AESH, aux jeunes chercheurs, aux vacataires et aux artistes.",
+  "usage": "Le mot est employé par La France insoumise et Les Écologistes pour les doctorants, les vacataires et les « professions artistiques précaires ». La droite parle plutôt de « souplesse » ou de « contrats » adaptés aux missions.",
+  "concurrents": [
+   "souplesse",
+   "contractualisation"
+  ],
+  "notions": [
+   "statut-des-jeunes-chercheurs",
+   "intermittence-du-spectacle",
+   "ecole-inclusive"
+  ],
+  "motifs": [
+   "précarité des doctorants",
+   "déprécariser",
+   "professions artistiques précaires"
+  ]
+ },
+ {
+  "id": "science-ouverte",
+  "terme": "Science ouverte",
+  "variantes": [
+   "open access",
+   "recherche participative",
+   "boutiques des sciences"
+  ],
+  "registre": "technique",
+  "theme": "education",
+  "definition": "Mouvement visant à rendre librement accessibles les publications et les données de la recherche, et à associer les citoyens à la production de connaissances.",
+  "usage": "Les Écologistes emploient le terme anglais « open access » et proposent de financer les « boutiques des sciences » et la « recherche participative ».",
+  "concurrents": [
+   "accès payant"
+  ],
+  "notions": [
+   "financement-de-la-recherche"
+  ],
+  "motifs": [
+   "open access",
+   "recherche participative",
+   "boutiques des sciences"
+  ]
+ },
+ {
+  "id": "cvec",
+  "terme": "CVEC",
+  "variantes": [
+   "contribution de vie étudiante et de campus"
+  ],
+  "registre": "administratif",
+  "theme": "education",
+  "definition": "Contribution annuelle d’une centaine d’euros acquittée par les étudiants non boursiers depuis 2018 pour financer la vie étudiante, collectée par les Crous.",
+  "usage": "Les Écologistes veulent la supprimer et financer la vie étudiante « par la solidarité nationale » ; le Rassemblement national veut l’affecter au budget général.",
+  "concurrents": [
+   "droits d’inscription"
+  ],
+  "notions": [
+   "bourses-sur-criteres-sociaux",
+   "gratuite-scolaire"
+  ],
+  "motifs": [
+   "CVEC",
+   "Contribution de Vie Étudiante et de Campus",
+   "contribution à la vie étudiante et de campus"
+  ]
+ },
+ {
+  "id": "branches-professionnelles",
+  "terme": "Branches professionnelles",
+  "variantes": [
+   "partenaires sociaux",
+   "référentiels professionnels"
+  ],
+  "registre": "technique",
+  "theme": "education",
+  "definition": "Regroupements d’entreprises d’un même secteur, couverts par une convention collective, qui participent à la définition des diplômes professionnels et au financement de l’apprentissage.",
+  "usage": "Le Rassemblement national veut adapter la formation « aux besoins réels des branches professionnelles », et Les Républicains réécrire « avec les branches » des référentiels jugés « trop théoriques ».",
+  "concurrents": [
+   "Éducation nationale"
+  ],
+  "notions": [
+   "apprentissage",
+   "voie-professionnelle"
+  ],
+  "motifs": [
+   "besoins réels des branches professionnelles",
+   "réécrits avec les branches",
+   "référentiels professionnels"
+  ]
+ },
+ {
+  "id": "formation-continue",
+  "terme": "Formation continue",
+  "variantes": [
+   "formation tout au long de la vie"
+  ],
+  "registre": "technique",
+  "theme": "education",
+  "definition": "Formation suivie après l’entrée dans le métier. Pour les enseignants, elle est organisée différemment dans le premier degré, où des heures y sont consacrées dans les obligations de service, et dans le second degré.",
+  "usage": "Les Républicains veulent la rendre obligatoire dans le second degré, « hors du temps de classe » ; le PS-Place publique veut au contraire qu’elle soit prise « sur le temps scolaire », de droit.",
+  "concurrents": [],
+  "notions": [
+   "formation-des-enseignants"
+  ],
+  "motifs": [
+   "formation continue"
+  ]
+ },
+ {
+  "id": "ecole-publique",
+  "terme": "École publique",
+  "variantes": [
+   "école de la République",
+   "école laïque"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Ensemble des établissements scolaires gérés par l’État et les collectivités, gratuits et laïques, par opposition aux établissements privés.",
+  "usage": "Les Écologistes et La France insoumise emploient l’expression pour défendre son maillage et son « objectif d’émancipation », en l’opposant implicitement au privé. La droite parle plus volontiers d’« école » sans qualificatif, ou de « l’institution scolaire ». La question de la laïcité à l’école est traitée dans le thème Institutions.",
+  "concurrents": [
+   "liberté d’enseignement",
+   "institution scolaire"
+  ],
+  "notions": [
+   "enseignement-prive-sous-contrat",
+   "fermetures-d-ecoles-rurales"
+  ],
+  "motifs": [
+   "école publique",
+   "écoles publiques"
+  ]
+ },
+ {
+  "id": "humanisme-republicain",
+  "terme": "Humanisme républicain",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Formule qui associe la tradition humaniste de la culture et de la raison aux valeurs de la République.",
+  "usage": "Horizons en fait le titre de son engagement éducatif, « un humanisme républicain qui fait de l’éducation l’objectif prioritaire de l’effort national », sans détailler de mesures dans les textes étudiés.",
+  "concurrents": [
+   "émancipation",
+   "transmission"
+  ],
+  "notions": [],
+  "motifs": [
+   "humanisme républicain"
+  ]
+ },
+ {
+  "id": "democratie-scolaire",
+  "terme": "Démocratie scolaire",
+  "variantes": [
+   "vie lycéenne",
+   "conseils de vie lycéenne"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Participation des élèves aux décisions de leur établissement, par des délégués et des instances comme les conseils de vie collégienne et lycéenne.",
+  "usage": "Le PS-Place publique veut « refonder la démocratie scolaire » par un « Acte III de la vie lycéenne et collégienne », et Les Écologistes soutenir les conseils de vie lycéenne. La droite insiste davantage sur l’« autorité » des adultes.",
+  "concurrents": [
+   "autorité"
+  ],
+  "notions": [
+   "autonomie-des-etablissements"
+  ],
+  "motifs": [
+   "démocratie scolaire",
+   "Conseils de Vie Lycéenne",
+   "vie lycéenne"
+  ]
+ },
+ {
+  "id": "gratuite",
+  "terme": "Gratuité",
+  "variantes": [
+   "gratuité intégrale",
+   "service public gratuit"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Absence de paiement direct par l’usager, le coût étant pris en charge par la collectivité.",
+  "usage": "La France insoumise fait de la gratuité un principe général : école, cantine, enseignement supérieur, musées, permis de conduire. Les Écologistes l’étendent aux musées nationaux « dans la mesure du possible ». Ses opposants parlent du « coût pour le contribuable » et préfèrent des tarifs sociaux ciblés.",
+  "concurrents": [
+   "tarification sociale",
+   "ciblage"
+  ],
+  "notions": [
+   "gratuite-scolaire",
+   "pass-culture"
+  ],
+  "motifs": [
+   "gratuité intégrale",
+   "gratuité de l'enseignement supérieur",
+   "gratuité dans les musées",
+   "gratuité dans tous les musées",
+   "gratuité du permis",
+   "service public gratuit"
+  ]
+ },
+ {
+  "id": "selection",
+  "terme": "Sélection",
+  "variantes": [
+   "sélectionner",
+   "choisir leurs étudiants"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Choix des candidats admis dans une formation selon des critères de niveau ou de dossier.",
+  "usage": "Le mot est assumé par Les Républicains (recruter « au mérite » par un Parcoursup « outil de sélection ») et Reconquête (« sélection plus stricte des professeurs »). La France insoumise veut « abolir la sélection dans l’université publique ». Renaissance préfère « réguler les filières » et « démassifier ».",
+  "concurrents": [
+   "démocratisation",
+   "orientation",
+   "régulation des filières"
+  ],
+  "notions": [
+   "selection-a-l-universite",
+   "parcoursup"
+  ],
+  "motifs": [
+   "sélection dans l'université",
+   "sélection plus stricte",
+   "outil d'information et de sélection",
+   "choisir leurs étudiants"
+  ]
+ },
+ {
+  "id": "lgbtphobies",
+  "terme": "LGBTphobies",
+  "variantes": [
+   "violences LGBTQIAphobes",
+   "homophobie"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Hostilité, discriminations et violences envers les personnes lesbiennes, gays, bisexuelles, trans et intersexes.",
+  "usage": "Les Écologistes proposent des référents formés contre les violences « LGBTQIAphobes » dans chaque établissement et un plan contre l’homophobie dans le sport ; le PS-Place publique défend les interventions associatives contre les discriminations. Ces termes n’apparaissent pas dans les programmes de droite, qui dénoncent par ailleurs la « propagande idéologique » à l’école.",
+  "concurrents": [
+   "propagande idéologique"
+  ],
+  "notions": [
+   "harcelement-scolaire",
+   "evars"
+  ],
+  "motifs": [
+   "LGBTQIAphobes",
+   "homophobie dans le sport"
+  ]
+ },
+ {
+  "id": "inegalites-de-genre",
+  "terme": "Inégalités de genre",
+  "variantes": [
+   "égalité filles-garçons",
+   "stéréotypes de genre"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Différences de traitement, d’orientation et de réussite entre filles et garçons liées aux rôles sociaux attribués à chaque sexe.",
+  "usage": "Les Écologistes proposent de former l’ensemble de la communauté éducative aux « inégalités de genre » et de féminiser le recrutement des enseignants-chercheurs. Le mot « genre » est contesté par une partie de la droite, qui parle plutôt d’« égalité entre les femmes et les hommes ».",
+  "concurrents": [
+   "égalité entre les femmes et les hommes"
+  ],
+  "notions": [
+   "evars",
+   "educations-a"
+  ],
+  "motifs": [
+   "inégalités de genre",
+   "féminiser le recrutement"
+  ]
+ },
+ {
+  "id": "rite-de-passage",
+  "terme": "Rite de passage républicain",
+  "variantes": [
+   "brassage social",
+   "se croiser"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Moment commun à toute une classe d’âge, comme l’était le service militaire, censé marquer l’entrée dans la citoyenneté et favoriser le brassage social.",
+  "usage": "Le PS-Place publique propose de « recréer un rite de passage républicain et universel » afin que les citoyens soient « amenés à se croiser et se connaître ». La formule rejoint les justifications du SNU, que La France insoumise veut arrêter au profit d’un service citoyen.",
+  "concurrents": [
+   "service national universel",
+   "service citoyen"
+  ],
+  "notions": [
+   "service-national-universel"
+  ],
+  "motifs": [
+   "rite de passage",
+   "se croiser et se connaître"
+  ]
+ },
+ {
+  "id": "service-civique",
+  "terme": "Service civique",
+  "variantes": [
+   "volontariat",
+   "service citoyen"
+  ],
+  "registre": "administratif",
+  "theme": "education",
+  "definition": "Engagement volontaire de six à douze mois, ouvert aux 16-25 ans, pour une mission d’intérêt général indemnisée, créé par une loi de 2010.",
+  "usage": "Les Écologistes veulent accroître le nombre de services civiques et revaloriser l’indemnité. La France insoumise propose un « service citoyen obligatoire » rémunéré au Smic, qui change la nature du dispositif en le rendant obligatoire.",
+  "concurrents": [
+   "service national universel",
+   "service citoyen obligatoire"
+  ],
+  "notions": [
+   "service-national-universel"
+  ],
+  "motifs": [
+   "service civique",
+   "services civiques",
+   "service citoyen"
+  ]
+ },
+ {
+  "id": "pass-sport",
+  "terme": "Pass’Sport",
+  "variantes": [
+   "Pass Sport"
+  ],
+  "registre": "administratif",
+  "theme": "education",
+  "definition": "Aide de l’État créée en 2021 pour financer l’adhésion des enfants et des jeunes de familles modestes à un club sportif, recentrée pour l’année 2025-2026 sur les jeunes de 14 à 17 ans bénéficiaires de l’allocation de rentrée scolaire, les jeunes en situation de handicap et les étudiants boursiers, son montant passant de 50 à 70 euros.",
+  "usage": "Les Écologistes veulent le renforcer et y réintégrer les 6-13 ans, La France insoumise le porter à 150 euros et l’étendre au sport scolaire.",
+  "concurrents": [],
+  "notions": [],
+  "motifs": [
+   "Pass'Sport",
+   "Pass Sport"
+  ]
+ },
+ {
+  "id": "sport-amateur",
+  "terme": "Sport amateur",
+  "variantes": [
+   "taxe Buffet",
+   "taxes affectées"
+  ],
+  "registre": "technique",
+  "theme": "education",
+  "definition": "Pratique sportive en club non professionnelle, financée notamment par les licences, les collectivités et des taxes affectées, dont la taxe dite Buffet, prélevée depuis 2000 sur les droits de retransmission audiovisuelle des compétitions.",
+  "usage": "Les Écologistes et La France insoumise proposent de déplafonner la taxe Buffet et de taxer davantage les retransmissions pour financer le sport amateur.",
+  "concurrents": [
+   "sport professionnel"
+  ],
+  "notions": [],
+  "motifs": [
+   "sport amateur",
+   "taxe Buffet",
+   "retransmissions sportives"
+  ]
+ },
+ {
+  "id": "prix-unique-du-livre",
+  "terme": "Prix unique du livre",
+  "variantes": [
+   "loi Lang"
+  ],
+  "registre": "juridique",
+  "theme": "education",
+  "definition": "Règle issue de la loi Lang de 1981 qui oblige les éditeurs à fixer le prix de vente des livres neufs, les remises étant plafonnées à 5 %, afin de protéger les librairies indépendantes.",
+  "usage": "Les Écologistes veulent préserver le prix unique du livre et généraliser un « prix unique au cinéma ».",
+  "concurrents": [],
+  "notions": [],
+  "motifs": [
+   "prix unique du livre",
+   "prix du livre",
+   "prix unique au cinéma"
+  ]
+ },
+ {
+  "id": "droit-d-auteur",
+  "terme": "Droit d’auteur",
+  "variantes": [
+   "droits voisins",
+   "artistes-auteurs"
+  ],
+  "registre": "juridique",
+  "theme": "education",
+  "definition": "Ensemble des droits moraux et patrimoniaux reconnus aux créateurs sur leurs œuvres, les droits voisins protégeant les interprètes et les producteurs.",
+  "usage": "Le PS-Place publique et Renaissance veulent protéger le droit d’auteur, notamment face à l’intelligence artificielle et aux nouveaux usages numériques.",
+  "concurrents": [],
+  "notions": [
+   "intermittence-du-spectacle"
+  ],
+  "motifs": [
+   "droit d'auteur",
+   "droits d'auteur"
+  ]
+ },
+ {
+  "id": "industries-culturelles",
+  "terme": "Industries culturelles",
+  "variantes": [
+   "concentration des médias",
+   "loi anti-trust"
+  ],
+  "registre": "économique",
+  "theme": "education",
+  "definition": "Secteurs qui produisent et diffusent à grande échelle des biens culturels : édition, musique, cinéma, audiovisuel, jeu vidéo.",
+  "usage": "Les Écologistes proposent une loi anti-trust contre leur concentration et une clause de conscience pour quitter un éditeur. Le PS-Place publique veut « redistribuer » les profits du secteur culturel privé.",
+  "concurrents": [
+   "exception culturelle"
+  ],
+  "notions": [],
+  "motifs": [
+   "industries culturelles",
+   "secteur culturel privé"
+  ]
+ },
+ {
+  "id": "patrimoine",
+  "terme": "Patrimoine",
+  "variantes": [
+   "petit patrimoine",
+   "patrimoine national"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Biens culturels, monuments, collections et paysages hérités du passé, que la collectivité protège et transmet.",
+  "usage": "Les Républicains proposent un plan de 2,5 milliards d’euros pour le « patrimoine national », le Rassemblement national un « Service national volontaire du patrimoine », et Les Écologistes un fonds pour le « petit patrimoine » et la ratification de la convention de Faro, qui reconnaît un droit des citoyens au patrimoine culturel.",
+  "concurrents": [
+   "droits culturels"
+  ],
+  "notions": [],
+  "motifs": [
+   "petit patrimoine",
+   "patrimoine national",
+   "Service national volontaire du patrimoine",
+   "convention de Faro"
+  ]
+ },
+ {
+  "id": "elco",
+  "terme": "ELCO",
+  "variantes": [
+   "enseignements de langue et de culture d’origine",
+   "EILE"
+  ],
+  "registre": "administratif",
+  "theme": "education",
+  "definition": "Enseignements de langue et de culture d’origine assurés à partir des années 1970 par des enseignants étrangers, dans le cadre d’accords avec plusieurs pays, et remplacés en 2020 par les enseignements internationaux de langues étrangères (EILE), encadrés par l’Éducation nationale.",
+  "usage": "Le Rassemblement national veut supprimer les ELCO, qui « nuisent à l’assimilation des élèves » selon son programme. Le dispositif a été remplacé en 2020 par les EILE.",
+  "concurrents": [
+   "enseignements internationaux de langues étrangères"
+  ],
+  "notions": [
+   "langues-regionales"
+  ],
+  "motifs": [
+   "ELCO",
+   "langue et de culture d'origine"
+  ]
+ },
+ {
+  "id": "pedagogisme",
+  "terme": "Pédagogisme",
+  "variantes": [
+   "pédagogistes"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Terme péjoratif qui désigne une primauté supposée de la pédagogie et des méthodes sur les savoirs disciplinaires dans la formation et l’institution.",
+  "usage": "Le mot figure dans le programme des Républicains, qui dénonce « un demi-siècle de pédagogisme » ; il est courant dans le débat public à droite et chez certains enseignants pour critiquer les INSPE et les réformes inspirées des sciences de l’éducation. On en retrouve l’esprit dans les critiques des INSPE par le Rassemblement national et Reconquête. Ses cibles parlent de « pédagogie » ou de « sciences de l’éducation ».",
+  "concurrents": [
+   "pédagogie",
+   "sciences de l’éducation"
+  ],
+  "notions": [
+   "formation-des-enseignants"
+  ],
+  "motifs": [
+   "pédagogisme",
+   "pédagogistes"
+  ]
+ },
+ {
+  "id": "nivellement-par-le-bas",
+  "terme": "Nivellement par le bas",
+  "variantes": [
+   "baisse du niveau"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Accusation selon laquelle l’école réduirait ses exigences pour faire réussir le plus grand nombre.",
+  "usage": "L’expression figure dans le programme des Républicains, qui dénonce une « égalité de façade des résultats, obtenue au prix du nivellement par le bas », et dans celui du Rassemblement national de 2022 ; elle est fréquente dans le débat sur le collège unique et le baccalauréat. Reconquête en reprend l’idée en voulant « tirer l’ensemble du système éducatif vers le haut », et Les Républicains en voulant « relever » le niveau du baccalauréat. La gauche parle plutôt de « démocratisation » scolaire.",
+  "concurrents": [
+   "démocratisation",
+   "élévation du niveau de qualification"
+  ],
+  "notions": [
+   "college-unique",
+   "reforme-du-baccalaureat"
+  ],
+  "motifs": [
+   "nivellement par le bas",
+   "système éducatif vers le haut"
+  ]
+ },
+ {
+  "id": "wokisme",
+  "terme": "Wokisme",
+  "variantes": [
+   "woke",
+   "islamo-gauchisme"
+  ],
+  "registre": "élément de langage",
+  "theme": "education",
+  "definition": "Terme péjoratif, issu de l’anglais « woke » (éveillé), employé pour désigner des courants militants sur les discriminations raciales, de genre ou postcoloniales, en particulier à l’université.",
+  "usage": "Le mot figure dans le programme présidentiel de Valérie Pécresse (Les Républicains) en 2022 (« Écriture inclusive, réécriture de l’histoire de France, wokisme : je ne cèderai à aucune tentative de déconstruction de notre Nation ») ; avec son voisin « islamo-gauchisme », il a été largement utilisé dans le débat sur l’université au cours des années 2020. Les personnes visées récusent ces termes et parlent d’« études sur les discriminations », d’« études de genre » ou de « liberté académique ».",
+  "concurrents": [
+   "liberté académique",
+   "études de genre"
+  ],
+  "notions": [
+   "liberte-academique"
+  ],
+  "motifs": [
+   "wokisme",
+   "islamo-gauchisme"
+  ]
+ }
+]

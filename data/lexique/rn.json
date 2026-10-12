@@ -1,0 +1,146 @@
+{
+ "travail": {
+  "texte": "Pour le RN, le travail est d'abord une affaire de revenu : inciter aux hausses de salaire par des exonérations, garantir des prix rémunérateurs aux agriculteurs et favoriser l'apprentissage.",
+  "appuis": [
+   "pa0ea4c9c",
+   "pe621ed41",
+   "p4dbeb0a2"
+  ]
+ },
+ "merite": {
+  "texte": "Le mérite apparaît surtout à propos de la nationalité, accordée par naturalisation « sur des critères de mérite et d'assimilation », et dans l'école, avec un brevet d'orientation et des carrières enseignantes revalorisant le mérite.",
+  "appuis": [
+   "pb95ced2e",
+   "pf7dc5472",
+   "p8b83ea71"
+  ]
+ },
+ "solidarite": {
+  "texte": "La solidarité vise des publics ciblés : aidants familiaux, personnes âgées au minimum vieillesse, adultes handicapés, familles monoparentales, avec des revalorisations chiffrées.",
+  "appuis": [
+   "pea47e538",
+   "p91bbd795",
+   "p0d8ed1be"
+  ]
+ },
+ "liberte": {
+  "texte": "La liberté est invoquée pour des professions ou des choix précis : liberté de prescription des médecins, liberté d'instruction en famille, allègement de la bureaucratie pour les professeurs.",
+  "appuis": [
+   "pcbe5065c",
+   "pfb6e6226",
+   "p783dc2fc"
+  ]
+ },
+ "egalite": {
+  "texte": "L'égalité est surtout pensée comme accès égal pour les personnes handicapées et comme règle commune, avec des examens nationaux et la suppression de la « discrimination positive » dans l'enseignement.",
+  "appuis": [
+   "p0d8ed1be",
+   "pe4a9405a",
+   "pdcab26d8"
+  ]
+ },
+ "protection": {
+  "texte": "Pour le RN, protéger couvre à la fois les personnes (victimes, agents publics attaqués), le pouvoir d'achat face à l'inflation et l'économie nationale face aux importations hors normes.",
+  "appuis": [
+   "pf766ac4d",
+   "pb697929d",
+   "pdd25e7f9"
+  ]
+ },
+ "securite": {
+  "texte": "La sécurité passe par davantage de moyens humains (policiers, gendarmes, renseignement, polices municipales) et par l'interdiction proposée de la diffusion de « l'idéologie islamiste ».",
+  "appuis": [
+   "pef370527",
+   "p70968915",
+   "p43f6922c"
+  ]
+ },
+ "ordre": {
+  "texte": "L'ordre repose sur la certitude et la sévérité de la peine : peines planchers, perpétuité réelle, limitation des aménagements, places de prison, ainsi que sur l'expulsion des étrangers délinquants.",
+  "appuis": [
+   "pb66f6490",
+   "pda38dfcb",
+   "pbec7d326"
+  ]
+ },
+ "justice": {
+  "texte": "La justice désigne d'un côté l'institution judiciaire, à renforcer en magistrats, de l'autre une justice fiscale ciblant superdividendes, rachats d'actions et fortune financière.",
+  "appuis": [
+   "pa8914901",
+   "p7b70d4c6",
+   "p143467b7"
+  ]
+ },
+ "souverainete": {
+  "texte": "Pour le RN, la souveraineté est d'abord juridique et européenne : primauté de la Constitution sur le droit international, refus de transferts de compétences à l'UE, maîtrise nationale de l'énergie et de la défense.",
+  "appuis": [
+   "p29329c55",
+   "pa3b703be",
+   "p88dd2126"
+  ]
+ },
+ "peuple": {
+  "texte": "Le peuple est conçu comme décideur direct par le référendum : RIC, révision constitutionnelle réservée au référendum, consultation des Français sur l'immigration.",
+  "appuis": [
+   "p99e0a146",
+   "pa1eddcf1",
+   "p182e7e82"
+  ]
+ },
+ "nation": {
+  "texte": "Pour le RN, la nation fonde une distinction entre Français et étrangers : « priorité nationale » pour l'emploi, le logement et les prestations, nationalité par filiation, fin du droit du sol.",
+  "appuis": [
+   "pab311771",
+   "pa242690b",
+   "p60a5ca6e"
+  ]
+ },
+ "identite": {
+  "texte": "L'identité est rattachée à l'assimilation des étrangers, à la langue française et au patrimoine, que le RN propose d'inscrire dans la Constitution, ainsi qu'au principe selon lequel il n'y a « d'autre communauté reconnue que la communauté nationale ».",
+  "appuis": [
+   "pedb4119a",
+   "pce622549",
+   "p331e16b9"
+  ]
+ },
+ "democratie": {
+  "texte": "La démocratie est envisagée sous l'angle des modes de décision : référendum d'initiative citoyenne, proportionnelle, et pouvoir rendu aux élus de proximité.",
+  "appuis": [
+   "p435445a7",
+   "p99e0a146",
+   "p3648ddb4"
+  ]
+ },
+ "laicite": {
+  "texte": "La laïcité est mobilisée principalement à l'école et contre ce que le programme désigne comme « l'islamisme » : interdiction du voile pour les accompagnatrices scolaires, neutralité des enseignants, fermeture des mosquées jugées « radicales ».",
+  "appuis": [
+   "p5b970d1f",
+   "pbdcc0471",
+   "p3fc4f386"
+  ]
+ },
+ "transition": {
+  "texte": "La transition écologique est abordée par la formation (agents publics, métiers nouveaux), la réparabilité des produits et une sortie du charbon fondée sur le nucléaire, l'hydrogène et la géothermie.",
+  "appuis": [
+   "pa910dbf7",
+   "p6d66104b",
+   "p8880c623"
+  ]
+ },
+ "progres": {
+  "texte": "Le progrès apparaît surtout comme progrès technique : nouveaux réacteurs nucléaires, technologies de santé et télémédecine.",
+  "appuis": [
+   "pe3350bed",
+   "p2c332576",
+   "pad2364ee"
+  ]
+ },
+ "puissance": {
+  "texte": "Pour le RN, la puissance passe par la défense (budget militaire, dissuasion) et par une diplomatie indépendante faisant de la France une « puissance d'équilibre » entre les blocs.",
+  "appuis": [
+   "p340d2bad",
+   "pda2e6ef6",
+   "p0108ca27"
+  ]
+ }
+}

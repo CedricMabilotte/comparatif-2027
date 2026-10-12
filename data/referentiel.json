@@ -1,0 +1,594 @@
+{
+ "candidatures": [
+  {
+   "id": "ecologistes",
+   "nom": "Les Écologistes",
+   "sigle": "LE",
+   "candidat": "Marine Tondelier",
+   "statut_candidat": "désignée par son parti ; vote des adhérents du 10 au 13 décembre 2026 sur sa candidature",
+   "famille": "écologie, gauche",
+   "statut_programme": "publie"
+  },
+  {
+   "id": "horizons",
+   "nom": "Horizons",
+   "sigle": "HOR",
+   "candidat": "Édouard Philippe",
+   "statut_candidat": "déclaré",
+   "famille": "centre droit",
+   "statut_programme": "attendu"
+  },
+  {
+   "id": "lfi",
+   "nom": "La France insoumise",
+   "sigle": "LFI",
+   "candidat": "Jean-Luc Mélenchon",
+   "statut_candidat": "déclaré",
+   "famille": "gauche radicale",
+   "statut_programme": "attendu"
+  },
+  {
+   "id": "lr",
+   "nom": "Les Républicains",
+   "sigle": "LR",
+   "candidat": "Bruno Retailleau",
+   "statut_candidat": "investi par son parti",
+   "famille": "droite",
+   "statut_programme": "partiel"
+  },
+  {
+   "id": "ps-pp",
+   "nom": "Parti socialiste et Place publique",
+   "sigle": "PS-PP",
+   "candidat": "Vainqueur de la primaire (résultat attendu en octobre 2026)",
+   "statut_candidat": "primaire en cours",
+   "famille": "gauche sociale-démocrate",
+   "statut_programme": "attendu"
+  },
+  {
+   "id": "rn",
+   "nom": "Rassemblement national",
+   "sigle": "RN",
+   "candidat": "Marine Le Pen",
+   "statut_candidat": "déclarée ; pourvoi en cassation pendant sur son inéligibilité, Jordan Bardella en recours",
+   "famille": "extrême droite",
+   "statut_programme": "attendu"
+  },
+  {
+   "id": "reconquete",
+   "nom": "Reconquête",
+   "sigle": "REC",
+   "candidat": "Éric Zemmour",
+   "statut_candidat": "déclaré",
+   "famille": "extrême droite",
+   "statut_programme": "attendu"
+  },
+  {
+   "id": "renaissance",
+   "nom": "Renaissance",
+   "sigle": "RE",
+   "candidat": "Gabriel Attal",
+   "statut_candidat": "déclaré",
+   "famille": "centre",
+   "statut_programme": "partiel"
+  }
+ ],
+ "documents": [
+  {
+   "id": "eco-2026",
+   "candidature": "ecologistes",
+   "titre": "Pour une prospérité écologique : le nouveau programme des Écologistes",
+   "type": "programme",
+   "date": "2026-07",
+   "archive": false,
+   "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+   "telechargement": "http://web.archive.org/web/2026id_/https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf"
+  },
+  {
+   "id": "jadot-2022-pdf",
+   "fichier": "pdf-04-Yannick-Jadot-Declaration-accessible",
+   "candidature": "ecologistes",
+   "titre": "Profession de foi de Yannick Jadot (présidentielle 2022)",
+   "type": "profession de foi",
+   "date": "2022-03",
+   "archive": true,
+   "url": "https://www.cnccep.fr/pdfs/Candidat-04-Yannick-Jadot-Declaration-accessible.pdf"
+  },
+  {
+   "id": "horizons-narco",
+   "candidature": "horizons",
+   "titre": "Le plan d'Édouard Philippe contre le narcotrafic",
+   "type": "propositions",
+   "date": "2026-05-21",
+   "archive": false,
+   "url": "https://horizonsleparti.fr/le-plan-dedouard-philippe-contre-le-narcotrafic/"
+  },
+  {
+   "id": "horizons-manifeste",
+   "candidature": "horizons",
+   "titre": "Manifeste « Pour une nouvelle offre politique »",
+   "type": "manifeste",
+   "date": "2021-10-09",
+   "archive": true,
+   "url": "http://horizonsleparti.fr/wp-content/uploads/2021/10/manifeste-horizons-le-parti.pdf",
+   "justification": "Horizons n'a pas encore publié de programme écrit pour 2027, et n'avait pas de candidat en 2022. Ses propositions orales ne sont pas retenues : le site ne cite que des documents écrits."
+  },
+  {
+   "id": "lfi-aec-2022",
+   "candidature": "lfi",
+   "titre": "L'Avenir en commun, programme 2022",
+   "type": "programme",
+   "date": "2020-11",
+   "archive": true,
+   "url": "https://melenchon2022.fr/wp-content/uploads/2020/11/AEC-novembre-2020.pdf",
+   "justification": "La nouvelle édition de L'Avenir en commun pour 2027 est annoncée pour le 6 novembre 2026. En attendant, on cite l'édition 2022.",
+   "telechargement": "http://web.archive.org/web/20210701113123id_/https://melenchon2022.fr/wp-content/uploads/2020/11/AEC-novembre-2020.pdf",
+   "millesime": 2022
+  },
+  {
+   "id": "lfi-nfp-2024",
+   "candidature": "lfi",
+   "titre": "Contrat de législature du Nouveau Front populaire (2024)",
+   "type": "programme commun",
+   "date": "2024-06",
+   "archive": true,
+   "url": "https://melenchon2027.fr/wp-content/uploads/2026/04/PROGRAMME-FRONT-POPULAIRE.pdf",
+   "justification": "Programme commun des législatives 2024, mis en avant sur le site de campagne 2027."
+  },
+  {
+   "id": "melenchon-2022-pdf",
+   "fichier": "pdf-08-Jean-Luc-Melenchon-Declaration-accessible",
+   "candidature": "lfi",
+   "titre": "Profession de foi de Jean-Luc Mélenchon (présidentielle 2022)",
+   "type": "profession de foi",
+   "date": "2022-03",
+   "archive": true,
+   "url": "https://www.cnccep.fr/pdfs/Candidat-08-Jean-Luc-Melenchon-Declaration-accessible.pdf"
+  },
+  {
+   "id": "lr-travail",
+   "fichier": "lr-51705_LesRepublicains_Brochures_A5-40P_DEF",
+   "candidature": "lr",
+   "titre": "Nos propositions pour la France : Travail gagnant",
+   "type": "livret thématique",
+   "date": "2025-12",
+   "archive": false,
+   "url": "https://republicains.fr/wp-content/uploads/2026/01/51705_LesRepublicains_Brochures_A5-40P_DEF.pdf"
+  },
+  {
+   "id": "lr-produire",
+   "fichier": "lr-LR_Produire_Plus_LIVRET",
+   "candidature": "lr",
+   "titre": "Nos propositions pour la France : Produire plus pour vivre mieux",
+   "type": "livret thématique",
+   "date": "2026-02",
+   "archive": false,
+   "url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf"
+  },
+  {
+   "id": "lr-agriculture",
+   "fichier": "lr-LR_Agriculture",
+   "candidature": "lr",
+   "titre": "Nos propositions pour la France : Réarmer notre agriculture",
+   "type": "livret thématique",
+   "date": "2026-03",
+   "archive": false,
+   "url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf"
+  },
+  {
+   "id": "lr-electricite",
+   "fichier": "lr-LR_Electricite_vFF070626",
+   "candidature": "lr",
+   "titre": "Nos propositions pour la France : Électricité",
+   "type": "livret thématique",
+   "date": "2026-05",
+   "archive": false,
+   "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf"
+  },
+  {
+   "id": "lr-famille",
+   "fichier": "lr-LR_Famille_vFinale",
+   "candidature": "lr",
+   "titre": "Nos propositions pour la France : Famille",
+   "type": "livret thématique",
+   "date": "2026-05",
+   "archive": false,
+   "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf"
+  },
+  {
+   "id": "lr-logement",
+   "fichier": "lr-LR_Logement",
+   "candidature": "lr",
+   "titre": "Nos propositions pour la France : Se loger mieux et moins cher",
+   "type": "livret thématique",
+   "date": "2026-05",
+   "archive": false,
+   "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf"
+  },
+  {
+   "id": "lr-ia",
+   "fichier": "lr-LR_IA",
+   "candidature": "lr",
+   "titre": "Nos propositions pour la France : L'IA au service des Français",
+   "type": "livret thématique",
+   "date": "2026-07",
+   "archive": false,
+   "url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf"
+  },
+  {
+   "id": "lr-ecole",
+   "fichier": "lr-LR_Ecole_vF",
+   "candidature": "lr",
+   "titre": "Nos propositions pour la France : Éducation",
+   "type": "livret thématique",
+   "date": "2026-09",
+   "archive": false,
+   "url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf"
+  },
+  {
+   "id": "pecresse-2022",
+   "fichier": "lr-pecresse-2022",
+   "candidature": "lr",
+   "titre": "Valérie Pécresse, « Le courage de faire » (présidentielle 2022)",
+   "type": "programme",
+   "date": "2022-03",
+   "archive": true,
+   "url": "https://valeriepecresse.fr/wp-content/uploads/2022/03/16P-VP2022-ok.pdf",
+   "justification": "Les livrets 2026 ne couvrent pas encore tous les thèmes (sécurité, immigration, Europe) : on complète par le programme 2022 de LR."
+  },
+  {
+   "id": "pp-acte1",
+   "candidature": "ps-pp",
+   "titre": "Place publique, « Acte un : notre vision pour la France »",
+   "type": "programme",
+   "date": "2026-03",
+   "archive": false,
+   "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+   "justification": "La primaire PS et Place publique n'a pas encore désigné de candidat. On cite le document de Place publique et la profession de foi socialiste de 2022."
+  },
+  {
+   "id": "hidalgo-2022-pdf",
+   "fichier": "pdf-03-Anne-Hidalgo-Declaration",
+   "candidature": "ps-pp",
+   "titre": "Profession de foi d'Anne Hidalgo (présidentielle 2022)",
+   "type": "profession de foi",
+   "date": "2022-03",
+   "archive": true,
+   "url": "https://www.cnccep.fr/pdfs/Candidat-03-Anne-Hidalgo-Declaration.pdf"
+  },
+  {
+   "id": "rn-2024",
+   "candidature": "rn",
+   "titre": "« Un projet, une méthode » (législatives 2024)",
+   "type": "programme",
+   "date": "2024-06",
+   "archive": true,
+   "url": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+   "justification": "Le RN n'a pas publié de programme écrit pour 2027. On cite son programme des législatives 2024 et son projet présidentiel 2022."
+  },
+  {
+   "id": "rn-contre-budget-2026",
+   "candidature": "rn",
+   "titre": "Contre-budget 2026 du Rassemblement national",
+   "type": "propositions",
+   "date": "2025-10-23",
+   "archive": false,
+   "url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf"
+  },
+  {
+   "id": "rn-2022-22mesures",
+   "candidature": "rn",
+   "titre": "22 mesures pour 2022",
+   "type": "programme",
+   "date": "2022-01",
+   "archive": true,
+   "url": "https://rassemblementnational.fr/22-mesures"
+  },
+  {
+   "id": "rn-2022-immigration",
+   "fichier": "rn-2022-projet-controle-de-limmigration",
+   "candidature": "rn",
+   "titre": "Projet 2022 : Contrôler l'immigration",
+   "type": "livret thématique",
+   "date": "2022",
+   "archive": true,
+   "url": "https://rassemblementnational.fr/documents/projet/projet-controle-de-limmigration.pdf"
+  },
+  {
+   "id": "rn-2022-securite",
+   "fichier": "rn-2022-projet-la-securite",
+   "candidature": "rn",
+   "titre": "Projet 2022 : La sécurité",
+   "type": "livret thématique",
+   "date": "2022",
+   "archive": true,
+   "url": "https://rassemblementnational.fr/documents/projet/projet-la-securite.pdf"
+  },
+  {
+   "id": "rn-2022-ecole",
+   "fichier": "rn-2022-projet-l-ecole",
+   "candidature": "rn",
+   "titre": "Projet 2022 : L'école",
+   "type": "livret thématique",
+   "date": "2022",
+   "archive": true,
+   "url": "https://rassemblementnational.fr/documents/projet/projet-l-ecole.pdf"
+  },
+  {
+   "id": "rn-2022-sante",
+   "fichier": "rn-2022-projet-la-sante",
+   "candidature": "rn",
+   "titre": "Projet 2022 : La santé",
+   "type": "livret thématique",
+   "date": "2022",
+   "archive": true,
+   "url": "https://rassemblementnational.fr/documents/projet/projet-la-sante.pdf"
+  },
+  {
+   "id": "rn-2022-ecologie",
+   "fichier": "rn-2022-projet-lecologie",
+   "candidature": "rn",
+   "titre": "Projet 2022 : Pour une écologie française",
+   "type": "livret thématique",
+   "date": "2022",
+   "archive": true,
+   "url": "https://rassemblementnational.fr/documents/projet/projet-lecologie.pdf"
+  },
+  {
+   "id": "rn-2022-fraude",
+   "fichier": "rn-2022-projet-la-lutte-contre-la-fraude",
+   "candidature": "rn",
+   "titre": "Projet 2022 : La lutte contre la fraude",
+   "type": "livret thématique",
+   "date": "2022",
+   "archive": true,
+   "url": "https://rassemblementnational.fr/documents/projet/projet-la-lutte-contre-la-fraude.pdf"
+  },
+  {
+   "id": "rn-2022-famille",
+   "fichier": "rn-2022-projet-la-famille",
+   "candidature": "rn",
+   "titre": "Projet 2022 : La famille",
+   "type": "livret thématique",
+   "date": "2022",
+   "archive": true,
+   "url": "https://rassemblementnational.fr/documents/projet/projet-la-famille.pdf"
+  },
+  {
+   "id": "rn-2022-agriculture",
+   "fichier": "rn-2022-projet-l-agriculture",
+   "candidature": "rn",
+   "titre": "Projet 2022 : L'agriculture",
+   "type": "livret thématique",
+   "date": "2022",
+   "archive": true,
+   "url": "https://rassemblementnational.fr/documents/projet/projet-l-agriculture.pdf"
+  },
+  {
+   "id": "lepen-2022-pdf",
+   "fichier": "pdf-06-Marine-Le-Pen-Declaration-accessible",
+   "candidature": "rn",
+   "titre": "Profession de foi de Marine Le Pen (présidentielle 2022)",
+   "type": "profession de foi",
+   "date": "2022-03",
+   "archive": true,
+   "url": "https://www.cnccep.fr/pdfs/Candidat-06-Marine-Le-Pen-Declaration-accessible.pdf"
+  },
+  {
+   "id": "rec-programme",
+   "fichier": "rec-programme-2025",
+   "candidature": "reconquete",
+   "titre": "Le programme de Reconquête (page du site, état du 24 janvier 2025)",
+   "type": "programme",
+   "date": "2025-01-24",
+   "archive": true,
+   "url": "https://web.archive.org/web/20250124033805/https://www.parti-reconquete.fr/programme",
+   "justification": "Reconquête n'a pas encore publié de programme 2027. On cite la page programme de son site, archivée en janvier 2025, et la profession de foi de 2022.",
+   "telechargement": "http://web.archive.org/web/20250124033805id_/https://www.parti-reconquete.fr/programme"
+  },
+  {
+   "id": "zemmour-2022-pdf",
+   "fichier": "pdf-12-Eric-Zemmour-Declaration",
+   "candidature": "reconquete",
+   "titre": "Profession de foi d'Éric Zemmour (présidentielle 2022)",
+   "type": "profession de foi",
+   "date": "2022-03",
+   "archive": true,
+   "url": "https://www.cnccep.fr/pdfs/Candidat-12-Eric-Zemmour-Declaration.pdf"
+  },
+  {
+   "id": "re-travail",
+   "fichier": "re-travail-salaires",
+   "candidature": "renaissance",
+   "titre": "Chantiers capitaux : travail et salaires",
+   "type": "propositions",
+   "date": "2026",
+   "archive": false,
+   "url": "https://attalpresident.fr/programme/travail-salaires"
+  },
+  {
+   "id": "re-dette",
+   "fichier": "re-dette-de-letat",
+   "candidature": "renaissance",
+   "titre": "Chantiers capitaux : la dette de l'État",
+   "type": "propositions",
+   "date": "2026",
+   "archive": false,
+   "url": "https://attalpresident.fr/programme/dette-de-letat"
+  },
+  {
+   "id": "re-ecologie",
+   "fichier": "re-dette-ecologique",
+   "candidature": "renaissance",
+   "titre": "Chantiers capitaux : la dette écologique",
+   "type": "propositions",
+   "date": "2026",
+   "archive": false,
+   "url": "https://attalpresident.fr/programme/dette-ecologique"
+  },
+  {
+   "id": "re-education",
+   "fichier": "re-education",
+   "candidature": "renaissance",
+   "titre": "Chantiers capitaux : éducation",
+   "type": "propositions",
+   "date": "2026",
+   "archive": false,
+   "url": "https://attalpresident.fr/programme/education"
+  },
+  {
+   "id": "re-frontieres",
+   "fichier": "re-frontieres",
+   "candidature": "renaissance",
+   "titre": "Chantiers capitaux : frontières",
+   "type": "propositions",
+   "date": "2026",
+   "archive": false,
+   "url": "https://attalpresident.fr/programme/frontieres"
+  },
+  {
+   "id": "re-ia",
+   "fichier": "re-intelligence-artificielle",
+   "candidature": "renaissance",
+   "titre": "Chantiers capitaux : intelligence artificielle",
+   "type": "propositions",
+   "date": "2026",
+   "archive": false,
+   "url": "https://attalpresident.fr/programme/intelligence-artificielle"
+  },
+  {
+   "id": "macron-2022",
+   "fichier": "re-macron-2022",
+   "candidature": "renaissance",
+   "titre": "Emmanuel Macron, « Avec vous » (programme 2022)",
+   "type": "programme",
+   "date": "2022-03",
+   "archive": true,
+   "url": "https://web.archive.org/web/20220317215226/https://avecvous.fr/wp-content/uploads/2022/03/Emmanuel-Macron-Avec-Vous-24-pages.pdf",
+   "justification": "Les « Chantiers capitaux » de Gabriel Attal ne couvrent que six thèmes : on complète par le programme 2022 de la majorité présidentielle.",
+   "telechargement": "http://web.archive.org/web/20220317215226id_/https://avecvous.fr/wp-content/uploads/2022/03/Emmanuel-Macron-Avec-Vous-24-pages.pdf"
+  },
+  {
+   "id": "macron-2022-pdf",
+   "fichier": "pdf-07-Emmanuel-Macron-Declaration",
+   "candidature": "renaissance",
+   "titre": "Profession de foi d'Emmanuel Macron (présidentielle 2022)",
+   "type": "profession de foi",
+   "date": "2022-03",
+   "archive": true,
+   "url": "https://www.cnccep.fr/pdfs/Candidat-07-Emmanuel-Macron-Declaration.pdf"
+  }
+ ],
+ "themes": [
+  {
+   "id": "travail",
+   "nom": "Travail et économie"
+  },
+  {
+   "id": "pouvoir-achat",
+   "nom": "Pouvoir d'achat et fiscalité"
+  },
+  {
+   "id": "social",
+   "nom": "Retraites, santé et protection sociale"
+  },
+  {
+   "id": "securite",
+   "nom": "Sécurité et justice"
+  },
+  {
+   "id": "immigration",
+   "nom": "Immigration"
+  },
+  {
+   "id": "ecologie",
+   "nom": "Écologie et énergie"
+  },
+  {
+   "id": "education",
+   "nom": "Éducation"
+  },
+  {
+   "id": "institutions",
+   "nom": "Institutions et démocratie"
+  },
+  {
+   "id": "europe",
+   "nom": "Europe et international"
+  }
+ ],
+ "concepts": [
+  {
+   "id": "travail",
+   "nom": "Travail"
+  },
+  {
+   "id": "merite",
+   "nom": "Mérite"
+  },
+  {
+   "id": "solidarite",
+   "nom": "Solidarité"
+  },
+  {
+   "id": "liberte",
+   "nom": "Liberté"
+  },
+  {
+   "id": "egalite",
+   "nom": "Égalité"
+  },
+  {
+   "id": "protection",
+   "nom": "Protection"
+  },
+  {
+   "id": "securite",
+   "nom": "Sécurité"
+  },
+  {
+   "id": "ordre",
+   "nom": "Ordre"
+  },
+  {
+   "id": "justice",
+   "nom": "Justice"
+  },
+  {
+   "id": "souverainete",
+   "nom": "Souveraineté"
+  },
+  {
+   "id": "peuple",
+   "nom": "Peuple"
+  },
+  {
+   "id": "nation",
+   "nom": "Nation"
+  },
+  {
+   "id": "identite",
+   "nom": "Identité"
+  },
+  {
+   "id": "democratie",
+   "nom": "Démocratie"
+  },
+  {
+   "id": "laicite",
+   "nom": "Laïcité"
+  },
+  {
+   "id": "transition",
+   "nom": "Transition"
+  },
+  {
+   "id": "progres",
+   "nom": "Progrès"
+  },
+  {
+   "id": "puissance",
+   "nom": "Puissance"
+  }
+ ]
+}

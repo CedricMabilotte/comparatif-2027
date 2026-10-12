@@ -1,0 +1,2599 @@
+[
+ {
+  "id": "age-legal-de-depart",
+  "nom": "Âge légal de départ à la retraite",
+  "variantes": [
+   "âge légal",
+   "âge d’ouverture des droits",
+   "réforme des retraites de 2023"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "social",
+  "definition": "L’âge légal est l’âge minimal à partir duquel un assuré peut demander la liquidation de sa pension de retraite, sauf dispositifs de départ anticipé. L’ordonnance de 1982 a ramené de 65 à 60 ans l’âge permettant un départ à taux plein ; cet âge a ensuite été relevé à 62 ans par la réforme de 2010, puis porté progressivement vers 64 ans par la réforme de 2023. La loi de financement de la sécurité sociale pour 2026 du 30 décembre 2025, à la suite du débat ouvert à l’automne 2025, a suspendu ce relèvement jusqu’au 1er janvier 2028 : la génération 1964 peut ainsi partir à 62 ans et 9 mois au lieu de 63 ans. La réforme n’est pas abrogée et son calendrier reprendrait ensuite, sauf nouvelle loi. Il se distingue de l’âge du taux plein automatique, à partir duquel aucune décote ne s’applique, fixé à 67 ans. L’âge légal se combine avec la durée de cotisation exigée pour obtenir une pension à taux plein.",
+  "enjeux": "Ses partisans d’un relèvement y voient le levier le plus direct pour équilibrer le système par répartition face au vieillissement démographique. Ses opposants soulignent que le recul de l’âge pèse surtout sur les personnes entrées tôt sur le marché du travail et dont l’espérance de vie en bonne santé est plus courte. Une partie du débat porte aussi sur l’opportunité de raisonner en durée de cotisation plutôt qu’en âge.",
+  "reperes": [
+   "Ordonnance de 1982 ouvrant la retraite à taux plein à 60 ans",
+   "Relèvement à 62 ans par la loi de 2010",
+   "Relèvement progressif vers 64 ans par la loi de financement rectificative de la Sécurité sociale de 2023",
+   "Relèvement suspendu jusqu’au 1er janvier 2028 par la loi de financement de la sécurité sociale pour 2026 (30 décembre 2025)"
+  ],
+  "liens": [
+   "duree-de-cotisation",
+   "penibilite",
+   "minimum-contributif"
+  ],
+  "motifs": [
+   "âge légal de départ",
+   "âge légal de la retraite",
+   "âge de départ",
+   "retraite à 64 ans",
+   "retraite à 62 ans",
+   "retraite à 60 ans",
+   "retraite à 65 ans",
+   "réforme des retraites",
+   "réforme Macron de 2023",
+   "à 64 ans",
+   "à partir de 60 ans"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit d’abroger l’âge légal de 64 ans pour revenir immédiatement à 62 ans et de viser à terme une retraite à 60 ans.",
+    "appuis": [
+     "pbde9b10d"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’abroger les décrets portant l’âge de départ à 64 ans et de rétablir le droit à la retraite à 60 ans avec 40 années de cotisation.",
+    "appuis": [
+     "pa38ec343",
+     "p6c6b4a39",
+     "p1bb57018"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de porter l’âge légal de départ à 65 ans à l’horizon 2030, en tenant compte de la pénibilité et des carrières longues.",
+    "appuis": [
+     "p5acb8849"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit d’abroger la réforme de 2023 et de « sanctuariser » la retraite à 62 ans, tout en proposant de moduler l’âge de départ selon la pénibilité et l’espérance de vie.",
+    "appuis": [
+     "p45386d87",
+     "p96afe6ea",
+     "pce3b6aaa"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose que l’enjeu ne soit plus l’âge de départ mais la durée de cotisation.",
+    "appuis": [
+     "p4a8a715d"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d’abroger la réforme des retraites, de refuser tout allongement de l’âge de départ et de permettre un départ à partir de 60 ans dans un système progressif de 40 à 42 annuités.",
+    "appuis": [
+     "p64998eaa",
+     "pf0122122",
+     "p14f2f85a"
+    ]
+   }
+  }
+ },
+ {
+  "id": "duree-de-cotisation",
+  "nom": "Durée de cotisation",
+  "variantes": [
+   "durée d’assurance",
+   "annuités",
+   "trimestres validés",
+   "carrière complète"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "social",
+  "definition": "La durée de cotisation, ou durée d’assurance, est le nombre de trimestres validés qu’un assuré doit réunir pour obtenir une pension à taux plein avant l’âge d’annulation de la décote. Elle a été allongée par paliers depuis la réforme de 1993, puis fixée à 43 ans (172 trimestres) par la loi de 2014, calendrier que la réforme de 2023 a accéléré. La loi de financement de la sécurité sociale pour 2026 a suspendu cette accélération jusqu’au 1er janvier 2028 : la génération 1964 doit réunir 170 trimestres au lieu de 171. Les trimestres sont validés principalement par les revenus d’activité, mais aussi au titre du chômage indemnisé, de la maladie ou de la maternité. Une carrière complète désigne une carrière ayant atteint cette durée requise.",
+  "enjeux": "Ses défenseurs y voient un critère plus juste que l’âge, car il tient compte de l’entrée plus ou moins précoce dans la vie active. D’autres font valoir que l’allongement de la durée pénalise les carrières hachées, en particulier celles des femmes, et les jeunes qui entrent tard sur le marché du travail après des études longues.",
+  "reperes": [
+   "Loi du 20 janvier 2014 fixant la durée requise à 172 trimestres",
+   "Réforme de 2023 accélérant ce calendrier",
+   "Accélération suspendue jusqu’au 1er janvier 2028 par la loi de financement de la sécurité sociale pour 2026"
+  ],
+  "liens": [
+   "age-legal-de-depart",
+   "penibilite",
+   "minimum-contributif"
+  ],
+  "motifs": [
+   "annuités",
+   "trimestres",
+   "durée de cotisation",
+   "carrière complète",
+   "années de cotisation"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme prévoit une retraite à 60 ans avec 40 années de cotisation et la validation de trimestres de retraite au titre du RSA.",
+    "appuis": [
+     "p6c6b4a39",
+     "p5a66b3ba"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose d’exonérer de cotisations retraite et chômage les salariés qui ont tous leurs trimestres sans avoir atteint l’âge légal.",
+    "appuis": [
+     "pdf911911"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de faire de la durée de cotisation, et non plus de l’âge de départ, l’enjeu central de la retraite.",
+    "appuis": [
+     "p4a8a715d"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit un système progressif de 40 à 42 annuités, avec un départ à 60 ans après 40 annuités pour ceux qui ont commencé à travailler avant 20 ans.",
+    "appuis": [
+     "p14f2f85a",
+     "p651f76a4"
+    ]
+   }
+  }
+ },
+ {
+  "id": "penibilite",
+  "nom": "Pénibilité et carrières longues",
+  "variantes": [
+   "compte professionnel de prévention",
+   "C2P",
+   "facteurs de pénibilité",
+   "usure professionnelle",
+   "dispositif carrières longues"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "social",
+  "definition": "La pénibilité désigne l’exposition durable à des facteurs de risques professionnels susceptibles de laisser des traces sur la santé. Le compte personnel de prévention de la pénibilité, créé en 2014, est devenu le compte professionnel de prévention (C2P) en 2017 : il permet d’acquérir des points convertibles en formation, en temps partiel ou en trimestres de retraite. Les ordonnances de 2017 ont retiré quatre facteurs (manutention de charges lourdes, postures pénibles, vibrations mécaniques, agents chimiques dangereux), six restant pris en compte, comme le travail de nuit ou le bruit. Le dispositif « carrières longues », créé en 2003, permet par ailleurs un départ anticipé à ceux qui ont commencé à travailler jeunes.",
+  "enjeux": "Les syndicats et une partie de la gauche demandent le rétablissement des quatre facteurs retirés et l’ajout de nouveaux risques, notamment psychosociaux. Les organisations patronales ont jugé ces critères difficiles à mesurer individuellement. Le débat oppose une approche par critères d’exposition à une approche plus globale de l’« usure professionnelle ».",
+  "reperes": [
+   "Compte personnel de prévention de la pénibilité créé par la loi du 20 janvier 2014",
+   "Quatre facteurs retirés par les ordonnances de septembre 2017",
+   "Dispositif carrières longues créé par la loi de 2003"
+  ],
+  "liens": [
+   "age-legal-de-depart",
+   "duree-de-cotisation"
+  ],
+  "motifs": [
+   "pénibilité",
+   "usure professionnelle",
+   "carrières longues",
+   "carrière longue",
+   "carrières pénibles",
+   "critères de pénibilité",
+   "facteurs de pénibilité"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de réintroduire les quatre critères de pénibilité supprimés en 2017 et d’ajouter un critère lié aux risques psychosociaux et à l’épuisement professionnel.",
+    "appuis": [
+     "pa5961eff",
+     "pc0b22a2e"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de rétablir les facteurs de pénibilité supprimés sous la présidence d’Emmanuel Macron.",
+    "appuis": [
+     "p4e14c3d9"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme associe le report de l’âge légal à 65 ans à la prise en compte de la pénibilité et des carrières longues.",
+    "appuis": [
+     "p5acb8849"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit de rétablir les critères de pénibilité et de moduler l’âge de départ selon la pénibilité et l’espérance de vie.",
+    "appuis": [
+     "p96afe6ea",
+     "pce3b6aaa"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose une prise en compte des carrières longues ou pénibles et une mobilisation contre l’« usure professionnelle ».",
+    "appuis": [
+     "pba463080",
+     "p969019cd"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit un système de retraite qui tienne compte de la « pénibilité réelle » des emplois faiblement qualifiés et un départ à 60 ans pour les carrières commencées avant 20 ans.",
+    "appuis": [
+     "p64998eaa",
+     "p651f76a4"
+    ]
+   }
+  }
+ },
+ {
+  "id": "retraite-par-capitalisation",
+  "nom": "Retraite par capitalisation et retraite à points",
+  "variantes": [
+   "capitalisation",
+   "épargne retraite",
+   "retraite à points",
+   "système universel par points"
+  ],
+  "categorie": "doctrine ou courant",
+  "theme": "social",
+  "definition": "Dans un régime par capitalisation, chaque actif épargne pour sa propre retraite et les sommes sont placées sur les marchés financiers ou dans des actifs. Le système français repose depuis 1945 principalement sur la répartition, où les cotisations des actifs financent les pensions des retraités de la même année. Des dispositifs d’épargne retraite facultatifs existent, regroupés depuis 2019 dans le plan d’épargne retraite (PER). La retraite à points, distincte de la capitalisation, est un mode de calcul où les cotisations achètent des points convertis en pension ; elle était au cœur du projet de système universel présenté en 2019 puis abandonné.",
+  "enjeux": "Ses partisans présentent la capitalisation comme un complément qui diversifie les sources de financement et soutient l’investissement. Ses opposants la jugent exposée aux aléas financiers et inégalitaire, et y voient une remise en cause de la solidarité entre générations. La retraite à points est défendue par certains pour sa lisibilité, critiquée par d’autres parce que la valeur du point peut être ajustée à la baisse.",
+  "reperes": [
+   "Plan d’épargne retraite créé par la loi Pacte de 2019",
+   "Projet de système universel de retraite par points suspendu en mars 2020"
+  ],
+  "liens": [
+   "age-legal-de-depart",
+   "indexation-des-pensions"
+  ],
+  "motifs": [
+   "capitalisation",
+   "retraite à points",
+   "retraite à point",
+   "épargne retraite"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme refuse toute évolution vers une retraite par capitalisation, dont la retraite à points, et prévoit d’interdire aux fonds de retraite les investissements dans les énergies fossiles.",
+    "appuis": [
+     "p5a3f984f",
+     "p4c284054"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’abroger la retraite à points si elle venait à être mise en place.",
+    "appuis": [
+     "p6721730d"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit l’ouverture d’un compte d’épargne retraite pour chaque actif.",
+    "appuis": [
+     "pd1039316"
+    ]
+   }
+  }
+ },
+ {
+  "id": "minimum-contributif",
+  "nom": "Minimum contributif et pension minimale",
+  "variantes": [
+   "Mico",
+   "pension minimale",
+   "minimum de pension",
+   "retraite minimale à 1 200 euros"
+  ],
+  "categorie": "prestation sociale",
+  "theme": "social",
+  "definition": "Le minimum contributif est un montant plancher de pension de base versé par le régime général aux assurés qui ont droit à une retraite à taux plein mais dont les salaires ont été faibles. Créé en 1983, il est majoré pour les trimestres effectivement cotisés et s’ajoute aux pensions complémentaires dans la limite d’un plafond global. Il relève de la logique contributive, puisqu’il suppose une carrière ayant ouvert des droits, à la différence du minimum vieillesse. La réforme de 2023 l’a revalorisé avec l’objectif affiché d’une pension proche de 85 % du Smic net pour une carrière complète.",
+  "enjeux": "Le niveau de la pension minimale est un marqueur fréquent des programmes, chiffré en euros ou rapporté au Smic ou au seuil de pauvreté. Les débats portent sur le coût de ces revalorisations, sur le nombre réel de bénéficiaires et sur l’écart à maintenir avec les revenus d’activité et le minimum vieillesse.",
+  "reperes": [
+   "Minimum contributif créé en 1983"
+  ],
+  "liens": [
+   "minimum-vieillesse",
+   "duree-de-cotisation",
+   "indexation-des-pensions"
+  ],
+  "motifs": [
+   "minimum contributif",
+   "Mico",
+   "pension minimale",
+   "petites retraites",
+   "retraite inférieure au SMIC",
+   "pensions de retraite à 1400"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit d’augmenter le minimum contributif pour atteindre progressivement le seuil de pauvreté.",
+    "appuis": [
+     "peacf79de"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de porter le minimum contributif au niveau du Smic et les pensions à 1 400 euros minimum pour une carrière complète.",
+    "appuis": [
+     "p8d26686f",
+     "p90d7138d"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose qu’aucune retraite ne soit inférieure au Smic net pour une personne ayant cotisé toute sa vie.",
+    "appuis": [
+     "p46406374"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit de porter le minimum contributif à 1 200 euros net par mois.",
+    "appuis": [
+     "p46d63046"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de revaloriser les petites retraites inférieures à 1 300 euros par mois en les exonérant de CSG et de CRDS.",
+    "appuis": [
+     "p6b68dec9"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de porter la pension minimale à taux plein à 1 100 euros par mois.",
+    "appuis": [
+     "pecd55b96"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d’augmenter les petites retraites.",
+    "appuis": [
+     "p91bbd795"
+    ]
+   }
+  }
+ },
+ {
+  "id": "minimum-vieillesse",
+  "nom": "Minimum vieillesse (ASPA)",
+  "variantes": [
+   "allocation de solidarité aux personnes âgées",
+   "ASPA"
+  ],
+  "categorie": "prestation sociale",
+  "theme": "social",
+  "definition": "Le minimum vieillesse désigne l’allocation de solidarité aux personnes âgées (ASPA), qui a remplacé au milieu des années 2000 les anciennes allocations du minimum vieillesse. C’est une prestation non contributive, versée sous conditions de ressources et de résidence aux personnes ayant atteint l’âge d’annulation de la décote, ou l’âge légal en cas d’inaptitude. Elle complète les ressources jusqu’à un plafond. Les sommes versées peuvent être récupérées sur la succession au-delà d’un certain seuil d’actif net.",
+  "enjeux": "Plusieurs programmes proposent de le porter au seuil de pauvreté ou à un montant fixe. Les débats portent sur le coût, sur le non-recours lié notamment à la récupération sur succession, et, pour certains partis, sur les conditions d’accès des étrangers.",
+  "reperes": [
+   "ASPA instituée par une ordonnance de 2004"
+  ],
+  "liens": [
+   "minimum-contributif",
+   "conditionnement-des-prestations",
+   "solidarite-a-la-source"
+  ],
+  "motifs": [
+   "minimum vieillesse",
+   "ASPA",
+   "allocation spécifique aux personnes âgées",
+   "allocation de solidarité aux personnes âgées"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit d’augmenter l’ASPA pour atteindre progressivement le seuil de pauvreté.",
+    "appuis": [
+     "peacf79de"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de porter le minimum vieillesse au niveau du seuil de pauvreté ; un autre texte le chiffre à 1 063 euros par mois.",
+    "appuis": [
+     "p8d26686f",
+     "p90d7138d"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit de porter le minimum vieillesse à 1 000 euros net par mois.",
+    "appuis": [
+     "p46d63046"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de supprimer les aides sociales non contributives, dont le minimum vieillesse, pour les étrangers extra-européens.",
+    "appuis": [
+     "p167d2bf2"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de revaloriser le minimum vieillesse à 1 000 euros par mois.",
+    "appuis": [
+     "p91bbd795"
+    ]
+   }
+  }
+ },
+ {
+  "id": "pension-de-reversion",
+  "nom": "Pension de réversion",
+  "variantes": [
+   "réversion",
+   "droits conjugaux"
+  ],
+  "categorie": "prestation sociale",
+  "theme": "social",
+  "definition": "La pension de réversion est une partie de la retraite d’un assuré décédé versée à son conjoint survivant, et parfois à ses ex-conjoints. Ses règles varient selon les régimes : au régime général, elle représente 54 % de la pension du défunt et est soumise à conditions de ressources, tandis que le régime complémentaire Agirc-Arrco verse 60 % sans condition de ressources. Elle est réservée aux couples mariés, à l’exclusion des partenaires de Pacs et des concubins. Elle bénéficie très majoritairement à des femmes.",
+  "enjeux": "Les propositions portent sur la hausse de son taux, l’harmonisation entre régimes ou son ouverture aux couples pacsés. Les débats mettent en balance la réduction des écarts de pension entre femmes et hommes, le coût de la mesure et la question de savoir si la réversion doit compenser une perte de niveau de vie ou constituer un droit lié au mariage.",
+  "reperes": [
+   "Taux de 54 % au régime général, sous conditions de ressources",
+   "Taux de 60 % à l’Agirc-Arrco, sans condition de ressources"
+  ],
+  "liens": [
+   "minimum-vieillesse",
+   "allocations-familiales"
+  ],
+  "motifs": [
+   "réversion"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit d’unifier les droits familiaux et conjugaux des caisses de retraite, dont les pensions de réversion, pour améliorer la retraite des femmes.",
+    "appuis": [
+     "p8b310255"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de porter de 54 à 75 % la pension de réversion des veuves et veufs sans droit propre, et de permettre à un enfant handicapé sans revenu de la percevoir à vie.",
+    "appuis": [
+     "p365a892d",
+     "p777ff912"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose d’augmenter la pension de réversion et de rétablir la demi-part fiscale des veuves et veufs.",
+    "appuis": [
+     "p0114088f"
+    ]
+   }
+  }
+ },
+ {
+  "id": "cumul-emploi-retraite",
+  "nom": "Cumul emploi-retraite",
+  "variantes": [
+   "cumul emploi retraite",
+   "surcote",
+   "retraite progressive"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "social",
+  "definition": "Le cumul emploi-retraite permet à un retraité de reprendre une activité rémunérée tout en percevant sa pension. Le cumul est dit intégral, sans plafond de revenus, lorsque l’assuré a liquidé toutes ses pensions à taux plein ; sinon il est plafonné. Depuis la réforme de 2023, le cumul intégral peut ouvrir de nouveaux droits à pension. Il se distingue de la surcote, qui majore la pension de ceux qui prolongent leur activité au-delà du taux plein avant de partir, et de la retraite progressive, qui associe temps partiel et fraction de pension.",
+  "enjeux": "Ses partisans y voient un moyen d’augmenter le taux d’emploi des seniors et de répondre aux pénuries de main-d’œuvre, notamment dans la santé. Ses critiques notent qu’il peut traduire l’insuffisance des pensions et qu’il bénéficie surtout aux cadres et aux professions libérales.",
+  "reperes": [
+   "Cumul intégral ouvrant de nouveaux droits depuis la réforme de 2023"
+  ],
+  "liens": [
+   "age-legal-de-depart",
+   "duree-de-cotisation"
+  ],
+  "motifs": [
+   "cumul emploi-retraite",
+   "cumuler emploi et retraite",
+   "surcote"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose d’autoriser le cumul emploi-retraite sans limite et de remplacer la surcote et le cumul par un dispositif unique exonéré de cotisations, hors CSG et CRDS.",
+    "appuis": [
+     "p539c0bdf",
+     "p88f22272",
+     "pf4e528e3"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose un cumul emploi-retraite « plus simple et plus avantageux » pour une transition souple vers la retraite.",
+    "appuis": [
+     "pc273407e"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d’alléger les dispositifs de cumul emploi-retraite pour les médecins et les infirmiers.",
+    "appuis": [
+     "p3e3cb232"
+    ]
+   }
+  }
+ },
+ {
+  "id": "indexation-des-pensions",
+  "nom": "Indexation des pensions et des prestations",
+  "variantes": [
+   "revalorisation",
+   "sous-indexation",
+   "gel des pensions",
+   "désindexation"
+  ],
+  "categorie": "notion économique",
+  "theme": "social",
+  "definition": "L’indexation est la règle qui fait évoluer chaque année le montant d’une pension ou d’une prestation en fonction d’un indice de référence. Depuis la fin des années 1980, les pensions du régime général sont revalorisées selon l’inflation, et non plus selon l’évolution des salaires. Le législateur peut décider une sous-indexation, c’est-à-dire une hausse inférieure à l’inflation, ou un gel, ce qui procure des économies budgétaires mais réduit le pouvoir d’achat des bénéficiaires. Les mêmes mécanismes s’appliquent aux prestations sociales comme les allocations familiales ou les minima sociaux.",
+  "enjeux": "Le gel ou la sous-indexation sont régulièrement envisagés lors de la préparation des budgets de la Sécurité sociale. Leurs partisans y voient un levier d’économies rapide et réparti, leurs opposants une baisse du niveau de vie des retraités et des allocataires. Certains proposent une indexation différenciée selon le niveau de pension, ou un retour à l’indexation sur les salaires.",
+  "reperes": [
+   "Indexation des pensions sur les prix et non plus sur les salaires depuis la fin des années 1980"
+  ],
+  "liens": [
+   "minimum-contributif",
+   "minimum-vieillesse"
+  ],
+  "motifs": [
+   "indexer les retraites",
+   "indexer le montant des retraites",
+   "indexation des retraites",
+   "sous-indexer",
+   "dégel des prestations",
+   "indexer le montant des allocations"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de sous-indexer les plus hautes retraites et d’indexer les allocations chômage sur l’inflation.",
+    "appuis": [
+     "pbd22b437",
+     "pe84831da"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’indexer le montant des retraites sur les salaires.",
+    "appuis": [
+     "p82accbbf"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit l’indexation des retraites et le dégel des prestations.",
+    "appuis": [
+     "p07958387"
+    ]
+   }
+  }
+ },
+ {
+  "id": "deserts-medicaux",
+  "nom": "Déserts médicaux",
+  "variantes": [
+   "désert médical",
+   "zones sous-denses",
+   "accès aux soins"
+  ],
+  "categorie": "politique publique",
+  "theme": "social",
+  "definition": "L’expression « déserts médicaux » désigne les territoires où l’accès aux soins est difficile, faute de médecins ou de professionnels de santé en nombre suffisant, ou en raison de délais et de distances excessifs. Elle n’a pas de définition juridique unique : les agences régionales de santé délimitent des zones d’intervention prioritaire ouvrant droit à des aides à l’installation. Le phénomène touche des zones rurales, mais aussi des quartiers populaires et certaines villes moyennes. Il s’explique notamment par la limitation passée du nombre de médecins formés et par les départs en retraite.",
+  "enjeux": "Les réponses se partagent entre mesures incitatives (aides, maisons de santé, revalorisation des actes), mesures de formation (plus d’étudiants, stages ou année d’internat en zone sous-dotée), recours au salariat public et régulation de l’installation. Les représentants des médecins libéraux défendent en général l’incitation, tandis que d’autres jugent qu’elle a montré ses limites.",
+  "reperes": [],
+  "liens": [
+   "regulation-installation-medecins",
+   "centres-de-sante",
+   "permanence-des-soins"
+  ],
+  "motifs": [
+   "déserts médicaux",
+   "désert médical",
+   "zones sous-denses",
+   "territoires sous-dotés"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de créer 2 000 nouveaux centres de santé d’ici 2030, notamment dans les zones rurales et les quartiers prioritaires.",
+    "appuis": [
+     "p08be1494"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de réguler l’installation des médecins dans les déserts médicaux et de créer un corps de médecins généralistes fonctionnaires rémunérés pendant leurs études.",
+    "appuis": [
+     "p6b7cdf3b",
+     "p272dc133"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose une quatrième année d’internat de médecine générale effectuée dans les territoires qui manquent de médecins et 4 000 médecins de plus dans les maisons de santé.",
+    "appuis": [
+     "pa12f7b0d",
+     "pb6794321"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de faire de la quatrième année d’internat une année de professionnalisation contre les déserts médicaux et de développer centres de santé, dispensaires et permanences mobiles.",
+    "appuis": [
+     "p9ddcc23b",
+     "pa92a780e"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de recruter 1 000 médecins salariés par l’État sur cinq ans et de créer des services hospitaliers de proximité dans les déserts médicaux.",
+    "appuis": [
+     "p3fb8b1fc",
+     "p04eb7ecc"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme évoque la téléconsultation, des permanences ponctuelles dans les territoires les moins dotés et la régulation de l’installation, présentées comme des « leviers à construire ensemble ».",
+    "appuis": [
+     "p1adbe9d8"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d’augmenter le nombre d’étudiants en médecine, de moduler le prix de la consultation selon le lieu d’installation et de réduire le recours aux médecins diplômés hors de l’Union européenne.",
+    "appuis": [
+     "p2937c8c7",
+     "p9162e93d",
+     "p257c7eba"
+    ]
+   }
+  }
+ },
+ {
+  "id": "regulation-installation-medecins",
+  "nom": "Régulation de l’installation des médecins",
+  "variantes": [
+   "liberté d’installation",
+   "conventionnement sélectif",
+   "autorisation d’installation"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "social",
+  "definition": "Les médecins libéraux sont aujourd’hui libres de s’installer où ils le souhaitent, principe historique de la médecine libérale en France. Réguler l’installation consiste à conditionner l’installation ou le conventionnement avec l’Assurance maladie à la densité médicale de la zone, par exemple en n’autorisant une nouvelle installation en zone bien dotée qu’en cas de départ. Ce type de régulation existe déjà pour d’autres professions de santé, comme les infirmiers, les pharmaciens ou les kinésithérapeutes. Plusieurs propositions de loi transpartisanes en ce sens ont été débattues au Parlement.",
+  "enjeux": "Ses partisans estiment que les mesures incitatives n’ont pas suffi à réduire les inégalités territoriales. Ses opposants, dont la plupart des syndicats de médecins et des organisations d’internes, craignent une baisse de l’attractivité de la médecine générale et des déconventionnements, et soulignent que la pénurie concerne aussi les zones dites bien dotées.",
+  "reperes": [],
+  "liens": [
+   "deserts-medicaux",
+   "centres-de-sante"
+  ],
+  "motifs": [
+   "réguler l'installation",
+   "régulation de l'installation",
+   "autorisation d'installation",
+   "liberté d'installation",
+   "lieu d'installation"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de soumettre l’installation des médecins libéraux à une autorisation délivrée par l’agence régionale de santé.",
+    "appuis": [
+     "p1eb4a85d"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de réguler l’installation des médecins dans les déserts médicaux.",
+    "appuis": [
+     "p6b7cdf3b"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme cite la régulation de l’installation parmi les leviers contre les déserts médicaux.",
+    "appuis": [
+     "p1adbe9d8"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de moduler la rémunération de la consultation selon le lieu d’installation, sans démarche spécifique pour les praticiens.",
+    "appuis": [
+     "p9162e93d"
+    ]
+   }
+  }
+ },
+ {
+  "id": "tarification-a-l-activite",
+  "nom": "Tarification à l’activité (T2A)",
+  "variantes": [
+   "T2A",
+   "tarification à l’acte",
+   "dotation globale"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "social",
+  "definition": "La tarification à l’activité est le mode de financement des hôpitaux et cliniques selon lequel les ressources dépendent du nombre et de la nature des séjours et des actes réalisés, chacun étant rattaché à un tarif national. Introduite à partir de 2004 et généralisée en 2008 pour les activités de médecine, chirurgie et obstétrique, elle a remplacé pour les hôpitaux publics la dotation globale, enveloppe annuelle fixée à l’avance. Des financements forfaitaires complètent désormais la T2A, par exemple pour les urgences, la psychiatrie ou certaines maladies chroniques. Dans le débat public, on parle souvent de « tarification à l’acte », expression qui désigne plus précisément le paiement des médecins libéraux.",
+  "enjeux": "Ses défenseurs y voient un outil de transparence et d’efficience, qui rattache les moyens à l’activité réelle. Ses critiques lui reprochent d’inciter à multiplier les actes rentables, de mal financer la prévention et le suivi au long cours, et d’alimenter une logique de « l’hôpital entreprise ». Les alternatives proposées vont du retour à la dotation globale à un financement mixte fondé sur la population et des objectifs de santé.",
+  "reperes": [
+   "Mise en place progressive à partir de 2004, généralisée en 2008 en médecine, chirurgie et obstétrique"
+  ],
+  "liens": [
+   "financiarisation-du-soin",
+   "affection-de-longue-duree"
+  ],
+  "motifs": [
+   "tarification à l'activité",
+   "T2A",
+   "tarification à l'acte",
+   "dotation globale",
+   "financement global"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de limiter la part de la T2A en augmentant les dotations liées à des objectifs de santé publique et la tarification au patient pour les affections de longue durée.",
+    "appuis": [
+     "pe7c77293"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de revenir sur la « tarification à l’acte » ainsi que sur les suppressions de lits et de personnels.",
+    "appuis": [
+     "peaedfd58"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit d’en finir avec la « tarification à l’acte » à l’hôpital au profit d’un financement global, territorial et pluriannuel.",
+    "appuis": [
+     "pc3df79b4"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de revenir à un budget hospitalier sous forme de dotation globale.",
+    "appuis": [
+     "p15b31944"
+    ]
+   }
+  }
+ },
+ {
+  "id": "remboursement-a-100",
+  "nom": "Remboursement à 100 % et reste à charge",
+  "variantes": [
+   "100 % Sécu",
+   "Grande Sécu",
+   "reste à charge zéro",
+   "franchises médicales"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "social",
+  "definition": "Le reste à charge est la part des dépenses de santé qui demeure payée par le patient après les remboursements de l’Assurance maladie et, le cas échéant, de sa complémentaire. Il résulte notamment du ticket modérateur, des franchises médicales et participations forfaitaires, et des dépassements d’honoraires. Le remboursement à 100 % par la Sécurité sociale, parfois appelé « 100 % Sécu » ou « Grande Sécu », vise à supprimer ce reste à charge et à réduire le rôle des complémentaires. Il existe déjà pour les affections de longue durée et, depuis la réforme « 100 % santé », pour un panier d’équipements d’optique, de dentaire et d’audiologie.",
+  "enjeux": "Ses partisans soulignent que la coexistence de l’assurance obligatoire et des complémentaires génère des frais de gestion élevés et des inégalités d’accès. Ses opposants mettent en avant le coût pour les finances publiques, le transfert vers les prélèvements obligatoires et le risque de surconsommation. Le débat recoupe celui sur les franchises, doublées en 2024, que certains jugent nécessaires pour responsabiliser les patients et d’autres pénalisantes pour les malades.",
+  "reperes": [
+   "Réforme « 100 % santé » déployée entre 2019 et 2021",
+   "Franchises médicales instaurées en 2008"
+  ],
+  "liens": [
+   "complementaire-sante",
+   "affection-de-longue-duree"
+  ],
+  "motifs": [
+   "rembourser les soins à 100",
+   "soins à 100",
+   "100 % par l'Assurance maladie",
+   "remboursement intégral des soins",
+   "rembourser intégralement",
+   "reste à charge zéro",
+   "supprimer les franchises",
+   "100% les soins"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit une prise en charge à 100 % par l’Assurance maladie des soins essentiels au maintien de l’autonomie, la suppression des franchises et le remboursement intégral des soins liés à un psychotraumatisme.",
+    "appuis": [
+     "p5f696663",
+     "p7113481a"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de rembourser à 100 % les soins de santé prescrits par la Sécurité sociale et d’exiger des cliniques privées un « reste à charge zéro ».",
+    "appuis": [
+     "pc7a9ff45",
+     "p56f19dd7",
+     "p7defd2fc"
+    ]
+   }
+  }
+ },
+ {
+  "id": "complementaire-sante",
+  "nom": "Complémentaire santé",
+  "variantes": [
+   "mutuelle",
+   "complémentaire santé solidaire",
+   "C2S",
+   "protection sociale complémentaire"
+  ],
+  "categorie": "institution",
+  "theme": "social",
+  "definition": "La complémentaire santé, souvent appelée mutuelle, rembourse tout ou partie des dépenses de santé qui ne sont pas prises en charge par l’Assurance maladie obligatoire. Elle est proposée par des mutuelles, des institutions de prévoyance et des sociétés d’assurance. Depuis 2016, les employeurs du secteur privé doivent proposer une couverture collective à leurs salariés, et un dispositif comparable est mis en place dans la fonction publique. Les ménages modestes peuvent bénéficier de la complémentaire santé solidaire (C2S), gratuite ou à faible coût selon les revenus, créée en 2019.",
+  "enjeux": "Les retraités, qui ne bénéficient plus de contrat d’entreprise, supportent souvent des cotisations élevées. Les débats portent sur l’articulation entre assurance obligatoire et complémentaires : certains veulent étendre le rôle de la Sécurité sociale, d’autres mieux coordonner les deux étages ou élargir les aides à l’acquisition d’une complémentaire.",
+  "reperes": [
+   "Généralisation de la complémentaire d’entreprise au 1er janvier 2016",
+   "Complémentaire santé solidaire créée en novembre 2019"
+  ],
+  "liens": [
+   "remboursement-a-100"
+  ],
+  "motifs": [
+   "complémentaire santé",
+   "complémentaires santé",
+   "mutuelle des retraités",
+   "protection sociale complémentaire",
+   "contribution santé solidaire"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose d’élargir la complémentaire santé solidaire pour réduire le coût de la mutuelle des retraités.",
+    "appuis": [
+     "pa2e2d2b6"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de mutualiser les systèmes d’information de l’assurance maladie obligatoire et des complémentaires santé pour limiter les frais de fonctionnement.",
+    "appuis": [
+     "pe33426e1"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de mettre en place dès 2026 la protection sociale complémentaire pour les agents de la fonction publique hospitalière.",
+    "appuis": [
+     "p8b39cb26"
+    ]
+   }
+  }
+ },
+ {
+  "id": "souverainete-du-medicament",
+  "nom": "Souveraineté du médicament et pôle public",
+  "variantes": [
+   "pôle public du médicament",
+   "relocalisation des médicaments",
+   "pénuries de médicaments",
+   "licence obligatoire"
+  ],
+  "categorie": "politique publique",
+  "theme": "social",
+  "definition": "La France connaît depuis plusieurs années des tensions et des ruptures d’approvisionnement sur des médicaments courants, dont la production de principes actifs est largement concentrée en Asie. La souveraineté sanitaire désigne la capacité à garantir l’approvisionnement en produits de santé essentiels, par la relocalisation de la production, la constitution de stocks et la coordination européenne. Le pôle public du médicament est une proposition visant à confier à des établissements publics la production de médicaments essentiels ou en pénurie, par exemple en s’appuyant sur l’Agence générale des équipements et produits de santé de l’AP-HP. La licence obligatoire, prévue par le Code de la propriété intellectuelle, permet à l’État d’autoriser l’exploitation d’un brevet sans l’accord de son titulaire pour des motifs de santé publique.",
+  "enjeux": "La relocalisation fait l’objet d’un large accord de principe, mais les moyens divergent : aides à l’investissement des industriels, régulation des prix, ou production publique. Les partisans d’un pôle public jugent que le marché ne garantit pas la production des médicaments peu rentables, tandis que d’autres estiment qu’il revient aux industriels de produire, sous des obligations de stocks renforcées.",
+  "reperes": [],
+  "liens": [
+   "financiarisation-du-soin"
+  ],
+  "motifs": [
+   "pôle public du médicament",
+   "relocaliser en France la production de médicaments",
+   "fabrication des médicaments",
+   "rupture d'approvisionnement",
+   "autonomie stratégique pour les médicaments",
+   "licence obligatoire",
+   "propriété intellectuelle sur les médicaments",
+   "production de médicaments"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de développer le pôle public du médicament en élargissant la production de l’Ageps aux médicaments d’intérêt thérapeutique majeur en rupture d’approvisionnement.",
+    "appuis": [
+     "pd0e570d0"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de créer un pôle public du médicament avec des obligations de stocks renforcées et de suspendre la propriété intellectuelle sur les médicaments en temps de crise.",
+    "appuis": [
+     "pd5d7ed17",
+     "p4b131ec7"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de relocaliser en France la production de médicaments.",
+    "appuis": [
+     "p2ae4d929"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit un plan d’autonomie stratégique pour les médicaments, la vente à l’unité et le rapatriement de leur fabrication.",
+    "appuis": [
+     "p4891382d",
+     "p2c332576"
+    ]
+   }
+  }
+ },
+ {
+  "id": "centres-de-sante",
+  "nom": "Centres et maisons de santé",
+  "variantes": [
+   "centre de santé",
+   "maison de santé pluriprofessionnelle",
+   "MSP",
+   "dispensaire"
+  ],
+  "categorie": "institution",
+  "theme": "social",
+  "definition": "Les centres de santé sont des structures de soins de proximité où exercent des professionnels salariés, gérées par des collectivités, des associations, des mutuelles ou des établissements de santé ; ils pratiquent le tiers payant et les tarifs de la Sécurité sociale. Les maisons de santé pluriprofessionnelles regroupent quant à elles des professionnels libéraux, médecins, infirmiers ou kinésithérapeutes, autour d’un projet de santé commun. Les deux formules répondent à l’aspiration de nombreux jeunes soignants à l’exercice coordonné et sont mobilisées contre les déserts médicaux. Le terme de dispensaire désigne historiquement des centres de soins gratuits ou peu coûteux.",
+  "enjeux": "Le choix entre salariat en centre de santé et exercice libéral regroupé recoupe un débat plus large sur l’avenir de la médecine libérale. Les centres de santé sont parfois jugés coûteux pour les collectivités qui les financent, les maisons de santé dépendantes de la présence de médecins libéraux volontaires.",
+  "reperes": [],
+  "liens": [
+   "deserts-medicaux",
+   "regulation-installation-medecins"
+  ],
+  "motifs": [
+   "centres de santé",
+   "centre de santé",
+   "maisons de santé",
+   "maisons et de centres de santé",
+   "dispensaires"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de créer 2 000 nouveaux centres de santé d’ici 2030, ainsi que des centres de santé dans chaque université et pour les enfants placés dans chaque département.",
+    "appuis": [
+     "p08be1494",
+     "p7fbef8df",
+     "p8514172e"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de rétablir des permanences de soins des soignants libéraux dans les centres de santé.",
+    "appuis": [
+     "p6b7cdf3b"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose d’ajouter 4 000 médecins dans les maisons de santé pour lutter contre les déserts médicaux.",
+    "appuis": [
+     "pb6794321"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de développer centres ou maisons de santé, dispensaires et permanences mobiles en zones rurales.",
+    "appuis": [
+     "pa92a780e"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d’augmenter le nombre de maisons et de centres de santé.",
+    "appuis": [
+     "pc6bf151a"
+    ]
+   }
+  }
+ },
+ {
+  "id": "permanence-des-soins",
+  "nom": "Permanence des soins et gardes",
+  "variantes": [
+   "garde obligatoire",
+   "permanence des soins ambulatoires",
+   "gardes médicales"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "social",
+  "definition": "La permanence des soins désigne l’organisation de l’accès à un médecin aux heures de fermeture habituelle des cabinets, la nuit, le week-end et les jours fériés. Pour la médecine de ville, elle repose depuis le début des années 2000 sur le volontariat des médecins libéraux, organisés par secteurs sous l’égide des agences régionales de santé, la garde n’étant plus une obligation individuelle. À l’hôpital, elle est assurée par les établissements publics et par les cliniques privées qui y participent. Le faible nombre de volontaires dans certains territoires est l’une des causes de l’engorgement des urgences.",
+  "enjeux": "Une partie des responsables politiques propose de rétablir une obligation de garde ou d’en faire une condition pour exercer ou être remboursé. Les représentants des médecins libéraux défendent le volontariat et une meilleure rémunération des gardes. Le rôle des cliniques privées dans la permanence des soins est un autre point de débat.",
+  "reperes": [
+   "Passage au volontariat pour la médecine de ville au début des années 2000"
+  ],
+  "liens": [
+   "deserts-medicaux",
+   "centres-de-sante"
+  ],
+  "motifs": [
+   "permanence des soins",
+   "permanences de soin",
+   "garde obligatoire",
+   "participation plus large aux gardes"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de conditionner le remboursement public des soins en clinique privée à leur participation à une permanence des soins sans sélection des patients.",
+    "appuis": [
+     "p4168a1af"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de conditionner l’ouverture des cliniques privées à leur participation à la permanence des soins.",
+    "appuis": [
+     "p7defd2fc"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de rétablir une garde obligatoire pour les médecins sur l’ensemble du territoire.",
+    "appuis": [
+     "pb13dc337"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme évoque une participation plus large aux gardes pour désengorger les urgences.",
+    "appuis": [
+     "pf5f329af"
+    ]
+   }
+  }
+ },
+ {
+  "id": "affection-de-longue-duree",
+  "nom": "Affection de longue durée (ALD)",
+  "variantes": [
+   "ALD",
+   "affections de longue durée"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "social",
+  "definition": "Le régime des affections de longue durée permet une prise en charge à 100 % par l’Assurance maladie des soins liés à une maladie chronique ou grave nécessitant un traitement prolongé et coûteux. Une liste fixée par décret énumère une trentaine d’affections, comme le diabète ou certains cancers, et des affections hors liste peuvent être reconnues au cas par cas. Le dispositif couvre une part importante et croissante des dépenses de l’Assurance maladie, du fait du vieillissement et de la progression des maladies chroniques. Seuls les soins en rapport avec l’affection sont exonérés du ticket modérateur.",
+  "enjeux": "Des associations de patients demandent l’inscription de nouvelles pathologies, comme l’endométriose. D’autres acteurs s’interrogent sur la soutenabilité du dispositif, sur son contrôle et sur l’adaptation du financement hospitalier aux maladies chroniques.",
+  "reperes": [],
+  "liens": [
+   "remboursement-a-100",
+   "tarification-a-l-activite"
+  ],
+  "motifs": [
+   "affection de longue durée",
+   "affections de longue durée",
+   "affection longue durée",
+   "ALD"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de développer la tarification au patient pour les affections de longue durée afin de limiter la part de la T2A.",
+    "appuis": [
+     "pe7c77293"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de reconnaître l’endométriose comme affection de longue durée.",
+    "appuis": [
+     "p5920091a"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de reconnaître l’endométriose comme affection de longue durée et de contrôler systématiquement l’éligibilité à l’ALD.",
+    "appuis": [
+     "pdce1917f",
+     "p9dfa7149"
+    ]
+   }
+  }
+ },
+ {
+  "id": "sante-mentale",
+  "nom": "Santé mentale et psychiatrie",
+  "variantes": [
+   "psychiatrie publique",
+   "santé mentale des jeunes",
+   "psychiatrie de secteur"
+  ],
+  "categorie": "politique publique",
+  "theme": "social",
+  "definition": "La santé mentale recouvre le bien-être psychique, la prévention et la prise en charge des troubles psychiques, de l’anxiété aux pathologies psychiatriques sévères. En France, la psychiatrie publique est organisée depuis les années 1960 en secteurs géographiques, chacun rattaché à un établissement. Le secteur connaît des difficultés de recrutement, des fermetures de lits et de longs délais d’accès, notamment en pédopsychiatrie. La santé mentale a été déclarée grande cause nationale pour l’année 2025.",
+  "enjeux": "Le diagnostic d’une dégradation, en particulier chez les jeunes depuis la crise sanitaire, est largement partagé. Les propositions diffèrent sur les moyens : renforcement de la psychiatrie publique, remboursement des consultations de psychologues, prévention en milieu scolaire ou organisation territoriale autour des conseils locaux de santé mentale.",
+  "reperes": [
+   "Santé mentale grande cause nationale 2025"
+  ],
+  "liens": [
+   "deserts-medicaux",
+   "centres-de-sante"
+  ],
+  "motifs": [
+   "santé mentale",
+   "psychiatrie",
+   "troubles psychiques"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit un service public territorial de santé mentale appuyé sur les conseils locaux de santé mentale et une prévention renforcée en santé mentale.",
+    "appuis": [
+     "pf5aaacf8",
+     "p0655476e"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit un grand plan pour la santé mentale, avec davantage de moyens pour la psychiatrie publique et de places en faculté de médecine.",
+    "appuis": [
+     "p3a7076d5"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de faire de la santé mentale des jeunes une priorité nationale, de former et recruter davantage de spécialistes et d’ouvrir des places en établissements spécialisés.",
+    "appuis": [
+     "p7c185d2a",
+     "pad8bb1c1"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose des plans de détection et de prévention relatifs notamment à la santé mentale.",
+    "appuis": [
+     "peec88446"
+    ]
+   }
+  }
+ },
+ {
+  "id": "financiarisation-du-soin",
+  "nom": "Financiarisation et secteur lucratif du soin",
+  "variantes": [
+   "financiarisation de la santé",
+   "Ehpad lucratifs",
+   "crèches privées",
+   "hôpital entreprise"
+  ],
+  "categorie": "notion économique",
+  "theme": "social",
+  "definition": "La financiarisation désigne l’entrée croissante de groupes privés et de fonds d’investissement dans la santé et le médico-social, et l’application à ces secteurs d’objectifs de rentabilité financière. Elle concerne les cliniques, les laboratoires de biologie, les centres de radiologie, les Ehpad et les crèches. En France, ces secteurs combinent des acteurs publics, associatifs à but non lucratif et privés lucratifs, financés en partie par l’argent public. Des enquêtes et révélations sur des groupes d’Ehpad, à partir de 2022, puis sur des crèches privées, ont relancé le débat.",
+  "enjeux": "Ses critiques estiment que la recherche de rentabilité conduit à rationner le personnel et à sélectionner les activités les plus rentables, au détriment de la qualité. Les acteurs privés font valoir qu’ils apportent des capacités d’investissement et des places que le public ne finance pas, et que les dérives relèvent du contrôle. Les propositions vont du renforcement des contrôles à l’interdiction du secteur lucratif dans certains domaines.",
+  "reperes": [
+   "Révélations sur un groupe d’Ehpad privés en 2022"
+  ],
+  "liens": [
+   "ehpad",
+   "tarification-a-l-activite",
+   "protection-de-l-enfance",
+   "droit-opposable-garde"
+  ],
+  "motifs": [
+   "financiarisation",
+   "but lucratif",
+   "non lucratifs",
+   "fonds d'investissement d'exercer",
+   "logique de profit",
+   "marchandisation accélérée de la petite enfance",
+   "hôpital entreprise",
+   "sans but lucratif"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit d’interdire aux fonds d’investissement de contrôler un établissement de santé ou une structure de petite enfance, et d’interdire la création d’Ehpad à but lucratif.",
+    "appuis": [
+     "p699fc31a",
+     "pf85c953b"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit que les Ehpad soient des établissements non lucratifs.",
+    "appuis": [
+     "pe8aaa9ee"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de « contrer la financiarisation » du système de santé, de sortir de « l’hôpital entreprise » et de sortir la protection de l’enfance de toute logique de profit.",
+    "appuis": [
+     "pc3df79b4",
+     "p8dd52b50",
+     "p596d9633"
+    ]
+   }
+  }
+ },
+ {
+  "id": "fraude-sociale",
+  "nom": "Fraude sociale",
+  "variantes": [
+   "fraude aux prestations",
+   "fraude aux cotisations",
+   "carte Vitale biométrique",
+   "preuve de vie"
+  ],
+  "categorie": "notion juridique",
+  "theme": "social",
+  "definition": "La fraude sociale désigne l’obtention indue de prestations sociales par des déclarations fausses ou incomplètes, ainsi que le non-paiement délibéré de cotisations, notamment par le travail dissimulé. Elle se distingue de l’erreur et de l’indu, qui correspondent à des sommes versées à tort sans intention frauduleuse. Les organismes de Sécurité sociale disposent de services de contrôle et d’échanges de données, et des estimations de son ampleur sont régulièrement publiées par la Cour des comptes et les caisses. Des contrôles d’existence sont exigés des retraités résidant à l’étranger.",
+  "enjeux": "Les partis de droite et d’extrême droite mettent l’accent sur la fraude aux prestations, la sécurisation de la carte Vitale et les contrôles des bénéficiaires vivant à l’étranger. D’autres insistent sur la fraude patronale aux cotisations et sur le non-recours, dont les montants seraient plus élevés que ceux de la fraude aux prestations. Le choix du terme et du périmètre retenu est lui-même un enjeu du débat.",
+  "reperes": [],
+  "liens": [
+   "solidarite-a-la-source",
+   "conditionnement-des-prestations",
+   "rsa"
+  ],
+  "motifs": [
+   "fraude aux prestations",
+   "fraudes aux prestations",
+   "fraude sociale",
+   "fraudes sociales",
+   "fraudeurs",
+   "carte vitale biométrique",
+   "preuve de vie",
+   "indûment perçus",
+   "indument perçus",
+   "lutter contre la fraude",
+   "limiter la fraude",
+   "toujours vivantes",
+   "le non-recours et la fraude"
+  ],
+  "positions": {
+   "renaissance": {
+    "texte": "Le programme présente le versement automatique des aides comme un moyen d’éviter à la fois le non-recours et la fraude.",
+    "appuis": [
+     "pbb2fd480"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d’ouvrir aux organismes sociaux les fichiers utiles contre la fraude, une carte Vitale biométrique, une preuve de vie annuelle au consulat pour les bénéficiaires vivant à l’étranger et une amende-plancher égale au triple des sommes fraudées.",
+    "appuis": [
+     "p77615c6e",
+     "pefe1d1ff",
+     "p0f68eea3",
+     "p642cff2e"
+    ]
+   }
+  }
+ },
+ {
+  "id": "rsa",
+  "nom": "Revenu de solidarité active (RSA)",
+  "variantes": [
+   "RSA",
+   "RMI",
+   "15 heures d’activité",
+   "contreparties au RSA"
+  ],
+  "categorie": "prestation sociale",
+  "theme": "social",
+  "definition": "Le revenu de solidarité active est un minimum social qui garantit un revenu aux personnes sans ressources ou à faibles ressources, âgées d’au moins 25 ans sauf exceptions. Créé par une loi de 2008, il a remplacé le revenu minimum d’insertion (RMI), institué en 1988, et l’allocation de parent isolé. Il est versé par les caisses d’allocations familiales et financé par les départements, qui assurent aussi l’accompagnement des allocataires. Depuis la loi pour le plein emploi de 2023, les allocataires sont inscrits à France Travail et signent un contrat d’engagement prévoyant en principe au moins 15 heures d’activité hebdomadaire, sauf situation particulière.",
+  "enjeux": "L’obligation d’activité est défendue par ses partisans comme un moyen de remobiliser vers l’emploi et de rappeler le lien entre droits et devoirs. Ses opposants la jugent stigmatisante et contestent l’idée que les allocataires seraient responsables de leur situation. D’autres débats portent sur son montant, inférieur au seuil de pauvreté, sur son ouverture aux moins de 25 ans et sur une éventuelle recentralisation de son financement par l’État.",
+  "reperes": [
+   "RMI créé en 1988",
+   "RSA créé par la loi du 1er décembre 2008",
+   "Loi pour le plein emploi du 18 décembre 2023"
+  ],
+  "liens": [
+   "garantie-d-autonomie",
+   "allocation-sociale-unique",
+   "minimum-jeunesse",
+   "solidarite-a-la-source"
+  ],
+  "motifs": [
+   "RSA",
+   "revenu de solidarité active",
+   "15 heures",
+   "quinze heures",
+   "activité effective"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de remplacer le RSA par une garantie d’autonomie, de supprimer la contrepartie de 15 heures d’activité hebdomadaires et de nationaliser son versement en laissant l’accompagnement aux départements.",
+    "appuis": [
+     "p8ac5f984",
+     "pbb8eb189",
+     "ped37b17c"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’annuler les réformes du RSA et de permettre la validation de trimestres de retraite au titre du RSA.",
+    "appuis": [
+     "p3c4e77ce",
+     "p5a66b3ba"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose d’imposer 15 heures d’activité par semaine à tout bénéficiaire du RSA et de fusionner le RSA avec la prime d’activité et l’ASS dans un revenu d’incitation à l’activité.",
+    "appuis": [
+     "p08e3fa25",
+     "p028240db"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de conditionner le RSA à une « activité effective » permettant l’insertion.",
+    "appuis": [
+     "pf664046a"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de conditionner l’accès aux prestations non contributives comme le RSA à cinq années de travail en France.",
+    "appuis": [
+     "pf62e17f9"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de supprimer les aides sociales non contributives, dont le RSA, pour les étrangers extra-européens.",
+    "appuis": [
+     "p167d2bf2"
+    ]
+   }
+  }
+ },
+ {
+  "id": "garantie-d-autonomie",
+  "nom": "Garantie d’autonomie",
+  "variantes": [
+   "garantie dignité",
+   "revenu garanti au seuil de pauvreté"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "social",
+  "definition": "La garantie d’autonomie est une proposition portée par la gauche, qui consiste à garantir à chaque personne un revenu au moins égal au seuil de pauvreté, par un complément versé aux ménages dont les ressources sont inférieures. Elle remplacerait ou compléterait les minima sociaux existants, dont le RSA, et serait ouverte dès 18 ans, alors que le RSA ne l’est en principe qu’à partir de 25 ans. Elle se distingue du revenu universel, versé à tous sans condition de ressources. Le seuil de pauvreté retenu est le plus souvent celui fixé à 60 % du niveau de vie médian.",
+  "enjeux": "Ses défenseurs y voient un moyen d’éradiquer la grande pauvreté et de lutter contre le non-recours, en rompant avec la logique de contrepartie. Ses critiques s’interrogent sur son coût et redoutent un effet désincitatif sur la reprise d’emploi, en particulier pour les jeunes.",
+  "reperes": [],
+  "liens": [
+   "rsa",
+   "minimum-jeunesse",
+   "allocation-sociale-unique",
+   "allocation-d-autonomie"
+  ],
+  "motifs": [
+   "garantie d'autonomie",
+   "garantie dignité"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit une garantie d’autonomie en remplacement du RSA, portée à 50 % du Smic net, indexée sur lui et ouverte dès 18 ans aux personnes indépendantes fiscalement.",
+    "appuis": [
+     "p8ac5f984",
+     "p14c2f9b7",
+     "p512cf0ed"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit une garantie d’autonomie complétant les revenus des ménages sous le seuil de pauvreté, chiffrée à 1 063 euros par mois de 18 ans à la retraite, et une « garantie dignité » pour les minima sociaux.",
+    "appuis": [
+     "pee5178e5",
+     "pd325831a",
+     "p4eec6dee"
+    ]
+   }
+  }
+ },
+ {
+  "id": "allocation-sociale-unique",
+  "nom": "Allocation sociale unique et plafonnement des aides",
+  "variantes": [
+   "revenu d’incitation à l’activité",
+   "RIA",
+   "minimum social unique",
+   "revenu universel d’activité",
+   "compte social unique"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "social",
+  "definition": "L’allocation sociale unique désigne les projets de fusion de plusieurs prestations, comme le RSA, la prime d’activité, les aides au logement ou l’allocation de solidarité spécifique, en une prestation unique calculée de façon harmonisée. Un projet de « revenu universel d’activité » avait été mis en concertation par le gouvernement à partir de 2019 sans aboutir. Ces projets sont souvent associés à un plafonnement global des aides perçues par un ménage, afin de garantir que le travail rapporte toujours davantage que les prestations. Leur effet sur les bénéficiaires dépend des barèmes retenus et de la façon dont les aides fusionnées sont intégrées.",
+  "enjeux": "À droite, la fusion est présentée comme un outil de lisibilité et d’incitation au travail, et le plafonnement comme une réponse aux cumuls jugés excessifs. À gauche, le minimum social unique est défendu comme un moyen de simplifier l’accès aux droits et de l’ouvrir aux jeunes. Les associations de lutte contre la pauvreté s’inquiètent des perdants possibles d’une fusion à budget constant.",
+  "reperes": [
+   "Concertation sur un revenu universel d’activité lancée en 2019"
+  ],
+  "liens": [
+   "rsa",
+   "solidarite-a-la-source",
+   "garantie-d-autonomie"
+  ],
+  "motifs": [
+   "Revenu d'incitation à l'activité",
+   "RIA",
+   "minimum social unique",
+   "Compte social unique",
+   "plafond national",
+   "allocation sociale unique"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme propose un revenu d’incitation à l’activité remplaçant le RSA, la prime d’activité et l’ASS, avec un socle de 300 euros, un complément de 250 euros contre au moins quinze heures d’activité, un compte social unique et un plafond des aides à 70 % du Smic net par adulte.",
+    "appuis": [
+     "p028240db",
+     "pc15757b0",
+     "pb5c1738b",
+     "padf193c5",
+     "pc26fef20"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une grande conférence sociale pour aller vers un minimum social unique, accessible y compris aux moins de 25 ans.",
+    "appuis": [
+     "p1f8f87ff"
+    ]
+   }
+  }
+ },
+ {
+  "id": "solidarite-a-la-source",
+  "nom": "Solidarité à la source et non-recours",
+  "variantes": [
+   "non-recours",
+   "versement automatique des aides",
+   "dossier social unique"
+  ],
+  "categorie": "politique publique",
+  "theme": "social",
+  "definition": "Le non-recours désigne la situation des personnes qui ne perçoivent pas une prestation à laquelle elles ont droit, par méconnaissance, complexité des démarches ou crainte de la stigmatisation ; il concerne une part importante des ayants droit de certains minima sociaux. La « solidarité à la source » désigne, par analogie avec le prélèvement de l’impôt à la source, le préremplissage ou le versement automatique des prestations à partir des données de revenus déjà connues de l’administration. Depuis le 1er mars 2025, les déclarations trimestrielles de ressources pour le RSA et la prime d’activité sont préremplies pour tous les allocataires à partir des montants déclarés par les employeurs et les organismes, après une expérimentation dans cinq caisses à partir d’octobre 2024 ; certains revenus, comme ceux des indépendants, restent à déclarer. L’automatisation pose la question des erreurs et des sommes à rembourser.",
+  "enjeux": "La mesure fait l’objet d’un large consensus de principe, de la gauche au centre. Les débats portent sur sa mise en œuvre, sur le coût budgétaire d’un recours plus élevé, sur la protection des données et sur la gestion des indus en cas d’erreur.",
+  "reperes": [
+   "Déclarations trimestrielles de ressources préremplies pour le RSA et la prime d’activité depuis le 1er mars 2025"
+  ],
+  "liens": [
+   "rsa",
+   "fraude-sociale",
+   "allocation-sociale-unique"
+  ],
+  "motifs": [
+   "non-recours",
+   "solidarité à la source",
+   "automatisation du versement",
+   "versant automatiquement",
+   "dossier social unique",
+   "automatiser l'accès aux droits"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit une « solidarité à la source » par l’automatisation du versement des aides sociales, avec une protection face aux indus.",
+    "appuis": [
+     "pa179afe4"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de lutter contre le non-recours aux droits sociaux par la simplification des démarches.",
+    "appuis": [
+     "p6d5f3e17"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’automatiser l’accès aux droits avec un dossier social unique partagé entre tous les acteurs.",
+    "appuis": [
+     "p2b1fe754"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de verser automatiquement la prime d’activité, les allocations familiales, les APL et le RSA à ceux qui y ont droit.",
+    "appuis": [
+     "pbb2fd480"
+    ]
+   }
+  }
+ },
+ {
+  "id": "minimum-jeunesse",
+  "nom": "Revenu des jeunes de moins de 25 ans",
+  "variantes": [
+   "minimum jeunesse",
+   "RSA jeunes",
+   "revenu jeune actif",
+   "contrat d’engagement jeune"
+  ],
+  "categorie": "prestation sociale",
+  "theme": "social",
+  "definition": "Les jeunes de moins de 25 ans n’ont en principe pas accès au RSA, sauf s’ils sont parents ou ont travaillé deux ans au cours des trois dernières années. Ils peuvent bénéficier de dispositifs d’accompagnement assortis d’une allocation, comme le contrat d’engagement jeune créé en 2022, ou de bourses pour les étudiants. Cette exclusion est une spécificité française au regard de plusieurs pays européens. Les propositions consistent à ouvrir un minimum social dès 18 ans, avec ou sans condition d’engagement dans une formation ou un emploi.",
+  "enjeux": "Ses partisans y voient un moyen de lutter contre la pauvreté des jeunes, particulièrement élevée, et de reconnaître leur autonomie. Ses opposants craignent qu’un revenu sans contrepartie détourne des études ou de l’emploi, et privilégient des allocations liées à un parcours d’insertion ou au soutien familial.",
+  "reperes": [
+   "Contrat d’engagement jeune créé en mars 2022"
+  ],
+  "liens": [
+   "garantie-d-autonomie",
+   "rsa",
+   "allocation-sociale-unique",
+   "allocation-d-autonomie"
+  ],
+  "motifs": [
+   "minimum jeunesse",
+   "revenu jeune actif",
+   "moins de 25 ans",
+   "revenu pour les jeunes",
+   "personnes indépendantes fiscalement"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit d’ouvrir la garantie d’autonomie dès 18 ans aux personnes indépendantes fiscalement.",
+    "appuis": [
+     "p512cf0ed"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit une garantie d’autonomie accessible dès 18 ans pour les personnes indépendantes fiscalement et dès 16 ans pour les élèves de l’enseignement professionnel.",
+    "appuis": [
+     "pee5178e5"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de conditionner le revenu des jeunes à un engagement dans l’emploi ou une formation certifiante, avec un « revenu jeune actif » de 670 euros par mois pour les 18-25 ans formés aux métiers en tension.",
+    "appuis": [
+     "p057a005b",
+     "p5f37337a"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un minimum jeunesse versé dès 18 ans sous condition de ressources et un minimum social unique ouvert aux moins de 25 ans.",
+    "appuis": [
+     "p7aef7ab3",
+     "p1f8f87ff"
+    ]
+   }
+  }
+ },
+ {
+  "id": "assurance-chomage",
+  "nom": "Assurance chômage",
+  "variantes": [
+   "allocation d’aide au retour à l’emploi",
+   "ARE",
+   "Unédic",
+   "dégressivité",
+   "offre raisonnable d’emploi"
+  ],
+  "categorie": "institution",
+  "theme": "social",
+  "definition": "L’assurance chômage indemnise les salariés involontairement privés d’emploi qui ont suffisamment travaillé, au moyen de l’allocation d’aide au retour à l’emploi. Créée en 1958, elle est gérée par l’Unédic, organisme paritaire associant syndicats et organisations patronales, tandis que France Travail verse les allocations et accompagne les demandeurs. Ses règles sont fixées par des conventions négociées par les partenaires sociaux, ou à défaut par décret. Depuis 2019, plusieurs réformes ont modifié le calcul de l’allocation, instauré une dégressivité pour les hauts revenus et modulé la durée d’indemnisation selon la conjoncture.",
+  "enjeux": "Les partisans de ces réformes estiment qu’elles incitent au retour à l’emploi dans un contexte de tensions de recrutement. Leurs opposants dénoncent une baisse des droits des chômeurs, notamment des plus précaires, et une reprise en main de l’État sur un régime paritaire. Les propositions vont de l’abrogation des réformes à de nouveaux durcissements.",
+  "reperes": [
+   "Création du régime d’assurance chômage en 1958",
+   "Réformes successives depuis 2019"
+  ],
+  "liens": [
+   "rsa",
+   "allocation-sociale-unique"
+  ],
+  "motifs": [
+   "assurance chômage",
+   "assurance-chômage",
+   "indemnisation du chômage",
+   "indemnités chômage",
+   "allocations chômage",
+   "Allocation de Retour à l'Emploi",
+   "accélérer la dégressivité",
+   "offre raisonnable",
+   "Unédic"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit d’abroger les réformes de l’assurance chômage des deux derniers quinquennats et d’indexer les allocations sur l’inflation.",
+    "appuis": [
+     "pf8ed9503",
+     "pe84831da"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’abroger les réformes de l’assurance chômage.",
+    "appuis": [
+     "pa38ec343"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose d’appliquer les règles d’indemnisation de juin 2024, de mettre fin à l’indemnisation après le refus d’une troisième offre raisonnable, d’accélérer la dégressivité au-dessus de 3 000 euros nets et de réduire de 30 % les indemnités en cas de refus d’une formation dans un secteur en tension.",
+    "appuis": [
+     "p37b5774d",
+     "pb344284f",
+     "paa96f7c0"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit d’abroger la réforme de l’assurance chômage.",
+    "appuis": [
+     "pcadb78d7"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de réformer l’assurance chômage pour inciter au travail.",
+    "appuis": [
+     "p2adf8f31"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d’annuler la réforme de l’assurance chômage de juillet 2024.",
+    "appuis": [
+     "pf250ed3b"
+    ]
+   }
+  }
+ },
+ {
+  "id": "aah",
+  "nom": "Allocation aux adultes handicapés (AAH)",
+  "variantes": [
+   "AAH",
+   "déconjugalisation de l’AAH"
+  ],
+  "categorie": "prestation sociale",
+  "theme": "social",
+  "definition": "L’allocation aux adultes handicapés est un minimum social destiné aux personnes dont le taux d’incapacité, apprécié par la maison départementale des personnes handicapées, atteint un certain seuil. Créée en 1975, elle est versée par les caisses d’allocations familiales et financée par l’État. Son montant a longtemps été calculé en tenant compte des revenus du conjoint, ce qui privait de l’allocation, en tout ou partie, des personnes en couple. La loi du 16 août 2022 a supprimé cette prise en compte : la déconjugalisation est effective depuis le 1er octobre 2023.",
+  "enjeux": "La déconjugalisation a longtemps été défendue par les associations au nom de l’autonomie financière des personnes handicapées et de la lutte contre la dépendance au conjoint ; plusieurs programmes la réclament encore, pour certains rédigés avant son entrée en vigueur. Les débats portent désormais sur le niveau de l’allocation, inférieur au seuil de pauvreté, et sur les délais d’instruction des dossiers.",
+  "reperes": [
+   "AAH créée par la loi d’orientation du 30 juin 1975",
+   "Déconjugalisation effective depuis le 1er octobre 2023"
+  ],
+  "liens": [
+   "accessibilite-universelle",
+   "garantie-d-autonomie"
+  ],
+  "motifs": [
+   "AAH",
+   "allocation aux adultes handicapés",
+   "Allocation Adulte Handicapée",
+   "allocation adultes handicapés",
+   "déconjugalisation de l'AAH",
+   "déconjugaliser l'Allocation Adulte Handicapée"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit d’augmenter l’AAH de 250 euros, de la reconnaître dans un délai maximal de trois mois et de la déconjugaliser.",
+    "appuis": [
+     "p0b1719d5",
+     "p14b221f2",
+     "pcae6ba09"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de porter l’AAH à 1 400 euros et de la déconjugaliser.",
+    "appuis": [
+     "p90d7138d"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de déconjugaliser et de revaloriser l’AAH.",
+    "appuis": [
+     "p0d8ed1be",
+     "p0c8842a2"
+    ]
+   }
+  }
+ },
+ {
+  "id": "accessibilite-universelle",
+  "nom": "Accessibilité universelle",
+  "variantes": [
+   "mise en accessibilité",
+   "loi de 2005",
+   "FALC",
+   "conception universelle"
+  ],
+  "categorie": "politique publique",
+  "theme": "social",
+  "definition": "L’accessibilité universelle vise à permettre à toute personne, quel que soit son handicap, d’accéder aux bâtiments, aux transports, aux services, à l’information et à la vie citoyenne. La loi du 11 février 2005 a posé une obligation d’accessibilité des établissements recevant du public et des transports dans un délai de dix ans, échéance repoussée en 2014 par les agendas d’accessibilité programmée. La loi Élan de 2018 a réduit à une part des logements neufs l’obligation d’accessibilité totale, les autres devant être « évolutifs ». L’accessibilité concerne aussi les handicaps sensoriels, cognitifs et psychiques, par exemple avec le français « facile à lire et à comprendre » (FALC).",
+  "enjeux": "Les associations dénoncent le retard pris dans l’application de la loi de 2005 et réclament des sanctions. Les acteurs du bâtiment et les collectivités mettent en avant le coût des travaux, notamment dans le bâti ancien et les petits commerces.",
+  "reperes": [
+   "Loi du 11 février 2005 pour l’égalité des droits et des chances",
+   "Agendas d’accessibilité programmée instaurés en 2014",
+   "Loi Élan de 2018 sur les logements neufs"
+  ],
+  "liens": [
+   "aah"
+  ],
+  "motifs": [
+   "accessibilité universelle",
+   "accessibilité des transports",
+   "mise en accessibilité",
+   "0 obstacles",
+   "FALC",
+   "accessibilité de tous les transports",
+   "accessibles aux personnes handicapées",
+   "accès à tous les lieux et transports publics",
+   "accessibilité des logements",
+   "processus démocratiques accessibles",
+   "politiques d'accessibilité",
+   "transports en commun systématiquement accessibles"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit l’accessibilité de tous les transports et une agence pour l’accessibilité universelle.",
+    "appuis": [
+     "p4b4c4b14",
+     "pcae6ba09"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’organiser l’accessibilité universelle, avec un plan de mise en accessibilité des transports, la généralisation du FALC, l’objectif « 0 obstacles » et la possibilité pour les préfets de se substituer aux maires.",
+    "appuis": [
+     "p485b688f",
+     "p9ebafe5b",
+     "p39f3bdf4"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’étendre l’accessibilité à tous les handicaps, de rétablir l’obligation d’accessibilité de tous les logements neufs et de rendre accessibles transports et processus démocratiques.",
+    "appuis": [
+     "peb65585d",
+     "p80fcebf8",
+     "pb9a492d4"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d’appliquer la loi sur l’accès à tous les lieux et transports publics.",
+    "appuis": [
+     "p545d9de4"
+    ]
+   }
+  }
+ },
+ {
+  "id": "branche-autonomie",
+  "nom": "Perte d’autonomie et branche autonomie",
+  "variantes": [
+   "dépendance",
+   "cinquième branche",
+   "grand âge",
+   "CNSA"
+  ],
+  "categorie": "institution",
+  "theme": "social",
+  "definition": "La perte d’autonomie, souvent appelée dépendance, désigne l’incapacité d’une personne à accomplir seule les actes de la vie quotidienne, du fait de l’âge, de la maladie ou du handicap. Une cinquième branche de la Sécurité sociale, consacrée à l’autonomie, a été créée en 2020 et confiée à la Caisse nationale de solidarité pour l’autonomie. Elle finance notamment une partie de l’allocation personnalisée d’autonomie, de la prestation de compensation du handicap et des établissements médico-sociaux, aux côtés des départements. Le vieillissement de la population, avec l’arrivée des générations du baby-boom au grand âge, accroît fortement les besoins à venir.",
+  "enjeux": "Le financement de la perte d’autonomie est un sujet récurrent : une loi « grand âge » a été plusieurs fois annoncée. Les options débattues vont de la solidarité nationale par l’impôt, les cotisations ou les successions, à l’assurance privée et à la mobilisation du patrimoine des personnes concernées.",
+  "reperes": [
+   "Branche autonomie créée par la loi du 7 août 2020"
+  ],
+  "liens": [
+   "ehpad",
+   "maintien-a-domicile",
+   "proches-aidants"
+  ],
+  "motifs": [
+   "service public de la dépendance",
+   "prise en charge solidaire de la dépendance",
+   "branche autonomie",
+   "perte d'autonomie",
+   "grand âge",
+   "aînés dépendants",
+   "personnes âgées dépendantes"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de construire un service public de la dépendance et d’affecter une partie des droits de succession à la branche autonomie.",
+    "appuis": [
+     "pfcb851ab",
+     "pbde9c307"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit un plan Grand âge et une prise en charge solidaire de la dépendance financée par une contribution des revenus immobiliers et des grosses successions.",
+    "appuis": [
+     "pa2e003e6",
+     "p99e81bb6"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’organiser le repérage des personnes fragiles et un parcours de vie digne face à la perte d’autonomie.",
+    "appuis": [
+     "p9b95215c"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d’élargir les tâches des pharmaciens, infirmiers et assistantes sociales, notamment pour détecter la perte d’autonomie des personnes âgées.",
+    "appuis": [
+     "p7bdb83b8"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose un statut pour les aidants familiaux qui s’occupent notamment d’aînés dépendants.",
+    "appuis": [
+     "paf5ca007"
+    ]
+   }
+  }
+ },
+ {
+  "id": "ehpad",
+  "nom": "Ehpad",
+  "variantes": [
+   "établissement d’hébergement pour personnes âgées dépendantes",
+   "maison de retraite",
+   "taux d’encadrement"
+  ],
+  "categorie": "institution",
+  "theme": "social",
+  "definition": "Les établissements d’hébergement pour personnes âgées dépendantes (Ehpad) sont des maisons de retraite médicalisées accueillant des personnes âgées en perte d’autonomie. Ils relèvent de statuts publics, associatifs ou privés commerciaux, et leur financement associe un forfait soins pris en charge par l’Assurance maladie, un forfait dépendance financé notamment par les départements, et un tarif hébergement payé par le résident ou par l’aide sociale. Le taux d’encadrement, rapport entre le personnel et le nombre de résidents, est un indicateur central de qualité. La révélation, en 2022, de dysfonctionnements dans un grand groupe privé a conduit à un renforcement des contrôles.",
+  "enjeux": "Les propositions portent sur le recrutement de soignants, la fixation d’un ratio minimal d’encadrement, le contrôle des établissements, le reste à charge des familles et la place du secteur lucratif. Une partie du débat porte aussi sur la diversification des solutions au profit du domicile et de formules intermédiaires.",
+  "reperes": [
+   "Révélations sur un groupe privé d’Ehpad en 2022"
+  ],
+  "liens": [
+   "branche-autonomie",
+   "maintien-a-domicile",
+   "financiarisation-du-soin"
+  ],
+  "motifs": [
+   "EHPAD",
+   "maisons de retraite",
+   "maison de retraite"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit d’interdire la création d’Ehpad à but lucratif, d’encadrer leur tarification et d’imposer un cahier des charges sur le taux d’encadrement et les rémunérations.",
+    "appuis": [
+     "pf85c953b",
+     "pbefc820d",
+     "pe695fa90"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de créer 10 000 places par an en Ehpad publics, de recruter 240 000 soignants en Ehpad et de transformer les Ehpad en établissements non lucratifs.",
+    "appuis": [
+     "p1812b722",
+     "pc6701285",
+     "pe8aaa9ee"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de créer 40 000 emplois en Ehpad et de recentrer ces établissements sur les personnes très dépendantes.",
+    "appuis": [
+     "peb1b2c2e",
+     "p8403c24c"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de recruter 50 000 soignants supplémentaires en Ehpad d’ici 2027, d’associer soignants, familles et résidents à leur gestion et d’accroître les contrôles.",
+    "appuis": [
+     "p3cf056cf",
+     "p5057bdc6",
+     "pf4274aba"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit un droit opposable aux visites, un médecin coordonnateur et une infirmière présente 24 heures sur 24 dans chaque Ehpad.",
+    "appuis": [
+     "p396883cf",
+     "pcdb8508b"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose davantage de personnels auprès des résidents et la publication d’indicateurs de qualité des soins.",
+    "appuis": [
+     "p7fd7c1c9"
+    ]
+   }
+  }
+ },
+ {
+  "id": "maintien-a-domicile",
+  "nom": "Maintien à domicile et APA",
+  "variantes": [
+   "allocation personnalisée d’autonomie",
+   "APA",
+   "aide à domicile",
+   "virage domiciliaire"
+  ],
+  "categorie": "prestation sociale",
+  "theme": "social",
+  "definition": "L’allocation personnalisée d’autonomie (APA), créée en 2001, finance une partie des aides nécessaires aux personnes de 60 ans et plus en perte d’autonomie, à domicile ou en établissement. Gérée par les départements, elle est attribuée selon le degré de dépendance évalué par la grille AGGIR, et son montant varie avec les ressources du bénéficiaire. Le maintien à domicile s’appuie aussi sur les services d’aide à domicile, sur les aides à l’adaptation du logement et sur un crédit d’impôt pour l’emploi d’un salarié à domicile. La grande majorité des personnes âgées souhaitent vieillir chez elles.",
+  "enjeux": "Le « virage domiciliaire » fait l’objet d’un large accord, mais se heurte aux difficultés de recrutement et aux faibles rémunérations dans l’aide à domicile, ainsi qu’au coût pour les départements. Les propositions diffèrent sur la priorité donnée à l’allocation, aux services publics ou aux avantages fiscaux.",
+  "reperes": [
+   "APA créée par la loi du 20 juillet 2001"
+  ],
+  "liens": [
+   "branche-autonomie",
+   "ehpad",
+   "proches-aidants"
+  ],
+  "motifs": [
+   "APA",
+   "allocation personnalisée d'autonomie",
+   "Allocation personnalisée Autonomie",
+   "maintien à domicile",
+   "aides à domicile",
+   "aide à domicile",
+   "vieillir chez soi"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de revaloriser l’APA à domicile.",
+    "appuis": [
+     "pf9ba5c83"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose 2 500 euros supplémentaires de crédit d’impôt pour les services à la personne au titre du maintien à domicile.",
+    "appuis": [
+     "p934f735e"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’augmenter de 50 % l’APA pour permettre de vieillir chez soi et de garantir l’aide à domicile.",
+    "appuis": [
+     "pe25d6294",
+     "p9b95215c"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose un service du maintien à domicile avec un interlocuteur unique, une « Prime Adapt’ » finançant jusqu’à 70 % des travaux d’adaptation et deux heures hebdomadaires de convivialité par les aides à domicile.",
+    "appuis": [
+     "pa341d606",
+     "pe4e1c003"
+    ]
+   }
+  }
+ },
+ {
+  "id": "proches-aidants",
+  "nom": "Proches aidants",
+  "variantes": [
+   "aidants familiaux",
+   "congé de proche aidant",
+   "statut de l’aidant",
+   "répit"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "social",
+  "definition": "Un proche aidant est une personne qui vient en aide, de manière régulière et à titre non professionnel, à un proche âgé, malade ou handicapé. On estime qu’ils sont plusieurs millions en France, majoritairement des femmes. Le congé de proche aidant permet à un salarié de suspendre ou réduire son activité pour une durée limitée, renouvelable dans la limite d’un an sur l’ensemble de la carrière ; il est indemnisé depuis 2020 par une allocation journalière. Des dispositifs de répit, comme l’accueil temporaire ou le relayage à domicile, permettent aux aidants de souffler.",
+  "enjeux": "Les associations réclament un véritable statut, une meilleure indemnisation et des droits à la retraite. Les débats portent sur le coût de ces mesures et sur le risque d’enfermer les aidants, en particulier les femmes, dans ce rôle au détriment de leur emploi.",
+  "reperes": [
+   "Congé de proche aidant indemnisé depuis octobre 2020"
+  ],
+  "liens": [
+   "branche-autonomie",
+   "maintien-a-domicile"
+  ],
+  "motifs": [
+   "aidants familiaux",
+   "aidant familial",
+   "proche aidant",
+   "proches aidants",
+   "proches-aidants",
+   "structures de répit",
+   "les aidants",
+   "l'aidant",
+   "aidant·es",
+   "baluchonnage"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit un statut des aidants familiaux avec couverture sociale, une rémunération du congé de proche aidant et des structures de répit sur tout le territoire.",
+    "appuis": [
+     "pea3b1cc6",
+     "p1a5e8dc1",
+     "p6500ce1d"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose un « vrai statut » pour les aidants familiaux qui s’occupent d’enfants handicapés ou d’aînés dépendants.",
+    "appuis": [
+     "paf5ca007"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de renforcer les droits et le statut des proches aidants, de créer un service de relais et de répit et de travailler à une indemnité d’aidant familial.",
+    "appuis": [
+     "p6454bf58"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de porter le congé de proche aidant à douze mois sur la carrière, d’indexer son indemnisation sur les revenus et de créer une indemnité de 300 euros mensuels pour les aidants cohabitants.",
+    "appuis": [
+     "p9de5a8ae",
+     "pe4bb1ad2",
+     "pea47e538"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose un interlocuteur unique pour l’aidant ou la personne âgée dans un service de maintien à domicile.",
+    "appuis": [
+     "pa341d606"
+    ]
+   }
+  }
+ },
+ {
+  "id": "allocations-familiales",
+  "nom": "Allocations familiales",
+  "variantes": [
+   "prestations familiales",
+   "universalité des allocations familiales",
+   "modulation des allocations",
+   "Revenu familial"
+  ],
+  "categorie": "prestation sociale",
+  "theme": "social",
+  "definition": "Les allocations familiales sont versées par les caisses d’allocations familiales aux familles qui assument la charge d’au moins deux enfants de moins de 20 ans ; la France est l’un des rares pays à ne rien verser à ce titre dès le premier enfant. Longtemps versées sans condition de ressources, elles sont modulées selon les revenus du foyer depuis 2015, leur montant étant réduit au-delà de certains plafonds. Des majorations sont prévues en fonction de l’âge des enfants : depuis le 1er mars 2026, la majoration pour âge intervient à 18 ans et non plus à 14 ans, les familles dont l’enfant avait déjà 14 ans à cette date conservant l’ancienne règle. Elles s’inscrivent dans un ensemble plus large de prestations familiales, comme la prestation d’accueil du jeune enfant ou l’allocation de rentrée scolaire.",
+  "enjeux": "Le débat oppose une conception universelle de la politique familiale, défendue notamment par la droite au nom de la natalité, et une conception redistributive, qui vise d’abord les familles modestes. La question du versement dès le premier enfant revient dans plusieurs programmes, tout comme, à l’extrême droite, celle d’une réservation aux familles françaises et, pour certains partis, celle d’une suspension en cas de manquements éducatifs.",
+  "reperes": [
+   "Modulation selon les revenus depuis le 1er juillet 2015",
+   "Majoration pour âge reportée de 14 à 18 ans depuis le 1er mars 2026"
+  ],
+  "liens": [
+   "allocation-de-soutien-familial",
+   "conditionnement-des-prestations",
+   "conge-de-naissance"
+  ],
+  "motifs": [
+   "allocations familiales",
+   "allocation familiale",
+   "Revenu familial",
+   "prestations familiales",
+   "politique familiale"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit d’attribuer un même montant d’allocations familiales dès le premier enfant et de revenir à la majoration dès 14 ans.",
+    "appuis": [
+     "pdcb552be",
+     "pda7bf8cf"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de verser une allocation familiale dès le premier enfant.",
+    "appuis": [
+     "p74383d19"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de fusionner douze dispositifs dans un Revenu familial de 240 euros par mois dès le premier enfant, doublé pour le troisième enfant et conditionné à cinq ans de résidence régulière et d’activité.",
+    "appuis": [
+     "pc05a6770",
+     "pd57ce31d",
+     "p0cd16a8f"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de rétablir les allocations familiales pour toutes les familles françaises et de doubler le plafond du quotient familial.",
+    "appuis": [
+     "p7186b4c4"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de réserver les allocations et primes de politique familiale aux familles dont au moins un parent est Français.",
+    "appuis": [
+     "pc6afd704"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de verser automatiquement les allocations familiales, comme d’autres aides, à ceux qui y ont droit.",
+    "appuis": [
+     "pbb2fd480"
+    ]
+   }
+  }
+ },
+ {
+  "id": "conge-de-naissance",
+  "nom": "Congés de naissance et congé parental",
+  "variantes": [
+   "congé paternité",
+   "congé d’accueil de l’enfant",
+   "congé parental d’éducation",
+   "congé de naissance"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "social",
+  "definition": "Plusieurs congés encadrent l’arrivée d’un enfant : le congé de maternité, de seize semaines pour un premier ou deuxième enfant, le congé de paternité et d’accueil de l’enfant, porté à vingt-cinq jours en 2021, et le congé parental d’éducation, plus long mais faiblement indemnisé par la prestation partagée d’éducation de l’enfant. Ce dernier est très majoritairement pris par des mères. Annoncé en 2024, un congé supplémentaire de naissance a été créé par la loi de financement de la sécurité sociale pour 2026 : depuis le 1er juillet 2026, chaque parent peut prendre un ou deux mois, indemnisés à 70 % du salaire le premier mois et à 60 % le second, dans la limite du plafond de la Sécurité sociale. Ces congés sont indemnisés par la Sécurité sociale.",
+  "enjeux": "Les propositions oscillent entre l’égalité entre parents, par un congé identique et obligatoire pour chacun, et la liberté de choix, par un congé partageable. Les débats portent aussi sur le niveau d’indemnisation, condition du recours des pères, et sur le coût pour la Sécurité sociale et les entreprises.",
+  "reperes": [
+   "Congé de paternité et d’accueil de l’enfant porté à 25 jours en juillet 2021",
+   "Congé supplémentaire de naissance créé par la loi de financement de la sécurité sociale pour 2026, ouvert depuis le 1er juillet 2026"
+  ],
+  "liens": [
+   "droit-opposable-garde",
+   "allocations-familiales"
+  ],
+  "motifs": [
+   "congé de naissance",
+   "congé parental",
+   "congé d'accueil de l'enfant",
+   "second parent"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit d’aligner et de rendre obligatoire un congé d’accueil de l’enfant de 16 semaines rémunérées à 100 % pour chaque parent, et d’indemniser le congé supplémentaire de naissance à 80 % sur trois mois par parent.",
+    "appuis": [
+     "p3c80e3f9",
+     "pc4252cfe"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de rendre identique pour les deux parents le congé d’accueil de l’enfant.",
+    "appuis": [
+     "pf65b8534"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose d’étendre le congé de naissance jusqu’aux six mois de l’enfant, au choix de l’un ou l’autre parent, indemnisé à 70 % de la rémunération antérieure.",
+    "appuis": [
+     "p67aecc82",
+     "p29baeaf6"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de réformer le congé parental pour plus d’égalité entre les femmes et les hommes.",
+    "appuis": [
+     "p10289177"
+    ]
+   }
+  }
+ },
+ {
+  "id": "droit-opposable-garde",
+  "nom": "Service public de la petite enfance et droit opposable à la garde",
+  "variantes": [
+   "droit opposable à la garde",
+   "service public de la petite enfance",
+   "places en crèche",
+   "modes de garde"
+  ],
+  "categorie": "politique publique",
+  "theme": "social",
+  "definition": "L’accueil des jeunes enfants repose en France sur les crèches, publiques, associatives ou privées, sur les assistantes maternelles et les maisons d’assistants maternels, et sur la garde à domicile. Le nombre de places reste inférieur aux besoins, en particulier pour les familles modestes et dans certains territoires, et le secteur connaît une pénurie de professionnels. Un service public de la petite enfance, dont les communes sont autorités organisatrices depuis 2025, a été créé par la loi pour le plein emploi de 2023. Un droit opposable à la garde permettrait aux parents d’exiger une solution d’accueil, à l’image du droit opposable au logement.",
+  "enjeux": "Les débats portent sur le financement des places, sur le rôle respectif du public et du privé lucratif, ébranlé par des révélations sur des maltraitances dans des crèches privées, et sur les conditions de travail des professionnels. Certains privilégient les incitations fiscales aux entreprises et aux familles, d’autres un service public renforcé.",
+  "reperes": [
+   "Service public de la petite enfance créé par la loi du 18 décembre 2023"
+  ],
+  "liens": [
+   "conge-de-naissance",
+   "financiarisation-du-soin"
+  ],
+  "motifs": [
+   "droit opposable à la garde",
+   "service public de la petite enfance",
+   "places en crèche",
+   "places en crèches",
+   "places de crèche",
+   "mode de garde",
+   "micro-crèches",
+   "crèches privées"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit 200 000 places en crèche, un mode de garde adapté et de proximité pour chaque parent qui reprend un emploi et des crèches sociales pour les familles fragilisées.",
+    "appuis": [
+     "p818c3326",
+     "pe54c7267",
+     "p66e9141e"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit un service public de la petite enfance ouvrant 500 000 places en crèche ou autres solutions de garde.",
+    "appuis": [
+     "p05ba85d2"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose d’aligner le régime des micro-crèches sur celui des MAM, de supprimer le plafond du crédit d’impôt famille des entreprises et de relever à 7 000 euros l’exonération de l’aide employeur à la garde.",
+    "appuis": [
+     "p99d6f76f",
+     "pee7466ac",
+     "pc4df18c6"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un droit opposable à la garde, un investissement dans le service public de la petite enfance et un encadrement strict des crèches privées.",
+    "appuis": [
+     "p27cd56bd",
+     "pbac7dabb"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de créer 60 000 places de crèche.",
+    "appuis": [
+     "p1c8342a3"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose un droit opposable à la garde d’enfants, un livret d’épargne pour financer des places en crèche et la formation de 200 000 professionnels de la petite enfance d’ici 2030.",
+    "appuis": [
+     "pac9e4f06",
+     "p6b237041",
+     "pbfb52372"
+    ]
+   }
+  }
+ },
+ {
+  "id": "allocation-de-soutien-familial",
+  "nom": "Allocation de soutien familial et familles monoparentales",
+  "variantes": [
+   "ASF",
+   "familles monoparentales",
+   "pension alimentaire",
+   "parents isolés"
+  ],
+  "categorie": "prestation sociale",
+  "theme": "social",
+  "definition": "L’allocation de soutien familial est versée par les caisses d’allocations familiales au parent qui élève seul un enfant privé du soutien de l’autre parent, notamment lorsque celui-ci ne verse pas la pension alimentaire. Elle est attribuée sans condition de ressources, mais cesse en principe en cas de remise en couple. Depuis 2017, un service public de recouvrement des pensions alimentaires impayées est assuré par les caisses, et l’intermédiation financière des pensions est devenue la règle par défaut. Les familles monoparentales, très majoritairement composées de mères et de leurs enfants, sont nettement plus exposées à la pauvreté que les autres familles.",
+  "enjeux": "Les propositions portent sur la revalorisation de l’allocation, sur son maintien en cas de remise en couple, sur la fiscalité des pensions alimentaires et sur la création d’un statut de famille monoparentale. Le débat rejoint celui de la déconjugalisation des prestations.",
+  "reperes": [
+   "Agence de recouvrement des impayés de pensions alimentaires créée en 2017"
+  ],
+  "liens": [
+   "allocations-familiales",
+   "droit-opposable-garde"
+  ],
+  "motifs": [
+   "allocation de soutien familial",
+   "monoparental*",
+   "ASF",
+   "parents seuls",
+   "élèvent leurs enfants seuls"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit un statut de famille monoparentale ouvrant des droits spécifiques dans l’accès aux modes de garde.",
+    "appuis": [
+     "p326221e0"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de déconjugaliser l’allocation de soutien familial, de l’indexer sur l’inflation et de défiscaliser la pension alimentaire.",
+    "appuis": [
+     "p4870cfc4"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de conserver l’ASF à côté du Revenu familial.",
+    "appuis": [
+     "pa9f5aa67"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme présente le droit opposable à la garde comme une réponse destinée notamment aux parents qui élèvent seuls leurs enfants.",
+    "appuis": [
+     "pac9e4f06"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de doubler l’allocation aux familles monoparentales pour la porter à 230 euros.",
+    "appuis": [
+     "pff4df302",
+     "p0c8842a2"
+    ]
+   }
+  }
+ },
+ {
+  "id": "protection-de-l-enfance",
+  "nom": "Protection de l’enfance et aide sociale à l’enfance",
+  "variantes": [
+   "ASE",
+   "aide sociale à l’enfance",
+   "enfants placés",
+   "sorties sèches",
+   "contrat jeune majeur"
+  ],
+  "categorie": "politique publique",
+  "theme": "social",
+  "definition": "La protection de l’enfance vise à prévenir les difficultés des enfants et de leurs familles et à protéger les mineurs en danger, y compris par un placement hors de la famille. Depuis la décentralisation des années 1980, elle relève des départements à travers l’aide sociale à l’enfance (ASE), sous le contrôle du juge des enfants pour les mesures judiciaires. La loi du 7 février 2022 a interdit, sauf exceptions encadrées, le placement d’enfants à l’hôtel et renforcé l’accompagnement des jeunes majeurs sortant de l’ASE, pour éviter les « sorties sèches » à 18 ans. Le secteur fait face à une saturation des structures et à une pénurie de travailleurs sociaux et de familles d’accueil.",
+  "enjeux": "Le diagnostic d’une crise est largement partagé. Les propositions portent sur les moyens, les taux d’encadrement, le contrôle des établissements, le pilotage entre l’État et les départements, la prise en charge jusqu’à 21 ou 25 ans et la place des structures privées lucratives.",
+  "reperes": [
+   "Loi du 7 février 2022 relative à la protection des enfants"
+  ],
+  "liens": [
+   "financiarisation-du-soin",
+   "droit-opposable-garde"
+  ],
+  "motifs": [
+   "protection de l'enfance",
+   "ASE",
+   "Aide Sociale à l'Enfance",
+   "enfants placés",
+   "sorties sèches",
+   "placements hôteliers",
+   "hébergement en hôtel"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit un fonds de péréquation pour la protection de l’enfance, le « zéro exception » pour l’hébergement en hôtel des enfants placés, une prise en charge obligatoire jusqu’à 25 ans et des taux d’encadrement minimum.",
+    "appuis": [
+     "p03f094b9",
+     "pcfa376f3",
+     "paa075c6e"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’augmenter les moyens de la protection de l’enfance, d’interdire les placements hôteliers et les sorties sèches à 18 ans, et de faire respecter la Convention internationale des droits de l’enfant.",
+    "appuis": [
+     "p9ae8d4b5",
+     "p7cd3d772"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un contrôle indépendant des départements défaillants, un nombre maximal de suivis par professionnel de l’ASE, un co-pilotage État-départements et la sortie de toute logique de profit.",
+    "appuis": [
+     "pa50ce97c",
+     "pbcd205e9",
+     "p596d9633"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose un référent protection de l’enfance formé dans chaque école et chaque structure, sur le modèle britannique.",
+    "appuis": [
+     "p4a6e9566"
+    ]
+   }
+  }
+ },
+ {
+  "id": "logement-d-abord",
+  "nom": "Logement d’abord et hébergement d’urgence",
+  "variantes": [
+   "Logement d’abord",
+   "sans-abrisme",
+   "hébergement d’urgence",
+   "accueil inconditionnel",
+   "modèle finlandais",
+   "inconditionnalité de l'accueil",
+   "hébergement d'urgence"
+  ],
+  "categorie": "politique publique",
+  "theme": "social",
+  "definition": "Le « Logement d’abord » est une approche de lutte contre le sans-abrisme qui consiste à proposer directement un logement stable aux personnes sans domicile, avec un accompagnement, plutôt que de les faire passer par une succession de solutions d’hébergement. Inspirée notamment de la politique menée en Finlande, elle fait l’objet en France de plans quinquennaux depuis 2018. L’hébergement d’urgence, accessible notamment par le numéro 115, repose sur le principe légal d’accueil inconditionnel de toute personne sans abri en situation de détresse. Le nombre de personnes sans domicile a fortement augmenté depuis le début des années 2010.",
+  "enjeux": "La logique du Logement d’abord fait l’objet d’un accord assez large, mais se heurte au manque de logements très sociaux. Les débats portent aussi sur le nombre de places d’hébergement, sur la durée de séjour, sur la réquisition de logements vacants et sur l’accueil des personnes en situation irrégulière.",
+  "reperes": [
+   "Premier plan quinquennal pour le Logement d’abord lancé en 2018",
+   "Principe d’accueil inconditionnel inscrit dans le Code de l’action sociale et des familles (article L. 345-2-2)"
+  ],
+  "liens": [
+   "solidarite-a-la-source",
+   "conditionnement-des-prestations",
+   "regularisation"
+  ],
+  "motifs": [
+   "Logement d'abord",
+   "sans-abri*",
+   "sans-abrisme",
+   "zéro sans-abri",
+   "hébergement d'urgence",
+   "accueil inconditionnel",
+   "durée d'hébergement"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit d’accélérer le « Logement d’abord » sur le modèle finlandais et de créer des places d’hébergement en accueil inconditionnel.",
+    "appuis": [
+     "p98de561b",
+     "p4ba6edf3"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de créer des places d’hébergement d’urgence en accueil inconditionnel, de réquisitionner des logements vides en situation d’urgence et d’atteindre l’objectif de zéro sans-abri.",
+    "appuis": [
+     "p80eab4b8",
+     "p7a07d691"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose de plafonner la durée d’hébergement d’urgence à dix-huit mois et de la conditionner à la régularité du séjour.",
+    "appuis": [
+     "pf23d5cb1",
+     "pb1062c3d"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un programme « logement d’abord » faisant du logement stable le point de départ de l’insertion, à l’instar du modèle finlandais.",
+    "appuis": [
+     "paf3fa1d9"
+    ]
+   }
+  },
+  "autres_themes": [
+   "immigration"
+  ]
+ },
+ {
+  "id": "securite-sociale-de-l-alimentation",
+  "nom": "Sécurité sociale de l’alimentation",
+  "variantes": [
+   "SSA",
+   "caisses alimentaires",
+   "allocation universelle d’alimentation",
+   "démocratie alimentaire"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "social",
+  "definition": "La Sécurité sociale de l’alimentation est un projet porté depuis la fin des années 2010 par des associations, des chercheurs et des paysans, sur le modèle de l’assurance maladie. Chaque personne recevrait un montant mensuel, financé par des cotisations, utilisable auprès de producteurs et commerces conventionnés selon des critères définis démocratiquement. Le projet vise à la fois l’accès de tous à une alimentation de qualité et le soutien à une agriculture durable. Des caisses locales sont expérimentées depuis le début des années 2020 dans plusieurs territoires, à petite échelle.",
+  "enjeux": "Ses partisans y voient une alternative à l’aide alimentaire, jugée stigmatisante et dépendante des surplus. Ses critiques s’interrogent sur son coût à l’échelle nationale, sur son financement par de nouvelles cotisations et sur la complexité du conventionnement. D’autres préfèrent des dispositifs ciblés comme la cantine à 1 euro ou des chèques alimentaires.",
+  "reperes": [],
+  "liens": [
+   "solidarite-a-la-source"
+  ],
+  "motifs": [
+   "Sécurité sociale de l'alimentation",
+   "allocation universelle",
+   "droit à l'alimentation",
+   "aide alimentaire",
+   "alimentation solidaire",
+   "cantine à 1",
+   "cantines à 1 euro",
+   "épiceries sociales"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de soutenir les expérimentations de caisses locales de Sécurité sociale de l’alimentation et d’envisager à terme une allocation universelle concrétisant le droit à l’alimentation.",
+    "appuis": [
+     "pe1cdcfed",
+     "p84c9b85b"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme propose la cantine à 1 euro et le doublement de l’aide alimentaire pour les enfants.",
+    "appuis": [
+     "p2bb5498e"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de soutenir les expérimentations locales de Sécurité sociale de l’alimentation et un plan national pour l’alimentation solidaire.",
+    "appuis": [
+     "p1e492b07",
+     "pb593200e"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit une politique d’aide alimentaire plus généreuse en accord avec les filières agricoles et agroalimentaires.",
+    "appuis": [
+     "p9268b29f"
+    ]
+   }
+  }
+ },
+ {
+  "id": "gpa",
+  "nom": "Gestation pour autrui (GPA)",
+  "variantes": [
+   "GPA",
+   "maternité de substitution",
+   "mères porteuses",
+   "femmes porteuses"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "social",
+  "definition": "La gestation pour autrui est une pratique par laquelle une femme porte un enfant pour le compte d’autres personnes, les parents d’intention, à qui l’enfant est remis à la naissance. Elle est interdite en France depuis les lois de bioéthique de 1994 : le Code civil frappe de nullité toute convention portant sur la procréation ou la gestation pour le compte d’autrui. Elle est autorisée, sous des formes variables, dans d’autres pays, ce qui conduit des couples français à y recourir. La reconnaissance en France de la filiation des enfants ainsi nés à l’étranger a donné lieu à une jurisprudence évolutive, puis à un encadrement par la loi de bioéthique de 2021, qui privilégie l’adoption pour le parent d’intention non biologique.",
+  "enjeux": "Ses opposants, à droite comme dans une partie de la gauche et des mouvements féministes, invoquent l’indisponibilité du corps humain et la « marchandisation du corps des femmes ». Ses partisans défendent une GPA dite éthique, encadrée et non commerciale, et surtout la sécurité juridique des enfants nés à l’étranger. La question de la filiation de ces enfants est un point de débat distinct de celle de la légalisation.",
+  "reperes": [
+   "Code civil, article 16-7",
+   "Lois de bioéthique de 1994",
+   "Loi de bioéthique du 2 août 2021"
+  ],
+  "liens": [
+   "pma"
+  ],
+  "motifs": [
+   "GPA",
+   "gestation pour autrui",
+   "Gestion pour Autrui",
+   "mères porteuses",
+   "femmes porteuses"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de reconnaître les droits des enfants nés d’une GPA à l’étranger et de clarifier les droits des femmes porteuses et des parents d’intention, en établissant la filiation par reconnaissance comme principe par défaut.",
+    "appuis": [
+     "pd75282e6"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de refuser la gestation pour autrui et de faire prévaloir l’intérêt supérieur de l’enfant.",
+    "appuis": [
+     "pcd1feb45"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme dit « non à la marchandisation du corps des femmes et à la gestation pour autrui ».",
+    "appuis": [
+     "pb2c31f59"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de renforcer l’interdiction de la GPA contre les contournements par des filières étrangères et de refuser la reconnaissance de la filiation des enfants nés à l’étranger par GPA.",
+    "appuis": [
+     "p91507324",
+     "pb9fe572c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "pma",
+  "nom": "Procréation médicalement assistée (PMA) et filiation",
+  "variantes": [
+   "PMA",
+   "assistance médicale à la procréation",
+   "AMP",
+   "PMA pour toutes",
+   "ROPA",
+   "filiation par reconnaissance"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "social",
+  "definition": "La procréation médicalement assistée, ou assistance médicale à la procréation, regroupe les techniques permettant une grossesse en dehors d’un rapport sexuel, comme l’insémination ou la fécondation in vitro, éventuellement avec un don de gamètes. Longtemps réservée aux couples hétérosexuels confrontés à une infertilité, elle a été ouverte par la loi de bioéthique de 2021 aux couples de femmes et aux femmes non mariées, avec une prise en charge par l’Assurance maladie. Pour les couples de femmes, la filiation est établie par une reconnaissance conjointe anticipée devant notaire. La réception d’ovocytes de la partenaire (ROPA), qui permet à une femme de porter l’enfant conçu avec les ovocytes de sa compagne, n’est pas autorisée en France.",
+  "enjeux": "Les débats portent désormais sur les délais d’accès liés à la pénurie de donneurs, sur l’ouverture aux personnes trans, sur la ROPA et sur l’égalité des règles de filiation entre couples de même sexe et couples hétérosexuels. Les opposants à l’extension de 2021, notamment dans les milieux conservateurs, critiquaient la création d’enfants « sans père ».",
+  "reperes": [
+   "Loi de bioéthique du 2 août 2021 ouvrant la PMA aux couples de femmes et aux femmes seules"
+  ],
+  "liens": [
+   "gpa"
+  ],
+  "motifs": [
+   "PMA",
+   "procréation médicalement assistée",
+   "ROPA",
+   "filiation par reconnaissance",
+   "droits à la filiation",
+   "adoption plénière",
+   "dons de sperme"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de rendre la PMA réellement accessible, y compris aux personnes trans, et d’autoriser la ROPA et les dons de sperme dirigés.",
+    "appuis": [
+     "pea961815",
+     "p19d8d8d7"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de rembourser la PMA, de la rendre accessible aux personnes trans, d’établir la filiation par reconnaissance comme principe par défaut et d’ouvrir l’adoption plénière à tous les couples.",
+    "appuis": [
+     "pdc32f86d",
+     "pcd1feb45",
+     "p5ca303e1"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’aligner les droits à la filiation des couples LGBTQIA+ sur ceux des couples hétérosexuels.",
+    "appuis": [
+     "p069fa7b8"
+    ]
+   }
+  }
+ },
+ {
+  "id": "fin-de-vie",
+  "nom": "Fin de vie et aide active à mourir",
+  "variantes": [
+   "aide à mourir",
+   "euthanasie",
+   "suicide assisté",
+   "droit à mourir dans la dignité",
+   "soins palliatifs",
+   "sédation profonde et continue"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "social",
+  "definition": "La fin de vie a d’abord été encadrée par la loi Leonetti de 2005, qui condamne l’acharnement thérapeutique, et par la loi Claeys-Leonetti de 2016, qui ouvre un droit à une sédation profonde et continue jusqu’au décès dans certaines situations et rend contraignantes les directives anticipées. Une convention citoyenne sur la fin de vie s’est prononcée en 2023 en faveur d’une aide active à mourir. Une proposition de loi créant un droit à l’aide à mourir, adoptée en première lecture par l’Assemblée nationale en mai 2025 et rejetée par le Sénat, a été adoptée définitivement par l’Assemblée le 15 juillet 2026, parallèlement à un texte sur les soins palliatifs. Validée par le Conseil constitutionnel le 14 août 2026 avec des réserves d’interprétation, la loi du 18 août 2026 ouvre, sous conditions cumulatives (majorité, affection grave et incurable en phase avancée ou terminale, souffrance réfractaire ou insupportable, volonté libre et éclairée), l’administration d’une substance létale par la personne elle-même ou, si elle n’en est pas physiquement capable, par un médecin ou un infirmier. Sa mise en œuvre dépend de décrets d’application.",
+  "enjeux": "Ses partisans invoquent la liberté de choisir sa mort et l’égalité avec les personnes qui se rendent à l’étranger. Ses opposants, dont une partie des soignants, des représentants des cultes et des associations de personnes handicapées, redoutent des pressions sur les personnes vulnérables et demandent d’abord un accès effectif aux soins palliatifs. Les termes eux-mêmes sont disputés : « aide à mourir » ou « droit de mourir dans la dignité » d’un côté, « euthanasie » et « suicide assisté » de l’autre.",
+  "reperes": [
+   "Loi Leonetti du 22 avril 2005",
+   "Loi Claeys-Leonetti du 2 février 2016",
+   "Convention citoyenne sur la fin de vie en 2022-2023",
+   "Adoption définitive par l’Assemblée nationale le 15 juillet 2026",
+   "Décision du Conseil constitutionnel du 14 août 2026 ; loi du 18 août 2026 relative au droit à l’aide à mourir"
+  ],
+  "liens": [
+   "ivg"
+  ],
+  "motifs": [
+   "la fin de vie",
+   "une fin de vie",
+   "fin de vie digne",
+   "aide active à mourir",
+   "mourir dans la dignité",
+   "euthanasie",
+   "suicide assisté",
+   "soins palliatifs"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit un accès universel aux soins palliatifs et la légalisation de l’aide active à mourir, en conservant l’équilibre des textes votés en première lecture.",
+    "appuis": [
+     "p5ad9e098"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’instaurer un « droit à mourir dans la dignité » en créant un droit à l’euthanasie et au suicide assisté, et de l’inscrire dans la Constitution.",
+    "appuis": [
+     "p615c616c",
+     "p74a72c99",
+     "p942515bf"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’offrir à chacun le « droit de mourir dans la dignité ».",
+    "appuis": [
+     "pc8241e9b"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose de lancer une convention citoyenne sur la fin de vie associant citoyens, spécialistes de l’éthique et professionnels.",
+    "appuis": [
+     "p72b9d9c3"
+    ]
+   }
+  }
+ },
+ {
+  "id": "ivg",
+  "nom": "Interruption volontaire de grossesse (IVG) et contraception",
+  "variantes": [
+   "IVG",
+   "avortement",
+   "liberté de recourir à l’IVG",
+   "contraception gratuite"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "social",
+  "definition": "L’interruption volontaire de grossesse a été dépénalisée par la loi Veil de 1975. Le délai légal a été porté à 14 semaines de grossesse en 2022, et l’IVG est prise en charge intégralement par l’Assurance maladie. Depuis la révision constitutionnelle du 8 mars 2024, l’article 34 de la Constitution dispose que la loi détermine les conditions dans lesquelles s’exerce la liberté garantie à la femme d’avoir recours à une IVG. La contraception est remboursée et gratuite pour les jeunes jusqu’à 25 ans inclus.",
+  "enjeux": "Les débats portent sur l’effectivité de l’accès, compte tenu des fermetures de centres et des disparités territoriales, sur le choix de la méthode et sur la clause de conscience spécifique des médecins. L’inscription européenne de ce droit est également discutée.",
+  "reperes": [
+   "Loi Veil du 17 janvier 1975",
+   "Délai porté à 14 semaines par la loi du 2 mars 2022",
+   "Révision constitutionnelle du 8 mars 2024"
+  ],
+  "liens": [
+   "fin-de-vie",
+   "pma"
+  ],
+  "motifs": [
+   "IVG",
+   "interruption volontaire de grossesse",
+   "contraception",
+   "avortement"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de garantir l’égal accès, la gratuité et l’effectivité du droit à la contraception et à l’IVG, ainsi que le choix de la méthode.",
+    "appuis": [
+     "pcb0cd512"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de garantir l’accès effectif à l’IVG et le choix de la méthode, et d’inscrire le droit à la contraception et à l’IVG dans la Constitution.",
+    "appuis": [
+     "pade4b2ae",
+     "p942515bf"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’assurer la contraception gratuite et d’inscrire l’IVG dans la charte des droits fondamentaux de l’Union européenne.",
+    "appuis": [
+     "pa463ab03",
+     "pb770d87e"
+    ]
+   }
+  }
+ }
+]

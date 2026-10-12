@@ -1,0 +1,1576 @@
+[
+ {
+  "id": "carte-de-resident",
+  "terme": "Carte de résident",
+  "variantes": [
+   "carte de dix ans",
+   "carte de séjour de dix ans"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Titre de séjour de dix ans, renouvelable, créé en 1984. Il est délivré notamment aux réfugiés et, sous conditions de durée de séjour, de ressources et de langue, aux étrangers installés durablement.",
+  "usage": "La gauche propose d'en faire le titre de référence, ce qui met en avant la stabilité des parcours ; la droite insiste sur les conditions préalables à son obtention.",
+  "concurrents": [
+   "carte pluriannuelle",
+   "titre de long séjour"
+  ],
+  "notions": [
+   "titres-de-sejour"
+  ],
+  "motifs": [
+   "carte de résident",
+   "carte de séjour de dix ans"
+  ]
+ },
+ {
+  "id": "visa",
+  "terme": "Visa",
+  "variantes": [
+   "visa de court séjour",
+   "visa de long séjour",
+   "visa pour soins"
+  ],
+  "registre": "administratif",
+  "theme": "immigration",
+  "definition": "Autorisation d'entrée sur le territoire délivrée par un consulat avant le voyage. Le visa de court séjour est commun à l'espace Schengen ; le visa de long séjour relève de chaque État.",
+  "usage": "Terme technique partagé. Les propositions vont de la facilitation des visas, chez LFI et au PS-Place publique, à leur renchérissement par caution ou timbre, chez Reconquête et au RN.",
+  "concurrents": [],
+  "notions": [
+   "politique-des-visas"
+  ],
+  "motifs": [
+   "visas",
+   "un visa",
+   "visa pour soins",
+   "visa touristiques",
+   "visa Talents Tech"
+  ]
+ },
+ {
+  "id": "eloignement",
+  "terme": "Éloignement",
+  "variantes": [
+   "mesure d'éloignement",
+   "reconduite à la frontière"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Terme juridique générique qui désigne l'ensemble des mesures obligeant un étranger à quitter le territoire : OQTF, expulsion, interdiction du territoire, remise à un autre État. La reconduite à la frontière désignait une ancienne mesure, remplacée par l'OQTF.",
+  "usage": "Vocabulaire du droit et de l'administration, plus neutre que « expulsion ». Il apparaît dans les textes de Reconquête (charters « pour opérer les éloignements ») et du RN.",
+  "concurrents": [
+   "expulsion",
+   "renvoi",
+   "retour"
+  ],
+  "notions": [
+   "eloignement-des-etrangers-condamnes",
+   "oqtf"
+  ],
+  "motifs": [
+   "éloignements",
+   "éloignement des étrangers",
+   "reconduite* à la frontière"
+  ]
+ },
+ {
+  "id": "expulsion",
+  "terme": "Expulsion",
+  "variantes": [
+   "expulser",
+   "expulsions d'étrangers"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Au sens strict, mesure administrative visant un étranger dont la présence constitue une menace grave pour l'ordre public. Dans le langage courant, le mot désigne toute mesure de renvoi d'un étranger.",
+  "usage": "Mot le plus employé par la droite et l'extrême droite, souvent avec « systématiquement » ou « immédiatement » chez Reconquête et au RN. Il met l'accent sur la contrainte et la fermeté ; les Écologistes l'emploient pour des cas ciblés et pour demander l'interdiction de certaines expulsions.",
+  "concurrents": [
+   "éloignement",
+   "retour",
+   "renvoi"
+  ],
+  "notions": [
+   "eloignement-des-etrangers-condamnes"
+  ],
+  "motifs": [
+   "expulser systématiquement",
+   "expulser immédiatement",
+   "expulser les étrangers",
+   "expulsion des étrangers",
+   "expulsions d'étrangers",
+   "expulsions des personnes",
+   "être expulsés",
+   "puis expulser",
+   "expulser plus efficacement",
+   "expulsant les fichés S"
+  ]
+ },
+ {
+  "id": "demandeur-d-asile",
+  "terme": "Demandeur d'asile",
+  "variantes": [
+   "demande d'asile",
+   "demandeuse d'asile"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Personne qui a sollicité une protection internationale et dont la demande est en cours d'examen par l'OFPRA ou la CNDA. Elle a le droit de se maintenir en France pendant l'examen, sauf exceptions.",
+  "usage": "Terme juridique employé par la plupart des partis. Il distingue une situation en cours d'examen, alors que « réfugié » désigne une protection obtenue et « débouté » un refus.",
+  "concurrents": [
+   "réfugié",
+   "exilé",
+   "migrant"
+  ],
+  "notions": [
+   "droit-d-asile",
+   "droit-au-travail-des-demandeurs-d-asile"
+  ],
+  "motifs": [
+   "demandeur* d'asile",
+   "demande* d'asile",
+   "demandeurs d'asile"
+  ]
+ },
+ {
+  "id": "refugie",
+  "terme": "Réfugié",
+  "variantes": [
+   "statut de réfugié",
+   "réfugiée"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Personne à qui la protection prévue par la Convention de Genève a été reconnue. Dans le langage courant, le mot désigne plus largement toute personne ayant fui une guerre ou une persécution.",
+  "usage": "Les Écologistes parlent de clubs « accueillants des réfugié·es » ; Reconquête et le RN l'emploient à propos du retour ou du réexamen du statut. L'usage courant, plus large que le sens juridique, nourrit des confusions avec « migrant ».",
+  "concurrents": [
+   "demandeur d'asile",
+   "migrant",
+   "exilé"
+  ],
+  "notions": [
+   "statut-de-refugie",
+   "droit-d-asile"
+  ],
+  "motifs": [
+   "réfugié*",
+   "statut de réfugié"
+  ]
+ },
+ {
+  "id": "deboute",
+  "terme": "Débouté du droit d'asile",
+  "variantes": [
+   "déboutés",
+   "débouté"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Personne dont la demande d'asile a été définitivement rejetée. Elle perd alors son droit au maintien sur le territoire et peut faire l'objet d'une OQTF, sauf si elle obtient un titre à un autre titre.",
+  "usage": "Terme juridique utilisé par Reconquête pour justifier le dépôt des demandes à l'étranger (« les déboutés qui ne repartent jamais »). L'emploi du mot met l'accent sur l'échec de la demande et le maintien sur le territoire.",
+  "concurrents": [
+   "sans-papiers",
+   "personne en situation irrégulière"
+  ],
+  "notions": [
+   "droit-d-asile",
+   "asile-hors-du-territoire"
+  ],
+  "motifs": [
+   "débouté*"
+  ]
+ },
+ {
+  "id": "protection-subsidiaire",
+  "terme": "Protection subsidiaire",
+  "variantes": [],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Protection accordée à une personne qui ne remplit pas les conditions du statut de réfugié mais qui court dans son pays un risque réel de menaces graves, comme la peine de mort, la torture ou une violence aveugle liée à un conflit armé. Elle ouvre droit à une carte de séjour pluriannuelle.",
+  "usage": "Terme technique indispensable pour comprendre l'asile, absent des programmes étudiés.",
+  "concurrents": [
+   "statut de réfugié"
+  ],
+  "notions": [
+   "droit-d-asile",
+   "statut-de-refugie"
+  ],
+  "motifs": [
+   "protection subsidiaire"
+  ]
+ },
+ {
+  "id": "pays-sur",
+  "terme": "Pays d'origine sûr, pays tiers sûr",
+  "variantes": [
+   "pays sûrs",
+   "pays redevenus sûrs"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Un pays d'origine sûr est un pays considéré comme respectant les droits fondamentaux, dont les ressortissants voient leur demande d'asile examinée en procédure accélérée. Un pays tiers sûr est un pays de transit où le demandeur aurait pu obtenir une protection, ce qui peut rendre sa demande irrecevable.",
+  "usage": "Les Écologistes contestent la notion de « pays tiers sûr » ; Reconquête parle de « pays redevenus sûrs » pour justifier le retour des réfugiés. La qualification de sûr est un choix politique et juridique discuté.",
+  "concurrents": [],
+  "notions": [
+   "asile-hors-du-territoire",
+   "statut-de-refugie"
+  ],
+  "motifs": [
+   "pays tiers sûr",
+   "pays sûrs",
+   "pays redevenus sûrs",
+   "pays d'origine sûr*"
+  ]
+ },
+ {
+  "id": "procedure-acceleree",
+  "terme": "Procédure accélérée",
+  "variantes": [],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Modalité d'examen des demandes d'asile dans des délais réduits, applicable notamment aux ressortissants de pays d'origine sûrs, aux demandes de réexamen ou aux demandes présentées tardivement. Le recours devant la CNDA est alors jugé par un juge unique.",
+  "usage": "Terme technique employé par LFI, qui en demande la suppression au nom des garanties d'examen. Ses défenseurs y voient un outil de traitement rapide des demandes peu fondées.",
+  "concurrents": [
+   "procédure normale"
+  ],
+  "notions": [
+   "droit-d-asile"
+  ],
+  "motifs": [
+   "procédure accélérée"
+  ]
+ },
+ {
+  "id": "ada",
+  "terme": "Allocation pour demandeur d'asile (ADA)",
+  "variantes": [
+   "ADA",
+   "conditions matérielles d'accueil"
+  ],
+  "registre": "administratif",
+  "theme": "immigration",
+  "definition": "Allocation versée par l'OFII aux demandeurs d'asile qui acceptent les conditions matérielles d'accueil proposées, dont le montant dépend de la composition familiale et de l'hébergement. Elle fait partie des conditions matérielles d'accueil prévues par le droit européen.",
+  "usage": "Terme administratif employé par les Écologistes, qui proposent de l'augmenter et de l'indexer sur l'inflation.",
+  "concurrents": [],
+  "notions": [
+   "droit-au-travail-des-demandeurs-d-asile",
+   "droit-d-asile"
+  ],
+  "motifs": [
+   "allocation pour demandeur* d'asile",
+   "ADA"
+  ]
+ },
+ {
+  "id": "regroupement-familial-automatique",
+  "terme": "Regroupement familial « automatique »",
+  "variantes": [
+   "regroupement familial automatique"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Procédure permettant à un étranger en séjour régulier de faire venir son conjoint et ses enfants mineurs, sous conditions de ressources et de logement. Le terme est souvent employé dans le débat pour désigner plus largement toute l'immigration familiale.",
+  "usage": "Terme juridique, mais l'adjectif « automatique », employé par LR, ou l'expression de « droits automatiques », chez Reconquête, présentent la procédure comme un droit sans contrôle. Les Écologistes parlent de « droit au regroupement familial ».",
+  "concurrents": [
+   "immigration familiale",
+   "droit à la vie familiale"
+  ],
+  "notions": [
+   "regroupement-familial"
+  ],
+  "motifs": [
+   "regroupement familial automatique"
+  ]
+ },
+ {
+  "id": "immigration-familiale",
+  "terme": "Immigration familiale",
+  "variantes": [
+   "motif familial"
+  ],
+  "registre": "administratif",
+  "theme": "immigration",
+  "definition": "Catégorie statistique qui regroupe les titres de séjour délivrés pour motif familial : conjoints et parents de Français, regroupement familial, liens personnels et familiaux. Le regroupement familial n'en représente qu'une partie.",
+  "usage": "Employé par Reconquête dans le texte étudié. Le choix de parler d'immigration « familiale » plutôt que de « regroupement familial » élargit le champ visé aux conjoints de Français.",
+  "concurrents": [
+   "regroupement familial",
+   "immigration de travail"
+  ],
+  "notions": [
+   "regroupement-familial"
+  ],
+  "motifs": [
+   "immigration familiale"
+  ]
+ },
+ {
+  "id": "droit-du-sol-integral-ou-automatique",
+  "terme": "Droit du sol « intégral » ou « automatique »",
+  "variantes": [
+   "droit du sol intégral",
+   "droit du sol automatique"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Principe d'attribution de la nationalité fondé sur la naissance sur le territoire. En France, il est conditionné et combiné avec le droit du sang.",
+  "usage": "LFI parle de droit du sol « intégral », LR de droit du sol « automatique » : les deux adjectifs décrivent un même mécanisme en le présentant comme un acquis à compléter ou comme un automatisme à supprimer. En droit, l'acquisition à la majorité n'est d'ailleurs pas immédiate.",
+  "concurrents": [
+   "droit du sang"
+  ],
+  "notions": [
+   "droit-du-sol"
+  ],
+  "motifs": [
+   "droit du sol intégral",
+   "droit du sol automatique"
+  ]
+ },
+ {
+  "id": "droit-du-sang",
+  "terme": "Droit du sang",
+  "variantes": [
+   "jus sanguinis",
+   "filiation"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Principe d'attribution de la nationalité par la filiation : est français l'enfant dont au moins un parent est français, quel que soit son lieu de naissance. C'est le principe premier du droit français de la nationalité depuis le code civil de 1804.",
+  "usage": "L'expression elle-même est absente des programmes étudiés ; le RN parle de transmission de la nationalité « par filiation ». Le mot « sang » est souvent évité en raison de ses connotations.",
+  "concurrents": [
+   "droit du sol",
+   "filiation"
+  ],
+  "notions": [
+   "droit-du-sol",
+   "naturalisation"
+  ],
+  "motifs": [
+   "droit du sang",
+   "par filiation"
+  ]
+ },
+ {
+  "id": "binational",
+  "terme": "Binational",
+  "variantes": [
+   "double nationalité"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Personne qui possède à la fois la nationalité française et celle d'un autre État. Le droit français admet la double nationalité.",
+  "usage": "Reconquête emploie l'expression « criminels binationaux » à propos de la déchéance. Le RN propose de permettre d'interdire certains emplois publics aux personnes ayant la nationalité d'un autre État, sans employer le mot.",
+  "concurrents": [
+   "double nationalité",
+   "Français d'origine étrangère"
+  ],
+  "notions": [
+   "decheance-de-nationalite"
+  ],
+  "motifs": [
+   "binationa*",
+   "nationalité d'un autre État"
+  ]
+ },
+ {
+  "id": "primo-arrivant",
+  "terme": "Primo-arrivant",
+  "variantes": [
+   "nouveaux arrivants"
+  ],
+  "registre": "administratif",
+  "theme": "immigration",
+  "definition": "Étranger admis pour la première fois au séjour en France en vue d'y résider durablement, et à ce titre concerné par le contrat d'intégration républicaine. Le terme est aussi employé à l'école pour les élèves récemment arrivés.",
+  "usage": "Terme administratif employé par le PS-Place publique ; LR parle de « nouveaux arrivants ». Les deux insistent sur l'accueil et le parcours d'intégration plutôt que sur le contrôle.",
+  "concurrents": [
+   "nouveaux arrivants",
+   "immigrés"
+  ],
+  "notions": [
+   "parcours-d-integration"
+  ],
+  "motifs": [
+   "primo-arrivant*",
+   "nouveaux arrivants"
+  ]
+ },
+ {
+  "id": "mna",
+  "terme": "MNA et « mineurs isolés étrangers »",
+  "variantes": [
+   "MNA",
+   "mineur isolé étranger",
+   "mineurs étrangers isolés"
+  ],
+  "registre": "administratif",
+  "theme": "immigration",
+  "definition": "Mineur étranger présent en France sans représentant légal, relevant de la protection de l'enfance. L'expression « mineur non accompagné » a remplacé dans l'usage administratif, au milieu des années 2010, celle de « mineur isolé étranger ».",
+  "usage": "Le RN parle de « mineurs isolés étrangers » ; Reconquête met l'expression « mineurs étrangers isolés » entre guillemets, ce qui suggère un doute sur la réalité de la minorité ou de l'isolement. Les Écologistes parlent d'« évaluation de minorité et d'isolement ».",
+  "concurrents": [
+   "mineur isolé étranger",
+   "jeune migrant"
+  ],
+  "notions": [
+   "mineurs-non-accompagnes"
+  ],
+  "motifs": [
+   "mineurs étrangers isolés",
+   "mineurs isolés",
+   "mineurs non accompagnés",
+   "MNA"
+  ]
+ },
+ {
+  "id": "presomption-de-minorite",
+  "terme": "Présomption de minorité",
+  "variantes": [
+   "évaluation de minorité",
+   "mise à l'abri"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Principe selon lequel une personne qui se déclare mineure doit être traitée comme telle tant que sa majorité n'est pas établie, notamment pour bénéficier d'une mise à l'abri. Le code civil prévoit que le doute profite à l'intéressé lors des examens d'âge.",
+  "usage": "Expression défendue par les Écologistes et les associations de protection de l'enfance, qui la placent au centre de l'évaluation. Elle s'oppose à une logique de vérification préalable de l'âge, défendue par le RN.",
+  "concurrents": [
+   "vérification de l'âge",
+   "tests osseux"
+  ],
+  "notions": [
+   "mineurs-non-accompagnes"
+  ],
+  "motifs": [
+   "présomption de minorité",
+   "évaluation de minorité",
+   "mise à l'abri"
+  ]
+ },
+ {
+  "id": "tests-osseux",
+  "terme": "Tests osseux",
+  "variantes": [
+   "examens radiologiques osseux",
+   "expertise d'âge"
+  ],
+  "registre": "technique",
+  "theme": "immigration",
+  "definition": "Examens radiologiques, le plus souvent de la main et du poignet, utilisés pour estimer l'âge d'une personne qui se dit mineure. Leur marge d'erreur est importante, ce que le code civil prend en compte en exigeant de la mentionner et en faisant profiter le doute à l'intéressé.",
+  "usage": "Les Écologistes en demandent l'interdiction en invoquant leur manque de fiabilité ; le RN veut les généraliser au nom du contrôle des déclarations d'âge.",
+  "concurrents": [
+   "évaluation sociale",
+   "présomption de minorité"
+  ],
+  "notions": [
+   "mineurs-non-accompagnes"
+  ],
+  "motifs": [
+   "tests osseux"
+  ]
+ },
+ {
+  "id": "regularisation-mot",
+  "terme": "Régularisation et « régularisations de clandestins »",
+  "variantes": [
+   "régulariser",
+   "admission exceptionnelle au séjour"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Délivrance d'un titre de séjour à un étranger en situation irrégulière. En droit, on parle d'admission exceptionnelle au séjour, décidée au cas par cas par le préfet.",
+  "usage": "Mot partagé, employé positivement par les Écologistes, LFI et le PS-Place publique, et négativement par Reconquête et le RN, qui parlent de « régularisations de clandestins ». Le terme « régularisation massive » est souvent employé par ses opposants pour désigner une régularisation générale.",
+  "concurrents": [
+   "admission exceptionnelle au séjour",
+   "amnistie"
+  ],
+  "notions": [
+   "regularisation"
+  ],
+  "motifs": [
+   "régularis*"
+  ]
+ },
+ {
+  "id": "situation-irreguliere",
+  "terme": "Séjour irrégulier",
+  "variantes": [
+   "situation irrégulière",
+   "situation régulière",
+   "régularité du séjour",
+   "entrée illégale"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Situation d'un étranger présent sur le territoire sans titre ou visa l'y autorisant, soit parce qu'il est entré sans autorisation, soit parce que son droit au séjour a expiré ou lui a été refusé.",
+  "usage": "Vocabulaire juridique employé par LR, qui conditionne des aides à la « régularité du séjour », et par Reconquête et le RN, qui parlent aussi d'entrée « illégale ». C'est la formule la plus neutre parmi les manières de désigner ces personnes.",
+  "concurrents": [
+   "clandestin",
+   "sans-papiers",
+   "immigration illégale"
+  ],
+  "notions": [
+   "delit-de-sejour-irregulier",
+   "regularisation"
+  ],
+  "motifs": [
+   "séjour irrégulier*",
+   "situation irrégulière",
+   "situation régulière",
+   "régularité du séjour",
+   "entré illégalement",
+   "entrer illégalement"
+  ]
+ },
+ {
+  "id": "etranger-extra-europeen",
+  "terme": "Étranger extra-européen",
+  "variantes": [
+   "extra-communautaire",
+   "ressortissant de pays tiers",
+   "hors UE"
+  ],
+  "registre": "administratif",
+  "theme": "immigration",
+  "definition": "Ressortissant d'un État qui n'est pas membre de l'Union européenne ni de l'Espace économique européen ou de la Suisse. Ces étrangers relèvent du droit des étrangers, alors que les citoyens européens bénéficient de la liberté de circulation.",
+  "usage": "Les Écologistes et le PS-Place publique emploient « extra-communautaires » à propos du droit de vote ; Reconquête emploie « extra-européens » pour cibler la suppression des aides sociales ; LR parle d'étudiants « hors UE ».",
+  "concurrents": [
+   "ressortissant de pays tiers"
+  ],
+  "notions": [
+   "droit-de-vote-des-etrangers",
+   "conditionnement-des-prestations"
+  ],
+  "motifs": [
+   "étrangers extra-européens",
+   "extra-communautaires",
+   "étrangers hors UE"
+  ]
+ },
+ {
+  "id": "prestations-non-contributives",
+  "terme": "Prestations non contributives",
+  "variantes": [
+   "aides sociales non contributives",
+   "minima sociaux"
+  ],
+  "registre": "économique",
+  "theme": "immigration",
+  "definition": "Prestations sociales versées sans condition de cotisation préalable, financées par l'impôt ou des ressources générales : RSA, allocations familiales, aides au logement, minimum vieillesse. Elles s'opposent aux prestations contributives, comme les retraites ou l'assurance chômage.",
+  "usage": "Terme technique repris par Reconquête et le RN pour délimiter les aides qu'ils veulent réserver aux Français ou conditionner. Le choix de cette catégorie permet de distinguer ce qui relève de la solidarité nationale de ce qui relève des droits acquis par cotisation.",
+  "concurrents": [
+   "prestations contributives",
+   "assistanat"
+  ],
+  "notions": [
+   "conditionnement-des-prestations",
+   "priorite-nationale"
+  ],
+  "motifs": [
+   "non-contributive*"
+  ]
+ },
+ {
+  "id": "laissez-passer-consulaire",
+  "terme": "Laissez-passer consulaire",
+  "variantes": [
+   "réadmission",
+   "accord de réadmission"
+  ],
+  "registre": "administratif",
+  "theme": "immigration",
+  "definition": "Document délivré par le consulat du pays d'origine présumé d'un étranger dépourvu de passeport, indispensable à son éloignement. Un accord de réadmission engage un État à reprendre ses ressortissants en situation irrégulière.",
+  "usage": "Terme technique employé par le PS-Place publique, qui propose de lier visas et réadmission. Il désigne l'un des principaux goulots d'étranglement de l'exécution des OQTF.",
+  "concurrents": [],
+  "notions": [
+   "politique-des-visas",
+   "oqtf"
+  ],
+  "motifs": [
+   "laissez-passer consulaire*",
+   "réadmission"
+  ]
+ },
+ {
+  "id": "externalisation",
+  "terme": "Externalisation",
+  "variantes": [
+   "externaliser",
+   "sous-traitance migratoire"
+  ],
+  "registre": "technique",
+  "theme": "immigration",
+  "definition": "Délégation à des pays tiers, ou déplacement hors du territoire, de tout ou partie du contrôle des frontières ou de l'examen des demandes d'asile.",
+  "usage": "Terme employé de manière critique par les Écologistes et le PS-Place publique, qui la refusent. Ses partisans, comme le RN et Reconquête, n'emploient pas le mot et parlent de demandes déposées dans les consulats ou d'accueil dans des États partenaires.",
+  "concurrents": [
+   "traitement extraterritorial",
+   "partenariats migratoires"
+  ],
+  "notions": [
+   "asile-hors-du-territoire"
+  ],
+  "motifs": [
+   "externaliser",
+   "externalisation de nos politiques migratoires"
+  ]
+ },
+ {
+  "id": "refoulement",
+  "terme": "Refoulement",
+  "variantes": [
+   "refoulements illégaux",
+   "pushback",
+   "non-refoulement"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Renvoi d'une personne à la frontière sans examen de sa situation. Le principe de non-refoulement, posé par la Convention de Genève, interdit de renvoyer un réfugié vers un pays où sa vie ou sa liberté serait menacée.",
+  "usage": "Les Écologistes dénoncent des « refoulements illégaux » aux frontières des Alpes et du Nord. Le mot anglais « pushback » est courant dans les rapports d'ONG.",
+  "concurrents": [
+   "refus d'entrée",
+   "non-admission"
+  ],
+  "notions": [
+   "controle-des-frontieres",
+   "asile-hors-du-territoire"
+  ],
+  "motifs": [
+   "refoulement*",
+   "pushback*"
+  ]
+ },
+ {
+  "id": "libre-circulation",
+  "terme": "Libre circulation",
+  "variantes": [
+   "libre-circulation Schengen"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Droit des citoyens de l'Union de circuler et de séjourner dans les autres États membres, et, dans l'espace Schengen, absence de contrôle systématique aux frontières intérieures pour toutes les personnes qui y séjournent régulièrement.",
+  "usage": "Le RN propose de « réserver la libre-circulation Schengen aux seuls ressortissants européens », en distinguant les citoyens européens des étrangers résidant dans l'espace Schengen.",
+  "concurrents": [
+   "contrôle aux frontières"
+  ],
+  "notions": [
+   "espace-schengen"
+  ],
+  "motifs": [
+   "libre-circulation Schengen"
+  ]
+ },
+ {
+  "id": "clandestin",
+  "terme": "Clandestin",
+  "variantes": [
+   "immigrés clandestins",
+   "étrangers clandestins",
+   "immigration clandestine",
+   "travailleurs clandestins"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Mot qui désigne un étranger entré ou séjournant sans autorisation. Il n'a pas de définition juridique propre : le droit parle de séjour irrégulier.",
+  "usage": "Employé dans les textes étudiés par Reconquête et le RN, souvent comme substantif (« les clandestins »). Il met l'accent sur l'illégalité et la dissimulation ; ses critiques lui reprochent de réduire la personne à son statut et lui préfèrent « sans-papiers », « exilé » ou « personne en situation irrégulière ».",
+  "concurrents": [
+   "sans-papiers",
+   "étranger en situation irrégulière",
+   "exilé",
+   "migrant"
+  ],
+  "notions": [
+   "delit-de-sejour-irregulier",
+   "regularisation"
+  ],
+  "motifs": [
+   "les clandestins",
+   "de clandestins",
+   "étrangers clandestins",
+   "immigrés clandestins",
+   "travailleurs clandestins",
+   "immigration clandestine"
+  ]
+ },
+ {
+  "id": "sans-papiers",
+  "terme": "Sans-papiers",
+  "variantes": [
+   "travailleurs sans papiers"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Désignation courante des étrangers en situation irrégulière, popularisée par le mouvement des occupants de l'église Saint-Bernard à Paris en 1996.",
+  "usage": "Employé par le PS-Place publique (« travailleurs sans papiers »), et plus largement à gauche et dans le monde associatif. Le mot insiste sur une situation administrative, susceptible d'être régularisée, plutôt que sur l'illégalité de l'entrée.",
+  "concurrents": [
+   "clandestin",
+   "étranger en situation irrégulière"
+  ],
+  "notions": [
+   "regularisation"
+  ],
+  "motifs": [
+   "sans papiers",
+   "sans-papiers"
+  ]
+ },
+ {
+  "id": "exile",
+  "terme": "Exilé",
+  "variantes": [
+   "personnes exilées",
+   "exilés"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Personne contrainte de quitter son pays. Le terme, d'usage littéraire et militant, ne correspond à aucune catégorie juridique.",
+  "usage": "Employé par les Écologistes et LFI (« personnes exilées », « exilés à Mayotte »). Il met en avant la contrainte du départ et la dimension humanitaire, sans distinguer demandeurs d'asile, réfugiés et migrants économiques.",
+  "concurrents": [
+   "migrant",
+   "clandestin",
+   "demandeur d'asile"
+  ],
+  "notions": [
+   "droit-d-asile"
+  ],
+  "motifs": [
+   "exilé*",
+   "exilées"
+  ]
+ },
+ {
+  "id": "migrant",
+  "terme": "Migrant",
+  "variantes": [
+   "migrant·es",
+   "personnes migrantes"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Personne qui quitte son pays pour s'installer dans un autre, de manière temporaire ou durable, quelle qu'en soit la raison. Le mot est surtout employé pour les personnes en cours de trajet.",
+  "usage": "Employé dans les programmes étudiés par les Écologistes et LFI (« accueil digne des migrants »). Terme générique, il est critiqué à la fois par ceux qui y voient un effacement de la distinction avec le réfugié et par ceux qui jugent qu'il banalise l'immigration irrégulière.",
+  "concurrents": [
+   "immigré",
+   "exilé",
+   "réfugié",
+   "clandestin"
+  ],
+  "notions": [
+   "reglement-de-dublin-et-pacte-asile"
+  ],
+  "motifs": [
+   "migrant*",
+   "migrantes",
+   "personnes migrantes"
+  ]
+ },
+ {
+  "id": "immigre",
+  "terme": "Immigré",
+  "variantes": [
+   "immigrés"
+  ],
+  "registre": "technique",
+  "theme": "immigration",
+  "definition": "Selon la définition de l'Insee, personne née étrangère à l'étranger et résidant en France. Un immigré peut être devenu français ; à l'inverse, un étranger né en France n'est pas immigré.",
+  "usage": "Terme statistique indispensable, peu employé dans les citations étudiées, où il apparaît chez Reconquête (« immigrés clandestins »). La confusion fréquente entre « étranger » et « immigré » brouille les chiffres cités dans le débat.",
+  "concurrents": [
+   "étranger",
+   "personne d'origine étrangère"
+  ],
+  "notions": [],
+  "motifs": [
+   "immigrés",
+   "immigré"
+  ]
+ },
+ {
+  "id": "etranger",
+  "terme": "Étranger",
+  "variantes": [
+   "ressortissant étranger",
+   "étrangers"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Personne qui n'a pas la nationalité française. C'est la catégorie du droit, sur laquelle repose le CESEDA, indépendamment du lieu de naissance.",
+  "usage": "Terme juridique le plus fréquent du thème, employé par tous les partis. Le RN et Reconquête l'associent souvent à des mots comme « délinquants », « criminels » ou « clandestins » ; les Écologistes et la gauche à des droits (vote, santé, travail).",
+  "concurrents": [
+   "immigré",
+   "non-national"
+  ],
+  "notions": [],
+  "motifs": [
+   "les étrangers",
+   "des étrangers",
+   "aux étrangers",
+   "un étranger",
+   "ressortissants étrangers",
+   "étranger·es",
+   "étrangers en situation*",
+   "étrangers incarcérés",
+   "étrangers au chômage",
+   "étrangers clandestins"
+  ]
+ },
+ {
+  "id": "passeur",
+  "terme": "Passeur",
+  "variantes": [
+   "passeurs",
+   "filières",
+   "traite des êtres humains"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Personne ou réseau qui organise, contre rémunération, le franchissement illégal des frontières. Le droit distingue le trafic de migrants, qui porte sur le passage, de la traite des êtres humains, qui implique une exploitation.",
+  "usage": "Reconquête propose d'étendre la définition pénale de la traite aux passeurs. La lutte contre les passeurs est invoquée par presque tous les camps, mais pour des solutions opposées : contrôle et répression d'un côté, voies légales de l'autre.",
+  "concurrents": [
+   "trafic de migrants",
+   "réseaux"
+  ],
+  "notions": [
+   "voies-legales-et-sures",
+   "controle-des-frontieres"
+  ],
+  "motifs": [
+   "passeur*",
+   "traite des êtres humains"
+  ]
+ },
+ {
+  "id": "delit-de-solidarite-terme",
+  "terme": "Délit de solidarité",
+  "variantes": [
+   "délit d'aide au séjour irrégulier"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Expression militante qui désigne les poursuites engagées sur le fondement du délit d'aide à l'entrée, à la circulation ou au séjour irréguliers d'étrangers contre des personnes agissant sans contrepartie.",
+  "usage": "Employée par LFI, qui en demande la « fin », et par les associations. Elle présente l'aide aux étrangers comme un acte de solidarité ; le RN, à l'opposé, parle d'« aide directe ou indirecte » aux étrangers entrés illégalement.",
+  "concurrents": [
+   "délit d'aide à l'entrée et au séjour irréguliers",
+   "principe de fraternité"
+  ],
+  "notions": [
+   "delit-de-solidarite"
+  ],
+  "motifs": [
+   "délit de solidarité",
+   "délit d'aide à l'entrée*"
+  ]
+ },
+ {
+  "id": "accueil-digne",
+  "terme": "Accueil digne",
+  "variantes": [
+   "accueil dignes",
+   "hébergements dignes",
+   "politique migratoire plus humaine"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Formule qui désigne des conditions d'accueil des étrangers jugées conformes à la dignité humaine : hébergement, soins, accès aux droits.",
+  "usage": "Employée par LFI, le PS-Place publique et les Écologistes. Elle déplace l'enjeu des flux vers les conditions de vie des personnes ; ses critiques y voient une formule qui évite la question du nombre.",
+  "concurrents": [
+   "accueillir moins pour accueillir mieux",
+   "maîtrise des flux"
+  ],
+  "notions": [
+   "reglement-de-dublin-et-pacte-asile"
+  ],
+  "motifs": [
+   "accueil digne",
+   "hébergements dignes",
+   "politique migratoire plus humaine"
+  ]
+ },
+ {
+  "id": "devoir-de-sauver",
+  "terme": "Devoir de sauver",
+  "variantes": [
+   "sauvetage en mer"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Expression qui transpose l'obligation juridique d'assistance en mer en principe politique de sauvetage des migrants en détresse.",
+  "usage": "Employée entre guillemets par le PS-Place publique. Elle met en avant l'obligation morale et juridique de secours, quand d'autres insistent sur les effets incitatifs des opérations de sauvetage.",
+  "concurrents": [
+   "appel d'air"
+  ],
+  "notions": [
+   "sauvetage-en-mer"
+  ],
+  "motifs": [
+   "devoir de sauver"
+  ]
+ },
+ {
+  "id": "combattants-de-la-liberte",
+  "terme": "Combattants de la liberté",
+  "variantes": [
+   "combattantes et combattants de la liberté"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Expression qui renvoie à l'alinéa 4 du préambule de la Constitution de 1946 : « Tout homme persécuté en raison de son action en faveur de la liberté a droit d'asile sur les territoires de la République ».",
+  "usage": "Employée par LFI, qui cite Edward Snowden et Julian Assange, et par Renaissance, qui propose un accueil facilité. Elle permet de défendre une forme d'asile politique tout en se distinguant des débats sur les flux.",
+  "concurrents": [
+   "asile constitutionnel"
+  ],
+  "notions": [
+   "droit-d-asile"
+  ],
+  "motifs": [
+   "combattants de la liberté"
+  ]
+ },
+ {
+  "id": "immigration-de-peuplement",
+  "terme": "Immigration de peuplement",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Expression qui désigne une immigration d'installation durable, notamment familiale, par opposition à une immigration temporaire ou de travail.",
+  "usage": "Employée par le RN (« mettre fin à l'immigration de peuplement »). Elle suggère une transformation démographique de la population et une installation subie ; ses critiques y voient un rapprochement avec les thèses du « grand remplacement ».",
+  "concurrents": [
+   "immigration familiale",
+   "immigration d'installation",
+   "regroupement familial"
+  ],
+  "notions": [
+   "regroupement-familial"
+  ],
+  "motifs": [
+   "immigration de peuplement"
+  ]
+ },
+ {
+  "id": "immigration-incontrolee",
+  "terme": "Immigration incontrôlée",
+  "variantes": [
+   "immigration massive",
+   "immigration de masse"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Expression qui qualifie les flux migratoires comme échappant au contrôle de l'État.",
+  "usage": "Employée par le RN (« arrêter l'immigration incontrôlée »). Elle présente la situation comme une perte de maîtrise, ce que contestent ceux qui rappellent l'existence de procédures et de refus nombreux.",
+  "concurrents": [
+   "immigration maîtrisée",
+   "politique migratoire"
+  ],
+  "notions": [
+   "referendum-sur-l-immigration"
+  ],
+  "motifs": [
+   "immigration incontrôlée",
+   "immigration massive",
+   "immigration de masse"
+  ]
+ },
+ {
+  "id": "submersion-migratoire",
+  "terme": "Submersion migratoire",
+  "variantes": [
+   "submersion",
+   "invasion"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Métaphore qui présente l'immigration comme un phénomène naturel débordant les capacités du pays.",
+  "usage": "Expression employée dans le débat public par des responsables du RN et de Reconquête ; en 2025, le Premier ministre François Bayrou a évoqué un « sentiment de submersion », ce qui a suscité une controverse. Elle est absente des programmes étudiés.",
+  "concurrents": [
+   "flux migratoires",
+   "pression migratoire"
+  ],
+  "notions": [],
+  "motifs": [
+   "submersion migratoire",
+   "submersion"
+  ]
+ },
+ {
+  "id": "grand-remplacement",
+  "terme": "Grand remplacement",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Thèse formulée par l'écrivain Renaud Camus au début des années 2010, selon laquelle la population européenne serait remplacée par des populations immigrées, notamment africaines et musulmanes, avec la complicité des élites. Les démographes en contestent les fondements, et de nombreux chercheurs la rangent parmi les théories complotistes ; ses partisans la présentent comme la description d'un changement de population.",
+  "usage": "Expression reprise par Éric Zemmour dans le débat public, et dont d'autres responsables de droite et d'extrême droite se sont démarqués. Elle est absente des programmes étudiés ; le thème de la « remigration » lui est souvent associé par ses critiques.",
+  "concurrents": [
+   "immigration de peuplement",
+   "remigration"
+  ],
+  "notions": [
+   "remigration"
+  ],
+  "motifs": [
+   "grand remplacement"
+  ]
+ },
+ {
+  "id": "appel-d-air",
+  "terme": "Appel d'air",
+  "variantes": [
+   "pompe aspirante",
+   "facteur d'attractivité"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Métaphore qui désigne l'effet supposé d'une mesure favorable aux étrangers, régularisation, aide sociale ou sauvetage, sur l'augmentation des arrivées.",
+  "usage": "Argument fréquent à droite contre l'AME, les régularisations ou le sauvetage en mer ; ses contradicteurs invoquent des études concluant à un effet faible des politiques d'accueil sur les flux. Le mot est absent des programmes étudiés, mais l'idée sous-tend plusieurs propositions.",
+  "concurrents": [
+   "facteur d'attractivité"
+  ],
+  "notions": [
+   "aide-medicale-d-etat",
+   "regularisation",
+   "sauvetage-en-mer"
+  ],
+  "motifs": [
+   "appel d'air",
+   "pompe aspirante"
+  ]
+ },
+ {
+  "id": "priorite-nationale",
+  "terme": "Priorité nationale",
+  "variantes": [
+   "préférence nationale"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Principe consistant à réserver ou à attribuer en priorité aux Français certains droits, comme l'emploi, le logement social ou des prestations sociales.",
+  "usage": "Formule du RN, qui a remplacé l'expression « préférence nationale » employée par le Front national. Le mot « priorité » atténue l'idée d'exclusion ; ses opposants parlent de « discrimination » ou continuent de dire « préférence nationale ». Le RN l’applique à l’emploi, au logement social et aux prestations, et l’étend à la commande publique à côté de la préférence européenne ; Reconquête propose de réserver une part de la commande publique aux entreprises nationales.",
+  "concurrents": [
+   "préférence nationale",
+   "égalité de traitement",
+   "discrimination",
+   "égalité des droits",
+   "préférence européenne"
+  ],
+  "notions": [
+   "priorite-nationale",
+   "conditionnement-des-prestations",
+   "logement-social",
+   "preference-europeenne"
+  ],
+  "motifs": [
+   "la priorité nationale",
+   "priorité nationale d'accès*",
+   "préférence nationale",
+   "priorité nationale, préférence européenne"
+  ],
+  "autres_themes": [
+   "social",
+   "travail",
+   "europe"
+  ]
+ },
+ {
+  "id": "preference-travail",
+  "terme": "Préférence travail",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Formule qui désigne une politique migratoire donnant la priorité à l'immigration de travail sur les autres motifs d'admission.",
+  "usage": "Employée par Renaissance, en écho manifeste à la « préférence nationale », pour défendre un système à points fondé sur l'emploi, le logement et la langue. Elle met en avant le critère économique plutôt que la nationalité.",
+  "concurrents": [
+   "priorité nationale",
+   "immigration choisie"
+  ],
+  "notions": [
+   "immigration-de-travail"
+  ],
+  "motifs": [
+   "préférence travail"
+  ]
+ },
+ {
+  "id": "accueillir-moins-mieux",
+  "terme": "Accueillir moins pour accueillir mieux",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Formule qui associe une réduction des admissions à une amélioration de l'intégration des personnes accueillies.",
+  "usage": "Employée par Renaissance. Elle se présente comme une voie médiane entre fermeté et accueil ; ses critiques à gauche y voient une justification de restrictions, ses critiques à droite une formule peu contraignante.",
+  "concurrents": [
+   "accueil digne",
+   "immigration zéro"
+  ],
+  "notions": [
+   "regroupement-familial",
+   "immigration-de-travail"
+  ],
+  "motifs": [
+   "accueillir moins"
+  ]
+ },
+ {
+  "id": "misere-du-monde",
+  "terme": "Accueillir toute la misère du monde",
+  "variantes": [
+   "frontières étanches",
+   "autarcie"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Formule prononcée par Michel Rocard, alors Premier ministre, le 3 décembre 1989 sur TF1 : « nous ne pouvons pas accueillir toute la misère du monde ». Elle est souvent citée sous la forme « la France ne peut pas accueillir toute la misère du monde », et sans le complément que Rocard a revendiqué par la suite, selon lequel la France doit « en prendre fidèlement sa part ».",
+  "usage": "Horizons l'emploie pour renvoyer dos à dos ceux qui croiraient pouvoir l'accueillir et ceux qui « font croire que le pays peut vivre en autarcie derrière des frontières étanches ». La formule est couramment citée pour justifier une limitation des flux.",
+  "concurrents": [
+   "accueil digne",
+   "immigration incontrôlée"
+  ],
+  "notions": [],
+  "motifs": [
+   "misère du monde",
+   "frontières étanches"
+  ]
+ },
+ {
+  "id": "privileges-migratoires",
+  "terme": "Privilèges migratoires",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Expression qui qualifie les régimes dérogatoires accordés à certaines nationalités par des accords bilatéraux, comme l'accord franco-algérien de 1968.",
+  "usage": "Employée par Reconquête. Le mot « privilège » présente ces régimes comme des avantages indus ; leurs défenseurs parlent de régimes spécifiques issus de l'histoire, dont certains aspects sont moins favorables que le droit commun.",
+  "concurrents": [
+   "régime dérogatoire",
+   "accord bilatéral"
+  ],
+  "notions": [
+   "accord-franco-algerien-1968"
+  ],
+  "motifs": [
+   "privilèges migratoires"
+  ]
+ },
+ {
+  "id": "esprit-originel",
+  "terme": "Esprit originel du droit d'asile",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Formule qui oppose une conception restreinte de l'asile, réservée aux persécutés politiques, au droit d'asile actuel, élargi par la Convention de Genève et le droit européen.",
+  "usage": "Employée par Reconquête pour justifier une limitation à une centaine de personnes par an. Elle présente l'asile actuel comme détourné ; ses contradicteurs rappellent que la Convention de Genève de 1951 a toujours couvert plusieurs motifs de persécution.",
+  "concurrents": [
+   "droit d'asile",
+   "protection internationale"
+  ],
+  "notions": [
+   "droit-d-asile"
+  ],
+  "motifs": [
+   "esprit originel"
+  ]
+ },
+ {
+  "id": "assimilation",
+  "terme": "Assimilation",
+  "variantes": [
+   "s'assimiler",
+   "preuves d'assimilation",
+   "assimilation des élèves",
+   "assimilationnisme"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Modèle selon lequel les étrangers et leurs descendants doivent adopter la culture, les usages et les valeurs du pays d’accueil, jusqu’à s’y fondre. Le Code civil subordonne la naturalisation à l’« assimilation à la communauté française » et permet au gouvernement de s’opposer, pour « défaut d’assimilation », à certaines acquisitions de nationalité.",
+  "usage": "Mot employé par LR, Reconquête et le RN, qui en font une exigence (« imposer l'assimilation »). Il met en avant l'unité culturelle ; la gauche et le centre lui préfèrent « intégration », qui laisse plus de place aux appartenances d'origine. Reconquête veut la remettre « au cœur de notre Nation » ; à l’école, le RN justifie la suppression des ELCO par le fait qu’ils « nuisent à l’assimilation des élèves ».",
+  "concurrents": [
+   "intégration",
+   "inclusion",
+   "multiculturalisme",
+   "diversité culturelle"
+  ],
+  "notions": [
+   "assimilation",
+   "naturalisation",
+   "langues-regionales",
+   "laicite"
+  ],
+  "motifs": [
+   "assimilation",
+   "s'assimiler",
+   "assimilation des élèves"
+  ],
+  "autres_themes": [
+   "education",
+   "institutions"
+  ]
+ },
+ {
+  "id": "integration",
+  "terme": "Intégration",
+  "variantes": [
+   "parcours d'intégration",
+   "contrat d'intégration républicaine"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Processus par lequel les étrangers et leurs descendants participent à la vie économique, sociale et civique du pays d'accueil. L'État l'organise par le contrat d'intégration républicaine.",
+  "usage": "Employé par LR (« vrai parcours d'intégration ») et par les Écologistes à travers l'OFII. Terme plus consensuel qu'« assimilation », il est critiqué par certains comme trop peu exigeant et par d'autres comme faisant peser l'effort sur les seuls immigrés.",
+  "concurrents": [
+   "assimilation",
+   "inclusion"
+  ],
+  "notions": [
+   "parcours-d-integration"
+  ],
+  "motifs": [
+   "parcours d'intégration",
+   "contrat d'intégration*",
+   "Office français de l'immigration et de l'intégration"
+  ]
+ },
+ {
+  "id": "droits-automatiques",
+  "terme": "Droits automatiques",
+  "variantes": [
+   "automaticité",
+   "regroupement familial automatique",
+   "droit du sol automatique"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Formule qui qualifie certains droits des étrangers, regroupement familial, acquisition de la nationalité, renouvellement des titres, comme accordés sans appréciation par l'administration.",
+  "usage": "Employée par LR et Reconquête. Elle suggère une absence de contrôle, alors que ces droits sont soumis à des conditions ; leurs défenseurs parlent plutôt de droits conditionnés ou de « droit à mener une vie familiale normale ».",
+  "concurrents": [
+   "droits conditionnés",
+   "droit à la vie familiale"
+  ],
+  "notions": [
+   "regroupement-familial",
+   "droit-du-sol"
+  ],
+  "motifs": [
+   "droits automatiques liés",
+   "automaticité",
+   "regroupement familial automatique",
+   "droit du sol automatique"
+  ]
+ },
+ {
+  "id": "politique-du-chiffre",
+  "terme": "Politique du chiffre",
+  "variantes": [],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Expression critique qui désigne la fixation d'objectifs quantitatifs à l'administration, par exemple en nombre de mesures d'éloignement prononcées.",
+  "usage": "Employée par le PS-Place publique à propos des OQTF et par LFI à propos de la police. Elle suggère que les objectifs chiffrés produisent des décisions de masse peu exécutées ; leurs défenseurs parlent d'objectifs de performance.",
+  "concurrents": [
+   "objectifs de résultats",
+   "pilotage par la performance"
+  ],
+  "notions": [
+   "oqtf"
+  ],
+  "motifs": [
+   "politique du chiffre"
+  ]
+ },
+ {
+  "id": "immigration-choisie",
+  "terme": "Immigration choisie",
+  "variantes": [
+   "immigration subie"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Couple d'expressions qui oppose une immigration sélectionnée selon les besoins du pays, surtout économique, à une immigration « subie », familiale ou humanitaire.",
+  "usage": "Popularisé par Nicolas Sarkozy et la loi de 2006, ce vocabulaire est absent des programmes étudiés, mais son idée se retrouve dans la « préférence travail » de Renaissance et les quotas de LR. Ses critiques lui reprochent de présenter les migrations familiales et l'asile comme une contrainte.",
+  "concurrents": [
+   "préférence travail",
+   "immigration de travail"
+  ],
+  "notions": [
+   "immigration-de-travail",
+   "quotas-d-immigration"
+  ],
+  "motifs": [
+   "immigration choisie",
+   "immigration subie"
+  ]
+ },
+ {
+  "id": "voies-legales-et-sures-formule",
+  "terme": "« Voies légales et sûres »",
+  "variantes": [
+   "voies légales et sécurisées"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Ensemble des moyens d'entrée régulière qui évitent les traversées irrégulières : visas, réinstallation, regroupement familial.",
+  "usage": "Formule des Écologistes, de LFI et du PS-Place publique, issue du vocabulaire des organisations internationales. Elle présente l'ouverture de canaux réguliers comme une réponse aux passeurs ; ses adversaires y voient une augmentation des flux.",
+  "concurrents": [
+   "contrôle des flux"
+  ],
+  "notions": [
+   "voies-legales-et-sures"
+  ],
+  "motifs": [
+   "voies légales"
+  ]
+ },
+ {
+  "id": "co-developpement",
+  "terme": "Co-développement",
+  "variantes": [
+   "aide au développement",
+   "causes profondes des migrations"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Politique de coopération avec les pays d'origine des migrants, visant leur développement économique et social, parfois avec la participation des diasporas.",
+  "usage": "Employé par LFI et le PS-Place publique. Il lie les migrations à leurs causes économiques ; Reconquête aborde les pays d'origine sous l'angle de campagnes pour « décourager les départs ».",
+  "concurrents": [
+   "conditionnalité de l'aide"
+  ],
+  "notions": [],
+  "motifs": [
+   "co-développement",
+   "codéveloppement"
+  ]
+ },
+ {
+  "id": "deplace-climatique",
+  "terme": "Déplacé climatique",
+  "variantes": [
+   "réfugié climatique"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Personne contrainte de quitter son lieu de vie en raison d'effets du changement climatique. Elle n'entre pas dans la définition du réfugié de la Convention de Genève et ne dispose pas de statut international propre.",
+  "usage": "LFI propose de créer un « statut de déplacé climatique ». L'expression « réfugié climatique », plus courante, est juridiquement impropre.",
+  "concurrents": [
+   "réfugié climatique",
+   "migrant environnemental"
+  ],
+  "notions": [
+   "statut-de-refugie"
+  ],
+  "motifs": [
+   "déplacé* climatique*",
+   "réfugié* climatique*"
+  ]
+ },
+ {
+  "id": "militarisation",
+  "terme": "Militarisation des frontières",
+  "variantes": [
+   "militarisation",
+   "garde-frontières à statut militaire"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Expression qui désigne le recours croissant à des moyens militaires ou paramilitaires pour contrôler les frontières.",
+  "usage": "Employée de façon critique par les Écologistes. À l'inverse, Reconquête propose une garde-frontières « à statut militaire » et Renaissance une « force des frontières » : la même réalité est décrite comme une dérive ou comme un renforcement.",
+  "concurrents": [
+   "force des frontières",
+   "contrôle des frontières"
+  ],
+  "notions": [
+   "controle-des-frontieres"
+  ],
+  "motifs": [
+   "militarisation",
+   "statut militaire"
+  ]
+ },
+ {
+  "id": "force-des-frontieres",
+  "terme": "Force des frontières",
+  "variantes": [
+   "garde-frontières",
+   "police aux frontières"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Désignation d'une force publique dédiée à la surveillance des frontières, en complément ou en remplacement de la police aux frontières existante.",
+  "usage": "Expression de Renaissance, entre guillemets dans son texte ; Reconquête parle de « garde-frontières » et LR de garde-frontières européens. Elle met en avant la protection du territoire.",
+  "concurrents": [
+   "militarisation des frontières"
+  ],
+  "notions": [
+   "controle-des-frontieres",
+   "frontex"
+  ],
+  "motifs": [
+   "force des frontières",
+   "garde-frontières",
+   "police aux frontières"
+  ]
+ },
+ {
+  "id": "etrangers-delinquants",
+  "terme": "Délinquants étrangers",
+  "variantes": [
+   "criminels étrangers",
+   "étrangers condamnés"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Désignation des étrangers condamnés pour des infractions, catégorie visée par les mesures d'expulsion.",
+  "usage": "Employé par Reconquête et le RN, souvent associé à « systématiquement ». L'association répétée entre étrangers et délinquance est au cœur de leur argumentaire ; leurs critiques soulignent qu'elle généralise un comportement individuel.",
+  "concurrents": [
+   "étrangers condamnés",
+   "auteurs d'infractions"
+  ],
+  "notions": [
+   "eloignement-des-etrangers-condamnes"
+  ],
+  "motifs": [
+   "délinquants étrangers",
+   "criminels étrangers",
+   "étrangers condamnés"
+  ]
+ },
+ {
+  "id": "fiches-s",
+  "terme": "Fiché S",
+  "variantes": [
+   "fiche S",
+   "fichés S"
+  ],
+  "registre": "administratif",
+  "theme": "immigration",
+  "definition": "Personne inscrite au fichier des personnes recherchées avec la mention S, pour « sûreté de l'État ». La fiche est un outil de renseignement destiné à la surveillance, non une preuve de culpabilité.",
+  "usage": "Reconquête et le RN proposent d'expulser les « fichés S étrangers ». Leurs critiques rappellent que l'inscription ne repose pas sur une décision judiciaire.",
+  "concurrents": [],
+  "notions": [
+   "eloignement-des-etrangers-condamnes"
+  ],
+  "motifs": [
+   "fichés S"
+  ]
+ },
+ {
+  "id": "ordre-public",
+  "terme": "Menace pour l'ordre public",
+  "variantes": [
+   "troubler l'ordre public",
+   "atteinte à l'ordre public"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Notion juridique qui permet à l'administration de refuser ou retirer un titre de séjour ou de prononcer une expulsion lorsque le comportement d'un étranger menace la sécurité ou la tranquillité publiques, même sans condamnation.",
+  "usage": "Employé par Renaissance (« étrangers qui troublent l'ordre public ») et le RN. Le critère, plus large que la condamnation pénale, est discuté pour son imprécision.",
+  "concurrents": [
+   "condamnation pénale"
+  ],
+  "notions": [
+   "eloignement-des-etrangers-condamnes"
+  ],
+  "motifs": [
+   "troublent l'ordre public",
+   "atteinte à l'ordre public"
+  ]
+ },
+ {
+  "id": "charters",
+  "terme": "Charters",
+  "variantes": [
+   "vols groupés"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Vols affrétés pour éloigner plusieurs étrangers en même temps vers un même pays. L'expression a été rendue célèbre par les vols de ce type organisés en 1986.",
+  "usage": "Reconquête propose de « rétablir l'usage des charters collectifs ». Le mot évoque des éloignements de masse ; les autorités emploient plutôt « vols groupés », organisés notamment par Frontex.",
+  "concurrents": [
+   "vols groupés"
+  ],
+  "notions": [
+   "remigration",
+   "eloignement-des-etrangers-condamnes"
+  ],
+  "motifs": [
+   "charter*"
+  ]
+ },
+ {
+  "id": "soins-gratuits",
+  "terme": "Soins gratuits",
+  "variantes": [
+   "aide médicale d'urgence",
+   "aide d'urgence vitale"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Formule qui qualifie l'AME du point de vue de la gratuité pour le bénéficiaire. L'aide d'urgence vitale ou médicale d'urgence désigne une couverture limitée aux soins urgents.",
+  "usage": "Reconquête parle de « soins gratuits pour les étrangers clandestins » ; le RN propose une « aide d'urgence vitale ». Les défenseurs de l'AME parlent d'« accès aux soins » et de santé publique.",
+  "concurrents": [
+   "aide médicale de l'État",
+   "accès aux soins"
+  ],
+  "notions": [
+   "aide-medicale-d-etat"
+  ],
+  "motifs": [
+   "soins gratuits",
+   "aide d'urgence vitale",
+   "aide médicale d'urgence"
+  ]
+ },
+ {
+  "id": "titre-territorialise",
+  "terme": "Titre de séjour territorialisé",
+  "variantes": [],
+  "registre": "administratif",
+  "theme": "immigration",
+  "definition": "Titre de séjour dont la validité est limitée à un territoire, comme ceux délivrés à Mayotte, qui ne permettent pas de s'installer dans l'Hexagone sans autorisation supplémentaire.",
+  "usage": "Employé par les Écologistes, qui en demandent la suppression. Ses défenseurs y voient un moyen d'éviter que Mayotte serve de porte d'entrée vers l'Hexagone.",
+  "concurrents": [],
+  "notions": [
+   "mayotte",
+   "titres-de-sejour"
+  ],
+  "motifs": [
+   "titre de séjour territorialisé"
+  ]
+ },
+ {
+  "id": "identite-francaise",
+  "terme": "Identité française",
+  "variantes": [
+   "valeurs françaises",
+   "modes de vie",
+   "nos valeurs"
+  ],
+  "registre": "élément de langage",
+  "theme": "immigration",
+  "definition": "Ensemble des traits culturels, historiques et civiques présentés comme constitutifs de la nation française.",
+  "usage": "Le RN veut réformer les lois relatives à la nationalité et à « l'identité françaises » et parle de protéger « nos modes de vie » ; Renaissance demande de « connaître nos valeurs ». Le contenu donné à cette identité diffère fortement d'un parti à l'autre.",
+  "concurrents": [
+   "valeurs de la République",
+   "pacte républicain"
+  ],
+  "notions": [
+   "assimilation"
+  ],
+  "motifs": [
+   "identité françaises",
+   "identité française",
+   "valeurs françaises",
+   "modes de vie",
+   "nos valeurs"
+  ]
+ },
+ {
+  "id": "frontieres-exterieures",
+  "terme": "Frontières extérieures",
+  "variantes": [
+   "frontières européennes",
+   "frontières de l'Europe"
+  ],
+  "registre": "juridique",
+  "theme": "immigration",
+  "definition": "Frontières de l'espace Schengen avec les pays tiers, y compris ports et aéroports internationaux, où s'exercent les contrôles communs d'entrée.",
+  "usage": "Renaissance parle de « renforcer nos frontières européennes ». L'expression fait de l'échelon européen le niveau principal du contrôle, quand le RN privilégie les frontières nationales.",
+  "concurrents": [
+   "frontières nationales"
+  ],
+  "notions": [
+   "espace-schengen",
+   "frontex"
+  ],
+  "motifs": [
+   "frontières européennes",
+   "frontières extérieures"
+  ]
+ }
+]

@@ -1,0 +1,4423 @@
+[
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [
+   "transition"
+  ],
+  "intitule": "Adopter une loi de programmation énergie-climat",
+  "citation": "Adopter une loi de programmation climatique (dite « loi énergie-climat ») comprenant la sobriété,"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Porter les renouvelables à 44 % de l'électricité en 2030",
+  "citation": "Modifier les objectifs et les moyens financiers de la troisième Planification Pluriannuelle de l’Énergie (PPE3) pour que la part des ENR atteigne 44 % de la consommation finale brute d’électricité en 2030."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Accélérer la conversion de la centrale à charbon de Saint-Avold",
+  "citation": "Accélérer la conversion de la dernière centrale à charbon à Saint-Avold."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [
+   "transition"
+  ],
+  "intitule": "Orienter la commande publique vers l'électrification des usages",
+  "citation": "Orienter systématiquement la commande publique et les investissements vers la sobriété et l’électrification des bâtiments, des transports et de l’industrie"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Découpler le prix de l'électricité de celui des énergies fossiles",
+  "citation": "Découpler le prix de l’électricité du prix des énergies fossiles."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Baisser la fiscalité et la TVA sur l'abonnement électrique",
+  "citation": "Diminuer la fiscalité sur l’électricité en unifiant le socle de l’accise pour le gaz et l’électricité en diminuant la TVA sur l’abonnement électrique."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Supprimer progressivement les niches fiscales favorables aux fossiles",
+  "citation": "Supprimer progressivement les niches fiscales qui favorisent les énergies fossiles."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Réduire la part fixe de l'abonnement et tarification progressive",
+  "citation": "Réduire la part fixe de l’abonnement et développer une tarification progressive."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Planifier un réseau électrique interconnecté et pilotable",
+  "citation": "Planifier l’adaptation et la rénovation du réseau électrique pour qu’il soit interconnecté et pilotable à partir de différentes sources d’énergies."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Développer le stockage d'énergie et la flexibilité",
+  "citation": "Développer des mécanismes de flexibilité et de stockage mixte en développant des batteries, la recharge des véhicules électriques pendant la nuit et les stations de transfert d’énergie par pompage (STEP)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [
+   "justice"
+  ],
+  "intitule": "Réformer les Certificats d'économie d'énergie",
+  "citation": "Réformer le dispositif des Certificats d’Economie d’Energie (CEE) pour le rendre plus juste, plus transparent et plus efficace."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Étendre les CEE à l'industrie et au BTP",
+  "citation": "Étendre le dispositif aux secteurs qui bénéficient des aides CEE sans y contribuer (industrie, Bâtiment et Travaux Publics….)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Transformer les CEE précarité en Certificat Carbone précarité",
+  "citation": "Transformer les CEE précarité en Certificat Carbone précarité pour récompenser les actes de décarbonation."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Structurer les filières françaises et européennes d'énergies renouvelables",
+  "citation": "Structurer et amplifier les filières françaises et européennes de production d’énergies renouvelables."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Prêt à taux zéro de la CDC pour projets renouvelables",
+  "citation": "Proposer un prêt à taux zéro de la Caisse des Dépôts et Consignations pour les nouveaux projets individuels et collectifs à hauteur de 60 % des devis."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Maîtriser le recours aux bioénergies",
+  "citation": "Maîtriser le recours aux bioénergies qui sont en concurrence avec d’autres usages en particulier l’alimentation humaine et animale, la santé des sols et la protection de la biodiversité."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Planifier la sortie du nucléaire",
+  "citation": "Planifier la sortie du nucléaire."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Mettre fin aux programmes EPR-2 et SMR",
+  "citation": "Mettre fin aux nouveaux programmes EPR-2 et SMR extrêmement dispendieux."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Arrêter progressivement le parc nucléaire sur vingt ans",
+  "citation": "Planifier l’arrêt progressif du parc constitué de centrales vieillissantes dont la mise hors service doit être étalée sur une vingtaine d’années."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Publier un rapport sur les coûts réels du nucléaire",
+  "citation": "Commander et publier un rapport sur l’ensemble des coûts financiers réels de la filière nucléaire (approvisionnements, investissements en France et à l’étranger, déchets, retraitements, démantèlements…)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Revenir sur la fusion IRSN-ASN",
+  "citation": "Revenir sur la fusion de l’Institut de radioprotection et de sûreté nucléaire (IRSN) et l’Autorité de sûreté nucléaire (ASN)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Moratoire sur le projet de stockage CIGEO",
+  "citation": "Adopter un moratoire sur le projet CIGEO en attendant de mettre sérieusement à l’étude le stockage en sub-surface."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Mettre fin à la sous-traitance dans les centrales nucléaires",
+  "citation": "Mettre fin à la sous-traitance pour garantir la sûreté des centrales."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Convention collective unique pour les travailleurs du nucléaire",
+  "citation": "Mettre en place une convention collective unique pour les travailleurs du nucléaire."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Étendre les réseaux de chaleur et de froid",
+  "citation": "Accélérer l’extension des réseaux de froid et de chaleur."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Doter le fonds chaleur de moyens suffisants",
+  "citation": "Doter le fonds chaleur de moyens suffisants afin de pouvoir financer le stock de projets en cours dans les territoires et favoriser leur extension au service du logement collectif et des équipements."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [
+   "solidarite"
+  ],
+  "intitule": "Soutenir 10 000 communautés énergétiques renouvelables",
+  "citation": "Soutenir le déploiement de 10 000 communautés énergétiques renouvelables portés par des forces citoyennes ou des collectivités locales pour garantir une énergie locale, solidaire et décentralisée."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Planifier la fermeture des infrastructures fossiles",
+  "citation": "Planifier et financer la fermeture des infrastructures fossiles."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Démanteler le réseau de distribution de gaz fossile",
+  "citation": "Adopter un plan de démantèlement du réseau de distribution de gaz fossile."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Reconvertir et dépolluer les stations-essence",
+  "citation": "Reconvertir et dépolluer les stations essences."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Refuser l'extension du marché carbone aux particuliers",
+  "citation": "Refuser l’extension du marché carbone aux particuliers."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Renégocier la directive ETS2",
+  "citation": "Renégocier la directive ETS2 (Emissions Trading Schemes) tant qu’elle inclut les logements et les transports des ménages."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [
+   "solidarite"
+  ],
+  "intitule": "Abonder un fonds social pour le climat",
+  "citation": "Abonder un « fonds social pour le climat » pour contribuer aux stratégies nationales de transition écologique via une fiscalité sur les entreprises fossiles et les ménages les plus émetteurs en carbone."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Généraliser et pérenniser l'encadrement des loyers",
+  "citation": "Assurer le droit au logement par la généralisation, l’amélioration et la pérennisation de l’encadrement des loyers."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Augmenter les amendes en cas de dépassement de loyer",
+  "citation": "Augmenter significativement les amendes en cas de dépassement de loyer."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Remplacer Visale par une garantie universelle des loyers",
+  "citation": "Remplacer la garantie Visale qui cible les jeunes et les salariés précaires par une garantie universelle des loyers."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Relancer la construction et rénovation de logements sociaux",
+  "citation": "Relancer la construction et la rénovation de logements locatifs sociaux (LLS)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Supprimer la Réduction Loyer Solidarité et baisser la TVA HLM",
+  "citation": "Donner les moyens aux organismes HLM pour mener de front constructions nouvelles et rénovation ambitieuse en supprimant notamment la Réduction Loyer Solidarité (RLS) et en diminuant la TVA sur la construction pour leur permettre d’investir."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Abonder le Fonds national d'aide à la pierre",
+  "citation": "Abonder le Fonds National d’Aide à la Pierre (FNAP) pour financer la production de logements très sociaux et l’adaptation du parc au changement climatique, au vieillissement et au handicap."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Renforcer les sanctions contre les communes hors loi SRU",
+  "citation": "Renforcer les sanctions financières et préfectorales en cas de manquement à l’obligation d’atteindre 20 ou 25 % de logements sociaux dans les communes conformément à la loi Solidarité et Renouvellement Urbain (SRU)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Objectif de 30 % de logements sociaux en zones tendues d'ici 2035",
+  "citation": "Ajouter une obligation d’atteindre un objectif de 30 % de logements d’ici 2035 dans les communes aux marchés immobiliers les plus tendus."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Améliorer le PSLA et le Bail réel solidaire",
+  "citation": "Améliorer le Prêt Social Location-Accession (PSLA) qui permet d’acheter après une phase de location avec une TVA réduite et le Bail Réel Solidaire (BRS) qui permet de dissocier le foncier du bâti pour faire baisser le coût d’acquisition."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Aligner les locations de courte durée sur le secteur hôtelier",
+  "citation": "Instaurer une unicité de statut alignant fiscalement et réglementairement toute location de courte durée sur les obligations du secteur hôtelier (hors résidence principale)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Limiter les licences de meublés touristiques en zones tendues",
+  "citation": "Dans les zones tendues, limiter le nombre de licences touristiques pour des appartements à la location."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Utiliser le droit de réquisition contre les logements vacants",
+  "citation": "Utiliser le droit de réquisition pour lutter contre les logements vacants."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Moduler la surtaxe sur les logements vacants",
+  "citation": "Moduler la surtaxe contre les logements vacants en fonction du nombre de logements détenus par le même propriétaire et la durée de la vacance (supérieure à deux ans)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Abroger la loi Kasbarian",
+  "citation": "Abroger la loi Kasbarian qui criminalise les locataires."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Pérenniser Petites villes de demain et Action cœur de ville",
+  "citation": "Pérenniser le programme Petite Ville de Demain et Action cœur de ville et le programme de renouvellement urbain"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Financer durablement CEREMA, Ademe et CAUE",
+  "citation": "Financer durablement les structures de conseil et d’ingénierie publique (CEREMA, Ademe, CAUE) pour accompagner collectivités et particuliers."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Viser 500 000 rénovations performantes par an",
+  "citation": "Sortir un million de personnes chaque année de la précarité énergétique en atteignant 500 000 rénovations performantes par an via MaPrimeRénov’."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Prendre en charge la rénovation des propriétaires modestes",
+  "citation": "Prendre en charge directement le coût des rénovations pour les propriétaires à faible revenu en simplifiant les démarches, en créant un guichet unique d’accompagnement."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Élargir l'éco-prêt à taux zéro aux classes moyennes",
+  "citation": "Augmenter le plafond et élargir les conditions d’octroi de l’Écoprêt à taux zéro pour les classes moyennes."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Développer le prêt avance rénovation",
+  "citation": "Développer le « prêt avance rénovation » permettant un prêt hypothécaire finançant le reste à charge et récupérable lors de la vente future du logement ou lors de la succession."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Ajouter une étiquette confort d'été au DPE",
+  "citation": "Préciser le diagnostic de performance énergétique (DPE) en développant l’étiquette « confort d’été »"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Interdire la location des logements classés F en 2028, E en 2034",
+  "citation": "Maintenir l'interdiction de la remise en location des logements classés F en 2028 et E en 2034"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "En finir avec les chauffages au fioul en 2032",
+  "citation": "En finir avec les chauffages au fioul en 2032."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Changer le chauffage de 300 000 ménages par an",
+  "citation": "Viser le changement de système de chauffage de 300 000 ménages par an."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Accompagner le remplacement des chaudières à gaz",
+  "citation": "Accompagner le changement des chaudières à gaz pour 25 % des ménages en 2032."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Reconvertir le bâtiment vers les matériaux biosourcés",
+  "citation": "Soutenir et accompagner la reconversion de la filière du bâtiment vers la construction et la rénovation visant la haute qualité environnementale via notamment des matériaux biosourcés ou géosourcés."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Aider les personnes âgées à occuper des logements plus petits",
+  "citation": "Soutenir les associations et les dispositifs permettant à des personnes âgées d’habiter dans des logements plus petits ou des résidences partagées en libérant des surfaces pour des familles."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Reconnaître l'habitat léger permanent comme logement",
+  "citation": "Reconnaître l’habitat léger permanent comme logement en définissant avec les personnes concernées des normes de décence prenant en compte ce mode de vie (yourte, tiny house, caravane permanente)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Ouvrir les aides au logement à l'habitat léger",
+  "citation": "Ouvrir en conséquence le droit aux aides personnelles au logement et aux assurances."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Obliger les PLU à prévoir des zones d'habitat léger",
+  "citation": "Contraindre les Plans Locaux d’Urbanisme (PLU et PLUI) à prévoir des zones compatibles avec l’habitat léger."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [
+   "solidarite"
+  ],
+  "intitule": "Créer un leasing social d'un million de véhicules électriques",
+  "citation": "Créer une offre de location sociale (leasing social) d’un million de véhicules sur le quinquennat en favorisant les véhicules européens."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Conditionner les aides aux constructeurs automobiles à trois critères",
+  "citation": "Conditionner les aides aux constructeurs à trois critères simples : leur score environnemental, la relocalisation de la production de 75 % des équipements et composants en Europe et un prix accessible."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Maintenir 100 % de véhicules neufs zéro émission en 2035",
+  "citation": "Maintenir l’objectif de 100 % de véhicules zéro émission en 2035 pour les ventes de véhicules neufs."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Créer un parc social de voitures bas carbone en zone rurale",
+  "citation": "Créer un parc social de voiture bas carbone en milieu rural et périurbain en s’appuyant sur les expériences d’autopartage et en développant le marché de l’occasion."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Augmenter plus rapidement le malus au poids",
+  "citation": "Augmenter plus rapidement le malus de poids en adoptant une trajectoire de baisse des poids des véhicules au niveau européen/français."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Développer les bornes de recharge, en priorité près des HLM",
+  "citation": "Développer les stations de recharge partout sur le territoire et en priorité dans les zones avec une forte concentration de HLM."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Soutenir la production de batteries en France et en Europe",
+  "citation": "Soutenir la production de batteries en France et en Europe en intégrant une obligation d’une part de composants produits localement."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Limiter à 110 km/h la vitesse des véhicules thermiques sur autoroute",
+  "citation": "Diminuer les émissions des transports automobiles en réduisant la vitesse maximale des véhicules thermiques à 110km/h sur autoroute."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Encourager le télétravail pour réduire les trajets domicile-travail",
+  "citation": "Verdir les transports domicile-travail en encourageant le télétravail pour diminuer l’empreinte des transports."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Créer un barème kilométrique unique tous modes",
+  "citation": "Revoir le dispositif des indemnités kilométriques en créant un barème unique de remboursement des frais kilométriques tous modes confondus,"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Électrifier les flottes de véhicules des sociétés",
+  "citation": "Renforcer les obligations de verdissement des plans de mobilité et l’électrification des flottes de véhicules des sociétés."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Atteindre 120 000 km de voies cyclables en 2032",
+  "citation": "Doubler le kilométrage de voies cyclables continues en 3 ans pour atteindre 120 000 km en 2032"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Généraliser les maisons du vélo dans les gares",
+  "citation": "Généraliser les maisons du vélo dans toutes les gares des communes de plus de 10 000 habitants."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Crédit d'impôt pour l'achat de vélos électriques",
+  "citation": "Créer un crédit d’impôt sur l’achat de vélos à assistance électrique."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Soutenir l'industrie française du vélo",
+  "citation": "Soutenir l’industrie française du vélo dans la production et la réparation."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Moratoire sur les grands projets comme l'A69 et le Lyon-Turin",
+  "citation": "Adopter un moratoire sur les grands projets inutiles et imposés comme le canal Seine-Nord Europe, l’autoroute A69, le TGV Lyon-Turin et les extensions d’aéroport."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Moratoire sur les nouvelles capacités routières",
+  "citation": "Adopter un moratoire sur la création de capacités routières nouvelles"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Porter le fret non routier à 35 % en 2050",
+  "citation": "Couvrir 35 % du transport de marchandise grâce au fret ferroviaire, fluvial et maritime en 2050."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Remettre en service le train des primeurs Perpignan-Rungis",
+  "citation": "Remettre en service le train Perpignan-Rungis dit « des primeurs» ."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Raccorder les plateformes logistiques au rail ou au fleuve",
+  "citation": "Rendre obligatoire le raccordement de toute nouvelle plateforme logistique à un embranchement ferroviaire ou fluvial."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire la vente de poids lourds thermiques neufs en 2040",
+  "citation": "Interdire la vente de poids lourds thermique neufs en 2040 en accompagnant les transporteurs et en orientant les choix logistiques des grandes entreprises."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Relever la taxe sur le gazole des camions au taux normal",
+  "citation": "Relever progressivement les taxes sur le gazole des camions au taux normal."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Créer un ticket climat mensuel à tarif unique",
+  "citation": "Atteindre 25 % de part modale dans les transports collectifs d’ici 2030 par un ticket climat mensuel avec un tarif unique"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [
+   "egalite"
+  ],
+  "intitule": "Rendre tous les transports accessibles aux personnes handicapées",
+  "citation": "Assurer l’accessibilité de tous les transports aux personnes en situation de handicap."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Encadrer la variation des prix du TGV en seconde classe",
+  "citation": "Encadrer la variation des prix du TGV en temps réel (yield management) sur les billets de seconde classe."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Créer un service public de cars express électriques",
+  "citation": "Sur les axes fréquentés et non desservis par le train, développer un service public de Cars Express électriques et de covoiturage en réservant des voies dédiées si nécessaire."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Électrifier les bateaux et les quais",
+  "citation": "Verdir le transport de passagers en mer en accélérant l’électrification des bateaux et des quais."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Suspendre l'extension des aéroports dont Roissy-CDG",
+  "citation": "Suspendre les projets d’accroissement de capacités aéroportuaires en particulier Roissy-CDG et instaurer un budget carbone par infrastructure aéroportuaire."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire les vols intra-européens remplaçables par moins de 4h30 de train",
+  "citation": "Interdire les vols intra-européens lorsqu’une alternative de moins de 4h30 en train existe."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire l'atterrissage des jets privés",
+  "citation": "Limiter l’utilisation de l’avion en interdisant l’atterrissage des jets privés pour les particuliers et les entreprises sur les aéroports français puis européens."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Augmenter la fiscalité sur les billets d'avion",
+  "citation": "Augmenter la fiscalité sur les billets d’avion (Taxe sur les Billets d’Avion ou TSBA et taux de TVA) pour compenser les exonérations fiscales sectorielles."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Sortie concertée de la Convention de Chicago",
+  "citation": "Organiser une sortie concertée de la Convention de Chicago exemptant de taxe énergétique les vols internationaux."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Renforcer les compétences de l'ACNUSA",
+  "citation": "Renforcer les compétences de l’Autorité de Contrôle des Nuisances Aéroportuaires (ACNUSA)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Renationaliser progressivement les autoroutes",
+  "citation": "Renationaliser progressivement les autoroutes afin d’investir dans les infrastructures de transport"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Loi ferroviaire : 90 % de la population près d'une gare desservie",
+  "citation": "Adopter une loi de programmation des infrastructures ferroviaires à 10 ans, sécurisant les financements nécessaires pour que 90 % de la population vive à moins de 30 minutes d’une gare fortement desservie"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Financer les RER métropolitains",
+  "citation": "Financer les projets de « RER métropolitain » (Service Express Régional Métropolitain ou SERM)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Créer des lignes de trains de nuit transversales",
+  "citation": "Créer des lignes de train de nuit en particulier les transversales Bordeaux-Lyon ou Bordeaux-Nice."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Suspendre la mise en concurrence ferroviaire",
+  "citation": "Suspendre les obligations de mise en concurrence des compagnies ferroviaires."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Redonner l'exploitation des lignes à la SNCF",
+  "citation": "Redonner l’exploitation des lignes en France à la SNCF et aux autorités de transport métropolitaines."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Développer des trains de nuit inter-européens",
+  "citation": "Développer les lignes inter-européennes via des appels d’offres européens – en particulier les trains de nuit."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Doter le plan d'adaptation de 7 milliards d'euros par an",
+  "citation": "Doter de 7 milliards d’euros par an d'ici 2032 le Plan national d’adaptation au changement climatique pour affronter les risques climatiques et protéger efficacement la population."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Rafraîchir hôpitaux, Ehpad, crèches et écoles",
+  "citation": "Rafraîchir les bâtiments publics (hôpitaux, EHPAD, établissements de santé, crèches, écoles et établissements éducatifs) par la rénovation et l’installation de climatiseurs dans les principaux lieux de vie."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Droit opposable à des protections solaires aux fenêtres",
+  "citation": "Créer un droit opposable à des protections solaires aux fenêtres et en leur absence bénéficier d’une réduction de loyer automatique."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire la construction neuve dans les zones les plus exposées",
+  "citation": "Interdire la construction neuve sur les territoires les plus exposés au risque de catastrophe naturelle."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Imposer une trajectoire à +4°C dans tous les plans d'investissement",
+  "citation": "Rendre obligatoire la prise en compte d’une trajectoire de réchauffement à +4°C en 2100 dans tous les plans environnementaux et projets d’investissement des collectivités et entreprises privées et publiques."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [
+   "solidarite",
+   "protection"
+  ],
+  "intitule": "Créer une Caisse nationale de sécurité climatique",
+  "citation": "Créer une Caisse Nationale de Sécurité Climatique qui socialise et unifie la couverture des risques climatiques pour les résidences principales des ménages."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Remplacer la garantie Cat-Nat par une cotisation climatique",
+  "citation": "Remplacer la garantie Cat-Nat (catastrophe naturelle) par une cotisation climatique obligatoire"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Contenir l'érosion des littoraux",
+  "citation": "Contenir l’érosion des littoraux dans l’Hexagone et dans les territoires dits d’Outre-mer."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Réviser la loi Littoral pour durcir les règles de construction",
+  "citation": "Réviser la loi Littoral pour faire rendre plus exigeantes les règles de construction le long de la bande littorale."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [
+   "transition"
+  ],
+  "intitule": "Accompagner la transformation des territoires de montagne",
+  "citation": "Accompagner la transformation des territoires montagnards dont l’économie est organisée autour de pratiques impactées par le dérèglement climatique."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Orienter les pompiers vers la prévention et la résilience",
+  "citation": "Faire évoluer les missions des pompiers vers la prévention, l’anticipation et la résilience territoriale."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Doubler les moyens matériels de la sécurité civile",
+  "citation": "Doubler les moyens matériels de la sécurité civile avec une flotte aérienne renforcée (Canadair, Dash, hélicoptères lourds), des unités spécialisées interrégionales et des stocks stratégiques de matériel."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "securite",
+  "concepts": [],
+  "intitule": "Créer un statut modernisé du pompier volontaire",
+  "citation": "Créer un véritable statut modernisé du pompier volontaire avec une rémunération revalorisée et une protection sociale renforcée."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Inciter au tourisme durable et lutter contre le surtourisme",
+  "citation": "Inciter à des formes de tourisme durable, décarboné, inter et intra-régional, pourvoyeur d’emplois et de revenus stables,"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Sortir des pesticides de synthèse et engrais azotés d'ici 2050",
+  "citation": "Planifier une sortie progressive des pesticides de synthèse et des engrais azotés à l’horizon 2050."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire immédiatement les pesticides CMR et volatils",
+  "citation": "Interdire immédiatement les pesticides cancérigènes, mutagènes, toxiques (CMR) et les pesticides volatiles comme le prosulfocarbe"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Empêcher la réintroduction des néonicotinoïdes",
+  "citation": "Empêcher toute tentative de réintroduction des néonicotinoïdes."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Rétablir le plan Ecophyto et l'indicateur NODU",
+  "citation": "Soutenir les changements de pratique dans l’agriculture en rétablissant le plan Ecophyto et son ancien indicateur (NODU)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Renforcer l'autorité et les moyens de l'ANSES",
+  "citation": "Renforcer l’autorité et les moyens de l’ANSES pour délivrer les autorisations de mise sur le marché ou de retrait en toute indépendance."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Adopter une stratégie de restauration de la biodiversité",
+  "citation": "Adopter et financer une stratégie de restauration de la biodiversité avec une attention particulière à la protection des pollinisateurs."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Ouvrir des centres de soins pour animaux sauvages",
+  "citation": "Protéger l’intégrité physique des animaux sauvages en faisant respecter les mesures de conservation des espèces protégées et en ouvrant des centres de soin dédiés."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Planter 60 000 km nets de haies d'ici 2030",
+  "citation": "Lancer un grand plan de plantation de haies (objectif d’un gain net de 60000 km d’ici 2030)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Revaloriser le bonus Haie de la PAC",
+  "citation": "Revaloriser le « bonus Haie » de la politique agricole commune."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Construire une quatrième Stratégie nationale bas carbone",
+  "citation": "Construire une quatrième Stratégie Nationale Bas Carbone (SNBC-4) ambitieuse ramenant la France sur la trajectoire des engagements pris lors des Accords de Paris."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Adopter une stratégie nationale basse empreinte matières",
+  "citation": "Adopter une Stratégie Nationale Basse Empreinte Matières (SNBEL) avec un objectif « empreinte matières » permettant de réguler l’extraction de ressources (sables, métaux…)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Donner des moyens à l'OFB, l'ONF, l'ADEME et Météo France",
+  "citation": "Donner les moyens aux services et aux agences de l’État en particulier l’Office français de la biodiversité (OFB), l’Office national des Forêts (ONF), l’ADEME, Météo France et le CEREMA."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Élargir le Haut Conseil pour le climat à la biodiversité",
+  "citation": "Élargir le mandat du Haut Conseil pour le Climat à la préservation de la biodiversité."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Étendre et financer les parcs nationaux et réserves naturelles",
+  "citation": "Défendre, étendre et financer les parcs nationaux et les réserves naturelles régionales qu’ils soient terrestres ou maritimes."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire éolien et solaire dans les parcs naturels",
+  "citation": "Interdire la construction de parcs éoliens ou solaires dans ces zones."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Mieux protéger les zones humides et étendre Ramsar",
+  "citation": "Étendre les zones protégées par la convention de Ramsar."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Protéger strictement 10 % des zones maritimes d'ici 2030",
+  "citation": "Protéger strictement 10 % des zones maritimes et des fonds marins d’ici 2030 c’est-à-dire sans aucune activité extractive ni destructrice."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Renforcer la protection de 30 % des zones maritimes",
+  "citation": "Renforcer la protection de 30 % de nos zones maritimes via des Aires Marines Protégées (AMP) en adoptant une définition plus stricte des activités autorisées"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire le chalutage dans les 3 milles nautiques",
+  "citation": "Compléter la protection de nos eaux par une interdiction totale du chalutage dans les 3 milles nautiques en encadrant très strictement les dérogations."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Développer des alternatives au chalutage de fond et pélagique",
+  "citation": "Développer des alternatives au chalutage de fond et pélagique."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire les navires-usines dans la bande des 12 milles",
+  "citation": "Interdire les navires-usines et les bateaux de plus de 25 mètres de la bande côtière des 12 milles nautiques."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Remplacer l'exonération carburant de la pêche industrielle par une subvention fixe",
+  "citation": "Remplacer les exonérations fiscales sur le carburant bénéficiant aux pêches industrielles en une subvention fixe et égale par bateau."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Rediriger subventions et quotas vers la pêche durable",
+  "citation": "Rediriger progressivement les subventions et les quotas destinées aux méthodes de pêche destructrices vers la pêche durable."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Mieux reconnaître la pénibilité du travail en mer",
+  "citation": "Mieux reconnaître la pénibilité du travail de la mer."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Augmenter les moyens de l'IFREMER et de l'IRD",
+  "citation": "Augmenter les moyens et améliorer les conditions de travail à l’IFREMER et à l’Institut de Recherche pour le Développement (IRD)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Soutenir un moratoire international sur l'exploitation minière des fonds marins",
+  "citation": "Soutenir l’adoption d’un moratoire international sur l’exploitation minière des fonds marins au sein de l’Autorité internationale des fonds marins."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Étudier une personnalité juridique pour les mers et océans",
+  "citation": "Explorer la possibilité de donner une personnalité juridique aux mers et aux océans."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Défendre les objectifs de la politique commune de la pêche",
+  "citation": "S’opposer au démantèlement des objectifs sociaux et environnementaux de la politique commune de la pêche (PCP)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Interdire les dispositifs de concentration de poissons et navires-usines",
+  "citation": "Interdire les pêches destructrices en particulier les dispositifs de concentration de poissons et les navires usines."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Interdire l'importation de produits de pêche non conformes",
+  "citation": "Interdire l’importation de produits de pêche ne respectant pas les normes de qualité européennes."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Interdire le chalutage de fond dans les aires marines protégées",
+  "citation": "Accélérer l’interdiction du chalutage de fond dans les Aires Maritimes Protégées."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Plan méditerranéen interdisant les forages pétroliers",
+  "citation": "Adopter un plan de protection des écosystèmes de la Méditerranée avec l’ensemble des pays riverains en particulier une interdiction des forages pétroliers et l’extraction en eaux profondes."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Renégocier les accords de pêche avec les pays tiers",
+  "citation": "Renégocier les accords de pêche avec les pays tiers pour une répartition juste des quotas de pêche"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Rétablir les postes supprimés à l'ONF",
+  "citation": "Protéger la forêt en priorisant le mandat de protection de la biodiversité donné à l’Office National des Forêts (ONF), en rétablissant les milliers de postes supprimés,"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Donner à l'ONF un statut d'établissement public administratif",
+  "citation": "Lui donner un statut d’Établissement Public Administratif pour subordonner la dimension économique aux objectifs écologiques."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Renforcer les moyens du Centre national de la propriété forestière",
+  "citation": "Renforcer les moyens du Centre national de la propriété forestière (CNPF) pour assurer la coordination des politiques forestières auprès des propriétaires privés."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Diversifier le couvert forestier pour une gestion durable",
+  "citation": "Promouvoir la gestion durable des forêts par la diversification du couvert forestier"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Créer une trame vieux bois dans les forêts anciennes",
+  "citation": "Créer et maintenir une trame « vieux bois » dans les forêts anciennes."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Supprimer les avantages fiscaux des monocultures de résineux",
+  "citation": "Supprimer les avantages fiscaux pour les forêts en dépérissement et les monocultures de résineux."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Prioriser le bois d'œuvre sur le bois énergie",
+  "citation": "Prioriser la consommation de bois vers le bois d’œuvre (bâtiment, charpente, menuiserie) puis le réemploi et enfin le bois énergie"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire les coupes rases dans les vieilles forêts",
+  "citation": "Interdire les coupes rases dans les vieilles forêts et les limiter à un hectare dans les plantations excepté pour raisons sanitaires et progression de la biodiversité."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Interdire l'exportation de chêne brut hors de l'UE",
+  "citation": "Interdire les exportations de chêne brut et les bois précieux en dehors de l’Union Européenne."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Développer la filière sylvicole française et ses labels",
+  "citation": "Développer la filière sylvicole française."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Protéger salaires et conditions de travail des forestiers",
+  "citation": "Protéger les salaires et les conditions de travail des acteurs forestiers et des opérateurs sylvicoles."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Créer un statut de commun forestier",
+  "citation": "Adopter un statut de « commun forestier » pour développer la gestion forestière par des communautés d’usagers soucieux de préserver la biodiversité et les services écosystémiques."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire la détention spéculative des forêts",
+  "citation": "Interdire la détention spéculative des forêts notamment via des acteurs financiers."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Limiter la surface forestière détenue par une seule personne",
+  "citation": "Limiter la surface pouvant être détenue par une seule personne."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Appliquer immédiatement le règlement européen contre la déforestation",
+  "citation": "Faire appliquer immédiatement les règlements visant à empêcher la déforestation et la dégradation des forêts (RDUE),"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Instaurer une journée sans chasse par semaine",
+  "citation": "Adopter une journée sans chasse un jour par semaine et pendant des jours fériés et les vacances scolaires pour mieux partager l’accès à la nature."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire la chasse à courre et les chasses cruelles",
+  "citation": "Interdire les pratiques de chasse cruelle (chasse à courre, chasse close, piège à colle et déterrage) ou d’animaux figurant sur la liste rouge de l’UICN."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Rééquilibrer les conseils de la chasse au profit des scientifiques",
+  "citation": "Rééquilibrer la composition du Conseil national et des conseils départementaux de la chasse et de la faune sauvage en augmentant le nombre de sièges attribués aux scientifiques et aux représentants des associations de protection de la nature."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire les fermes-usines et l'élevage en cage",
+  "citation": "Interdire les fermes usines et l’élevage en cage."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire les mutilations d'animaux d'élevage",
+  "citation": "Interdire les mutilations (bec de poules, queue de porcelets…)"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Créer un maillage d'abattoirs de proximité",
+  "citation": "Créer un maillage renforcé d’abattoirs de proximité pour assurer de moindres transports pour les animaux et la maîtrise de tout le cycle de production par les éleveurs."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Moratoire sur les fermes aquacoles de saumons en circuit fermé",
+  "citation": "Mettre en place un moratoire sur les fermes aquacoles de saumons en circuit fermé."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire la corrida, les combats de coqs et le gavage",
+  "citation": "Interdire les pratiques cruelles pour les animaux : corrida, combats de coq, gavage, étourdissement des porcs au CO2…"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire les écoles taurines",
+  "citation": "Interdire les écoles taurines."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire le commerce des fourrures et des trophées de chasse",
+  "citation": "Interdire la vente et l’exportation du commerce des fourrures animales et des trophées de chasse."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire le broyage des poussins mâles",
+  "citation": "Interdire le broyage des poussins mâles et des canards femelles dans les filières à viande."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Appliquer la fin des animaux sauvages dans les cirques en 2028",
+  "citation": "Appliquer la loi de 2021 sur la fin de la présence des animaux sauvages dans les cirques itinérants en 2028."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Limiter le transport d'animaux vivants à huit heures",
+  "citation": "Limiter le transport d’animaux à huit heures."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Interdire l'export d'animaux d'élevage vivants hors UE",
+  "citation": "Interdire les exportations d’animaux d’élevage vivants hors de l’Union européenne."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Étendre le permis de détention à tous les animaux de compagnie",
+  "citation": "Étendre le permis de détention des tortues à l’ensemble des animaux de compagnie."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Développer les campagnes de stérilisation des chats errants",
+  "citation": "Développer les campagnes de stérilisation pour les animaux détenus par les personnes physiques privées comme pour les chats errants."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Soutenir l'accès au vétérinaire pour les ménages modestes",
+  "citation": "Soutenir l’accès au vétérinaire pour les animaux détenus par des personnes à faible revenu."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Autoriser les animaux de compagnie en hébergement d'urgence et transports",
+  "citation": "Autoriser la présence des animaux dits « de compagnie » dans les hébergements d’urgence et les transports en commun."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Accueillir les animaux de compagnie en Ehpad",
+  "citation": "Créer les conditions effectives d’accueil dans les EHPAD afin de ne pas séparer les aîné·es de leurs compagnons"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Définir une personnalité juridique pour les animaux",
+  "citation": "Définir une personnalité juridique pour les animaux."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Créer un secrétariat d'État à la condition animale",
+  "citation": "Créer un secrétariat d’Etat à la condition animale."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Développer et financer les alternatives à l'expérimentation animale",
+  "citation": "Développer les alternatives à l’expérimentation animale."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Moratoire sur les méga-bassines",
+  "citation": "Décréter un moratoire sur tous les projets de mégabassines."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Conditionner les retenues d'eau à une baisse de consommation",
+  "citation": "Conditionner tout projet de retenue artificielle dont l’eau serait pompée dans les nappes phréatiques et dans les rivières et fleuves à une trajectoire de réduction de la consommation d’eau"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Soutenir la reconversion des cultures très irriguées",
+  "citation": "Soutenir la reconversion des cultures nécessitant le plus d’irrigation"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [
+   "egalite"
+  ],
+  "intitule": "Imposer les régies publiques et la gratuité des premiers m³ d'eau",
+  "citation": "Rendre applicable le droit à l’eau potable en imposant aux collectivités territoriales l’adoption de régies publiques de l’eau, la gratuité des premiers mètres cubes d’eau, et des formes de tarification progressive et différentielle selon les usages."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Durcir les autorisations des producteurs d'eau en bouteille",
+  "citation": "Réviser les procédures réglementaires d’autorisation des grandes entreprises de production d’eau en bouteille pour renforcer les exigences sanitaires et environnementales."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Limiter la privatisation des sources",
+  "citation": "Limiter la privatisation des sources à but industriel."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Interdire le plomb laminé et le chlorure de vinyle monomère",
+  "citation": "Interdire l’usage de plomb laminé et du chlorure de vinyle monomère (CVM) en France."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Étendre le constat de risque d'exposition au plomb",
+  "citation": "Réformer le constat de risque d’exposition au plomb (CREP) dans les logements pour l’étendre aux eaux, aux tuyaux et aux sols des jardins."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Atteindre un très bon état écologique de tous les cours d'eau",
+  "citation": "Atteindre un très bon état écologique et chimique de tous les cours d’eau (fleuves, rivières, ruisseaux) et des réserves souterraines"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Mettre aux normes les centrales de méthanisation",
+  "citation": "Mettre aux normes toutes les centrales de méthanisation qui rejettent des jus ou qui ont des bacs de rétention ouverts aux pluies."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Augmenter de 20 % la redevance pour pollution diffuse",
+  "citation": "Augmenter la Redevance pour Pollution Diffuse de 20 % pour diminuer l’usage des engrais azotés."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Rendre obligatoire la délimitation des aires de captage d'eau",
+  "citation": "Renforcer la protection des aires d’alimentation de captage d’eau (AAC) où l’eau de pluie s’infiltre. Rendre obligatoire leur délimitation par les collectivités locales."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Rénover les canalisations, notamment outre-mer",
+  "citation": "Développer les travaux de rénovation des canalisations notamment dans les territoires dits d’Outre-mer, pour la gestion des eaux usées et la limitation des fuites."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Financer la désimperméabilisation des sols",
+  "citation": "Préserver la ressource en eau potable par un soutien financier à la désimperméabilisation des sols (parkings, établissements scolaires…)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire les nouvelles retenues d'eau pour canons à neige",
+  "citation": "Adopter un programme de réduction graduelle de la consommation des canons à neige. Interdire toute nouvelle retenue d’eau pour cet usage."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [
+   "democratie"
+  ],
+  "intitule": "Réformer la gouvernance de l'eau pour supprimer la mainmise du préfet",
+  "citation": "Changer les modes de nomination des membres des comités de bassin et des commissions locales de l’eau pour supprimer la mainmise du préfet."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Renforcer la trajectoire Zéro artificialisation nette",
+  "citation": "Renforcer la trajectoire de la Zéro Artificialisation Nette (ZAN) pour préserver les sols,"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Sanctionner le non-respect du ZAN",
+  "citation": "Intégrer des sanctions en cas de non-respect du ZAN."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Adopter une grande loi foncière",
+  "citation": "Proposer une grande loi foncière incluant une redistribution ou une préservation de l’usage agricole des terres lors des transmissions foncières,"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Encadrer les prix de vente du foncier",
+  "citation": "Encadrer systématiquement les prix de vente du foncier en rapport à la moyenne des prix sur la zone."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [
+   "democratie"
+  ],
+  "intitule": "Créer une commission foncière départementale",
+  "citation": "Démocratiser la politique foncière. Créer une commission foncière départementale."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Mieux réguler les SAFER",
+  "citation": "Mieux réguler les SAFER en renforçant la représentation des diverses parties prenantes."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [
+   "egalite"
+  ],
+  "intitule": "Redistribuer les terres dans les territoires d'outre-mer",
+  "citation": "Redistribuer les terres dans les territoires d’outre mer pour lutter contre les inégalités d’accès aux moyens de production agricoles héritées de la colonisation"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Majorer jusqu'à 25 % la taxe sur les résidences secondaires",
+  "citation": "Créer une taxe additionnelle à la THRS, majorant celle-ci jusqu’à +25 %, au profit des Établissements publics fonciers locaux (EPFL)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Augmenter la taxe sur la revente de terrains constructibles",
+  "citation": "Augmenter la taxe sur la revente de terrains afin de limiter la spéculation (taxe sur les plus-value des terrains nus devenus constructibles)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Diagnostic des ressources naturelles avant implantation industrielle",
+  "citation": "Réaliser un diagnostic préalable des ressources naturelles avant implantation industrielle (respect du ZAN, émissions carbones…)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Plan de remise en état des friches industrielles",
+  "citation": "Engager un plan de remise en état des friches industrielles pour éviter la consommation de foncier agricole et naturel."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Interdire l'accaparement spéculatif des terres agricoles",
+  "citation": "Interdire l’accaparement spéculatif de terres par des fonds de pension, des investisseurs financiers ou sous la forme de holding."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [
+   "solidarite"
+  ],
+  "intitule": "Expérimenter des caisses locales de Sécurité sociale de l'alimentation",
+  "citation": "Développer et soutenir les expérimentations de caisses locales de Sécurité Sociale de l’Alimentation pour accéder à une alimentation de qualité, choisie et durable."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Envisager une allocation universelle d'alimentation",
+  "citation": "Envisager à terme la création d’une allocation universelle concrétisant le droit à l’alimentation."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Lutter contre les déserts alimentaires par l'achat public de commerces",
+  "citation": "Lutter contre les déserts alimentaires en soutenant l’acquisition publique du foncier commercial pour des petits commerces dans les ruralités et les quartiers populaires."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Développer épiceries sociales et restaurants solidaires",
+  "citation": "Développer les groupements d’achats, les épiceries sociales et les restaurants solidaires à tarification différenciée."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Généraliser le Nutriscore et créer un score environnemental",
+  "citation": "Généraliser le Nutriscore à l’ensemble des produits alimentaires. Créer un scoring environnemental pour le compléter."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Interdire la publicité pour la malbouffe ciblant les enfants",
+  "citation": "Interdire la publicité pour les boissons D et E et celle ciblant les enfants pour les produits très gras et très sucrés."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Afficher un logo pour chaque additif sur les emballages",
+  "citation": "Créer un logo pour chaque émulsifiant, colorant artificiel et conservateur à afficher sur le packaging."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Interdire les produits ultra-transformés dans les cantines",
+  "citation": "Interdire la consommation de produits ultra-transformés dans les cantines."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [
+   "egalite"
+  ],
+  "intitule": "Généraliser la tarification sociale dans la restauration publique",
+  "citation": "Généraliser la tarification sociale dans la restauration publique (crèches, écoles, restauration à domicile) pour que toutes les personnes payent en fonction de leur revenu."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Rétablir les cantines à 1 euro",
+  "citation": "Rétablir le dispositif des « cantines à 1 euro » pour toutes les communes qui souhaitent le mettre en œuvre."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Viser deux menus végétariens par semaine dans les cantines",
+  "citation": "Faire respecter l’objectif d’un menu végétarien par semaine et fixer l’objectif d’en atteindre deux."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Atteindre 100 % de bio en restauration collective d'ici 2040",
+  "citation": "Mobiliser la commande publique comme un levier de transformation en atteignant 100 % de bio dans la restauration collective d’ici 2040."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Imposer 50 % de produits bio et locaux en restauration commerciale",
+  "citation": "Rendre obligatoire 50 % de produits issus de l’agriculture biologique, locale et végétale dans la restauration commerciale en 2032."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Interdire les nitrites et l'hexane dans l'alimentation",
+  "citation": "Interdire l’utilisation des nitrites et la présence de solvants comme l’hexane dans l’alimentation."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Réduire le cadmium dans les engrais phosphatés",
+  "citation": "Diminuer les teneurs maximales en cadmium à 20mg/kg dans les engrais phosphatés en 2030."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Interdire le thon dépassant 0,3 mg/kg de mercure",
+  "citation": "Interdire la commercialisation des produits à base de thon dépassant 0,3mg/kg de mercure."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [
+   "democratie"
+  ],
+  "intitule": "Associer habitants et filières aux projets alimentaires territoriaux",
+  "citation": "Renforcer la démocratie alimentaire et la transition des territoires en associant l’ensemble des acteurs des filières agricoles et alimentaires et des habitant·es aux Projets Alimentaires Territoriaux (PAT)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Créer un Fonds d'innovation alimentaire",
+  "citation": "Créer un Fonds d’innovation alimentaire pour accélérer la transition via des légumeries, conserveries, plateformes logistiques, tiers lieux alimentaires et cuisines centrales"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Réduire de 50 % la consommation de protéines animales en 2050",
+  "citation": "Atteindre une réduction de 50% de la consommation de protéines animales en 2050."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Soutenir la production de légumineuses",
+  "citation": "Augmenter les objectifs de consommation de protéines végétales et soutenir la production de légumineuses (soja, lentille, pois chiches)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Étiqueter nom, technique et zone de pêche des produits de la mer",
+  "citation": "Augmenter l’exigence de transparence du secteur de la pêche en élargissant l’obligation d’inscrire le nom du poisson, sa technique et sa zone de pêche sur tous les produits contenant plus de 50 % de poisson."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire la certification des chaluts de fond",
+  "citation": "Réglementer strictement la création et l’usage des labels de pêche durable en interdisant notamment aux chaluts de fond d’être certifiés."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Instaurer des prix planchers agricoles",
+  "citation": "Assurer une transparence et un juste partage de la valeur ajoutée en adoptant des prix planchers, un affichage obligatoire de la répartition des marges sur les produits alimentaires"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Bloquer les prix alimentaires en cas d'inflation anormale",
+  "citation": "dans les cas d’inflation anormale, un blocage des prix avec une clause veillant à conserver un bon niveau de qualité sanitaire et nutritive."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Publier chaque année l'évolution des prix et des tarifs négociés",
+  "citation": "Publier chaque année la comparaison entre l’évolution des prix de vente aux consommateurs et celle des tarifs négociés avec les fournisseurs."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Atteindre 21 % d'agriculture bio en 2030 et 25 % en 2032",
+  "citation": "Atteindre l’objectif français de 21 % d’agriculture bio en 2030, 25 % en 2032 et 100 % à la fin du siècle"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [
+   "transition"
+  ],
+  "intitule": "Garantir un revenu sur trois ans en contrat de transition agroécologique",
+  "citation": "Garantir un revenu sur trois ans aux agriculteur·trices s’engageant dans un contrat de transition agroécologique."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Rétablir l'aide au maintien en agriculture biologique",
+  "citation": "Rétablir l’aide au maintien en agriculture biologique et le soutien aux filières amont (recherche, équipements…) et aval (transformation, distribution)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Créer une Dotation Nouvel Agriculteur sans critère d'âge",
+  "citation": "Adapter les accompagnements aux nouveaux profils en créant une Dotation Nouvel Agriculteur sans critère d’âge"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Financer les contrats de transmission de fermes",
+  "citation": "Favoriser et financer les tests d’activité agricole, généraliser l’accompagnement sur le temps long des agriculteurs et financer des contrats de transmission de fermes."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Encadrer strictement les centrales d'achat européennes",
+  "citation": "Encadrer strictement les relations avec les centrales d’achat européennes."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Imposer aux distributeurs une déclaration de leurs flux financiers",
+  "citation": "Imposer aux distributeurs une déclaration annuelle de leurs flux financiers."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Redéployer 15 % des aides agricoles vers les services environnementaux",
+  "citation": "Généraliser la rémunération des paiements pour services environnementaux"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [
+   "democratie"
+  ],
+  "intitule": "Scrutin proportionnel dans les Chambres d'agriculture",
+  "citation": "Adopter un mode de scrutin proportionnel dans les Chambres d’agriculture."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Rendre facultatives les contributions volontaires obligatoires",
+  "citation": "Donner la liberté d’adhérer à la filière de son choix en rendant facultative les « Contributions volontaires obligatoires » (CVO)"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Abroger la loi Duplomb et adopter une loi d'orientation agricole",
+  "citation": "Adopter une véritable Loi d’Orientation Agricole et abroger la loi Duplomb."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Réserver les aides aux assurances récoltes aux mutuelles",
+  "citation": "Restreindre les aides publiques aux assurances récoltes aux dispositifs mutualistes à but non lucratif."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Soutenir la recherche en agroécologie via l'INRAE et le Cirad",
+  "citation": "Soutenir la recherche en agroécologie via l’INRAE, le Cirad et les instituts techniques."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Planifier la réduction progressive des cheptels bovins",
+  "citation": "Mettre en place un plan de transition de l’élevage. Accompagner la réduction planifiée et progressive des cheptels bovins."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Aider la reconversion des éleveurs par le rachat de leurs dettes",
+  "citation": "Aider à la reconversion des éleveur·ses par le rachat de leurs dettes, des prêts à taux zéro et des accompagnements techniques."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire les mégaporcheries et mégafermes d'élevage",
+  "citation": "Interdire les mégaporcheries, les mégapoulaillers et les autres mégafermes d’élevage."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Accompagner la cohabitation entre pastoralisme et loup",
+  "citation": "Permettre la cohabitation entre le pastoralisme et les grands prédateurs comme le loup en accompagnant davantage les éleveur·ses humainement et financièrement"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Faciliter le remplacement pour les congés agricoles",
+  "citation": "Permettre l’accès aux congés en renforçant et facilitant l’accès au remplacement."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Envisager la fusion de la MSA avec le régime général",
+  "citation": "Donner les moyens à la Mutualité Sociale Agricole (MSA) d’améliorer la protection de la santé et de la sécurité au travail et envisager les conditions d’une fusion avec le régime général"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Orienter l'enseignement agricole public vers l'agroécologie",
+  "citation": "Valoriser l’enseignement agricole public. Faire évoluer les enseignements vers l’agroécologie et le respect de la condition animale."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Verser les aides PAC selon le nombre d'actifs",
+  "citation": "Fonder les subventions sur le nombre d’actifs plutôt qu’à l’hectare avec un plafonnement plus strict des aides aux grandes exploitations."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "S'opposer au marché des crédits carbone agricoles",
+  "citation": "S’opposer à une ouverture du marché des crédits carbones agricoles."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Intégrer l'effet cocktail dans les limites de résidus de pesticides",
+  "citation": "Intégrer une limite maximale de résidus (LMR) de pesticides en prenant en compte l’effet cocktail."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Interdire les nouveaux OGM",
+  "citation": "Interdire les « nouveaux OGM » (Nouvelles Techniques Génomiques ou NGT)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Refuser le brevetage du vivant",
+  "citation": "Refuser le brevetage du vivant et le systèmes de royalties inique qui l’accompagne."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Autoriser la vente de semences anciennes",
+  "citation": "Libérer les semences de l’emprise de multinationales de l’agroalimentaire en autorisant la vente de semences anciennes,"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Financer un programme européen de sélection variétale publique",
+  "citation": "Financer un programme européen de sélection variétale publique et de semences d’intérêt général."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Porter le salaire minimum à 2000 euros brut dès 2027",
+  "citation": "Passer le salaire minimum à 2000€ brut par mois dès 2027."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Baisser le taux réduit d'impôt sur les sociétés pour les TPE-PME",
+  "citation": "Soutenir les Très Petites et les Petites et Moyennes Entreprises (TPE et PME) ainsi que les associations par des dispositifs de soutien ciblés, stables et proportionnés comme un ajustement à la baisse du taux réduit de l’impôt sur les sociétés et de la taxe sur les salaires."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Indexer le point d'indice des fonctionnaires sur l'inflation",
+  "citation": "Améliorer les traitements des fonctionnaires par l’indexation du point d’indice des fonctionnaires sur l’inflation."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Revaloriser de 15 % le salaire des enseignants",
+  "citation": "Augmenter de 10 % la rémunération des catégories C et B et des catégories A qui ont perdu en pouvoir d’achat ces 20 dernières années – en particulier les enseignant·es dont le salaire doit être revalorisé de 15 % dans le quinquennat et les chercheur·ses de 10 %."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Conditionner les exonérations de cotisations aux hausses de salaires",
+  "citation": "Soutenir l’augmentation des salaires et la mobilité professionnelle en conditionnant les exonérations de cotisations sociales à l’augmentation des salarié·es gagnant moins de 2000€ net/mois,"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Augmenter la rémunération des stagiaires et apprentis",
+  "citation": "Augmenter les indemnités des stagiaires et le salaire des apprenti·es et des alternant·es."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [
+   "transition",
+   "protection"
+  ],
+  "intitule": "Créer une Sécurité sociale professionnelle pour la transition",
+  "citation": "Créer une Sécurité Sociale Professionnelle pour l’ensemble des travailleur·ses impactés par la transition écologique."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Garantir le salaire deux ans aux emplois perdus par la transition",
+  "citation": "Garantir un salaire équivalent en cas de perte d’emploi pendant deux ans dans les secteurs les plus exposés (chauffeurs poids lourds, garages, raffineries…)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Adopter un Plan compétences transition écologique",
+  "citation": "Adopter un Plan Compétences Transition Écologique (PCTE) qui couvre l’ensemble des emplois nécessaires à la transition"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Faciliter les formations certifiantes pour les non-bacheliers",
+  "citation": "Simplifier l’accès aux formations certifiantes et diplômantes via MonCompteFormation pour les personnes sans baccalauréat ou qualification équivalente."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Confier aux régions l'anticipation des besoins en compétences",
+  "citation": "Confier aux régions, avec les partenaires sociaux, la mission d’anticiper les besoins en compétences et de coordonner les parcours de reconversion."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [
+   "egalite"
+  ],
+  "intitule": "Limiter l'écart de rémunération de 1 à 20 en entreprise",
+  "citation": "Réduire les écarts de rémunération pour atteindre un écart de 1 à 20 dans les entreprises entre le salaire de dirigeants et le salaire médian dans l’entreprise en conditionnant toute aide publique à cet objectif."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Passer aux 32 heures sans perte de salaire dans les métiers pénibles",
+  "citation": "Passer aux 32 heures sans perte de salaire dans les métiers pénibles ou de nuit en y conditionnant les aides aux entreprises."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Créer un compte épargne temps universel",
+  "citation": "Créer un compte épargne temps universel pour permettre aux travailleurs·ses de conserver leurs jours de congés payés, RTT et heures supplémentaires réalisées en cas de rupture du contrat de travail."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Créer un congé climatique de 5 jours par an",
+  "citation": "Créer un congé climatique de 5 jours par an pour protéger les travailleur·ses face aux températures extrêmes ou à des situations de catastrophes climatiques (inondations, tempêtes…)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Protéger les femmes enceintes lors des canicules",
+  "citation": "Adapter le droit du travail pour protéger les femmes enceintes lors des épisodes de canicule ou de pollution de l’air."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Rétablir le principe de faveur",
+  "citation": "Rétablir le principe de faveur qui voit la loi primer sur la convention collective."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Relever les minima conventionnels au niveau du salaire minimum",
+  "citation": "Relever en conséquence les minima conventionnels au moins au niveau du salaire minimum."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Abroger la loi El Khomri et les ordonnances Macron",
+  "citation": "Abroger les dispositions régressives des lois travail (loi El Khomri, ordonnances Macron…)"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Viser zéro mort au travail en 2032",
+  "citation": "Adopter un plan « santé au travail ». Viser le zéro mort au travail en 2032."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Créer 200 postes d'inspecteurs du travail",
+  "citation": "Créer 200 postes d’inspecteur·ices du travail pour contrôler le droit du travail, le respect des règles de sécurité et les conditions d’accueil dans les entreprises."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Rendre la médecine du travail pleinement indépendante",
+  "citation": "Réformer la médecine du travail pour la rendre pleinement indépendante et en améliorer la rémunération."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Reconnaître le burn-out comme maladie professionnelle",
+  "citation": "Mettre à jour le tableau des maladies professionnelles en intégrant notamment le burn-out."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Garantie d'emploi pour les chômeurs de 55 ans",
+  "citation": "Instaurer une garantie d’emploi pour les chômeurs·ses à 55 ans en essaimant le dispositif Territoire Zéro Chômeurs de Longue Durée via la création d’entreprises à but d’emploi."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Soutenir les structures d'insertion par l'activité économique",
+  "citation": "Soutenir les structures d’insertion par l’activité économique (IAE)"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Soutenir des campagnes d'adhésion aux syndicats",
+  "citation": "Soutenir des campagnes d’adhésion aux syndicats salariés de son choix."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Abroger les réformes de l'assurance chômage",
+  "citation": "Abroger les réformes régressives adoptées lors des deux derniers quinquennats notamment celle sur le calcul de l’Allocation de Retour à l’Emploi."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Indexer les allocations chômage sur l'inflation",
+  "citation": "Indexer le montant des allocations sur l’inflation."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Créer une assurance-chômage européenne",
+  "citation": "Créer une assurance-chômage européenne pour unifier progressivement les systèmes d’assurance chômage vers le haut."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Porter à six mois de salaire les peines pour licenciement abusif",
+  "citation": "Porter les peines en cas de condamnation pour licenciement abusif à six mois de salaire."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Droit opposable à la déconnexion et transparence algorithmique",
+  "citation": "Reconnaître un droit opposable à la déconnexion, un droit à la transparence algorithmique dans les entreprises et un droit de non-surveillance dans le cadre du télétravail."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Présomption de salariat pour les travailleurs des plateformes",
+  "citation": "Transposer dans la loi française la directive européenne sur la présomption de salariat pour les travailleur·ses des plateformes."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Avis conforme du CSE avant tout déploiement d'IA",
+  "citation": "Créer la possibilité pour les CSE de formuler un avis conforme avant tout déploiement d’IA en entreprise"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Conférence nationale sur le travail et la pénibilité",
+  "citation": "Organiser une conférence nationale sur le travail et la pénibilité pour améliorer l’organisation et la qualité de vie au travail"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Inclure le management dans le dialogue social obligatoire",
+  "citation": "Mettre fin aux pratiques de management toxique."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Étendre les pouvoirs du CSE sur l'organisation du travail",
+  "citation": "Étendre les pouvoirs du CSE en matière d’organisation du travail"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Renforcer le bonus-malus sur les contrats courts",
+  "citation": "Encourager l’emploi durable en limitant le recours excessif aux contrats courts par un renforcement du bonus-malus sur les cotisations chômage en cas de Contrat à Durée Déterminée (CDD) et un relèvement de la prime de précarité."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Compenser les coupures horaires de plus de deux heures",
+  "citation": "Imposer par la loi une compensation financière des coupures horaires contraintes de plus de deux heures."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [
+   "liberte"
+  ],
+  "intitule": "Étendre la clause de conscience à tous les salariés",
+  "citation": "Étendre la clause de conscience à tous les salarié·es."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Prêt à taux zéro pour la décarbonation des PME et ETI",
+  "citation": "Créer un prêt long terme à taux zéro à destination des PME et ETI pour financer leurs investissements dans la diminution de leurs émissions de gaz à effet de serre sans alourdir leur charge d’intérêt."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Guichet unique de transition pour PME et ETI",
+  "citation": "Créer un guichet unique d’accompagnement des PME et ETI à la transition"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [
+   "democratie"
+  ],
+  "intitule": "Attribuer des sièges aux salariés dans les conseils d'administration",
+  "citation": "Instaurer un droit effectif à la participation des travailleur·ses en attribuant des postes de droit dans les Conseils d’administration ou de surveillance des entreprises"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Plus de droits de vote pour les actionnaires de long terme",
+  "citation": "Attribuer systématiquement plus de droit de vote pour les actionnaires de long terme."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Séparer directoire et conseil de surveillance au-delà de 500 salariés",
+  "citation": "Dans les entreprises de plus de 500 salarié.es, rendre obligatoire la distinction entre un directoire (direction opérationnelle) et un conseil de surveillance"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Associer le CSE aux objectifs RSE avec avis conforme",
+  "citation": "Amplifier le pouvoir, les moyens et les responsabilités des Comité social et économique (CSE) en les associant obligatoirement à la définition des objectifs de Responsabilité Sociale des Entreprises (RSE)"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Créer des commissions environnement en entreprise",
+  "citation": "Créer des commissions « environnement » au sein des entreprises de plus de 250 salarié·es"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Doubler le temps de formation des élus du CSE",
+  "citation": "Doubler le temps de formation accordé aux membres des CSE."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Rendre obligatoires les représentants de proximité",
+  "citation": "Développer le dialogue territorial en rendant obligatoire les représentants de proximité."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [
+   "solidarite"
+  ],
+  "intitule": "Faciliter la reprise d'entreprises en coopérative",
+  "citation": "Faciliter la reprise d’entreprises sous forme coopérative (Scop ou Scic) en cas de transmission ou de défaillance."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Favoriser l'ESS dans la commande publique",
+  "citation": "Réviser les critères d’attribution de la commande publique afin d’intégrer des existences sociales, environnementales et démocratiques"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Responsabiliser le donneur d'ordre sur toute la chaîne de sous-traitance",
+  "citation": "Garantir la responsabilité du donneur d’ordre tout au long de la chaîne de valeur – y compris hors de l’Union Européenne."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Imposer des unités économiques et sociales aux réseaux de franchises",
+  "citation": "Rendre obligatoire des Unités Economique et Sociale (UES) unifiées pour les réseaux de franchises et les coopératives de commerçants"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Conditionner les aides publiques aux entreprises à des critères sociaux et environnementaux",
+  "citation": "Garantir l’engagement réel des entreprises en conditionnant les aides publiques à des critères environnementaux et sociaux ambitieux"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Exiger le remboursement des aides en cas de non-respect",
+  "citation": "Exiger le remboursement des aides en cas de nonrespect des contreparties."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Maintenir le devoir de vigilance et s'opposer aux Omnibus",
+  "citation": "S’opposer à la dérégulation en cours au niveau européen, contenue dans les dispositifs dits « Omnibus »."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Renforcer le cadre européen de durabilité CSRD",
+  "citation": "Renforcer le cadre européen de durabilité (CSRD, SFDR, taxonomie…)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Suspendre les cotisations patronales des nouvelles entreprises",
+  "citation": "Suspendre le paiement des cotisations patronales à l’URSSAF sur les premiers salariés des entreprises nouvellement créées tant qu’elles ne réalisent pas un seuil minimal de chiffre d’affaires,"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Encadrer les prix d'un panier de biens essentiels",
+  "citation": "Encadrer les prix d’un panier de biens essentiels empêchant une logique spéculative en matière de logement, d’énergie, d’eau potable, de transport, d’alimentation de qualité et de biens culturels."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Généraliser le prix unique au cinéma",
+  "citation": "Préserver la régulation du prix du livre et généraliser le prix unique au cinéma."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Renforcer le Bouclier qualité prix outre-mer",
+  "citation": "Renforcer la mise en œuvre et l’efficacité du Bouclier Qualité Prix (BQP) dans les territoires dits d’Outre-mer."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Piloter la politique économique avec des indicateurs de prospérité écologique",
+  "citation": "Définir la politique économique en fonction d’indicateurs de prospérité écologique :"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Rattacher le Haut-commissariat au Plan au Parlement",
+  "citation": "en rattachant le Haut commissariat au Plan directement au Parlement"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Mettre fin au dumping de l'e-commerce",
+  "citation": "Mettre fin au dumping fiscal et environnemental de l’e-commerce"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Rétablir 1000 postes à la DGCCRF",
+  "citation": "Rétablir les 1000 postes d’agents supprimés dans les 15 dernières années à la Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) et les postes dans les douanes."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Adopter un Buy green and european act",
+  "citation": "Adopter un «buy green and european act » pour privilégier entre 50 et 80 % de produits européens dans les marchés publics en fonction des filières."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Réformer les aides d'État pour favoriser les projets européens",
+  "citation": "Réformer le régime des aides d’État pour favoriser les projets à l’échelle européenne sur les projets nationaux et internationaux."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Concrétiser la souveraineté européenne sur les matières premières critiques",
+  "citation": "Concrétiser la stratégie européenne de souveraineté sur les matières premières critiques"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Taux minimum de matière recyclée dans les batteries",
+  "citation": "Rendre obligatoire un taux minimum de matière recyclée dans les batteries."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Supprimer les contraintes du Pacte de stabilité",
+  "citation": "Supprimer les contraintes austéritaires du Pacte de stabilité et de croissance pour concilier les soutenabilités économiques et climatiques."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [
+   "transition"
+  ],
+  "intitule": "Exclure les investissements verts du calcul du déficit",
+  "citation": "Exclure immédiatement les investissements liés à la transition écologique (énergies renouvelables, rénovation énergétique, transports collectifs et mobilités actives…) du calcul du déficit autorisé."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Créer un fonds européen pour le climat",
+  "citation": "Créer un fonds européen pour le climat dont les versements seraient conditionnés au respect de la trajectoire des Accords de Paris."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Retrait coordonné des traités protégeant les investissements fossiles",
+  "citation": "Organiser un retrait coordonné des traités d’investissement qui protègent les investissements fossiles."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Ne pas ratifier le CETA, le Mercosur et d'autres accords",
+  "citation": "Ne pas ratifier les accords européens en attente qui affectent le climat et la biodiversité notamment les traités avec le Canada (CETA) le Vietnam, Singapour, le Chili, le Mexique, le Mercosur, l’Indonésie et le Japon."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Introduire des clauses miroirs dans les futurs traités",
+  "citation": "Dans les futurs traités, introduire des clauses miroirs sur le climat et les droits humains,"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Créer une Cour multilatérale des investissements",
+  "citation": "Introduire des mécanismes publics de règlement des différends via une Cour multilatérale des investissement et refuser les tribunaux d’arbitrage"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [
+   "justice"
+  ],
+  "intitule": "Instaurer une taxe Zucman de 2 % au-delà de 100 millions",
+  "citation": "Mettre en place une taxe Zucman de 2 % au-delà de 100 millions d’euros de patrimoine."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Étendre l'exit tax",
+  "citation": "Étendre les conditions de l’exit tax afin de maintenir une contribution fiscale des émigrés fiscaux établissant leur domicile fiscal hors de France."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Rétablir l'ISF avec une composante climatique",
+  "citation": "Rétablir l’Impôt sur la Fortune (ISF) en lui ajoutant une composante climatique pour orienter le patrimoine vers des actifs verts."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Ajouter deux tranches aux droits de succession pour les plus riches",
+  "citation": "Mettre en place un barème de taxation progressif unique en ajoutant deux tranches pour les ménages faisant partie du 1 % le plus riche au-delà de 4 millions d’euros et le 0,1 % le plus riche au-delà de 13 millions d’euros."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Supprimer l'abattement assurance-vie et la niche Copé",
+  "citation": "Supprimer l’abattement spécifique aux assurances-vies et la niche Copé sur la plus-value de cession des filiales."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Plafonner le pacte Dutreil au-delà de 50 millions",
+  "citation": "Plafonner l’abattement Dutreil à 50 % au-delà de 50 millions d’euros"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Impôt minimal sur les bénéfices des sociétés au-delà d'un milliard",
+  "citation": "Adopter un impôt minimal sur les bénéfices des sociétés dont le chiffre d’affaires dépasse un milliard d’euros à proportion de l’activité réalisée en France."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Moduler l'impôt sur les sociétés selon l'affectation des bénéfices",
+  "citation": "Moduler le taux d’imposition selon l’affectation des bénéfices afin d’encourager le réinvestissement productif de long terme et de dissuader le rachat d’actions."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Relever la taxe sur les services numériques de 3 à 5 %",
+  "citation": "Relever la taxe sur les services numériques (TSN) de 3 à 5 %"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Adopter un pacte fiscal vert 2027-2032",
+  "citation": "Adopter un « pacte fiscal vert » 2027-2032 : une loi de programmation des finances publiques permettant de concilier la transition écologique, nos engagements européens – y compris sur les dépenses militaires – et l’amélioration des services publics."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Créer des bons spéciaux d'épargne pour l'emprunt public",
+  "citation": "Créer des bons spéciaux permettant de mobiliser l’épargne française pour des emprunts publics avec des ressources fléchées."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Créer un fonds d'investissement France Verte 2040",
+  "citation": "Créer un nouveau fonds d’investissement « France Verte 2040 »."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Taxer les superprofits pétrogaziers et du transport maritime",
+  "citation": "Adopter une taxe exceptionnelle sur les superprofits de l’industrie pétrogazière et du commerce maritime."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Transformer les taux réduits fossiles en aides forfaitaires",
+  "citation": "Diminuer les niches fiscales fossiles en transformant les taux réduits sur les produits fossiles en aides forfaitaires (biocarburants, kérosène sur les vols intérieurs…)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Abaisser le seuil du malus poids à 1300 kg pour les thermiques",
+  "citation": "Déclencher le malus poids à 1300kg pour les véhicules thermiques et"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Subordonner les aides aux grandes entreprises à des plans de transition",
+  "citation": "Subordonner les aides aux entreprises de plus de 250 salarié·es au respect de plans de transition."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Créer une taxe sur les bouteilles en plastique",
+  "citation": "Créer une taxe sur les bouteilles en plastique."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Adopter une TVA verte selon l'impact des produits",
+  "citation": "Adopter une TVA verte différenciée selon l’impact environnemental et sanitaire des produits."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Augmenter la TVA sur le luxe et les produits nocifs",
+  "citation": "Augmenter les taux de TVA des produits de luxe ou nocifs pour la santé et l’environnement : produits ultra-transformés, restauration à emporter, hôtellerie de luxe, vols domestiques, rénovation non énergétique…"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Diminuer et conditionner les subventions à l'enseignement privé",
+  "citation": "Diminuer et conditionner les subventions à l’enseignement privé."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Recentrer le Crédit d'impôt recherche sur les PME et ETI",
+  "citation": "Recentrer et verdir le Crédit Impôt Recherche sur les PME et ETI."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Réformer le régime fiscal des voitures de fonction",
+  "citation": "Réformer les barèmes kilométriques et le régime fiscal des voitures de fonction."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Supprimer l'abattement fiscal de 10 % des retraités",
+  "citation": "Supprimer l’abattement fiscal de 10 % pour les retraités."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "immigration",
+  "concepts": [],
+  "intitule": "Revoir les dépenses d'immigration jugées inutiles (OQTF, rétention)",
+  "citation": "Revoir les modalités coûteuses et inutiles de la politique d’immigration (OQTF non exécutées, centres de rétention)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [
+   "justice"
+  ],
+  "intitule": "Renforcer la lutte contre la fraude et l'évasion fiscales",
+  "citation": "Renforcer les moyens de lutte contre la fraude, l’évasion fiscale et les paradis fiscaux qui mine le consentement à l’impôt."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Défendre un impôt minimum mondial de 25 % à l'ONU",
+  "citation": "Soutenir le processus de négociation engagé aux Nations unies pour une Convention-cadre sur la coopération fiscale internationale en défendant un taux minimum d’imposition de 25 % sans dérogations pour les multinationales."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Supprimer les scores de risque ciblant les personnes pauvres",
+  "citation": "Supprimer les scores de risque qui ciblent les personnes pauvres."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Réexaminer les 125 conventions fiscales bilatérales",
+  "citation": "Engager un réexamen systématique des 125 conventions fiscales bilatérales"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Rendre la CSG progressive et l'augmenter d'un point",
+  "citation": "Supprimer le déficit de l’assurance-maladie sans pénaliser ni les soignant·es ni les malades en rendant progressive la Contribution Sociale Généralisée (CSG) et en l’augmentant d’un point"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Augmenter les taxes sur l'alcool, le tabac et le sucre",
+  "citation": "Développer la prévention en santé notamment en augmentant les taxes sur l’alcool, le tabac, le sucre et les produits transformés."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Sous-indexer les plus hautes retraites",
+  "citation": "Sous-indexer les plus hautes retraites."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Renégocier le prix des médicaments anticancéreux",
+  "citation": "Renégocier le prix des médicaments les plus coûteux en particulier les anticancéreux"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Affecter une part des droits de succession à l'autonomie",
+  "citation": "Affecter une partie des droits de succession à la branche autonomie pour la financer."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Supprimer les exonérations de cotisations au-delà de 1,6 smic",
+  "citation": "Supprimer les exonérations de cotisations inutiles car supérieures à 1,6 smic ou concernant les heures supplémentaires."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Porter la taxe sur les transactions financières à 0,7 %",
+  "citation": "Augmenter la taxe sur les transactions financières à 0,7 %."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Augmenter de 3 points la CSG sur les revenus du capital",
+  "citation": "Augmenter le taux de CSG sur les revenus du capital de 3 points avec le maintien des exonérations pour les livrets A et Développement Durable."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Augmenter la flat tax de 3 points",
+  "citation": "Augmenter la flat tax (Prélèvement Forfaitaire Unique) de 3 points."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Créer un registre européen des actifs financiers",
+  "citation": "Mettre en place un registre européen des actifs financiers."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Diminuer l'impôt sur le revenu des tranches basses",
+  "citation": "Diminuer l’impôt sur le revenu pour les plus tranches les plus basses."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Créer une tranche d'impôt à 60 % au-delà de 250 000 euros",
+  "citation": "Créer une nouvelle tranche à 60 % au-delà de 250 000€ annuels."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Plafonner le total des niches fiscales par foyer",
+  "citation": "Plafonner le montant total des niches fiscales par foyer."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Défiscaliser les pensions alimentaires perçues",
+  "citation": "Défiscaliser les pensions alimentaires pour les personnes qui les reçoivent."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Calculer la taxe foncière sur le patrimoine net d'emprunt",
+  "citation": "Calculer la taxe foncière sur le patrimoine net d’emprunt"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Limiter les avantages fiscaux à deux logements",
+  "citation": "Limiter l’ensemble des avantages fiscaux à deux logements par déclaration fiscale."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Réduire la part de dette indexée sur l'inflation",
+  "citation": "Désindexer les obligations françaises en réduisant la part des titres de dette indexés sur l’inflation"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "pouvoir-achat",
+  "concepts": [],
+  "intitule": "Renforcer la part des créanciers nationaux et européens",
+  "citation": "Renforcer la part des créanciers nationaux et européens afin de limiter l’impact de logiques spéculatives de forces réactionnaires."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Garantir par loi organique la compensation intégrale des transferts aux collectivités",
+  "citation": "Sécuriser les ressources fiscales des collectivités par une loi organique garantissant la compensation financière intégrale des transferts de compétence,"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Supprimer le prélèvement DILICO sur les collectivités",
+  "citation": "Supprimer le prélèvement sur ressources des collectivités territoriales dit « DILICO »."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Nationaliser le versement du RSA",
+  "citation": "Nationaliser le versement du RSA mais maintenir l’accompagnement social au niveau des Départements."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [],
+  "intitule": "Créer un fonds de péréquation pour la protection de l'enfance",
+  "citation": "Créer un fonds de péréquation pour le financement de la protection de l’enfance."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Rétablir la CVAE pour financer les collectivités",
+  "citation": "Rétablir la CVAE (Cotisation sur la Valeur Ajoutée des Entreprises) pour un financement autonome des collectivités locales."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Financer les régions par une fraction de TVA et d'IS",
+  "citation": "Transformer le financement des régions sur la base d’une fraction de la TVA et de l’impôt sur les sociétés en rapport avec les compétences des régions."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Réduire de 50 % les actifs fossiles des portefeuilles d'ici 2030",
+  "citation": "Rendre obligatoire la publication de plans de transition alignés avec les Accords de Paris et visant la réduction de 50 % la part des actifs fossiles dans les portefeuilles d’investissement d’ici 2030 et de 90 % d’ici 2040"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Engager la responsabilité des banques finançant des projets fossiles",
+  "citation": "Appliquer le devoir de vigilance et le droit commun de la responsabilité pour engager la responsabilité des banques commerciales et des agences de crédit export"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Séparer banques de dépôt et activités spéculatives",
+  "citation": "Séparer les banques de dépôt et les activités spéculatives des banques cotées pour prévenir les crises systémiques et in fine le renflouement par l’Etat."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Interdire les Ocabsa",
+  "citation": "Réglementer l’usure et interdire les Ocabsa (obligations convertibles en actions)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Engager un cycle Bâle V intégrant le risque climatique",
+  "citation": "Engager un nouveau cycle de négociation « Bâle V » intégrant les risques systémiques liés au réchauffement climatique"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Adopter un Community Reinvestment Act français",
+  "citation": "Adopter un Community Reinvestment act français puis européen pour imposer aux banques physiques et numériques de réinvestir une partie de l’épargne collectée sur une région donnée dans l’économie réelle de cette région."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Orienter la Caisse des dépôts et la BPI vers la transition",
+  "citation": "Orienter le pôle public bancaire (Caisse des dépôts, BPI…) vers la transition sociale et écologique"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Créer un fonds pour la reprise d'entreprises par les salariés",
+  "citation": "Créer un fonds pour soutenir les salarié·es cherchant à reprendre leurs entreprises."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Soutenir l'euro numérique",
+  "citation": "Soutenir la mise en œuvre de l’euro numérique pour préserver la souveraineté européenne et protéger la vie privée."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [
+   "liberte"
+  ],
+  "intitule": "Conserver l'argent liquide",
+  "citation": "Conserver l’émission et l’utilisation de l’argent liquide qui est une solution technique robuste et préservant la vie privée."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Développer des systèmes de paiement européens face à Visa et Mastercard",
+  "citation": "Encourager le développement d’initiatives bancaires souveraines à l’échelle européenne sur le modèle du réseau CB en France ou Wero/ EuroPA en Europe pour ne pas dépendre des systèmes américains Visa et Mastercard."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [
+   "democratie"
+  ],
+  "intitule": "Rendre la BCE plus verte et plus démocratique",
+  "citation": "Rendre la Banque Centrale Européenne plus verte et plus démocratique."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Permettre aux parlements nationaux d'auditionner la BCE",
+  "citation": "Accorder le droit aux parlementaires des Etats-membres d’auditionner des membres du bureau de la BCE."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Exclure les projets fossiles des garanties de la BCE",
+  "citation": "Pénaliser les « actifs bruns » en excluant notamment les projets fossiles des garanties d’emprunt."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Unifier le marché européen des capitaux",
+  "citation": "Unifier le marchés des capitaux (UMC) pour renforcer l’intégration des économies européennes."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Soumettre fintech et cryptoactifs aux règles prudentielles bancaires",
+  "citation": "Soumettre les plateformes financières numériques privées et les émetteurs de cryptoactifs aux mêmes obligations prudentielles que les banques :"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Confier à l'ESMA les licences de cryptomonnaies",
+  "citation": "Renforcer la régulation des crypto-monnaies pour lutter contre le blanchiment d’argent (LCB-FT) en attribuant à l’Autorité européenne des marchés financiers (ESMA) l’exclusivité de la délivrance des licences pour les cryptomonnaies."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Limiter les avoirs en stablecoins à 20 000 euros",
+  "citation": "Obliger les émetteurs de stablecoins ou d’autres monnaies à détenir la majorité des actifs sous-jacents en dépôt auprès de la BCE et/ou en actifs liquides de haute qualité et limiter les avoirs à 20 000€."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Rendre les objets du quotidien démontables et réparables",
+  "citation": "Rendre les objets du quotidien (machine à laver, téléphone, voitures…) démontables, réparables."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Durée minimale de disponibilité des pièces détachées",
+  "citation": "Définir un stock et une durée minimale de disponibilité des pièces détachées."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Augmenter le bonus réparation",
+  "citation": "Augmenter le montant du bonus réparation. Rendre gratuite la labellisation pour les réparateurs."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Imposer une note minimale de durabilité pour la mise sur le marché",
+  "citation": "Etendre les indices de durabilité à d’autres objets que les téléviseurs et les lave-linges et en faire une condition de mise sur le marché en imposant une note minimale."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Pièces détachées de batteries de véhicules électriques pendant 20 ans",
+  "citation": "Rendre obligatoire la réparabilité des batteries de véhicules électriques et la disponibilité de pièces détachées pendant 20 ans."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Rendre obligatoire l'écoconception des services numériques",
+  "citation": "Rendre obligatoire l’écoconception de service numérique pour réduire l’impact environnemental d’un service tout au long de son cycle de vie."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Interdire l'obsolescence logicielle programmée",
+  "citation": "Interdire l’obsolescence logicielle programmée."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Mises à jour garanties 10 ans pour les téléphones",
+  "citation": "Imposer une durée minimale de mise à disposition du système d’exploitation, des pilotes de périphérique, des mises à jour après la fin de la commercialisation"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Pouvoir refuser les mises à jour évolutives",
+  "citation": "Rendre obligatoire la dissociation entre les mises à jour logicielles collectives (préservation de la sécurité) des mises à jour évolutives afin de pouvoir les refuser si elles diminuent les performances de l’appareil."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Interdire la sérialisation des pièces et garantie de 10 ans",
+  "citation": "Interdire effectivement la sérialisation (partpairing) consistant à assurer le monopole de la réparation aux producteurs sous prétexte de propriété intellectuelle et étendre la durée de la garantie à 10 ans."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Généraliser le passeport numérique des produits",
+  "citation": "Généraliser le Passeport Numérique des Produits documentant leur durabilité et leur réparabilité."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Pré-tri réemploi obligatoire dans les déchetteries",
+  "citation": "Intégrer systématiquement une phase de pré-tri « réemploi » dans les déchetteries"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Transférer la régulation de la publicité de l'ARPP à l'ARCOM",
+  "citation": "Transférer les missions de l’Autorité de Régulation Professionnelle de la Publicité (ARPP) composés de représentants d’entreprises à l’Autorité de Régulation de la Communication Audiovisuelle et Numérique (ARCOM)"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire la publicité pour les produits fossiles et malsains",
+  "citation": "Interdire la publicité toxique pour les produits fossiles (aviation, voitures thermiques…) ou malsains (aliments ultra-transformés, alcool…)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire les écrans publicitaires numériques",
+  "citation": "Interdire les écrans publicitaires numériques."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Encadrer la publicité des influenceurs",
+  "citation": "Appliquer l’encadrement de la publicité aux influenceurs, aux placements de produits et aux contenus sponsorisés sur les réseaux sociaux."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Interdire les prix barrés et pratiques de surconsommation",
+  "citation": "Interdire les pratiques incitant à la surconsommation (prix barrés, gaming publicitaire…)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Généraliser le tri à la source des déchets alimentaires",
+  "citation": "Généraliser et améliorer la qualité du tri à la source pour les déchets alimentaires pour diminuer la part à traiter."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Rendre obligatoire la consigne pour réemploi du verre et de l'aluminium",
+  "citation": "Rendre obligatoire les consignes pour réemploi pour les contenants en aluminium et les bouteilles en verre."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Fermer progressivement incinérateurs et décharges",
+  "citation": "Limiter l’incinération et l’enfouissement des déchets par une fermeture progressive des installations."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Promouvoir les métiers de la réparation",
+  "citation": "Promouvoir les métiers de l’économie circulaire pour faire face à la pénurie de réparateurs et de technicien·nes qualifié·es."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Réformer la responsabilité élargie des producteurs",
+  "citation": "Réformer le cadre de la Responsabilité Élargie des Producteurs (REP)"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Confier à l'ADEME les fonds réemploi et réparation",
+  "citation": "Confier à l’ADEME la gestion des fonds dédiés au réemploi et à la réparation."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Appliquer strictement la loi contre la fast fashion",
+  "citation": "Appliquer de manière stricte la loi contre la fast fashion."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Fixer le seuil fast fashion à 5000 nouveaux modèles par an",
+  "citation": "Définir le seuil de nouvelles références à 5000 nouveaux modèles annuels."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Standardisation ambitieuse dans le règlement européen ESPR",
+  "citation": "Adopter une ambition haute de standardisation dans le règlement ESPR (Ecodesign for sustainable products regulation)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Instaurer une préférence européenne pour le réemploi",
+  "citation": "Corriger les asymétries de concurrences qui favorisent des produits neufs à bas coût en instaurant une préférence européenne sur le réemploi"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Transformer la directive Déchets en directive Ressources",
+  "citation": "Faire évoluer la directivecadre Déchets en directive-cadre Ressources"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Créer un fonds souverain financé par un livret industrie",
+  "citation": "Créer un fonds souverain assis sur un « livret industrie » rémunéré au même taux garanti que le livret A"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Organiser un Grenelle de l'industrie",
+  "citation": "Organiser un Grenelle de l’industrie en vue d’une loi d’orientation et de programmation industrielle"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Gestion publique exceptionnelle des entreprises stratégiques",
+  "citation": "En cas de nécessité, passer sous gestion publique exceptionnelle."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Droit de préemption des collectivités sur les machines en cas de fermeture",
+  "citation": "Instituter un droit de préemption sur les machines outils et les autres actifs nécessaires à l’activité en cas de fermeture d’usine"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Mutualiser les investissements bas carbone comme l'hydrogène",
+  "citation": "Mutualiser et massifier certains investissements stratégiques bas carbone"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Conditionner les aides à des contrats d'électrification",
+  "citation": "Conditionner les aides aux entreprises à des contrats de transition visant l’électrification de la production et une amélioration des conditions de travail des salarié·es."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Rembourser les aides en cas de délocalisation",
+  "citation": "Prévoir des clauses de remboursement en cas de délocalisation."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Contrat pour différence sur l'électricité des industries exposées",
+  "citation": "Garantir un prix de l’électricité compétitif pour la décarbonation des industries fortement exposée à la concurrence internationale en établissant un « contrat pour différence »"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Moderniser le droit minier",
+  "citation": "Moderniser le droit minier pour améliorer et relocaliser les chaînes d’approvisionnement en France et en Europe."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Créer un label des projets miniers durables",
+  "citation": "créer une labellisation nationale – puis européenne – en faveur des projets miniers durables"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Renforcer le protectionnisme écologique et social aux frontières",
+  "citation": "Améliorer le protectionnisme écologique et social aux frontières de l’Europe."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Envisager de dévaluer l'euro face au renminbi",
+  "citation": "Envisager l’hypothèse de dévaluer l’euro vis-à-vis de la monnaie chinoise (le renminbi)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Étendre le mécanisme d'ajustement carbone aux frontières",
+  "citation": "Étendre le périmètre et accélérer la mise en œuvre du Mécanisme d’ajustement carbone aux frontières (MACF)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Renégocier l'accord douanier UE-États-Unis de 2025",
+  "citation": "Dénoncer puis renégocier l’accord du 27 juillet 2025 entre les Etats-Unis et l’UE sur les droits de douane afin d’imposer une réciprocité douanière."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Étendre les protections douanières aux industries stratégiques",
+  "citation": "Étendre les protections réglementaires et douanières dans les industries stratégiques"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Conditionner les gros investissements étrangers à des transferts de technologie",
+  "citation": "Conditionner les investissements de plus de 100 millions d’euros en Europe à des transferts de technologie,"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [
+   "liberte"
+  ],
+  "intitule": "Adopter une loi de protection des libertés numériques",
+  "citation": "Adopter une loi sur la protection des libertés numériques."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Limiter le tri algorithmique aux plateformes ayant statut d'éditeur",
+  "citation": "Limiter le tri algorithmique des contenus aux plateformes privées et publiques qui ont un statut d’éditeur."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Restreindre le ciblage publicitaire par surveillance comportementale",
+  "citation": "Élargir le champ des données personnelles interdites au partage, à la revente et au ciblage publicitaire basé sur la surveillance comportementale."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "securite",
+  "concepts": [
+   "liberte"
+  ],
+  "intitule": "Interdire la reconnaissance faciale en temps réel",
+  "citation": "Appliquer strictement l’interdiction de la reconnaissance faciale en temps réel, l’identification et l’inférence des émotions,"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [
+   "democratie"
+  ],
+  "intitule": "Étendre le statut d'éditeur aux grandes plateformes",
+  "citation": "Étendre le statut d’éditeur à toutes les grandes plateformes pour les rendre responsables de l’ensemble du contenu qu’elles produisent."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Imposer la neutralité des algorithmes des grands réseaux sociaux",
+  "citation": "Faire respecter des critères de neutralité aux algorithmes de réseaux sociaux dépassant un million d’utilisateurs·trices en France."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [
+   "democratie"
+  ],
+  "intitule": "Désactiver les classements personnalisés en période électorale",
+  "citation": "Désactiver les classements personnalisés durant les périodes électorales."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Marquer visiblement les contenus générés par IA",
+  "citation": "Imposer un marquage visible de tous les contenus générés par Intelligence Artificielle (images, vidéos, sons, textes)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Supprimer les doubles saisies dans les démarches administratives",
+  "citation": "Simplifier les parcours des usager·ers. Supprimer toutes les doubles saisies."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Pouvoir répondre par courriel aux administrations",
+  "citation": "Pouvoir répondre par mail aux questions des administrations qui concernent des situations personnelles sans se rendre obligatoirement sur le site de l’administration concernée."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Ouvrir intégralement les données publiques",
+  "citation": "Promouvoir l’ouverture intégrale des données publiques dans des formats utilisables par tout·es et non commercialisables."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Créer des comités d'éthique ayant accès aux algorithmes",
+  "citation": "Créer des comités d’éthique ayant accès aux algorithmes et intégrant une représentation des usager·es et des associations de défense des libertés."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Généraliser les logiciels libres dans les administrations",
+  "citation": "Généraliser l’usage des logiciels libres et open source dans les administrations publiques en évaluant systématiquement les solutions libres dans les appels d’offre (open source first)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Interdire les écrans à l'école avant six ans",
+  "citation": "Recommander l’interdiction des écrans aux enfants de moins de trois ans et interdire l’usage des écrans à l’école avant six ans."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "social",
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Interdire la publicité destinée aux enfants",
+  "citation": "Interdire la publicité à destination des enfants y compris les messages de promotions cachés véhiculés par les influenceurs."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [],
+  "intitule": "Réguler l'addictivité des plateformes numériques",
+  "citation": "Réguler les plateformes numériques pour limiter leur addictivité."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Héberger les données sensibles en France chez des acteurs européens",
+  "citation": "Appliquer l’hébergement des données sensibles sur des data centers situés en France détenus et gérés par des acteurs européens."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "travail",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Soutenir un réseau de câbles souverains",
+  "citation": "Soutenir un réseau de câbles souverains."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Supprimer le label projet d'intérêt national majeur pour les data centers",
+  "citation": "Supprimer la possibilité de labelliser des data centers « projet d’intérêt national majeur » (PINM) les exonérant d’études d’impact."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Planifier la consommation électrique des data centers",
+  "citation": "Planifier leur consommation électrique potentielle au niveau national et par territoire"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [
+   "democratie"
+  ],
+  "intitule": "Soumettre les data centers à la Commission nationale du débat public",
+  "citation": "Rétablir les data centers et les infrastructures numériques dans le champ de compétence de la Commission Nationale du Débat Public."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Adopter un IA Act II avec droit au retrait de l'IA",
+  "citation": "Adopter une nouvelle législation sur l’intelligence artificielle (IA Act II) pour intégrer un droit au retrait de l’IA dans les logiciels."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Quadrupler les moyens européens d'application du DSA et DMA",
+  "citation": "Quadrupler les moyens consacrés par la Commission européenne à l’application des règlements et directives européennes existantes"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Soutenir un CHIPS Act 2 et une puce IA européenne",
+  "citation": "Soutenir l’adoption d’un CHIPS Act 2 permettant de financer et de soutenir la production de semiconducteurs en Europe et développer une puce AI européenne."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Proportionner la taille des modèles d'IA à la complexité des requêtes",
+  "citation": "Contraindre les concepteurs de systèmes AI (dont LLM comme ChatGPT ou Gemini) à adopter une proportionnalité entre la complexité des requêtes et la taille des modèles utilisés"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Traçabilité des données d'entraînement de l'IA",
+  "citation": "Imposer une traçabilité des données d’entraînement et un étiquetage obligatoire des contenus générés par IA (images, vidéos, textes, services)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Refuser les équipements numériques soumis à des lois extraterritoriales",
+  "citation": "S’assurer de la souveraineté des infrastructures numériques en refusant des équipements (semi-conducteurs, fibre, câbles sous-marins, cloud souverain) et des logiciels sur lesquels pourraient s’appliquer une loi extraterritoriale."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Interdire les courtiers de données en Europe",
+  "citation": "Interdire l’activité de courtiers de données à l’échelle européenne."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [
+   "egalite"
+  ],
+  "intitule": "Garantir l'accès à des guichets physiques des administrations",
+  "citation": "Garantir un accès effectif à des guichets physiques des administrations responsables de l’ouverture, la réalisation des droits et la résolution de problèmes rencontrés par les usager·es sans condition de nationalité."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Droit opposable à la non-connexion administrative",
+  "citation": "Créer un droit opposable à la non-connexion administrative pour accomplir l’ensemble des démarches sans obligation d’usage du numérique."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Réformer l'organisation territoriale selon un fédéralisme différencié",
+  "citation": "Réformer l’organisation territoriale en se fondant sur le fédéralisme différencié pour permettre une reconnaissance des régions historiques et la création de régions choisies par leurs habitants."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [
+   "democratie"
+  ],
+  "intitule": "Faire évoluer le statut de l'Alsace et de la Corse par référendum",
+  "citation": "Faire évoluer le statut de certaines régions comme l’Alsace ou la Corse après un référendum local."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Prioriser les aides économiques sur les villes petites et moyennes",
+  "citation": "Prioriser les aides économiques sur les petites et moyennes villes au détriment des métropoles."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Dissoudre la métropole du Grand Paris",
+  "citation": "Dissoudre la métropole du Grand Paris pour attribuer ses compétences à la Région Ile-de-France"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Arrêter le New Public Management",
+  "citation": "Arrêter le New Public Management et améliorer les pratiques managériales dans le secteur public"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "En finir avec la dépendance aux cabinets de conseil",
+  "citation": "En finir avec la dépendance aux cabinets de conseil."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Titulariser les agents publics sous contrat de droit privé",
+  "citation": "Adopter un plan de titularisation des agents publics embauchés sur des contrats de droit privé."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Réduire la sous-traitance de l'entretien et de la sécurité",
+  "citation": "Réduire au maximum la sous-traitance pour les missions d’entretien et de sécurité."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [
+   "souverainete"
+  ],
+  "intitule": "Prioriser l'open source et les IA souveraines dans les services publics",
+  "citation": "Prioriser des outils open source et des IA souveraines dans les services publics"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Réinvestir les sous-préfectures",
+  "citation": "Réinvestir les sous-préfectures."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Rattacher les préfets au Premier ministre",
+  "citation": "Rattacher les Préfets au niveau du Premier Ministre plutôt que du Ministère de l’Intérieur."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Créer une autorité d'aménagement du territoire",
+  "citation": "Restaurer un service public d’aménagement du territoire par la création d’une autorité rattachée au Premier Ministre."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Nouveau pacte État-collectivités élargissant leurs compétences",
+  "citation": "Définir un nouveau pacte entre Etat et collectivités territoriales qui clarifie et élargisse les compétences des régions et des collectivités territoriales."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Transférer une part de la contribution climat-énergie aux collectivités",
+  "citation": "Transférer une part de la Contribution Climat Énergie vers les collectivités disposant d’un Plan Climat Air-Énergie Territorial (PCAET) ambitieux."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Augmenter le versement mobilité",
+  "citation": "Augmenter le versement mobilité dont le montant est insuffisant au regard des besoins."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [],
+  "intitule": "Soutenir le droit d'expérimentation des collectivités",
+  "citation": "Soutenir le droit d’expérimentation des collectivités pour une durée déterminée."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "institutions",
+  "concepts": [
+   "democratie"
+  ],
+  "intitule": "Renforcer les Conseils de développement",
+  "citation": "Renforcer les Conseils de Développement en leur attribuant des moyens humains et matériels"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Modifier le droit européen de la concurrence pour les services publics",
+  "citation": "Modifier le droit de la concurrence pour renforcer les services publics nationaux ou européens au-delà des seuls Services d’Intérêt Généraux."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "egalite"
+  ],
+  "intitule": "Limiter les classes de primaire à 19 élèves, 12 en REP",
+  "citation": "Faire de l’école primaire une priorité absolue en réduisant la taille des classes à 19 élèves en 2032 et à 12 élèves dans les établissements en réseau d’éducation prioritaire (REP et REP+)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Former toutes les ATSEM",
+  "citation": "Former tou·tes les Agent·es Territoriaux Spécialisé·es des Écoles Maternelles (ATSEM) sur deux mandats."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Augmenter le temps de décharge des directeurs d'école",
+  "citation": "Augmenter le temps de décharge pour les directeur·trices."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Améliorer effectifs et salaires des AESH, AED et infirmières scolaires",
+  "citation": "Améliorer également les effectifs et les salaires des personnels administratifs et éducatifs (CPE, direction), des assistant·es sociaux·ales, des infirmières scolaires, des Assistant·es d’éducation (AED) et des Accompagnant·es d’élèves en situation de handicap (AESH)"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Intégrer l'écologie dans les programmes de la maternelle au lycée",
+  "citation": "Intégrer l’enjeu écologique dans les programmes de la maternelle au lycée."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Introduire des enseignements pratiques comme réparation et jardinage",
+  "citation": "Introduire de nouveaux enseignements pratiques (réparation, construction, cuisine, jardinage…)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Porter l'EPS à 4 heures au collège et 3 heures au lycée",
+  "citation": "Physique et Sportive (EPS) pour passer à 4h au collège et 3h au lycée."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Garantir l'apprentissage de la nage à l'école",
+  "citation": "Garantir l’apprentissage de la nage dans le cadre scolaire."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Créer un service public de l'orientation dans les lycées",
+  "citation": "Créer un véritable service public de l’orientation dans les lycées généraux, professionnels, techniques et agricoles."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Renforcer les dotations horaires pour les travaux pratiques scientifiques",
+  "citation": "Renforcer les Dotations Horaires Globales pour la réalisation de travaux pratiques dans les disciplines scientifiques au collège et au lycée."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Réformer la formation des enseignants dans les INSPE",
+  "citation": "Enrichir la réforme Borne des Instituts National Supérieur du Professorat et de l’Éducation en remplaçant la période de stage par de l’observation en première année"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Tuteur pour chaque enseignant pendant trois ans",
+  "citation": "Faire en sorte que chaque professeur·e puisse avoir un·e tuteur·ice expérimenté·e pendant ses 3 premières années d’enseignement et bénéficie d’au moins 3 jours de formation par an (en moyenne)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Former les enseignants au repérage des violences faites aux enfants",
+  "citation": "Inclure une formation au repérage des violences faites aux enfants."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Développer les éducations à la nature et à la vie affective",
+  "citation": "Allouer des moyens pour développer les « éducations à » (la nature, la pensée critique, à la vie affective relationnelle et sexuelle…)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Corriger la réforme Blanquer du lycée",
+  "citation": "Ouvrir une concertation avec les syndicats pour corriger profondément la réforme Blanquer."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Rétablir le bac professionnel en 4 ans",
+  "citation": "Valoriser les lycées professionnels et techniques en rétablissant le baccalauréat professionnel en 4 ans, en abrogeant la réforme de la voie professionnelle"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Intégrer les établissements privés dans le service public de l'éducation",
+  "citation": "Intégrer les établissements privés dans un service public de l’éducation."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "egalite"
+  ],
+  "intitule": "Réduire à 50 % le financement public du privé contre mixité sociale",
+  "citation": "Réviser la loi Debré de 1959 pour diminuer la part de financement public à 50 % en contrepartie des frais de scolarité et la conditionner à des obligations de mixité sociale."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Inspection pédagogique obligatoire du privé tous les 5 ans",
+  "citation": "Renforcer un contrôle public et indépendant des établissements privés en rendant obligatoire une inspection pédagogique tous les 5 ans."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Réimplanter des écoles publiques dans tous les territoires",
+  "citation": "Réimplanter des écoles publiques dans tous les territoires en particulier en ruralité et dans les territoires dits « d’Outre-mer »."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Rénover et végétaliser les écoles via le Fonds vert",
+  "citation": "Accélérer la rénovation et la végétalisation des écoles (bâtiments et cours) en soutenant financièrement les collectivités locales avec le Fonds Vert."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "egalite"
+  ],
+  "intitule": "Moduler les dotations scolaires selon la mixité sociale",
+  "citation": "Moduler les dotations aux établissements et les forfaits communaux en fonction de critères de mixité sociale et du respect de l’inclusion scolaire,"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Interdire les partenariats scolaires avec des associations parapatronales",
+  "citation": "Refuser la marchandisation de l’école en interdisant notamment les partenariats avec des associations parapatronales."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Soutenir les Écoles de la deuxième chance et l'EPIDE",
+  "citation": "Lutter contre le décrochage scolaire en soutenant mieux les Écoles de la deuxième chance et les Etablissements pour l’Insertion dans l’Emploi (EPIDE)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Soutenir les Conseils de vie lycéenne",
+  "citation": "Soutenir les Conseils de Vie Lycéenne."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Revenir à la semaine de cinq jours en primaire",
+  "citation": "Inciter les collectivités locales à revenir à la semaine de cinq jours en primaire."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Rétablir les RASED",
+  "citation": "Proposer des temps de soutien scolaire aux élèves en difficulté dans l’après-midi en rétablissant les réseaux d’aides spécialisées aux élèves en difficulté (RASED)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Commencer les cours au collège à 9 heures",
+  "citation": "Commencer les cours au collège à 9 heures."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Créer des postes contre le harcèlement dans chaque académie",
+  "citation": "Créer des postes spécialisés dans chaque académie permettant d’accompagner les personnels de direction dans la mise en place des actions de prévention et de sanction."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "liberte"
+  ],
+  "intitule": "Créer un budget pédagogique par établissement",
+  "citation": "Développer la liberté pédagogique. Créer un budget pédagogique dans chaque établissement."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Abroger le choc des savoirs",
+  "citation": "Abroger le « choc des savoirs » (groupes de niveaux en sixième et cinquième)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Garantir l'indépendance scientifique du Conseil des programmes",
+  "citation": "Assurer une indépendance scientifique du Conseil des programmes."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Remplacer Parcoursup et MonMaster",
+  "citation": "Réhabiliter le droit à des études supérieures en remplaçant ParcourSup et MonMaster par une vraie plateforme d’orientation"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "egalite"
+  ],
+  "intitule": "Instaurer des quotas de boursiers dans le supérieur",
+  "citation": "Intégrer des quotas de boursiers dans les formations supérieures."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Ouvrir des places en BUT et BTS",
+  "citation": "Ouvrir des places en BUT, BTS et dans les formations certifiantes"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Garantir un financement durable aux universités publiques",
+  "citation": "Garantir un financement durable et suffisant aux universités publiques"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Déprécariser les enseignants vacataires",
+  "citation": "Déprécariser les enseignant·es vacataires."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "egalite"
+  ],
+  "intitule": "Augmenter et féminiser le recrutement des enseignants-chercheurs",
+  "citation": "Augmenter et féminiser le recrutement de Maître de Conférence, Professeur·e des Universités."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Créer une autorité de contrôle de l'enseignement supérieur privé lucratif",
+  "citation": "en créant une autorité publique de contrôle des holdings de l’enseignement privé."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Intégrer les classes préparatoires dans les licences universitaires",
+  "citation": "Intégrer les Classes Préparatoires aux Grandes Écoles (CPGE) au sein de licences universitaires"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Ouvrir des crèches universitaires",
+  "citation": "Ouvrir des crèches universitaires."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Quintupler Erasmus",
+  "citation": "Quintupler Erasmus pour que la moitié des étudiant·es étudient ou travaillent dans un autre pays européen."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Créer un diplôme européen",
+  "citation": "Créer un diplôme européen dans trois premiers domaines (enseignement, médecine, ingénierie)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Doter chaque université de 10 millions d'euros européens",
+  "citation": "Créer une dotation européenne des universités de 10 millions d’euros chacune."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Augmenter de 10 % les salaires des personnels de recherche",
+  "citation": "Investir dans la recherche publique via une augmentation significative des salaires des personnels de recherche (+10 % dès la première année)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Remplacer les appels à projets ANR par des conventions pluriannuelles",
+  "citation": "Réorienter les appels à projets de l’Agence Nationale de la Recherche (ANR) vers des conventions pluriannuelles par laboratoires."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Créer un statut du jeune chercheur",
+  "citation": "Créer un statut du jeune chercheur et étendre les Chaires de Professeurs Juniors (CPJ) avec de véritables possibilités de titularisation"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "liberte"
+  ],
+  "intitule": "Sanctionner pénalement l'entrave à la liberté académique",
+  "citation": "Prévoir des sanctions pénales en cas d’entrave à la liberté académique."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Développer l'open access",
+  "citation": "Développer une recherche ouverte et de qualité en développant l’open access"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Financer boutiques des sciences et recherche participative",
+  "citation": "Financer les tiers-lieux d’expérimentation, les boutiques des sciences et les projets de recherche participative."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Créer un Haut comité de la recherche scientifique",
+  "citation": "Créer un Haut comité de la recherche scientifique."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Attribuer la propriété des brevets aux laboratoires",
+  "citation": "Réformer la propriété intellectuelle (loi Bayh-Dole à la française) en attribuant automatiquement la propriété du brevet au laboratoire ou à l’université"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Créer 15 clusters régionaux d'innovation sur campus",
+  "citation": "Créer 15 clusters régionaux sur campus sur le modèle suisse."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Instaurer un congé innovation pour les chercheurs publics",
+  "citation": "Instaurer un congé innovation pour les chercheurs publics"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Créer dix nouveaux instituts Carnot",
+  "citation": "Créer dix nouveaux instituts sur les filières stratégiques"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Cofinancer 1000 chaires sur la transition écologique",
+  "citation": "Cofinancer 1000 chaires industrielles et universitaires sur la transition écologique :"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Doubler le financement d'Horizon Europe",
+  "citation": "Doubler le financement de la recherche scientifique et technique à travers le programme Horizon Europe"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Classement des laboratoires alternatif à celui de Shanghai",
+  "citation": "Définir un classement des institutions de recherche alternatif à celui de Shanghai"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Accueillir les chercheurs menacés dans leur pays",
+  "citation": "Développer les programmes d’accueil des chercheur·ses menacé·es dans leurs pays"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "liberte"
+  ],
+  "intitule": "Loi anti-trust contre la concentration des industries culturelles",
+  "citation": "Limiter strictement la concentration dans les industries culturelles par une loi anti-trust."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "liberte"
+  ],
+  "intitule": "Clause de conscience pour quitter un éditeur",
+  "citation": "Créer une clause de conscience permettant de quitter un éditeur en cas de changement d’actionnaire ou de ligne éditoriale."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Préserver le régime des intermittents",
+  "citation": "Préserver la protection chômage des intermittent·es."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Créer une assurance-chômage pour les artistes-auteurs",
+  "citation": "Créer une assurance-chômage pour les artistes-auteurs afin de garantir une continuité de revenus et de droits sociaux entre deux commandes"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Encadrer l'emploi des enfants de moins de 7 ans dans la culture",
+  "citation": "Protéger les enfants en conditionnant l’embauche d’un enfant de moins de 7 ans à l’avis favorable d’un·e psychologue spécialisé et d’une personne chargée de la prévention."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Coordinateur d'intimité obligatoire pour les mineurs",
+  "citation": "Rendre obligatoire la présence d’un·e coordinateur·trice d’intimité sur les tournages pour toute mise en scène d’intimité d’un mineur."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Réviser en profondeur le Pass Culture",
+  "citation": "Réviser en profondeur le Pass Culture."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Étendre la gratuité des musées nationaux",
+  "citation": "Étendre dans la mesure du possible la gratuité dans les musées nationaux"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Garantir le maillage des bibliothèques",
+  "citation": "Garantir le maillage territorial des bibliothèques et médiathèques."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Abonder un fonds pour le petit patrimoine",
+  "citation": "Abonder un fonds pour le petit patrimoine afin de soutenir les collectivités locales dans l’entretien et la valorisation de leur patrimoine local."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Ratifier la convention de Faro",
+  "citation": "Signer et ratifier la convention de Faro pour la préservation, la connaissance et la pratique du patrimoine culturel."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "democratie"
+  ],
+  "intitule": "Associer les citoyens aux décisions de politique culturelle",
+  "citation": "Associer les citoyen·nes aux décisions qui orientent les politiques culturelles en les intégrant systématiquement dans les instances de décision."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "transition"
+  ],
+  "intitule": "Accélérer la transition écologique des activités culturelles",
+  "citation": "Accélérer la transition écologique des activités culturelles."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "egalite"
+  ],
+  "intitule": "Conditionner les aides culturelles à la parité",
+  "citation": "Conditionner l’octroi d’aides publiques à la mise en place effective de la parité, de l’inclusion et de dispositifs visant à lutter contre les violences sexistes et sexuelles."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "egalite"
+  ],
+  "intitule": "Rééquilibrer le budget de la Culture entre Paris et les régions",
+  "citation": "Rééquilibrer le budget du ministère de la Culture entre Paris et les autres régions,"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Péréquation entre méga-événements et petits festivals",
+  "citation": "Soutenir les petits festivals en mettant en place un système de péréquation avec les méga-événements culturels"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Renforcer les moyens des DRAC",
+  "citation": "Renforcer les moyens des Directions régionales des Affaires Culturelles (DRAC) pour accompagner les politiques culturelles."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Ratifier la Charte des langues régionales",
+  "citation": "Ratifier la Charte des Langues régionales et Minoritaires."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Soutenir l'enseignement bilingue en langues régionales",
+  "citation": "soutenir l’enseignement bilingue."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Préserver le prix unique du livre",
+  "citation": "Préserver le prix unique du livre pour soutenir les éditeurs et les libraires indépendants."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Taxer les plateformes de streaming au profit du CNC",
+  "citation": "Soutenir le cinéma français indépendant via le Centre National du Cinéma et de l’image animée (CNC) en élargissant la taxe prélevée sur les entrées aux plateformes de streaming."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Renforcer le Centre national de la musique",
+  "citation": "Renforcer le Centre National de la Musique (CNM) et ses ressources financières"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Garantir la jouabilité des jeux vidéo après fin du support",
+  "citation": "Rendre obligatoire le maintien d’une certaine jouabilité après la fin du support"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Bonus du crédit d'impôt jeu vidéo pour les studios indépendants",
+  "citation": "Soutenir les studios indépendants par un bonus dans le Crédit d’Impôt Jeu Vidéo (CIJV)"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Encadrer le crunch dans le jeu vidéo",
+  "citation": "Encadrer les heures supplémentaires massives avant une sortie (crunch)."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Interdire les loot boxes",
+  "citation": "Interdire les loot boxes sur le modèle belge et rendre obligatoire les probabilités de récompense liées à toute transaction financière."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "protection"
+  ],
+  "intitule": "Interdire le profilage publicitaire des mineurs dans les jeux",
+  "citation": "Limiter la collecte de données des joueurs et interdire le profilage publicitaire pour les mineurs."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Créer un statut pour les joueurs d'e-sport",
+  "citation": "Adopter un statut pour les joueurs·ses d’e-sport comprenant une protection sociale et une assurance chômage."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Rémunérer les œuvres utilisées pour entraîner les IA",
+  "citation": "Rémunérer les œuvres protégées par le droit d’auteur qui ont été utilisées pour constituer les bases d’entraînement des IA."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Droit d'opposition des artistes à l'usage commercial de leurs œuvres",
+  "citation": "Attribuer un droit d’opposition aux artistes pour tout usage commercial ou numérique de leur création."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "europe",
+  "concepts": [],
+  "intitule": "Imposer des quotas d'œuvres aux plateformes de streaming",
+  "citation": "Attribuer des responsabilités de diffuseur aux plateformes de streaming afin qu’elles respectent les quotas d’oeuvres françaises et européennes"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Renforcer le Pass Sport et réintégrer les 6-13 ans",
+  "citation": "Augmenter les moyens du sport amateur par le renforcement du Pass Sport. Réintégrer les 6-13 ans."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "egalite"
+  ],
+  "intitule": "Subventionner les licences sportives des ménages modestes",
+  "citation": "Subventionner de 10 à 100 % des licences pour les personnes à faibles revenus."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Déplafonner la taxe Buffet pour financer le sport amateur",
+  "citation": "Soutenir les clubs de sport amateur par des subventions alimentées via une augmentation de la taxation sur les retransmissions sportives à la télévision, de la part des produits des jeux et paris et le déplafonnement de la taxe Buffet."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Plan d'urgence pour les équipements sportifs",
+  "citation": "Mettre en place un plan national d’urgence pour la création et la rénovation thermique des équipements sportifs dans tous les territoires"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "ecologie",
+  "concepts": [],
+  "intitule": "Interdire le plastique à usage unique aux événements sportifs en 2030",
+  "citation": "Interdire le plastique et les emballages à usage unique lors des événements sportifs en 2030."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Soumettre les investissements étrangers dans les clubs à autorisation",
+  "citation": "Soumettre les investissements étrangers dans les clubs sportifs à autorisation préalable ;"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Représenter les supporters dans les instances du sport professionnel",
+  "citation": "Assurer la représentation des supporters et des associations de lutte contre les discriminations dans les instances dirigeantes du sport professionnel."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Limiter le nombre annuel de matchs par joueur",
+  "citation": "Faire de la santé des joueurs une priorité en freinant l’augmentation du nombre de compétitions et en limitant le nombre annuel de matchs par joueur professionnel."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "democratie"
+  ],
+  "intitule": "Consultation locale avant toute candidature à un grand événement",
+  "citation": "Démocratiser les Grands événements sportifs par une réelle consultation locale avant toute candidature,"
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Adopter une loi d'éthique sur le sponsoring",
+  "citation": "Adopter une loi d’éthique sur le sponsoring et lutter contre l’inflation du nombre d’événements sportifs mondiaux."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "egalite"
+  ],
+  "intitule": "Obligation de diffusion du sport féminin à la télévision",
+  "citation": "Imposer aux chaînes de télévision une obligation de diffusion d’événements sportifs féminins équivalents en termes de discipline, de niveau et de créneaux horaires."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Obliger fédérations et clubs à porter plainte pour violences sexuelles",
+  "citation": "Responsabiliser les fédérations et les clubs pour porter plainte systématiquement après toute allégation de violences sexistes et sexuelles."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [
+   "egalite"
+  ],
+  "intitule": "Quotas de femmes dans les instances sportives",
+  "citation": "Imposer des quotas de représentation féminine dans les instances dirigeantes des clubs et des fédérations."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Label pour les clubs accueillant des réfugiés",
+  "citation": "Créer un label national pour les clubs accueillants des réfugié·es et des demandeur·ses d’asile."
+ },
+ {
+  "document": "eco-2026",
+  "theme": "education",
+  "concepts": [],
+  "intitule": "Créer un Pass Sport Entreprise",
+  "citation": "Créer un Pass Sport Entreprise."
+ }
+]

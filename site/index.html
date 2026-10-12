@@ -1,338 +1,275 @@
-<title>République des mots</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=JetBrains+Mono:wght@400;500&display=swap">
-<style>
-/* Mise en page : bandeau d'outils en haut, une table de lecture large, citations en serif comme dans un recueil */
-:root {
-  --papier: #f4f5f7;
-  --surface: #ffffff;
-  --encre: #1b2130;
-  --encre-douce: #5a6275;
-  --filet: #d9dce4;
-  --accent: #3346c8;
-  --accent-doux: #e7eafb;
-  --pour: #1f7a52;
-  --contre: #b4372f;
-  --partage: #8a6d12;
-  --f-titre: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
-  --f-texte: "Newsreader", Georgia, "Times New Roman", serif;
-  --f-ref: "JetBrains Mono", ui-monospace, Menlo, monospace;
-  color-scheme: light;
-}
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --papier: #12151c; --surface: #1a1f29; --encre: #e7e9ef; --encre-douce: #9ba3b6;
-    --filet: #2c3342; --accent: #8c9bff; --accent-doux: #252c4a;
-    --pour: #5cc196; --contre: #f08a80; --partage: #d9b75a; color-scheme: dark;
-  }
-}
-:root[data-theme="dark"] {
-  --papier: #12151c; --surface: #1a1f29; --encre: #e7e9ef; --encre-douce: #9ba3b6;
-  --filet: #2c3342; --accent: #8c9bff; --accent-doux: #252c4a;
-  --pour: #5cc196; --contre: #f08a80; --partage: #d9b75a; color-scheme: dark;
-}
-* { box-sizing: border-box; }
-body { background: var(--papier); color: var(--encre); font-family: var(--f-texte); font-size: 17px; line-height: 1.5; }
-.page { max-width: 1180px; margin: 0 auto; padding-inline: 20px; padding-block: 20px 48px; display: grid; gap: 20px; }
-.avert { font-family: var(--f-ref); font-size: 12.5px; letter-spacing: .02em; color: var(--encre-douce); border: 1px dashed var(--filet); padding: 8px 12px; border-radius: 6px; }
-.avert strong { color: var(--contre); font-weight: 500; }
-header { display: grid; gap: 6px; }
-h1 { font-family: var(--f-titre); font-weight: 700; font-size: clamp(30px, 5vw, 46px); line-height: 1.05; margin: 0; letter-spacing: -.01em; text-wrap: balance; }
-h1 em { font-family: var(--f-texte); font-style: italic; font-weight: 400; color: var(--accent); }
-.chapo { margin: 0; color: var(--encre-douce); max-width: 62ch; }
-nav { display: flex; flex-wrap: wrap; gap: 6px; border-bottom: 1px solid var(--filet); }
-nav button { font-family: var(--f-titre); font-weight: 500; font-size: 15px; background: none; border: 0; border-bottom: 3px solid transparent; color: var(--encre-douce); padding: 10px 12px; cursor: pointer; }
-nav button[aria-selected="true"] { color: var(--encre); border-bottom-color: var(--accent); }
-button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
-h2 { font-family: var(--f-titre); font-weight: 700; font-size: 22px; margin: 0; text-wrap: balance; }
-.aide { color: var(--encre-douce); margin: 0; max-width: 70ch; font-size: 16px; }
-.reglages { display: flex; flex-wrap: wrap; gap: 10px 22px; align-items: center; font-family: var(--f-titre); font-size: 14px; }
-.reglages fieldset { border: 0; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
-.reglages legend { float: left; margin-right: 8px; color: var(--encre-douce); text-transform: uppercase; font-size: 11.5px; letter-spacing: .08em; }
-.puce { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--filet); background: var(--surface); border-radius: 999px; padding: 4px 10px; cursor: pointer; font-family: var(--f-titre); font-size: 13.5px; color: var(--encre); }
-.puce input { accent-color: var(--accent); margin: 0; }
-.puce[data-actif="true"] { background: var(--accent-doux); border-color: var(--accent); }
-.sigle { font-family: var(--f-ref); font-size: 11.5px; font-weight: 500; border: 1px solid currentColor; border-radius: 4px; padding: 0 5px; letter-spacing: .04em; }
-.table-defile { overflow-x: auto; border: 1px solid var(--filet); border-radius: 8px; background: var(--surface); }
-table.matrice { border-collapse: collapse; width: 100%; min-width: 640px; }
-.matrice th, .matrice td { border-bottom: 1px solid var(--filet); border-right: 1px solid var(--filet); vertical-align: top; padding: 12px; text-align: left; }
-.matrice th:last-child, .matrice td:last-child { border-right: 0; }
-.matrice thead th { font-family: var(--f-titre); font-weight: 700; font-size: 15px; background: var(--papier); position: sticky; top: 0; }
-.matrice tbody th { font-family: var(--f-titre); font-weight: 500; font-size: 15px; width: 150px; background: var(--papier); }
-.matrice tr:last-child td, .matrice tr:last-child th { border-bottom: 0; }
-.cellule { display: grid; gap: 12px; }
-.vide { color: var(--encre-douce); font-style: italic; font-size: 15px; }
-blockquote.prop { margin: 0; display: grid; gap: 5px; }
-blockquote.prop p { margin: 0; font-size: 16px; }
-blockquote.prop p::before { content: "« "; color: var(--encre-douce); }
-blockquote.prop p::after { content: " »"; color: var(--encre-douce); }
-.ref { font-family: var(--f-ref); font-size: 11.5px; color: var(--encre-douce); }
-.mots { display: flex; flex-wrap: wrap; gap: 4px; }
-.mot { font-family: var(--f-titre); font-size: 12px; color: var(--accent); background: var(--accent-doux); border: 0; border-radius: 4px; padding: 1px 7px; cursor: pointer; }
-.mot[data-actif="true"] { background: var(--accent); color: var(--surface); }
-mark { background: var(--accent-doux); color: inherit; border-radius: 2px; padding: 0 2px; }
-.lex { display: grid; grid-template-columns: minmax(170px, 220px) 1fr; gap: 20px; }
-.lex-liste { display: flex; flex-direction: column; gap: 2px; }
-.lex-liste button { text-align: left; font-family: var(--f-titre); font-size: 15px; background: none; border: 0; border-left: 3px solid transparent; padding: 7px 10px; color: var(--encre); cursor: pointer; display: flex; justify-content: space-between; gap: 8px; }
-.lex-liste button[aria-pressed="true"] { border-left-color: var(--accent); background: var(--surface); }
-.lex-liste .n { font-family: var(--f-ref); font-size: 12px; color: var(--encre-douce); font-variant-numeric: tabular-nums; }
-.lex-cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; min-width: 0; }
-.carte { background: var(--surface); border: 1px solid var(--filet); border-radius: 8px; padding: 16px; display: grid; gap: 10px; align-content: start; min-width: 0; }
-.carte h3 { font-family: var(--f-titre); font-size: 16px; margin: 0; display: flex; gap: 8px; align-items: center; }
-.def { font-style: italic; margin: 0; }
-.jauge { display: grid; grid-template-columns: 1fr auto; gap: 8px; align-items: center; font-family: var(--f-ref); font-size: 12px; color: var(--encre-douce); }
-.jauge span.barre { height: 6px; border-radius: 3px; background: var(--filet); overflow: hidden; }
-.jauge span.barre i { display: block; height: 100%; background: var(--accent); }
-.scene { background: var(--surface); border: 1px solid var(--filet); border-radius: 10px; padding: clamp(18px, 4vw, 36px); display: grid; gap: 18px; max-width: 780px; }
-.scene .citation { font-size: clamp(21px, 3vw, 27px); line-height: 1.35; margin: 0; text-wrap: pretty; }
-.compteur { font-family: var(--f-ref); font-size: 12px; color: var(--encre-douce); letter-spacing: .04em; text-transform: uppercase; }
-.choix { display: flex; flex-wrap: wrap; gap: 8px; }
-.btn { font-family: var(--f-titre); font-weight: 500; font-size: 15px; border-radius: 6px; border: 1px solid var(--filet); background: var(--papier); color: var(--encre); padding: 9px 16px; cursor: pointer; }
-.btn:hover { border-color: var(--encre-douce); }
-.btn.pour { border-color: var(--pour); color: var(--pour); }
-.btn.contre { border-color: var(--contre); color: var(--contre); }
-.btn.partage { border-color: var(--partage); color: var(--partage); }
-.btn.principal { background: var(--accent); border-color: var(--accent); color: var(--surface); }
-.btn.juste { background: var(--pour); border-color: var(--pour); color: var(--surface); }
-.btn.faux { background: var(--contre); border-color: var(--contre); color: var(--surface); }
-.revelation { border-top: 1px solid var(--filet); padding-top: 14px; display: grid; gap: 8px; }
-.revelation p { margin: 0; }
-.bilan { display: grid; gap: 8px; max-width: 780px; }
-.bilan-ligne { display: grid; grid-template-columns: minmax(150px, 220px) 1fr auto; gap: 12px; align-items: center; font-family: var(--f-titre); font-size: 14px; }
-.empile { display: flex; height: 10px; border-radius: 5px; overflow: hidden; background: var(--filet); }
-.empile i { display: block; height: 100%; }
-.legende { display: flex; flex-wrap: wrap; gap: 14px; font-family: var(--f-ref); font-size: 12px; color: var(--encre-douce); }
-.legende b { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 5px; vertical-align: -1px; }
-.methode { display: grid; gap: 14px; max-width: 70ch; }
-.methode h3 { font-family: var(--f-titre); font-size: 17px; margin: 0; }
-.methode p, .methode li { margin: 0; }
-.methode ol { margin: 0; padding-left: 1.2em; display: grid; gap: 6px; }
-section[role="tabpanel"] { display: grid; gap: 16px; }
-@media (max-width: 640px) {
-  .lex { grid-template-columns: 1fr; }
-  .lex-liste { flex-direction: row; flex-wrap: wrap; }
-  .lex-liste button { border-left: 0; border-bottom: 2px solid transparent; }
-  .lex-liste button[aria-pressed="true"] { border-bottom-color: var(--accent); }
-  .bilan-ligne { grid-template-columns: 1fr auto; }
-  .bilan-ligne .empile { grid-column: 1 / -1; }
-}
-@media (prefers-reduced-motion: no-preference) {
-  .revelation { animation: apparait .25s ease-out; }
-  @keyframes apparait { from { opacity: .3; transform: translateY(4px); } to { opacity: 1; transform: none; } }
-}
-</style>
+<!doctype html>
+<html lang="fr">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>République des mots 2027</title>
+<meta name="description" content="Lire les programmes 2027 côte à côte, comprendre les concepts et le vocabulaire politique, juger les idées avant de savoir de qui elles viennent.">
+<meta property="og:title" content="République des mots 2027">
+<meta property="og:description" content="Les programmes des huit principales forces politiques, citation par citation. Concepts, vocabulaire, votes à l'aveugle, jeux et kit pour animer des lectures en groupe.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://republique.fr/">
+<link rel="stylesheet" href="polices.css">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="css/jeux.css">
+<link rel="stylesheet" href="css/groupes.css">
+<link rel="stylesheet" href="css/participer.css">
 
-<div class="page">
-  <p class="avert" id="avert"><strong>Prototype.</strong> Les candidatures et citations ci-dessous sont fictives et servent à éprouver les mécanismes. Aucun parti réel n'est représenté.</p>
-  <header>
-    <h1>République des mots <em>2027</em></h1>
-    <p class="chapo">Lire les programmes côte à côte, voir ce que chaque camp met derrière les mêmes mots, et juger les idées avant de savoir de qui elles viennent.</p>
-  </header>
+<header class="bandeau">
+  <div class="bandeau-int">
+    <div class="bandeau-haut">
+      <a class="marque" href="#accueil"><b>République des mots <em>2027</em></b><span class="devise" id="devise"></span></a>
+      <div class="bandeau-outils">
+        <a class="retour" id="compte-lien" href="#rejoindre/compte">Se connecter</a>
+        <button class="retour" id="retour" hidden aria-label="Retour">←<span class="retour-mot"> Retour</span></button>
+        <div class="recherche-globale"><input type="search" id="recherche" placeholder="Chercher : GPA, CSG, RN…" aria-label="Chercher dans tout le site" autocomplete="off"><div class="resultats" id="resultats" hidden></div></div>
+      </div>
+    </div>
+    <nav class="onglets" id="onglets" aria-label="Rubriques">
+      <a href="#accueil" data-vue="accueil">Accueil</a>
+      <a href="#matrice" data-vue="matrice">Comparer</a>
+      <a href="#lexique" data-vue="lexique">Concepts</a>
+      <a href="#vocab" data-vue="vocab">Vocabulaire</a>
+      <a href="#partis" data-vue="partis">Partis</a>
+      <a href="#jouer" data-vue="jouer">Jouer</a>
+      <a href="#consensus" data-vue="consensus">Consensus</a>
+      <a href="#groupes" data-vue="groupes">Groupes</a>
+      <a href="#rejoindre" data-vue="rejoindre">Participer</a>
+      <a href="#methode" data-vue="methode">Méthode</a>
+    </nav>
+  </div>
+</header>
 
-  <nav role="tablist" aria-label="Sections">
-    <button role="tab" id="t-matrice" aria-controls="matrice" aria-selected="true">Matrice</button>
-    <button role="tab" id="t-lexique" aria-controls="lexique" aria-selected="false">Lexique</button>
-    <button role="tab" id="t-aveugle" aria-controls="aveugle" aria-selected="false">À l'aveugle</button>
-    <button role="tab" id="t-quiz" aria-controls="quiz" aria-selected="false">Qui a dit ça ?</button>
-    <button role="tab" id="t-methode" aria-controls="methode" aria-selected="false">Méthode</button>
-  </nav>
+<main class="page" id="contenu">
+  <p class="avert" id="avert"><strong>Bêta.</strong> <span class="avert-long">Corpus relevé dans les documents écrits officiels des huit principales formations, en cours de relecture. </span>Chaque citation est vérifiée mot pour mot dans sa source ; chaque fiche a un bouton pour signaler une erreur.</p>
 
-  <section role="tabpanel" id="matrice" aria-labelledby="t-matrice">
+  <section class="vue" id="accueil" aria-label="Accueil" hidden></section>
+
+  <section class="vue" id="matrice" aria-label="Comparer" hidden>
     <p class="aide">Choisissez les candidatures et l'axe de lecture. Cliquez un mot-clé pour le surligner partout.</p>
     <div class="reglages">
       <fieldset id="f-cand"><legend>Candidatures</legend></fieldset>
       <fieldset id="f-axe"><legend>Lignes</legend>
         <label class="puce"><input type="radio" name="axe" id="axe-themes" value="themes" checked> Thèmes</label>
-        <label class="puce"><input type="radio" name="axe" id="axe-concepts" value="concepts"> Concepts</label>
+        <label class="puce"><input type="radio" name="axe" id="axe-notions" value="notions"> Concepts précis</label>
+        <label class="puce"><input type="radio" name="axe" id="axe-concepts" value="concepts"> Grandes notions</label>
+      </fieldset>
+      <fieldset id="f-filtre"><legend>Filtrer</legend>
+        <select id="m-ligne" aria-label="Ligne affichée"><option value="">Toutes les lignes</option></select>
+        <input type="search" id="m-texte" placeholder="Un mot dans les propositions" aria-label="Filtrer les propositions par un mot">
       </fieldset>
     </div>
     <div class="table-defile"><table class="matrice" id="tab-matrice"></table></div>
   </section>
 
-  <section role="tabpanel" id="lexique" aria-labelledby="t-lexique" hidden>
-    <p class="aide">Un même mot, plusieurs sens. Pour chaque concept : l'usage qu'en fait chaque candidature, sa fréquence et les phrases où il apparaît.</p>
-    <div class="lex">
+  <section class="vue" id="lexique" aria-label="Concepts" hidden>
+    <p class="aide">Les concepts précis du débat (dispositifs, institutions, impôts, mesures emblématiques) : une définition, ce qui est débattu, puis ce qu'en dit chaque parti, appuyé sur ses textes. Les grandes notions (liberté, nation, travail…) montrent comment chacun emploie les mots-valeurs.</p>
+    <div class="reglages">
+      <fieldset><legend>Afficher</legend>
+        <label class="puce"><input type="radio" name="vue-concepts" value="precis" checked> Concepts précis</label>
+        <label class="puce"><input type="radio" name="vue-concepts" value="grandes"> Grandes notions</label>
+      </fieldset>
+      <fieldset id="n-filtres"><legend>Filtrer</legend>
+        <input type="search" id="n-cherche" placeholder="GPA, droit du sol, CSG…" aria-label="Chercher un concept">
+        <select id="n-theme" aria-label="Thème"><option value="">Tous les thèmes</option></select>
+        <select id="n-cat" aria-label="Catégorie"><option value="">Toutes les catégories</option></select>
+      </fieldset>
+    </div>
+    <div class="lex" id="n-precis">
+      <div class="lex-liste longue" id="n-liste"></div>
+      <div id="n-fiche"></div>
+    </div>
+    <div class="lex" id="n-grandes" hidden>
       <div class="lex-liste" id="lex-liste"></div>
       <div class="lex-cols" id="lex-cols"></div>
     </div>
   </section>
 
-  <section role="tabpanel" id="aveugle" aria-labelledby="t-aveugle" hidden>
+  <section class="vue" id="vocab" aria-label="Vocabulaire" hidden>
+    <p class="aide">Le vocabulaire politique et technique du débat : ce que désigne chaque terme, qui l'emploie dans ses textes, ce que le choix du mot met en avant, et les mots concurrents qu'emploie l'autre camp.</p>
+    <div class="reglages">
+      <fieldset><legend>Filtrer</legend>
+        <input type="search" id="g-cherche" placeholder="charges sociales, OQTF, superprofits…" aria-label="Chercher un terme">
+        <select id="g-registre" aria-label="Registre"><option value="">Tous les registres</option></select>
+        <select id="g-theme" aria-label="Thème"><option value="">Tous les thèmes</option></select>
+      </fieldset>
+    </div>
+    <p class="aide" id="g-compte" role="status"></p>
+    <div class="glossaire" id="g-liste"></div>
+    <div class="choix"><button class="plus" id="g-plus" hidden>Afficher plus de termes</button></div>
+    <h2>Statistiques des mots</h2>
+    <p class="aide">Les mots réellement employés dans les textes, comptés par parti. Cherchez un mot pour lire chaque emploi dans sa phrase.</p>
+    <div class="reglages">
+      <label class="recherche" for="v-mot">Mot <input type="search" id="v-mot" placeholder="travail, sécurité, peuple…" autocomplete="off"></label>
+    </div>
+    <div id="v-contexte" class="contexte"></div>
+    <h2>Les mots les plus employés</h2>
+    <div class="table-defile"><table class="matrice compte" id="v-table"></table></div>
+    <h2>Les mots propres à chaque parti</h2>
+    <p class="aide">Mots qu'un parti emploie et que les autres n'emploient pas ou peu.</p>
+    <div class="lex-cols" id="v-propres"></div>
+  </section>
+
+  <section class="vue" id="partis" aria-label="Partis" hidden>
+    <p class="aide">Une fiche par parti : ses documents de référence, l'état de son programme et ce qui ressort de ses textes. Quand un programme 2027 n'est pas encore publié, le site cite le programme précédent et le signale.</p>
+    <div class="partis" id="p-liste"></div>
+  </section>
+
+  <section class="vue" id="jouer" aria-label="Jouer" hidden>
+    <div class="titre-section"><h2>Jouer avec les programmes</h2><p class="aide">Des jeux courts pour lire autrement : juger avant de savoir, deviner, comparer les mots.</p></div>
+    <nav class="sous-onglets" id="jeux-nav" aria-label="Jeux"></nav>
+    <div class="jeu" id="jeu-aveugle" hidden>
     <p class="aide">Jugez la proposition seule. La candidature n'est révélée qu'après votre choix. Vos votes restent dans votre navigateur.</p>
     <div class="scene" id="scene-aveugle"></div>
     <h2>Votre lecture</h2>
     <p class="aide">Ce que vous avez soutenu, une fois les noms révélés. Personne d'autre ne voit ce bilan.</p>
     <div class="bilan" id="bilan"></div>
     <div class="legende"><span><b style="background:var(--pour)"></b>Pour</span><span><b style="background:var(--partage)"></b>Partagé</span><span><b style="background:var(--contre)"></b>Contre</span></div>
-  </section>
-
-  <section role="tabpanel" id="quiz" aria-labelledby="t-quiz" hidden>
+    </div>
+    <div class="jeu" id="jeu-quiz" hidden>
     <p class="aide">Devinez quelle candidature a écrit chaque proposition. Dix questions.</p>
     <div class="scene" id="scene-quiz"></div>
+    </div>
   </section>
 
-  <section role="tabpanel" id="methode" aria-labelledby="t-methode" hidden>
+  <section class="vue" id="consensus" aria-label="Consensus" hidden>
+    <p class="aide">Les votants sont regroupés selon leurs votes, sans connaître leur parti. Une idée « rassemble » quand elle obtient l'accord de chaque groupe, pas seulement du plus nombreux.</p>
+    <p class="avert" id="c-avert"><strong>Simulation.</strong> En attendant les vrais votes, la carte s'appuie sur 150 votants simulés, plus vos propres votes à l'aveugle.</p>
+    <div class="carto">
+      <figure class="nuage"><svg id="c-nuage" viewBox="0 0 400 300" role="img" aria-labelledby="c-legende"></svg><figcaption id="c-legende" class="ref"></figcaption></figure>
+      <div class="c-listes">
+        <h2>Ce qui rassemble</h2><div id="c-rassemble" class="c-liste"></div>
+        <h2>Ce qui divise</h2><div id="c-divise" class="c-liste"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="vue" id="groupes" aria-label="Groupes" hidden></section>
+
+  <section class="vue" id="rejoindre" aria-label="Participer" hidden>
+    <p class="aide">Chaque étape est facultative. Vous pouvez voter et jouer sans rien donner ; un compte sert seulement à retrouver vos votes partout et à rejoindre les cercles.</p>
+    <p class="avert" id="r-hors-ligne" hidden><strong>Aperçu.</strong> Les inscriptions ouvriront avec le site. Les formulaires ci-dessous montrent le parcours.</p>
+    <div class="partis">
+      <form class="carte" id="f-lettre" novalidate>
+        <h3>La lettre du dimanche</h3>
+        <p class="def" style="font-style:normal">Le mot de la semaine, les nouvelles fiches, le défi du quiz. Une confirmation par e-mail, désinscription en un clic.</p>
+        <label class="ref" for="l-email">Adresse e-mail</label>
+        <input class="champ" type="email" id="l-email" autocomplete="email" required>
+        <button class="btn principal" type="submit">M'abonner</button>
+        <p class="ref" role="status" id="l-etat"></p>
+      </form>
+      <form class="carte" id="f-compte" novalidate>
+        <h3>Mon compte</h3>
+        <p class="def" style="font-style:normal">Pas de mot de passe : vous recevez un lien de connexion valable 30 minutes.</p>
+        <label class="ref" for="c-email">Adresse e-mail</label>
+        <input class="champ" type="email" id="c-email" autocomplete="email" required>
+        <label class="consent"><input type="checkbox" id="c-consent"> J'accepte que mes votes soient enregistrés. Ils restent séparés de mon adresse, ne sont jamais publiés individuellement et je peux les effacer à tout moment.</label>
+        <button class="btn principal" type="submit">Recevoir mon lien</button>
+        <p class="ref" role="status" id="c-etat"></p>
+      </form>
+      <form class="carte" id="f-profil" novalidate hidden>
+        <h3>Mon profil</h3>
+        <label class="ref" for="pf-pseudo">Pseudonyme public</label>
+        <input class="champ" id="pf-pseudo" maxlength="40">
+        <label class="ref" for="pf-commune">Commune (facultatif, pour trouver un cercle près de chez vous)</label>
+        <input class="champ" id="pf-commune" list="pf-communes" autocomplete="off">
+        <datalist id="pf-communes"></datalist>
+        <button class="btn principal" type="submit">Enregistrer</button>
+        <p class="ref" role="status" id="pf-etat"></p>
+      </form>
+      <article class="carte">
+        <h3>Les cercles</h3>
+        <p class="def" style="font-style:normal">Des groupes de travail ouverts : thématiques pour enrichir le lexique et vérifier les fiches, locaux pour organiser des lectures publiques et des débats à l'aveugle.</p>
+        <ul class="docs" id="r-cercles"></ul>
+        <p class="ref">Discussions sur Matrix (messagerie libre), rencontres sur Mobilizon (événements libres).</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="vue" id="methode" aria-label="Méthode" hidden>
     <div class="methode">
       <h3>Une proposition, une citation</h3>
-      <p>Chaque fiche reproduit mot pour mot une phrase d'un document publié par la candidature, avec le titre du document, la page et la date. Un script vérifie à chaque mise à jour que la citation figure bien dans la source. Une fiche qui échoue n'est pas publiée.</p>
+      <p>Chaque fiche reproduit mot pour mot un passage d'un document publié par la formation, avec un lien vers le document, la page et la date. Un script vérifie à chaque mise à jour que la citation figure bien dans le texte source. Une fiche qui échoue n'est pas publiée. Le court intitulé en gras résume la mesure ; seule la citation fait foi.</p>
+      <h3>Des sources écrites et officielles</h3>
+      <p>On ne retient que des documents écrits publiés par les formations : programmes, livrets thématiques, professions de foi. Pas de discours ni d'interviews, plus difficiles à vérifier. Les huit formations sont celles des huit candidatures les plus hautes dans les sondages de septembre 2026. L'objectif est l'exhaustivité : toutes les mesures concrètes des documents lus, pas une sélection.</p>
       <h3>La même grille pour tous</h3>
-      <p>Les thèmes et les concepts sont identiques pour chaque candidature. Une case vide signifie que le document source ne dit rien sur ce point, pas que la candidature n'a pas d'avis.</p>
+      <p>Les neuf thèmes, les concepts et les dix-huit grandes notions sont identiques pour chaque formation. Une case vide signifie que les documents lus ne disent rien sur ce point, pas que la formation n'a pas d'avis. Les documents n'ont pas la même longueur : comparer le nombre de propositions entre formations n'a donc pas de sens.</p>
+      <h3>Concepts et vocabulaire : une lecture éditoriale</h3>
+      <p>Les concepts précis (droit du sol, CSG, RIC, sécurité sociale alimentaire…) ont chacun une définition, les termes du débat et la position de chaque formation. Les grandes notions (liberté, nation, travail…) disent ce que chaque formation met derrière les mots-valeurs. Le glossaire décrit le vocabulaire technique et les éléments de langage : ce qu'ils désignent, qui les emploie et quels mots concurrents emploie l'autre camp.</p>
+      <p>Définitions et synthèses sont des interprétations, signalées comme telles et toujours adossées à des citations que chacun peut relire. Les citations rattachées à un concept ou à un terme sont repérées automatiquement dans les textes : leur nombre mesure la place du mot dans les documents lus, pas l'importance que la formation lui accorde.</p>
       <h3>Voter pour des idées</h3>
       <ol>
         <li>Le vote porte sur une proposition, présentée sans son auteur.</li>
         <li>Les résultats s'affichent par proposition, jamais sous forme de classement des candidatures.</li>
         <li>Ce n'est pas un sondage : les votants ne forment pas un échantillon représentatif.</li>
       </ol>
+      <h3>Quand un programme manque</h3>
+      <p>Tant qu'une formation n'a pas publié son programme 2027, ses fiches citent son programme précédent ou ses derniers documents. Chacune porte alors la mention « archive » avec l'année, et la fiche du parti explique pourquoi. Les fiches seront mises à jour à la publication des programmes 2027.</p>
       <h3>Tout est ouvert</h3>
-      <p>Le code, les données et l'historique de chaque modification sont publics. Toute erreur peut être signalée et corrigée en public.</p>
+      <p>Le code, les données et l'historique de chaque modification sont publics sur <a href="https://github.com/CedricMabilotte/comparatif-2027">GitHub</a>, avec la <a href="https://github.com/CedricMabilotte/comparatif-2027/blob/main/docs/SOURCES.md">liste complète des sources</a> et l'empreinte de chaque texte lu. Les textes intégraux ne sont pas republiés (droit d'auteur) mais un script les retélécharge pour refaire toutes les vérifications. Toute erreur peut être signalée et corrigée en public.</p>
     </div>
   </section>
+  <section class="vue" id="vie-privee" aria-label="Vie privée" hidden></section>
+  <section class="vue" id="a-propos" aria-label="À propos" hidden></section>
+  <section class="vue" id="mentions-legales" aria-label="Mentions légales" hidden></section>
+  <section class="vue" id="compte" aria-label="Mon espace" hidden></section>
+
+</main>
+
+<footer class="pied">
+  <span>© 2026 eozen · République des mots · textes et données sous licence <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr" rel="license">CC BY-SA 4.0</a> · code ouvert sur <a href="https://github.com/CedricMabilotte/comparatif-2027">GitHub</a></span>
+  <a href="#a-propos">À propos</a>
+  <a href="#mentions-legales">Mentions légales</a>
+  <a href="#vie-privee">Vie privée : aucun traceur</a>
+  <a href="#methode">Méthode</a>
+  <a href="#groupes">Animer une séance</a>
+</footer>
+
+<div class="voile" id="partage" hidden>
+  <div class="panneau" role="dialog" aria-modal="true" aria-labelledby="pt-titre">
+    <div class="panneau-tete"><h2 id="pt-titre">Partager</h2><button class="btn" id="pt-fermer">Fermer</button></div>
+    <fieldset class="reglages" id="pt-formats"><legend>Format de l'image</legend>
+      <label class="puce"><input type="radio" name="fmt" id="fmt-carre" value="carre" checked> Carré · Instagram, Facebook</label>
+      <label class="puce"><input type="radio" name="fmt" id="fmt-paysage" value="paysage"> Paysage · X, Bluesky, LinkedIn</label>
+      <label class="puce"><input type="radio" name="fmt" id="fmt-story" value="story"> Vertical · stories, WhatsApp</label>
+    </fieldset>
+    <div class="apercu"><img id="pt-image" alt="Image à partager"></div>
+    <p class="ref">Clic droit ou appui long sur l'image pour l'enregistrer.</p>
+    <label class="ref" for="pt-texte">Texte</label>
+    <textarea id="pt-texte" rows="4"></textarea>
+    <div class="choix">
+      <button class="btn principal" id="pt-envoyer" hidden>Envoyer depuis mon téléphone</button>
+      <button class="btn" id="pt-copier">Copier le texte et le lien</button>
+      <span class="ref" id="pt-etat" role="status"></span>
+    </div>
+    <div class="choix" id="pt-reseaux"></div>
+    <div id="pt-integrer" hidden>
+      <label class="ref" for="pt-code">Intégrer dans un article ou un site (une ligne de code)</label>
+      <textarea id="pt-code" rows="3" readonly></textarea>
+      <div class="choix"><button class="btn" id="pt-copier-code">Copier le code</button></div>
+    </div>
+  </div>
 </div>
 
-<script>
-(async function () {
-  const $ = (s) => document.querySelector(s);
-  const esc = (t) => String(t).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-  const lire = (k, d) => { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } };
-  const ecrire = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} };
+<div class="voile" id="fiche" hidden>
+  <div class="panneau large" role="dialog" aria-modal="true" aria-labelledby="fi-titre">
+    <div class="panneau-tete"><h2 id="fi-titre"></h2><button class="btn" id="fi-fermer">Fermer</button></div>
+    <div id="fi-corps"></div>
+  </div>
+</div>
 
-  let C;
-  try { C = await (await fetch("corpus.json")).json(); }
-  catch { $("#avert").textContent = "Les données n'ont pas pu être chargées. Rechargez la page."; return; }
+<div class="vie-privee" id="choix-vie-privee" role="dialog" aria-labelledby="vp-titre" hidden></div>
 
-  const cand = Object.fromEntries(C.candidatures.map((c) => [c.id, c]));
-  const nomConcept = Object.fromEntries(C.concepts.map((c) => [c.id, c.nom]));
-  const melange = (a) => a.map((v) => [Math.random(), v]).sort((x, y) => x[0] - y[0]).map((x) => x[1]);
-
-  // Onglets
-  const onglets = [...document.querySelectorAll('[role="tab"]')];
-  function ouvrir(id) {
-    onglets.forEach((t) => {
-      const actif = t.getAttribute("aria-controls") === id;
-      t.setAttribute("aria-selected", actif);
-      document.getElementById(t.getAttribute("aria-controls")).hidden = !actif;
-    });
-    ecrire("onglet", id);
-  }
-  onglets.forEach((t) => t.addEventListener("click", () => ouvrir(t.getAttribute("aria-controls"))));
-  const depuisLien = location.hash.slice(1);
-  ouvrir(onglets.some((t) => t.getAttribute("aria-controls") === depuisLien) ? depuisLien : lire("onglet", "matrice"));
-
-  // Matrice
-  const etat = { cands: new Set(C.candidatures.map((c) => c.id)), axe: "themes", mot: null };
-  const fCand = $("#f-cand");
-  C.candidatures.forEach((c) => {
-    const l = document.createElement("label");
-    l.className = "puce"; l.dataset.actif = "true";
-    l.innerHTML = `<input type="checkbox" id="c-${c.id}" checked> <span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}`;
-    l.querySelector("input").addEventListener("change", (e) => {
-      e.target.checked ? etat.cands.add(c.id) : etat.cands.delete(c.id);
-      l.dataset.actif = e.target.checked; dessinerMatrice();
-    });
-    fCand.appendChild(l);
-  });
-  document.querySelectorAll('input[name="axe"]').forEach((r) => r.addEventListener("change", (e) => { etat.axe = e.target.value; dessinerMatrice(); }));
-
-  function ficheHTML(p, avecMots = true) {
-    const mots = avecMots ? `<div class="mots">${p.concepts.map((k) => `<button class="mot" data-mot="${k}" data-actif="${etat.mot === k}">${esc(nomConcept[k])}</button>`).join("")}</div>` : "";
-    return `<blockquote class="prop"><p>${esc(p.citation)}</p><span class="ref">${esc(p.source.titre)} · p. ${p.source.page} · ${p.source.date}</span>${mots}</blockquote>`;
-  }
-
-  function dessinerMatrice() {
-    const cols = C.candidatures.filter((c) => etat.cands.has(c.id));
-    const lignes = etat.axe === "themes" ? C.themes : C.concepts;
-    const t = $("#tab-matrice");
-    if (!cols.length) { t.innerHTML = `<tbody><tr><td class="vide">Cochez au moins une candidature.</td></tr></tbody>`; return; }
-    let h = `<thead><tr><th scope="col">${etat.axe === "themes" ? "Thème" : "Concept"}</th>${cols.map((c) => `<th scope="col"><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</th>`).join("")}</tr></thead><tbody>`;
-    for (const l of lignes) {
-      h += `<tr><th scope="row">${esc(l.nom)}</th>`;
-      for (const c of cols) {
-        const ps = C.propositions.filter((p) => p.candidature === c.id && (etat.axe === "themes" ? p.theme === l.id : p.concepts.includes(l.id)));
-        h += `<td><div class="cellule">${ps.length ? ps.map((p) => ficheHTML(p)).join("") : `<span class="vide">Rien dans la source.</span>`}</div></td>`;
-      }
-      h += "</tr>";
-    }
-    t.innerHTML = h + "</tbody>";
-  }
-  $("#tab-matrice").addEventListener("click", (e) => {
-    const b = e.target.closest(".mot"); if (!b) return;
-    etat.mot = etat.mot === b.dataset.mot ? null : b.dataset.mot; dessinerMatrice();
-  });
-  dessinerMatrice();
-
-  // Lexique
-  let conceptActif = C.concepts[0].id;
-  function dessinerLexique() {
-    $("#lex-liste").innerHTML = C.concepts.map((k) => {
-      const n = C.propositions.filter((p) => p.concepts.includes(k.id)).length;
-      return `<button aria-pressed="${k.id === conceptActif}" data-k="${k.id}">${esc(k.nom)} <span class="n">${n}</span></button>`;
-    }).join("");
-    const max = Math.max(1, ...C.candidatures.map((c) => C.propositions.filter((p) => p.candidature === c.id && p.concepts.includes(conceptActif)).length));
-    $("#lex-cols").innerHTML = C.candidatures.map((c) => {
-      const ps = C.propositions.filter((p) => p.candidature === c.id && p.concepts.includes(conceptActif));
-      return `<article class="carte"><h3><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</h3>
-        <p class="def">${esc(C.lexique[conceptActif]?.[c.id] ?? "Pas encore analysé.")}</p>
-        <div class="jauge"><span class="barre"><i style="width:${(ps.length / max) * 100}%"></i></span><span>${ps.length} proposition${ps.length > 1 ? "s" : ""}</span></div>
-        ${ps.map((p) => ficheHTML(p, false)).join("")}</article>`;
-    }).join("");
-  }
-  $("#lex-liste").addEventListener("click", (e) => { const b = e.target.closest("button"); if (b) { conceptActif = b.dataset.k; dessinerLexique(); } });
-  dessinerLexique();
-
-  // Vote à l'aveugle
-  const votes = lire("votes", {});
-  let fileVote = melange(C.propositions.filter((p) => !votes[p.id]));
-  function dessinerVote(revele) {
-    const s = $("#scene-aveugle");
-    const fait = Object.keys(votes).length;
-    if (!fileVote.length) {
-      s.innerHTML = `<p class="compteur">${fait} / ${C.propositions.length} propositions jugées</p><p class="citation">Vous avez jugé toutes les propositions.</p><div class="choix"><button class="btn" id="raz">Recommencer</button></div>`;
-      $("#raz").onclick = () => { for (const k in votes) delete votes[k]; ecrire("votes", votes); fileVote = melange(C.propositions.slice()); dessinerVote(); dessinerBilan(); };
-      return;
-    }
-    const p = fileVote[0];
-    s.innerHTML = `<p class="compteur">Proposition ${fait + 1} sur ${C.propositions.length}</p>
-      <p class="citation">« ${esc(p.citation)} »</p>
-      ${revele ? `<div class="revelation"><p>Vous avez voté <strong>${{ pour: "pour", partage: "partagé", contre: "contre" }[votes[p.id]]}</strong>. Cette proposition vient de <span class="sigle">${esc(cand[p.candidature].sigle)}</span> <strong>${esc(cand[p.candidature].nom)}</strong>.</p><span class="ref">${esc(p.source.titre)} · p. ${p.source.page}</span><div class="choix"><button class="btn principal" id="suivante">Proposition suivante</button></div></div>`
-      : `<div class="choix"><button class="btn pour" data-v="pour">Pour</button><button class="btn partage" data-v="partage">Partagé</button><button class="btn contre" data-v="contre">Contre</button></div>`}`;
-    if (revele) $("#suivante").onclick = () => { fileVote.shift(); dessinerVote(); };
-    else s.querySelectorAll("[data-v]").forEach((b) => b.onclick = () => { votes[p.id] = b.dataset.v; ecrire("votes", votes); dessinerVote(true); dessinerBilan(); });
-  }
-  function dessinerBilan() {
-    const lignes = C.candidatures.map((c) => {
-      const v = C.propositions.filter((p) => p.candidature === c.id && votes[p.id]).map((p) => votes[p.id]);
-      const n = v.length || 1, f = (x) => (v.filter((y) => y === x).length / n) * 100;
-      return `<div class="bilan-ligne"><span><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</span>
-        <span class="empile" role="img" aria-label="${v.filter((y) => y === "pour").length} pour, ${v.filter((y) => y === "partage").length} partagé, ${v.filter((y) => y === "contre").length} contre">
-        <i style="width:${f("pour")}%;background:var(--pour)"></i><i style="width:${f("partage")}%;background:var(--partage)"></i><i style="width:${f("contre")}%;background:var(--contre)"></i></span>
-        <span class="ref">${v.length} jugée${v.length > 1 ? "s" : ""}</span></div>`;
-    }).join("");
-    $("#bilan").innerHTML = Object.keys(votes).length ? lignes : `<p class="aide">Votez sur une première proposition pour voir apparaître votre bilan.</p>`;
-  }
-  dessinerVote(); dessinerBilan();
-
-  // Quiz
-  let q;
-  function nouveauQuiz() { q = { liste: melange(C.propositions.slice()).slice(0, 10), i: 0, score: 0, repondu: null }; dessinerQuiz(); }
-  function dessinerQuiz() {
-    const s = $("#scene-quiz");
-    if (q.i >= q.liste.length) {
-      const record = Math.max(lire("record", 0), q.score); ecrire("record", record);
-      s.innerHTML = `<p class="compteur">Terminé</p><p class="citation">${q.score} bonne${q.score > 1 ? "s" : ""} réponse${q.score > 1 ? "s" : ""} sur ${q.liste.length}.</p><p class="aide">Votre meilleur score : ${record} / 10.</p><div class="choix"><button class="btn principal" id="rejouer">Rejouer</button></div>`;
-      $("#rejouer").onclick = nouveauQuiz; return;
-    }
-    const p = q.liste[q.i];
-    s.innerHTML = `<p class="compteur">Question ${q.i + 1} sur ${q.liste.length} · score ${q.score}</p><p class="citation">« ${esc(p.citation)} »</p>
-      <div class="choix">${C.candidatures.map((c) => {
-        let cl = "btn";
-        if (q.repondu) cl += c.id === p.candidature ? " juste" : c.id === q.repondu ? " faux" : "";
-        return `<button class="${cl}" data-c="${c.id}" ${q.repondu ? "disabled" : ""}><span class="sigle">${esc(c.sigle)}</span> ${esc(c.nom)}</button>`;
-      }).join("")}</div>
-      ${q.repondu ? `<div class="revelation"><p>${q.repondu === p.candidature ? "Bonne réponse." : `C'était ${esc(cand[p.candidature].nom)}.`} Concepts mobilisés : ${p.concepts.map((k) => esc(nomConcept[k])).join(", ")}.</p><div class="choix"><button class="btn principal" id="q-suite">${q.i + 1 < q.liste.length ? "Question suivante" : "Voir le score"}</button></div></div>` : ""}`;
-    if (q.repondu) $("#q-suite").onclick = () => { q.i++; q.repondu = null; dessinerQuiz(); };
-    else s.querySelectorAll("[data-c]").forEach((b) => b.onclick = () => { q.repondu = b.dataset.c; if (q.repondu === p.candidature) q.score++; dessinerQuiz(); });
-  }
-  nouveauQuiz();
-})();
-</script>
+<script src="consensus.js" defer></script>
+<script src="js/noyau.js" defer></script>
+<script src="js/accueil.js" defer></script>
+<script src="js/matrice.js" defer></script>
+<script src="js/concepts.js" defer></script>
+<script src="js/vocabulaire.js" defer></script>
+<script src="js/partis.js" defer></script>
+<script src="js/jeux.js" defer></script>
+<script src="js/consensus-vue.js" defer></script>
+<script src="js/groupes.js" defer></script>
+<script src="js/participer.js" defer></script>
+<script src="js/compte.js" defer></script>
+<script src="js/demarrer.js" defer></script>
+</html>

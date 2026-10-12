@@ -1,0 +1,153 @@
+{
+ "pf3dda90b": {
+  "concepts": [
+   "securite",
+   "ordre"
+  ],
+  "intitule": "Créer un « état d'urgence narco » avec moyens d'exception et reconnaissance faciale",
+  "motif": "concepts ; intitulé complété (moyens d'exception)"
+ },
+ "pd2af7628": {
+  "concepts": [
+   "justice",
+   "securite"
+  ],
+  "motif": "concept securite"
+ },
+ "p270cd846": {
+  "concepts": [
+   "securite"
+  ],
+  "motif": "concept"
+ },
+ "p0bd87e85": {
+  "concepts": [
+   "securite"
+  ],
+  "intitule": "Créer une « fiche S financière » pour les condamnés pour narcotrafic",
+  "motif": "concept ; intitulé précisé"
+ },
+ "pb1abb588": {
+  "concepts": [
+   "justice",
+   "securite"
+  ],
+  "intitule": "Lever l'excuse de minorité et créer la comparution immédiate des mineurs (narcotrafic)",
+  "motif": "concepts ; intitulé fidèle (création de la comparution immédiate)"
+ },
+ "pef53440a": {
+  "intitule": "Créer des établissements de réinsertion et accorder plus de moyens à la PJJ",
+  "motif": "intitulé fidèle"
+ },
+ "p08ddff45": {
+  "concepts": [
+   "ordre",
+   "securite"
+  ],
+  "intitule": "Donner aux maires le pouvoir de sanctionner l'usage de stupéfiants et de fermeture administrative",
+  "motif": "concepts ; intitulé complété"
+ },
+ "p968069d6": {
+  "concepts": [
+   "ordre",
+   "securite"
+  ],
+  "intitule": "Étendre les opérations « place nette » aux boîtes de nuit et festivals",
+  "motif": "concepts ; intitulé avec verbe"
+ },
+ "p414f25ff": {
+  "concepts": [
+   "securite"
+  ],
+  "motif": "concept"
+ },
+ "ped08b089": {
+  "theme": "securite",
+  "concepts": [
+   "securite"
+  ],
+  "motif": "mesure du plan anti-narcotrafic : thème securite"
+ },
+ "p2514e3e2": {
+  "concepts": [
+   "justice"
+  ],
+  "intitule": "Permettre le recouvrement forcé des amendes sur les prestations sociales",
+  "motif": "concept ; intitulé fidèle"
+ },
+ "p3d9e8624": {
+  "concepts": [
+   "securite"
+  ],
+  "intitule": "Renforcer les moyens de contrôle des ports et aéroports",
+  "motif": "concept ; intitulé fidèle (pas de « plan »)"
+ },
+ "p2cc69c75": {
+  "theme": "securite",
+  "concepts": [
+   "securite"
+  ],
+  "intitule": "Étendre l'opération Harpie au narcotrafic et créer « Harpie maritime » aux Antilles",
+  "motif": "lutte contre la drogue : thème securite ; souverainete retiré"
+ },
+ "pf41d3a93": {
+  "exclure": true,
+  "motif": "doublon de p2cc69c75 (Harpie maritime), moins complet"
+ },
+ "p2bf63828": {
+  "concepts": [
+   "transition"
+  ],
+  "motif": "progres absent de la citation"
+ },
+ "p8a131c17": {
+  "concepts": [
+   "laicite",
+   "liberte"
+  ],
+  "intitule": "Combattre les « ennemis de la laïcité »",
+  "motif": "vocabulaire de la formation ; concept liberte"
+ },
+ "pb51eda87": {
+  "exclure": true,
+  "motif": "formule générale sans contenu (stratégie globale de compétitivité et de puissance)"
+ },
+ "pa7cbf92a": {
+  "intitule": "Construire un État « moins dispendieux » et recentré sur ses missions essentielles",
+  "motif": "intitulé fidèle à la citation"
+ },
+ "pa830efd8": {
+  "concepts": [
+   "liberte",
+   "laicite"
+  ],
+  "motif": "concept laicite (liberté de croire dans le cadre de la laïcité)"
+ },
+ "pae63142d": {
+  "intitule": "Faire de la revalorisation du travail la contrepartie de la solidarité nationale",
+  "motif": "intitulé fidèle"
+ },
+ "p5352251e": {
+  "concepts": [
+   "ordre",
+   "souverainete"
+  ],
+  "intitule": "Rétablir « l'ordre » dans les comptes publics et dans la rue",
+  "motif": "citation couvre aussi l'ordre dans la rue ; indépendance nationale"
+ },
+ "p0abd488c": {
+  "intitule": "Combattre les « partisans de la décroissance »",
+  "concepts": [
+   "transition"
+  ],
+  "motif": "vocabulaire de la formation ; concept"
+ },
+ "p0914c595": {
+  "intitule": "Combattre « l'illusion de l'argent public magique » qui pèse sur les générations futures",
+  "motif": "vocabulaire de la formation"
+ },
+ "p9352c637": {
+  "intitule": "Rejeter l'accueil sans limite comme des « frontières étanches »",
+  "motif": "intitulé fidèle"
+ }
+}

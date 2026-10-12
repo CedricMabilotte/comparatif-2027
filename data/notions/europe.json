@@ -1,0 +1,2463 @@
+[
+ {
+  "id": "sortie-des-traites",
+  "nom": "Sortie des traités européens (plan A, plan B)",
+  "variantes": [
+   "plan A / plan B",
+   "désobéissance aux traités",
+   "sortie concertée des traités"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "europe",
+  "definition": "La stratégie dite « plan A, plan B » désigne une démarche en deux temps à l’égard des traités de l’Union européenne : renégocier collectivement les règles communes, puis, en cas d’échec, s’en affranchir unilatéralement. Elle s’accompagne de l’idée de « désobéissance » : appliquer un programme national même lorsqu’il contrevient à une règle européenne. Les traités ne prévoient qu’une procédure de sortie, le retrait volontaire de l’article 50 du traité sur l’Union européenne, introduit par le traité de Lisbonne. Ils ne prévoient pas de dispense partielle décidée par un seul État, ce qui exposerait celui-ci à des recours en manquement devant la Cour de justice de l’Union.",
+  "enjeux": "Ses partisans y voient le moyen de rendre possible une politique budgétaire, sociale et écologique qu’ils jugent empêchée par les règles actuelles, et un levier de négociation face aux autres États. Ses opposants y voient un risque de rupture avec les partenaires européens, d’instabilité financière et de sanctions juridiques. Le débat porte aussi sur la place du référendum pour valider une telle démarche.",
+  "reperes": [
+   "Article 50 du traité sur l’Union européenne (procédure de retrait)",
+   "Le Royaume-Uni est le seul État à avoir quitté l’Union, le 31 janvier 2020"
+  ],
+  "liens": [
+   "referendum-sur-les-traites",
+   "pacte-de-stabilite",
+   "primaute-du-droit-europeen"
+  ],
+  "motifs": [
+   "plan A",
+   "plan B",
+   "sortie des traités",
+   "sortie concertée des traités",
+   "désobéir aux traités",
+   "sortie des traités européens unilatérale"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme prévoit un « plan A » de sortie concertée des traités européens, par l’abandon des règles existantes pour les pays volontaires, puis un « plan B » de sortie unilatérale par la France. Il annonce appliquer le programme « même quand il oblige à désobéir aux traités européens ».",
+    "appuis": [
+     "pe45e459f",
+     "pa1a10f41",
+     "p7c435e3a"
+    ]
+   }
+  }
+ },
+ {
+  "id": "primaute-du-droit-europeen",
+  "nom": "Primauté du droit européen",
+  "variantes": [
+   "primauté du droit de l’Union",
+   "identité constitutionnelle",
+   "supériorité de la Constitution"
+  ],
+  "categorie": "notion juridique",
+  "theme": "europe",
+  "definition": "La primauté est le principe selon lequel le droit de l’Union européenne l’emporte sur le droit national contraire, y compris législatif. Elle a été dégagée par la Cour de justice des Communautés européennes en 1964 dans l’arrêt Costa contre ENEL, et n’est pas écrite dans les traités eux-mêmes. En France, les juridictions l’ont reconnue face aux lois, mais le Conseil constitutionnel réserve, depuis une décision de 2006, les règles ou principes « inhérents à l’identité constitutionnelle de la France ». Le débat touche aussi la Convention européenne des droits de l’homme, traité du Conseil de l’Europe distinct de l’Union, dont la France est partie.",
+  "enjeux": "Les partisans d’un rééquilibrage veulent inscrire dans la Constitution la supériorité de celle-ci sur le droit européen et international, pour pouvoir écarter des décisions jugées contraires aux choix nationaux, notamment en matière migratoire. Leurs opposants estiment qu’une telle réforme reviendrait à sortir de fait de l’ordre juridique européen et fragiliserait l’application uniforme des règles communes, sur laquelle repose le marché unique.",
+  "reperes": [
+   "Arrêt Costa contre ENEL, Cour de justice, 1964",
+   "Conseil d’État, arrêt Nicolo, 1989",
+   "Convention européenne des droits de l’homme, signée en 1950, ratifiée par la France en 1974"
+  ],
+  "liens": [
+   "subsidiarite",
+   "referendum-sur-les-traites",
+   "sortie-des-traites",
+   "primaute-de-la-constitution"
+  ],
+  "motifs": [
+   "primauté",
+   "identité constitutionnelle",
+   "prévale sur le droit international",
+   "Convention européenne de sauvegarde des droits de l'homme",
+   "Convention européenne des droits de l'homme",
+   "Cour européenne des droits de l'homme",
+   "CEDH"
+  ],
+  "positions": {
+   "rn": {
+    "texte": "Le programme prévoit d’ajouter une « condition constitutionnelle » à l’appartenance de la France à l’Union européenne : le respect de son « identité constitutionnelle » et de ses intérêts nationaux essentiels. Il écarte un retrait de la Convention européenne des droits de l’homme mais veut que la Constitution française prévale sur le droit international.",
+    "appuis": [
+     "p3ebf2f5c",
+     "p29329c55",
+     "pa37a0751"
+    ]
+   }
+  }
+ },
+ {
+  "id": "subsidiarite",
+  "nom": "Subsidiarité et répartition des compétences",
+  "variantes": [
+   "principe de subsidiarité",
+   "transfert de compétences",
+   "carton jaune",
+   "carton rouge"
+  ],
+  "categorie": "notion juridique",
+  "theme": "europe",
+  "definition": "Le principe de subsidiarité veut que l’Union n’intervienne, dans les domaines qui ne relèvent pas de sa compétence exclusive, que si l’objectif visé ne peut pas être atteint de manière suffisante par les États membres. Il est inscrit à l’article 5 du traité sur l’Union européenne, à côté du principe d’attribution, selon lequel l’Union n’agit que dans les limites des compétences que les traités lui confèrent. Les parlements nationaux peuvent contester un projet de texte au nom de la subsidiarité par des avis motivés (mécanismes dits du « carton jaune » et du « carton orange »). Le recours à la Cour de justice permet aussi de contester un acte adopté hors compétence.",
+  "enjeux": "Une partie des forces politiques demande que l’Union se limite à moins de domaines et que les parlements nationaux puissent bloquer un texte, par un « carton rouge ». D’autres demandent au contraire de clarifier les compétences pour en transférer davantage à l’échelon européen, notamment en défense ou en fiscalité. La défense et la diplomatie restent aujourd’hui largement intergouvernementales.",
+  "reperes": [
+   "Article 5 du traité sur l’Union européenne",
+   "Protocole n° 2 sur l’application des principes de subsidiarité et de proportionnalité"
+  ],
+  "liens": [
+   "primaute-du-droit-europeen",
+   "surtransposition",
+   "vote-a-la-majorite-qualifiee"
+  ],
+  "motifs": [
+   "subsidiarité",
+   "transfert de compétences",
+   "répartition des compétences",
+   "excédera ses compétences",
+   "carton rouge"
+  ],
+  "positions": {
+   "horizons": {
+    "texte": "Le programme porte « l’exigence d’une Europe plus respectueuse du principe de subsidiarité » et des « choix fondamentaux du peuple français ».",
+    "appuis": [
+     "p6590b739"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de saisir la Cour de justice de l’Union européenne lorsque la Commission « excédera ses compétences ».",
+    "appuis": [
+     "pb6d2cda1"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme cite le mécanisme de « carton rouge » qui permettrait aux parlements nationaux de bloquer un texte européen.",
+    "appuis": [
+     "p37cd2084"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un « contrat de souveraineté » clarifiant la répartition des compétences entre les échelons européen, national, régional et local.",
+    "appuis": [
+     "padc7fe48"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme refuse tout transfert de compétences vers l’Union européenne dans les domaines de la défense et de la diplomatie.",
+    "appuis": [
+     "pa3b703be"
+    ]
+   }
+  }
+ },
+ {
+  "id": "surtransposition",
+  "nom": "Surtransposition",
+  "variantes": [
+   "sur-transposition",
+   "gold-plating"
+  ],
+  "categorie": "notion juridique",
+  "theme": "europe",
+  "definition": "Une directive européenne fixe un résultat à atteindre et laisse aux États le choix des moyens : elle doit être « transposée » dans le droit national. On parle de surtransposition lorsque l’État ajoute, à cette occasion, des obligations plus strictes que celles exigées par la directive. Cette pratique est licite, la plupart des directives fixant des exigences minimales. Elle fait l’objet en France de rapports et de circulaires visant à la limiter depuis la fin des années 2010.",
+  "enjeux": "Ses critiques y voient une source de complexité administrative et de désavantage de compétitivité pour les entreprises et les agriculteurs français, face à des concurrents européens soumis aux seules règles minimales. Ses défenseurs font valoir qu’elle permet à un État d’aller plus loin en matière de protection de l’environnement, de la santé ou des travailleurs.",
+  "reperes": [
+   "Une directive lie les États quant au résultat à atteindre (article 288 du traité sur le fonctionnement de l’Union européenne)"
+  ],
+  "liens": [
+   "subsidiarite",
+   "droit-europeen-de-la-concurrence",
+   "simplification-administrative"
+  ],
+  "motifs": [
+   "surtransposition",
+   "sur-transposition*",
+   "jamais plus que ce que l'Europe exige"
+  ],
+  "positions": {
+   "lr": {
+    "texte": "Le programme prévoit d’interdire par une loi organique « toute sur-transposition française des directives européennes », y compris en agriculture, selon le principe que la France « n’imposera jamais plus que ce que l’Europe exige ».",
+    "appuis": [
+     "pa4150f46",
+     "p68f2eb0f",
+     "pe343bac3"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de mettre fin à la surtransposition des règles européennes dans le droit français, notamment pour le secteur des cryptomonnaies.",
+    "appuis": [
+     "p1bc20f93",
+     "p28b808c8"
+    ]
+   }
+  }
+ },
+ {
+  "id": "vote-a-la-majorite-qualifiee",
+  "nom": "Vote à la majorité qualifiée",
+  "variantes": [
+   "majorité qualifiée",
+   "fin de l’unanimité",
+   "droit de veto national"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "europe",
+  "definition": "Au Conseil de l’Union européenne, la plupart des textes sont adoptés à la majorité qualifiée, qui exige depuis le traité de Lisbonne une double majorité : 55 % des États membres représentant au moins 65 % de la population de l’Union. Certains domaines restent soumis à l’unanimité, qui donne à chaque État un droit de veto : fiscalité, politique étrangère et de sécurité commune, adhésion de nouveaux membres, budget pluriannuel. Les traités contiennent des « clauses passerelles » permettant de passer de l’unanimité à la majorité qualifiée, mais leur activation exige elle-même l’unanimité.",
+  "enjeux": "Ses partisans estiment que l’unanimité paralyse l’Union à vingt-sept, en particulier en fiscalité et en politique étrangère, et qu’elle permet à un seul gouvernement de bloquer une décision. Ses opposants y voient une garantie de souveraineté pour chaque État sur les sujets les plus sensibles. La question se pose avec plus d’acuité dans la perspective de nouveaux élargissements.",
+  "reperes": [
+   "Double majorité de 55 % des États et 65 % de la population, en vigueur depuis 2014"
+  ],
+  "liens": [
+   "elargissement-de-l-union",
+   "subsidiarite",
+   "budget-europeen"
+  ],
+  "motifs": [
+   "majorité qualifiée au conseil",
+   "majorité qualifiée au Conseil européen",
+   "droits de veto nationaux",
+   "unanimité",
+   "accord unanime des 27"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de remplacer les droits de veto nationaux par la majorité qualifiée en matière de droits fondamentaux, de protection sociale, d’intégration fiscale et de politique étrangère et de sécurité commune.",
+    "appuis": [
+     "p32b172b4"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de passer au vote à la majorité qualifiée au Conseil pour les questions fiscales.",
+    "appuis": [
+     "p20e091e3"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit un « traité de réunification européenne » qui ferait passer le Conseil européen à la majorité qualifiée.",
+    "appuis": [
+     "pfc629376"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme propose des investissements communs menés par « les pays membres les plus déterminés, sans attendre l’accord unanime des 27 ».",
+    "appuis": [
+     "pe7ab08c6"
+    ]
+   }
+  }
+ },
+ {
+  "id": "elargissement-de-l-union",
+  "nom": "Élargissement de l’Union européenne",
+  "variantes": [
+   "adhésion",
+   "pays candidats",
+   "processus d’adhésion"
+  ],
+  "categorie": "politique publique",
+  "theme": "europe",
+  "definition": "L’élargissement désigne l’entrée de nouveaux États dans l’Union européenne, passée de six membres fondateurs en 1957 à vingt-sept aujourd’hui. Un pays candidat doit remplir les critères dits de Copenhague, définis en 1993 : institutions démocratiques stables, économie de marché viable et capacité à reprendre l’acquis communautaire. L’adhésion exige l’unanimité des États membres et la ratification par chacun d’eux. En France, l’article 88-5 de la Constitution soumet la ratification d’un traité d’adhésion au référendum, sauf vote du Parlement réuni en Congrès à la majorité des trois cinquièmes.",
+  "enjeux": "Ses partisans y voient un impératif géopolitique, notamment pour l’Ukraine, la Moldavie et les Balkans occidentaux depuis la guerre en Ukraine. Ses opposants ou les partisans d’un rythme prudent mettent en avant le coût pour la politique agricole commune et les fonds de cohésion, le risque de concurrence sociale et la nécessité de réformer d’abord les institutions. La candidature de la Turquie, ouverte en 1999, est de fait gelée.",
+  "reperes": [
+   "Critères de Copenhague, 1993",
+   "L’Ukraine et la Moldavie ont obtenu le statut de candidat en juin 2022",
+   "Article 88-5 de la Constitution"
+  ],
+  "liens": [
+   "referendum-sur-les-traites",
+   "politique-agricole-commune",
+   "soutien-a-l-ukraine",
+   "vote-a-la-majorite-qualifiee"
+  ],
+  "motifs": [
+   "élargissement de l'Union*",
+   "nouvel élargissement",
+   "négociations d'adhésion",
+   "adhésion graduelle",
+   "processus d'adhésion"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme soutient « l’adhésion graduelle » de l’Islande, des Balkans occidentaux, de la Moldavie et de l’Ukraine, en tenant compte des conséquences sur la politique agricole commune.",
+    "appuis": [
+     "p6ed7dd72",
+     "p31c758b8"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme refuse tout nouvel élargissement sans harmonisation sociale, fiscale et environnementale préalable.",
+    "appuis": [
+     "p2755d7db"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de mettre « définitivement fin au processus d’adhésion de la Turquie » et s’oppose à l’intégration de l’Ukraine au marché agricole européen.",
+    "appuis": [
+     "p66804ea2",
+     "pa77f46c0"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose un référendum obligatoire pour tout élargissement de l’Union européenne.",
+    "appuis": [
+     "pc95efc63"
+    ]
+   }
+  }
+ },
+ {
+  "id": "referendum-sur-les-traites",
+  "nom": "Référendum sur les traités européens",
+  "variantes": [
+   "référendum européen",
+   "ratification par référendum"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "europe",
+  "definition": "Un traité européen est ratifié en France soit par le Parlement, soit par référendum, au choix du président de la République selon l’article 11 de la Constitution. Les Français se sont prononcés par référendum sur l’élargissement de 1972, sur le traité de Maastricht en 1992 et sur le traité établissant une Constitution pour l’Europe en 2005. Ce dernier a été rejeté, puis l’essentiel de son contenu a été repris dans le traité de Lisbonne, ratifié par voie parlementaire en 2008. Seule l’adhésion de nouveaux États fait aujourd’hui l’objet d’une procédure référendaire de principe (article 88-5).",
+  "enjeux": "Les partisans d’un référendum obligatoire estiment que les transferts de souveraineté exigent l’accord direct du peuple, et invoquent la ratification du traité de Lisbonne après le « non » de 2005. Leurs contradicteurs rappellent que la ratification parlementaire est tout aussi constitutionnelle et que la complexité des traités se prête mal à une réponse par oui ou par non.",
+  "reperes": [
+   "Référendum du 20 septembre 1992 sur le traité de Maastricht, adopté",
+   "Référendum du 29 mai 2005, rejet du traité constitutionnel par 54,7 % des suffrages exprimés"
+  ],
+  "liens": [
+   "sortie-des-traites",
+   "elargissement-de-l-union",
+   "primaute-du-droit-europeen"
+  ],
+  "motifs": [
+   "ratification de traité européen",
+   "adoption d'un nouveau traité européen",
+   "décision du peuple français par référendum"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme prévoit l’obligation de recourir au référendum pour l’adoption d’un nouveau traité européen, et soumet sa stratégie de sortie des traités à une « décision du peuple français par référendum ».",
+    "appuis": [
+     "pe1d250b1",
+     "pa8bde302"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose un référendum obligatoire pour toute ratification de traité européen ou élargissement de l’Union.",
+    "appuis": [
+     "pc95efc63"
+    ]
+   }
+  }
+ },
+ {
+  "id": "budget-europeen",
+  "nom": "Budget européen et ressources propres",
+  "variantes": [
+   "cadre financier pluriannuel",
+   "contribution de la France",
+   "ressources propres"
+  ],
+  "categorie": "politique publique",
+  "theme": "europe",
+  "definition": "Le budget de l’Union est encadré par un cadre financier pluriannuel de sept ans, adopté à l’unanimité, qui représente environ 1 % du revenu national brut de l’Union. Il est financé principalement par des contributions des États calculées sur leur revenu national brut, et par des « ressources propres » : droits de douane, part de TVA, contribution sur les emballages plastiques non recyclés. La France est l’un des principaux contributeurs nets, c’est-à-dire qu’elle verse plus qu’elle ne reçoit. La création de nouvelles ressources propres, comme une part des recettes du mécanisme d’ajustement carbone aux frontières, est en discussion.",
+  "enjeux": "Une partie des forces politiques veut augmenter fortement ce budget et le doter d’impôts européens pour financer la transition, la défense ou l’industrie. D’autres veulent réduire la contribution française, jugée trop élevée au regard des retours, ou la suspendre comme moyen de pression. Le débat oppose aussi l’impôt européen à la logique du « juste retour » national.",
+  "reperes": [
+   "Cadre financier pluriannuel 2021-2027",
+   "Décision relative au système des ressources propres, adoptée à l’unanimité et ratifiée par les États"
+  ],
+  "liens": [
+   "emprunt-commun",
+   "mecanisme-d-ajustement-carbone-aux-frontieres",
+   "politique-agricole-commune"
+  ],
+  "motifs": [
+   "budget de l'Union*",
+   "budget communautaire",
+   "contribution de la France à l'UE",
+   "contribution française au budget*",
+   "ressources propres",
+   "ressources fiscales propres",
+   "moyens budgétaires de l'Union*"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de porter le budget de l’Union à 2 % du PIB européen en 2035 et 5 % en 2050, financé par des ressources propres dont le mécanisme d’ajustement carbone aux frontières et une taxation des grandes entreprises technologiques.",
+    "appuis": [
+     "pa7aace35",
+     "p3958f88e"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de taxer les plus riches au niveau européen pour accroître les ressources propres, et prévoit de « bloquer la contribution française » au budget de l’Union et au plan de relance européen.",
+    "appuis": [
+     "p92728d12",
+     "p40fdb586"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’augmenter « massivement » le budget de l’Union et de lui attribuer de nouvelles ressources propres.",
+    "appuis": [
+     "pa091a097"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit une baisse de la contribution de la France à l’Union européenne.",
+    "appuis": [
+     "p1517adcd"
+    ]
+   }
+  }
+ },
+ {
+  "id": "emprunt-commun",
+  "nom": "Emprunt commun européen",
+  "variantes": [
+   "dette commune",
+   "eurobonds",
+   "plan de relance européen"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "europe",
+  "definition": "L’emprunt commun consiste pour l’Union européenne à lever des fonds sur les marchés en son nom propre, garantis par son budget, puis à les redistribuer aux États sous forme de subventions ou de prêts. Le précédent principal est le plan de relance NextGenerationEU, décidé en 2020 après la pandémie de Covid-19, d’environ 750 milliards d’euros, dont le remboursement doit s’étaler jusqu’en 2058. Un instrument de prêts aux États pour l’achat d’armement, appelé SAFE et doté de 150 milliards d’euros, a été adopté en mai 2025. L’endettement commun reste encadré par les traités, qui interdisent à l’Union de financer ses dépenses ordinaires par l’emprunt.",
+  "enjeux": "Ses partisans y voient le moyen de financer des investissements de long terme (climat, défense, industrie) à un coût plus faible et sans peser sur les budgets nationaux. Ses opposants craignent une mutualisation des dettes qui ferait payer les États les plus rigoureux, et un pas vers le fédéralisme budgétaire. La question du remboursement, par de nouvelles ressources propres ou par les contributions nationales, reste ouverte.",
+  "reperes": [
+   "NextGenerationEU, plan adopté en 2020",
+   "Instrument SAFE de prêts pour la défense, mai 2025"
+  ],
+  "liens": [
+   "budget-europeen",
+   "defense-europeenne",
+   "pacte-de-stabilite"
+  ],
+  "motifs": [
+   "emprunt commun",
+   "plan de relance européen",
+   "dette commune"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de créer un emprunt commun pour des investissements de long terme.",
+    "appuis": [
+     "pfb6d9e61"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de bloquer la contribution française au plan de relance européen adossé au budget de l’Union.",
+    "appuis": [
+     "p40fdb586"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un fonds européen de défense de 500 milliards d’euros financé par un emprunt commun.",
+    "appuis": [
+     "p37bc7877"
+    ]
+   }
+  }
+ },
+ {
+  "id": "pacte-de-stabilite",
+  "nom": "Pacte de stabilité et règles budgétaires européennes",
+  "variantes": [
+   "pacte de stabilité et de croissance",
+   "TSCG",
+   "pacte budgétaire",
+   "critères de Maastricht",
+   "règle d’or"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "europe",
+  "definition": "Le pacte de stabilité et de croissance, adopté en 1997, encadre les finances publiques des États membres autour de deux références issues du traité de Maastricht : un déficit public inférieur à 3 % du PIB et une dette inférieure à 60 % du PIB. Le traité sur la stabilité, la coordination et la gouvernance (TSCG), dit « pacte budgétaire », signé en 2012, y a ajouté une règle d’équilibre structurel. Un État en déficit excessif fait l’objet d’une procédure de la Commission et du Conseil, pouvant en théorie aller jusqu’à des sanctions financières. Le cadre a été réformé en 2024 autour de trajectoires de dépenses pluriannuelles négociées avec chaque État.",
+  "enjeux": "Ses critiques estiment que ces règles imposent l’austérité et freinent les investissements nécessaires à la transition écologique ; ils proposent d’exclure ces investissements du calcul du déficit (« règle verte ») ou d’abandonner le pacte. Ses défenseurs y voient une garantie de crédibilité de l’euro et une protection contre l’endettement excessif d’un État qui pèserait sur les autres.",
+  "reperes": [
+   "Pacte de stabilité et de croissance, 1997",
+   "TSCG signé en 2012",
+   "Réforme du cadre budgétaire européen, 2024"
+  ],
+  "liens": [
+   "banque-centrale-europeenne",
+   "emprunt-commun",
+   "sortie-des-traites",
+   "regle-d-or-budgetaire"
+  ],
+  "motifs": [
+   "pacte de stabilité",
+   "TSCG",
+   "Traité sur la stabilité, la coordination et la gouvernance",
+   "pacte budgétaire",
+   "règles budgétaires européennes",
+   "règles européennes encadrant les déficits",
+   "calcul du déficit autorisé"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de supprimer les « contraintes austéritaires » du pacte de stabilité et d’exclure du calcul du déficit autorisé les investissements de transition écologique.",
+    "appuis": [
+     "p07bc118e",
+     "pc3769655"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme refuse le pacte de stabilité, propose de dénoncer le TSCG et d’abandonner « définitivement » les règles budgétaires européennes et la surveillance des budgets nationaux par la Commission.",
+    "appuis": [
+     "p48a19196",
+     "pc2775284",
+     "p1de521be"
+    ]
+   }
+  }
+ },
+ {
+  "id": "banque-centrale-europeenne",
+  "nom": "Banque centrale européenne (BCE)",
+  "variantes": [
+   "BCE",
+   "indépendance de la BCE",
+   "mandat de la BCE"
+  ],
+  "categorie": "institution",
+  "theme": "europe",
+  "definition": "La Banque centrale européenne, créée en 1998 et installée à Francfort, conduit la politique monétaire de la zone euro avec les banques centrales nationales, dont la Banque de France. Son mandat principal, fixé par les traités, est la stabilité des prix, qu’elle traduit par un objectif d’inflation de 2 % à moyen terme ; elle soutient aussi les politiques économiques de l’Union sans préjudice de cet objectif. Son indépendance est garantie par l’article 130 du traité sur le fonctionnement de l’Union européenne. L’article 123 lui interdit d’acheter directement des titres de dette aux États, ce qui ne l’empêche pas d’en acheter sur le marché secondaire, comme elle l’a fait massivement depuis 2015.",
+  "enjeux": "Une partie des forces politiques veut élargir son mandat à l’emploi, au climat ou au financement d’investissements stratégiques, voire mettre fin à son indépendance pour l’autoriser à financer directement les États. D’autres demandent surtout un contrôle démocratique accru, par exemple des auditions devant les parlements nationaux. Ses défenseurs estiment que l’indépendance et la priorité donnée aux prix protègent la crédibilité de la monnaie.",
+  "reperes": [
+   "Créée en 1998, siège à Francfort",
+   "Article 123 du traité sur le fonctionnement de l’Union européenne (interdiction du financement monétaire)",
+   "Article 130 du même traité (indépendance)"
+  ],
+  "liens": [
+   "euro-et-monnaie-unique",
+   "pacte-de-stabilite"
+  ],
+  "motifs": [
+   "BCE",
+   "Banque centrale européenne"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de rendre la BCE « plus verte et plus démocratique » et de permettre aux parlementaires nationaux d’auditionner les membres du bureau de la BCE.",
+    "appuis": [
+     "p94c6c955",
+     "p3ac46bb1"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de « mettre fin à l’indépendance » de la BCE en modifiant ses statuts pour l’autoriser à racheter la dette publique directement aux États, et demande qu’elle transforme des dettes publiques en dettes perpétuelles à taux nul.",
+    "appuis": [
+     "p81bfe7e3",
+     "p817563cc"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de négocier une réforme du mandat de la BCE pour le tourner vers l’emploi, la productivité et le financement de projets stratégiques de long terme.",
+    "appuis": [
+     "pe30b53b7"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de favoriser des stablecoins en euro émis par le secteur privé « sans attendre le projet d’euro numérique porté par la Banque centrale européenne ».",
+    "appuis": [
+     "pb96104d8"
+    ]
+   }
+  }
+ },
+ {
+  "id": "euro-et-monnaie-unique",
+  "nom": "Euro, monnaie unique et euro numérique",
+  "variantes": [
+   "monnaie unique",
+   "monnaie commune",
+   "euro numérique",
+   "stablecoins"
+  ],
+  "categorie": "notion économique",
+  "theme": "europe",
+  "definition": "L’euro est la monnaie unique de la zone euro, introduite en 1999 sous forme scripturale puis en 2002 sous forme de pièces et de billets. Une monnaie unique remplace les monnaies nationales, alors qu’une « monnaie commune » coexisterait avec elles pour les échanges extérieurs, idée défendue avant l’adoption de l’euro. L’euro numérique est un projet de la BCE de monnaie de banque centrale sous forme électronique, accessible au public, dont la création suppose un règlement européen. Les « stablecoins » sont des cryptoactifs privés adossés à une monnaie officielle, encadrés dans l’Union par le règlement MiCA.",
+  "enjeux": "Le débat porte sur la souveraineté monétaire : les uns veulent transformer l’euro en monnaie commune pour retrouver une marge de manœuvre nationale, les autres défendent l’euro et sa déclinaison numérique face à la domination du dollar et des systèmes de paiement américains. Pour l’euro numérique, ses partisans mettent en avant la souveraineté et la protection de la vie privée, ses critiques le risque pour les banques commerciales et préfèrent des solutions privées.",
+  "reperes": [
+   "Euro introduit le 1er janvier 1999, billets et pièces en 2002",
+   "Règlement MiCA sur les marchés de cryptoactifs, adopté en 2023"
+  ],
+  "liens": [
+   "banque-centrale-europeenne",
+   "pacte-de-stabilite"
+  ],
+  "motifs": [
+   "monnaie unique",
+   "monnaie commune",
+   "dévaluer l'euro",
+   "l'euro en monnaie",
+   "euro numérique",
+   "stablecoin*"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme soutient la mise en œuvre de l’euro numérique, veut conserver l’argent liquide et propose d’envisager une dévaluation de l’euro face au renminbi.",
+    "appuis": [
+     "p5b45fac6",
+     "p4a7dbc79",
+     "p5c3ecaa6"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de « transformer l’euro en monnaie commune et non plus unique » et soutient un projet de monnaie commune mondiale face au dollar.",
+    "appuis": [
+     "p3cf7349e",
+     "p5822d233"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de favoriser des stablecoins en euro émis par le secteur privé européen « sans attendre le projet d’euro numérique » de la BCE.",
+    "appuis": [
+     "pb96104d8"
+    ]
+   }
+  }
+ },
+ {
+  "id": "politique-agricole-commune",
+  "nom": "Politique agricole commune (PAC)",
+  "variantes": [
+   "PAC",
+   "aides à l’hectare",
+   "plan stratégique national",
+   "aides directes"
+  ],
+  "categorie": "politique publique",
+  "theme": "europe",
+  "definition": "La politique agricole commune, lancée en 1962, est l’une des plus anciennes politiques intégrées de l’Union et longtemps son premier poste budgétaire. Elle repose sur deux piliers : les aides directes aux agriculteurs, versées principalement en fonction des surfaces, et le développement rural. La France en est le premier bénéficiaire en volume. Depuis la réforme applicable en 2023, chaque État la décline dans un plan stratégique national, avec des « écorégimes » liant une partie des aides à des pratiques environnementales.",
+  "enjeux": "Le débat porte sur son budget, que plusieurs forces veulent sanctuariser face aux nouvelles priorités européennes, et sur la répartition des aides : leur attribution à l’hectare est critiquée pour favoriser les grandes exploitations, certains proposant de les fonder sur le nombre d’actifs. S’y ajoutent la place de l’environnement dans les conditions d’attribution et l’effet d’une adhésion de l’Ukraine.",
+  "reperes": [
+   "Lancée en 1962",
+   "Réforme 2023-2027 avec plans stratégiques nationaux"
+  ],
+  "liens": [
+   "elargissement-de-l-union",
+   "accords-de-libre-echange",
+   "clauses-miroirs",
+   "budget-europeen",
+   "prix-planchers",
+   "installation-agricole",
+   "agriculture-biologique"
+  ],
+  "motifs": [
+   "PAC",
+   "politique agricole commune",
+   "subventions sur le nombre d'actifs",
+   "aides directes",
+   "seuil de dégressivité",
+   "petit agriculteur"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de fonder les subventions sur le nombre d’actifs plutôt qu’à l’hectare, avec un plafonnement plus strict, et de transformer la PAC pour qu’elle respecte un « plafond environnemental ». Il propose aussi de revaloriser le « bonus Haie » et de réserver les aides aux assurances récoltes aux dispositifs mutualistes.",
+    "appuis": [
+     "pf358b1d8",
+     "p94fa8869",
+     "pf865d689",
+     "p627e53fb"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de refonder la PAC pour garantir la « souveraineté alimentaire », la relocalisation et l’agriculture « écologique et paysanne ».",
+    "appuis": [
+     "pf030fc09",
+     "p18693b22",
+     "p86f893f5"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme défend une PAC « européenne, pluriannuelle et sanctuarisée », avec des plafonds nationaux garantis sur sept ans, le relèvement du seuil de dégressivité à 100 hectares et un forfait « petit agriculteur » porté à 3 000 euros.",
+    "appuis": [
+     "p9fce2ec3",
+     "p83355222",
+     "p75554749",
+     "p0fe2b217"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de réformer la PAC pour soutenir l’emploi et le revenu agricole et l’agriculture familiale, en rompant avec le modèle des aides à l’hectare.",
+    "appuis": [
+     "p45e88b4e"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de compléter les aides européennes par des aides nationales destinées aux filières en difficulté.",
+    "appuis": [
+     "p219bb13c"
+    ]
+   }
+  },
+  "autres_themes": [
+   "travail"
+  ]
+ },
+ {
+  "id": "droit-europeen-de-la-concurrence",
+  "nom": "Droit européen de la concurrence et aides d’État",
+  "variantes": [
+   "concurrence libre et non faussée",
+   "aides d’État",
+   "libéralisation",
+   "ouverture à la concurrence",
+   "services d’intérêt général"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "europe",
+  "definition": "Le droit européen de la concurrence interdit les ententes, les abus de position dominante et, sauf exceptions, les aides d’État qui faussent la concurrence entre entreprises du marché unique (articles 101 à 109 du traité sur le fonctionnement de l’Union européenne). La Commission contrôle les aides et les concentrations d’entreprises. Les services d’intérêt économique général bénéficient d’un régime dérogatoire, mais plusieurs secteurs (télécommunications, énergie, transport ferroviaire) ont été ouverts à la concurrence par des directives successives. L’expression « concurrence libre et non faussée », figurant dans le projet de traité constitutionnel de 2004, est devenue emblématique de ce débat.",
+  "enjeux": "Ses critiques estiment que ces règles empêchent de protéger les services publics et de constituer des « champions européens » face à la Chine et aux États-Unis ; ils demandent des exceptions ou la fin du « dogme » de la concurrence. Ses défenseurs y voient une protection des consommateurs contre les monopoles et contre une course aux subventions entre États membres. Les concessions hydroélectriques, dont le régime a été réformé en 2026 après un accord avec la Commission, et l’ouverture du rail ont cristallisé le débat en France.",
+  "reperes": [
+   "Articles 101 à 109 du traité sur le fonctionnement de l’Union européenne",
+   "Refus par la Commission de la fusion Alstom-Siemens, 2019"
+  ],
+  "liens": [
+   "preference-europeenne",
+   "marche-europeen-de-l-electricite",
+   "surtransposition"
+  ],
+  "motifs": [
+   "droit de la concurrence",
+   "concurrence libre et non faussée",
+   "aides d'État",
+   "régime des aides d'État",
+   "obligations de mise en concurrence",
+   "mise en concurrence voulue par Bruxelles",
+   "mise en concurrence du transport ferroviaire",
+   "libéralisation et la privatisation des services publics",
+   "libéralisation du marché de l'électricité*"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de modifier le droit de la concurrence pour renforcer les services publics, de réformer le régime des aides d’État au profit des projets européens et de suspendre la mise en concurrence des compagnies ferroviaires.",
+    "appuis": [
+     "p91aacc06",
+     "p456d9206",
+     "p97c9c777"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de modifier le droit de la concurrence pour garantir un « droit de monopole public » au niveau national et de stopper la libéralisation des services publics.",
+    "appuis": [
+     "pb2da5693",
+     "pd0813821",
+     "p777de0f7"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme demande des « exceptions ciblées au droit de la concurrence » pour permettre des rapprochements industriels dans le numérique et le cloud.",
+    "appuis": [
+     "p18b9eb14"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de « revenir sur le dogme de la concurrence libre et non faussée » pour favoriser des champions européens dans les secteurs stratégiques.",
+    "appuis": [
+     "pb655be6f"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme veut protéger les barrages hydroélectriques de la « mise en concurrence voulue par Bruxelles ».",
+    "appuis": [
+     "p233fae9d"
+    ]
+   }
+  }
+ },
+ {
+  "id": "marche-europeen-de-l-electricite",
+  "nom": "Marché européen de l’électricité",
+  "variantes": [
+   "règles européennes de fixation des prix de l’énergie",
+   "neutralité technologique",
+   "interconnexions",
+   "règles européennes de fixation des prix",
+   "libéralisation du marché de l’électricité"
+  ],
+  "categorie": "politique publique",
+  "theme": "europe",
+  "definition": "Le marché intérieur de l’électricité, construit par plusieurs paquets législatifs depuis la fin des années 1990, organise des échanges transfrontaliers entre réseaux interconnectés. Sur le marché de gros, le prix est fixé à chaque heure par la dernière centrale appelée pour satisfaire la demande, souvent une centrale à gaz, ce qui a fait monter les prix lors de la crise de 2022. Une réforme adoptée en 2024 encourage les contrats de long terme et les contrats pour différence. La « neutralité technologique » désigne le fait de traiter à égalité toutes les sources bas carbone, nucléaire compris, dans les objectifs et financements européens.",
+  "enjeux": "Ses critiques estiment que ce mécanisme prive la France de l’avantage de prix de son parc nucléaire et demandent d’en sortir ou de le réformer. Ses défenseurs soulignent que l’interconnexion renforce la sécurité d’approvisionnement et permet d’intégrer les renouvelables. Le statut du nucléaire dans les politiques européennes oppose un groupe d’États favorables, dont la France, à d’autres, dont l’Allemagne.",
+  "reperes": [
+   "Réforme de l’organisation du marché de l’électricité, 2024"
+  ],
+  "liens": [
+   "droit-europeen-de-la-concurrence",
+   "mecanisme-d-ajustement-carbone-aux-frontieres",
+   "arenh",
+   "nationalisation-edf",
+   "concessions-hydroelectriques",
+   "prix-de-l-electricite"
+  ],
+  "motifs": [
+   "règles européennes de fixation des prix*",
+   "neutralité technologique",
+   "European Grid Package",
+   "nucléaire à l'échelle européenne",
+   "libéralisation du marché de l'électricité*",
+   "marché européen de l'électricité",
+   "fixation des prix de l'énergie",
+   "marché de l'électricité",
+   "libéralisation du marché de l'électricité"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de revenir sur la libéralisation du marché de l’électricité et du gaz et de créer un pôle public de l’énergie.",
+    "appuis": [
+     "p777de0f7"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme s’oppose au « European Grid Package » d’interconnexions de la Commission et propose une coalition d’États favorables au nucléaire pour imposer la « neutralité technologique ».",
+    "appuis": [
+     "p09721c9c",
+     "p186aec6e"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose d’« imposer le nucléaire à l’échelle européenne » comme principal outil de lutte contre le réchauffement climatique.",
+    "appuis": [
+     "p62746e5b"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de « sortir des règles européennes de fixation des prix de l’énergie ».",
+    "appuis": [
+     "p88dd2126"
+    ]
+   }
+  },
+  "autres_themes": [
+   "ecologie"
+  ]
+ },
+ {
+  "id": "mecanisme-d-ajustement-carbone-aux-frontieres",
+  "nom": "Mécanisme d’ajustement carbone aux frontières (MACF)",
+  "variantes": [
+   "MACF",
+   "taxe carbone aux frontières",
+   "CBAM"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "europe",
+  "definition": "Le mécanisme d’ajustement carbone aux frontières fait payer aux importateurs de certains produits un prix du carbone équivalent à celui supporté par les producteurs européens dans le système d’échange de quotas d’émission. Il vise à éviter les « fuites de carbone », c’est-à-dire la délocalisation de productions vers des pays aux règles climatiques moins strictes. Adopté en 2023, il couvre d’abord l’acier, le ciment, l’aluminium, les engrais, l’électricité et l’hydrogène, avec une phase transitoire de simple déclaration d’octobre 2023 à fin 2025 ; son régime définitif s’applique depuis le 1er janvier 2026, la vente des certificats que doivent acquérir les importateurs étant reportée à février 2027. Il accompagne la suppression progressive des quotas gratuits accordés aux industriels européens.",
+  "enjeux": "Ses partisans veulent l’étendre aux produits transformés et à d’autres secteurs, et en faire une ressource propre du budget européen. Ses critiques soulignent sa complexité administrative, le risque de mesures de rétorsion commerciale et la difficulté de mesurer le contenu carbone des importations. Le terme « taxe carbone aux frontières », plus politique, est souvent préféré dans les programmes.",
+  "reperes": [
+   "Règlement adopté en 2023",
+   "Phase transitoire déclarative à partir d’octobre 2023",
+   "Régime définitif applicable depuis le 1er janvier 2026"
+  ],
+  "liens": [
+   "protectionnisme",
+   "clauses-miroirs",
+   "budget-europeen",
+   "pacte-vert-europeen"
+  ],
+  "motifs": [
+   "mécanisme d'ajustement carbone aux frontières",
+   "MACF",
+   "taxe carbone aux frontières",
+   "carbone aux frontières",
+   "ajustement carbone aux frontières"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’étendre le périmètre et d’accélérer la mise en œuvre du MACF, et d’en faire une ressource propre du budget communautaire.",
+    "appuis": [
+     "p5671a97b",
+     "p3958f88e"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme cite la « taxe carbone aux frontières » parmi les taxes à instaurer.",
+    "appuis": [
+     "p0e9fe11e"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de renforcer le mécanisme et de l’étendre aux produits transformés, pour une « réciprocité climatique effective ».",
+    "appuis": [
+     "pcb6ad98e",
+     "pc1309873"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme demande la mise en place rapide d’une taxe carbone aux frontières au niveau européen pour pénaliser les importations ne respectant pas les normes environnementales.",
+    "appuis": [
+     "pd2156ea9"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit la mise en œuvre d’une taxe carbone aux frontières de l’Europe « pour éviter la concurrence déloyale ».",
+    "appuis": [
+     "pa36652d3"
+    ]
+   }
+  },
+  "autres_themes": [
+   "ecologie"
+  ]
+ },
+ {
+  "id": "preference-europeenne",
+  "nom": "Préférence européenne dans la commande publique",
+  "variantes": [
+   "Buy European Act",
+   "acheter européen",
+   "préférence européenne"
+  ],
+  "categorie": "politique publique",
+  "theme": "europe",
+  "definition": "La préférence européenne consiste à réserver ou à favoriser, dans les marchés publics et les aides, les produits et entreprises fabriqués ou établis dans l’Union. Le droit actuel de la commande publique interdit en principe de discriminer selon l’origine au sein du marché unique, et l’Union a ouvert ses marchés publics à de nombreux pays tiers par l’accord de l’Organisation mondiale du commerce sur les marchés publics et par des accords bilatéraux. Depuis 2022, un instrument relatif aux marchés publics internationaux permet de fermer ces marchés aux entreprises de pays qui ne les ouvrent pas aux Européens. Les États-Unis disposent depuis 1933 d’un « Buy American Act », souvent cité en modèle.",
+  "enjeux": "Ses partisans y voient un outil de réindustrialisation et de souveraineté, en particulier pour la défense, l’énergie et le numérique. Ses critiques redoutent un surcoût pour les acheteurs publics et des représailles de partenaires commerciaux. Le débat porte aussi sur l’échelle : préférence européenne ou préférence nationale, qui se heurterait au droit du marché unique.",
+  "reperes": [
+   "Instrument relatif aux marchés publics internationaux, règlement de 2022"
+  ],
+  "liens": [
+   "droit-europeen-de-la-concurrence",
+   "industrie-de-defense",
+   "protectionnisme",
+   "commande-publique"
+  ],
+  "motifs": [
+   "préférence européenne",
+   "Buy European*",
+   "Acheter européen",
+   "buy green and european act",
+   "préférences d'achat pour les productions européennes",
+   "réserver une part de sa commande publique",
+   "Buy European First",
+   "Buy European Act"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un « buy green and european act » réservant entre 50 et 80 % des marchés publics aux produits européens selon les filières, et une préférence européenne sur le réemploi.",
+    "appuis": [
+     "pcbf5e955",
+     "p897409b9"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme défend une préférence européenne dans la commande publique, appliquée notamment au numérique sous le nom de « Buy European First ».",
+    "appuis": [
+     "pc1309873",
+     "p073c5550",
+     "pef35bc29"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une loi « Acheter européen » (« Buy European Act ») pour prioriser les productions européennes dans les marchés publics.",
+    "appuis": [
+     "pce98ffbe"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de permettre à chaque État de réserver une part de sa commande publique aux entreprises nationales.",
+    "appuis": [
+     "pde5be7ad"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme cite la préférence européenne dans les marchés publics parmi les éléments d’une stratégie pour l’intelligence artificielle.",
+    "appuis": [
+     "pdc17f7aa"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose une préférence européenne dans les achats militaires des États européens et, dans la commande publique, une « priorité nationale ».",
+    "appuis": [
+     "pa3b703be",
+     "pacceadb1"
+    ]
+   }
+  }
+ },
+ {
+  "id": "clauses-miroirs",
+  "nom": "Clauses miroirs et réciprocité",
+  "variantes": [
+   "mesures miroirs",
+   "clauses de réciprocité",
+   "réciprocité des normes"
+  ],
+  "categorie": "politique publique",
+  "theme": "europe",
+  "definition": "Les clauses ou mesures miroirs visent à imposer aux produits importés les mêmes normes de production que celles exigées des producteurs européens, par exemple l’interdiction de certains pesticides, d’antibiotiques activateurs de croissance ou de produits issus de la déforestation. Elles peuvent figurer dans un accord commercial ou dans une règle européenne unilatérale applicable à toutes les importations. Les normes portant sur le produit lui-même s’appliquent déjà aux importations, mais celles qui portent sur la méthode de production le font rarement. Leur compatibilité avec les règles de l’Organisation mondiale du commerce doit être examinée au cas par cas.",
+  "enjeux": "Leurs partisans, de toutes sensibilités, y voient le moyen de mettre fin à ce qu’ils appellent une « concurrence déloyale » et de garantir la cohérence entre normes européennes et importations. Leurs critiques soulignent les difficultés de contrôle dans les pays exportateurs et le risque de différends commerciaux. La notion a été mise en avant par la France lors de sa présidence du Conseil de l’Union, au premier semestre 2022.",
+  "reperes": [
+   "Règlement européen contre la déforestation importée, adopté en 2023"
+  ],
+  "liens": [
+   "accords-de-libre-echange",
+   "mecanisme-d-ajustement-carbone-aux-frontieres",
+   "politique-agricole-commune"
+  ],
+  "motifs": [
+   "clause* miroir*",
+   "clauses miroirs",
+   "« clauses miroir »",
+   "mesures miroirs",
+   "clauses de réciprocité",
+   "réciprocité douanière",
+   "réciprocité climatique"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’introduire des clauses miroirs sur le climat et les droits humains dans les futurs traités, et de renégocier l’accord de juillet 2025 avec les États-Unis sur les droits de douane pour imposer une « réciprocité douanière ».",
+    "appuis": [
+     "pdc806e85",
+     "pfdefeb44"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit l’imposition systématique de clauses de réciprocité dans tous les accords commerciaux et une « réciprocité climatique effective ».",
+    "appuis": [
+     "p0c408490",
+     "pcb6ad98e"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’imposer des mesures miroirs aux importations agricoles et d’appliquer aux produits importés les mêmes normes qu’en Europe.",
+    "appuis": [
+     "p1d64be0a",
+     "p6824fdb8",
+     "pe8ea459a"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit d’obtenir l’adjonction de « clauses miroir » dans les traités commerciaux pour que les produits importés soient conformes aux normes européennes et françaises.",
+    "appuis": [
+     "pe412d463"
+    ]
+   }
+  }
+ },
+ {
+  "id": "accords-de-libre-echange",
+  "nom": "Accords de libre-échange (CETA, Mercosur)",
+  "variantes": [
+   "traités de libre-échange",
+   "CETA",
+   "accord UE-Mercosur",
+   "accords commerciaux"
+  ],
+  "categorie": "politique publique",
+  "theme": "europe",
+  "definition": "La politique commerciale est une compétence exclusive de l’Union européenne : la Commission négocie les accords commerciaux au nom des vingt-sept, sur mandat du Conseil. Ces accords réduisent les droits de douane et les obstacles non tarifaires avec un partenaire, et peuvent comporter des chapitres sur l’investissement, le développement durable ou les marchés publics. L’accord avec le Canada (CETA), signé en 2016, est appliqué à titre provisoire depuis 2017 pour sa partie commerciale ; sa partie relevant des compétences partagées doit être ratifiée par chaque État. L’accord avec les pays du Mercosur (Argentine, Brésil, Paraguay, Uruguay), négocié depuis 1999 et contesté par le monde agricole français, a été signé le 17 janvier 2026 malgré l’opposition de la France ; son volet commercial est appliqué à titre provisoire depuis le 1er mai 2026, et le Parlement européen a saisi la Cour de justice de l’Union de sa légalité.",
+  "enjeux": "Leurs partisans y voient des débouchés pour les exportateurs européens et un levier d’influence. Leurs opposants dénoncent une concurrence jugée déloyale pour l’agriculture, l’incompatibilité de certains accords avec les objectifs climatiques et les mécanismes d’arbitrage favorables aux investisseurs. Le débat porte aussi sur le choix de « scinder » les accords pour éviter la ratification par les parlements nationaux.",
+  "reperes": [
+   "CETA signé en 2016, appliqué provisoirement depuis septembre 2017",
+   "Le Sénat a rejeté le projet de loi de ratification du CETA en mars 2024",
+   "Accord UE-Mercosur signé le 17 janvier 2026, appliqué à titre provisoire depuis le 1er mai 2026"
+  ],
+  "liens": [
+   "clauses-miroirs",
+   "protectionnisme",
+   "politique-agricole-commune",
+   "devoir-de-vigilance"
+  ],
+  "motifs": [
+   "libre-échange",
+   "libreéchange",
+   "CETA",
+   "Mercosur",
+   "accords commerciaux",
+   "traités commerciaux"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de ne pas ratifier les accords en attente qui affectent le climat et la biodiversité, dont le CETA et le Mercosur, et de refuser les tribunaux d’arbitrage.",
+    "appuis": [
+     "p068b8ff2",
+     "pa4f7adb6"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit d’annuler le CETA, de renoncer à l’accord avec le Mercosur et de « mettre fin aux traités de libre-échange ».",
+    "appuis": [
+     "pf5a7e36d",
+     "p21f399ba"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit l’imposition systématique de clauses de réciprocité dans tous les accords commerciaux.",
+    "appuis": [
+     "p0c408490"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme s’oppose aux traités comme le Mercosur et propose d’exclure la culture de tout accord de libre-échange.",
+    "appuis": [
+     "p1d64be0a",
+     "pd60a9fd1"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de ne pas ratifier le CETA, d’exclure l’agriculture des traités de libre-échange et de revoir ceux qui « ne respectent pas les intérêts de la France ».",
+    "appuis": [
+     "p32c7c893",
+     "p86e4e65f",
+     "p2d2ab7c3"
+    ]
+   }
+  }
+ },
+ {
+  "id": "travailleurs-detaches",
+  "nom": "Directive sur le détachement des travailleurs",
+  "variantes": [
+   "travailleurs détachés",
+   "détachement",
+   "directive détachement"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "europe",
+  "definition": "Un travailleur détaché est un salarié envoyé par son employeur travailler temporairement dans un autre État membre. La directive de 1996, révisée en 2018, lui garantit les règles du pays d’accueil en matière de rémunération, de temps de travail et de sécurité, tandis que ses cotisations sociales restent en principe dues dans le pays d’origine. La révision de 2018 a posé le principe « à travail égal, salaire égal sur un même lieu » et limité la durée normale du détachement à douze mois, prolongeable de six. La France est l’un des principaux pays d’accueil de travailleurs détachés, notamment dans le bâtiment et l’agriculture.",
+  "enjeux": "Ses critiques estiment que l’écart de cotisations sociales entre pays crée un « dumping social » et demandent de suspendre ou de supprimer le dispositif. Ses défenseurs rappellent qu’il découle de la libre prestation de services et que la révision de 2018 a réduit les écarts de salaire. Le contrôle des fraudes au détachement est un point de convergence.",
+  "reperes": [
+   "Directive 96/71/CE de 1996",
+   "Révision par la directive (UE) 2018/957"
+  ],
+  "liens": [
+   "europe-sociale",
+   "clause-de-l-europeenne-la-plus-favorisee",
+   "protectionnisme",
+   "commande-publique"
+  ],
+  "motifs": [
+   "travailleurs détachés",
+   "détachement des travailleurs",
+   "travail détaché"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme prévoit de « cesser d’appliquer unilatéralement » la directive sur le détachement des travailleurs en France et d’interdire le travail détaché.",
+    "appuis": [
+     "pe60cef63",
+     "p2e676daa"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de mettre fin au « dumping social » provoqué par l’actuelle directive sur les travailleurs détachés.",
+    "appuis": [
+     "p19c9c9a4"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de supprimer le travail détaché, présenté comme « une telle source de fraude au droit du travail et aux cotisations sociales ».",
+    "appuis": [
+     "p652bbf65"
+    ]
+   }
+  },
+  "autres_themes": [
+   "travail"
+  ]
+ },
+ {
+  "id": "clause-de-l-europeenne-la-plus-favorisee",
+  "nom": "Clause de l’Européenne la plus favorisée",
+  "variantes": [
+   "clause de la législation la plus favorisée"
+  ],
+  "categorie": "proposition emblématique",
+  "theme": "europe",
+  "definition": "La clause de l’Européenne la plus favorisée propose d’aligner, dans toute l’Union, les droits des femmes sur la législation nationale la plus protectrice dans chaque domaine : avortement, congés familiaux, lutte contre les violences, égalité professionnelle. Elle a été proposée par l’avocate Gisèle Halimi et portée par l’association Choisir la cause des femmes, qu’elle avait fondée en 1971 avec Simone de Beauvoir, notamment dans un ouvrage collectif publié en 2008 et réédité en 2023. Elle n’a pas de traduction juridique à ce jour, les compétences de l’Union en matière de santé et de droit de la famille étant limitées.",
+  "enjeux": "Ses partisans y voient une harmonisation « par le haut » des droits des femmes, alors que plusieurs États ont restreint l’accès à l’avortement. Les sceptiques soulignent qu’elle supposerait des compétences nouvelles pour l’Union et qu’elle se heurte à la diversité des choix nationaux sur des sujets éthiques.",
+  "reperes": [
+   "Proposition portée par l’association Choisir la cause des femmes",
+   "Ouvrage « La clause de l’Européenne la plus favorisée », 2008, réédité en 2023 sous le titre « Le meilleur de l’Europe pour les femmes »"
+  ],
+  "liens": [
+   "europe-sociale",
+   "travailleurs-detaches"
+  ],
+  "motifs": [
+   "Européenne la plus favorisée",
+   "législation la plus favorisée"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’adopter la « clause de la législation la plus favorisée » pour l’égalité entre les femmes et les hommes.",
+    "appuis": [
+     "p0a44c003"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme cite la clause de l’Européenne la plus favorisée parmi les mesures européennes qu’il défend.",
+    "appuis": [
+     "p37cd2084"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme prévoit d’œuvrer à l’adoption de la clause de l’Européenne la plus favorisée par l’Union européenne.",
+    "appuis": [
+     "pa4fad327"
+    ]
+   }
+  }
+ },
+ {
+  "id": "europe-sociale",
+  "nom": "Europe sociale et harmonisation sociale",
+  "variantes": [
+   "harmonisation sociale par le haut",
+   "socle européen des droits sociaux",
+   "minima sociaux européens",
+   "assurance chômage européenne"
+  ],
+  "categorie": "politique publique",
+  "theme": "europe",
+  "definition": "L’Europe sociale désigne l’ensemble des règles et politiques de l’Union en matière d’emploi, de conditions de travail et de protection sociale. Les compétences de l’Union y sont limitées : elle fixe des prescriptions minimales (temps de travail, santé et sécurité, information des salariés), tandis que les systèmes de protection sociale et les salaires relèvent des États. Le socle européen des droits sociaux, proclamé en 2017, fixe des principes sans force contraignante ; une directive de 2022 encadre les procédures de fixation des salaires minimaux. Les partenaires sociaux européens peuvent conclure des accords que le Conseil peut rendre obligatoires.",
+  "enjeux": "Une partie des forces politiques veut une harmonisation sociale « par le haut », des minima sociaux européens ou une assurance chômage européenne, et en fait une condition de tout nouvel élargissement. D’autres estiment que la protection sociale doit rester nationale et que l’harmonisation risque de niveler les modèles. Le terme « dumping social » est au cœur de ce débat.",
+  "reperes": [
+   "Socle européen des droits sociaux, proclamé à Göteborg en 2017",
+   "Directive relative à des salaires minimaux adéquats, 2022"
+  ],
+  "liens": [
+   "travailleurs-detaches",
+   "clause-de-l-europeenne-la-plus-favorisee",
+   "elargissement-de-l-union"
+  ],
+  "motifs": [
+   "harmonisation sociale",
+   "minima sociaux européens",
+   "assurance-chômage européenne",
+   "accords collectifs à l'échelle européenne"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une assurance chômage européenne, des minima sociaux européens et la possibilité pour les partenaires sociaux de conclure des accords collectifs à l’échelle européenne.",
+    "appuis": [
+     "p5ee3d490",
+     "pdfc45cf9"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose un « mécanisme d’harmonisation sociale par le haut » contre le dumping social et fiscal, et en fait un préalable à tout nouvel élargissement.",
+    "appuis": [
+     "pb026b426",
+     "p2755d7db"
+    ]
+   }
+  }
+ },
+ {
+  "id": "devoir-de-vigilance",
+  "nom": "Devoir de vigilance",
+  "variantes": [
+   "devoir de vigilance des entreprises",
+   "CSDDD",
+   "Omnibus"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "europe",
+  "definition": "Le devoir de vigilance oblige les grandes entreprises à identifier et prévenir les atteintes aux droits humains et à l’environnement dans leurs activités, celles de leurs filiales et de leur chaîne de sous-traitance, y compris à l’étranger. La France l’a instauré par une loi de 2017, adoptée après l’effondrement du Rana Plaza au Bangladesh en 2013. L’Union a adopté en 2024 une directive sur le devoir de vigilance des entreprises en matière de durabilité (CSDDD), dont la portée a été réduite dans le cadre des textes de simplification dits « Omnibus » présentés en 2025.",
+  "enjeux": "Ses partisans y voient un moyen de responsabiliser les multinationales et de lier commerce et droits humains. Ses critiques mettent en avant la charge administrative et le risque juridique pour les entreprises européennes face à des concurrents non soumis à ces obligations. Le recul de la directive par les textes « Omnibus » est qualifié de « simplification » par ses promoteurs et de « dérégulation » par ses opposants.",
+  "reperes": [
+   "Loi française du 27 mars 2017 relative au devoir de vigilance",
+   "Directive européenne sur le devoir de vigilance, 2024",
+   "Directive modifiée en février 2026 par le paquet de simplification « Omnibus » : champ restreint aux entreprises de plus de 5 000 salariés réalisant au moins 1,5 milliard d’euros de chiffre d’affaires, application repoussée"
+  ],
+  "liens": [
+   "accords-de-libre-echange",
+   "clauses-miroirs",
+   "conditionnalite-des-aides"
+  ],
+  "motifs": [
+   "devoir de vigilance",
+   "Omnibus",
+   "donneur d'ordre"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’appliquer le devoir de vigilance aux banques et s’oppose à la « dérégulation » contenue dans les dispositifs dits « Omnibus ».",
+    "appuis": [
+     "p79742ff4",
+     "pa0a3e73f"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose un devoir de vigilance pour toutes les entreprises opérant sur le marché européen.",
+    "appuis": [
+     "pb18029a8"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme inscrit le devoir de vigilance des grandes entreprises parmi les conditions de la politique commerciale européenne.",
+    "appuis": [
+     "pe8ea459a"
+    ]
+   }
+  }
+ },
+ {
+  "id": "fiscalite-internationale",
+  "nom": "Fiscalité internationale",
+  "variantes": [
+   "impôt minimum mondial",
+   "taxe sur les transactions financières",
+   "TTF",
+   "paradis fiscaux",
+   "conventions fiscales"
+  ],
+  "categorie": "impôt ou prélèvement",
+  "theme": "europe",
+  "definition": "La fiscalité internationale régit l’imposition des entreprises et des patrimoines qui franchissent les frontières. Sous l’égide de l’OCDE, plus de 130 pays ont adopté en 2021 le principe d’un impôt minimum mondial de 15 % sur les bénéfices des grands groupes, transposé dans l’Union par une directive de 2022. Les Nations unies ont engagé la négociation d’une convention-cadre sur la coopération fiscale internationale. La taxe sur les transactions financières, imposée en France depuis 2012 sur les achats d’actions de grandes entreprises, n’a jamais abouti à l’échelle européenne malgré une coopération renforcée autorisée en 2013.",
+  "enjeux": "Une partie des forces politiques demande un taux minimum plus élevé, une taxation européenne des plus riches et des superprofits, et la renégociation des conventions fiscales. D’autres insistent sur la lutte contre les paradis fiscaux, y compris au sein de l’Union, et sur la simplification. Les débats portent sur l’efficacité de ces mesures face à la mobilité des capitaux et sur le risque pour la compétitivité.",
+  "reperes": [
+   "Accord OCDE sur un impôt minimum mondial de 15 %, 2021",
+   "Taxe française sur les transactions financières, créée en 2012"
+  ],
+  "liens": [
+   "budget-europeen",
+   "institutions-financieres-internationales",
+   "taxe-sur-les-transactions-financieres",
+   "impot-minimum-sur-les-multinationales"
+  ],
+  "motifs": [
+   "taxe sur les transactions financières",
+   "paradis fiscaux",
+   "taux minimum d'imposition",
+   "coopération fiscale internationale",
+   "conventions fiscales",
+   "taxation des superprofits au niveau européen",
+   "Taxer les plus riches au niveau européen"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme soutient la convention-cadre des Nations unies sur la coopération fiscale avec un taux minimum de 25 % pour les multinationales, propose un réexamen des 125 conventions fiscales bilatérales et l’affectation d’une part de la taxe sur les transactions financières au Fonds mondial contre le sida, la tuberculose et le paludisme.",
+    "appuis": [
+     "p6aafad11",
+     "p37fb5a6a",
+     "p8d3f5659"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de taxer les plus riches et les superprofits au niveau européen, ainsi qu’une taxe sur les transactions financières.",
+    "appuis": [
+     "p92728d12",
+     "p04e121c3",
+     "p0e9fe11e"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de lutter contre les paradis fiscaux au sein de l’Union européenne et une taxe sur les transactions financières intra-journalières.",
+    "appuis": [
+     "p984623f1",
+     "p7e992c45"
+    ]
+   }
+  }
+ },
+ {
+  "id": "espace-schengen",
+  "nom": "Espace Schengen",
+  "variantes": [
+   "Schengen",
+   "libre circulation",
+   "contrôles aux frontières intérieures"
+  ],
+  "categorie": "institution",
+  "theme": "europe",
+  "definition": "L’espace Schengen supprime les contrôles systématiques aux frontières intérieures entre les États participants, pour la plupart membres de l’Union, auxquels s’ajoutent l’Islande, la Norvège, la Suisse et le Liechtenstein. Il découle de l’accord signé à Schengen (Luxembourg) en 1985 et de sa convention d’application de 1990, intégrés au droit de l’Union par le traité d’Amsterdam. En contrepartie, les États renforcent ensemble le contrôle des frontières extérieures et partagent des bases de données. Le code frontières Schengen permet de rétablir temporairement des contrôles intérieurs en cas de menace grave, ce que la France fait sans interruption depuis 2015.",
+  "enjeux": "Les uns veulent renégocier Schengen, réserver la libre circulation aux ressortissants européens ou rétablir un contrôle permanent des frontières nationales. D’autres défendent la libre circulation comme un acquis majeur et demandent d’achever le renforcement des frontières extérieures. Une réforme du code frontières a été adoptée en 2024.",
+  "reperes": [
+   "Accord de Schengen, 1985",
+   "Convention d’application, 1990, appliquée à partir de 1995"
+  ],
+  "liens": [
+   "frontex",
+   "reglement-de-dublin-et-pacte-asile"
+  ],
+  "motifs": [
+   "Schengen"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de « sortir de l’impasse de Schengen et de Frontex ».",
+    "appuis": [
+     "p20685daf"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit une « renégociation de Schengen ».",
+    "appuis": [
+     "pc1a7fa0b"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit d’« aller au bout de la réforme de Schengen » pour renforcer les frontières européennes.",
+    "appuis": [
+     "pd546a86d"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de réserver la libre circulation Schengen aux seuls ressortissants européens et de rétablir un contrôle permanent des frontières nationales.",
+    "appuis": [
+     "p98b78452",
+     "p89f17240"
+    ]
+   }
+  }
+ },
+ {
+  "id": "frontex",
+  "nom": "Frontex",
+  "variantes": [
+   "Agence européenne de garde-frontières et de garde-côtes",
+   "garde-frontières européens"
+  ],
+  "categorie": "institution",
+  "theme": "europe",
+  "definition": "Frontex est l’agence de l’Union européenne chargée d’appuyer les États membres dans la gestion des frontières extérieures de l’espace Schengen. Créée en 2004 et installée à Varsovie, elle est devenue en 2016 l’Agence européenne de garde-frontières et de garde-côtes, avec des moyens propres croissants et un contingent permanent en cours de constitution. Elle coordonne des opérations conjointes, participe aux retours de personnes en situation irrégulière et à la surveillance maritime. Elle a fait l’objet de critiques et d’enquêtes au sujet de refoulements illégaux de migrants en mer Égée.",
+  "enjeux": "Ses partisans veulent renforcer ses effectifs et ses moyens pour mieux contrôler les frontières extérieures. Ses opposants dénoncent des atteintes aux droits fondamentaux des migrants et demandent son démantèlement ou sa transformation en agence de sauvetage. Le débat porte aussi sur la souveraineté : une partie des forces politiques préfère des garde-frontières nationaux.",
+  "reperes": [
+   "Créée en 2004, siège à Varsovie",
+   "Renommée Agence européenne de garde-frontières et de garde-côtes en 2016"
+  ],
+  "liens": [
+   "espace-schengen",
+   "reglement-de-dublin-et-pacte-asile"
+  ],
+  "motifs": [
+   "Frontex"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme prévoit de « démanteler l’agence Frontex » et de créer une agence chargée de la protection des droits fondamentaux des migrants et du sauvetage.",
+    "appuis": [
+     "p328381d8"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de « sortir de l’impasse de Schengen et de Frontex ».",
+    "appuis": [
+     "p20685daf"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de renforcer Frontex par le recrutement de 10 000 garde-frontières supplémentaires.",
+    "appuis": [
+     "pc1a7fa0b"
+    ]
+   }
+  }
+ },
+ {
+  "id": "reglement-de-dublin-et-pacte-asile",
+  "nom": "Règlement de Dublin et pacte sur la migration et l’asile",
+  "variantes": [
+   "Dublin",
+   "pacte asile et migration",
+   "pays tiers sûr",
+   "externalisation",
+   "système de Dublin",
+   "Dublin III",
+   "pays de première entrée",
+   "dublinés",
+   "pacte asile immigration"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "europe",
+  "definition": "Le système de Dublin désigne l’État membre responsable de l’examen d’une demande d’asile, en règle générale le pays de première entrée dans l’Union. Il fait peser une charge particulière sur les pays situés aux frontières extérieures, comme l’Italie et la Grèce. Le pacte sur la migration et l’asile, adopté en 2024 et applicable pour l’essentiel depuis le 12 juin 2026, réforme ces règles : filtrage, procédures accélérées aux frontières et « solidarité obligatoire » permettant aux États de relocaliser des demandeurs ou de verser une contribution financière. La notion de « pays tiers sûr » et les accords avec des pays tiers pour retenir les départs sont au cœur du débat sur l’« externalisation ». En France, le gouvernement a choisi de l’intégrer au droit national par ordonnances, sur le fondement d’un projet de loi d’habilitation présenté en avril 2026.",
+  "enjeux": "Les uns demandent une répartition des demandeurs d’asile entre États selon leur population et leur richesse, et des voies légales d’immigration, en refusant l’externalisation des frontières. Les autres veulent durcir le contrôle et estiment que le pacte reste insuffisant. Le système de Dublin est critiqué de divers côtés pour son inefficacité, une faible part des transferts prévus étant effectivement réalisée.",
+  "reperes": [
+   "Convention de Dublin, 1990",
+   "Règlement Dublin III, 2013",
+   "Pacte sur la migration et l’asile, adopté en 2024",
+   "Application du pacte pour l’essentiel à partir du 12 juin 2026"
+  ],
+  "liens": [
+   "espace-schengen",
+   "frontex",
+   "droit-d-asile",
+   "asile-hors-du-territoire",
+   "voies-legales-et-sures"
+  ],
+  "motifs": [
+   "Dublin",
+   "pacte européen sur la migration*",
+   "pacte asile*",
+   "pays tiers sûr",
+   "externaliser la gestion des frontières*",
+   "externalisation de nos politiques migratoires*"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un système alternatif à Dublin répartissant les migrants au prorata de la population et de la richesse, une révision du pacte sur la migration et l’asile, et un retour sur la notion de « pays tiers sûr ».",
+    "appuis": [
+     "p0e719424",
+     "pc946201b",
+     "p9004e371"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de suspendre les règlements de Dublin et de réviser le pacte asile et immigration européen.",
+    "appuis": [
+     "p70bc3c3e",
+     "p66b8f9ec"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose un mécanisme européen de répartition qui mettrait fin au système de Dublin et refuse l’externalisation des politiques migratoires et d’asile.",
+    "appuis": [
+     "p4ccbfe1c"
+    ]
+   }
+  },
+  "autres_themes": [
+   "immigration"
+  ]
+ },
+ {
+  "id": "otan",
+  "nom": "OTAN",
+  "variantes": [
+   "Organisation du traité de l’Atlantique Nord",
+   "Alliance atlantique",
+   "commandement intégré"
+  ],
+  "categorie": "institution",
+  "theme": "europe",
+  "definition": "L’Organisation du traité de l’Atlantique Nord est une alliance militaire fondée par le traité de Washington de 1949, qui compte aujourd’hui trente-deux membres, dont les États-Unis, le Canada et la plupart des États européens. Son article 5 prévoit qu’une attaque armée contre l’un des membres est considérée comme une attaque contre tous, chacun choisissant les moyens de son assistance. La France, membre fondateur, s’est retirée du commandement militaire intégré en 1966 sous le général de Gaulle, puis l’a réintégré en 2009, en conservant l’indépendance de sa dissuasion nucléaire. La Finlande et la Suède l’ont rejointe en 2023 et 2024. Au sommet de La Haye, en juin 2025, les alliés se sont engagés à consacrer 5 % de leur PIB à la défense et à la sécurité d’ici 2035, dont 3,5 % pour la défense au sens strict.",
+  "enjeux": "Ses partisans y voient la garantie de sécurité la plus crédible pour l’Europe et défendent une Europe « solidaire dans l’OTAN » tout en développant ses propres capacités. Ses critiques estiment qu’elle aligne la France sur la politique étrangère des États-Unis et proposent de quitter le commandement intégré ou l’organisation elle-même. Les incertitudes sur l’engagement américain ont relancé le débat sur l’articulation entre OTAN et défense européenne.",
+  "reperes": [
+   "Traité de Washington, 4 avril 1949",
+   "Retrait du commandement intégré en 1966, retour en 2009"
+  ],
+  "liens": [
+   "defense-europeenne",
+   "dissuasion-nucleaire",
+   "non-alignement"
+  ],
+  "motifs": [
+   "OTAN",
+   "Otan",
+   "Alliance atlantique",
+   "alliance militaire permanente"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme prévoit de « sortir de l’Otan » et refuse la participation de la France à toute alliance militaire permanente hors du cadre de l’ONU.",
+    "appuis": [
+     "p28259dd6",
+     "p88c58652"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme défend une Europe « solidaire dans l’OTAN » qui se dote d’une capacité autonome de défense.",
+    "appuis": [
+     "pb2cf8d4a"
+    ]
+   }
+  }
+ },
+ {
+  "id": "dissuasion-nucleaire",
+  "nom": "Dissuasion nucléaire et désarmement",
+  "variantes": [
+   "force de dissuasion",
+   "dissuasion avancée",
+   "dimension européenne de la dissuasion",
+   "TIAN",
+   "traité sur l’interdiction des armes nucléaires"
+  ],
+  "categorie": "doctrine ou courant",
+  "theme": "europe",
+  "definition": "La dissuasion nucléaire française repose sur la menace d’infliger à un agresseur des dommages inacceptables s’il s’en prenait aux « intérêts vitaux » du pays. Elle est opérationnelle depuis 1964 et comporte deux composantes, océanique (sous-marins lanceurs d’engins) et aéroportée. La décision d’emploi appartient au seul président de la République. Les présidents successifs ont affirmé que ces intérêts vitaux comportent une « dimension européenne ». Dans un discours prononcé à l’Île Longue le 2 mars 2026, le président de la République a annoncé une hausse du nombre de têtes nucléaires et une démarche de « dissuasion avancée » associant des partenaires européens, sans garantie formelle et sans partage de la décision. Le traité sur l’interdiction des armes nucléaires (TIAN), entré en vigueur en 2021, n’a été signé par aucune puissance nucléaire, dont la France.",
+  "enjeux": "Le débat porte sur l’extension de la dissuasion à d’autres pays européens : ses partisans y voient le pilier d’une défense européenne crédible, ses opposants insistent sur une souveraineté française « pleine et entière » et refusent tout partage de la décision. Une partie des forces politiques demande aussi un rôle du Parlement dans la doctrine, ou une démarche de désarmement multilatéral et un rapprochement avec le TIAN. La dissuasion est très largement soutenue dans le débat politique français.",
+  "reperes": [
+   "Première composante opérationnelle en 1964",
+   "Traité de non-prolifération, signé en 1968, auquel la France a adhéré en 1992",
+   "TIAN entré en vigueur en janvier 2021",
+   "Discours de l’Île Longue sur la « dissuasion avancée », 2 mars 2026"
+  ],
+  "liens": [
+   "defense-europeenne",
+   "otan",
+   "loi-de-programmation-militaire"
+  ],
+  "motifs": [
+   "dissuasion*",
+   "garantie de sécurité nucléaire",
+   "désarmement nucléaire*",
+   "désarmement des arsenaux nucléaires",
+   "TIAN",
+   "Interdiction des Armes Nucléaires"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’associer le Parlement à la doctrine de dissuasion, d’envisager l’extension de la garantie nucléaire française à d’autres pays européens et de rejoindre le TIAN comme observateur, « sans s’engager à un désarmement unilatéral ».",
+    "appuis": [
+     "pde88bca3",
+     "p4c756a46",
+     "pafe7d40a"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’étendre la dissuasion nucléaire française aux autres pays de l’Union, en conservant la souveraineté française sur la décision d’emploi.",
+    "appuis": [
+     "p110d9d37"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme fait de la dissuasion un « outil de puissance », en s’appuyant sur la doctrine de « dissuasion nucléaire avancée » proposée par le président de la République.",
+    "appuis": [
+     "p13291361"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit de préserver la « souveraineté pleine et entière » sur la dissuasion nucléaire.",
+    "appuis": [
+     "pda2e6ef6"
+    ]
+   }
+  }
+ },
+ {
+  "id": "defense-europeenne",
+  "nom": "Défense européenne et autonomie stratégique",
+  "variantes": [
+   "autonomie stratégique",
+   "Europe de la défense",
+   "armée européenne",
+   "politique de sécurité et de défense commune",
+   "fonds européen de défense"
+  ],
+  "categorie": "politique publique",
+  "theme": "europe",
+  "definition": "La politique de sécurité et de défense commune (PSDC) permet à l’Union de mener des missions civiles et militaires, mais la défense reste une compétence des États, décidée à l’unanimité. L’article 42, paragraphe 7, du traité sur l’Union européenne prévoit une clause d’assistance mutuelle en cas d’agression armée sur le territoire d’un État membre, invoquée par la France après les attentats de novembre 2015. L’Union finance la recherche et le développement capacitaire par le Fonds européen de défense depuis 2021, et a adopté en mai 2025 un instrument de prêts de 150 milliards d’euros pour l’achat d’armement, appelé SAFE. L’« autonomie stratégique » désigne la capacité de l’Europe à agir sans dépendre des États-Unis.",
+  "enjeux": "Ses partisans veulent un commandement, un budget ou un emprunt communs, et une préférence européenne dans les achats d’armement. Ses opposants refusent tout transfert de compétences en matière de défense et défendent une coopération entre États souverains. Le débat oppose aussi ceux qui inscrivent la défense européenne dans l’OTAN et ceux qui la conçoivent comme une alternative.",
+  "reperes": [
+   "Article 42.7 du traité sur l’Union européenne (clause d’assistance mutuelle)",
+   "Fonds européen de défense, 2021",
+   "Instrument SAFE, mai 2025"
+  ],
+  "liens": [
+   "otan",
+   "dissuasion-nucleaire",
+   "emprunt-commun",
+   "industrie-de-defense"
+  ],
+  "motifs": [
+   "défense européenne",
+   "son autonomie stratégique",
+   "capacité autonome de défense",
+   "commandement militaire intégré européen",
+   "pacte de sécurité européen",
+   "armées européennes",
+   "fonds européen de défense",
+   "brigade franco-allemande",
+   "transfert de compétences vers l'Union européenne dans les domaines de la défense"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose un commandement militaire intégré européen sous la tutelle du Conseil de l’Union, sans capacité de mobiliser directement les armées nationales, et le renforcement de la brigade franco-allemande.",
+    "appuis": [
+     "p466c8f18",
+     "p52bc553e"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme défend une Europe qui « se dote d’une capacité autonome de défense », solidaire dans l’OTAN.",
+    "appuis": [
+     "pb2cf8d4a"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de « bâtir une réelle défense européenne », avec un fonds européen de défense de 500 milliards d’euros et un « grand pacte de sécurité européen ».",
+    "appuis": [
+     "p354782ce",
+     "p37bc7877",
+     "p110d9d37"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme vise l’« autonomie stratégique » européenne par une doctrine commune et un renforcement des capacités des armées européennes et de leur coordination.",
+    "appuis": [
+     "p9ad6122f"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme refuse tout transfert de compétences vers l’Union en matière de défense et de diplomatie, tout en favorisant une préférence européenne dans les achats militaires.",
+    "appuis": [
+     "pa3b703be"
+    ]
+   }
+  }
+ },
+ {
+  "id": "loi-de-programmation-militaire",
+  "nom": "Loi de programmation militaire (LPM) et budget des armées",
+  "variantes": [
+   "LPM",
+   "budget de la défense",
+   "2 % du PIB"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "europe",
+  "definition": "La loi de programmation militaire fixe pour plusieurs années les objectifs et les moyens financiers des armées : effectifs, équipements, munitions, infrastructures. La LPM 2024-2030, adoptée en 2023, prévoit 413 milliards d’euros de besoins sur la période. Ces lois ont une valeur de programmation : les crédits sont votés chaque année en loi de finances, et les trajectoires ont souvent été révisées. Les membres de l’OTAN se sont engagés en 2014 à consacrer 2 % de leur PIB à la défense, puis, au sommet de La Haye en juin 2025, à porter leurs dépenses de défense et de sécurité à 5 % du PIB d’ici 2035, dont 3,5 % pour la défense au sens strict. L’actualisation de la LPM, adoptée définitivement le 1er juillet 2026, ajoute 36 milliards d’euros d’ici 2030 et vise un budget des armées d’environ 2,5 % du PIB en 2030.",
+  "enjeux": "Le débat porte sur le niveau de l’effort, son financement dans un contexte de déficit public et ses priorités : modèle d’armée complet, préparation à la « haute intensité », drones, espace et cyber, réserves. Certaines forces demandent de sanctuariser la trajectoire, d’autres un nouveau « livre blanc » ou un contrôle parlementaire renforcé sur les choix capacitaires.",
+  "reperes": [
+   "LPM 2024-2030, promulguée en août 2023",
+   "Engagement de l’OTAN à 5 % du PIB d’ici 2035, sommet de La Haye, juin 2025",
+   "Actualisation de la LPM adoptée définitivement le 1er juillet 2026"
+  ],
+  "liens": [
+   "industrie-de-defense",
+   "defense-europeenne",
+   "dissuasion-nucleaire"
+  ],
+  "motifs": [
+   "loi de programmation militaire",
+   "LPM",
+   "budget de la défense",
+   "modèle d'armée complet",
+   "108 milliards de plus",
+   "armées entièrement modernisées",
+   "augmenter les moyens de notre défense"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose une nouvelle loi de programmation militaire tenant compte des moyens budgétaires, capacitaires, industriels et humains, et un contrôle parlementaire renforcé.",
+    "appuis": [
+     "p2ecd1f77",
+     "p8398eb6d"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose un livre blanc et une loi de programmation militaire visant à « restaurer l’indépendance militaire ».",
+    "appuis": [
+     "p7458c8c0"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit 108 milliards d’euros supplémentaires pour les armées d’ici 2030.",
+    "appuis": [
+     "p076591c0"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme prévoit des armées « entièrement modernisées » d’ici 2030, avec notamment plus de 60 Rafale supplémentaires et cinq nouveaux sous-marins nucléaires d’attaque.",
+    "appuis": [
+     "p58b55c79",
+     "p181e4959"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de sanctuariser la trajectoire de la LPM et de porter le budget de la défense à 55 milliards d’euros à l’horizon 2027.",
+    "appuis": [
+     "p821e6717",
+     "p340d2bad"
+    ]
+   }
+  }
+ },
+ {
+  "id": "industrie-de-defense",
+  "nom": "Industrie de défense et exportations d’armes",
+  "variantes": [
+   "BITD",
+   "base industrielle et technologique de défense",
+   "exportations d’armement",
+   "embargo sur les armes"
+  ],
+  "categorie": "politique publique",
+  "theme": "europe",
+  "definition": "La base industrielle et technologique de défense regroupe les entreprises qui conçoivent et produisent les équipements militaires, des grands groupes aux sous-traitants. La France figure parmi les principaux exportateurs d’armement au monde, ce qui contribue à financer ses capacités de production. Les exportations sont soumises à autorisation du Premier ministre après avis d’une commission interministérielle, dans le cadre de la position commune de l’Union de 2008 et du traité sur le commerce des armes, entré en vigueur en 2014. Depuis la guerre en Ukraine, la montée en cadence de la production, appelée « économie de guerre », est devenue un objectif affiché.",
+  "enjeux": "Le débat porte sur la propriété publique ou privée des industriels, la préférence nationale ou européenne dans les achats, et le contrôle des exportations. Une partie des forces politiques demande un contrôle parlementaire ou des embargos vers les pays accusés de violer le droit international humanitaire, d’autres insistent sur la souveraineté industrielle et la commande publique. La conditionnalité climatique des aides à l’industrie de défense est aussi proposée.",
+  "reperes": [
+   "Traité sur le commerce des armes, adopté en 2013, en vigueur en 2014",
+   "Position commune de l’Union européenne sur les exportations d’armes, 2008"
+  ],
+  "liens": [
+   "loi-de-programmation-militaire",
+   "defense-europeenne",
+   "preference-europeenne",
+   "conflit-israelo-palestinien"
+  ],
+  "motifs": [
+   "industrie de défense",
+   "industries de défense",
+   "industries d'armement",
+   "matériel militaire français",
+   "achats militaires",
+   "marchés publics de défense",
+   "exportations d'armes",
+   "exportation* d'armes",
+   "exportations d'équipements militaires",
+   "embargo*",
+   "livraisons d'armes",
+   "Traité sur le commerce des armes",
+   "conflit de haute intensité"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’interdire les exportations d’armes vers les pays violant le droit international humanitaire, des embargos et une validation parlementaire des exportations hors Union et OTAN.",
+    "appuis": [
+     "pc806eb04",
+     "p1c78ead8",
+     "p8398eb6d"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de stopper les privatisations des industries d’armement, d’établir la règle de l’acquisition de matériel français par l’armée et un embargo sur les livraisons d’armes à Israël.",
+    "appuis": [
+     "p67b7308a",
+     "p9fe33dc1",
+     "pad466eda"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de soutenir l’industrie de défense par l’innovation et la commande publique européenne, et de commander en priorité aux entreprises françaises et européennes les briques de défense fondées sur l’IA.",
+    "appuis": [
+     "p797db346",
+     "pb86d7dbb"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’accélérer la production pour faire face à un « conflit de haute intensité » et de « piloter politiquement » la production et les exportations d’équipements militaires.",
+    "appuis": [
+     "pf9f6603d",
+     "pac8cd910"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme favorise une préférence européenne dans les achats militaires des États européens.",
+    "appuis": [
+     "pa3b703be"
+    ]
+   }
+  }
+ },
+ {
+  "id": "soutien-a-l-ukraine",
+  "nom": "Soutien à l’Ukraine",
+  "variantes": [
+   "aide militaire à l’Ukraine",
+   "garanties de sécurité",
+   "Coalition des volontaires"
+  ],
+  "categorie": "politique publique",
+  "theme": "europe",
+  "definition": "Depuis l’invasion à grande échelle lancée par la Russie le 24 février 2022, l’Union européenne et ses États membres apportent à l’Ukraine une aide militaire, financière et humanitaire, et ont accordé une protection temporaire aux réfugiés ukrainiens. L’Ukraine a obtenu le statut de candidat à l’Union en juin 2022. La Russie avait annexé la Crimée en 2014, territoire que la communauté internationale, dans sa majorité, considère comme ukrainien dans les frontières de 1991. Une « Coalition des volontaires », constituée au printemps 2025 à l’initiative de la France et du Royaume-Uni, prépare des garanties de sécurité pour l’Ukraine en cas de cessez-le-feu.",
+  "enjeux": "Le débat porte sur l’ampleur et la nature de l’aide (armes à longue portée, défense antiaérienne), sur son financement, sur l’adhésion de l’Ukraine et ses effets, notamment agricoles, et sur les conditions d’une négociation de paix. Les forces politiques diffèrent aussi par le vocabulaire : « première ligne de défense » de l’Europe pour les uns, appel prioritaire à la paix pour d’autres.",
+  "reperes": [
+   "Invasion à grande échelle le 24 février 2022",
+   "Statut de candidat à l’Union accordé en juin 2022",
+   "Coalition des volontaires constituée en 2025"
+  ],
+  "liens": [
+   "sanctions-contre-la-russie",
+   "elargissement-de-l-union",
+   "defense-europeenne"
+  ],
+  "motifs": [
+   "Ukraine",
+   "ukrainien",
+   "Coalition des volontaires"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de fournir à l’Ukraine du matériel militaire, y compris des capacités de frappe à longue portée, de soutenir sa stratégie de négociation fondée sur les frontières de 1991 et d’offrir des garanties de sécurité dans le cadre de la « Coalition des volontaires ».",
+    "appuis": [
+     "p2a6bebfa",
+     "p5039fb21",
+     "p9ccaf868"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme prévoit de défendre la souveraineté de l’Ukraine et l’intégrité de ses frontières par la livraison d’armes nécessaires et l’annulation de sa dette extérieure.",
+    "appuis": [
+     "p7f4f4b1a"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’augmenter « drastiquement » l’aide militaire à l’Ukraine, présentée comme « notre première ligne de défense ».",
+    "appuis": [
+     "p1e2d584a"
+    ]
+   },
+   "renaissance": {
+    "texte": "Le programme annonce « continuer sans relâche à soutenir l’Ukraine ».",
+    "appuis": [
+     "pef9edeaf"
+    ]
+   }
+  }
+ },
+ {
+  "id": "sanctions-contre-la-russie",
+  "nom": "Sanctions contre la Russie et avoirs gelés",
+  "variantes": [
+   "avoirs russes gelés",
+   "flotte fantôme",
+   "embargo sur le gaz russe"
+  ],
+  "categorie": "politique publique",
+  "theme": "europe",
+  "definition": "Depuis 2014 et surtout depuis 2022, l’Union européenne a adopté de nombreux trains de sanctions contre la Russie : gel des avoirs de personnes et d’entités, interdictions d’exportation et d’importation, exclusion de banques du système de messagerie SWIFT, plafonnement du prix du pétrole russe. Les réserves de la banque centrale russe immobilisées dans l’Union, détenues en majorité par le dépositaire belge Euroclear, se comptent en centaines de milliards d’euros ; leurs intérêts servent à financer l’aide à l’Ukraine. Une « flotte fantôme » de navires permet à la Russie de contourner le plafonnement du prix du pétrole. L’Union a programmé la fin de ses importations de gaz russe.",
+  "enjeux": "Le débat porte sur la confiscation du capital des avoirs gelés, réclamée par certains pour financer l’Ukraine et des réparations, et redoutée par d’autres pour ses risques juridiques et financiers. Il porte aussi sur l’arrêt complet des importations de gaz naturel liquéfié et d’uranium russes, dont la France reste importatrice, et sur l’efficacité des sanctions.",
+  "reperes": [
+   "Sanctions européennes adoptées à l’unanimité au Conseil et renouvelées périodiquement"
+  ],
+  "liens": [
+   "soutien-a-l-ukraine",
+   "cour-penale-internationale"
+  ],
+  "motifs": [
+   "avoirs gelés",
+   "avoirs des oligarques",
+   "flotte fantôme",
+   "gaz russe",
+   "sanctions européennes"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de consacrer les avoirs russes gelés à des réparations de guerre, d’arraisonner la « flotte fantôme » et d’arrêter toute importation de gaz, d’uranium et d’engrais russes et biélorusses.",
+    "appuis": [
+     "p05c428b8",
+     "pb7635dd8",
+     "pe5a9aeee"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose la saisie des avoirs des oligarques qui contribuent à l’effort de guerre russe, « dans le cadre permis par le droit international ».",
+    "appuis": [
+     "p7f4f4b1a"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’interdire immédiatement toute importation de gaz russe.",
+    "appuis": [
+     "p80a0083f"
+    ]
+   }
+  }
+ },
+ {
+  "id": "conflit-israelo-palestinien",
+  "nom": "Conflit israélo-palestinien et reconnaissance de l’État de Palestine",
+  "variantes": [
+   "reconnaissance de l’État de Palestine",
+   "solution à deux États",
+   "accord d’association UE-Israël",
+   "colonies"
+  ],
+  "categorie": "politique publique",
+  "theme": "europe",
+  "definition": "La « solution à deux États » désigne la coexistence d’un État israélien et d’un État palestinien, sur la base des résolutions des Nations unies. La France a reconnu l’État de Palestine le 22 septembre 2025, lors d’une conférence sur la solution à deux États tenue aux Nations unies, à New York, rejoignant une large majorité des États membres de l’ONU. L’accord d’association entre l’Union européenne et Israël, en vigueur depuis 2000, régit les relations commerciales et contient une clause sur le respect des droits de l’homme. La colonisation de la Cisjordanie est considérée comme contraire au droit international par l’ONU et l’Union européenne.",
+  "enjeux": "Depuis les attaques du Hamas du 7 octobre 2023 et la guerre à Gaza, le débat porte sur la suspension de l’accord d’association, les embargos sur les armes, les sanctions contre les colons ou le gouvernement israélien, et l’aide humanitaire. Le vocabulaire est lui-même disputé, autour des termes de génocide, de terrorisme et de colonisation.",
+  "reperes": [
+   "Accord d’association UE-Israël, en vigueur depuis 2000",
+   "Reconnaissance de l’État de Palestine par la France le 22 septembre 2025"
+  ],
+  "liens": [
+   "cour-penale-internationale",
+   "industrie-de-defense",
+   "mandat-de-l-onu"
+  ],
+  "motifs": [
+   "État de Palestine",
+   "Etat Palestinien",
+   "Palestinien*",
+   "Gaza",
+   "Cisjordanie",
+   "accord d'association*",
+   "colonies israéliennes"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme exige le retrait d’Israël de Gaza et le démantèlement des colonies en Cisjordanie, et demande la suspension totale de l’accord d’association UE-Israël et l’interdiction des produits des colonies.",
+    "appuis": [
+     "pcb044970",
+     "p839f8199",
+     "pd44ba028"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de reconnaître « immédiatement » l’État de Palestine, d’imposer un cessez-le-feu, de suspendre l’accord d’association UE-Israël et de sanctionner le gouvernement israélien.",
+    "appuis": [
+     "p35a2c8ae",
+     "p5e25b00c",
+     "p704e6a51"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de reconnaître « enfin un État palestinien aux côtés d’Israël » et de défendre le droit international humanitaire.",
+    "appuis": [
+     "pb3dc3608"
+    ]
+   }
+  }
+ },
+ {
+  "id": "cour-penale-internationale",
+  "nom": "Cour pénale internationale (CPI)",
+  "variantes": [
+   "CPI",
+   "Statut de Rome",
+   "mandats d’arrêt",
+   "Cour internationale de justice"
+  ],
+  "categorie": "institution",
+  "theme": "europe",
+  "definition": "La Cour pénale internationale, créée par le Statut de Rome de 1998 et installée à La Haye depuis 2002, juge des personnes pour génocide, crimes contre l’humanité, crimes de guerre et crime d’agression. Elle dépend de la coopération des États parties, dont la France, pour arrêter les personnes visées. Elle a émis en 2023 un mandat d’arrêt contre Vladimir Poutine et en 2024 contre Benyamin Netanyahou et Yoav Gallant, ainsi que contre des dirigeants du Hamas. Elle ne doit pas être confondue avec la Cour internationale de justice, organe de l’ONU qui tranche des différends entre États.",
+  "enjeux": "Le débat porte sur l’exécution effective des mandats d’arrêt, y compris lorsque la personne visée se rend dans un État partie, et sur les sanctions américaines visant la Cour. Certaines forces proposent de créer, sur ce modèle, une juridiction internationale pour les crimes environnementaux ou financiers.",
+  "reperes": [
+   "Statut de Rome, 1998, entré en vigueur en 2002",
+   "Mandat d’arrêt contre Vladimir Poutine, mars 2023",
+   "Mandats d’arrêt contre Benyamin Netanyahou et Yoav Gallant, novembre 2024"
+  ],
+  "liens": [
+   "conflit-israelo-palestinien",
+   "sanctions-contre-la-russie",
+   "mandat-de-l-onu"
+  ],
+  "motifs": [
+   "Cour pénale internationale",
+   "CPI",
+   "Cour Internationale de Justice",
+   "CIJ",
+   "mandats d'arrêt",
+   "tribunal international de justice*",
+   "écocide"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose des campagnes diplomatiques pour l’exécution des mandats d’arrêt de la CPI contre Vladimir Poutine et d’autres responsables russes, ainsi que contre Benyamin Netanyahou et Yoav Gallant, et la création d’une Cour pénale internationale de l’environnement.",
+    "appuis": [
+     "p98272ab2",
+     "p231c4ca8",
+     "p7bf37923"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de soutenir la CPI dans ses poursuites contre les dirigeants du Hamas et le gouvernement israélien, de faire respecter l’ordonnance de la Cour internationale de justice et de créer un tribunal international de justice climatique et environnementale.",
+    "appuis": [
+     "peb8f1793",
+     "p4d016867",
+     "p6ae00c6f"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose d’instituer un tribunal pénal international contre le crime d’écocide.",
+    "appuis": [
+     "pba1d7ba7"
+    ]
+   }
+  }
+ },
+ {
+  "id": "mandat-de-l-onu",
+  "nom": "Nations unies, Conseil de sécurité et mandat de l’ONU",
+  "variantes": [
+   "ONU",
+   "Conseil de sécurité",
+   "mandat de l’ONU",
+   "multilatéralisme",
+   "casques bleus"
+  ],
+  "categorie": "institution",
+  "theme": "europe",
+  "definition": "L’Organisation des Nations unies, fondée en 1945 par la Charte de San Francisco, réunit la quasi-totalité des États. Son Conseil de sécurité, composé de quinze membres dont cinq permanents dotés d’un droit de veto (Chine, États-Unis, France, Royaume-Uni, Russie), peut autoriser le recours à la force au titre du chapitre VII de la Charte. Hors légitime défense, une intervention militaire sans mandat du Conseil est contestée au regard du droit international. Les opérations de maintien de la paix, dont la Force intérimaire des Nations unies au Liban à laquelle participe la France, mobilisent des « casques bleus » fournis par les États.",
+  "enjeux": "Le débat porte sur la réforme du Conseil de sécurité, jugé peu représentatif du monde actuel, et sur l’exigence d’un mandat de l’ONU pour toute opération extérieure, que certains veulent ériger en règle. D’autres forces critiquent certains textes onusiens, comme le pacte mondial sur les migrations adopté à Marrakech en 2018. Le multilatéralisme est présenté par ses défenseurs comme une alternative aux rapports de force entre puissances.",
+  "reperes": [
+   "Charte des Nations unies, signée le 26 juin 1945",
+   "Pacte mondial pour des migrations sûres, ordonnées et régulières, Marrakech, décembre 2018"
+  ],
+  "liens": [
+   "non-alignement",
+   "cour-penale-internationale",
+   "conflit-israelo-palestinien"
+  ],
+  "motifs": [
+   "mandat de l'ONU",
+   "ONU",
+   "Nations unies",
+   "Conseil de sécurité",
+   "casque bleu",
+   "Pacte de Marrakech",
+   "multilatéral*"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de modifier la composition du Conseil de sécurité « afin qu’il reflète mieux la diversité mondiale ».",
+    "appuis": [
+     "p5989f3a0"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme refuse toute intervention militaire sans mandat de l’ONU et toute alliance militaire permanente hors de son cadre, et propose de créer une Organisation mondiale de l’environnement.",
+    "appuis": [
+     "pa3644ed6",
+     "p88c58652",
+     "p8077ad38"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de retirer la signature de la France au « Pacte de Marrakech de l’ONU ».",
+    "appuis": [
+     "pab54d4fc"
+    ]
+   }
+  }
+ },
+ {
+  "id": "aide-publique-au-developpement",
+  "nom": "Aide publique au développement (APD)",
+  "variantes": [
+   "APD",
+   "aide au développement",
+   "solidarité internationale",
+   "objectif de 0,7 %"
+  ],
+  "categorie": "politique publique",
+  "theme": "europe",
+  "definition": "L’aide publique au développement regroupe les dons et prêts à conditions favorables accordés par les États aux pays en développement, selon une définition établie par le Comité d’aide au développement de l’OCDE. Les Nations unies ont fixé en 1970 l’objectif d’y consacrer 0,7 % du revenu national brut, que la France n’a jamais atteint. La loi de programmation relative au développement solidaire du 4 août 2021 a réaffirmé cet objectif, mais les crédits ont été nettement réduits dans les budgets récents. L’Agence française de développement en est le principal opérateur.",
+  "enjeux": "Une partie des forces politiques veut atteindre les 0,7 % et orienter l’aide vers l’égalité de genre ou le climat, sans contreparties commerciales ou migratoires. D’autres veulent la « rationaliser », la réduire ou la conditionner, notamment à la coopération des pays d’origine en matière migratoire. Le débat porte aussi sur la part des prêts et sur la concentration de l’aide sur l’Afrique.",
+  "reperes": [
+   "Objectif de 0,7 % du revenu national brut fixé par l’Assemblée générale des Nations unies en 1970",
+   "Loi du 4 août 2021 de programmation relative au développement solidaire"
+  ],
+  "liens": [
+   "relations-franco-africaines",
+   "institutions-financieres-internationales",
+   "francophonie"
+  ],
+  "motifs": [
+   "aide publique au développement",
+   "APD",
+   "aide au développement",
+   "0,7 % du PNB",
+   "loi de développement solidaire"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de retrouver une trajectoire conforme à l’engagement de 0,7 %, de consacrer effectivement 20 % de l’APD à l’égalité de genre et de supprimer les contreparties commerciales ou migratoires.",
+    "appuis": [
+     "p46dfb6aa",
+     "p9bf5d4b3",
+     "pe52dc4b0"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de faire respecter l’engagement de consacrer 0,7 % du RNB à l’aide publique au développement.",
+    "appuis": [
+     "p72f84271"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit une remise à plat de l’aide au développement et son redéploiement vers l’Afrique.",
+    "appuis": [
+     "p8781e6d9"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une programmation budgétaire annuelle pour atteindre progressivement 0,7 % du RNB.",
+    "appuis": [
+     "p448a4e57"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme prévoit une « rationalisation » de l’aide publique au développement.",
+    "appuis": [
+     "pd66a5901"
+    ]
+   }
+  }
+ },
+ {
+  "id": "francophonie",
+  "nom": "Francophonie et diplomatie d’influence",
+  "variantes": [
+   "Organisation internationale de la francophonie",
+   "diplomatie culturelle",
+   "Instituts français",
+   "Alliances françaises"
+  ],
+  "categorie": "institution",
+  "theme": "europe",
+  "definition": "La francophonie désigne à la fois l’ensemble des locuteurs du français dans le monde et l’Organisation internationale de la francophonie, issue de l’Agence de coopération culturelle et technique créée à Niamey en 1970. La diplomatie d’influence, ou diplomatie culturelle, s’appuie sur le réseau des Instituts français, établissements publics, et des Alliances françaises, associations de droit local, ainsi que sur l’audiovisuel extérieur (France Médias Monde, TV5 Monde). Le français est l’une des langues officielles de l’ONU et l’une des langues de travail des institutions européennes.",
+  "enjeux": "Les forces politiques s’accordent largement sur l’importance de la francophonie, mais diffèrent sur ses priorités : défense de la langue dans les institutions internationales, outil d’influence stratégique, coopération éducative et culturelle avec les pays francophones. Le débat porte aussi sur les moyens du réseau culturel et de l’audiovisuel extérieur, régulièrement réduits.",
+  "reperes": [
+   "Agence de coopération culturelle et technique, créée à Niamey en 1970"
+  ],
+  "liens": [
+   "reforme-du-corps-diplomatique",
+   "aide-publique-au-developpement"
+  ],
+  "motifs": [
+   "Francophonie",
+   "pays francophones",
+   "médias audiovisuels francophones",
+   "Erasmus francophone",
+   "usage du français dans les institutions internationales",
+   "Instituts français",
+   "Alliances françaises",
+   "diplomatie culturelle*"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme propose de défendre l’usage du français dans les institutions internationales, de renforcer le réseau des Instituts et Alliances français et les médias audiovisuels francophones.",
+    "appuis": [
+     "pb62e382b",
+     "p47482d44",
+     "pff82a3cd"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose une grande agence publique réunissant Instituts français, Alliances françaises et acteurs culturels pour refonder la « diplomatie culturelle d’influence ».",
+    "appuis": [
+     "pf0526d9e"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de « redonner à la Francophonie une place de choix » dans la politique étrangère.",
+    "appuis": [
+     "p8d709c6c"
+    ]
+   }
+  }
+ },
+ {
+  "id": "relations-franco-africaines",
+  "nom": "Relations franco-africaines et accords de défense",
+  "variantes": [
+   "présence militaire française en Afrique",
+   "accords de défense",
+   "Françafrique",
+   "franc CFA",
+   "héritage colonial"
+  ],
+  "categorie": "politique publique",
+  "theme": "europe",
+  "definition": "La notion recouvre trois dossiers distincts. Le premier est militaire : la France a conclu après les indépendances des accords de coopération et de défense avec plusieurs États africains et y a longtemps maintenu des bases permanentes ; depuis 2022, elle a retiré ses forces du Mali, du Burkina Faso et du Niger, puis a quitté le Tchad (janvier 2025), rétrocédé sa base de Côte d’Ivoire (février 2025) et quitté le Sénégal (juillet 2025), Djibouti restant sa principale base sur le continent. Le deuxième est monétaire : le franc CFA, utilisé en Afrique de l’Ouest et en Afrique centrale, est arrimé à l’euro avec une garantie de convertibilité du Trésor français ; une réforme engagée en 2019 a retiré les représentants français de la plupart des instances de la zone ouest-africaine, mais pas de celles de la zone d’Afrique centrale. Le troisième porte sur la coopération et la mémoire : aide au développement, partenariats, reconnaissance du passé colonial. Le terme « Françafrique » désigne de manière critique les réseaux d’influence hérités de la période coloniale.",
+  "enjeux": "Une partie des forces politiques demande la transparence ou la révision des accords de défense, la reconnaissance de l’héritage colonial et la fin de la participation française à la gouvernance des banques centrales africaines. D’autres veulent recentrer l’aide et les partenariats sur l’Afrique au nom des intérêts français, notamment migratoires et sécuritaires. Le vocabulaire du « partenariat entre égaux » est revendiqué par plusieurs camps.",
+  "reperes": [
+   "Fin de l’opération Barkhane au Sahel annoncée en 2022",
+   "Départ des forces françaises du Tchad (janvier 2025) et du Sénégal (juillet 2025), rétrocession de la base de Côte d’Ivoire (février 2025)"
+  ],
+  "liens": [
+   "aide-publique-au-developpement",
+   "institutions-financieres-internationales",
+   "francophonie"
+  ],
+  "motifs": [
+   "accords de défense",
+   "présence militaire française en Afrique",
+   "Banque des Etats de l'Afrique Centrale",
+   "partenariat entre égaux",
+   "héritage colonial",
+   "histoire coloniale",
+   "diplomatie avec l'Afrique",
+   "aide en direction de l'Afrique"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’établir la transparence sur la présence militaire française en Afrique en révisant si nécessaire les accords de défense, de sortir de la gouvernance de la Banque des États de l’Afrique centrale et de reconnaître « l’héritage colonial de la France ».",
+    "appuis": [
+     "p98e68d96",
+     "pd556346f",
+     "p5b03c77c"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose une diplomatie avec l’Afrique « basée sur la souveraineté et la coopération entre les peuples », avec l’annulation de dettes qualifiées d’« odieuses » et la révision si nécessaire des accords de défense.",
+    "appuis": [
+     "p12e8296e"
+    ]
+   },
+   "lr": {
+    "texte": "Le programme prévoit de redéployer l’aide au développement en direction de l’Afrique.",
+    "appuis": [
+     "p8781e6d9"
+    ]
+   },
+   "ps-pp": {
+    "texte": "Le programme propose de construire un « partenariat entre égaux » avec l’Afrique et la Méditerranée autour de projets de co-développement.",
+    "appuis": [
+     "p17ba275a"
+    ]
+   }
+  }
+ },
+ {
+  "id": "reforme-du-corps-diplomatique",
+  "nom": "Réforme du corps diplomatique",
+  "variantes": [
+   "réforme de la haute fonction publique",
+   "mise en extinction du corps diplomatique",
+   "réseau diplomatique"
+  ],
+  "categorie": "dispositif juridique",
+  "theme": "europe",
+  "definition": "La réforme de la haute fonction publique, engagée par une ordonnance de juin 2021, a remplacé l’École nationale d’administration par l’Institut national du service public et créé un corps unique d’administrateurs de l’État. Elle a placé en extinction les corps propres aux diplomates (ministres plénipotentiaires et conseillers des affaires étrangères) et le corps préfectoral, leurs membres ayant vocation à rejoindre ce corps interministériel. Cette réforme a suscité en juin 2022 une grève inédite des diplomates. Le réseau diplomatique français reste l’un des plus étendus au monde, mais ses effectifs ont baissé sur longue période.",
+  "enjeux": "Ses critiques estiment qu’elle affaiblit l’expertise et la continuité de la diplomatie, et demandent de rétablir un corps diplomatique et de mettre fin à l’« érosion » du réseau. Ses défenseurs y voient une ouverture des carrières et une meilleure mobilité entre administrations. Le débat recoupe celui du rôle du service européen pour l’action extérieure par rapport aux ambassades nationales.",
+  "reperes": [
+   "Ordonnance du 2 juin 2021 portant réforme de l’encadrement supérieur de la fonction publique de l’État",
+   "Grève des diplomates du 2 juin 2022"
+  ],
+  "liens": [
+   "francophonie",
+   "non-alignement"
+  ],
+  "motifs": [
+   "corps diplomatique",
+   "réseau diplomatique",
+   "diplomatie civile",
+   "corps préfectoral et diplomatique"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose d’« abolir la réforme Macron du corps diplomatique » et de « réhabiliter la diplomatie civile ».",
+    "appuis": [
+     "p0cad9f19"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose d’« abolir la réforme Macron du corps diplomatique » et de stopper l’érosion du réseau diplomatique et « sa mise sous tutelle par l’UE ».",
+    "appuis": [
+     "p158b5014",
+     "pc8d1130c"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de rétablir les corps préfectoral et diplomatique supprimés par la réforme de la haute fonction publique engagée en 2021.",
+    "appuis": [
+     "p8c0c27ae"
+    ]
+   }
+  }
+ },
+ {
+  "id": "non-alignement",
+  "nom": "Non-alignement et puissance d’équilibre",
+  "variantes": [
+   "puissance d’équilibre",
+   "diplomatie indépendante",
+   "altermondialisme",
+   "indépendance nationale"
+  ],
+  "categorie": "doctrine ou courant",
+  "theme": "europe",
+  "definition": "La notion regroupe trois idées voisines mais distinctes. Le non-alignement désigne le refus de s’inscrire durablement dans l’un des blocs de puissances : le mouvement des non-alignés est né de la conférence de Bandung en 1955 et de celle de Belgrade en 1961, réunissant des pays refusant le choix entre les États-Unis et l’Union soviétique. La « puissance d’équilibre » est une formule de la diplomatie française qui désigne un pays membre d’une alliance mais indépendant, cherchant à jouer un rôle de médiateur entre grandes puissances ; elle se réclame de la tradition gaullienne d’indépendance nationale, marquée par la sortie du commandement intégré de l’OTAN en 1966. L’altermondialisme, enfin, est un courant critique de la mondialisation libérale, né à la fin des années 1990, qui cherche d’autres alliances internationales, notamment avec des pays du Sud.",
+  "enjeux": "Ses partisans y voient un moyen pour la France de garder une voix propre entre les États-Unis, la Chine et la Russie, et de jouer un rôle de médiation. Ses critiques estiment que la guerre en Ukraine rend cette posture difficile et qu’elle peut isoler la France de ses alliés européens. Ces formules sont revendiquées par des forces d’orientation très différentes, le RN parlant de « puissance d’équilibre », LFI d’« alliance altermondialiste », qui n’en tirent pas les mêmes conséquences, notamment sur l’OTAN.",
+  "reperes": [
+   "Conférence de Bandung, 1955"
+  ],
+  "liens": [
+   "otan",
+   "mandat-de-l-onu",
+   "institutions-financieres-internationales"
+  ],
+  "motifs": [
+   "puissance d'équilibre",
+   "diplomatie indépendante",
+   "voix indépendante",
+   "altermondialis*",
+   "non-alignement",
+   "grands blocs"
+  ],
+  "positions": {
+   "lfi": {
+    "texte": "Le programme veut une défense autonome pour avoir « une voix indépendante et altermondialiste », et propose la formation d’« une nouvelle alliance altermondialiste ».",
+    "appuis": [
+     "pe1a48abb",
+     "p05e4443b"
+    ]
+   },
+   "rn": {
+    "texte": "Le programme propose de mener une « diplomatie indépendante » et de refaire de la France « une puissance d’équilibre entre les grands blocs ».",
+    "appuis": [
+     "p288194eb",
+     "p0108ca27"
+    ]
+   }
+  }
+ },
+ {
+  "id": "institutions-financieres-internationales",
+  "nom": "FMI, Banque mondiale, OMC et dette des pays du Sud",
+  "variantes": [
+   "institutions de Bretton Woods",
+   "OMC",
+   "BRICS",
+   "dette odieuse",
+   "restructuration des dettes souveraines"
+  ],
+  "categorie": "institution",
+  "theme": "europe",
+  "definition": "Le Fonds monétaire international et la Banque mondiale ont été créés à la conférence de Bretton Woods en 1944, le premier pour la stabilité monétaire et les prêts aux États en difficulté, la seconde pour le financement du développement. L’Organisation mondiale du commerce, créée en 1995, fixe les règles du commerce international et règle les différends entre ses membres. Les BRICS (Brésil, Russie, Inde, Chine, Afrique du Sud, rejoints depuis par d’autres pays) ont fondé une Nouvelle Banque de développement en 2014. La notion de « dette odieuse », formulée dans l’entre-deux-guerres, désigne une dette contractée par un régime sans bénéfice pour sa population, dont le remboursement serait illégitime.",
+  "enjeux": "Une partie des forces politiques demande de réformer ces institutions pour y intégrer le climat et donner plus de poids aux pays du Sud, ou de les quitter au profit d’autres coopérations. Le débat porte aussi sur l’annulation ou la restructuration des dettes des pays en développement, avec la participation des créanciers privés. Les défenseurs de ces institutions y voient des piliers de la stabilité financière mondiale.",
+  "reperes": [
+   "Conférence de Bretton Woods, juillet 1944",
+   "Organisation mondiale du commerce, créée en 1995"
+  ],
+  "liens": [
+   "aide-publique-au-developpement",
+   "non-alignement",
+   "accords-de-libre-echange",
+   "fiscalite-internationale"
+  ],
+  "motifs": [
+   "FMI",
+   "Fonds Monétaire International",
+   "Banque mondiale",
+   "OMC",
+   "Organisation mondiale du commerce",
+   "BRICS",
+   "CNUCED",
+   "dettes illégitimes",
+   "dettes souveraines",
+   "dettes « odieuse »"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de réformer la Banque mondiale et le FMI pour intégrer les risques environnementaux et l’accord de Paris, et de restructurer voire annuler les dettes « illégitimes et insoutenables » en impliquant les créanciers privés.",
+    "appuis": [
+     "pfa6347d1",
+     "pb15799a4"
+    ]
+   },
+   "lfi": {
+    "texte": "Le programme propose de sortir du FMI, de la Banque mondiale et de l’Organisation mondiale du commerce, et d’adhérer à la Nouvelle Banque de développement des BRICS.",
+    "appuis": [
+     "p28259dd6",
+     "p75160bb8",
+     "p3b6b0a23"
+    ]
+   }
+  }
+ },
+ {
+  "id": "extraterritorialite-du-droit-americain",
+  "nom": "Extraterritorialité du droit américain",
+  "variantes": [
+   "lois extraterritoriales",
+   "sanctions secondaires",
+   "règlement de blocage"
+  ],
+  "categorie": "notion juridique",
+  "theme": "europe",
+  "definition": "L’extraterritorialité désigne l’application d’une loi nationale à des personnes ou des actes situés hors du territoire de l’État qui l’a adoptée. Les États-Unis l’utilisent notamment en matière de sanctions économiques, de corruption et de protection des données, au motif d’un lien avec leur territoire, leur monnaie ou leurs technologies. Plusieurs entreprises françaises ont été condamnées à de lourdes amendes, comme BNP Paribas en 2014 pour violation d’embargos américains. L’Union dispose depuis 1996 d’un « règlement de blocage » et, depuis 2023, d’un instrument anti-coercition permettant de riposter à des pressions économiques.",
+  "enjeux": "Une partie des forces politiques demande des mesures de rétorsion automatiques et l’exclusion des équipements et logiciels soumis à une loi extraterritoriale, notamment dans le numérique. D’autres soulignent la dépendance des entreprises européennes au dollar et aux technologies américaines, qui limite l’efficacité de ces ripostes.",
+  "reperes": [
+   "Amende de 8,9 milliards de dollars infligée à BNP Paribas en 2014",
+   "Règlement de blocage européen, 1996"
+  ],
+  "liens": [
+   "protectionnisme",
+   "euro-et-monnaie-unique"
+  ],
+  "motifs": [
+   "extraterritorial*"
+  ],
+  "positions": {
+   "ecologistes": {
+    "texte": "Le programme propose de refuser les équipements et logiciels sur lesquels « pourraient s’appliquer une loi extraterritoriale ».",
+    "appuis": [
+     "pe8f59693"
+    ]
+   },
+   "reconquete": {
+    "texte": "Le programme propose de lutter contre l’extraterritorialité du droit américain par des sanctions commerciales automatiques compensant les amendes infligées aux entreprises françaises et européennes.",
+    "appuis": [
+     "p41ca7f0f"
+    ]
+   }
+  }
+ }
+]
